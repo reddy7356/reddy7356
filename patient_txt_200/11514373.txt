@@ -1,0 +1,322 @@
+===== DISCHARGE NOTE =====
+note_id=11514373-DS-9 | hadm_id=24353866
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+clindamycin / ECG electrodes
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea on exertion 
+ 
+Major Surgical or Invasive Procedure:
+___ - Aortic valve replacement 21 mm ___ 
+___ mechanical valve.  Mitral valve replacement, 27 mm ___. 
+___ ___ mechanical valve.
+ 
+History of Present Illness:
+Mr. ___ is a very nice ___ year old man with a history of 
+aortic stenosis, hypertension, mitral stenosis, and current 
+tobacco use. He has been followed closely with serial 
+echocardiograms which have demonstrated increased valve 
+gradients. His most recent echocardiogram in ___ demonstrated 
+severe aortic stenosis with peak and mean gradients of 90 mmHg
+and 50 mmHg, respectively. There was also severe (4+) aortic 
+insufficiency. There was moderate mitral annular calcification 
+with moderate functional mitral stenosis. Given the progression 
+of his valvular disease he met with Dr. ___ in clinic and 
+agreed to proceed with surgery. Mr. ___ continues to deny 
+any significant cardiac symptoms other than mild dyspnea on 
+exertion with walking up the stairs. He denied syncope, 
+dizziness, lightheadedness, shortness of breath at rest, chest 
+pain, palpitations, orthopnea, paroxysmal nocturnal dyspnea, or 
+lower extremity edema. He quit smoking approximately one month 
+ago with nicotine patches. His PCP prescribed ___ for preop 
+anxiety but he has not used it. He presented today for cardiac 
+catheterization and PAT completion prior to valve surgery in the 
+AM. 
+ 
+Past Medical History:
+Anal Fissure
+Aortic Insufficiency
+Aortic Stenosis
+Hypertension
+Mitral Stenosis
+Osteoarthritis (right hip)
+Tobacco Abuse
+
+ 
+Social History:
+___
+Family History:
+Father - died at age ___ of likely MI, full details unknown
+Mother - died of a stroke
+ 
+Physical Exam:
+Admission Physical Exam:
+___ ___ Temp: 98.3 PO BP: 154/74 HR: 67 RR: 18 O2 sat: 97%
+O2 delivery: RA Dyspnea: 1 RASS: 0 Pain Score: ___ 
+Height: 62 in  Weight: 181 lbs   BSA: 1.83 m2
+
+General: Pleasant man, WDWN, NAD
+Skin: Warm, dry, intact
+HEENT: NCAT, PERRL, EOMI, OP benign 
+Neck:  Supple, full ROM 
+Chest: Lungs clear bilaterally  
+Heart: Regular rate and rhythm, III/VI SEM at LUSB and II/VI 
+diastolic murmur
+Abdomen: Normal BS, soft, non-distended, non-tender
+Extremities: Warm, well-perfused, trace edema
+Varicosities: superficial 
+Neuro: Grossly intact 
+Pulses:
+DP           Right: 2+  Left: 2+
+___           Right: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+Carotid Bruit: transmitted murmur vs. bruit
+
+Discharge Exam:
+VS: T  97.8  HR 82 SR  BP 107/75   RR 16  O2sat 92% RA
+Wt 85.5 kg  Pre-op Wt 82.1 kg
+
+General: NAD [x]  
+Neurological: A/O x3 [x] non-focal [x] 
+HEENT:  PEERL [x] 
+Cardiovascular: RRR [x]  + mechanical valve click [x]
+Respiratory: CTA w/diminished bases [x].  No resp distress [x]
+GI/Abdomen: Bowel sounds present [x] Soft [x] ND [x] NT [x]
+Extremities: 
+Right Upper extremity   Warm [x]  Edema  0
+Left Upper extremity    Warm [x]  Edema  0
+Right Lower extremity   Warm [x]  Edema trace
+Left Lower extremity    Warm [x]  Edema trace
+Pulses:
+DP             Right: + 1     Left:+1
+___             Right: + 1     Left:+1
+Radial         Right: + 1     Left:+1
+Skin/Wounds: Dry [x] intact [x]
+Sternal: CDI [x] no erythema or drainage [x]
+                 Sternum stable [x]
+
+ 
+Pertinent Results:
+Admission Labs:
+___ 01:30PM   ___ PTT-27.0 ___
+___ 01:30PM   PLT COUNT-255
+___ 01:30PM   WBC-5.9 RBC-4.23* HGB-12.4* HCT-37.4* MCV-88 
+MCH-29.3 MCHC-33.2 RDW-12.6 RDWSD-40.4
+___ 01:30PM   %HbA1c-5.8 eAG-120
+___ 01:30PM   ALBUMIN-4.6 CALCIUM-9.8 PHOSPHATE-3.7 
+MAGNESIUM-2.1
+___ 01:30PM   ALT(SGPT)-26 AST(SGOT)-21 LD(LDH)-222 ALK 
+PHOS-30* TOT BILI-0.5
+___ 01:30PM   GLUCOSE-94 UREA N-17 CREAT-0.8 SODIUM-135 
+POTASSIUM-4.8 CHLORIDE-96 TOTAL CO2-29 ANION GAP-10
+___ 02:08PM URINE  RBC-2 WBC-<1 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 02:08PM URINE  BLOOD-TR* NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 02:08PM URINE  COLOR-Straw APPEAR-Clear SP ___
+
+Discharge Labs:
+___ 04:43AM BLOOD WBC-8.9 RBC-3.16* Hgb-9.3* Hct-28.7* 
+MCV-91 MCH-29.4 MCHC-32.4 RDW-13.1 RDWSD-43.2 Plt ___
+___ 04:43AM BLOOD ___ PTT-75.6* ___
+___ 04:43AM BLOOD Glucose-150* UreaN-14 Creat-0.8 Na-137 
+K-4.4 Cl-94* HCO3-31 AnGap-12
+
+Cardiac Catheterization ___
+right dominant.
+LMCA: normal 
+LAD: large caliber vessel; no stenosis 
+LCx: large caliber vessel; no stenosis 
+RCA: large caliber vessel; no stenosis 
+Findings
+• Elevated left heart filling pressure.
+• No angiographically apparent coronary artery disease.
+• Mean aortic gradient of 56 mmHg
+
+Transesophageal Echocardiogram ___
+Pre-bypass:
+The left atrium is mildly dilated. No spontaneous echo contrast 
+is seen in the left atrial appendage. No thrombus is seen in the 
+left atrial appendage. No atrial septal defect is seen by 2D or 
+color Doppler. There is moderate symmetric left ventricular 
+hypertrophy. The left ventricular cavity size is normal. Overall 
+left ventricular systolic function is normal (LVEF>55%). Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic valve is bicuspid. The aortic valve leaflets are severely 
+thickened/deformed. There is severe aortic valve stenosis (valve 
+area <1.0cm2). Severe (4+) aortic regurgitation is seen. The 
+mitral valve shows characteristic rheumatic deformity. There is 
+moderate (by PHT/mean) to severe (by PISA) valvular mitral 
+stenosis. Moderate (2+) mitral regurgitation is seen. There is 
+thickening and calcification of both mitral valves, especially 
+the A2 scallop. There is no pericardial effusion. Intrinsic LV 
+function may be more depressed given the valvular lesions above.
+Post-bypass:
+The patient is s/p mitral valve replacement and aortic valve 
+replacement and paced on a norepinephrine infusion.
+1) LV function now slightly more depressed in the setting of 
+inotropic support.
+2) There is a well-seated mechanical mitral valve no PVL and 8 
+peak/4 mean gradients.
+3) There is a well-seated mechanical aortic valve no PVL and 22 
+peak/10 mean gradients.
+4) Other valvular function unchanged.
+5) All visualized portions of aorta intact. 
+ 
+Radiology Report CHEST (PORTABLE AP) Study Date of ___ 
+10:02 AM 
+Final Report:    
+Comparison to ___.  In the interval, pre-existing 
+minimal 
+pleural effusions have increased in extent and are now moderate. 
+ The cause moderate bilateral basilar atelectasis.  The size of 
+the cardiac silhouette has decreased.  There are no signs 
+indicative of pulmonary edema.  No pneumonia.  Stable correct 
+alignment of the sternal wires.   
+___, MD, PhD electronically signed ___ 
+11:05 AM 
+ 
+ 
+Brief Hospital Course:
+Admitted 1 day before surgery for cardiac catheterization that 
+reveal no significant coronary disease. He remained 
+hemodynamically stable overnight and was taken to the operating 
+room on ___. He underwent aortic and mitral valve 
+replacements. Please see operative note for full details. In 
+summary he had: Aortic valve replacement 21 mm ___ 
+___ mechanical valve, and Mitral valve replacement, 27 mm ___. 
+___ mechanical valve. He was transfused 
+platlets, FFPs and PRBCs intraoperatively to correct 
+coagulopathy. He tolerated the procedure well and was 
+transferred to the CVICU in stable condition for recovery and 
+invasive monitoring. On the morning of POD1 he weaned from 
+sedation, awoke neurologically intact and was extubated. He was 
+weaned from inotropic and vasopressor support. Beta blocker was 
+initiated and he was diuresed toward his preoperative weight. 
+Coumadin was initiated for anticoagulation of dual mechanical 
+valves. He had acute blood loss anemia and was transfused PRBCs. 
+He remained hemodynamically stable and was transferred to the 
+telemetry floor for further recovery.  All tubes, lines, and 
+drains were removed per cardiac surgery protocols without 
+complication. Once on the stepdown floor he worked with nursing 
+and was evaluated by the physical therapy service for assistance 
+with strength and mobility. By the time of discharge on POD 8 he 
+was ambulating freely, the wound was healing, and pain was 
+controlled with oral analgesics. He was discharged home with 
+visiting nurses in good condition with appropriate follow up 
+instructions.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 20 mg PO QPM 
+2. Lisinopril 40 mg PO DAILY 
+3. LORazepam 0.25 mg PO Q4H:PRN anxiety 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+5. Aspirin 81 mg PO DAILY 
+6. Nicotine Patch 21 mg/day TD DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H  
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0 
+3.  Furosemide 20 mg PO BID 
+BID x7days ___ 
+daily x7 days 
+RX *furosemide 20 mg 1 tablet(s) by mouth twice a day Disp #*21 
+Tablet Refills:*0 
+4.  Metoprolol Tartrate 75 mg PO TID 
+RX *metoprolol tartrate 75 mg 1 tablet(s) by mouth every eight 
+(8) hours Disp #*90 Tablet Refills:*1 
+5.  Potassium Chloride 20 mEq PO Q12H 
+BID x7 days ___
+daily x7 days 
+RX *potassium chloride 20 mEq 1 tablet(s) by mouth twice a day 
+Disp #*21 Tablet Refills:*0 
+6.  Ranitidine 150 mg PO BID 
+RX *ranitidine HCl 150 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*1 
+7.  Senna 17.2 mg PO DAILY 
+RX *sennosides [senna] 8.6 mg 2 tabs by mouth once a day Disp 
+#*60 Tablet Refills:*0 
+8.  TraMADol 50 mg PO Q4H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *tramadol 50 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*75 Tablet Refills:*0 
+9.  ___  MD to order daily dose PO DAILY 
+RX *warfarin [Coumadin] 2 mg as directed tablet(s) by mouth once 
+a day Disp #*100 Tablet Refills:*0 
+10.  Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*1 
+11.  Aspirin 81 mg PO DAILY  
+12.  Atorvastatin 20 mg PO QPM  
+13.  Fluocinolone Acetonide 0.01% Cream 1 Appl TP BID:PRN 
+perineal irritation  
+14.  LORazepam 0.25 mg PO Q4H:PRN anxiety  
+15.  Nicotine Patch 21 mg/day TD DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Primary:
+Rheumatic Heart Disease
+Aortic Insufficiency
+Aortic Stenosis s/p AVR
+Mitral Regurgitation s/p MVR
+Acute Blood Loss Anemia
+
+Secondary:
+Anal Fissure
+Hypertension
+Osteoarthritis (right hip)
+Pulmonary Hypertension 
+Tobacco Abuse
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+Edema-trace bilat ___
+
+ 
+Discharge Instructions:
+Please shower daily -wash incisions gently with mild soap, no 
+baths or swimming, look at your incisions daily
+Please - NO lotion, cream, powder or ointment to incisions
+Each morning you should weigh yourself and ___ in the evening 
+take your temperature, these should be written down on the chart
+No driving for one month or while taking narcotics
+Clearance to drive will be discussed at follow up appointment 
+with surgeon
+No lifting more than 10 pounds for 10 weeks
+Encourage full shoulder range of motion, unless otherwise 
+specified
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

@@ -1,0 +1,348 @@
+===== DISCHARGE NOTE =====
+note_id=10933150-DS-13 | hadm_id=28598782
+
+ 
+Name:  ___        Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Cipro
+ 
+Attending: ___.
+ 
+Chief Complaint:
+weakness/hypotension
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Ms ___ is a ___ year female with history of 
+___ disease who presents with diffuse weakness, fatigue 
+and dysarthria.  
+
+Reports memory of this AM is a little hazy; had difficulty 
+waking up, speach therapist came by for the first time to 
+evaluate patient, noted her to be very lethargic and acutely 
+increased stuttering/sluring of speach from already abnormal 
+baseline, OT who regularly sees her came by soon after, 
+concerned, took her BP and noted it to be 64/40, and so EMS was 
+called.
+
+Patient reports progressive fatigue over the past several months 
+as well as worsened speach (decreased volume, increased 
+stuttering/sluring of words). She has also had several recent 
+admissions ___, ___) for labile BPs 
+(either hypotensive to a similar degree, or hypertensive with 
+SBPs in 200s) and fatigue/lethargy, similar to today. Somewhat 
+recently was started on fludricortisone by someone (unsure if it 
+was PCP or if it was started during a recent hospitalization) to 
+help with her labile blood pressures. Unsure if she carries a 
+diagnosis of adrenal insufficiency. 
+
+Denies specific infectious symptoms; no fevers/chills, no URI 
+symptoms, no h/a, no vision changes, no cough, no CP, no SOB, no 
+abd pain, no N/V/D, no dysuria. Does report various intermittent 
+joint pains over the past few weeks (her left shoulder, left 
+elbow, right foot) of brief duration. Also notes "bruising" over 
+hands/feet which is transitent - unable to describe this skin 
+finding further. Has been taking good PO, reports conciously 
+trying to stay hydrated as she has been told she was dehydrated 
+on previous admissions. 
+
+Still feels very weak despite IV fluids and improvement in her 
+BP. Some slight low back pain, but denies chest pain, shortness 
+of breath, abdominal pain, dysuria, fever, cough. 
+
+EMS vitals: Pulse:  90   BP:  110/60   RR:  16   SpO2%:  95 RA. 
+In the ED, initial VS were 97.6 93 104/55 20 99% RA. Received 1L 
+NS and caradopa/levadopa. Cultues sent. CXR unremarkable. 
+Patient had difficulty urinating, required straight cathing. 
+Transfer VS were 93 166/95 18 98% RA. 
+
+On arrival to the floor, patient reports feeling fatigued, but 
+otherwise back to her baseline. Reports mental status has 
+cleared, speach is back to her previous baseline.
+  
+ 
+Past Medical History:
+- ___ diagnosed ___ yrs ago; presented with gait ataxia 
+and right sided tremor
+- h/o gout
+- isolated seizure last ___, cause unknown
+- HTN
+- Recurrent UTIs and urinary retention
+- Osteoarthritis s/p L knee replacement
+- ? recent diagnosis of adrenal insufficiency 
+- Seasonal allergy
+- Anxiety
+- s/p appendectomy at age ___ 
+ 
+Social History:
+___
+Family History:
+- several second cousins with ___
+- "lots of cancer"
+- no heart disease
+ 
+Physical Exam:
+ADMISSION EXAM: 
+===========
+VS - afebrile 175/94 98 20 100% RA 
+unable to obtain orthostatics as pt unable to stand (not 
+positive going from lying to sitting) 
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, midly injected sclera, pink 
+conjunctiva, patent nares, dry MM, mild facial asymmetry 
+CARDIAC: RRR, S1/S2, ___ SEM at RUSB
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: WWP  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact, ___ strenght in all four extremeties, 
+diffuse resting tremor (in all extremeties and face), soft voice 
+with intermittent stutering, ridgidity with passive movement    
+SKIN: warm and well perfused, errythematous face, blotchy 
+blanching errythema over arms/chest, ___ nails   
+
+DISCHARGE EXAM: 
+================
+VS - 98.2 149/97 18 100% RA  
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, midly injected sclera, pink 
+conjunctiva, patent nares, dry MM, mild facial asymmetry 
+CARDIAC: RRR, S1/S2, ___ SEM at RUSB
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: WWP  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact, ___ strenght in all four extremeties, 
+diffuse resting tremor (in all extremeties and face), soft voice 
+with intermittent stutering, ridgidity with passive movement    
+SKIN: warm and well perfused, errythematous face, blotchy 
+blanching errythema over arms/chest, ___ nails 
+ 
+Pertinent Results:
+ADMISSION LABS: 
+==========
+___ 01:53PM   LACTATE-2.1*
+___ 01:51PM   GLUCOSE-114* UREA N-25* CREAT-0.9 SODIUM-143 
+POTASSIUM-4.0 CHLORIDE-104 TOTAL CO2-29 ANION GAP-14
+___ 01:51PM   CK-MB-3 cTropnT-<0.01
+___ 01:51PM   WBC-4.7# RBC-4.34 HGB-13.0 HCT-40.1 MCV-92 
+MCH-30.0 MCHC-32.5 RDW-12.9
+___ 01:51PM   NEUTS-56.4 ___ MONOS-8.4 EOS-10.1* 
+BASOS-2.8*
+___ 01:51PM   PLT COUNT-298
+___ 01:51PM   ___ PTT-31.9 ___
+___ 01:51PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 01:51PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+
+IMAGING: 
+======
+CXR ___: Patient is rotated somewhat to the left.  There is 
+minor left basilar atelectasis.  There is possible minimal 
+vascular congestion.  No focal consolidation, pleural effusion, 
+or evidence of pneumothorax is seen.  Cardiac and mediastinal 
+silhouettes are unremarkable.
+
+MICROBIOLOGY: 
+==========
+___ Urine Culture: <10,000 colonies
+___ Blood Culture: NGTD, pending
+
+DISCHARGE LABS: 
+==============
+___ 06:00AM BLOOD WBC-5.4 RBC-4.19* Hgb-12.4 Hct-38.6 
+MCV-92 MCH-29.6 MCHC-32.1 RDW-12.5 Plt ___
+___ 06:00AM BLOOD Glucose-82 UreaN-22* Creat-0.7 Na-143 
+K-3.7 Cl-106 HCO3-31 AnGap-10
+___ 06:00AM BLOOD TSH-1.5
+___ 06:00AM BLOOD Cortsol-7.3
+___ 08:44AM BLOOD Lactate-1.7
+___ 06:00AM BLOOD CK-MB-2 cTropnT-0.01
+ 
+Brief Hospital Course:
+Ms ___ is a ___ year female with history of 
+___ disease who presents with diffuse weakness, fatigue 
+and dysarthria.
+
+ACTIVE ISSUES: 
+=========
+# Weakness/Lethargy/Dysarthria/Hypotension: Suspect general 
+trend of patient's symptoms over past months to weeks represents 
+a progression of her PD (see below) with dysautonomia. Suspect 
+symptoms yesterday AM could all be consistent with PD, though 
+difficult to explain acute worsening/improvement. Could be 
+medication related (patient uncertain if she ___ have missed a 
+few meds that AM). Could represent underlying infection 
+exacerbating PD symptoms, though infectious work up during this 
+hospitalization was negative and patient had no localizing 
+symptoms. Acute confusion/dysarthria concerning also for 
+TIA/Stroke/Siezure, but event was witnessed, and no focal 
+neurological deficits other than dysarthria was reported and no 
+seizure like-activity was noted. Did not report CP, but ACS 
+could cause hypotension (though presumably with other symptoms 
+of heart failure); ACS rule out was negative. This diffuse 
+weakness/fatigue could also represent another systemic process 
+altogether (though this is highly unlikely in the setting of a 
+pre-exisitng systemic disease which readily explains her 
+symtpoms); hypothyroidism (TSH normal), adrenal insufficiency 
+(AM cortisol normal), myopathy or myasthenia ___ (though 
+acutally surprsingly strong on strenght testing). During 
+hosptialization patient continued to endorse fatigue which she 
+had been experiencing for past several weeks, but the symptoms 
+which brought her into the hospital had resolved and did not 
+recur. 
+ 
+# ___: Diagnosed ___ yrs ago. Presented with gait ataxia 
+and tremor, current decline has been complicated with 
+dysautonomia. Could also be consistent with Multiple Systems 
+Atrophy (MSA). Symptoms that suggest MSA: urinary issues, 
+dysautonomia, Raynaud's (which I suspect ___ be this transient 
+"bruising" of her hands she has been describing). Outpatient 
+neurologist seems to also have suspicion for MSA (suggesting 
+outpatient DATscan to add in differentiating the two). Overall, 
+patient's current presentation seems most consistent with a 
+gradual decline in her PD (or possibly MSA), worsened over past 
+several months. Given this, patient would probably benefit most 
+from close follow up with existing neurologist for evaluation of 
+MSA vs PD as well as adjustment of medications. For this reason, 
+inpatient neurology consult was deferred. Patient was was also 
+evaluated by ___ who cleared patient for home ___ with current 
+high level of services. Continued home amantidine, 
+Carbidopa-Levodopa, Tasmar and rasagiline. Left message with Dr 
+___ at ___ (outpatient neurologist) requesting an earlier 
+appointment date for patient (currently scheduled for ___, 
+unable to schedule any sooner or reach the doctor).   
+
+CHRONIC ISSUES: 
+===========
+# Urinary Retention: normally doesn't straight cath. presumably 
+___ PD. Follows with outside urologist. Suspect urinary 
+retention in ED was from missing AM bladder meds. No further 
+issues during this hosptialization. Continued home bethanechol 
+and tamsulosin. Of note, tamsulosin ___ contribute to episodes 
+of hypotension; would recommend reevaluation with outpatient 
+urologist. Continued home nitrofurantoin for prophylaxis of 
+chronic UTIs in setting of urinary retention.
+
+# h/o isolated seizure: unclear etiology, unknown work up 
+(preformed at OSH). Continued home keppra. 
+
+# OA: continued home celebrex.
+ 
+# Seasonal Allergies: continued home loratadine and fluticasone 
+nasal spray. 
+
+# Anxiety: continued home clonazepam. Held home venlafaxine and 
+sertraline given risk of seratonin syndrome with rasagiline. 
+  
+TRANSITIONAL ISSUES: 
+====================
+- blood pressure surveillance by ___ advised
+- to follow up with neurologist for further management of 
+___ (versus Multiple Systems Atrophy (MSA)) and 
+associated dysautonomia, ataxia
+- consider d/c'ing tamsulosin as outpatient in consultation with 
+urologist, as could be contributing to issues of hypotension
+- combination of rasagiline and venlafaxine puts patient at high 
+risk of seratonin syndrome; would recommend discontinuation of 
+venlafaxine for now, with re-assessment of these two medications 
+by outpatient prescriber
+- further medication reconciliation advised in the outpatient 
+setting, given difficulty reconciling medications with absolute 
+certainty following discussion with patient and call to pharmacy
+- CODE: FULL 
+ 
+Medications on Admission:
+The Preadmission Medication list ___ be inaccurate and requires 
+futher investigation.
+1. Amantadine 100 mg PO BID 
+2. Bethanechol 25 mg PO TID 
+3. Loratadine 10 mg PO DAILY 
+4. ClonazePAM 0.5 mg PO BID:PRN anxiety 
+5. Docusate Sodium 100 mg PO QHS 
+6. Fludrocortisone Acetate 0.2 mg PO DAILY 
+7. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+8. LeVETiracetam 500 mg PO BID 
+9. Nitrofurantoin Monohyd (MacroBID) 100 mg PO DAILY 
+10. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+11. Multivitamins 1 TAB PO DAILY 
+12. Pantoprazole 40 mg PO Q12H 
+13. rasagiline 1 mg oral daily 
+14. Carbidopa-Levodopa (___) 2.5 TAB PO 0700, 1000, 1300, 
+___ 
+15. Carbidopa-Levodopa (___) 2 TAB PO 1600 
+16. Tamsulosin 0.4 mg PO HS 
+17. Tasmar (tolcapone) 100 mg oral QID 
+18. Venlafaxine XR 225 mg PO DAILY 
+19. CeleBREX (celecoxib) 200 mg oral TID 
+20. Carbidopa-Levodopa CR (50-200) 1 TAB PO QHS 
+21. Sertraline 50 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Amantadine 100 mg PO BID 
+2. Bethanechol 25 mg PO TID 
+3. Carbidopa-Levodopa (___) 2 TAB PO 1600 
+4. Carbidopa-Levodopa (___) 2.5 TAB PO 0700, 1000, 1300, 
+___ 
+5. Carbidopa-Levodopa CR (50-200) 1 TAB PO QHS 
+6. CeleBREX (celecoxib) 200 mg oral TID 
+7. ClonazePAM 0.5 mg PO BID:PRN anxiety 
+8. Docusate Sodium 100 mg PO QHS 
+9. Fludrocortisone Acetate 0.2 mg PO DAILY 
+10. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+11. LeVETiracetam 500 mg PO BID 
+12. Loratadine 10 mg PO DAILY 
+13. Multivitamins 1 TAB PO DAILY 
+14. Nitrofurantoin Monohyd (MacroBID) 100 mg PO DAILY 
+15. Pantoprazole 40 mg PO Q12H 
+16. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+17. rasagiline 1 mg oral daily 
+18. Tamsulosin 0.4 mg PO HS 
+19. Tasmar (tolcapone) 100 mg ORAL QID 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+# PRIMARY:
+- ___ Diease with Dysautonomia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear ___, 
+
+It was a pleasure taking care of you at the ___ 
+___. You came in for an episode of low 
+blood pressure and confusion. It seems that your ___ 
+Diease has been worsening over the past several months, and we 
+think this most likely explains your sypmtoms. You were 
+evaluated by ___, with home ___ recommended.
+ 
+Followup Instructions:
+___

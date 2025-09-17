@@ -1,0 +1,702 @@
+{
+  "keyword_analysis": {
+    "total_patients": 20,
+    "total_keywords": 17,
+    "keyword_matches": {
+      "angina": {
+        "total_matches": 17,
+        "patients_with_matches": [
+          "10019957",
+          "10199560",
+          "10201253",
+          "10207476"
+        ],
+        "match_count": 17
+      },
+      "cardiomyopathy": {
+        "total_matches": 5,
+        "patients_with_matches": [
+          "10060607",
+          "10128085"
+        ],
+        "match_count": 5
+      },
+      "cerebrovascular and peripheral vascular disease": {
+        "total_matches": 0,
+        "patients_with_matches": [],
+        "match_count": 0
+      },
+      "chest pain": {
+        "total_matches": 70,
+        "patients_with_matches": [
+          "10019957",
+          "10060607",
+          "10081067",
+          "10101287",
+          "10106057",
+          "10123515",
+          "10142844",
+          "10150567",
+          "10199560",
+          "10201253",
+          "10201778",
+          "10207476"
+        ],
+        "match_count": 70
+      },
+      "congestive heart failure": {
+        "total_matches": 4,
+        "patients_with_matches": [
+          "10199560",
+          "10207476"
+        ],
+        "match_count": 4
+      },
+      "coronary heart disease": {
+        "total_matches": 0,
+        "patients_with_matches": [],
+        "match_count": 0
+      },
+      "current heart murmur": {
+        "total_matches": 0,
+        "patients_with_matches": [],
+        "match_count": 0
+      },
+      "defibrillator": {
+        "total_matches": 0,
+        "patients_with_matches": [],
+        "match_count": 0
+      },
+      "dysrhythmias": {
+        "total_matches": 0,
+        "patients_with_matches": [],
+        "match_count": 0
+      },
+      "irregular heart beat": {
+        "total_matches": 3,
+        "patients_with_matches": [
+          "10207476"
+        ],
+        "match_count": 3
+      },
+      "moderate to severe valvular disease": {
+        "total_matches": 0,
+        "patients_with_matches": [],
+        "match_count": 0
+      },
+      "myocardial infarction within 6 months": {
+        "total_matches": 0,
+        "patients_with_matches": [],
+        "match_count": 0
+      },
+      "pacemaker": {
+        "total_matches": 1,
+        "patients_with_matches": [
+          "10201253"
+        ],
+        "match_count": 1
+      },
+      "rheumatic fever": {
+        "total_matches": 0,
+        "patients_with_matches": [],
+        "match_count": 0
+      },
+      "significant acquired or congenital heart disease": {
+        "total_matches": 0,
+        "patients_with_matches": [],
+        "match_count": 0
+      },
+      "syncope": {
+        "total_matches": 24,
+        "patients_with_matches": [
+          "10019957",
+          "10106057",
+          "10142844",
+          "10207476"
+        ],
+        "match_count": 24
+      },
+      "uncontrolled hypertension": {
+        "total_matches": 0,
+        "patients_with_matches": [],
+        "match_count": 0
+      }
+    },
+    "patient_keywords": {
+      "10019957": {
+        "keywords_found": [
+          {
+            "keyword": "angina",
+            "count": 11
+          },
+          {
+            "keyword": "chest pain",
+            "count": 7
+          },
+          {
+            "keyword": "syncope",
+            "count": 2
+          }
+        ],
+        "total_matches": 20
+      },
+      "10023771": {
+        "keywords_found": [],
+        "total_matches": 0
+      },
+      "10026161": {
+        "keywords_found": [],
+        "total_matches": 0
+      },
+      "10060607": {
+        "keywords_found": [
+          {
+            "keyword": "cardiomyopathy",
+            "count": 1
+          },
+          {
+            "keyword": "chest pain",
+            "count": 1
+          }
+        ],
+        "total_matches": 2
+      },
+      "10066099": {
+        "keywords_found": [],
+        "total_matches": 0
+      },
+      "10081067": {
+        "keywords_found": [
+          {
+            "keyword": "chest pain",
+            "count": 1
+          }
+        ],
+        "total_matches": 1
+      },
+      "10095570": {
+        "keywords_found": [],
+        "total_matches": 0
+      },
+      "10101287": {
+        "keywords_found": [
+          {
+            "keyword": "chest pain",
+            "count": 2
+          }
+        ],
+        "total_matches": 2
+      },
+      "10106057": {
+        "keywords_found": [
+          {
+            "keyword": "chest pain",
+            "count": 3
+          },
+          {
+            "keyword": "syncope",
+            "count": 2
+          }
+        ],
+        "total_matches": 5
+      },
+      "10123515": {
+        "keywords_found": [
+          {
+            "keyword": "chest pain",
+            "count": 1
+          }
+        ],
+        "total_matches": 1
+      },
+      "10128085": {
+        "keywords_found": [
+          {
+            "keyword": "cardiomyopathy",
+            "count": 4
+          }
+        ],
+        "total_matches": 4
+      },
+      "10142844": {
+        "keywords_found": [
+          {
+            "keyword": "chest pain",
+            "count": 2
+          },
+          {
+            "keyword": "syncope",
+            "count": 16
+          }
+        ],
+        "total_matches": 18
+      },
+      "10150567": {
+        "keywords_found": [
+          {
+            "keyword": "chest pain",
+            "count": 1
+          }
+        ],
+        "total_matches": 1
+      },
+      "10199560": {
+        "keywords_found": [
+          {
+            "keyword": "angina",
+            "count": 2
+          },
+          {
+            "keyword": "chest pain",
+            "count": 11
+          },
+          {
+            "keyword": "congestive heart failure",
+            "count": 3
+          }
+        ],
+        "total_matches": 16
+      },
+      "10201253": {
+        "keywords_found": [
+          {
+            "keyword": "angina",
+            "count": 1
+          },
+          {
+            "keyword": "chest pain",
+            "count": 11
+          },
+          {
+            "keyword": "pacemaker",
+            "count": 1
+          }
+        ],
+        "total_matches": 13
+      },
+      "10201778": {
+        "keywords_found": [
+          {
+            "keyword": "chest pain",
+            "count": 1
+          }
+        ],
+        "total_matches": 1
+      },
+      "10205929": {
+        "keywords_found": [],
+        "total_matches": 0
+      },
+      "10207476": {
+        "keywords_found": [
+          {
+            "keyword": "angina",
+            "count": 3
+          },
+          {
+            "keyword": "chest pain",
+            "count": 29
+          },
+          {
+            "keyword": "congestive heart failure",
+            "count": 1
+          },
+          {
+            "keyword": "irregular heart beat",
+            "count": 3
+          },
+          {
+            "keyword": "syncope",
+            "count": 4
+          }
+        ],
+        "total_matches": 40
+      },
+      "10208153": {
+        "keywords_found": [],
+        "total_matches": 0
+      },
+      "10212003": {
+        "keywords_found": [],
+        "total_matches": 0
+      }
+    },
+    "category_analysis": {
+      "cardiovascular_conditions": {
+        "total_matches": 9,
+        "patients_with_matches": 4,
+        "keywords_found": [
+          "cardiomyopathy",
+          "congestive heart failure"
+        ]
+      },
+      "symptoms": {
+        "total_matches": 114,
+        "patients_with_matches": 12,
+        "keywords_found": [
+          "angina",
+          "chest pain",
+          "syncope",
+          "irregular heart beat"
+        ]
+      },
+      "acute_events": {
+        "total_matches": 0,
+        "patients_with_matches": 0,
+        "keywords_found": []
+      },
+      "risk_factors": {
+        "total_matches": 0,
+        "patients_with_matches": 0,
+        "keywords_found": []
+      },
+      "complications": {
+        "total_matches": 0,
+        "patients_with_matches": 0,
+        "keywords_found": []
+      },
+      "devices": {
+        "total_matches": 1,
+        "patients_with_matches": 1,
+        "keywords_found": [
+          "pacemaker"
+        ]
+      }
+    }
+  },
+  "rag_analysis": {
+    "queries_tested": 7,
+    "query_results": {
+      "What heart conditions are mentioned?": {
+        "answer": "According to the case report, the patient has a history of infiltrating ductal carcinoma of the breast with lytic metastases to the sacroiliac region.",
+        "kg_insights": {
+          "concepts_found": [],
+          "relationships": [],
+          "related_concepts": [],
+          "categories": []
+        },
+        "success": true
+      },
+      "Are there any cardiovascular symptoms?": {
+        "answer": "Based on the medical case report, here's what I found regarding 'Are there any cardiovascular symptoms?': ===== DISCHARGE NOTE =====\nnote_id=10019957-DS-18 | hadm_id=28761725\n\n \nName:  ___                 Unit No:   ___\n \nAdmission Date:  ___              Discharge Date:   ___\n \nDate of Birth:  ___       ...",
+        "kg_insights": {
+          "concepts_found": [],
+          "relationships": [],
+          "related_concepts": [],
+          "categories": []
+        },
+        "success": true
+      },
+      "What devices are used for heart conditions?": {
+        "answer": "According to the case report, the patient has a history of infiltrating ductal carcinoma of the breast with lytic metastases to the sacroiliac region.",
+        "kg_insights": {
+          "concepts_found": [],
+          "relationships": [],
+          "related_concepts": [],
+          "categories": []
+        },
+        "success": true
+      },
+      "What are the symptoms related to heart disease?": {
+        "answer": "Based on the medical case report, here's what I found regarding 'What are the symptoms related to heart disease?': ===== DISCHARGE NOTE =====\nnote_id=10019957-DS-18 | hadm_id=28761725\n\n \nName:  ___                 Unit No:   ___\n \nAdmission Date:  ___              Discharge Date:   ___\n \nDate of Birth:  ___       ...\n\n🔍 **Knowledge Graph Insights:**\n**Related Medical Concepts:** cardiovascular disease, coronary heart disease\n**Medical Relationships Found:**\n• CAUSES: angina\n• CAUSES: chest pain\n• ASSOCIATED_WITH: significant acquired or congenital heart disease\n**Related Conditions:** angina, chest pain, significant acquired or congenital heart disease",
+        "kg_insights": {
+          "concepts_found": [
+            "cardiovascular disease",
+            "coronary heart disease"
+          ],
+          "relationships": [
+            {
+              "type": "CAUSES",
+              "direction": "outgoing",
+              "related_concept": "angina"
+            },
+            {
+              "type": "CAUSES",
+              "direction": "outgoing",
+              "related_concept": "chest pain"
+            },
+            {
+              "type": "ASSOCIATED_WITH",
+              "direction": "incoming",
+              "related_concept": "significant acquired or congenital heart disease"
+            }
+          ],
+          "related_concepts": [
+            {
+              "concept": "angina",
+              "depth": 1,
+              "relationship_path": [
+                "CAUSES"
+              ]
+            },
+            {
+              "concept": "chest pain",
+              "depth": 1,
+              "relationship_path": [
+                "CAUSES"
+              ]
+            },
+            {
+              "concept": "significant acquired or congenital heart disease",
+              "depth": 1,
+              "relationship_path": [
+                "ASSOCIATED_WITH"
+              ]
+            },
+            {
+              "concept": "angina",
+              "depth": 2,
+              "relationship_path": [
+                "CAUSES",
+                "ASSOCIATED_WITH"
+              ]
+            },
+            {
+              "concept": "cardiomyopathy",
+              "depth": 2,
+              "relationship_path": [
+                "BELONGS_TO",
+                "BELONGS_TO"
+              ]
+            },
+            {
+              "concept": "chest pain",
+              "depth": 2,
+              "relationship_path": [
+                "CAUSES",
+                "ASSOCIATED_WITH"
+              ]
+            },
+            {
+              "concept": "congestive heart failure",
+              "depth": 2,
+              "relationship_path": [
+                "BELONGS_TO",
+                "BELONGS_TO"
+              ]
+            },
+            {
+              "concept": "moderate to severe valvular disease",
+              "depth": 2,
+              "relationship_path": [
+                "BELONGS_TO",
+                "BELONGS_TO"
+              ]
+            },
+            {
+              "concept": "significant acquired or congenital heart disease",
+              "depth": 2,
+              "relationship_path": [
+                "BELONGS_TO",
+                "BELONGS_TO"
+              ]
+            }
+          ],
+          "categories": [
+            "cardiovascular_conditions"
+          ]
+        },
+        "success": true
+      },
+      "Tell me about chest pain and related conditions": {
+        "answer": "According to the case report, the patient has a history of infiltrating ductal carcinoma of the breast with lytic metastases to the sacroiliac region.\n\n🔍 **Knowledge Graph Insights:**\n**Related Medical Concepts:** chest discomfort, chest pain, angina, thoracic pain\n**Medical Relationships Found:**\n• ASSOCIATED_WITH: angina\n• CAUSES: coronary heart disease\n• ASSOCIATED_WITH: chest pain\n**Related Conditions:** angina, coronary heart disease, angina",
+        "kg_insights": {
+          "concepts_found": [
+            "chest discomfort",
+            "chest pain",
+            "angina",
+            "thoracic pain"
+          ],
+          "relationships": [
+            {
+              "type": "ASSOCIATED_WITH",
+              "direction": "outgoing",
+              "related_concept": "angina"
+            },
+            {
+              "type": "CAUSES",
+              "direction": "incoming",
+              "related_concept": "coronary heart disease"
+            },
+            {
+              "type": "ASSOCIATED_WITH",
+              "direction": "incoming",
+              "related_concept": "chest pain"
+            },
+            {
+              "type": "CAUSES",
+              "direction": "incoming",
+              "related_concept": "coronary heart disease"
+            }
+          ],
+          "related_concepts": [
+            {
+              "concept": "angina",
+              "depth": 1,
+              "relationship_path": [
+                "ASSOCIATED_WITH"
+              ]
+            },
+            {
+              "concept": "coronary heart disease",
+              "depth": 1,
+              "relationship_path": [
+                "CAUSES"
+              ]
+            },
+            {
+              "concept": "angina",
+              "depth": 2,
+              "relationship_path": [
+                "BELONGS_TO",
+                "BELONGS_TO"
+              ]
+            },
+            {
+              "concept": "angina",
+              "depth": 2,
+              "relationship_path": [
+                "CAUSES",
+                "CAUSES"
+              ]
+            },
+            {
+              "concept": "coronary heart disease",
+              "depth": 2,
+              "relationship_path": [
+                "ASSOCIATED_WITH",
+                "CAUSES"
+              ]
+            },
+            {
+              "concept": "current heart murmur",
+              "depth": 2,
+              "relationship_path": [
+                "BELONGS_TO",
+                "BELONGS_TO"
+              ]
+            },
+            {
+              "concept": "irregular heart beat",
+              "depth": 2,
+              "relationship_path": [
+                "BELONGS_TO",
+                "BELONGS_TO"
+              ]
+            },
+            {
+              "concept": "significant acquired or congenital heart disease",
+              "depth": 2,
+              "relationship_path": [
+                "CAUSES",
+                "ASSOCIATED_WITH"
+              ]
+            },
+            {
+              "concept": "syncope",
+              "depth": 2,
+              "relationship_path": [
+                "BELONGS_TO",
+                "BELONGS_TO"
+              ]
+            },
+            {
+              "concept": "chest pain",
+              "depth": 1,
+              "relationship_path": [
+                "ASSOCIATED_WITH"
+              ]
+            },
+            {
+              "concept": "coronary heart disease",
+              "depth": 1,
+              "relationship_path": [
+                "CAUSES"
+              ]
+            },
+            {
+              "concept": "chest pain",
+              "depth": 2,
+              "relationship_path": [
+                "BELONGS_TO",
+                "BELONGS_TO"
+              ]
+            },
+            {
+              "concept": "chest pain",
+              "depth": 2,
+              "relationship_path": [
+                "CAUSES",
+                "CAUSES"
+              ]
+            },
+            {
+              "concept": "coronary heart disease",
+              "depth": 2,
+              "relationship_path": [
+                "ASSOCIATED_WITH",
+                "CAUSES"
+              ]
+            },
+            {
+              "concept": "current heart murmur",
+              "depth": 2,
+              "relationship_path": [
+                "BELONGS_TO",
+                "BELONGS_TO"
+              ]
+            },
+            {
+              "concept": "irregular heart beat",
+              "depth": 2,
+              "relationship_path": [
+                "BELONGS_TO",
+                "BELONGS_TO"
+              ]
+            },
+            {
+              "concept": "significant acquired or congenital heart disease",
+              "depth": 2,
+              "relationship_path": [
+                "CAUSES",
+                "ASSOCIATED_WITH"
+              ]
+            },
+            {
+              "concept": "syncope",
+              "depth": 2,
+              "relationship_path": [
+                "BELONGS_TO",
+                "BELONGS_TO"
+              ]
+            }
+          ],
+          "categories": [
+            "symptoms"
+          ]
+        },
+        "success": true
+      },
+      "What risk factors are present?": {
+        "answer": "Based on the medical case report, here's what I found regarding 'What risk factors are present?': ===== DISCHARGE NOTE =====\nnote_id=10019957-DS-18 | hadm_id=28761725\n\n \nName:  ___                 Unit No:   ___\n \nAdmission Date:  ___              Discharge Date:   ___\n \nDate of Birth:  ___       ...",
+        "kg_insights": {
+          "concepts_found": [],
+          "relationships": [],
+          "related_concepts": [],
+          "categories": []
+        },
+        "success": true
+      },
+      "Are there any complications mentioned?": {
+        "answer": "The patient experienced several complications including respiratory distress, pulmonary edema, ARDS, and potential chemical pneumonitis from the PBSS procedure.",
+        "kg_insights": {
+          "concepts_found": [],
+          "relationships": [],
+          "related_concepts": [],
+          "categories": []
+        },
+        "success": true
+      }
+    }
+  }
+}

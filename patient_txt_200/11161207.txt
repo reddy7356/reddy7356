@@ -1,0 +1,777 @@
+===== DISCHARGE NOTE =====
+note_id=11161207-DS-11 | hadm_id=21071250
+
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+___ / trazodone / Ultram
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Increasing frequency of seizures
+ 
+Major Surgical or Invasive Procedure:
+video EEG
+
+ 
+History of Present Illness:
+Ms ___ is a ___ year old right handed woman with a
+history of primary generalized epilepsy who is presenting with
+increase in seizure frequency.   At age ___ she was experiencing 
+a
+myoclonic jerking in the early morning hours.  A year later when
+she was ___ years old she continued to have more frequent 
+jerking.
+At ___ years of age she had similar jerking of her extremities in
+the morning followed by a generalized seizure and postictal
+phase.  At that time, she was working in the ___ with her
+hands jerking more than usual that morning.  She was given a
+diagnosis of juvenile myoclonic epilepsy; however, there does 
+not
+seem to be episodes of absence seizures that she reports.  She
+started on Depakote.  However, when she was pregnant with her
+son, she was weaned off her medications and soon after delivery
+she had another seizure and was restarted back on medication. 
+Her seizures were controlled on the Depakote for sometime until
+recently.   She describes having a generalized convulsion every 
+1
+to ___ years.   In ___ she had a generalized seizure
+while she was sitting in a car.  After this she was started on
+Lamictal along with the Depakote.  On ___ she had 
+a
+generalized seizure, she fell back and hit her head badly during
+the seizure. During the seizure she had some trouble speaking 
+and
+her words were getting out backwards.  She then began having
+atypical episodes which lead to her lamictal being uptitrated. 
+She had another generalized seizure in ___ which resulted in a
+severe car accident for which she went to ___ rehab.  
+While in rehab they began weaning her off of the depakote and
+onto Lamictal monotherapy.   This decision was based mostly on
+the long term side effects of depakote and weight gain with her
+already difficulties with obstructive sleep apnea.   She had
+another seizure during this transition but it was unclear what
+does she was on at that time.   
+
+Nonetheless she continued to have an increase in not only
+generalized seizures but since being on lamictal monotherapy
+began to develop "auras."  She describes these auras as episodes
+of extreme exhaustion, a 'rush through her whole body'  If she
+did not take ativan when these auras occur she would begin to
+have rhythmic jerking movements of her hands followed by a
+generalized seizure.   Because of this increase in frequency she
+was admitted to the Epilepsy service at ___ from ___ to
+___.  During this admission she reportedly had one
+generalized tonic-clonic seizure, although it was unclear if 
+this
+was captured on EEG as telemetry did not reveal any  seizures.  
+Nonetheless she had multiple push buttons for twitching,
+spaciness, fatigue, all of which generally correlated with brief
+generalized spike/wave and polyspike discharges.   She was
+initiated on clobazam and was titrated up to 10 mg BID and
+discharged home.  
+
+Since that admission she has continued to decline with frequent
+auras and generalized seizures.  She has continued to be 
+titrated
+up on the clobazam up to ___ and remains on lamictal 475 mg
+BID.  
+
+Her current frequency is about 2 per month of the generalized
+tonic clonic seizures lasting about 1 minute and 1 per week of
+the aura.  She also describes worsening of her gait and
+cognition.  She can no longer walk supportive and is very
+emotional.  She states she has had frequent visits with her
+therapist, however she is depressed and anxious because she is
+living in constant fear that she is going to have another
+seizure.  
+She also has sleep apnea, does not use a C-PAP mask and has
+previously not noted sleep apnea as
+a trigger for her seizures.  
+
+ 
+Past Medical History:
+- epilepsy as per HPI, frequent morning myoclonic jerks  
+- insomnia, OSA on CPAP  
+- major depression, no history of SI/HI  
+- chronic pain from an MVA in ___ due to a seizure while
+driving  
+- fibromyalgia  
+- GERD  
+- C-section ___  
+- gallbladder removal in ___
+ 
+Social History:
+___
+Family History:
+Negative for epilepsy or other genetic neurological disorders.  
+ 
+Physical Exam:
+ADMISSION EXAM:
+Physical Exam:
+T 99.4 HR: 72 BP 124/79 RR:16 98% RA 
+General: Awake, cooperative, NAD, tearful
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, no masses or organomegaly noted.
+Extremities:warm and well perfused
+Skin: no rashes or lesions noted.
+.
+Neurologic:
+-Mental Status: Alert, oriented x 3.  Able to relate history 
+with
+mild difficulty, but help from her husband.  She is inattentive
+unable to get the months of the year in reverse and needing
+fairly frequent redirection and re explanation.  It took her
+multiple attempts to register 3 objects.  Language is fluent. 
+There were no paraphasic errors.  Pt. was able to name both high
+and low frequency objects.  Able to read without difficulty. 
+Speech was not dysarthric. Able to follow both midline and
+appendicular commands.
+.
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk.  VFF to confrontation. 
+III, IV, VI: EOMI without nystagmus.  Normal saccades.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+.
+-Motor: Normal bulk, tone throughout. Give away strength with
+poor effort
+-Sensory: no extinction to double simultaneous stimulation.
+-DTRs: 2+ throughout
+-Coordination:  No dysmetria on finger nose finger.
+-Gait: exhaturated fall responce toward chair, very unstable if
+not supported.  
+
+DISCHARGE EXAM:
+Mental status: NAD, anxious with slightly slowed speech and 
+flattened affect, but she does smile and laugh spontaneously 
+during conversation. Speech is fluent with no paraphasic errors 
+and intact prosidy. Awake, alert, attentive, follows commands 
+
+CN: PERRL, EOMI with ___ beats of coarse nystagmus with 
+horizontal end-gaze, no facial movement asymmetry, palate 
+elevates symmetrically, tongue protrudes in the midline.
+Motor: Full strength in distal and proximal muscles groups in 
+all four
+limbs; gait is normal. No pronation or drift
+Coordination: Finger to nose intact bilaterally
+
+ 
+Pertinent Results:
+___ 06:05AM BLOOD WBC-6.5 RBC-4.63 Hgb-13.3 Hct-38.9 MCV-84 
+MCH-28.8 MCHC-34.2 RDW-14.0 Plt ___
+___ 06:05AM BLOOD Plt ___
+___ 06:05AM BLOOD Glucose-102* UreaN-17 Creat-0.5 Na-140 
+K-4.1 Cl-100 HCO3-31 AnGap-13
+___ 06:05AM BLOOD Calcium-9.5 Phos-4.2 Mg-1.9
+___ 10:40AM BLOOD ALT-19 AST-19 LD(LDH)-164 AlkPhos-61 
+TotBili-0.3
+
+___ 06:05AM BLOOD Valproa-PND
+___ 10:40AM BLOOD Valproa-101*
+___ 06:55AM BLOOD Valproa-89
+
+___ 02:30PM BLOOD TSH-0.66
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to the epilepsy service for long term 
+video EEG monitoring which showed fairly frequent bursts of 
+generalized discharges without clinical correlate. During her 
+hospitalization, she was weaned off lamotrigine and titrated up 
+to 1000 mg ER of depakote, which she is to take at night daily. 
+Her clobazam ___ was continued during admission and she will 
+resume this as outpatient. Ms. ___ reports feeling much 
+better on the new medication and does not report excessive 
+sedation or sleep disturbance with Depakote. She has been 
+intermittently anxious and tearful throughout the course of this 
+admission. She will follow up with Dr. ___ as 
+outpatient.
+
+ 
+Medications on Admission:
+1. Atorvastatin 20 mg PO DAILY 
+2. Clobazam 20 mg PO QAM 
+3. Clobazam 25 mg PO HS 
+4. Omeprazole 20 mg PO DAILY 
+5. Senna 1 TAB PO BID 
+6. Sertraline 100 mg PO DAILY 
+7. Vitamin D 50,000 UNIT PO 1X/WEEK (FR) 
+8. Lamictal XR 475mg qpm
+ 
+Discharge Medications:
+1. Atorvastatin 20 mg PO DAILY 
+2. Clobazam 20 mg PO QAM 
+3. Clobazam 25 mg PO HS 
+4. Omeprazole 20 mg PO DAILY 
+5. Senna 1 TAB PO BID 
+6. Sertraline 100 mg PO DAILY 
+7. Vitamin D 50,000 UNIT PO 1X/WEEK (FR) 
+8. Divalproex (EXTended Release) 1000 mg PO QHS 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+seizures
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent, anxious.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It has been a pleasure to be involved in your care during this 
+hospitalization. You were admitted to the epilepsy service at 
+___ because of increasing seizure frequency and 
+we wanted to catch these episodes. We weaned your lamicatal to 
+off but continued your clobazam and monitored you on video EEG. 
+Your EEG showed multiple seizures and we started you on Depakote 
+XR 1000mg at bedtime. You report feeling good on this medication 
+and you should continue to take this as your new anti seizure 
+medication along with your clobazam.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11161207-DS-10 | hadm_id=21689501
+
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+___ Kapseal / trazodone / Ultram
+ 
+Attending: ___.
+ 
+Chief Complaint:
+new spells concerning for seizures, admit for
+characterization of events
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ is a ___ yo RH woman with h/o epilepsy
+since ___ years of age, diagnosed with likely JME and now with
+generalized epilepsy and major depression, who presents as an
+elective admission for EEG characterization of increasing events
+concerning for seizures. 
+
+The events in question are episodes of extreme exhaustion, a
+"rush through my body, like the sensation of a volcano that's
+about to explode", tremors of her arms and face bilaterally, and
+sudden crying. These started three months ago, and having been
+happening once per month since then. If she does not take ativan
+when they happen, they eventually lead to rhythmic jerking
+movements of her hands followed by a generalized seizure. Her
+last event was in late ___. After this her lamictal XR was
+increased from 450mg to 475mg daily.
+
+Prior to three months ago, her usual seizure frequency was 
+lower,
+about twice per year. She reports that her seizures were all
+previously "grand mal seizures", with the last one occuring in
+___. She had a seizure in ___ resulting
+in a car crash, and reports her attention and memory have been a
+lot worse since then. 
+
+Her seizure triggers are sleep deprivation, stress and missed
+medications. She endorses chronically poor sleep, partly due to
+sleep apnea (for which she is scheduled to be fitting for CPAP 
+in
+the near future). Sleep has been even worse lately due to stress
+over her son's upcoming wedding and depression related to her
+worsening memory issues. 
+ 
+Neuro ROS: Positive for--- headache, loss of vision, blurred
+vision, diplopia, dysarthria, dysphagia, lightheadedness,
+vertigo, tinnitus or hearing difficulty. Denies difficulties
+producing or comprehending speech. Denies focal weakness,
+numbness, parasthesiae. No bowel or bladder incontinence or
+retention. Denies difficulty with gait.  
+ 
+General ROS: no fever or chills. No night sweats or recent 
+weight
+loss or gain. Denies cough, shortness of breath. Denies chest
+pain or tightness, palpitations. Denies nausea, vomiting,
+diarrhea, constipation or abdominal pain. No recent change in
+bowel or bladder habits. No dysuria. Denies arthralgias or
+myalgias. Denies rash.  
+
+ 
+Past Medical History:
+Juvenile Myoclonic Epilepsy  
+Sleep Apnea  
+Depression  
+Fibromyalgia  
+GERD  
+PSH:  
+C-section ___  
+CCY ___  
+
+ 
+Social History:
+___
+Family History:
+Negative for epilepsy or other genetic neurological disorders.  
+ 
+Physical Exam:
+GENERAL EXAM: 
+- Vitals: 98.3, 127/80, 79, 18, 100% RA 
+- General: middle-aged woman in NAD, pleasant, cooperative,
+talking comfortably with examiner
+- HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted
+in oropharynx  
+- Neck: Supple, no carotid bruits appreciated. No nuchal 
+rigidity
+
+- Pulmonary: CTABL
+- Cardiac: RRR
+- ___: SNTND
+- Extrem: WWP
+- Skin: no rashes/lesions noted
+
+NEURO EXAM: 
+- Mental status: awake, alert, oriented x3. Able to relate
+history without difficulty. Attentive, able to name ___ backward
+without difficulty. Able to follow both midline and appendicular
+commands. No right-left confusion. Able to register 3 objects 
+and
+recall ___ at 5 minutes. No evidence of apraxia or neglect.
+Language: speech is clear, fluent, nondysarthric with intact
+naming, repetition and comprehension. Normal prosody. There were
+no paraphasic errors. Able to read without difficulty.  
+Cranial Nerves:  
+I: Olfaction not tested.  
+II: PERRL 3 to 2mm and brisk. VFF to finger counting.  
+III, IV, VI: EOMI without nystagmus. Normal saccades.  
+V: Facial sensation intact to light touch.  
+VII: No facial droop, facial musculature symmetric.  
+VIII: Hearing intact to finger-rub bilaterally.  
+IX, X: Palate elevates symmetrically.  
+XI: ___ strength in trapezii and SCM bilaterally.  
+XII: Tongue protrudes in midline.  
+ 
+Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.  
+No adventitious movements, such as tremor, noted. No asterixis
+noted.  
+Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___  
+L ___ 5 5  
+R ___ 5 5  
+ 
+Sensory: No deficits to light touch throughout. No extinction to
+DSS.  
+ 
+DTRs:  
+Bi Tri ___ Pat Ach  
+L ___ 2 1  
+R ___ 2 1  
+Briskly withdrew legs to plantar stim bilaterally but toes
+appeared downgoing.  
+ 
+Coordination: No intention tremor or dysmetria on finger-nose,
+FNF or HKS bilaterally.  
+ 
+Gait: Good initiation. Narrow-based, normal stride and arm 
+swing.
+Able to walk in tandem without difficulty. Romberg absent.  
+ 
+Pertinent Results:
+___ 04:40AM BLOOD WBC-8.7 RBC-4.35 Hgb-12.5 Hct-37.4 MCV-86 
+MCH-28.7 MCHC-33.4 RDW-13.3 Plt ___
+___ 04:40AM BLOOD Glucose-98 UreaN-12 Creat-0.6 Na-140 
+K-4.3 Cl-102 HCO3-32 AnGap-10
+___ 04:40AM BLOOD ALT-11 AST-16 AlkPhos-55 TotBili-0.2
+___ 04:40AM BLOOD TSH-0.___dmitted for EEG in setting of worsening events. She has had one 
+generalized tonic-clonic seizure on ___, as well as multiple 
+pushbutton events for twitching, spaciness, fatigue, all of 
+which generally correlate with brief generalized spike/wave & 
+polyspike discharges. Clobazam 5mg PO BID was started, with 
+quick taper up to 10mg PO BID. There was a clinical and 
+electrographic improvement after initiation of clobazam. 
+Discharged home in stable condition with plans to follow up with 
+outpatient neurology on ___. 
+  
+
+ 
+Medications on Admission:
+Home Meds (confirmed):
+- Lamotrigine XR 475mg daily (after dinner)
+- Sertraline 50mg daily
+- Lorazepam 0.5mg BID PRN anxiety
+- Acetaminophen PRN
+ 
+Discharge Medications:
+1. Sertraline 50 mg PO DAILY 
+2. LaMICtal XR *NF* (lamoTRIgine) 75 mg ORAL QPM 
+3. Clobazam 10 mg PO/NG BID 
+4. LaMICtal XR *NF* (lamoTRIgine) 400 mg ORAL QPM 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Epilepsy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for EEG monitoring.  A generalized seizure was 
+captured on the morning of ___, and so we started you on a 
+long-acting benzodiazepine called Clobazam.  Your clobazam was 
+increased to 10mg twice a day which you tolerated well.  Call 
+the Neurology Clinic with any questions or concerns.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11161207-DS-9 | hadm_id=27978460
+
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+___ Kapseal / trazodone / Ultram
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p Motor vehicle crash
+ 
+Major Surgical or Invasive Procedure:
+___: ORIF right radius, ex-fix left tibial plateau
+___: Removal of ex-fix, ORIF left tibial plateau
+
+ 
+History of Present Illness:
+This patient is a ___ year old female with a history of a
+known seizure disorder who has been brought in by EMS status
+post seizure and motor vehicle versus telephone pole.
+ 
+Per EMS report, the patient was an unrestrained driver
+talking on her cellphone while driving with her sister when
+she had a seizure causing her to lose control of her
+vehicle. EMS reports that there was airbag deployment, and
+state that the patient sustained head trauma against the
+windshield during the accident. The patient was alert and
+oriented in the field.
+ 
+Upon arrival to ___ ED, the patient complains of
+left-sided chest pain, shortness of breath, right wrist
+pain, and left lower extremity pain. Both the patient's
+right forearm and left tibia/fibula arrive with splints in
+place.
+
+ 
+Past Medical History:
+Juvenile Myoclonic Epilepsy  
+Sleep Apnea  
+Depression  
+Fibromyalgia  
+GERD  
+PSH:  
+C-section ___  
+CCY ___  
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Upon presentation to ___:
+HR: 112 BP: 108/60 Resp: 14 O(2)Sat: 100 Normal
+ 
+Constitutional: in pain, uncomfortable
+HEENT: Mid forehead hematoma.
+Arrives with cervical collar in place. No neck crepitus. No
+blood in nares or oropharynx. No hemotypanum.
+Chest: Airway intact. Normal breath sounds bilaterally. No
+chest crepitus. Sternum is tender to palpation.
+Cardiovascular: Regular Rate and Rhythm, Normal first and
+second heart sounds
+Abdominal: Soft, Nontender
+Pelvic: Pelvis stable to compression.
+Rectal: No ecchymoses over the perineum.
+Extr/Back: Bilateral palpable femoral
+pulses.
+Right upper extremity: obvious deformity of the wrist. Right
+hand is neurovascularly intact.
+Left lower extremity: obvious deformity of the proximal
+tibia/fibula. Inferior tibial swelling.
+Skin: Warm and dry
+Neuro: Speech fluent. Moving all extremities
+Psych: Alert, oriented.
+___: No petechiae
+
+PHYSICAL EXAMINATION ON DISCHARGE:
+Awake and alert, no acute distress, pleasant
+
+RUE: Splint in place.  Fingers warm and well-perfused.  
++EPL/FPL/DIO/FDS fire.  +SILT median/radial/ulnar.  Good grip 
+strength.
+
+LLE: ___ fire.  Sensation intact to light touch over 
+SPN, DPN, TN, saphenous, and sural nerve distributions.  Foot is 
+warm and well-perfused.  Patient is moving all toes.
+ 
+Pertinent Results:
+___ 09:40PM   VALPROATE-78
+___ 06:47PM   WBC-11.3* RBC-3.61* HGB-10.5* HCT-29.9* 
+MCV-83 MCH-29.0 MCHC-35.0 RDW-13.8
+___ 06:47PM   PLT COUNT-257
+___ 06:15PM   GLUCOSE-120* UREA N-11 CREAT-0.4 SODIUM-140 
+POTASSIUM-3.9 CHLORIDE-104 TOTAL CO2-22 ANION GAP-18
+___ 10:28AM   GLUCOSE-179* NA+-138 K+-3.4 CL--100 TCO2-24
+___ 10:20AM   CK(CPK)-196
+___ 10:20AM   cTropnT-<0.01
+___ 10:20AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+
+CT head:
+IMPRESSION: No evidence of acute intracranial process.
+
+CT c-spine
+IMPRESSION: 
+1. No evidence of fracture or malalignment. 
+2. Degenerative changes are more prominent at the level of C5-C6 
+as described above. 
+3. Left thyroid lobe nodule. 
+
+CT chest/abd/pelvis:
+IMPRESSION: 
+1. Left-sided (anterior ___ rib fractures. 
+2. No other evidence of acute traumatic injury in the thorax or 
+the abdomen. 
+3. Left ovarian cyst needs followup with ultrasound if patient 
+is 
+postmenopausal. 
+
+___ 04:55AM BLOOD WBC-10.3 RBC-3.31* Hgb-9.7* Hct-28.2* 
+MCV-85 MCH-29.2 MCHC-34.3 RDW-14.4 Plt ___
+___ 04:55AM BLOOD Plt ___
+___ 04:57AM BLOOD Glucose-106* UreaN-8 Creat-0.4 Na-137 
+K-3.6 Cl-97 HCO3-35* AnGap-9
+___ 04:57AM BLOOD Calcium-8.7 Phos-3.4 Mg-2.1
+___ 04:55AM BLOOD Valproa-44*
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to the Acute Care Surgery team 
+following a motor vehicle accident.  The Orthopaedic Trauma 
+service was consulted for repair of the right radius and left 
+tibial plateau fractures, and on ___ the patient was taken to 
+the Operating Room for open reduction and internal fixation of 
+the right radius as well as external fixation of the left tibia. 
+ Please see Operative Report for full details.  The patient 
+tolerated the procedure well, and there were no complications.  
+She received perioperative antibiotics as well as Lovenox for 
+DVT prophylaxis.  Postoperatively, the patient was transfused 2 
+units of pRBCs for acute blood loss anemia.  On ___, the 
+patient returned to ___ Operating Room for removal of the 
+external fixator and open reduction and internal fixation of the 
+left tibia.  Again, the patient tolerated the procedure well.  
+Post-operatively, she was transferred to the Orthopaedic Surgery 
+service for further care.   
+
+The Neurology service was consulted during this hospitalization 
+given the patient's seizure history. Continuous EEG monitoring 
+was performed, with no clear seizure events identified.  Her 
+home anti-seizure medications were continued and her Depakote 
+levels were followed.  She should continue to have daily 
+Depakote levels drawn at the rehab facility.
+
+The patient worked with both the Physical and Occupational 
+Therapy services during her hospitalization and made steady 
+progress.
+
+On ___, the patient fell from a seated position on the side 
+of her bed.  The fall was witnessed, and there was no headstrike 
+or loss of consciousness.  X-rays of the left leg and right arm 
+were performed to ensure that there was no hardware complication 
+or new fracture.
+
+The patient was discharged to rehab in stable condition with 
+detailed precautionary instructions as well as instructions 
+regarding follow-up.  She was able to void spontaneously, with 
+pain controlled by oral pain medications.  She expressed 
+readiness for discharge to a rehab facility.  She was discharged 
+to rehab in stable condition.
+ 
+Medications on Admission:
+depakote ER 500 mg qhs, gabapentin 300 mg', Lamictal ER 200 mg'  
+
+
+ 
+Discharge Medications:
+1. lamotrigine 100 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+2. divalproex ___ mg Tablet Extended Release 24 hr Sig: One (1) 
+Tablet Extended Release 24 hr PO QAM (once a day (in the 
+morning)).  
+3. divalproex ___ mg Tablet Extended Release 24 hr Sig: One (1) 
+Tablet Extended Release 24 hr PO QPM (once a day (in the 
+evening)).  
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+5. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours): Maximum of 4000 mg per day.  
+6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+7. divalproex ___ mg Tablet Extended Release 24 hr Sig: One (1) 
+Tablet Extended Release 24 hr PO QAM (once a day (in the 
+morning)).  
+8. divalproex ___ mg Tablet Extended Release 24 hr Sig: One (1) 
+Tablet Extended Release 24 hr PO QPM (once a day (in the 
+evening)).  
+9. lamotrigine 100 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+10. oxycodone 5 mg Tablet Sig: ___ Tablets PO Q3H (every 3 
+hours) as needed for Pain: HOLD if somnolent, confused, RR <12.
+Disp:*65 Tablet(s)* Refills:*0*
+11. enoxaparin 40 mg/0.4 mL Syringe Sig: One (1) Syringe 
+Subcutaneous QHS (once a day (at bedtime)) for 4 weeks.
+Disp:*28 Syringe* Refills:*0*
+12. multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).  
+13. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO Q6H (every 6 hours) as needed for constipation.  
+14. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+s/p Motor vehicle crash
+Injuries:
+1. Left tibial plateau fracture 
+2. Left lateral malleolus fracture 
+3. Right distal radius fracture 
+4. Left rib fractures ___. Acute blood loss anemia
+6. Seizure disorder 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted to the hospital following a motor vehicle 
+collision in which you sustained rib fractures and fractures of 
+your right radius, left tibia and ankle. You required 2 
+operations to some of your extremity fractures.
+
+Because of your seizure history you were seen by the Neurology 
+team and monitored via EEG. Your anti-seizure medications were 
+continued.
+
+**PLEASE CONTINUE TO CHECK AND MONITOR DAILY VALPROIC ACID 
+LEVELS.**
+
+Wound Care:
+- Keep Incision clean and dry.
+- You can get the wounds wet or take a shower starting from 7 
+days after surgery, but no baths or swimming for at least 4 
+weeks.
+- Dry sterile dressing may be changed daily.  No dressing is 
+needed if wound continues to be non-draining.
+- Any stitches or staples that need to be removed will be taken 
+out at your 2-week follow up appointment.
+
+Activity:
+- Continue to be touch-down weight-bearing on your left leg and 
+non-weightbearing (platform walker/crutches okay) on your right 
+arm
+- Elevate right arm and left leg  to reduce swelling and pain.
+- Do not remove splint.  Keep splint dry.
+
+Other Instructions
+- Resume your regular diet.
+- Avoid nicotine products to optimize healing.
+- Resume your home medications. Take all medications as 
+instructed.
+- Continue taking the Lovenox to prevent blood clots.
+- You have also been given Additional Medications to control 
+your pain.  Please allow 72 hours for refill of narcotic 
+prescriptions, so plan ahead.  You can either have them mailed 
+to your home or pick them up at the clinic located on ___. 
+ We are not allowed to call in narcotic (oxycontin, oxycodone, 
+percocet) prescriptions to the pharmacy.   In addition, we are 
+only allowed to write for pain medications for 90 days from the 
+date of surgery.
+- Narcotic pain medication may cause drowsiness.  Do not drink 
+alcohol while taking narcotic medications.  Do not operate any 
+motor vehicle or machinery while taking narcotic pain 
+medications.  Taking more than recommended may cause serious 
+breathing problems.
+- If you have questions, concerns or experience any of the below 
+danger signs then please call your doctor at ___ or go 
+to your local emergency room.
+Physical Therapy:
+--LLE: TDWB
+--RUE: ___, ok to use platform walker/crutch
+Treatments Frequency:
+--Any stitches or staples that need to be removed will be taken 
+out at your 2-week follow-up appointment.
+--Left leg: Unlocked ___ brace should be worn out of bed.  
+Dry sterile dressings can be changed daily or as needed.  
+--Elevate left leg and right arm as much as possible to decrease 
+pain and swelling
+ 
+Followup Instructions:
+___

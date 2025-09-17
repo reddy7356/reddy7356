@@ -1,0 +1,1477 @@
+===== DISCHARGE NOTE =====
+note_id=11538575-DS-13 | hadm_id=20297094
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+peanuts / hydrochlorothiazide
+ 
+Attending: ___
+ 
+___ Complaint:
+left knee pain
+ 
+Major Surgical or Invasive Procedure:
+___: Total knee arthroplasty, left knee
+
+ 
+History of Present Illness:
+___ yo F with left knee pain, failed conservative management and 
+now elects to undergo definitive surgical management
+ 
+Past Medical History:
+OSA, latent TB, Obesity, brain injury from MVA, pre-diabetes A1c 
+5.8, renal cyst, Hep B, anemia, ITP->splenectomy ___, h/o 
+malaria, depression, s/p ex lap appy, lap oophorectomy, robotic 
+lap splenectomy
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Well appearing in no acute distress  
+Afebrile with stable vital signs  
+Pain well-controlled  
+Respiratory: CTAB  
+Cardiovascular: RRR  
+Gastrointestinal: NT/ND  
+Genitourinary: Voiding independently  
+Neurologic: Intact with no focal deficits  
+Psychiatric: Pleasant, A&O x3  
+Musculoskeletal Lower Extremity:  
+* Incision healing well with staples  
+* Scant serosanguinous drainage  
+* Thigh full but soft  
+* No calf tenderness  
+* ___ strength  
+* SILT, NVI distally  
+* Toes warm
+ 
+Pertinent Results:
+___ 06:03AM BLOOD WBC-8.8 RBC-3.36* Hgb-9.9* Hct-30.3* 
+MCV-90 MCH-29.5 MCHC-32.7 RDW-14.2 Plt Ct-75*
+___ 12:30AM BLOOD WBC-12.9* RBC-3.06* Hgb-9.2* Hct-26.6* 
+MCV-87 MCH-30.2 MCHC-34.7 RDW-14.1 Plt Ct-91*
+___ 06:45AM BLOOD WBC-12.4* RBC-2.96* Hgb-9.1* Hct-25.8* 
+MCV-87 MCH-30.8 MCHC-35.3* RDW-14.0 Plt Ct-92*
+___ 05:00PM BLOOD Hct-26.9*
+___ 09:30PM BLOOD Hct-25.3*
+___ 05:50AM BLOOD WBC-11.6* RBC-2.72* Hgb-8.2* Hct-24.1* 
+MCV-89 MCH-30.3 MCHC-34.3 RDW-14.2 Plt ___
+___ 01:45PM BLOOD WBC-11.0 RBC-3.22* Hgb-9.8* Hct-28.1* 
+MCV-87 MCH-30.5 MCHC-35.0 RDW-14.6 Plt ___
+___ 08:09AM BLOOD WBC-8.9 RBC-3.06* Hgb-9.1* Hct-26.9* 
+MCV-88 MCH-29.8 MCHC-34.0 RDW-14.6 Plt ___
+___ 09:35AM BLOOD WBC-9.4 RBC-3.09* Hgb-9.4* Hct-27.2* 
+MCV-88 MCH-30.4 MCHC-34.5 RDW-14.2 Plt ___
+___ 07:05AM BLOOD WBC-9.0 RBC-3.02* Hgb-8.9* Hct-26.5* 
+MCV-88 MCH-29.5 MCHC-33.6 RDW-13.9 Plt ___
+___ 06:03AM BLOOD Plt Smr-VERY LOW Plt Ct-75*
+___ 12:30AM BLOOD Plt Ct-91*
+___ 06:45AM BLOOD Plt Ct-92*
+___ 01:45PM BLOOD Plt ___
+___ 08:09AM BLOOD Plt ___
+___ 05:55AM BLOOD Plt ___
+___ 07:05AM BLOOD Plt ___
+___ 06:03AM BLOOD Glucose-130* UreaN-18 Creat-0.7 Na-138 
+K-3.9 Cl-98 HCO3-28 AnGap-16
+___ 12:30AM BLOOD Glucose-137* UreaN-12 Creat-0.7 Na-136 
+K-3.7 Cl-99 HCO3-26 AnGap-15
+___ 06:45AM BLOOD Glucose-122* UreaN-10 Creat-0.6 Na-133 
+K-3.5 Cl-96 HCO3-27 AnGap-14
+___ 05:50AM BLOOD Glucose-112* UreaN-11 Creat-0.7 Na-134 
+K-3.3 Cl-94* HCO3-28 AnGap-15
+___ 01:45PM BLOOD Glucose-107* UreaN-15 Creat-0.7 Na-137 
+K-3.7 Cl-95* HCO3-31 AnGap-15
+___ 05:55AM BLOOD Glucose-113* UreaN-16 Creat-0.6 Na-135 
+K-3.6 Cl-92* HCO3-31 AnGap-16
+___ 09:35AM BLOOD Glucose-110* UreaN-19 Creat-0.8 Na-135 
+K-5.3* Cl-95* HCO3-29 AnGap-16
+___ 07:05AM BLOOD Glucose-104* UreaN-20 Creat-0.6 Na-135 
+K-4.0 Cl-94* HCO3-33* AnGap-12
+___ 09:30PM BLOOD EDTA ___
+___ 01:45PM BLOOD HIV Ab-NEGATIVE
+___ 01:45PM BLOOD TSH-0.88
+ 
+Brief Hospital Course:
+The patient was admitted to the orthopedic surgery service and 
+was taken to the operating room for above described procedure. 
+Please see separately dictated operative report for details. The 
+surgery was uncomplicated and the patient tolerated the 
+procedure well. Patient received perioperative IV antibiotics.
+
+Postoperative course was remarkable for the following:
+
+1. Fever 101.2, overnight POD#1->#2, hx/o splenectomy, flu swab 
+negative, malaria peripheral smear, Hep B titer + fever w/u 
+initiated (cxr, u/a, blood & urine cxs).  Infectious disease was 
+consulted and she was empirically started on vancomycin and 
+ceftriaxone on POD#2.  Vancomycin was d/c'd on POD#5 and 
+ceftriaxone was d/c'd on POD#7 per ID recommendations.  All 
+cultures and tests negative. 
+
+2. HTN/Tachycardia, overnight POD#1->#2->medicine consulted, EKG 
+showing sinus tach, unlikely PE as O2 sats in high 90's on RA, 
+likely post op blood loss anemia, trended Hct.  Received 2 units 
+PRBC's on POD#4 and tachycardia resolved for remainder of 
+hospital course.
+
+3. ___ swelling- an US was done and negative for DVT.
+
+Otherwise, pain was initially controlled with a PCA followed by 
+a transition to oral pain medications on POD#1.  The patient 
+received lovenox for DVT prophylaxis starting on the morning of 
+POD#1.  The foley was removed on POD#2 and the patient was 
+voiding independently thereafter. The overlying surgical 
+dressing was changed on POD#2 and the Silverlon dressing was 
+found to be clean and intact without erythema or abnormal 
+drainage. The patient was seen daily by physical therapy. Labs 
+were checked throughout the hospital course and repleted 
+accordingly. At the time of discharge the patient was tolerating 
+a regular diet and feeling well.  The patient was afebrile with 
+stable vital signs.  The patient's hematocrit was acceptable and 
+pain was adequately controlled on an oral regimen. The operative 
+extremity was neurovascularly intact and the wound was benign. 
+
+The patient's weight-bearing status is weight bearing as 
+tolerated on the operative extremity. 
+ 
+Ms ___ is discharged to home with services in stable 
+condition.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Hydrochlorothiazide 25 mg PO DAILY 
+2. Vitamin D 1000 UNIT PO DAILY 
+3. Acetaminophen 325 mg PO Q6H:PRN knee pain 
+
+ 
+Discharge Medications:
+1. Hydrochlorothiazide 25 mg PO DAILY 
+2. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*1
+3. Enoxaparin Sodium 40 mg SC DAILY Duration: 28 Days 
+RX *enoxaparin 40 mg/0.4 mL ___aily Disp #*21 Syringe 
+Refills:*0
+4. Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth twice a day Disp 
+#*60 Capsule Refills:*1
+5. Gabapentin 300 mg PO TID 
+RX *gabapentin 300 mg 1 capsule(s) by mouth three times a day 
+Disp #*42 Capsule Refills:*0
+6. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN Pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*100 Tablet Refills:*0
+7. Acetaminophen 1000 mg PO TID 
+RX *acetaminophen [Acetaminophen Extra Strength] 500 mg 2 
+tablet(s) by mouth three times a day Disp #*100 Tablet 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+Osteoarthritis, left knee
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+1. Please return to the emergency department or notify your 
+physician if you experience any of the following: severe pain 
+not relieved by medication, increased swelling, decreased 
+sensation, difficulty with movement, fevers greater than 101.5, 
+shaking chills, increasing redness or drainage from the incision 
+site, chest pain, shortness of breath or any other concerns.
+ 
+2. Please follow up with your primary physician regarding this 
+admission and any new medications and refills. 
+ 
+3. Resume your home medications unless otherwise instructed.
+ 
+4. You have been given medications for pain control. Please do 
+not drive, operate heavy machinery, or drink alcohol while 
+taking these medications. As your pain decreases, take fewer 
+tablets and increase the time between doses. This medication can 
+cause constipation, so you should drink plenty of water daily 
+and take a stool softener (such as Colace) as needed to prevent 
+this side effect.  Call your surgeons office 3 days before you 
+are out of medication so that it can be refilled.  These 
+medications cannot be called into your pharmacy and must be 
+picked up in the clinic or mailed to your house.  Please allow 
+an extra 2 days if you would like your medication mailed to your 
+home.
+ 
+5. You may not drive a car until cleared to do so by your 
+surgeon.
+ 
+6. Please call your surgeon's office to schedule or confirm your 
+follow-up appointment in three (3) weeks.
+ 
+7. SWELLING: Ice the operative joint 20 minutes at a time, 
+especially after activity or physical therapy. Do not place ice 
+directly on the skin. You may wrap the knee with an ace bandage 
+for added compression. Please DO NOT take any non-steroidal 
+anti-inflammatory medications (NSAIDs such as Celebrex, 
+ibuprofen, Advil, Aleve, Motrin, naproxen etc).
+ 
+8. ANTICOAGULATION: Please continue your Lovenox for four (4) 
+weeks to help prevent deep vein thrombosis (blood clots).  If 
+you were taking aspirin prior to your surgery, it is OK to 
+continue at your previous dose while taking this medication.  
+Wear ___ stockings for 6 weeks. 
+ 
+9. WOUND CARE: Please keep your incision clean and dry. Dry 
+dressing daily as needed.  It is okay to shower five days after 
+surgery but no tub baths, swimming, or submerging your incision 
+until after your four (4) week checkup.  Check wound regularly 
+for signs of infection such as redness or thick yellow drainage. 
+Staples will be removed at your follow-up visit in ___ weeks.
+ 
+10. ___ (once at home): Home ___, dressing changes as 
+instructed, and wound checks.
+ 
+11. ACTIVITY: Weight bearing as tolerated on the operative 
+extremity. Mobilize. ROM as tolerated. No strenuous exercise or 
+heavy lifting until follow up appointment.
+Physical Therapy:
+ROM - unrestricted
+WBAT
+Mobilize frequently
+Treatments Frequency:
+DSD PRN drainage, otherwise may leave open to air
+Wound checks
+TEDs 
+Ice and elevate
+*Staples will be removed at your first post-operative 
+appointment in 3 weeks
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11538575-DS-9 | hadm_id=22893688
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+MVA
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ with HTN admitted to NSGY s/p restrained MVA w/ positive 
+head strike found to have small subdural hematoma, managed 
+non-operatively, stable over several days (on exam and CT) w/ 
+hospital course c/b thrombocyopenia thought to be ITP. 
+
+ 
+Past Medical History:
+1) Hypertension
+2) Exploratory laparotomy for pelvic pain (negative)
+3) appendectomy age ___
+4) vitamin D deficiency
+5) status post laparoscopy for pelvic pain, uncertain when
+6) staus post trigger finger release
+7) last colonoscopy ~1 mo ago, polyp removed, she was told it 
+was
+benign
+8) premature ovarian failure age ___, no periods since
+
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+O:  BP: 128/71      HR: 77   R 21      O2Sats 100% RA
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: 3-2mm PERRL         EOMs intact
+Neck: Supple.
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3 to 2
+mm bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+On the day of discharge:
+
+Tmax98.8, 97.5, 110-124/64-90, 52-66, 18 96-100% on RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, Right cojunctival hemorrhage, b/l 
+periorbital bruising, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops, tenderness of sternum upon palpation c/w injury sustain 
+during MVA
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+Neuro: strength was full, sensation was intact. patient was 
+alert and oriented to person, place, time. pupils were ___ 
+bilaterally.  
+
+ 
+Pertinent Results:
+Admission Labs:
+___ 07:48AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 11:00AM BLOOD WBC-6.9 RBC-4.00* Hgb-11.5* Hct-34.2* 
+MCV-86 MCH-28.7 MCHC-33.6 RDW-13.8 Plt Ct-30*
+___ 11:00AM BLOOD Neuts-73.9* ___ Monos-2.9 Eos-0.6 
+Baso-0.2
+___ 11:00AM BLOOD ___ PTT-32.0 ___
+___ 09:12AM BLOOD ___
+
+Additional Labs:
+___ 12:04PM BLOOD ___
+___ 06:00PM BLOOD HIV Ab-NEGATIVE
+___ 04:46AM BLOOD HCV Ab-NEGATIVE
+___ 06:00PM BLOOD HCV Ab-NEGATIVE
+
+Discharge Labs:
+___ 05:39AM BLOOD WBC-9.7 RBC-3.41* Hgb-9.9* Hct-29.2* 
+MCV-86 MCH-29.0 MCHC-33.8 RDW-13.7 Plt ___
+___ 05:39AM BLOOD Glucose-154* UreaN-19 Creat-0.8 Na-139 
+K-4.2 Cl-105 HCO3-27 AnGap-11
+___ 05:39AM BLOOD Calcium-9.5 Phos-3.0 Mg-2.3
+___ 06:00PM BLOOD calTIBC-265 Ferritn-130 TRF-204
+
+CT HEAD W/O CONTRAST Study Date of ___ 7:08 AM  IMPRESSION: 
+1. Small subdural hemorrhage along the falx and extra-axial 
+hemorrhage layering along the left convexity. 
+
+CT C-SPINE W/O CONTRAST Study Date of ___ 7:09 AM 
+IMPRESSION: No fracture. 
+
+CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST Study Date of 
+___ 7:09 AM IMPRESSION: No fracture.
+
+CT CHEST/ABDOMEN/PELVIS W/CONTRAST Study Date of ___ 7:10 
+AM IMPRESSION: 
+1. No acute traumatic injury identified in the chest, abdomen, 
+and pelvis. 
+2. Incidental findings include subcentimeter hepatic and renal 
+hypodense 
+lesions, which are too small to characterize in this study. 
+3. A single 4 mm perifissural nodule in the right lung, could 
+represent a 
+intra-pulmonary node or nodule. Based on ___ guidelines, 
+follow-up 
+chest CT in one year is recommended in a high-risk patient.  
+
+CT HEAD W/O CONTRAST Study Date of ___ 9:05 AM IMPRESSION: 
+Overall stable subdural hemorrhage along the falx, left parietal 
+concavity, and bilateral tentorial leaflets, with a mild 
+re-distribution since one day prior. No increased mass effect or 
+intra-axial hemorrhage. 
+TRAUMA #3 (PORT CHEST ONLY) Study Date of ___ 6:51 AM 
+FINDINGS: 
+There is elevation of the right hemidiaphragm, likely 
+eventration. Although no large pneumothorax is visualized, the 
+prominent sulcus on the left iss noted. There is no focal lung 
+consolidation or pleural effusion.  
+Calcification is seen at the aortic arch, which is smooth in 
+contour. Hilar, mediastinal, and cardiac silhouette are within 
+normal limits. No evidence of a displaced rib fracture. There is 
+a small metallic object projecting at the left axilla, that may 
+be outside of the body. Trauma board is giving suboptimal 
+evaluation of the fine details. Two round metallic objects 
+projecting at the right and left chest, probably outside of the 
+body. 
+
+ 
+Brief Hospital Course:
+___ with HTN admitted to ___ s/p restrained MVA w/ head strike 
+found to have small subdural, managed non-operatively, stable 
+over several days w/ hospital course c/b thrombocyopenia thought 
+to be ITP. 
+
+Active Problems
+1) Subdural Hematoma: Ms. ___ was admitted to ___ on ___ 
+after MVA with positive head strike.  cleared by ACS in the 
+emergency room for other injury and admitted to the 
+neurosurgical service for observation. She was started on Keppra 
+for seizure prophylaxis, and BP control (goal SBP <16) with 
+atenolol and prn hydralazine. She remained neurologically stable 
+with only complaint of back pain, but CT torso was normal. A 
+repeat Head CT was performed on ___ and ___ were stable and 
+revealed some resolution of the previously seen SDH.  She will 
+reamin on keppra until f/u with neurosurgery on ___, at 
+which time she will also have followup CT. 
+
+2) Thrombocytopenia: It was noted that her platelet count was 
+only 30k. This was repeated and confirmed 30k. Hematology was 
+called for recommendations. She was transfused 3 units of 
+platelets. Completed a 4-day course of dexamethasone 40mg, and 
+receivd 1 infusion of IVIG. She responded well to the treatment, 
+platelets trended up to 129 on day of discharge.  
+
+3) Positive guaiac: Hct stable in at ___. However, 
+thrombocytopenia may unmask colonic growths, although it is 
+unlikely with normal colonoscopy 1 months prior to admission. 
+
+Inactive Problems:
+1) Subconjunctival Hemorrhage: Ophthomology was consulted who 
+felt that the findings were c/w minor trauma in the setting of 
+thrombocytopenia, not concerning for retinal or CN involvement. 
+
+Transfer of Care:
+1) Resolving SDH-If she develops visions changes, new/worsening 
+headache, gait abnormality, confusion, or any other neurological 
+symptoms may indicate expansion of SDH. Pt will need emergent CT 
+and evulation.
+2) Thrombocytopenia-please f/u platelet counts to monotiro 
+improvement. If pt continues to be severely thrombocytopenic, 
+she may need BM biopsy for evaluation and/or splenectomy 
+depending on BM results. 
+3) Positive guaiac-malignancy may be unmasked by 
+thrombocytopenia. Pt has followup appointment with PCP at ___. 
+Per patient, she had a normal colonoscopy with removal of benign 
+polyp 1 month ago and has f/u colonoscopy in ___.
+ 
+Medications on Admission:
+Atenolol
+ 
+Discharge Medications:
+1. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for headache: do not exceed 4 grams tylenol 
+within 24 hours.  
+2. oxycodone 5 mg Tablet Sig: ___ Tablets PO every six (6) hours 
+as needed for headache for 2 weeks: do not drive while taking, 
+do not take if lethargic.
+Disp:*40 Tablet(s)* Refills:*0*
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day): hold for loose stool- take while taking oxycodone.
+Disp:*60 Capsule(s)* Refills:*2*
+4. senna 8.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): 
+hold for loose stools.
+Disp:*60 Tablet(s)* Refills:*2*
+5. atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): 
+home medication.  
+6. levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day) for 4 weeks: until follow up in 4 weeks.
+Disp:*56 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+1.Acute subdural hematoma
+2.Thrombocytopenia, likely ITP (immune thrombocytopenic purpura)
+3. Guiaic postive stool
+
+Secondary Diagnosis:
+1) HTN
+2) vitamin D deficiency
+3) s/p laparoscopy for pelvic pain, uncertain when
+4) s/p appendectomy age ___
+5) s/p trigger finger release
+6) last colonoscopy ~1 mo ago, polyp removed, she was told it 
+was
+benign
+7) premature ovarian failure age ___, no periods since
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___
+
+___ was a pleasure taking care of you. You were admitted after a 
+motor vehicle accident, and was found to have a small subdural 
+hematoma, which means you had a bleeding in your brain that had 
+stopped. You were initially admitted to the neurosurgery 
+service, who decided to treat you conservatively, without 
+surgery. Your neurological exam and CT scans had been stable 
+during your stay. Due to your head injury, you are at an 
+increased risk of seizures. You were started on an anti-seizure 
+medication (Keppra) and will stay on this medication for 4 
+weeks. We also recommend that you avoid lifting heavy objects, 
+taking any drugs that will thin your blood (such as aspirin), 
+and use stool softner for the next month. If you do develop an 
+change in your mental status, new or worsening headaches, vision 
+problems, or gait problem, please report to a physician 
+___. 
+
+During this admission, it was incidentally found that you had a 
+low platelet count, which may be due to a condition called 
+Immune Thrombocytopenic Purpura (ITP), a condition caused by 
+increased destruction of platelets due to unknown cause. Your 
+HIV test was negative. You were treated with steriods for 4 days 
+and one infusion of IVIG. We also transfused you with 3units of 
+platelets. You platelet counts returned to normal on ___. You 
+will need to check your platelets at the followup visit.
+
+The medications you will go home with are:
+1. Keppra (Levetiracetam)500 mg every 12 hours: This is the 
+anti-seizure medication. You will stay on this medication for 4 
+weeks. You will followup with the neurosurgeon attending who 
+took care of you, Dr. ___.
+2. Atenolol 25 mg everyday: This is a medicaiton for your blood 
+pressure. We ideally want to keep your systolic blood pressure 
+under 160 to prevent possible extension of the bleed inside your 
+head.
+3. Docusate Sodium 100mg and Senna 8.6mg everyday: these 
+medications will help soften your stool to prevent straining 
+when you go to the bathroom.
+4. Oxycodone 5mg and acetaminophen 325mg daily: these 
+medications will help manage your pain
+
+Here are additional recommendations from neurosurgery:
+1. Take your pain medicine as prescribed
+2. Exercise should be limited to walking; no lifting, straining, 
+or excessive bending.
+3. Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+4. Unless directed by your doctor, do not take any 
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, or 
+Ibuprofen etc. 
+5. If a physican recomends for you to begin a medication such as 
+Coumadin (Warfarin), or Plavix (clopidogrel), or Aspirin 
+following to your injury, do not begin these until cleared by 
+Neurosurgery Dr ___.
+6. You have been discharged on Keppra (Levetiracetam)500 mg 
+every 12 hours, you will not require blood work monitoring.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11538575-DS-14 | hadm_id=23199722
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+peanuts / hydrochlorothiazide / Penicillins
+ 
+Attending: ___
+ 
+___ Complaint:
+left shoulder pain
+ 
+Major Surgical or Invasive Procedure:
+Left reverse total shoulder replacement ___, ___
+
+ 
+History of Present Illness:
+___ year old female with hx of left shoulder OA, rotator cuff 
+tear and ongoing pain that has failed conservative treatment.
+ 
+Past Medical History:
+OSA, latent TB, Obesity, brain injury from MVA, pre-diabetes A1c 
+5.8, renal cyst, Hep B, anemia, ITP->splenectomy ___, h/o 
+malaria, depression, s/p ex lap appy, lap oophorectomy, robotic 
+lap splenectomy
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Well appearing in no acute distress  
+Afebrile with stable vital signs  
+Pain well-controlled  
+Respiratory: CTAB  
+Cardiovascular: RRR  
+Gastrointestinal: NT/ND  
+Genitourinary: Voiding independently  
+Neurologic: Intact with no focal deficits  
+Psychiatric: Pleasant, A&O x3  
+Musculoskeletal Upper Extremity:  
+* Aquacel dressing with scant serosanguinous drainage  
+* Shoulder/arm full but soft  
+* ___ grip strength  
+* SILT, NVI distally  
+* Fingers warm and well perfused
+ 
+Pertinent Results:
+___ 07:15AM BLOOD Hgb-10.0* Hct-32.0*
+___ 09:20AM BLOOD WBC-4.7 RBC-3.66* Hgb-10.9* Hct-35.1 
+MCV-96 MCH-29.8 MCHC-31.1* RDW-14.8 RDWSD-52.0* Plt ___
+___ 07:15AM BLOOD Creat-0.8
+ 
+Brief Hospital Course:
+The patient was admitted to the orthopedic surgery service and 
+was taken to the operating room for above described procedure. 
+Please see separately dictated operative report for details. The 
+surgery was uncomplicated and the patient tolerated the 
+procedure well. Patient received perioperative IV antibiotics.
+
+Post-operative course was remarkable for the following:
+POD #1, patient was triggered for symptomatic orthostasis and 
+given 500 mL fluid bolus. Hct 32. Patient reported inadequate 
+pain control and was recommended to take Oxycodone more 
+routinely.
+POD #2, patient stated pain control improved and expressed 
+readiness for discharge. 
+
+Otherwise, pain was initially controlled with an intrascalene 
+block followed by a transition to oral pain medications on 
+POD#1.  The patient received Aspirin 81 mg twice daily while in 
+house for DVT prophylaxis starting on POD#1.  The patient was 
+voiding independently prior to discharge. The surgical dressing 
+will remain on until POD#7 after surgery. Labs were checked 
+throughout the hospital course and repleted accordingly. At the 
+time of discharge the patient was tolerating a regular diet and 
+feeling well.  The patient was afebrile with stable vital signs. 
+ The patient's hematocrit was acceptable and pain was adequately 
+controlled on an oral regimen. The operative extremity was 
+neurovascularly intact and the dressing was intact. 
+
+The patient's weight-bearing status is NON-weight bearing on the 
+operative extremity. Sling on at all times. ___ remove for 
+elbow/wrist and pendulum exercises.
+ 
+Ms. ___ is discharged to home with services in stable 
+condition.
+ 
+Medications on Admission:
+1. Acetaminophen 500 mg PO Q8H:PRN Pain - Mild/Fever 
+2. Simvastatin 20 mg PO QPM 
+3. diclofenac sodium 1 % topical QID pain 
+4. Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY 
+5. Aspirin 81 mg PO DAILY 
+6. Pyridoxine 100 mg PO DAILY 
+7. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Docusate Sodium 100 mg PO BID  
+2.  Gabapentin 300 mg PO TID  
+3.  OxyCODONE (Immediate Release) 2.5-5 mg PO Q4H:PRN Pain - 
+Moderate 
+4.  Pantoprazole 40 mg PO Q24H 
+Continue while on 4-week course of Aspirin 81 mg twice daily.  
+5.  Senna 8.6 mg PO BID  
+6.  Acetaminophen 1000 mg PO Q8H  
+7.  Aspirin EC 81 mg PO BID 
+Resume Aspirin 81 mg every day after 4 week course of Aspirin 81 
+mg twice daily.  
+8.  Pyridoxine 100 mg PO DAILY  
+9.  Simvastatin 20 mg PO QPM  
+10.  Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY  
+11.  Vitamin D 1000 UNIT PO DAILY  
+12. HELD- diclofenac sodium 1 % topical QID pain  This 
+medication was held. Do not restart diclofenac sodium until 
+you've completed your course of Aspirin
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+left shoulder OA
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+1. Please return to the emergency department or notify your 
+physician if you experience any of the following: severe pain 
+not relieved by medication, increased swelling, decreased 
+sensation, difficulty with movement, fevers greater than 101.5, 
+shaking chills, increasing redness or drainage from the incision 
+site, chest pain, shortness of breath or any other concerns.
+ 
+2. Please follow up with your primary physician regarding this 
+admission and any new medications and refills. 
+ 
+3. Resume your home medications unless otherwise instructed.
+ 
+4. You have been prescribed narcotic pain medication. You may 
+call ___ to refill this medication as needed.  Please 
+review our narcotics policy which is attached. Use the 
+medication only as prescribed. Take it with food. Please do not 
+drive, operate heavy machinery, or drink alcohol while taking 
+these medications. As your pain decreases, take fewer tablets 
+and increase the time between doses. 
+
+This medication can cause constipation, so you should drink 
+plenty of water daily and take a stool softener (such as Colace) 
+as needed to prevent this side effect.  Call your surgeons 
+office 3 days before you are out of medication so that it can be 
+refilled.  These medications cannot be called into your pharmacy 
+and must be picked up in the clinic or mailed to your house.  
+Please allow an extra 2 days if you would like your medication 
+mailed to your home.
+ 
+5. You may not drive a car until cleared to do so by your 
+surgeon.
+ 
+6. Please call your surgeon's office to schedule or confirm your 
+follow-up appointment in two (___) weeks.
+ 
+7. SWELLING: Ice your shoulder joint 20 minutes at a time, 
+especially after ROM exercises and when you start physical 
+therapy. Do not place ice directly on the skin. Please DO NOT 
+take any non-steroidal anti-inflammatory medications (NSAIDs 
+such as Celebrex, ibuprofen, Advil, Aleve, Motrin, naproxen etc) 
+until cleared by your physician. This may effect your healing.
+ 
+8. ANTICOAGULATION: Please continue your Aspirin 81 mg twice 
+daily for four (4) weeks to help prevent deep vein thrombosis 
+(blood clots).  Continue Pantoprazole daily while on Aspirin to 
+prevent GI upset (x 4 weeks).  If you were taking Aspirin prior 
+to your surgery, take it at 81 mg twice daily until the end of 
+the 4 weeks, then you can go back to your normal dosing.
+ 
+9. WOUND CARE: Please remove Aquacel dressing on POD#7 after 
+surgery. It is okay to shower after surgery but no tub baths, 
+swimming, or submerging your incision until after your four (4) 
+week checkup. Please place a dry sterile dressing on the wound 
+after aqaucel is removed each day if there is drainage, 
+otherwise leave it open to air. Check wound regularly for signs 
+of infection such as redness or thick yellow drainage.  Staples 
+will be removed by/at your rehab/follow-up visit in ___ weeks.
+  
+10. ACTIVITY: NON-Weight bearing on the operative extremity. You 
+MUST wear your sling for 6 weeks. You may come out of your sling 
+to perform elbow and wrist exercises and shower, but must 
+replace the sling upon completion. You MAY do pendulum 
+exercises. Please read the discharge paperwork for home 
+exercises/pendulums you can perform upon discharge from the 
+hospital. 
+Physical Therapy:
+NON-Weight bearing on the operative extremity
+Wear your sling for 6 weeks
+Come out of your sling to perform elbow and wrist exercises and 
+shower, but must replace the sling upon completion
+Do pendulum exercises
+Treatments Frequency:
+remove aquacel POD#7 after surgery
+apply dry sterile dressing daily if needed after aquacel 
+dressing is removed
+wound checks daily after aquacel removed
+staple removal and replace with steri-strips at follow up visit 
+in clinic
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11538575-DS-11 | hadm_id=26098780
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+vaginal bleeding
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ yo w/ITP presents with bleeding. Pt is on chronic prednisone. 
+She went to ___ and ran out of prednisone 6 days ago She 
+began to have increased bruising and bleeding 5 days ago. 
+Bleeding from vagina, urine, and ear, denies rectal bleeding. No 
+CP, SOB or LH.
+In ED pt c/o HA and had had Head CT, renal and pelvic US all 
+without active bleeding. She was given 50mg prednisone per 
+hematology recs.
+On arrival to floor pt denies HA.
+
+ 
+Past Medical History:
+Hypertension
+premature ovarian failure age ___, no periods since
+ITP
+- chronic prednisone, treated w/Rituxan, Nplate and IVIG in past
+prior HBV exposure
+
+Surg hx
+appendectomy age ___
+trigger finger release
+ex-lap
+
+ 
+Social History:
+___
+Family History:
+no ITP
+ 
+Physical Exam:
+VS: 98.1  129/79  60  18  100%ra
+PAIN: 0
+GEN: nad
+SKIN: multiple ecchymosis
+HEENT: mmm
+CV: rrr
+CHEST: ctab
+ABD: nabs, soft, nt/nd
+EXT: no e/c/c
+NEURO: follows commands, answering questions appropriately
+ 
+Pertinent Results:
+___ 05:20PM   GLUCOSE-105* UREA N-26* CREAT-1.1 SODIUM-139 
+POTASSIUM-3.8 CHLORIDE-103 TOTAL CO2-24 ANION GAP-16
+___ 05:20PM   ALT(SGPT)-12 AST(SGOT)-23 ALK PHOS-59 TOT 
+BILI-0.1
+___ 05:20PM   ALBUMIN-4.0
+___ 05:20PM   WBC-4.8 RBC-3.82* HGB-11.1* HCT-33.4* MCV-88 
+MCH-29.0 MCHC-33.1 RDW-14.5
+___ 05:20PM   NEUTS-59.6 ___ MONOS-4.3 EOS-4.0 
+BASOS-0.4
+___ 05:20PM   PLT SMR-VERY LOW PLT COUNT-20*#
+___ 05:34PM   LACTATE-1.1
+
+Renal US wetread: No free fluid/hemorrhage. No stones or hydro. 
+1.6 cm complex septated cyst in the upper pole of left kidney 
+should be followed up as an outpatient. 
+
+Pelvic US wetread: Normal uterus and remnant left ovary. No 
+fluid collection or free fluid.
+
+Head CT wetread: No acute process.
+ 
+Brief Hospital Course:
+ASSESSEMENT & PLAN: ___ yo w/ITP presents with bleeding after 
+running out of prednisone.
+
+Pt was seen by hematology and her prednisone was changed to 70mg 
+daily.  She did well on this dose with an immediate decrease in 
+bleeding and increase in platelet count.  She was clinically 
+stable and therefore discharged to home.  She is continuing to 
+follow with her hematologist and will be referred for 
+splenectomy as an outpatient.
+
+HTN: well controlled
+- cont home HCTZ
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PredniSONE 10 mg PO DAILY 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Hydrochlorothiazide 25 mg PO DAILY 
+2. PredniSONE 70 mg PO DAILY 
+RX *prednisone 10 mg 7 tablet(s) by mouth once a day Disp #*210 
+Tablet Refills:*0
+3. Acetaminophen 650 mg PO Q6H:PRN pain 
+4. Outpatient Lab Work
+CBC
+Dx- thrombocytopenia
+5. Outpatient Lab Work
+CBC
+dx thrombocytopenia
+6. Ranitidine 75 mg PO DAILY 
+RX *ranitidine HCl 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+low platelets
+
+ 
+Discharge Condition:
+improved
+
+ 
+Discharge Instructions:
+continue to take prednisone 70mg once a day until you see the 
+hematologist
+you can take tylenol for your left sided pain, but avoid 
+ibuprofen, naprosyn, aspirin
+avoid activities that could result in spleen injury-- nothing 
+more than brisk walking for now
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11538575-DS-12 | hadm_id=26824036
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+ITP
+ 
+Major Surgical or Invasive Procedure:
+Robotic splenectomy: ___
+ 
+History of Present Illness:
+___ w ITP treated refractory to steroid therapy and complicated 
+by steroid side effects.  She requires nplate to maintain her 
+platelets greater than >50k.  She is also hepatitis B positive 
+and is on lamivudine therapy.  She has had difficulty losing 
+weight with steroid therapy.  She denies any fevers, chills, or 
+new symptoms.  Does notice feet swelling.  Since her last visit 
+she has decreased her prednisone to 5mg daily.  She has not 
+finished her vaccinations. She lost 10lb since her last visit.  
+She also has latent TB and is being treated for it.
+ 
+Past Medical History:
+PMHx: ITP, latent TB, HBV, HTN, HLD, vitamin D deficiency
+
+PSHx: appendectomy ___, R oophorectomy ___, laparoscopy and 
+ex-lap/LOA for pelvic pain ___
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+99.0, 80, 120/68, 20, 96%RA
+Gen: NAD, A&O
+CV: RRR, no MRG, normal S1/S2
+Pulm: CTA b/l
+Abd: nondistended, scars c/d/i, closed with dermabond, soft, 
+nontender
+Ext: trace BLE edema 
+ 
+Pertinent Results:
+___ 03:27PM BLOOD WBC-8.0 RBC-3.73* Hgb-10.6* Hct-34.5* 
+MCV-92 MCH-28.5 MCHC-30.8* RDW-13.9 Plt ___
+___ 10:30AM BLOOD WBC-6.7 RBC-3.50* Hgb-10.5* Hct-32.2* 
+MCV-92 MCH-29.9 MCHC-32.5 RDW-13.8 Plt Ct-93*
+___ 11:09PM BLOOD WBC-6.2 RBC-3.71* Hgb-10.7* Hct-34.6* 
+MCV-93 MCH-28.9 MCHC-31.0 RDW-13.9 Plt Ct-70*
+___ 12:20PM BLOOD WBC-4.4 RBC-3.86* Hgb-11.6* Hct-34.3* 
+MCV-89 MCH-30.0 MCHC-33.8 RDW-13.8 Plt Ct-69*
+ 
+Brief Hospital Course:
+Ms ___ was admitted to the hospital after her robotic 
+splenectomy, which she tolerated well. She went from the PACU to 
+the general surgery floor. Her CXR showed no PTX after a CVL was 
+placed. She was advanced on POD 0 to clears and PCA was 
+transitioned to oral pain medications. Her platelets were 
+checked every six hours and remained stable (60-70). On POD1, 
+the foley was removed and she voided. She was ambulating off 
+oxygen, tolerated a good amount of oral intake, ate a regular 
+diet, and intravenous fluids were discontinued. On POD2, the 
+central line was removed. She was seen walking the hallways 
+independently multiple times throughout the day. On POD3 she 
+continued to do well and tylenol was discontinued because the 
+patient is on isoniazid. On POD4 she was discharged to home with 
+services. At time of discharge, she was tolerating a regular 
+diet, ambulating independently, voiding, and her pain was 
+well-controlled on oral pain medications. She had previously 
+received the pneumococcal and meningococcal vaccines ___, so 
+these were not required prior to discharge. She will follow-up 
+with her Hematologist next week and in surgery clinic in ___ 
+weeks.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Cyclobenzaprine 10 mg PO TID:PRN neck pain 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+3. Isoniazid ___ mg PO DAILY 
+4. LaMIVudine 100 mg PO DAILY 
+5. TraMADOL (Ultram) 50 mg PO Q8H:PRN pain 
+6. Acetaminophen 1000 mg PO Q8H:PRN pain (NTE 4gm/day) 
+7. chlorhexidine gluconate 4 % topical one application as 
+directed; apply once a day for 2 weeks 
+8. Pyridoxine 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Cyclobenzaprine 10 mg PO TID:PRN neck pain 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+3. Isoniazid ___ mg PO DAILY 
+4. LaMIVudine 100 mg PO DAILY 
+5. Pyridoxine 100 mg PO DAILY 
+6. Docusate Sodium 100 mg PO BID 
+7. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four hours as 
+needed for pain Disp #*30 Tablet Refills:*0
+8. Senna 8.6 mg PO BID 
+9. chlorhexidine gluconate 4 % topical one application as 
+directed; apply once a day for 2 weeks 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+ITP
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted to the hospital after your robotic 
+splenectomy. You did well after surgery and are now ready to 
+complete your recovery at home. 
+
+Please call your doctor or nurse practitioner if you experience 
+the following:
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+*New or worsening cough, shortness of breath, or wheeze.
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+*Your pain is not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+General Discharge Instructions:
+Please resume all regular home medications , unless specifically 
+advised not to take a particular medication.  Also, please take 
+any new medications as prescribed.
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids.  Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon, who will instruct you further regarding activity 
+restrictions.
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+Incision Care:
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site.
+*Avoid swimming and baths until your follow-up appointment.
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water.  Gently pat the area dry.
+*If you have staples, they will be removed at your follow-up 
+appointment.
+*If you have steri-strips, they will fall off on their own.  
+Please remove any remaining strips ___ days after surgery.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11538575-DS-10 | hadm_id=28208672
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+pedestrian MVA
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This a ___ with HTN, recent diagnosis of thombocytopenia, stable 
+subdural hematoma, who presents today after a pedestrian MVA 
+yesterday, with + head strike. She d/ced on ___ after a 5-day 
+admission for MVA when she was hit in her taxi cab by a trailer. 
+During that admission she was found to have a stable SDH, 
+managed non-operatively, and thrombocytopenia. Platelets was in 
+the ___, s/p 3U platelet tranfusion, 1 IVIG, and 4-day course 
+of dexamethasone 40mg, and discharged with a platelet of 129.  
+.  
+In the interim since her previous discharge, pt reports that she 
+has had a unchanging headachde. She was seen at the scheduled 
+out-pt followups by Dr. ___ ___ PCP, was noted to 
+have plt count of 38 from 129 at dicharge. She was started on 
+60mg of prednisone qday. First dose was 2days ago.  
+.  
+Pt reports that she was walking across the street yesterday at a 
+cross-walk when she was invovled in a witnessed, pedestrian MVA. 
+She reports being hit on the R-flank, hitting the hood of the 
+car, then ground, with positive right-sided head strike. She 
+denies LOC. She reports headache and pain on her right flank, 
+abdomen. She was initially taken to ___ by 
+ambulance. CT was normal. she requested to be transferred to 
+___. 
+.
+In the ED, her H/A resolved. Complaining of new, sharp bilateral 
+lower quadrant pain & lower back pain. Grossly neurologically 
+intact. CT-HEAD showed stable SDH. She received dilaudid 1mg/1mL 
+x2 6-hours apart. Upon transfer to the floor, pt deneis n/v/d, 
+CP, headaches, dizziness, diploplia, weakness, dysarthria, or 
+gait changes.  
+
+ 
+Past Medical History:
+1) Hypertension
+2) Exploratory laparotomy for pelvic pain (negative)
+3) appendectomy age ___
+4) vitamin D deficiency
+5) status post laparoscopy for pelvic pain, uncertain when
+6) staus post trigger finger release
+7) last colonoscopy ~1 mo ago, polyp removed, she was told it 
+was
+benign
+8) premature ovarian failure age ___, no periods since
+
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+Physical Exam (Upon Transfer):  
+Vitals 97.8, 152/86, 62, 20, 98% RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric b/l periorbital bruising (improving from 
+previous discharge on ___, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Back: diffuse pain at rest and upon palpation most prenounced on 
+Right flank. No ecchymosis.  
+Abdomen: soft, tender, non-distended, bowel sounds present  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis. 1+ 
+edema  
+Skin: no new ecchymosis, abrasions  
+
+Discharge Exam:
+Vitals 98.8, 98.8, 120-152/70-90, 62-72, ___, 98-100% RA
+General: AOx3, no acute distress  
+HEENT: Sclera anicteric b/l periorbital bruising (improving from 
+previous discharge on ___, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Back: diffuse pain at rest and upon palpation most prenounced on 
+Right flank. No ecchymosis.  
+Abdomen: soft, tender, non-distended, bowel sounds present  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis. 1+ 
+edema  
+Skin: no new ecchymosis, abrasions  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+CBC:
+___ 01:20PM BLOOD WBC-12.8* RBC-3.94* Hgb-11.4* Hct-34.8* 
+MCV-88 MCH-29.1 MCHC-32.9 RDW-14.4 Plt Ct-41*#
+___ 01:20PM BLOOD Plt Ct-41*#
+.
+CHEM:
+___ 03:00AM BLOOD Glucose-129* UreaN-20 Creat-0.8 Na-135 
+K-4.1 Cl-104 HCO3-19* AnGap-16
+.
+DISCHARGE LABS:
+CBC:
+___ 06:49AM BLOOD WBC-13.4* RBC-3.51* Hgb-10.1* Hct-30.3* 
+MCV-86 MCH-28.6 MCHC-33.2 RDW-14.0 Plt Ct-50*
+___ 06:49AM BLOOD Plt Ct-50*
+.
+CHEM:
+___ 06:49AM BLOOD Glucose-103* UreaN-21* Creat-0.8 Na-142 
+K-3.9 Cl-106 HCO3-24 AnGap-16
+.
+IMAGING:
+CT-HEAD:
+IMPRESSION: 
+1. Evolution of small left subdural hemorrhage. 
+2. No evidence of new intracranial hemorrhage or fractures. 
+
+CT-C-spine:
+No fractures.
+.
+CT-ABD:
+1. Acute proctocolitis. 
+2. Degenerative lumbar spine disease. 
+3. Left renal atrophy. 
+.
+CXR:
+Moderate cardiomegaly. No radiographic evidence of injury.
+
+ 
+Brief Hospital Course:
+Assessment:This is a ___ with HTN, thrombocytopenia, 
+stable/slightly smaller SDH, who is admitted today for a second 
+MVA, without any abrasions or external bruises on exam and 
+negative imaging for bleeds or fractures, CT-HEAD showed 
+resolving SDH. She was observed o/n and discharged home in 
+stable condition. 
+.  
+ACTIVE ISSUES:
+#SUBDURAL HEMATOMA in the setting of recent head-strike from 
+last admission (___): CT showed a 6mm stable SAH from 
+previous 7mm. No new incranial process or fracture noted on this 
+admission.  We continued seizure rophylaxis (keppra 500mg BID) 
+per previous neurosurgery rec until outpatient f/u appointment 
+on ___. No need for repeat imaging unless change in exam, 
+scheduled CT as outpatient on ___. On atenolol 25mg qday for 
+goal SBP <160 and bowel regimen (senna and colace) to decrease 
+straining during bowel movements. 
+.  
+#THROMBOCYTOPENIA: Incidentally discovered at last admission 
+(___). Previous inpatient workup unrevealing (HIV negative). 
+Currently being managed as ITP. Followed by PCP and outpatient 
+heme. Started on prednisone 60mg qday 2 days prior to admission. 
+Discharge platelet trended up to 51.
+.  
+#BACK PAIN: In the setting of MVA. Manage with oxycodone 5 
+q6hr/prn pain.  
+.
+# Black stool: No need to guaiac since pt had known proctitis on 
+CT-abdomen, no other intra-abdominal abnl. She also had a 
++guaiac at last hospital visit ___ to 
+thrombocytopenia and normal colonoscopy ~2months ago at OSH. 
+This will mentioned to PCP for OSH followed up.  
+.
+INACTIVE ISSUES:
+#HYPERTENSION:  SBP goal <160. Pt was mildly hypertensive in ED, 
+but normalized on the floor. We continue dAtenolol 25 mg PO/NG 
+DAILY
+.  
+# VITAMIN D DEF:  Continued home vitamin D and calcium 
+supplements. 
+.
+TRANSFER OF CARE:
+1. ? GI bleed: Per patient, she had a normal colonoscopy with 
+removal of benign 
+polyp 1 month ago and has f/u colonoscopy in ___, although 
+malignancy may be unmasked by thrombocytopenia. Admission ABD-CT 
+showed proctocolitis. We spoke with PCP's office at ___ (Dr. 
+___. Pt has an followup appointment scheduled for 
+___ at 2:30pm. Pt does not have ___ gastroenterologist. We 
+recommended further workup for this issue and possible GI 
+referral. 
+2. Resolving SDH-If she develops visions changes, new/worsening  
+headache, gait abnormality, confusion, or any other neurological 
+ symptoms may indicate expansion of SDH. Pt will need emergent 
+CT and evulation.
+3. Thrombocytopenia-please f/u platelet counts to monotiro  
+improvement. If pt continues to be severely thrombocytopenic, 
+she may need BM biopsy for evaluation and/or splenectomy 
+depending on BM results. 
+4. Renal hypodensity of L upper pole likely a cyst incidentally 
+discovered on last admission-please follow on imaging.  
+
+ 
+Medications on Admission:
+1. Keppra 500mg BID  
+2. Prednisone 60mg qday  
+3. Atenolol 25 mg qday  
+4. oxycodone 5mg q6hr/prn headache  
+5. docusate sodium 100mg BID  
+6. senna 8.6mg daily  
+7. acetaminophen 325mg q6hr/prn headache 
+
+ 
+Discharge Medications:
+1. levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+2. prednisone 20 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).  
+3. atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+5. senna 8.6 mg Tablet Sig: ___ Tablets PO DAILY (Daily).  
+6. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+7. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours) as needed for pain for 3 days.  
+8. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1) 
+Tablet PO MWF (___).  
+10. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable 
+Sig: One (1) Tablet, Chewable PO DAILY (Daily).  
+11. Tylenol ___ mg Tablet Sig: One (1) Tablet PO every eight (8) 
+hours as needed for pain: do not exceed 3g/day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+1. MVA
+
+Secondary diagnosis:
+1. Stable Subdural Hematoma
+2. Thrombocytopenia
+3. HTN
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+.
+It was pleasure participating in your care when you were 
+admitted after a pedestrian motor vehicle accident, in which you 
+were hit by a car. You did not have any external injuries and 
+bruises. There was no sign of fractures or internal bleeding on 
+imaging; you subdural hematoma appeared to be resolving from 
+your last admission. We managed your pain with oral pain 
+medication. 
+.
+You did report darkening of your stool during this admission. We 
+were reassured by the fact that imaging of your abdomen did not 
+show any bleeding. The imaging did show a condition called 
+proctocolitis, which is inflammation of your rectum and colon. 
+You also had a guaiac positive stool on your last admission in 
+the setting of low platelets. We were reassure that, according 
+to you, your recent colonoscopy at ___ 
+approximately two months ago with normal findings. We notified 
+your primary care physician at ___ of your course and our 
+findings. He has been notified that you need a gastroenterology 
+referral for further evaluation and followup. 
+.
+The new medications you will go home on are:
+1. Ranitidine: this is a medication you should take while you 
+are taking prednisone to prevent any stomach ulcers.
+2. Bactrim: this is a medication you should take while on 
+prednisone for the prevention of any secondary infections
+
+ 
+Followup Instructions:
+___

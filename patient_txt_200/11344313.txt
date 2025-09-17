@@ -1,0 +1,569 @@
+===== DISCHARGE NOTE =====
+note_id=11344313-DS-16 | hadm_id=23035471
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Erythromycin Base / Codeine / Paroxetine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hypotension, tachycardia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ y.o. F with HTN, HLD, anxiety, L.
+breast cancer s/p L. axillary and sentinel node dissection +
+radiation (___), R. brachial plexus injury at birth who
+presents with reported tachycardia and hypotension at her rehab
+and is now being admitted on ___ for further evaluation 
+of
+her tachycardia, hypotension. 
+
+Per EMS, her HR was elevated to 180s, and BP was recorded as
+64/52 on ___ at ~1300pm. Per a nurse at her facility (___
+Residence @___), her VS an hour later were as follows:
+BP 103/70, HR 118. She became hypotensive again overnight to
+88/58, with HR 107, and refused VS in the morning. During these
+episodes, she complained of weakness, but was otherwise
+asymptomatic. The rehab physician was contacted at night and
+d/c'ed her diltiazem which had recently been started during a
+hospitalization in ___, and started her on digoxin 0.125mg
+qd. This morning, pt refused vital signs and she was 
+subsequently
+sent to the ED for further monitoring of VS. Notably, her son
+tells us she has poor fluid intake and he is constantly 
+reminding
+her to take in more fluids. 
+
+Of note, she was recently admitted to the Neurology service from
+___. She was admitted for word-finding difficulty and
+transient blank staring, which was thought to be ___ anxiety;
+prior to these episodes, she was not filling her prn clonazepam.
+Stroke, TIA, and seizure were thought to be less likely, based 
+on
+w/u. Her hospital course was c/b several long runs of SVT for
+which she was initially treated with IV and PO metoprolol, which
+were not effective. She was started on diltiazem which was
+uptitrated to dilt ER 180mg qd. She was initiated on baby ASA 
+and
+diltiazem for rate control, and her home statin was discontinued
+due concern for interaction with diltiazem.
+
+She reports mild dysuria toward the end of her urinary stream, 
+as
+well as urinary frequency, but states this is a chronic issue
+that has been going on for months. She also endorses
+non-productive cough when she does not take her home
+anti-histamine. Denies HA, fever, chills, night sweats,
+rhinorrhea, sore throat, CP, palpitations, abd pain, nausea,
+vomiting, diarrhea, constipation, cold/heat intolerance, 
+episodes
+in which she becomes diaphoretic, dysuria, urinary incontinence
+or urgency.
+ 
+Past Medical History:
+Breast cancer s/p resection and radiation therapy
+HTN
+HLD
+Anxiety with panic attacks
+Osteoporosis
+L5 subluxation
+R. brachial plexus injury at birth 
+Carpal tunnel
+Shingles in the ophthalmic branch in the right side without
+ocular involvement in ___
+ 
+Social History:
+___
+Family History:
+Non-contributory. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+VITALS: T 98.4, BP 149/84, HR 105, RR 17, SpO2 95& RA
+GENERAL: Alert and interactive. Well-appearing. In no acute
+distress.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.
+CARDIAC: ?Irregular rhythm (no prior documented h/o afib),
+tachycardic. Audible S1 and S2. No murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No suprapubic tenderness.
+EXTREMITIES: warm, dorsalis pedis pulses 2+ b/l. No clubbing,
+cyanosis, or edema. 
+SKIN: No visible rash. 
+NEUROLOGIC: A&Ox3. CN2-12 grossly intact. No appreciable focal
+neurologic deficits. Conversational, no word-finding 
+difficulties
+appreciated on exam.
+
+DISCHARGE PHYSICAL EXAM
+=======================
+VITALS: 97.9 PO 123/80 L Lying 97 18 97 Ra 
+GENERAL: Alert and interactive. Well-appearing. Coughing
+intermittently
+HEENT: NCAT. PERRL, EOMI. 
+CARDIAC: regular rhythm, tachycardic. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. 
+ABDOMEN: Normal bowels sounds, non distended,
+EXTREMITIES: warm, chronic weakness in RUE, 1+ pitting edema to
+mid calf
+SKIN: No visible rash. 
+NEUROLOGIC: A&Ox3. CN2-12 grossly intact. No appreciable focal
+neurologic deficits. Conversational, no word-finding 
+difficulties
+appreciated on exam.
+
+ 
+Pertinent Results:
+ADMISSION LAB RESULTS
+=====================
+___ 10:35AM BLOOD WBC-6.0 RBC-4.29 Hgb-13.5 Hct-41.8 MCV-97 
+MCH-31.5 MCHC-32.3 RDW-13.5 RDWSD-48.1* Plt ___
+___ 10:35AM BLOOD Glucose-111* UreaN-24* Creat-0.9 Na-139 
+K-5.5* Cl-102 HCO3-27 AnGap-10
+___ 10:35AM BLOOD Calcium-9.1 Phos-3.9 Mg-2.1
+
+DISCHARGE LAB RESULTS
+=====================
+___ 07:16AM BLOOD WBC-7.3 RBC-4.29 Hgb-13.3 Hct-40.8 MCV-95 
+MCH-31.0 MCHC-32.6 RDW-13.4 RDWSD-46.8* Plt ___
+___ 06:46AM BLOOD Glucose-101* UreaN-14 Creat-0.8 Na-145 
+K-5.4 Cl-105 HCO3-27 AnGap-13
+
+IMAGING
+=======
+___ CXR
+No convincing evidence for pneumonia.  Likely background 
+emphysema.
+
+MICROBIOLOGY
+============
+___ Urine Culture
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ y.o. F with HTN, HLD, anxiety, L. 
+breast cancer s/p L. axillary and sentinel node dissection 
++radiation (___), R. brachial plexus injury at birth who 
+presents with reported hypotension at rehab. She had several 
+episodes of supraventricular tachycardia seen on telemetry. The 
+patient was asymptomatic during these episodes. She remained 
+hemodynamically stable. she was found to be orthostatic. She was 
+given IV fluid boluses, which improved orthostatics. She was 
+continued on diltiazem 180 mg daily. She tolerated this 
+medication well.
+
+#AVNRT 
+As above, patient had several episodes of supraventricular 
+tachycardia. She was asymptomatic and on the commode at this 
+time. Electrophysiology was consulted, who recommended 
+continuing diltiazem extended release 180 mg daily. They did not 
+recommend any medication changes as the patient was asymptomatic 
+during her episodes of SVT. Her blood pressures remained stable. 
+We did find that she was taking a first generation antihistamine 
+for her allergies, called chlorpheniramine - a Beer's list 
+medication that should be avoided in adults over the age of ___ 
+due to high risk of anticholinergic toxicity. We told her to 
+stop taking this medication.
+
+#Cough
+The patient developed a dry cough while inpatient. This was in 
+the setting of holding her home allergy medication. It is 
+possible that her home allergy medication was contributing to 
+her tachycardia (she was taking chlorpheniramine, a Beer's list 
+medication that should be avoided in adults over the age of ___ 
+due to high risk of anticholinergic toxicity). She was started 
+on cetirizine while inpatient and instructed not to take 
+chlorpheniramine anymore. The patient refused nasal sprays while 
+inpatient.
+
+#Orthostatic hypotension
+Patient was found to have very mild orthostatic hypotension. She 
+was asymptomatic during the checks. She was given two 500 cc 
+boluses of IV fluid. Her orthostatic hypotension resolved. TSH 
+was normal. B12 was normal. The patient was encouraged to 
+continue to have good p.o. intake.
+
+#UTI
+The patient presented with acute on chronic dysuria. UA 
+concerning for urinary tract infection. She was given 
+ceftriaxone for 3 days from ___.
+
+#Anxiety
+Continued home clonazepam 0.5mg bid 
+
+> 30 minutes spent on discharge-related activities today.
+
+TRANSITIONAL ISSUES
+===================
+- Cetirizine was started for patient's allergies. She should 
+continue taking this medication or another second generation 
+antihistamine and avoid taking first generation antihistamines 
+due to anticholinergic toxicity.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ClonazePAM 0.5 mg PO BID anxiety 
+2. Aspirin 81 mg PO DAILY 
+3. Digoxin 0.125 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Cetirizine 10 mg PO BID 
+RX *cetirizine 10 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+2.  Diltiazem Extended-Release 180 mg PO DAILY 
+RX *diltiazem HCl 180 mg 1 capsule(s) by mouth once a day Disp 
+#*30 Capsule Refills:*0 
+3.  Aspirin 81 mg PO DAILY  
+4.  ClonazePAM 0.5 mg PO BID anxiety  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+- SVT/AVNRT
+- Hypotension
+- UTI
+
+Secondary Diagnosis
+- Allergies
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+======================  
+DISCHARGE INSTRUCTIONS  
+======================  
+
+Dear Ms. ___,  
+It was a pleasure caring for you at ___ 
+___.
+
+WHY WAS I IN THE HOSPITAL?  
+- You came to the hospital because you were found to have low 
+blood pressure. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- We treated you with antibiotics for three days for a urinary 
+tract infection
+- We also gave you IVF fluids because you were dehydrated
+- We continued you on the Diltiazem medication to control your 
+rapid heart rates. 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+- Continue to take all your medicines and keep your 
+appointments.
+- Please continue to take cetirizine for your allergies. This is 
+a safer allergy medication. 
+
+We wish you the best!
+
+Sincerely,  
+Your ___ Team  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11344313-DS-15 | hadm_id=23671860
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Erythromycin Base / Codeine / Paroxetine
+ 
+Attending: ___
+ 
+Chief Complaint:
+word-finding difficulties, blank stare
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Per report, ___, pt's son came home from work and found mother
+w/ mild word-finding difficulties. This worsened as the evening
+progressed. He reported that she could not remember her own
+maiden name or son's middle name.
+Brought to ___. CT showed no acute findings. ECG showed
+intermittent atrial fibrillation. Labwork unremarkable.
+Transferred to ___ for further evaluation.
+No episodes of confusion or word-finding difficulty noted in
+past.
+
+RoS: As per HPI; o/w negative.
+
+ 
+Past Medical History:
+breast cancer status post resection and radiation therapy
+hypertension
+hyperlipidemia
+anxiety 
+ 
+Social History:
+___
+Family History:
+Unknown
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+CV: Adequately-perfused throughout.
+Pulm: Nonlabored breathing.
+Extr: 1+ edema in b/l LEs.
+Neur:
+MS: Oriented to self and place. Oriented to year. Able to say
+multi-word phrases. Hesitant speech pattern. Difficulty
+initiating. During examination, seemed to perseverate on a few
+topics.
+CN: PERRL. EOMI. Symmetric face; tongue midline.
+Motor: Normal tone and bulk throughout. ___ strength in b/l
+deltoids, biceps and IPs. ___ triceps, ___ EHLs. Able to lift
+both legs and hold up for 3 seconds.
+Reflex: 3+ biceps, BRs. 3+ patellae; (+) cross abd. Several 
+beats
+of clonus in b/l ankles.
+Coordin: No dysmetria.
+Gait: Deferred.
+
+DISCHARGE PHYSICAL EXAM
+=======================
+Mental status: 
+Patient awake, alert. Oriented to person, place, date. Able to
+say ___ backwards.
+
+Cranial nerves: 
+PERRL. EOMI, no nystagmus. No ptosis. Facial sensation normal.
+Face symmetric. Hearing intact. No dysarthria. Shoulders sit
+symmetrically. Tongue protrudes to midline.    
+
+Sensory/Motor:
+Intact to light touch throughout
+RUE ___ (baseline, brachial plexus injury)
+LUE ___
+RLE LLE 4+/5
+
+Reflexes, coordination and gait deferred
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 06:40AM BLOOD WBC-5.6 RBC-4.05 Hgb-12.2 Hct-37.5 MCV-93 
+MCH-30.1 MCHC-32.5 RDW-13.2 RDWSD-44.5 Plt ___
+___ 06:40AM BLOOD Neuts-67.1 ___ Monos-7.9 Eos-1.6 
+Baso-0.5 Im ___ AbsNeut-3.73 AbsLymp-1.25 AbsMono-0.44 
+AbsEos-0.09 AbsBaso-0.03
+___ 06:40AM BLOOD Plt ___
+___ 06:40AM BLOOD Glucose-93 UreaN-11 Creat-0.5 Na-146 
+K-3.1* Cl-115* HCO3-19* AnGap-12
+___ 12:21PM BLOOD Glucose-121* UreaN-12 Creat-0.7 Na-141 
+K-5.4 Cl-106 HCO3-22 AnGap-13
+___ 06:40AM BLOOD ALT-7 AST-13 AlkPhos-44 TotBili-0.5
+___ 06:40AM BLOOD cTropnT-<0.01
+___ 06:40AM BLOOD Albumin-3.0* Calcium-6.9* Phos-2.4* 
+Mg-1.3* Cholest-134
+___ 12:21PM BLOOD Calcium-9.1 Phos-2.7 Mg-2.5
+___ 06:40AM BLOOD %HbA1c-5.7 eAG-117
+___ 06:40AM BLOOD Triglyc-56 HDL-44 CHOL/HD-3.0 LDLcalc-79
+___ 06:40AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 06:50AM BLOOD Lactate-1.1
+
+IMAGING
+=======
+CTA HEAD W&W/O C & RECONS Study Date of ___ 
+IMPRESSION:
+1. No evidence for an acute intracranial abnormality.  MRI would 
+be more 
+sensitive for an acute infarction, if clinically warranted. 
+2. Approximately 10% bilateral proximal internal carotid 
+stenosis by NASCET criteria.  Tortuous cervical internal carotid 
+arteries. 
+3. Moderate stenosis at the origin of the dominant left 
+vertebral artery. 
+4. Calcified plaque within bilateral carotid siphons and V4 
+segment of the 
+left vertebral artery without evidence for flow-limiting 
+stenosis.  No 
+evidence for flow-limiting stenosis in the major intracranial 
+arteries. 
+5. Paranasal sinus disease.
+
+MR HEAD W & W/O CONTRAST Study Date of ___  
+IMPRESSION:
+1. No acute infarction, hemorrhage, edema or mass. 
+2. Supratentorial white matter changes are nonspecific but 
+likely sequela of microvascular ischemic disease. 
+
+EEG Study Date of ___ 
+IMPRESSION: This is an abnormal continuous ICU EEG monitoring 
+study due to 
+initially mild background slowing in the 7 Hz range, indicative 
+of a mild 
+encephalopathy. This improves through the course of the 
+recording and by the end, a normal ___ Hz alpha frequency 
+posterior dominant rhythm is noted. Excessive beta fast activity 
+may be due to a medication effect (e.g. benzodiazepines). There 
+are no epileptiform discharges or seizures.
+
+TTE ___
+IMPRESSION: Normal biventricular wall thicknesses, cavity sizes, 
+and regional/global systolic function. Mild pulmonary 
+hypertension. No definite structural cardiac source of embolism 
+identified. No prior TTE available for comparison.
+
+DISCHARGE LABS
+==============
+___:35AM BLOOD WBC-6.9 RBC-4.13 Hgb-12.7 Hct-40.2 MCV-97 
+MCH-30.8 MCHC-31.6* RDW-13.7 RDWSD-49.5* Plt ___
+___ 05:35AM BLOOD Plt ___
+___ 05:35AM BLOOD Glucose-100 UreaN-23* Creat-0.8 Na-144 
+K-5.1 Cl-105 HCO3-27 AnGap-12
+___ 05:35AM BLOOD Calcium-9.2 Phos-4.4 Mg-2.0
+ 
+Brief Hospital Course:
+Ms. ___ is an ___ year old left handed woman with history 
+of breast cancer status post resection and radiation therapy, 
+hypertension, hyperlipidemia, and anxiety whom presented for 
+evaluation of 3 day history of word finding difficulty and two 
+events where she had blank staring and became unresponsive. She 
+was ruled out for seizure or acute stroke, course complicated by 
+AVNRT.
+
+#Anxiety related word finding difficulty: 
+Developed word finding difficulty, transient blank staring. 
+Admitted to the Neurologic ICU from ___, not principally 
+because of neurologic dysfunction but because of difficult to 
+control sinus tachycardia as below. Presentation initially 
+concerning for both stroke and seizure. Pertinently, has history 
+of anxiety and had not been able to take her clonazepam for 3 
+days because of inability to fill prescription, this is most 
+likely cause of her symptoms. MRI brain without evidence of 
+acute or subacute stroke and CVEEG reading normal, without 
+slowing or abnormal discharges. Although TIA remains on the 
+differential, it is less likely. Risk factors notable for HgA1C 
+5.7, LDL 79. TTE with EF 55-100%, no source of embolism 
+identified. Discontinued home simvastatin given interaction with 
+diltiazem and age. Continued home clonazepam. Intiated aspirin. 
+Neurologic exam normal at time of discharge. 
+
+#AVNRT:
+Course complicated by several long runs of SVT during admission. 
+Initially treated with metoprolol PO and IV, not effective. 
+Responded well to diltiazem 10 mg IV and therefore she was 
+started on diltiazem 30 mg Q6H, uptitrated to 180 mg daily 
+extended release. Continued to have a few runs with HR up to 
+160s max 30 min, remained asymptomatic in these episodes. Will 
+follow-up with cardiology as an outpatient.  
+
+TRANSITIONAL ISSUES:
+====================
+[] continue to monitor for symptomatic tachycardia, adjust 
+diltiazem PRN, consider ablation if pharmacologic interventions 
+unsuccessful
+[] per discussion with HCP, opted to discontinue tramadol to 
+avoid sedative effect, patient was without any pain during 
+admission off this medication
+[] discontinued home statin, tramadol, atenolol
+[] initiated aspirin, diltiazem 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 50 mg PO DAILY 
+2. Simvastatin 20 mg PO QPM 
+3. TraMADol 50 mg PO DAILY 
+4. ClonazePAM 0.5 mg PO BID PRN anxiety 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Diltiazem Extended-Release 180 mg PO DAILY  
+3.  ClonazePAM 0.5 mg PO BID PRN anxiety  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+benzodiazepine withdrawal 
+AVNRT
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to care for you at the ___ 
+___. 
+
+You came to the hospital because you developed blank staring and 
+difficulty with speech. We evaluated you for seizures and stroke 
+and found that you did not have either of these. We believe you 
+presentation may be related to not taking your clonazepam for 
+several days. While you were in the hospital, your heart rate 
+was very fast and we started you on a new medication called 
+"diltiazem" to better control your fast heart, this will replace 
+your "atenolol".
+
+Please continue to take your medications as prescribed and 
+follow-up with your doctors as ___.
+
+We wish you all the best,
+Your ___ care team
+ 
+Followup Instructions:
+___

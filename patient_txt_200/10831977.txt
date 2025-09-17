@@ -1,0 +1,444 @@
+===== DISCHARGE NOTE =====
+note_id=10831977-DS-10 | hadm_id=21894721
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+metoprolol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Tamponade
+ 
+Major Surgical or Invasive Procedure:
+Pericardial drain ___ - ___
+Intubated ___
+Temp HD line ___
+Extubation ___
+PA catheter ___ - ___
+ICD lead revision ___
+ 
+History of Present Illness:
+___ w/ history of sinus brady and cardiac ischemia on stress 
+test
+(no cath), seizure disorder, admitted after recurrent syncopal
+episodes. 
+
+These syncopal episodes have been occurring for the past couple
+wks. The first episode his sis described that the patient
+reported waking up at the bottom of his stairs and was unsure 
+how
+he got there, he decided not to seek medical care. The day he 
+was
+admitted, his friend went to his house to check on him and his
+friend found him on the floor. EMS was called and he was take to
+___ on ___. 
+
+At ___ he had a HR ~40BPM and developed paroxysmal Afib. A dual
+chamber PPM was placed on ___ for his tachy-brady syndrome. 
+His
+sister reported that today he became gray, diaphoretic, and
+confused. A rapid was called around 5pm, minimally responsive,
+initial BP 78/40 with repeat of 60/palp, received 2.5L to SBPs 
+in
+___, HR in 100s, increasingly hypoxic placed on 5L NC, bedside
+TTE demonstrated 1cm of pericardial fluid, new from TTE
+pre-procedure, signs of early tamponade then transferred to 
+___
+for further management. He received at total of 4L NS prior to
+transfer to ___. 
+ 
+On arrival to the CCU, patient was tachycardic w/irregular 
+rhythm
+to the <120, hypotensive on levo, hypoxic on nonrebreather at
+15L. A bedside echo was performed revealing a 1-1.5 cm
+pericardial effusion. The interventional cardiologists were
+notified and the patient was taken to the cath lab for a
+pericardialcentesis and placement of a pericardial drain. 
+
+ROS: Unable to assess due to poor MS.  
+ 
+___ Medical History:
+Cardiac History:
+- CAD on stress test ___ (declined cath)
+- Tachy-brady syndrome s/p dual chamber PPM ___
+
+Other PMH:
+- Seizure
+- Gout
+- Falls
+ 
+Social History:
+___
+Family History:
+No family hx of sudden death or early MI
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=======================
+VS:  Reviewed in METAVISION
+GENERAL: Ill appearing man. AOx2 
+HEENT: Normocephalic, atraumatic. Sclera anicteric. PERRL. EOMI. 
+
+NECK: Supple. JVP unable to assess 
+CARDIAC: Distant heart sounds Tachycardic, irregular regular
+rhythm. No murmurs, rubs, or gallops.  
+LUNGS: No chest wall deformities or tenderness. tachypnic  CTAB
+in anterior lung fields.
+ABDOMEN: Soft, non-tender, non-distended. No palpable
+hepatomegaly or splenomegaly.  
+EXTREMITIES: Cool. Some mottling on lower extremities. No
+clubbing or peripheral edema.  
+SKIN: No significant lesions or rashes.  
+PULSES: Distal pulses palpable but thready and symmetric.  
+NEURO: Moves all four. No focal deficits. 
+
+DISCHARGE PHYSICAL EXAM:
+=======================
+VS: asystole with no measurable BP or RR
+General: lying in bed, no spontaneous movements
+HEENT: pupils nonreactive to light
+CARDIAC: no heart sounds auscultated
+LUNGS: no breath sounds auscultated
+NEURO: no response to painful stimuli
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 12:05AM BLOOD WBC-8.3 RBC-3.03* Hgb-9.7* Hct-31.4* 
+MCV-104* MCH-32.0 MCHC-30.9* RDW-13.3 RDWSD-51.3* Plt ___
+___ 02:36PM BLOOD Neuts-77.5* Lymphs-10.0* Monos-11.8 
+Eos-0.0* Baso-0.1 Im ___ AbsNeut-9.63* AbsLymp-1.24 
+AbsMono-1.46* AbsEos-0.00* AbsBaso-0.01
+___ 12:05AM BLOOD ___ PTT-31.1 ___
+___ 12:05AM BLOOD Glucose-179* UreaN-20 Creat-1.2 Na-140 
+K-4.7 Cl-108 HCO3-17* AnGap-15
+___ 12:05AM BLOOD ALT-210* AST-344* LD(LDH)-829* CK(CPK)-95 
+AlkPhos-83 TotBili-0.5
+___ 12:05AM BLOOD CK-MB-2 cTropnT-0.02*
+___ 12:05AM BLOOD Calcium-7.7* Phos-5.5* Mg-1.8
+___ 02:36PM BLOOD TSH-2.4
+___ 02:36PM BLOOD Cortsol-86.6*
+___ 09:15PM BLOOD Phenyto-11.2 Valproa-67
+___ 10:38PM BLOOD Type-ART pO2-124* pCO2-26* pH-7.41 
+calTCO2-17* Base XS--5 Intubat-NOT INTUBA
+___ 10:38PM BLOOD Glucose-192* Lactate-3.0* Na-137 K-4.5 
+Cl-110*
+
+IMAGING:
+========
+___ CXR: IMPRESSION: Lungs are low volume with bibasilar 
+atelectasis.  Small left pleural effusion stable.  Left-sided 
+pacemaker leads project to the right atrium and right
+ventricle.  Cardiomediastinal silhouette is stable.  No 
+pneumothorax is seen. The pericardial drain remains in place.
+
+___: CT HEAD/CHEST/ABD/PELVIS: 
+
+HEAD: No acute intracranial abnormality.
+CHEST: Bilateral small pleural effusions with associated 
+subsegmental atelectasis.  No infectious process is seen within 
+the chest.
+ABD/PELVIS: 
+1. Diffuse third spacing with small volume of ascites in the 
+abdomen and
+pelvis.  No organized collection or abscess formation noted.
+2. Diffuse hazy mesentery nonspecific may be due to edema.
+3. The bowel is normal in caliber with no evidence obstruction. 
+Evaluation of
+bowel ischemia is limited due to lack of contrast.  A large 
+amount of stool is
+seen within the rectum.
+4. Cholelithiasis/sludge with gall bladder wall thickening 
+likely due to
+edema, on this patient with diffuse third-spacing.  Further 
+evaluation for
+acute cholecystitis with ultrasound could be obtained if the 
+patient has
+abnormal liver function tests and there is clinical suspicion 
+for
+cholecystitis.
+
+___ KUB: IMPRESSION: No evidence of large volume 
+pneumoperitoneum. Lines and tubes appear unchanged.
+
+___ LENIS: No evidence of deep venous thrombosis in the 
+right or left lower extremity veins.
+
+___: CXR :In comparison with the study of ___, the 
+tip of the Swan-Ganz catheter is difficult to identify given the 
+multitude of tubes in wires.  however, a subsequent study showed 
+the tip to be in the pulmonary outflow tract.
+
+___: CXR: In comparison with study of earlier in this date, 
+there is an placement of a left IJ hemodialysis catheter that is 
+difficult to follow, but does not extend
+below the lower SVC.  No evidence of post procedure 
+pneumothorax.
+Otherwise, little change.
+
+___ TTE: IMPRESSION: EF 50% Subotpimal study: Mildly 
+reduced biventricular systolic function with regional 
+dysfunction, as per above. Mild to moderate aortic 
+regurgitation. Mild to moderate tricuspid regurgitation. 
+Borderline pulmonary hypertension. Very small, echodense 
+pericardial effusion.
+
+___ CXR: In comparison with study of ___, the 
+monitoring and support devices are essentially unchanged.  There 
+is slightly less hazy opacification at the
+bases, though the hemidiaphragms are not optimally seen, 
+especially on the left.  This could reflect some improvement in 
+pleural effusions, though a similar pattern could merely be a 
+manifestation of a more upright position of the patient.
+
+___ CXR: Overall unchanged appearance of lines and tubes 
+when compared to the prior radiograph. Minimal bibasilar linear 
+atelectasis and small pleural effusions with stable 
+cardiomegaly.
+
+___ UENIS:  Superficial vein thromboses of the left basilic 
+and cephalic veins as described above.
+
+___ CXR: Interval placement of a right upper extremity 
+PICC, which terminates at the cavoatrial junction. Otherwise, no 
+significant interval change.
+
+___ TTE: EF 50% Mildly reduced left ventricular systolic 
+function. Preserved right ventricular systolic function. Trivial 
+pericardial effusion. Left pleural effusion. The overall 
+findings are similar, however due to the limited nature of the 
+current study a comprehensive comparison of all previously 
+measured parameters from ___ (images reviewed) could not be 
+made.
+
+___ CXR: IMPRESSION: 
+1.  The nasogastric tube terminates in the proximal body of the 
+stomach,
+however the side-hole terminates at the gastroesophageal 
+junction. 
+Advancement by 5-10 cm is recommended.
+2.  The right upper extremity PICC now appears to be within the 
+right atrium,
+although this may be secondary to differences in patient 
+positioning.
+3.  Left chest wall cardiac pacing devices with two leads 
+terminating in the
+regions of the right atrium and right ventricle.
+4.  Small bilateral pleural effusions, which have decreased in 
+size.
+
+___ CXR:IMPRESSION: Appropriate AICD lead placement.  No 
+pneumothorax.
+
+___ EP revision:
+Access retained using RV lead insulation to internalize 
+micropuncture wire.
+New RV and RA leads placed, and old RV/RA leads removed easily. 
+TTE pre/post showed no effusion at either start or end of case. 
+No complications.
+
+___ CXR: Comparison to ___.  All monitoring and 
+support devices with the exception of the right PICC line and of 
+the left hemodialysis catheter have
+been removed.  There is massive gastric over distension with 
+elevation of the
+left hemidiaphragm.  No other changes are noted.  In particular 
+there is no
+evidence of pneumothorax or pleural effusions.  Stable position 
+of the pacemaker leads.
+
+___ KUB: Gas distended stomach without evidence for small 
+or large bowel
+obstruction or ileus.
+
+___ TTE: IMPRESSION: Low normal left ventricular systolic 
+function. Normal right ventricular systolic function. Moderate 
+tricuspid regurgitation with normal pulmonary artery pressure. 
+Trivial/physiologic ammount of pericardial fluid. Mild to 
+moderate aortic regurgitation.
+
+___: CT A/P: 
+1. New dilation of a few proximal small bowel loops which show 
+air-fluid level and likely represent a paralytic ileus. 
+2. No free peritoneal air or enteric contrast to suggest 
+perforation. 
+3. Mild to moderate amount of ascites and anasarca. 
+4. Please refer to same day report for in the chest findings. 
+
+___: CT brain: No acute intracranial abnormality.  Please 
+note that MRI is more sensitive for the detection of 
+encephalitis or meningitis. 
+
+___: TTE: Suboptimal image quality/focused study. 
+Trivial/physiologic amount of pericardial effusion without 
+echocardiographic evidence of tamponade physiology but abnormal 
+septal motion raises the possibility of early constrictive 
+physiology. Normal left and right ventricular caivty sizes and 
+global systolic function. Mild to moderate tricuspid 
+regurgitation. Mild pulmonary artery systolic hypertension. Mild 
+to moderate aortic regurgitation.
+
+MICROBIOLOGY:
+=============
+ALL culture data NGTD
+ 
+Brief Hospital Course:
+CCU COURSE ___ - ___
+___ with tachy-brady syndrome s/p dual chamber PPM ___ c/b 
+pericardial effusion concern for tamponade iso hemodynamic 
+instability.
+
+#CORONARIES: CAD on stress test ___, no cath
+#PUMP:  No formal ECHO on admission
+#RHYTHM: Irregularly irregular  
+
+ACUTE ISSUES:  
+=============  
+# Mixed Shock likely ___ cardiogenic RV failure and ?sepsis 
+# Lactic acidosis
+# Hyperkalemia RESOLVED
+# Transaminitis IMPROVING
+# Troponinemia Peak ___
+# Tachy-___ syndrome s/p Dual chamber PPM ___ c/b tamponade 
+s/pericardialcentesis w/ pericardial drain
+Pt transferred from OSH with obstructive shock s/p dual chamber 
+PPM ___ c/b pericardial effusion concern for tamponade and on 
+levo. OSH fluid resuscitation with 4 L IVF.  Initial pulsus was 
+20 w/ bedside TTE pericardial effusion 1-1.5cm and was 
+immediately taken to cath lab for pericardialcentesis s/p 
+pericardial drain placement. 290ml of fluid consistent with 
+blood was removed. Repeat TTE revealed signs of RV strain with 
+resolution of pericardial effusion and EF of 60%. Despite 
+resolution of pericardial effusion, shock physiology continued 
+with lactate peak of 14.4. Suspected etiologies now included 
+cardiogenic ___ RV failure vs septic. PA# worsen with fluid 
+resuscitation  and improved with inotropy w/dobutamine. Etiology 
+of RV failure is unknown, possibilities include infarct or PE. 
+Troponin is mildy elevated but could be ___ to demand and 
+reduced renal clearance. PE possible but has not been extremely 
+hypoxic, pt was intubated for AMS. Also demonstrated 
+hypothermia/fever with increasing WBC, rising lactate and 
+worsening MS which were very concerning for infection. However 
+source unknown, no focal consolidation on CXR, CT w/bilateral 
+pleural effusions. No abscesses on CT. Low urine output with 
+foley in place. UA reassuring. No evidence of skin breakdown. No 
+growth on cultures. Empiric abx of vanc/cefepime for 10d course. 
+However on last day of course had an acute WBC rise so continued 
+ABX. He improved clinically, lab abnormalities improved with 
+lactate and potassium WNL and downtrending LFTs, BP stable off 
+pressors and extubated. EP successfully completed a lead 
+revision on ___ with old lead extraction and new lead 
+placement. 
+
+#Encephalopathy/hx seizures
+On arrival pt AOx2, was conversational with confusion. Upon 
+return from pericardialcentesis s/p pericardial drain had 
+increased agitation, confusion, and intermittent rhythmic 
+jerking of all four limbs with eyes rolled back these episodes 
+<___ c/f breakthrough seizures iso delay of home AED 
+administration as well as critical illness. Other possibilities 
+included toxic/metabolic imbalance or CNS infection. 
+Toxic/metabolic encephalopathy possible ___ to kidney and liver 
+dysfunction. Regarding CNS infection empiric ampicillin and 
+acyclovir were added to vanc/cefepime, however ampicillin and 
+acyclovir were DC on ___. Regarding AED pt home meds included 
+Phenytoin,
+Divalproex, PrimiDONE these were stopped due to kidney and liver 
+dysfunction, initially switched to vimpat then keppra. EEG was 
+done and revealed no seizure activity while in CCU. LP was 
+deferred due to risk of bleeding ___ coagulopathy. Pt was 
+extubated after able to follow commands, MS improved but still 
+waxing and waning. 
+
+# Anuric ___
+Cr on admission 1.2 with rapid increase. Became Anuric. Renal 
+was consulted and CRRT was initiated until ___. Intermittent 
+diuresis with lasix IV PRN w/improving UOP.  HD was started on 
+___. 
+
+#Coagulopathy
+Acute increase in INR from 1.2 to 3.3, likely secondary to acute 
+liver injury or possible infection.  s/p  Vit K 10mg IV 3 days. 
+Fibrinogen has been >100. 
+
+# Acute hypoxic respiratory failure - RESOLVED
+Pt has new O2 requirement of 15L on arrival. Likely due to 
+obstructive shock ___ tamponade. Also received 4L resuscitation, 
+which may have led to pulmonary edema iso tamponade. Was 
+intubated on ___ for airway protection for AMS and 
+desaturations. Was extubated on ___. 
+
+# Paroxysmal A fib: Pt developed pAF at OSH. Not currently on 
+AC. CHAD2VAS: 2 for age. Was intermittently on heparin gtt for 
+suspected PE/ACS iso RV failure. Heparin gtt was discontinued 
+prior to PPM lead revision.Pt went into rapid Afib on ___, S/p 
+Amio Load, now on po amio 400 BID for rhythm control Carvadilol 
+was started for rate control. Plan was to start anticoagulation 
+with warfarin vs NOAC pending renal improvement.
+
+# CAD : Pt had a positive stress test in ___, however he 
+declined a LHC. He is not on any home cardiac medications. 
+Consider starting ASA 81, statin. 
+
+#HTN
+Started carvedilol 3.125mg BID ___. Systolics still 140s. 
+Continue isordil 20 TID. Continue Hydral 20 TID. 
+
+# Superficial vein thromboses of the left basilic and cephalic
+veins: Was on Heparin gtt for systemic anticoagulation for AF 
+already, however typically would not need to treat given the 
+superficial nature of these. Continued to monitor.
+
+====================
+MICU COURSE: ___
+Patient was admitted to the MICU after he developed hypotension 
+following receipt of lorazepam in the setting of nonconvulsive 
+status epilepticus. His course in the MICU was notable for 
+persistent hypotension despite the use of 3 pressors and 
+hydrocortisone. He was thought to be suffering from septic 
+shock, but no source was identified. He also developed a 
+paralytic ileus on ___. Given his increasing pressor 
+requirement despite escalation of antibiotic and antifungal 
+coverage, as well as his need for CRRT, his family decided 
+initially to make him DNR and eventually transitioned him to 
+comfort measures only. He died shortly after the transition to 
+comfort measures, at 0205 on ___. The family requested an 
+autopsy.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Allopurinol ___ mg PO DAILY 
+2. Cyanocobalamin 1000 mcg PO DAILY 
+3. Phenytoin Sodium Extended 200 mg PO QHS 
+4. Phenytoin Sodium Extended 300 mg PO QAM 
+5. Divalproex (EXTended Release) 1000 mg PO BID 
+6. PrimiDONE 250 mg PO DAILY 
+
+ 
+Discharge Medications:
+DECEASED
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+DECEASED
+ 
+Discharge Condition:
+DECEASED
+ 
+Discharge Instructions:
+DECEASED
+ 
+Followup Instructions:
+___

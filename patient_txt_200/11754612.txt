@@ -1,0 +1,362 @@
+===== DISCHARGE NOTE =====
+note_id=11754612-DS-21 | hadm_id=21173590
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Pravachol
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fatigue
+ 
+Major Surgical or Invasive Procedure:
+___
+1.  Coronary artery bypass graft x4.  Total arterial
+revascularization.
+2.  Skeletonized left internal mammary artery sequential
+grafting to diagonal and left anterior descending arteries.
+3.  Left radial artery graft with a segment of left internal
+mammary artery extension, sequential grafting to posterior
+left ventricular branch and posterior descending arteries.
+4.  Endoscopic harvesting of the left radial artery.
+
+ 
+History of Present Illness:
+Very nice ___ year old gentleman who with past medical history of 
+COPD, hypertension, hyperlipidemia and s/p AAA/EVAR in ___. He 
+was noted to have asymptomatic PVCs in the pattern of bigeminy 
+by EKG at the time of visit to PCP ___ ___. An echocardiogram 
+was performed and demonstrated interval development of mild 
+systolic dysfunction with LVEF 45%. A nuclear stress imaging 
+showed moderate to large areas of ischemia in the LAD and RCA 
+territory.
+He underwent a cardiac catheterization which revealed 
+multivessel disease and he was referred for surgical 
+revascularization. He states that he is sometimes fatigued and 
+short of breath with exertion but has been attributing this to 
+old age and COPD.  He denies chest pain, recent fevers/chills, 
+nausea/vomiting and
+lower extremity edema. 
+
+CT surg recommended surgery to reduce the pts risk of future MI 
+and/or death. 
+
+ 
+Past Medical History:
+Past Medical History:
+Coronary artery disease
+Peripheral vascular disease
+Hyperlipidemia
+Hypertension
+COPD severe
+Iliac artery aneurysm, bilateral
+Pancreatic cyst
+Pulmonary nodule - followed and stable by CT
+Proteinuria 
+Past Surgical History:
+S/P AAA (abdominal aortic aneurysm) repair ___
+Bilateral cataract surgery
+
+ 
+Social History:
+___
+Family History:
+Cancer - Lung - Daughter 
+___ - Mother 
+lung cancer Daughter 
+
+ 
+Physical Exam:
+General: NAD, well appearing
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x] bowel sounds 
++
+[x]
+Extremities: Warm [x], well-perfused [x] Edema [] absent_____
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: deferred Left: deferred
+DP           Right: present  Left: present
+___           Right: present  Left: present
+Radial       Right: present  Left: present
+Carotid Bruit:   Right: none appreciated    Left:none 
+appreciated
+
+Discharge Exam 
+ ___ 97.4 PO 147 / 80 L Sitting 54 R18 SaO296/3l 
+>________________   
+General: NAD [x]  
+Neurological: A/O x3 [x] non-focal [x] 
+HEENT:  PEERL [] 
+Cardiovascular: RRR [x] 
+Respiratory: CTA [x]  No resp distress [x]
+GI/Abdomen: Bowel sounds present [x] Soft [x] ND [x] NT [x]
+Extremities: 
+Right Upper extremity   Warm [x]  No Edema  
+Left Upper extremity    Warm [x]  No Edema 
+Right Lower extremity   Warm [x]  No Edema 
+Left Lower extremity    Warm [x]  No Edema 
+
+Skin/Wounds: Dry [x] intact [x]
+Sternal: CDI [x] no erythema or drainage [x]
+                 Sternum stable [x] 
+Lower extremity: Right [] Left [x]  CDI []
+
+                    WBC RBC    Hgb Hct   MCV MCH MCHC   RDW 
+RDWSD Plt Ct 
+___ 05:14    6.9 3.08* 9.3* 29.4* 96 30.2 31.6* 12.8 43.9 
+139* 
+                    Glucose UreaN Creat Na K    Cl HCO3 AnGap 
+___ 05:10            25*   0.9      3.8       
+___ 05:14            32*   0.9      4.1       
+___ 05:20    115*1   32*   1.0  140,4.5  100 28 12 
+
+ 
+Pertinent Results:
+Cardiac Catheterization: Date: ___    Place: ___ 
+
+Coronary Circulation:
+The coronary circulation is right dominant. There was signifcant
+2 vessel coronary artery disease (LAD and RCA)
+Left Main: angiography showed minor luminal irregularities
+LAD: multiple discrete lesions, this is an excellent target for
+bypass. 
+Ostial LAD: There was a discrete 80% stenosis
+Proximal LAD: there was a discrete 90% stenosis
+Circumflex: angiography showed mild atherosclerosis
+RCA: the vessel was very large sized (dominant). Angiography
+showed multiple discrete lesions. This is an excellent target 
+for
+bypass
+Proximal RCA: there was a tubular 100% stenosis
+Distal RCA: there was a tubular 70% stenosis
+Right PDA: this is an excellent target for bypass
+___ posterolateral segment: the vessel was large sized. There 
+was
+a tubular 100% stenosis in the proximal third of the vessel
+segment. This is an excellent target for bypass.
+
+Cardiac Echocardiogram:
+
+Carotid Ultrasound:
+
+Pulmonary Function: 
+
+Nuclear Stress: ___
+Abnormal nuclear perfusion images.
+
+There is a large in size, moderate to severe, partially
+reversible perfusion defect affecting basal inferior, mid
+inferior, and apical inferior segment corresponding to
+___ ischemia in the RCA distribution.
+
+There is a moderate in size, moderate in severity, partially
+reversible perfusion defect affecting apical anterior, and 
+apical
+segments corresponding to ___ ischemia in the distal 
+LAD
+distribution.
+
+Mildly reduced left ventricular systolic function with regional
+wall motion abnormalities as detailed above, LVEF 42%.
+
+There are no prior images available for direct comparison.
+.
+L-mibi ___:
+There is a large in size, moderate to severe, partially
+reversible perfusion defect affecting basal inferior, medial
+inferior, and apical inferior segment corresponding to
+___ ischemia in the RCA distribution. There is a
+moderate in size, moderate in severity, partially reversible
+perfusion defect affecting apical anterior, and apical segments
+corresponding to ___ ischemia in the distal LAD
+distribution.
+
+Mildly reduced left ventricular systolic function with regional
+wall motion abnormalities as detailed above, LVEF 42%.
+
+Intraoperative TEE: POST-OP STATE: The TEE was performed at 
+13:00:00. Sinus rhythm.
+Support: Vasopressor(s): none.
+Left Ventricle: Systolic function is improved. Improved regional 
+function in anterior and inferior
+territories Global ejection fraction is normal.
+Right Ventricle: No change in systolic function.
+Aorta: Intact. No dissection.
+Aortic Valve: No change in aortic valve morphology from 
+preoperative state. No change in aortic
+regurgitation.
+Mitral Valve: No change in mitral valve morphology from 
+preoperative state. No change in valvular
+regurgitation from preoperative state.
+Pericardium: No effusion.
+
+Discharge Labs
+___ 05:14AM BLOOD WBC-6.9 RBC-3.08* Hgb-9.3* Hct-29.4* 
+MCV-96 MCH-30.2 MCHC-31.6* RDW-12.8 RDWSD-43.9 Plt ___
+___ 05:10AM BLOOD UreaN-25* Creat-0.9 K-3.8
+___ 05:20AM BLOOD Glucose-115* UreaN-32* Creat-1.0 Na-140 
+K-4.5 Cl-100 HCO3-28 AnGap-12
+ 
+Brief Hospital Course:
+Pt was admitted as a same day admission, was taken to the 
+operating room on ___ and underwent Coronary artery bypass 
+graft x4, total arterial revascularization,  skeletonized left 
+internal mammary artery sequential grafting to diagonal and left 
+anterior descending arteries, left radial artery graft with a 
+segment of left internal mammary artery extension, sequential 
+grafting to posterior left ventricular branch and posterior 
+descending arteries. Please see operative note for full details. 
+Pt tolerated the procedure well and was transferred to the ___ 
+in stable condition for recovery and invasive monitoring. 
+  
+Pt was weaned from sedation, awoke neurologically intact, and 
+was extubated on POD 1. Pt was weaned from vasopressor support. 
+Nitroglycerine was transitioned to Isordil for radial artery 
+graft patency. Beta blocker was initiated and pt was diuresed 
+toward his preoperative weight. Pt remained hemodynamically 
+stable and was transferred to the telemetry floor for further 
+recovery. He had a brief episode of atrial fibrillation which 
+converted with Lopressor. No anticoagulation was required. 
+Lopressor was increased for ectopy and heart rate control. Pt 
+was evaluated by the physical therapy service for assistance 
+with their strength and mobility. He was kept additional days 
+for more aggressive diuresis with ambulatory O2 sats in the 80's 
+(history of COPD, as well). Home inhalers were restarted. 
+
+Discharge was initially held due to volume overload though 
+patient was minimally symptomatic. He was discharged on POD6, 
+well below his preop weight. Pt was ambulating freely without 
+symptoms. His O2Sats continued to dip mid-high 80's at 
+discharge. Pt remained asymptomatic while walking. A room air 
+ABG was done showing pH 7.44, paO2 62, pCO249 , all wounds were 
+healing, and pain was controlled with Tylenol. Pt was discharged 
+home w/services in good condition with appropriate follow up 
+instructions.
+
+ 
+Medications on Admission:
+Medications - Prescription
+ATORVASTATIN - atorvastatin 40 mg tablet. 1 tablet(s) by mouth
+once a day (in the evening) -  (Prescribed by Other Provider)
+HYDROCHLOROTHIAZIDE - hydrochlorothiazide 12.5 mg capsule. 1
+capsule(s) by mouth once a day -  (Prescribed by Other Provider)
+LISINOPRIL - lisinopril 20 mg tablet. 1 tablet(s) by mouth once 
+a
+day -  (Prescribed by Other Provider)
+METOPROLOL SUCCINATE - metoprolol succinate ER 25 mg
+tablet,extended release 24 hr. 1 tablet(s) by mouth once a day - 
+
+(Prescribed by Other Provider)
+UMECLIDINIUM [INCRUSE ELLIPTA] - Incruse Ellipta 62.5
+mcg/actuation powder for inhalation.   1 puff daily - 
+(Prescribed by Other Provider)
+ 
+Medications - OTC
+ASPIRIN - aspirin 81 mg tablet,delayed release. 1 tablet(s) by
+mouth once a day -  (Prescribed by Other Provider)
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Famotidine 20 mg PO DAILY 
+RX *famotidine [Pepcid] 20 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+3.  Furosemide 40 mg PO DAILY Duration: 10 Days 
+RX *furosemide [Lasix] 40 mg 1 tablet(s) by mouth once a day 
+Disp #*10 Tablet Refills:*0 
+4.  Incruse Ellipta (umeclidinium) 62.5 mcg/actuation 1 puff  
+DAILY  
+5.  Isosorbide Dinitrate 10 mg PO TID Duration: 6 Months 
+RX *isosorbide dinitrate 10 mg 1 tablet(s) by mouth three times 
+a day Disp #*90 Tablet Refills:*5 
+6.  Polyethylene Glycol 17 g PO DAILY  
+7.  Potassium Chloride 20 mEq PO DAILY Duration: 10 Days 
+RX *potassium chloride 20 mEq 1 tabs by mouth once a day Disp 
+#*10 Tablet Refills:*0 
+8.  TraMADol 50 mg PO Q6H:PRN Pain - Moderate 
+RX *tramadol [Ultram] 50 mg 1 tablet(s) by mouth Q 6 hours Disp 
+#*30 Tablet Refills:*0 
+9.  Metoprolol Tartrate 25 mg PO TID 
+RX *metoprolol tartrate 25 mg 1 tablet(s) by mouth three times a 
+day Disp #*90 Tablet Refills:*1 
+10.  Aspirin EC 81 mg PO DAILY  
+11.  Atorvastatin 40 mg PO QPM  
+12.  Hydrochlorothiazide 12.5 mg PO DAILY 
+Start once you are done with furosemide  
+13.  umeclidinium 62.5 mcg/actuation inhalation DAILY  
+14. HELD- Lisinopril 20 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until you follow with your 
+cardiologist
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary artery disease
+Hypoxia
+Volume overload
+Acute post-operative blood loss anemia, resolving
+Peripheral vascular disease
+Hyperlipidemia
+Hypertension
+COPD severe
+Iliac artery aneurysm, bilateral
+Pancreatic cyst
+Pulmonary nodule - followed and stable by CT
+Proteinuria 
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal 
+Ambulating with steady gait
+Incisional pain managed with Tylenol
+
+Incisions: 
+Sternal - healing well, no erythema or drainage 
+Left upper extremity - healing well, no erythema or drainage.
+Trace Edema bilaterally 
+
+ 
+Discharge Instructions:
+ Please shower daily including washing incisions gently with 
+mild soap, no baths or swimming until cleared by surgeon. Look 
+at your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions 
+ Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the 
+chart.
+****call MD if weight goes up more than 3 lbs in 24 hours or 5 
+lbs over  5 days****.
+ No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive 
+No lifting more than 10 pounds for 10 weeks
+
+Encourage full shoulder range of motion, unless otherwise 
+specified
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___

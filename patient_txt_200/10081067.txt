@@ -1,0 +1,168 @@
+===== DISCHARGE NOTE =====
+note_id=10081067-DS-19 | hadm_id=29607169
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chronic hypertension with superimposed severe pre-eclampsia 
+spontaneous vaginal delivery at 31 weeks 6 days 
+ 
+Major Surgical or Invasive Procedure:
+spontaneous vaginal delivery
+placement of ___ IUD
+ 
+History of Present Illness:
+___ yo G3P1 at 31.1 with cHTN sent in from office for ___ 
+evaluation. Elevated BPs in office with systolic BP 170s. Not on 
+medications in this pregnancy. Denies HA, CP, SOB, RUQ pain, 
+change in vision.
+ 
+Past Medical History:
+OB: G3P1
+G1: SVD, c/b severe PEC required magnesium
+G2: TAB, D&C
+G3: current
+
+GYN: None
+
+PMH: Denies
+
+PSH:
+- D&C
+- Wisdom teeth
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+On admission:
+BPs 165/94, 149/102, 154/97, 161/87, 152/88, 162/96, 173/107
+Resp 18, T 98.1
+Gen: NAD, comfortable
+CV: RRR
+Resp: CTAB
+Abd: soft, non-tender
+Ext: non-tender no edema
+TAUS: vtx, MVP ___
+FHT: 145/mod var/+accels/-decels
+Toco: flat
+
+Physical Exam on Discharge: 
+VS: Afebrile, VSS 
+Neuro/Psych: NAD, Oriented x3, Affect Normal 
+Heart: RRR
+Lungs: CTA b/l
+Abdomen: soft, appropriately tender, fundus firm
+Pelvis: minimal bleeding 
+Extremities: warm and well perfused, no calf tenderness, no 
+edema 
+ 
+Brief Hospital Course:
+___ yo G3P1 with cHTN admitted at 31w1d with severe preeclampsia. 
+On admission, she had multiple severe range blood pressures. 
+Preeclampsia labs were normal with the exception of an increase 
+in proteinuria (920mg). She was started on po Nifedipine CR, 
+which was quickly uptitrated to 60mg BID. Fetal testing was 
+reassuring. She received a course of betamethasone (complete 
+___ and the NICU was consulted. On HD#3, a second agent was 
+added to her regimen (Labetolol 200mg TID) due to persistently 
+elevated blood pressures. She otherwise remained clinically 
+stable until 31w5d when she had routine fetal testing in the 
+___ and was noted to have oligohydramnios and an elevated s/d 
+(4.9). Delivery was recommended. She was transferred to labor 
+and delivery for induction of labor. She received Magnesium for 
+neuroprotection and seizure prophylaxis intrapartum. She had a 
+spontaneous vaginal delivery on ___ and delivered a liveborn 
+female weighing 1310 grams with Apgars of ___. Neonatology 
+staff was present for delivery and transferred the neonate for 
+prematurity.
+------------------
+She was continued on Magnesium for 24 hours postpartum, and her 
+blood pressures were controlled with oral labetolol and 
+nifedipine. Her pain was treated with oral pain medications. She 
+ambulated and her foley was discontinued and she voided 
+spontaneously. Her diet was advanced without incident. 
+
+By postpartum day 4, she was tolerating a regular diet, 
+ambulating independently, and pain was controlled with oral 
+medications. She was afebrile with stable vital signs. Her 
+anti-hypertension regimen was Labetolol 200mg BID and Nifedipine 
+CR 60mg BID. She was discharged home in stable condition with 
+postpartum outpatient follow-up scheduled.
+ 
+Medications on Admission:
+PNV
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q6H:PRN Mild Pain 
+Do not exceed 4000 mg in 24 hour hours 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every 6 hours 
+Disp #*30 Tablet Refills:*1 
+2.  Docusate Sodium 100 mg PO BID:PRN Constipation 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice daily. 
+Disp #*60 Tablet Refills:*1 
+3.  Ibuprofen 600 mg PO Q6H:PRN Moderate Pain 
+Take with food 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*30 Tablet Refills:*1 
+4.  Labetalol 200 mg PO BID 
+RX *labetalol 200 mg 1 tablet(s) by mouth twice per day Disp 
+#*60 Tablet Refills:*1 
+5.  NIFEdipine CR 60 mg PO BID 
+RX *nifedipine 60 mg 1 tablet(s) by mouth every 12 hours. Disp 
+#*60 Tablet Refills:*2 
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+chronic hypertension with superimposed severe pre-eclampsia
+spontaneous vaginal delivery at 31 weeks 6 days
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+___,
+
+Congratulations on the birth of your daughter!
+
+You were admitted to the hospital and induced after developing 
+chronic hypertension with superimposed pre-eclampsia. You 
+underwent an uncomplicated vaginal delivery at 31 weeks 6 days. 
+You required blood pressure medication to control your blood 
+pressure. You should continue your medication (Nifedipine ER 
+60mg twice daily and Labetalol 200mg twice daily). You will have 
+close outpatient follow-up and may require adjustments to your 
+medication. 
+
+Please follow the below instructions:
+-Nothing in the vagina for 6 weeks (No sex, douching, tampons)
+-Do not take more than 4000mg acetaminophen (tylenol) in 24 hrs
+-Do not take more than 2400mg ibuprofen in 24 hrs
+-Please call the on-call doctor at ___ if you develop a 
+headache, chest pain, vision changes, shortness of breath, 
+dizziness, palpitations, fever of 100.4 or above, abdominal 
+pain, heavy vaginal bleeding, nausea/vomiting, depression, or 
+any other concerns.
+ 
+Followup Instructions:
+___

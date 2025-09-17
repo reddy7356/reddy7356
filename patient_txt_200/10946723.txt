@@ -1,0 +1,1151 @@
+===== DISCHARGE NOTE =====
+note_id=10946723-DS-19 | hadm_id=23128440
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Morbid Obesity
+ 
+Major Surgical or Invasive Procedure:
+___ Lap Gastric Sleeve
+
+ 
+History of Present Illness:
+___ gentleman complaining of obesity in his entire life. 
+ He has a history of multiple supervised diets with a maximum of 
+110 pound weight loss and regain. He is admitted for 
+laparoscopic Gastric sleeve
+ 
+Past Medical History:
+Past Medical History:  Includes hypertension, cardiomyopathy 
+with AFib on Xarelto, type 2 diabetes, hyperlipidemia, 
+nonalcoholic steatohepatitis, NASH; and cholelithiasis.
+
+Past Surgical History:  Right shoulder surgery and right knee 
+surgery.
+ 
+Social History:
+___
+Family History:
+Noncontributory.  Works in ___ with ___.
+ 
+Physical Exam:
+PE in Adm:
+Alert and oriented x 3.  HEENT:  Normal.  Neck is supple.  
+Breathing comfortably.  Lungs: Clear to auscultation.  Heart:  
+Regular, no murmur.  Abdomen is soft and nontender with no upper 
+abdominal scars.  Neurologic exam grossly intact.  Lower 
+extremities with venous stasis skin changes of the legs 
+bilaterally.  Skin otherwise without rashes.
+
+Discharge Physical Exam:  
+GEN: AA&O x 3, NAD, calm, cooperative.  
+HEENT: (-)LAD, mucous membranes moist, trachea midline, EOMI  
+CHEST: Clear to auscultation bilaterally, (-) cyanosis.  
+ABDOMEN: soft, diffuse tenderness, incision sites are c/d/i 
+covered with steri-strips  
+EXTREMITIES: Warm, well perfused, no edema  
+ 
+Pertinent Results:
+n/p
+ 
+Brief Hospital Course:
+The patient presented to pre-op on ___. Pt was evaluated by 
+anaesthesia.  
+ The patient was taken to the operating room for a laparoscopic 
+sleeve gastrectomy for obesity. There were no adverse events in 
+the operating room; please see the operative note for details. 
+Pt was extubated, taken to the PACU until stable, then 
+transferred to the ward for observation.  
+ Neuro: The patient was alert and oriented throughout 
+hospitalization; pain was initially managed with a PCA. Pain was 
+very well controlled. The patient was then transitioned to 
+crushed oral pain medication once tolerating a stage 3 diet.  
+ CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.  
+ Pulmonary: The patient remained stable from a pulmonary 
+standpoint; vital signs were routinely monitored. Good pulmonary 
+toilet, early ambulation and incentive spirometry were 
+encouraged throughout hospitalization.  
+ GI/GU/FEN: The patient was initially kept NPO. On POD 1 the 
+patient had an upper GI series which revealed no leak. As a 
+result, the patient was started on a stage 1 bariatric diet, 
+which the patient tolerated well. Subsequently, the patient was 
+advanced to stage 2, and then stage 3 diet which the patient was 
+tolerating on day of discharge.  
+ ID: The patient's fever curves were closely watched for signs 
+of infection, of which there were none.  
+ HEME: The patient's blood counts were closely watched for signs 
+of bleeding, of which there were none.  
+ Prophylaxis: The patient received subcutaneous heparin and ___ 
+dyne boots were used during this stay and was encouraged to get 
+up and ambulate as early as possible.  
+ At the time of discharge, the patient was doing well, afebrile 
+and hemodynamically stable. The patient was tolerating a 
+bariatric stage 3 diet, ambulating, voiding without assistance, 
+and pain was well controlled. The patient received discharge 
+teaching and follow-up instructions with understanding 
+verbalized and agreement with the discharge plan.  
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Atorvastatin 40 mg PO/NG QPM 
+2. canagliflozin-metformin 150-1,000 mg oral BID 
+3. Furosemide 40 mg PO/NG DAILY 
+4. Rivaroxaban 20 mg PO/NG DAILY 
+5. Lisinopril 10 mg PO/NG DAILY 
+6. Metoprolol Tartrate 75 mg PO BID 
+7. Levemir (insulin detemir) 30 Unit subcutaneous QAM 
+8. Levemir (insulin detemir) 10 Unit subcutaneous QPM 
+9. liraglutide 0.6 mg/0.1 mL (18 mg/3 mL) subcutaneous DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen (Liquid) 1000 mg PO Q8H 
+RX *acetaminophen 500 mg/5 mL 10 ml by mouth every eight (8) 
+hours Refills:*1 
+2.  Enoxaparin Sodium 40 mg SC BID 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+RX *enoxaparin 40 mg/0.4 mL 0.4 ml SC twice a day Disp #*30 
+Syringe Refills:*0 
+3.  MetFORMIN (Glucophage) 1000 mg PO BID 
+RX *metformin 1,000 mg 1 tablet(s) by mouth twice a day Disp 
+#*40 Tablet Refills:*0 
+4.  OxycoDONE Liquid 5 mg PO Q4H:PRN Pain - Moderate 
+RX *oxycodone 5 mg/5 mL 5 ml by mouth every four (4) hours 
+Refills:*0 
+5.  Ranitidine (Liquid) 150 mg PO BID 
+RX *ranitidine HCl 15 mg/mL 10 ml by mouth twice a day 
+Refills:*0 
+6.  Furosemide 40 mg PO DAILY  
+7.  Lisinopril 10 mg PO DAILY  
+8.  Metoprolol Tartrate 75 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Morbid Obesity
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+ Please call your surgeon or return to the emergency department 
+if you develop a fever greater than 101.5, chest pain, shortness 
+of breath, severe abdominal pain, pain unrelieved by your pain 
+medication, severe nausea or vomiting, severe abdominal 
+bloating, inability to eat or drink, foul smelling or colorful 
+drainage from your incisions, redness or swelling around your 
+incisions, or any other symptoms which are concerning to you.  
+ Diet: Stay on Stage III diet until your follow up appointment. 
+Do not self advance diet, do not drink out of a straw or chew 
+gum  
+ Resume your home medications, CRUSH ALL PILLS.  
+ You will be starting some new medications:  
+ 1. You are being discharged on medications to treat the pain  
+ from your operation. These medications will make you drowsy and 
+ 
+ impair your ability to drive a motor vehicle or operate  
+ machinery safely. You MUST refrain from such activities while  
+ taking these medications.  
+ 2. You should begin taking a chewable complete multivitamin 
+with  
+ minerals. No gummy vitamins.  
+ 3. You will be taking Zantac liquid ___ mg twice daily for one  
+
+ month. This medicine prevents gastric reflux.  
+ 4. You should take a stool softener, Colace, twice daily for  
+ constipation as needed, or until you resume a normal bowel  
+ pattern.  
+ 5. You must not use NSAIDS (non-steroidal anti-inflammatory  
+ drugs) Examples are Ibuprofen, Motrin, Aleve, Nuprin and  
+ Naproxen. These agents will cause bleeding and ulcers in your  
+ digestive system.  
+ Activity:  
+ No heavy lifting of items ___ pounds for 6 weeks. You may  
+ resume moderate exercise at your discretion, no abdominal  
+ exercises.  
+ Wound Care:  
+ You may shower, no tub baths or swimming.  
+ If there is clear drainage from your incisions, cover with  
+ clean, dry gauze.  
+ Your steri-strips will fall off on their own. Please remove any 
+ 
+ remaining strips ___ days after surgery.  
+ Please call the doctor if you have increased pain, swelling,  
+ redness, or drainage from the incision sites.  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10946723-DS-20 | hadm_id=27796176
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+CKD Stage 5, needs dialysis access
+ 
+Major Surgical or Invasive Procedure:
+___:  Left brachiocephalic AV fistula.
+
+ 
+History of Present Illness:
+___ gentleman with chronic kidney disease (Stage 5) 
+secondary to oxalate nephropathy, diabetic nephropathy and 
+hypertensive nephropathy.  He had a left radiocephalic AV 
+fistula previously created in ___.  That fistula has 
+recently thrombosed and was not salvageable.  He presents today 
+for elective fistula creation.
+ 
+Past Medical History:
+CKD Stage 5, hypertension, cardiomyopathy with AFib on warfarin, 
+type 2 diabetes, hyperlipidemia, nonalcoholic steatohepatitis, 
+___; and cholelithiasis.
+.
+Past Surgical History:  Right shoulder surgery and right knee 
+surgery, left radiocephalic fistula (failed).
+ 
+Social History:
+___
+Family History:
+___. 
+ 
+Physical Exam:
+24 HR Data (last updated ___ @ 130)
+    Temp: 98.3 (Tm 98.3), BP: 121/67, HR: 77, RR: 18, O2 sat:
+94%, O2 delivery: 2L
+
+Fluid Balance (last updated ___ @ 138)
+  Last 8 hours  Total cumulative 500ml
+    IN: Total 500ml, IV Amt Infused 500ml
+    OUT:  Total 0ml, Urine Amt 0ml
+  Last 24 hours  Total cumulative 500ml
+    IN: Total 500ml, IV Amt Infused 500ml
+    OUT:  Total 0ml, Urine Amt 0ml
+
+GENERAL: [x]NAD  [x]A/O x 3  
+CARDIAC: [x]known afib rhythm 
+LUNGS: [x]CTA b/l  [x]no respiratory distress  
+ABDOMEN: [x]soft  [x]Nontender  [x]nondistended  [x]no 
+rebound/guarding 
+WOUND: [x]CD&I  [x]no erythema/induration  
+EXTREMITIES: [x]no CCE  [x]Pulse [x] LUE in sling, [x] Positive 
+bruit/thrill
+
+ 
+Pertinent Results:
+Labs POD 1: ___
+WBC-8.0 RBC-3.03* Hgb-8.5* Hct-27.8* MCV-92 MCH-28.1 MCHC-30.6* 
+RDW-13.7 RDWSD-45.9 Plt ___ PTT-30.6 ___
+Glucose-105* UreaN-76* Creat-4.6* Na-140 K-5.2 Cl-101 HCO3-23 
+AnGap-16
+Calcium-8.8 Phos-4.1 Mg-2.___ y/o male with CKD stage 5, Rate controlled AFib on warfarin, 
+history of failed access that now presents for creation of new 
+left upper arm AV fistula in anticipation of starting 
+hemodialysis when indicated.
+.
+Surgery was with Dr. ___ without ___ 
+complication. In the PACU the patient was noted to have O2 sats 
+in the low 90's, received Nebs and was improving, but then was 
+having readings in the 80's, and was admitted overnight for 
+observation.
+He was kept on oxygen and was using the spirometer with 
+improvement in Sats and was able to discharge to home.
+AV fistula had a bruit and thrill at discharge, + radial pulse 
+and hand was warm and intact except for baseline neuropathy.
+.
+Home medications were resumed and home dose warfarin resumed on 
+POD 1. He will follow up with his PCP ___ manages 
+his dosing.
+.
+He is otherwise feeling well, tolerating diet and ambulatory.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. Calcitriol 0.25 mcg PO 3X/WEEK (___) 
+4. CARVedilol 12.5 mg PO BID 
+5. GlipiZIDE XL 2.5 mg PO DAILY 
+6. OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Moderate 
+
+7. Potassium Citrate 10 mEq PO BID 
+8. sevelamer CARBONATE 800 mg PO TID W/MEALS 
+9. Warfarin 7.5 mg PO 3X/WEEK (___) 
+10. Warfarin 5 mg PO 4X/WEEK (___) 
+11. Acetaminophen 500 mg PO Q6H:PRN Pain - Mild/Fever 
+12. calcium citrate 250 mg calcium oral TID W/MEALS 
+13. Vitamin D 1000 UNIT PO DAILY 
+14. Cyanocobalamin 500 mcg PO DAILY 
+15. Docusate Sodium 100 mg PO BID:PRN Constipation - First Line 
+16. Multivitamins 2 TAB PO DAILY 
+17. Pyridoxine 100 mg PO DAILY 
+18. Senna 8.6 mg PO BID:PRN Constipation - First Line 
+
+ 
+Discharge Medications:
+  
+
+1.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+No driving if taking this medication 
+RX *oxycodone 5 mg 1 tablet(s) by mouth Every 6 hours as needed 
+Disp #*5 Tablet Refills:*0 
+2.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild/Fever  
+3.  amLODIPine 5 mg PO DAILY  
+4.  Atorvastatin 40 mg PO QPM  
+5.  Calcitriol 0.25 mcg PO 3X/WEEK (___)  
+6.  calcium citrate 250 mg calcium oral TID W/MEALS  
+7.  CARVedilol 12.5 mg PO BID  
+8.  Cyanocobalamin 500 mcg PO DAILY  
+9.  Docusate Sodium 100 mg PO BID:PRN Constipation - First Line  
+
+10.  GlipiZIDE XL 2.5 mg PO DAILY  
+11.  Multivitamins 2 TAB PO DAILY  
+12.  Pyridoxine 100 mg PO DAILY  
+13.  Senna 8.6 mg PO BID:PRN Constipation - First Line  
+14.  sevelamer CARBONATE 800 mg PO TID W/MEALS  
+15.  Vitamin D 1000 UNIT PO DAILY  
+16.  Warfarin 7.5 mg PO 3X/WEEK (___)  
+17.  Warfarin 5 mg PO 4X/WEEK (___)  
+18. HELD- Potassium Citrate 10 mEq PO BID  This medication was 
+held. Do not restart Potassium Citrate until discussed with Dr. 
+___. K 5.2 on ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+CKD Stage ___
+s/p AV fistula creation
+Afib on warfarin
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Please call the access clinic at ___ if you have fevers 
+or chills, your left hand has increased pain, is cold, has blue 
+fingers, has numbness or tingling.  This may be a medical 
+emergency and you should call right away.
+Please also monitor for increased incisional redness, drainage 
+or bleeding, arm swelling or increased pain or the development 
+of a foul odor on the dressing, at the access site or any other 
+concerning symptoms.
+.
+You should check the left arm access daily for a thrill (buzzing 
+sensation) and if this is not present, you should call the 
+access clinic right away and not wait until your dialysis 
+session.
+.
+The arm may be gently washed but do not submerge or soak the 
+arm. Keep the arm elevated when you are sitting or laying down 
+to help the swelling decrease. Dressings may be removed on the 
+second day after your access surgery (___). The incisions 
+may be left open to the air.
+.
+Do NOT allow any blood pressures or lab draws from the access 
+arm. No tight or constrictive clothing or jewelry to the access 
+arm and no lifting more than 10 pounds.
+.
+Continue home medications, dietary and fluid restrictions as you 
+have been instructed.
+.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10946723-DS-21 | hadm_id=28589785
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Leg swelling
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+ Mr. ___ is a ___ gentleman with afib on warfarin, 
+chronic kidney disease (Stage ___ secondary to oxalate 
+nephropathy, diabetic nephropathy and 
+hypertensive nephropathy, NASH and HFpEF (EF 55% ___ who 
+presents with shortness of breath and weight gain.
+
+Mr. ___ states that issues started around 4 weeks prior to 
+presentation. He has "leg edema" at baseline but notes that he 
+noted new swelling over his feet, with tightening of his shoes. 
+He also has noted increased shortness of breath on ambulation; 3 
+week ago he notes having to stop every 40-50 steps on a walk to
+catch his breath. One week prior to presentation he notes 
+increased swelling in his legs as well. In ___ he weighed 
+~208-210 lbs and has noted progressive weight gain to the 220s. 
+He has noticed no orthopnea or PND at home. He denies CP, 
+palpitations, fevers, chills, lightheadedness. He is adherent to 
+a low sodium diet and has not missed any of his medications. 
+
+Patient presented to the ___ from home on ___. Weight was 224 
+lbs with clothes,. Exam notable for clear lungs and no pedal 
+edema. Labs notable for Hb 8.4, Cr 4.9 from 4.6 ___. NTpBNP 
+7974 with no known priors.  EKG with
+variable block a ventricular rate of 77 bpm left axis deviation 
+and a low voltage QRS with a possible inferior infarct of 
+undetermined age. Patient was given Lasix 20 mg IV in the 
+morning and 40 mg in the afternoon ___ and IV lasix 40 mg the 
+morning of ___ and again at 1700 with result good urine output. 
+He also received his home medications (atorvastatin, amlodipine,
+carvedilol, warfarin). 
+
+On arrival to the cardiology ward, patient reports the above 
+history. Currently feeling well but denies ever having symptoms 
+at rest. He is here with his wife and is hoping to be discharged 
+before ___ so he can fly to ___ for the ___. He 
+denies palpitations, syncope, claudication-type symptoms or 
+transient neurologic issues. 
+ 
+Past Medical History:
+CKD Stage 5
+Hypertension
+Cardiomyopathy 
+Atrial fibirillation 
+type 2 diabetes
+Hyperlipidemia
+Nonalcoholic steatohepatitis
+Cholelithiasis
+
+Past Surgical History:  Right shoulder surgery and right knee 
+surgery, left radiocephalic fistula (failed), repeat left
+brachiocephalic AV fistula (___)
+ 
+Social History:
+___
+Family History:
+No family history of premature atherosclerotic
+cardiovascular disease or sudden cardiac death.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+======================
+VS: ___ 1730 Temp: 98.5 PO BP: 138/77 HR: 78 RR: 18 O2 sat:
+95% O2 delivery: room air Dyspnea: 0 RASS: 0 Pain Score: ___
+FSBG: 189 
+
+GENERAL: Well developed, well nourished man in NAD. Oriented x3.
+Mood, affect appropriate.  Wife at bedside.
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.  
+NECK: JVP 1 cm below angle of jaw with patient at 90 degrees, ~
+16 cm water  
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. Regular rate and rhythm. Normal S1, S2. No murmurs, rubs,
+or gallops. no thrills or lifts.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Tight pitting edema over shins bilaterally, soft 2+
+edema over dorsa of feet bilaterally. Warm, well perfused.
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric. 
+
+DISCHARGE PHYSICAL EXAM
+======================
+PHYSICAL EXAMINATION:  
+=======================  
+24 HR Data (last updated ___ @ 659)
+    Temp: 98.1 (Tm 98.3), BP: 112/66 (104-118/60-74), HR: 73
+(73-77), RR: 20 (___), O2 sat: 100% (99-100), O2 delivery: RA,
+Wt: 203.2 lb/92.17 kg (202.6-203.2)  
+Fluid Balance (last updated ___ @ 433) 
+  Last 8 hours  Total cumulative -400ml
+    IN: Total 0ml
+    OUT:  Total 400ml, Urine Amt 400ml
+  Last 24 hours  Total cumulative -370ml
+    IN: Total 1375ml, PO Amt 1375ml
+    OUT:  Total 1745ml, Urine Amt 1745ml   
+
+GENERAL: Well developed, well nourished man in NAD. Oriented x3.
+Mood, affect appropriate.  
+NECK: JVP ~6cm
+CARDIAC: RRR. Normal S1, S2. No murmurs, rubs, or gallops. 
+LUNGS: No chest wall deformities or tenderness. Respiration is 
+unlabored with no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No 
+splenomegaly.  
+EXTREMITIES: WWP. R>L BLE edema (R-side is 1+, L-side is trace) 
+SKIN: Venostasis changes over bilateral shins. no rashes/lesions 
+
+ 
+Pertinent Results:
+ADMISSION LABS
+=============
+___ 10:20AM BLOOD WBC-7.8 RBC-2.96* Hgb-8.4* Hct-27.3* 
+MCV-92 MCH-28.4 MCHC-30.8* RDW-15.3 RDWSD-51.6* Plt ___
+___ 06:42AM BLOOD Neuts-68.8 Lymphs-13.4* Monos-12.4 
+Eos-4.5 Baso-0.6 Im ___ AbsNeut-4.73 AbsLymp-0.92* 
+AbsMono-0.85* AbsEos-0.31 AbsBaso-0.04
+___ 10:20AM BLOOD ___
+___ 10:20AM BLOOD Glucose-148* UreaN-83* Creat-4.9* Na-143 
+K-5.0 Cl-106 HCO3-23 AnGap-14
+___ 10:20AM BLOOD ALT-25 AST-21 AlkPhos-116 TotBili-0.9
+___ 10:20AM BLOOD proBNP-7974*
+___ 10:20AM BLOOD Mg-1.9
+___ 06:42AM BLOOD TSH-2.8
+
+DISCHARGE LABS
+=============
+___ 10:15AM BLOOD WBC-8.0 RBC-3.37* Hgb-9.2* Hct-29.8* 
+MCV-88 MCH-27.3 MCHC-30.9* RDW-14.4 RDWSD-46.4* Plt ___
+___ 10:15AM BLOOD ___ PTT-40.2* ___
+___ 10:15AM BLOOD Glucose-151* UreaN-103* Creat-5.5* Na-140 
+K-4.1 Cl-95* HCO3-28 AnGap-17
+___ 07:35AM BLOOD ALT-20 AST-20 LD(LDH)-250 AlkPhos-119 
+TotBili-0.5
+___ 10:15AM BLOOD Calcium-8.5 Phos-4.7* Mg-2.3
+
+REPORTS
+========
+CHEST (PA & LAT)Study Date of ___
+Comparison to ___.  Stable elevation of the right 
+hemidiaphragm. Moderate cardiomegaly persists.  Bilateral 
+pleural effusions are better visualized on the lateral than on 
+the frontal image.  The effusions are restricted to the dorsal 
+costophrenic sinuses.  No pneumonia, no pulmonary
+edema.
+
+TTE ___
+The left atrium is mildly dilated. The right atrium is mildly 
+enlarged. There is no evidence for an atrial septal defect by 
+2D/color Doppler. The estimated right atrial pressure is 
+>15mmHg. There is mild symmetric left ventricular hypertrophy 
+with a normal cavity size. There is normal regional and global 
+left ventricular systolic function. The visually estimated left 
+ventricular ejection fraction is >=55%. Left ventricular cardiac 
+index is normal (>2.5 L/min/m2). There is no resting left 
+ventricular outflow tract gradient. Tissue Doppler suggests an 
+increased left ventricular filling pressure (PCWP greater than 
+18 mmHg). Mildly dilated right ventricular cavity with normal 
+free wall motion. Tricuspid annular plane systolic excursion 
+(TAPSE) is normal. The aortic sinus diameter is normal for 
+gender with mildly dilated ascending aorta. The aortic valve 
+leaflets (3) are mildly thickened. There is no aortic valve 
+stenosis. There is mild [1+] aortic regurgitation. The mitral 
+valve leaflets are mildly thickened with no mitral valve 
+prolapse. There is mild to moderate [___] mitral regurgitation. 
+The pulmonic valve leaflets are normal. The tricuspid valve 
+leaflets appear structurally normal. There is SEVERE [4+] 
+tricuspid regurgitation. There is SEVERE pulmonary artery 
+systolic hypertension. There is a trivial pericardial effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+normal cavity size and regional/ global biventricular systolic 
+function. Elevated PCWP. Mild aortic regurgitation. Mild to 
+moderate mitral regurgitation. Severe tricuspid regurgitation 
+and severe pulmonary artery systolic hypertension.
+Compared with the prior TTE (images not available for review) of 
+___ , the severity of tricuspid regurgitation is now 
+increased and pulmonary artery systolic pressure is much higher.
+
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES: 
+====================
+# HFpEF 
+Discharge weight: 203.2 lb (92.17 kg)
+Discharge Cr: 5.5
+Discharge regimen: 
+-PRELOAD: Torsemide 60mg daily 
+-AFTERLOAD: amlodipine 5mg 
+-NHBK: carvedilol 12.5mg BID 
+
+[] Please repeat CMP and check BPs and weights at next visit. 
+Adjust home diuretics and afterload agents as appropriate. 
+
+# Afib/flutter s/p successful DCCV 
+# Anticoagulation
+[] Please ensure INR remains in goal range ___ for 1 month after 
+cardioversion to decrease stroke risk. Should have next INR 
+check on ___ with adjustments as needed. Was discharged 
+on warfarin 5mg daily 
+[] If he has recurrence of Aflutter, would consider ablation 
+
+# T2DM 
+[] Home glipizide was discontinued on discharge given patient's 
+ESRD. Please monitor patient's A1c and blood sugars and start an 
+alternative agent as appropriate. 
+
+BRIEF SUMMARY: 
+==============
+___ gentleman with afib on warfarin, chronic kidney 
+disease (Stage ___ secondary to oxalate nephropathy, diabetic 
+nephropathy and hypertensive nephropathy, NASH and HFpEF (EF 
+55%) who presents with shortness of breath and weight gain 
+concerning for heart failure exacerbation.
+
+CORONARIES: Unknown, fixed distal anterior wall defect 
+PUMP: EF 55%, LVH, 4+ TR
+RHYTHM: Sinus 
+
+=============== 
+ACTIVE ISSUES: 
+=============== 
+# Acute on chronic diastolic heart failure. 
+Patient presented with progressive dyspnea and weight gain over 
+3 weeks prior to presentation. On admission, his exam was 
+notable for elevated JVP, and NTpBNP of 7974 from unknown 
+baseline. TTE ___ notable for known LVH but with 4+ TR from 
+1+ TR ___. Patient with no localizing signs or symptoms of 
+infection, EKG without signs of acute ischemia and patient's 
+ongoing afib appears adequately rate-controlled. Patient reports 
+good adherence to medication regimen and sodium restricted diet. 
+Likely a combination of worsening renal function +/- severe 
+tricuspid regurgitation (though it's likely that the TR appeared 
+more severe in setting of volume overload). It is also possible 
+that placement of his AV fistula contributed to his acute HF 
+decompensation. Patient was diuresed with IV lasix boluses and 
+he was transitioned to a PO regimen of Torsemide 60mg daily. 
+Home amlodipine and carvedilol were continued. Weight at 
+discharge was 203.2 lb (92.17 kg).
+
+# CKD. 
+Baseline creatinine around 4.3, etiology likely combination of 
+oxalate nephropathy, diabetic nephropathy and hypertensive 
+nephropathy. AVF placed ___ and undergoing renal transplant 
+workup. Currently inactive on transplant list as will require 
+cor angio prior to transplant. Patient deferring this until he 
+progresses to requiring HD. No current indication for dialysis 
+during this admission. We reached out to the transplant team who 
+evaluated patient's fistula and did not need any additional 
+studies. Cr on discharge was 5.5.
+
+# A fib/atypical Aflutter s/p DCCV on ___
+CHADS2VASC 4. INR supratherapeutic on presentation at 3.8. 
+Continued home carvedilol and warfarin. He underwent a 
+successful DCCV on ___ and remained in NSR on discharge. He 
+will have follow up with Dr. ___ office in 1 month for 
+further management. If he has recurrence of Aflutter in the 
+future, he may benefit from an ablation. 
+
+================ 
+CHRONIC ISSUES: 
+================ 
+# DM II. 
+Received ISS while in house. Home glipizide was DISCONTINUED on 
+discharge given his CKD. 
+
+# CAD. 
+Continued home atorvastatin 40 mg. 
+
+# CODE STATUS: Full code presumed 
+# CONTACT: 
+Name of health care proxy: ___ 
+___: wife 
+Phone number: ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Potassium Citrate 10 mEq PO BID 
+2. Acetaminophen ___ mg PO Q6H:PRN Pain - Mild/Fever 
+3. CARVedilol 12.5 mg PO BID 
+4. Docusate Sodium 100 mg PO BID:PRN Constipation - Second Line 
+5. Senna 8.6 mg PO BID:PRN Constipation - First Line 
+6. Warfarin 7.5 mg PO 3X/WEEK (___) 
+7. Warfarin 5 mg PO 4X/WEEK (___) 
+8. amLODIPine 5 mg PO DAILY 
+9. Atorvastatin 40 mg PO QAM 
+10. Multivitamins 1 TAB PO DAILY 
+11. sevelamer CARBONATE 800 mg PO TID W/MEALS 
+12. Calcium Carbonate 500 mg PO TID W/MEALS 
+13. GlipiZIDE XL 2.5 mg PO DAILY 
+14. Cyanocobalamin 500 mcg PO DAILY 
+15. Pyridoxine 100 mg PO DAILY 
+16. Calcitriol 0.25 mcg PO 3X/WEEK (___) 
+17. Vitamin D 1000 UNIT PO DAILY 
+18. alpha lipoic acid ___ mg oral DAILY 
+19. Prolensa (bromfenac) 0.07 % ophthalmic (eye) QAM 
+20. PrednisoLONE Acetate 1% Ophth. Susp. 1 DROP LEFT EYE BID 
+
+ 
+Discharge Medications:
+1.  Torsemide 60 mg PO DAILY 
+RX *torsemide 20 mg 3 tablet(s) by mouth once a day Disp #*90 
+Tablet Refills:*0 
+2.  Warfarin 5 mg PO DAILY16 
+RX *warfarin [Coumadin] 5 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+3.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild/Fever  
+4.  alpha lipoic acid ___ mg oral DAILY  
+5.  amLODIPine 5 mg PO DAILY  
+6.  Atorvastatin 40 mg PO QAM  
+7.  Calcitriol 0.25 mcg PO 3X/WEEK (___)  
+8.  Calcium Carbonate 500 mg PO TID W/MEALS  
+9.  CARVedilol 12.5 mg PO BID  
+10.  Cyanocobalamin 500 mcg PO DAILY  
+11.  Docusate Sodium 100 mg PO BID:PRN Constipation - Second 
+Line  
+12.  Multivitamins 1 TAB PO DAILY  
+13.  Pyridoxine 100 mg PO DAILY  
+14.  Senna 8.6 mg PO BID:PRN Constipation - First Line  
+15.  sevelamer CARBONATE 800 mg PO TID W/MEALS  
+16.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: 
+==================
+Acute on chronic heart failure with preserved EF
+
+SECONDARY DAIGNOSIS: 
+====================
+Atrial fibrillation
+End stage renal disease
+Type II diabetes 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you at the ___ 
+___! 
+
+WHY WAS I IN THE HOSPITAL? 
+========================== 
+- You were admitted because you were short of breath and had 
+weight gain with leg swelling.
+
+WHAT HAPPENED IN THE HOSPITAL? 
+============================== 
+- We gave you diuretic medications to help you pee off extra 
+fluid. You responded well to this and were able to pee off a lot 
+of fluid and lose a substantial amount of weight. 
+- You underwent a procedure called a cardioversion in which an 
+electrical shock was given to your heart to convert your from 
+atrial fibrillation (an abnormal heart rhythm) into a normal 
+rhythm. You tolerated this well and your heart remained in a 
+normal rhythm afterwards. 
+
+WHAT SHOULD I DO WHEN I GO HOME? 
+================================ 
+- Take all of your medications as prescribed (listed below) 
+- Follow up with your doctors as listed below 
+- Weigh yourself every morning, seek medical attention if your 
+weight goes up more than 3 lbs. 
+- Your weight at discharge is 203.2lb (92.17 kg) 
+- Please weigh yourself today at home and use this as your new 
+baseline
+- Seek medical attention if you have new or concerning symptoms 
+or you develop swelling in your legs, abdominal distention, or 
+shortness of breath at night. 
+
+If you have any urgent questions that are related to your 
+recovery from your stay or are experiencing any symptoms that 
+are concerning to you and you think you may need to return to 
+the hospital, please call the ___ HeartLine at ___ to 
+speak to a cardiologist or cardiac nurse practitioner.
+
+It was a pleasure participating in your care. We wish you the 
+best! 
+
+-Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10946723-DS-22 | hadm_id=28743603
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None performed 
+
+attach
+ 
+Pertinent Results:
+RELEVANT LABS
+=========================
+
+___ 06:52AM BLOOD WBC-8.0 RBC-2.77* Hgb-7.7* Hct-23.9* 
+MCV-86 MCH-27.8 MCHC-32.2 RDW-17.7* RDWSD-56.4* Plt ___
+___ 06:13AM BLOOD WBC-10.2* RBC-2.20* Hgb-5.9* Hct-19.5* 
+MCV-89 MCH-26.8 MCHC-30.3* RDW-17.6* RDWSD-56.6* Plt ___
+___ 03:45PM BLOOD WBC-11.1* RBC-2.70* Hgb-7.5* Hct-23.4* 
+MCV-87 MCH-27.8 MCHC-32.1 RDW-17.0* RDWSD-53.3* Plt ___
+___ 06:52AM BLOOD Neuts-87.5* Lymphs-4.4* Monos-5.9 Eos-1.3 
+Baso-0.1 Im ___ AbsNeut-6.98* AbsLymp-0.35* AbsMono-0.47 
+AbsEos-0.10 AbsBaso-0.01
+___ 09:25AM BLOOD Glucose-182* UreaN-124* Creat-5.6* Na-139 
+K-4.6 Cl-102 HCO3-19* AnGap-18
+___ 02:45PM BLOOD Glucose-251* UreaN-130* Creat-6.4* Na-135 
+K-4.2 Cl-92* HCO3-25 AnGap-18
+
+MICROBIOLOGY
+===========================
+___ 5:55 pm MRSA SCREEN      Source: Nasal swab. 
+
+                            **FINAL REPORT ___
+
+   MRSA SCREEN (Final ___: 
+      POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS. 
+__________________________________________________________
+___ 7:17 am BLOOD CULTURE      2 OF 2. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 12:10 am BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 12:10 am BLOOD CULTURE      Source: Venipuncture. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 4:00 pm BLOOD CULTURE      2 OF 2. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 3:15 pm BLOOD CULTURE      #1. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+IMAGING
+===========================
+IMPRESSION:  
+  
+Persistent elevation of the right hemidiaphragm. 
+  
+Subtle patchy left base opacity could be due to atelectasis, 
+pneumonia, and/or 
+aspiration depending on the clinical scenario. 
+
+ 
+Brief Hospital Course:
+SUMMARY
+=========
+This a ___ male patient with a history of CKD5 (Cr of 5.6, 
+fistula in place, not currently on HD), afib on warfarin, HFpEF 
+w/ severe TR, HTN, T2DM, HLD, and NASH who presents to the ED 
+per referral from his cardiologist for hypotension. Of note, 
+patient recently had extensive oral surgery in which all of his 
+teeth were extracted and dental implants were placed. On initial 
+presentation, patient was noted to be hypotensive with SBP in 
+the ___ and anemic with Hb 7.1 (two point drop from prior Hb). 
+He received boluses with IV fluids and received 1u of pRBCs. 
+Initially also febrile to ___, so was started on broad spectrum 
+IV antibiotics, with oral source presumed due to recent oral 
+surgery. However, no recurrence of fever, blood cultures 
+negative, UA and CXR clean, so antibiotics were discontinued. 
+Patient started to experience bleeding from oral sites, OMFS 
+consulted and placed sutures at bedside. Bleeding was controlled 
+with sutures, pressure, and amikar rinses. Anticoagulation (for 
+atrial fibrillation) was initially reversed with FFP and Vitamin 
+K. After bleeding stopped, patient was bridged to warfarin with 
+heparin. However, bleeding recurred, and heparin was 
+discontinued. Bleeding was controlled with pressure and amikar 
+rinses and patient received another 1 u pRBC transfusion. He 
+remained hemodynamically stable during his admission and did not 
+have recurrence of bleeding for 24 hours prior to discharge. 
+
+TRANSITIONAL ISSUES
+============================
+[] HELD: amlodipine and carvedilol
+Recommend restarting based on blood pressure and PCP's clinical 
+impression. 
+[] CONTINUE: augmentin (to finish ___
+[] Discharge INR: 1.3
+[] Patient is at risk of oral bleeding, particularly once INR 
+becomes therapeutic. Recommend monitoring INR and discussing 
+anticoagulation with PCP/oral surgeon should bleeding recur. 
+[] Patient is ordered for CBC and INR check on ___. 
+Please ensure this is followed up on.
+[] Patient should continue full liquid diet for 1 week (till 
+___ after which he can try a soft food diet as tolerated. 
+This can be changed based on discretion of oral surgeon. 
+
+ACUTE ISSUES
+===========
+# Recent prolonged dental procedure w/post procedural bleeding.
+# Acute on chronic anemia
+Has a normocytic anemia with mild ___ at baseline. Receives 
+ferraheme infusions as outpatient. Given two point drop in 
+hemoglobin at presentation, patient received 1u of pRBCs. He 
+spiked a fever during this transfusion (blood bank notified, 
+patient stable). In addition, worsening bleeding from oral site 
+on ___, which was initially treated with pressure at 
+bleeding site with TXA soaked gauze and IV Vitamin K, FFP to 
+reverse AC. Due to worsening bleeding on ___, H/H downtreneded 
+to 5.9/19.5, patient received 2u pRBC/1u FFP/IV vitamin K. OMFS 
+came to bedside to place sutures at sites of bleed. Patient 
+developed hives during FFP transfusion which resolved following 
+Benadryl (patient stable, blood bank notified). Patient started 
+to bleed again on ___, likely following resuming 
+anticoagulation (heparin to warfarin). Heparin was discontinued 
+starting ___, patient received 1u of pRBC, bleeding controlled 
+with holding pressure and amikar rinses. H/H stable on ___ 
+with no evidence of recurrence of bleeding. Recommend continuing 
+full liquid diet for 1 week to allow for healing of oral sites. 
+
+# Concern for dental infection (resolved)
+# Hypotension (resolved)
+Patient had recent oral surgery without antibiotics 
+pre-procedure, but was given Augmentin for 10 day course 
+post-procedure. He became febrile the night of admission with 
+fevers to 102 and was broadened to vancomycin and unasyn. In 
+addition, hypotension at the same time resolved with 1L IVF 
+bolus. Lactate remained normal. He was also receiving 1u pRBC 
+transfusion at the time of fever. BPs have since stabilized. 
+Patient has remained afebrile since admission with BC NGTD > 
+48hrs, UA clear. Unasyn was discontinued and patient resumed 
+augmentin to finish initial 10 day course (last day ___. 
+
+
+# Persistent atrial fibrillation on warfarin
+The patient has a history of rate controlled chronic atrial 
+fibrillation and atypical flutter. While hospitalized recently 
+he was found to be in typical atrial flutter and underwent DCCV. 
+Initially was in RVR possibly secondary to hypotension or beta 
+blocker withdrawal. He was restarted on metoprolol rather than 
+carvedilol in the setting of low blood pressure. He has no acute 
+indications for bridging with heparin at this time. CHA2DS2-VASc 
+___. Recommend continuing home warfarin. Discharge INR 1.3.
+
+CHRONIC ISSUES
+==============
+# ESRD undergoing renal transplant workup
+ESRD is secondary to oxalate nephropathy, hypertension and 
+diabetes. Not currently on HD, L. forearm AV fistula mature in 
+case needs to be used. He currently has no uremic symptoms and 
+electrolytes stable so no urgent needs for HD.
+
+# HFpEF with severe TR and pHTN
+Home diuretics initially held; resumed prior to discharge. 
+
+# Type 2 Diabetes
+Held home glipizide while in house and maintained on weight 
+based insulin regimen.
+
+# Hypertension 
+Held amlodipine in the setting of hypotension. Metoprolol 
+started in place of carvedilol to avoid vasodilatory effects. 
+
+# Osteomyelitis ___ left great toe status post course of 
+IV antibiotics as well as amputation 
+R foot appears well healed with no signs of infection.
+
+Name of health care proxy: ___ 
+___: wife 
+Phone number: ___ 
+
+Code: Full code 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Atorvastatin 40 mg PO QAM 
+3. Calcitriol 0.25 mcg PO 3X/WEEK (___) 
+4. CARVedilol 12.5 mg PO BID 
+5. Cyanocobalamin 500 mcg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. Pyridoxine 100 mg PO DAILY 
+8. Senna 8.6 mg PO BID:PRN Constipation - First Line 
+9. sevelamer CARBONATE 800 mg PO TID W/MEALS 
+10. Vitamin D 1000 UNIT PO DAILY 
+11. alpha lipoic acid ___ mg oral DAILY 
+12. Calcium Carbonate 500 mg PO TID W/MEALS 
+13. Torsemide 20 mg PO TID 
+14. Warfarin 5 mg PO 5X/WEEK (___) 
+15. Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+16. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+17. GlipiZIDE 2.5 mg PO DAILY 
+18. Warfarin 2.5 mg PO 2X/WEEK (___) 
+
+ 
+Discharge Medications:
+1.  Metoprolol Tartrate 6.25 mg PO BID 
+RX *metoprolol tartrate 25 mg 0.25 tablet(s) by mouth twice a 
+day Disp #*4 Tablet Refills:*0 
+2.  Amoxicillin-Clavulanic Acid ___ mg PO/NG Q12H Duration: 3 
+Days  
+3.  Torsemide 20 mg PO DAILY  
+4.  alpha lipoic acid ___ mg oral DAILY  
+5.  Atorvastatin 40 mg PO QAM  
+6.  Calcitriol 0.25 mcg PO 3X/WEEK (___)  
+7.  Calcium Carbonate 500 mg PO TID W/MEALS  
+8.  Cyanocobalamin 500 mcg PO DAILY  
+9.  GlipiZIDE 2.5 mg PO DAILY  
+10.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+11.  Multivitamins 1 TAB PO DAILY  
+12.  Pyridoxine 100 mg PO DAILY  
+13.  Senna 8.6 mg PO BID:PRN Constipation - First Line  
+14.  sevelamer CARBONATE 800 mg PO TID W/MEALS  
+15.  Vitamin D 1000 UNIT PO DAILY  
+16.  Warfarin 5 mg PO 5X/WEEK (___)  
+17.  Warfarin 2.5 mg PO 2X/WEEK (___)  
+18. HELD- amLODIPine 5 mg PO DAILY  This medication was held. Do 
+not restart amLODIPine until your PCP tells you to. 
+19. HELD- CARVedilol 12.5 mg PO BID  This medication was held. 
+Do not restart CARVedilol until your PCP tells you to. 
+20.Outpatient Lab Work
+LABS: CBC, INR
+DATE: ___
+ICD 9: ___
+FAX TO: ___. ___ ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+==========================
+Recent prolonged dental procedure with post procedural bleeding
+Acute on chronic anemia
+Hypotension
+Persistent atrial fibrillation on warfarin 
+
+CHRONIC ISSUES
+=======================
+ESRD 
+HFpEF with severe TR and pTN
+Type II Diabetes Mellitus
+Hypertension
+Hx of Left great toe amputation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you at ___!
+
+WHY WAS I IN THE HOSPITAL?
+You were in the hospital because your blood pressure was very 
+low. You then started bleeding from your mouth requiring close 
+monitoring.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?
+- You had a large amount of bleeding from your mouth where some 
+of your dental implants were. 
+- You were given blood products to support your blood counts.
+- You were seen by our oral maxillofacial surgery service, who 
+helped us treat the bleeding.
+- Your blood counts were closely monitored.
+
+WHAT DO I NEED TO DO ONCE I LEAVE THE HOSPITAL? 
+- Please take your medications as prescribed. Please not that 
+some of your medications have changed.
+- Please go to all of your follow-up doctor's appointments.
+- Continue a liquid diet for one week, then switch to soft 
+foods.
+- You will be discharged with a prescription for labs. Please 
+get these labs checked on ___, and they will be faxed to your 
+PCP.
+- If bleeding recurs, apply pressure with gauze. If this does 
+not stop the bleeding, please call your outpatient oral surgeon 
+for further guidance or seek medical care at an Emergency Room.
+
+Be well,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

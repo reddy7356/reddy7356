@@ -1,0 +1,983 @@
+===== DISCHARGE NOTE =====
+note_id=10990267-DS-12 | hadm_id=20412382
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal Pain 
+
+ 
+Major Surgical or Invasive Procedure:
+Sigmoidectomy with Colostomy creation
+Sigmoidoscopy with decompression
+Bronchoscopy
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a history of hemorrhagic 
+CVA ___ R MCA anuerysm s/p R craniotomy and clipping (___) c/b 
+L hemiplegia, s/p trach and PEG on seizure prophylaxis, HTN, 
+HLD, Hx of DVT/PE s/p IVC filter, s/p recent TAH-BSO for 
+symptomatic fibroid uterus with discharge from ___ on ___, 
+who presented to ___ abdominal pain. Had 
+been complained of LUQ since the surgery with constipation, no 
+fever, chils, tolerating tube feeds, continued to have flatus. 
+Pain acutely worsened prior to presentation to OSH, KUB there 
+c/f sigmoid distension and c/f sigmoid volvulus. Pt transferred 
+to ___ for further care.
+
+AT ___, repeat KUB notable for persistent massive gaseous 
+distention of the sigmoid colon, concerning for obstruction. She 
+had a indeterminate UA (pos nit, neg leuk, 3WBCs) via straight 
+cath, and was given Ceftriaxone. Seen in ED by ACS surgery, who 
+felt that given her recent abdominal surgery, would like to hold 
+off repeat surgery. Patient underwent flexible sigmoidoscopy for 
+decompression. Although procdure limited by stool, able to 
+release copious gas.  Post-procedure KUB was taken and she came 
+to the floor which looked mildly improved.  
+
+Overnight, patient noted to by tachycardic to 130s, no EKG 
+changes. Patient originally on RA, found to be desaturated to 
+___ % RA, increased to 70% on FiO2. ABG 7.41/45/59 on 35% 
+trach mask. CXR clear. CTA prelim without e/o PE, but with 
+diffuse GGO throughout both lung fields.
+
+On arrival, patient satting: 98.1  104 121/68  36  81% on 35% 
+FiO2
+Patient initially obtunded and lethargic, unresponsive to voice 
+or sternal rub. Shut eyes closely when attempting assessment. Pt 
+placed on 5L NC and 13L trach collar with improvement in sats to 
+mid ___.  
+Mental status improved with improvement of oxygenation. Patient 
+denied aspiration event. Denied fever, chills, night sweats. 
+States that abdominal pain has improvement. C/o R knee pain, 
+states mildly sore. Denies dysuria, frequency or urgency. 
+
+Pt placed on CMV 100% 350 PEEP 5 for bronchoscopy. Bedside 
+bronchoscopy with no mucous plug. Pt with frothy secretions, no 
+DAH, no endobronchial lesions. Bedside TTE with dilated RA, LV 
+collaspsible during systole. 
+
+ 
+Past Medical History:
+Hemorrhagic CVA in ___, s/p right craniotomy and R MCA clipping 
+with residual left sided hemiplegia, s/p trach and PEG. On 
+seizure prophylaxis (no Hx Seizures per patient and HCP)  
+TAH-BSO ___  
+Hypertension  
+Hyperlipidemia  
+Hx of DVT/PE  
+Depression  
+Anxiety  
+IVC filter  
+L wrist schwannoma removal (___)  
+Difficult blood cross-match (requires D-, C-, S- and 
+V/Vs-negative blood) 
+ 
+Social History:
+___
+Family History:
+Negative for any female cancers
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:
+==============================
+Vitals: 98.1  104 121/68  36  81% on 35% ___
+
+General- Sleepy, oriented to name, ___, ___. Able to 
+count backwards from 10. Appears logical and answers 
+appropriately
+HEENT- Sclerae anicteric, wet mucous membranes, oropharynx clear 
+ 
+Neck- trach with many frothy secretions, clear to yellow in 
+color. 
+Lungs- rhoncherous throughout. Tachypneic with accessory muscle 
+use 
+CV- Tachycardic, regular rate, No MRG appreciated 
+Abdomen- soft, moderate distension, no tenderness to palpation, 
+no , suprapubic tenderness, bowel sounds present in all 4 
+quadrants, no guarding  
+GU- no foley  
+Ext- warm, well perfused, no edema; R knee with increased 
+swelling, ballotable patella. Warm, not red or hot. Sore, not 
+exiquisitely tender to touch
+Neuro- ___nd RLE, follows commands. ___ LUE and 
+LLE. Sustained clonus on L ankle. 
+Skin: well approximated, well healing incision with small areas 
+of dried scan, no erythema, tenderness to palpation, or drainage 
+from incision  
+
+PHYSICAL EXAM ON DISCHARGE:
+==============================
+VS: 98.4  98.4  ___  ___  100%TM
+General: Pt does not appear to be in distress. Thin, cachectic 
+woman with Trach/PEG in place, able to open eyes and follow 
+commands. Able to answer questions by motioning with R arm, 
+trying to verbalize some complaints. Per report this is how she 
+has been lately.
+HEENT: Sclera anicteric, MMM, oropharynx clear. PERRLA. Trach in 
+place. S/p R craniotomy, no helmet in place when I examined her.
+Neck: supple, JVP not elevated
+Lungs: Clear to auscultation bilaterally anteriorly, no wheezes, 
+rales, rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: PEG in place. Absent bowel sounds, soft, non-tender, 
+non-distended, present, no rebound tenderness or guarding, no 
+organomegaly. ostomy with normal brown stool output.
+Ext: 2+ edema b/l ___ to knees trace on thighs b/l. Warm, well 
+perfused, 2+ pulses. R calf with DTI over posterior aspect- 
+hyperpigmented, bruised appearing area.
+Skin:  No lesions noted
+Neuro:  Able to move right arm and leg with ___ strength, L 
+hemiparesis. Unable to evaluate full CN exam, but grossly 
+unchanged 
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+====================
+
+___ 01:00AM BLOOD WBC-4.0 RBC-3.77* Hgb-10.3* Hct-32.0* 
+MCV-85 MCH-27.3 MCHC-32.2 RDW-15.4 RDWSD-47.0* Plt ___
+___ 01:00AM BLOOD Plt ___
+___ 01:00AM BLOOD Glucose-90 UreaN-8 Creat-0.3* Na-147* 
+K-3.0* Cl-108 HCO3-30 AnGap-12
+___ 01:00AM BLOOD Albumin-3.7
+
+Labs on discharge:
+=================================
+___ 06:37AM BLOOD WBC-5.8 RBC-2.95* Hgb-7.9* Hct-24.6* 
+MCV-83 MCH-26.8 MCHC-32.1 RDW-15.2 RDWSD-45.6 Plt ___
+___ 06:20AM BLOOD ___ PTT-36.6* ___
+___ 06:20AM BLOOD Glucose-95 UreaN-9 Creat-0.4 Na-143 K-4.4 
+Cl-105 HCO3-31 AnGap-11
+___ 06:20AM BLOOD estGFR-Using this
+___ 06:56AM BLOOD CK(CPK)-19*
+___ 06:20AM BLOOD Calcium-10.9* Phos-2.9 Mg-2.1
+
+MICRO:
+Urine culture:
+URINE CULTURE (Final ___: 
+ESCHERICHIA COLI.    >100,000 ORGANISMS/ML.. 
+Cefazolin interpretative criteria are based on a dosage regimen 
+of
+2g every 8h. 
+
+SENSITIVITIES: MIC expressed in MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     2 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     2 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+Bronchoscopy:
+GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL {PSEUDOMONAS 
+AERUGINOSA, PSEUDOMONAS AERUGINOSA}; Immunoflourescent test for 
+Pneumocystis jirovecii (carinii)-FINAL; FUNGAL CULTURE-FINAL 
+{YEAST}; ACID FAST SMEAR-FINAL; ACID FAST CULTURE-PRELIMINARY
+FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+ACID FAST SMEAR (Final ___: 
+NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+      KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML.. 
+         PREDOMINATING ORGANISM.  INTERPRET RESULTS WITH 
+CAUTION. 
+         Piperacillin/tazobactam sensitivity testing available 
+on request. 
+      KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML.. 
+         PREDOMINATING ORGANISM.  INTERPRET RESULTS WITH 
+CAUTION. 
+         ___ MORPHOLOGY. 
+         Piperacillin/tazobactam sensitivity testing available 
+on request. 
+      YEAST.    ~6OOO/ML. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |          KLEBSIELLA PNEUMONIAE
+                             |          |   
+AMPICILLIN/SULBACTAM--  =>32 R     =>32 R
+CEFAZOLIN-------------  =>64 R     =>64 R
+CEFEPIME--------------    16 I       16 I
+CEFTAZIDIME-----------  =>64 R     =>64 R
+CEFTRIAXONE-----------  =>64 R     =>64 R
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+NITROFURANTOIN--------   128 R      128 R
+TOBRAMYCIN------------  =>16 R     =>16 R
+TRIMETHOPRIM/SULFA----   <=1 S      <=1 S
+
+IMAGING:
+==========
+CTA chest and abdomen (___):
+IMPRESSION: 
+1. Dilated sigmoid colon, with a narrowing in the distal sigmoid 
+colon 
+measuring 2.6 cm.  This is improved compared to prior CT, 
+previously measuring 9 mm.  No evidence of volvulus. 
+2. No evidence of acute pulmonary embolism. 
+3. Diffuse parenchymal opacities are new compared to prior CT on 
+the ___.  This could reflect an infectious process or 
+edema. 
+4. A possible hypodense lesion in the pancreatic head is not as 
+well 
+appreciated on today's exam.  Pancreatic ductal dilation is 
+unchanged. 
+5. The remainder of the exam is unchanged, including extensive 
+venous thrombi, a migrated IVC filter, intra and extrahepatic 
+biliary duct dilation, and cholelithiasis without evidence of 
+acute cholecystitis. 
+
+ECHO (___):
+The left atrium is normal in size. No atrial septal defect is 
+seen by 2D or color Doppler. Left ventricular wall thicknesses 
+and cavity size are normal. Due to suboptimal technical quality, 
+a focal wall motion abnormality cannot be fully excluded. Left 
+ventricular systolic function is hyperdynamic (EF>75%). The 
+estimated cardiac index is high (>4.0L/min/m2). Right 
+ventricular chamber size and free wall motion are normal. The 
+ascending aorta appeared dilated but the image quality was 
+limited and no aneurysm was seen on the ___ CTA of the chest. 
+The aortic valve leaflets are mildly thickened (?#). There is no 
+aortic valve stenosis. No aortic regurgitation is seen. The 
+mitral valve appears structurally normal with trivial mitral 
+regurgitation. There is no mitral valve prolapse. There is 
+moderate pulmonary artery systolic hypertension. There is no 
+pericardial effusion. 
+IMPRESSION: Normal left ventricular chamber size with 
+hyperdynamic systolic function. Normal right ventricular chamber 
+size and systolic function. Moderate pulmonary artery 
+hypertension.
+
+KUB (___):
+FINDINGS:    
+There are no abnormally dilated loops of small bowel.  Improved 
+decompression of the sigmoid colon. There is no free 
+intraperitoneal air. 
+Osseous structures are unremarkable. IVC filter is intact.  
+Unchanged, numerous pelvic phleboliths.  Rectal tube tip is now 
+at a lower position within the sigmoid colon.   
+IMPRESSION:    
+Improved decompression of the sigmoid colon.   
+
+CXR (___):
+FINDINGS:   
+A tracheostomy is in-situ, unchanged in position compared to the 
+prior study.  The patient is somewhat rotated.  Lung volumes are 
+within normal limits.  Patchy airspace opacities are noted at 
+the left lung base, better appreciated on the CT chest.  No 
+pleural effusion seen.  No pneumothorax seen.   
+IMPRESSION:   
+Patchy opacities of the left lung base better evaluated on the 
+CT chest from the prior day.
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a history of hemorrhagic 
+CVA ___ R MCA aneurysm s/p R craniotomy and clipping (___) c/b 
+L hemiplegia, s/p trach and PEG on seizure prophylaxis, hx of 
+DVT/PE s/p IVC filter, s/p recent TAH-BSO ___, who presented to 
+OSH with abdominal pain and was found to have colonic distension 
+and was transferred to ___ ICU for hypoxia. She was found to 
+have sigmoid volvulus which was treated by laparoscopic sigmoid 
+colectomy and colostomy (___). Her course was complicated by 
+bleeding from ostomy bag, pseudomonas pneumonia, UTI, and 
+findings of ovarian vein thrombosis now on warfarin for 
+discharge. She was also found to be intermittently 
+encephalopathic throughout the hospital course with concern for 
+new intracranial process but brain imaging remained unchanged. 
+Mental status improved prior to discharge. She was also found to 
+be hypercalcemic with elevated PTH levels suggestive of primary 
+hyperparathyroidism, and was seen by endocrine who recommended 
+increased fluid flushes and switching to a different tube feed 
+with less calcium. She improved mentally throughout the hospital 
+stay and had good osteomy output with no bleeding by discharge. 
+
+Active Issues:
+
+# Bilateral ovarian vein thrombosis with history of PE/DVT: She 
+was found to have bilateral ovarian vein thromboses on imaging, 
+likely related to her recent TAH/BSO. IVC filter was noted to be 
+malpositioned. ___ was consulted and did not feel that there was 
+need for repositioning for filter. She was managed on a heparin 
+drip for new ovarian vein thromboses and transitioned to 
+warfarin 5 mg daily for discharge. She will follow up with her 
+PCP ___ will manage her warfarin dosing. Patient 
+discharged on script for enoxaparin, in case needed for bridging 
+therapy
+
+# Sigmoid volvulus s/p colectomy with colostomy: Patient was 
+found to have a sigmoid volvulus on KUB. She was evaluated by GI 
+who performed a flexible sigmoidoscopy with decompression and 
+placed a rectal tube. She then underwent a sigmoidectomy for 
+definitive management with colostomy formation. She initially 
+had small amounts of bleeding from the ostomy which resolved.
+
+# E. coli urinary tract infection: Urine culture grew E. coli, 
+which was treated with cefepime. The patient also had a Urine 
+culture drawn on ___ which grew Klebsiella, although at that 
+point she was asymptomatic, does not have an elevated WBC count, 
+and has not had other signs of ongoing infection so we feel that 
+this is most likely representative of her being colonized by 
+this bacteria.
+
+# Ill-defined pancreatic mass: CT incidentally noted an 
+ill-defined pancreatic mass associated with moderate 
+intrahepatic and extrahepatic biliary ductal dilation and 
+dilation of the pancreatic duct. This should be followed up as 
+an outpatient.
+
+# Hypoxemic respiratory failure with pseudomonas pneumonia: 
+Patient underwent a bronchoscopy and BAL grew GNRs, which 
+speciated to Pseudomonas. She was initially placed on broad 
+spectrum antibiotics (vancomycin/cefepime/levofloxacin) but this 
+was narrowed to cefepime when BAL grew pseudomonas. Antibiotics 
+finished. Required ventilator for one day but eventually changed 
+back to trach mask, and saturating well on discharge.
+
+#Hyperparathyroidism/Hypercalcemia: Seen by endocrine team, who 
+felt that this was likely primary hyperparathyroidism but that 
+her calcium levels were not high enough to explain the 
+intermittent alterations in her mental status. They recommended 
+gentle increasing of flushes and low calcium diet. Her calcium 
+did improve slightly before discharge. She will be seen by 
+Endocrine as an outpatient.
+
+#RLE deep tissue injury: Pt developed bruising of her right calf 
+likely related to PAS stocking use initially. Wound care saw the 
+patient and weight distribution of the leg was recommended.
+
+#Anemia: Pt came in with hgb 10.3, which dropped in the 8 range 
+after surgery and remained there throughout. Iron studies 
+indicated Anemia of chronic disease. Lab draws during 
+complicated and prolonged hospital course likely contributed. 
+
+#Peripheral edema: She was found to have 2+ pitting edema 
+throughout the hospital course, likely in the setting of low 
+albumin. Trial of diuresis resulted in hypotension, so was not 
+further pursued.
+
+Chronic issues:
+======================================================= 
+# H/o hemorrhagic CVA in ___, s/p right craniotomy and R MCA 
+clipping with residual left sided hemiplegia, s/p trach and PEG: 
+She was continued on depakote and keppra for seizure 
+prophylaxis. She continued to use her helmet from home 
+intermittently as she does not like how it fits. 
+# Hypertension: Held off on BP meds on discharge as she had 
+intermittent hypotension while admitted and was up to SBP 
+130's-140's on discharge.
+# Hyperlipidemia: Continued Atorvastatin 20mg daily. 
+# Depression/Anxiety: Continued Citalopram 20mg daily. 
+#Hyperthyroidism: Continued on Methimazole
+
+TRANSITIONAL ISSUES: 
+===================== 
+# Pancreatic mass: ill-defined, incidental finding on CT imaging 
+- will need imaging follow up 
+# Ms. ___ need her INR's checked and warfarin dosing 
+adjusted by Dr. ___. Next INR check for ___
+#Will give prescription for Enoxaparin in case pt is 
+subtherapeutic and ___ clinic needs to bridge her back to 
+therapeutic range.
+#The patient's helmet should be worn at all times but she does 
+not like how it fits so only wore it intermittently. Please 
+consider refitting helmet for her.
+#The patient was bridged to Warfarin with Lovenox. As her INR 
+was therapeutic for three days prior to discharge, we held off 
+on Lovenox for discharge. She will get a prescription for 
+Lovenox in case her INR is subtherapeutic and needs new bridging
+#Follow up with endocrine for new diagnosis of primary 
+hyperparathyroidism
+#Amlodipine and labetalol was discontinued due to low BP. SBP 
+stable around 120s to 140s prior to discharge. Follow up with 
+PCP and consider ___ if necessary. 
+# CODE: Full Code
+# CONTACT: ___ (daughter, ___ 
+___, ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Methimazole 5 mg NG QAM 
+2. Citalopram 20 mg NG QAM 
+3. Acidophilus (L.acidoph & ___ 
+acidophilus) 1 capsule  Per PEG tube BID 
+4. LeVETiracetam Oral Solution 750 mg NG BID Seizure prophylaxis 
+
+5. Labetalol 300 mg NG TID 
+6. Amlodipine 10 mg NG DAILY 
+7. Atorvastatin 20 mg NG QPM 
+8. LOPERamide 2 mg NG QID:PRN Diarrhea 
+9. Docusate Sodium (Liquid) 100 mg PO DAILY:PRN Constipation 
+10. Milk of Magnesia 30 mL NG PRN Constipation 
+11. Lansoprazole Oral Disintegrating Tab 30 mg G TUBE DAILY 
+12. Albuterol 0.083% Neb Soln 1 NEB IH TID 
+13. Acetaminophen (Liquid) 650 mg NG Q6H:PRN Pain 
+14. Guaifenesin ___ mL PO Q6H:PRN Cough 
+15. Jevity 1.2 Cal (lactose-reduced food with fibr)    PEG tube 
+On for 14 hr, off for 10hr 
+16. Valproic Acid ___ mg PO Q8H 
+
+ 
+Discharge Medications:
+1. tube feed
+Ensure Plus Full strength
+Starting rate: 20 ml/hr; Advance rate by 20 ml q4h Goal rate: 65 
+ml/hr
+Cycle start: 1800 Cycle end: 800
+Mix Benefiber packet with 60 cc water & stir until dissolved
+
+2. Acetaminophen (Liquid) 650 mg NG Q6H:PRN Pain 
+RX *acetaminophen 650 mg/20.3 mL 20.3 ml by mouth q6hr PRN 
+Refills:*0
+3. Albuterol 0.083% Neb Soln 1 NEB IH TID 
+4. Citalopram 20 mg NG QAM 
+5. Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY 
+RX *lansoprazole 30 mg 1 capsule(s) PEG tube daily Disp #*30 
+Capsule Refills:*0
+6. LeVETiracetam Oral Solution 750 mg NG BID Seizure prophylaxis 
+
+RX *levetiracetam 500 mg/5 mL (5 mL) 7.5 mL PEG tube twice a day 
+Refills:*0
+7. Methimazole 5 mg NG QAM 
+RX *methimazole 5 mg 1 tablet(s) PEG tube qAM Disp #*15 Tablet 
+Refills:*0
+8. Lidocaine 5% Patch 1 PTCH TD QPM Right knee 
+9. Valproic Acid ___ mg PO Q8H 
+RX *valproic acid (as sodium salt) 250 mg/5 mL 5 ml by mouth 
+q8hr Refills:*0
+10. Vitamin D 1000 UNIT PO DAILY 
+11. Warfarin 5 mg PO DAILY16 
+RX *warfarin 5 mg 1 tablet(s) by mouth q 16:00 Disp #*30 Tablet 
+Refills:*1
+12. Acidophilus (L.acidoph & 
+___ acidophilus) 1 capsule  Per 
+PEG tube BID 
+13. Docusate Sodium (Liquid) 100 mg PO DAILY:PRN Constipation 
+14. Guaifenesin ___ mL PO Q6H:PRN Cough 
+15. Atorvastatin 20 mg NG QPM 
+RX *atorvastatin 20 mg 1 tablet(s) PEG tube qPM Disp #*15 Tablet 
+Refills:*0
+16. LOPERamide 2 mg NG QID:PRN Diarrhea 
+17. Milk of Magnesia 30 mL NG PRN Constipation 
+18. OxycoDONE Liquid 5 mg PO Q6H:PRN pain 
+RX *oxycodone 5 mg/5 mL 5 mg by mouth q6prn Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Sigmoid volvulus
+Ovarian Vein Thrombosis
+Hyperparathyroidism
+Pneumonia
+UTI
+
+Secondary Diagnoses
+- h/o CVA
+- Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ because you had worsening abdominal 
+pain and were found to have an obstructive problem with your 
+intestines, which was fixed with a surgical procedure to remove 
+part of your colon and create an ostomy bag. You also developed 
+high calcium levels in your blood. You also were foundn to have 
+clots in the veins coming from your ovaries, and need to be on 
+warfarin to thin your blood for that. You were initally treated 
+in the ICU and then after surgery came to the general medicine 
+floor. You should follow up at all the appointments we made for 
+you (below). We wish you all the best.
+
+Sincerely,
+your care team at ___
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10990267-DS-10 | hadm_id=23393876
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left forearm/wrist mass
+ 
+Major Surgical or Invasive Procedure:
+1. Excision of mass, left distal forearm/wrist
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female who presents today for 
+evaluation of
+her lump located on her left wrist.  Her daughter accompanies 
+her
+today during this visit. She reports that the lump was first
+noticed in ___.  She denies any history of traumatic
+event; however, she did state that the lump has been painful
+since the date of presentation.  She reports that the overall
+size of the lump continues to increase and decrease
+intermittently & without any provocation.  However, the overall
+size of it does appear to gradually be increasing.  The pain
+seems also to be increasing as well to the point now where she
+refuses to let her caretakers touch the volar aspect of her 
+wrist
+where the lump is located.  ___ unfortunately had a subarachnoid
+hemorrhage due to an aneurysm back in ___.  She was treated at
+___ and underwent a clipping of the MCA vessel as well as
+craniotomy with partial craniectomy done at that time.  She is
+left with significant deficit on the left upper extremity with
+very limited activity of the left hand, wrist and elbow. She
+denies any radicular symptoms.  No numbness and tingling is
+present.
+
+ 
+Past Medical History:
+Subarachnoid hemorrhage status post craniotomy, partial 
+craniectomy as well as clipping of the right
+CMA, seizures, hyperlipidemia, high blood pressure, depression,
+trach in place, PEG was also in place.  No current p.o. intake,
+anxiety.
+
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:  Uncertain for any pertinent history:  The
+patient does not know parents died at a very young age.
+
+ 
+Physical Exam:
+Please see daily progress note complete details.
+In general this is a pleasant elderly female, resting 
+comfortably, in no apparent distress
+Focused examination of her left upper extremity reveals surgical 
+dressings in place, clean, dry, and intact
+The ace wraps were taken down but the operative dressings were 
+left in place.
+The left hand is warm and well perfused, with a 2+ radial pulse 
+and brisk capillary refill in all the fingers
+Sensation is intact to the radial, median, and ulnar nerves. 
+Unable to assess motor function secondary to resultant 
+hemiparesis from a prior CVA. Patient however is able to move 
+the small finger.
+ 
+Brief Hospital Course:
+The patient presented to the ___ clinic and was 
+evaluated by Dr. ___. The patient was found to have 
+a left distal forearm/wrist mass, which was previously biopsed 
+and found to be a Schwannoma. The patient was admitted through 
+the day surgery program at ___ 
+for an excision of this left distal forearm mass. She was taken 
+to the operating room for this procedure on ___. She 
+tolerated the procedure well (for full details, please see the 
+separately dictated operative report). Te was then taken from 
+the OR to the PACU in stable condition and after recovery from 
+anesthesia was transferred to the floor.  The patient was 
+initially given IV fluids and IV pain medications, and 
+progressed to her regular tube-feed diet and oral medications by 
+POD#0. The patient was given perioperative antibiotics and 
+anticoagulation per routine.  The patients home medications were 
+continued throughout this hospitalization. The ___ 
+hospital course was otherwise unremarkable. On POD #1, the 
+patient was declared medically stable and fit for discharge. 
+
+At the time of discharge the patient was afebrile with stable 
+vital signs that were within normal limits, pain was well 
+controlled with oral medications, incisions were 
+clean/dry/intact, and the patient was voiding/moving bowels 
+spontaneously. The patient is weight-bearing as tolerated in the 
+left upper extremity. The patient will follow up in two weeks 
+per routine. A thorough discussion was had with the patient 
+regarding the diagnosis and expected post-discharge course, and 
+all questions were answered prior to discharge.
+
+ 
+Medications on Admission:
+Please see medication list on the OMR.
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN pain/fever 
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheezing 
+3. Albuterol Inhaler 2 PUFF IH Q6H:PRN wheezing/SOB 
+4. ALPRAZolam 0.25 mg PO BID:PRN anxiety 
+5. Amlodipine 10 mg PO DAILY 
+6. Atorvastatin 20 mg PO DAILY 
+7. Citalopram 20 mg PO DAILY 
+8. Divalproex Sod. Sprinkles 250 mg PO TID 
+9. Docusate Sodium 100 mg PO DAILY:PRN constipation 
+10. Labetalol 300 mg PO TID 
+11. LeVETiracetam 750 mg PO BID 
+12. Methimazole 5 mg PO DAILY 
+13. Milk of Magnesia 30 mL PO Q6H:PRN constipation 
+14. OxycoDONE (Immediate Release)  2.5 mg NG Q6H:PRN pain 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Left forearm/wrist mass (suspected Schwannoma)
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+MEDICATIONS:
+- Please take all medications as prescribed by your physicians 
+at discharge.
+- Continue all home medications unless specifically instructed 
+to stop by your surgeon.
+- Do not drink alcohol, drive a motor vehicle, or operate 
+machinery while taking narcotic pain relievers.
+- Narcotic pain relievers can cause constipation, so you should 
+drink eight 8oz glasses of water daily and take a stool softener 
+(colace) to prevent this side effect.
+
+WOUND CARE:
+- You may shower. No baths or swimming for at least 4 weeks.
+- You have no external sutures or staples. Therfore, you have no 
+sutures or staples that will need to be removed.
+- No dressing is needed if wound continues to be non-draining.
+
+ACTIVITY AND WEIGHT BEARING:
+- You may use your left arm as tolerated. There are no 
+restrictions on the activity in your left arm.
+
+Orthopedic Surgery Follow-Up:
+
+You will have a follow-up appointment scheduled with Dr. 
+___ in approximately 2 weeks from discharge. This 
+appointment is usually scheduled prior to your surgery. If you 
+do not remember the appointment details or want to confirm your 
+appointment, please call the clinic at ___.
+
+Please follow up with your primary care doctor regarding this 
+admission and any new medications/refills.
+
+Danger Signs:
+
+Please call your PCP or surgeon's office and/or return to the 
+emergency department if you experience any of the following:
+- Increasing pain that is not controlled with pain medications
+- Increasing redness, swelling, drainage, or other concerning 
+changes in your incision
+- Persistent or increasing numbness, tingling, or loss of 
+sensation
+- Fever > 101.4
+- Shaking chills
+- Chest pain
+- Shortness of breath
+- Nausea or vomiting with an inability to keep food, liquid, 
+medications down
+- Any other medical concerns
+
+Physical Therapy:
+Activity as tolerated, left upper extremity. No weight-bearing 
+restrictions. 
+Treatments Frequency:
+Wound Care Instructions:
+- Leave the dressing on until 48 hours after surgery. At this 
+point you may take the dressing down and change it. We recommend 
+sterile 4x4 gauze and tegederm.
+- Continue to change the dressings daily until the wound becomes 
+dry.
+- Once dry you may leave the wound to air (i.e. without any 
+dressings). Remember to leave the steri-srips on. These will 
+slowly start to peel and fall off on their own.
+
+Showering
+You may shower 48 hours after your surgery and get your 
+incisions wet.  DO NOT immerse in a tub or pool for 7 – 10 days 
+to avoid excessive scarring and risk of infection.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10990267-DS-11 | hadm_id=23994768
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Symptomatic fibroid uterus
+ 
+Major Surgical or Invasive Procedure:
+Total abdominal hysterectomy, bilateral salpingo-oophorectomy, 
+trach evaluation
+
+ 
+History of Present Illness:
+This is a ___ gravida 2, para 2 (twins)/3 living 
+children. Her last menstrual period was in ___.  The patient 
+and her daughter presented late for today's visit due to 
+inclement weather conditions.  She is accompanied by her 
+daughter who is her caregiver.  
+.
+The patient responds to questions, however, is limited with her 
+ability to discuss her history.  Her daughter brought a folder 
+outlining events from ___.  During that time, patient had a 
+hemorrhagic stroke  which resulted in a subarachnoid hemorrhage 
+secondary to an aneurysm. At that time she was treated with a 
+right craniotomy and clipping of her middle cerebral artery. 
+This was done at ___ and records were provided. 
+She has left hemiparesis and a trach and a PEG for her 
+nutrition.
+.
+Please note, Ms. ___ was evaluated in ___ by Dr. ___ 
+___ who was a GYN oncologist working here at the ___ 
+___.  She had been transported from 
+___ with heavy vaginal bleeding.  At ___ 
+___, her hematocrit according to documentation in her 
+medical records had gone as low as 7.6%.  She was admitted to 
+the intensive care unit given 7 units of packed red cells.  She 
+was then transported to
+the ___.  On presentation at 
+her hematocrit was 28%.  Of note, on clinical exam, she had a 
+pelvic abdominal mass that was approximately 4 fingerbreadths 
+above the umbilicus.  She has been scheduled for surgery on 
+___ for total abdominal hysterectomy bilateral 
+salpingo-oophorectomy.  
+.
+This surgery was postponed secondary to need for workup of her 
+hematologic issues.  It is now ___ years later the patient and 
+daughter are requesting that surgery at this time. The patient 
+had an ultrasound done on ___ at ___ that 
+revealed a uterine fibroid which measured 19 x 12 x 18 cm that 
+has replaced identifiable uterus.  No endometrium could be 
+identified.  There is a question whether the left ovary 
+visualized that was measured at 4 x 3 x 4.4 cm with actual 
+ovary. This is also related to the heterogenous multiple 
+fibroids and measurement may have been exophytic portion of a 
+fibroid.  Not certain whether either ovary was seen.  There was 
+no ascites. 
+ 
+Past Medical History:
+OB/GYN HISTORY:  Menarche at 13.  Menopause ___, two 
+pregnancies, both spontaneous vaginal deliveries, first 
+pregnancy termed infant, second pregnancy spontaneous vaginal 
+delivery of twins at approximately 32 weeks.  She has no history 
+of abnormal Pap smears or sexually transmitted infections.
+.
+PAST MEDICAL HISTORY:  Hemorrhagic stroke, aneurysm, left-sided 
+hemiplegia, seizure disorder, hypertension, 
+hypercholesterolemia, history of DVT/pulmonary embolism, 
+depression, anxiety.
+.
+ALLERGIES:  No known drug allergies.
+.
+OPERATIVE HISTORY:  ___ right craniotomy status post clipping 
+of right middle cerebral artery. A trach and PEG placement, left 
+wrist schwannoma removed.
+ 
+Social History:
+___
+Family History:
+Negative for any female cancers.
+ 
+Physical Exam:
+Discharge physical exam
+Vitals: VSS
+Gen: NAD, trach and PEG tubes in place
+CV: RRR
+Resp: no acute respiratory distress, able to speak with trach in 
+place
+Abd: soft, appropriately tender, no rebound/guarding, incision 
+c/d/i
+Ext: no TTP
+ 
+Pertinent Results:
+___ 03:30PM BLOOD Type-ART Temp-36.1 Rates-/14 FiO2-98 
+pO2-122* pCO2-51* pH-7.38 calTCO2-31* Base XS-4 AADO2-530 REQ 
+O2-88 Intubat-NOT INTUBA
+ 
+Brief Hospital Course:
+On ___, Ms. ___ was admitted to the gynecology service 
+after undergoing total abdominal hysterectomy, bilateral 
+salpingo-oophorectomy, and trach evaluation for symptomatic 
+fibroid uterus. Please see the operative report for full 
+details.
+.
+Her post-operative course was uncomplicated. Immediately 
+post-op, her pain was controlled with IV dilaudid and toradol.
+.
+On post-operative day 1, nutrition was consulted regarding her 
+tubefeeds and she was advanced to goal without difficulty. She 
+was transitioned to oral oxycodone, ibuprofen, and 
+acetaminophen. On post-operative day 2, her urine output was 
+adequate so her foley was removed and she voided spontaneously. 
+On post-operative day 3, she had several episodes of urinary 
+incontinence, and urinalysis was consistent with a urinary tract 
+infection. She is treated with Bactrim, to be continued for 3 
+days.
+.
+By post-operative day 4, she was able to breath and speak with 
+her trach tube, tolerating tubefeeds, voiding spontaneously, at 
+baseline mobility, and pain was controlled with medications 
+through her PEG tube. She was then discharged home in stable 
+condition with ___ for staple removal and outpatient follow-up 
+scheduled.
+ 
+Medications on Admission:
+Albuterol, Xanax 0.25 mg BID PRN, amlodipine 10mg daily, 
+atorvastation 20mg daily, citalopram 20mg daily, depakote 250mg 
+TID, labetolol 300mg TID, Keppra 750mg BID, methimazole 5mg 
+daily, omeprazole 20mg daily
+ 
+Discharge Medications:
+1. Albuterol 0.083% Neb Soln 1 NEB IH TID 
+2. Amlodipine 10 mg NG DAILY 
+3. Citalopram 20 mg NG DAILY 
+4. Docusate Sodium (Liquid) 100 mg PO BID 
+RX *docusate sodium 50 mg/5 mL 100 mg by mouth twice a day 
+Refills:*2
+5. Labetalol 300 mg PO TID 
+6. LeVETiracetam Oral Solution 750 mg NG BID 
+7. Methimazole 5 mg NG DAILY 
+8. Omeprazole 20 mg PO DAILY 
+9. Acetaminophen (Liquid) 650 mg PO Q6H:PRN pain 
+do not take more than 4000mg total per day 
+RX *acetaminophen 650 mg/20.3 mL 650 mg by mouth every six (6) 
+hours Refills:*1
+10. Valproic Acid ___ mg NG Q8H 
+11. OxycoDONE Liquid 5 mg PO/NG Q4H:PRN pain 
+do not drive while taking this medication 
+RX *oxycodone 5 mg/5 mL 5 mg by mouth every four (4) hours 
+Refills:*0
+12. Sulfameth/Trimethoprim DS 1 TAB NG Q12H Duration: 3 Days 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tablet(s) by 
+mouth every twelve (12) hours Disp #*5 Tablet Refills:*0
+13. Ibuprofen 400 mg PO Q8H pain 
+take with food 
+RX *ibuprofen 400 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*50 Tablet Refills:*1
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Symptomatic fibroid uterus
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the gynecology service after your 
+procedure. You have recovered well and the team believes you are 
+ready to be discharged home. You will need to take the oral 
+antibiotic (Bactrim) for your urinary tract infection for 3 days 
+(___). Please call Dr. ___ office with any 
+questions or concerns. Please follow the instructions below.
+
+General instructions:
+* Take your medications as prescribed.
+* Take a stool softener such as colace while taking narcotics to 
+prevent constipation.
+* Do not combine narcotic and sedative medications or alcohol.
+* Do not take more than 4000mg acetaminophen (APAP) in 24 hrs.
+* No strenuous activity until your post-op appointment.
+* Nothing in the vagina (no tampons, no douching, no sex) for 6 
+weeks.
+* No heavy lifting of objects >10 lbs for 6 weeks.
+* You may resume your regular diet.
+
+Incision care:
+* You may shower and allow soapy water to run over incision; no 
+scrubbing of incision. No tub baths for 6 weeks.
+* If you have staples, they will be removed at your 
+postoperative appointment.
+
+To reach medical records to get the records from this 
+hospitalization sent to your doctor at home, call ___.
+ 
+Followup Instructions:
+___

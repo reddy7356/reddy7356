@@ -1,0 +1,2511 @@
+===== DISCHARGE NOTE =====
+note_id=10060607-DS-24 | hadm_id=21282234
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+adhesive tape
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cycle #3 high-dose methotrexate for primary bone lymphoma spread 
+to CNS.
+ 
+Major Surgical or Invasive Procedure:
+Left foot skin biopsy, ___.
+ 
+History of Present Illness:
+Ms. ___ is an ___ woman with DLBCL with CNS involvement 
+admitted electively for cycle #3 high-dose methotrexate.  She 
+was first diagnosed with DLBCL lymphoma involving her leg and 
+brain in ___.  She underwent stereotactic radiosurgery to the 
+brain followed by R-CHOP x6 cycles.  Repeat imaging of the CNS 
+showed recurrence of disease.  So she started cycle #1 high-dose 
+methotrexate ___ complicated by pancytopenia, N/V, and 
+fatigue.  She tolerated cycle #2 ___ without difficulty.
+.
+ROS: She denies fever, chills, sweats, wght loss, nausea, 
+vomiting, headache, visual changes, dizziness, chest pain, 
+shortness of breath, cough, abdominal pain, back pain, diarrhea, 
+hematochezia, hematuria, other urinary symptoms, or rash.  Her 
+left foot is numb and she notes occasional constipation.  All 
+other ROS were negative.
+ 
+Past Medical History:
+- Diffuse large B cell lymphoma
+- Glaucoma  
+- DM2 seen by ___  
+- Chronic kidney disease  
+- Hyperlipidemia  
+- Hypertension  
+- Osteoarthritis  
+- Iron def anemia  
+- s/p bilateral TKR
+Oncologic History:
+___ Worsening edema in her legs, L>R, negative DVT eval.
+- About 2 weeks prior to her admission, she went to her PCP
+because of ___ new rash in the left leg.
+- ___ Skin biopsy revealed pan-dermal and subcutaneous 
+malignant infiltrate most consistent with DLBCL.
+- She then began to have falls at home and was found down by her
+___ on the day of admission (___). There was no documented
+LOC, loss of sphincter control, or witnessed seizure activity.  
+Her family also described periods of increased confusion.  In 
+the ER, she underwent a trauma evaluation after her fall and she 
+was found to have a 2 cm L frontal mass with surrounding 
+vasogenic edema.  C-spine, CXR and hip films were unremarkable.
+- ___ MRI head confirmed an enhancing mass lesion in the
+subcortical white matter of the left frontal lobe, approximately
+2 cm, associated with vasogenic edema and effacement of the 
+sulci.
+- ___ MRI spine showed multilevel degenerative changes
+throughout the cervical, thoracic, and lumbar spine as well as a 
+focal lesion within the right psoas at the level of L3/L4, 
+possibly consistent with a hematoma, calcification, or a 
+metastasis.
+- ___ ECHO: LVEF >55%. Pulmonary artery systolic 
+hypertension.
+- ___ PET scan revealed a 2-cm intracranial lymphoma
+metastasis in the left frontal lobe, moderate intramuscular
+lymphoma disease in the left biceps and right psoas, and
+extensive lymphoma in the left calf with mild regional spread to
+the left thigh and left inguinal nodes.
+- ___ Brain biopsy revealed DLBCL.
+- ___ bone marrow biopsy was normal.
+- ___ Cyberknife to CNS lesion (1500 cGy x1 fraction).
+- ___ CHOP on ___ service (vincristine capped at 2).
+- ___ Rituximab 375mg/m2.
+- ___ Cycle #2 R-CHOP.
+- ___ Cycle #3 R-CHOP.
+- C4D1 RCHOP ___.
+- fracture worsened on X-rays ___.
+- ORIF L tibia and closed treatment of L fibular shaft fracture
+performed on ___.
+- ___ Cycle #5 R-CHOP.
+- ___ Cycle #6 R-CHOP.
+- ___ PET showed 9-mm FDG-avid lesion in the genu of the 
+corpus callosum SUVmax 18.5 concerning for recurrence and 
+FDG-avid focus in the right hilum SUVmax 5.3 without definite 
+anatomic correlates.
+- ___ Cycle #1 high-dose MTX.
+- ___ Cycle #2 high-dose MTX.
+- ___ Cycle #3 high-dose MTX.
+ 
+Social History:
+___
+Family History:
+- Brother with brain cancer diagnosed in his ___.
+- No family history of premature CAD, SCD, stroke.
+ 
+Physical Exam:
+Admission Physical Examination:
+VS: T 95.8F, BP 120/70, HR 80, RR 18, O2 Sat 100% RA, I/O , wght 
+190 lbs, ht 59in.
+GEN: A&O, NAD.
+HEENT: Sclerae ___, EOM intact, o/p clear, MMM.
+Neck: Supple, no JVD, no thyromegaly.
+Lymph nodes: No cervical, supraclavicular, axillary, or inguinal 
+LAD.
+CV: S1S2, reg rate and rhythm, no MRG.
+RESP: Good air movement bilaterally, no rhonchi or wheezing.
+ABD: Soft, non-tender, non-distended, + bowel sounds.
+EXTR: Trace pedal edema, left calf/ankle in bivalve boot.
+DERM: No rash.
+Neuro: Strength ___, decreased sensation to light touch intact 
+on left foot, non-focal.
+PSYCH: Appropriate and calm.
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 08:45AM BLOOD WBC-4.6 RBC-3.28* Hgb-11.1* Hct-32.0* 
+MCV-98 MCH-34.0* MCHC-34.8 RDW-17.0* Plt ___
+___ 08:45AM BLOOD UreaN-19 Creat-1.0 Na-138 K-4.1 Cl-101 
+HCO3-31 AnGap-10
+___ 08:45AM BLOOD Albumin-4.2 Calcium-9.8 Mg-1.8 
+UricAcd-4.7
+___ 08:45AM BLOOD ALT-26 AST-23 LD(LDH)-323* AlkPhos-100 
+TotBili-0.4
+.
+___ LLE Ultrasound: IMPRESSION: Severe cellulitis, without 
+drainable fluid collections or deep involvement.
+.
+___ CXR: IMPRESSION: Satisfactory position of the PICC line.
+.
+___ CXR: The PICC line is again projected over the right 
+internal jugular vein with the tip not included. There is no 
+evidence of pneumothorax. Lungs remain clear. Mediastinal 
+contours are unremarkable.
+.
+___ Left ankle X-RAY: There is some surrounding soft tissue 
+swelling. IMPRESSION: Intact hardware with continued healing of 
+the distal tibial fracture.
+.
+DISCHARGE LABS:
+___ 05:34AM BLOOD WBC-1.9* RBC-2.64* Hgb-8.9* Hct-25.4* 
+MCV-96 MCH-33.6* MCHC-35.0 RDW-15.6* Plt ___
+___ 06:00AM BLOOD Neuts-77.9* Lymphs-16.4* Monos-3.3 
+Eos-1.9 Baso-0.5
+___ 05:34AM BLOOD ___ PTT-26.2 ___
+___ 05:34AM BLOOD Glucose-91 UreaN-19 Creat-0.9 Na-137 
+K-4.0 Cl-101 HCO3-29 AnGap-11
+___ 05:03AM BLOOD ALT-42* AST-26 LD(LDH)-327* AlkPhos-81 
+TotBili-0.3
+___ 05:34AM BLOOD Phos-3.3 Mg-1.8
+___ 05:41PM BLOOD mthotrx-3.9
+___ 05:00AM BLOOD mthotrx-0.65
+___ 06:16PM BLOOD mthotrx-0.16
+___ 06:00AM BLOOD mthotrx-0.05
+___ 05:00PM BLOOD mthotrx-0.03
+___ 06:00AM BLOOD mthotrx-0.___ woman with DM, HTN, and CRF admitted for cycle #3 high-dose 
+MTX.  Unable to obtain 24 hour cre cle ___ due to collection 
+problem.  Reviewed with primary oncology team and proceeded with 
+cycle #3 high-dose MTX as dosed in cycle #2 rather than further 
+delay for another attempt at 24 urine collection.  Started MTX 
+___ after PICC placement which she tolerated well except for 
+mild fluid overload responsive to diuretics.  On ___ the 
+patient developed a new left lower extremity cellulitis below 
+the area of her pathologic fracture.  She was started on 
+vancomycin with a good response and seen in consultation both 
+the infectious disease service and the orthopedic service who 
+found no evidence of deeper infection.  Her cellulitis responded 
+well to vancomycin.  Antibiotics were changed to cefazolin IV on 
+___ and subsequently to cephalexin PO upon discharge.  In 
+addition she was seen by the Dermatology service and a biopsy of 
+the violaceous nodules within the cellulitic area was taken.
+.
+# CNS lymphoma: Received cycle #3 high-dose MTX 3.5g/m2 ___ 
+after alkalinized IVF ___ ___. Bicarbonate 1meq/kg IV prior 
+to chemotherapy, 25meq IV with chemotherapy, 100meq/1L bicarb in 
+IV ___ NS hydration and 1300mg PO. Leucovorin rescue 24 hours 
+post-MTX infusion as IV. MTX levels followed at 24 hour 
+intervals due to development of cellulitis and need for 
+antibiotics. Alkalanized IVF, leucovorin and oral bircarbonate 
+were continued past ___ MTX level because vancomycin changed to 
+cephalosporin. Held TMP-SMX, aspirin, glipizide, PPI, 
+folate/MVI, and ascorbic acid until clearance of MTX. These will 
+be restarted at discharge. Required lasix diuresis and foley 
+catheter for fluid overload (and limited mobility in pt 
+excreting chemo in her urine.
+.
+# Diabetic cellulitis: Border outlining infection drawn.  
+Improved on vancomycin, changed to IV cefazolin once MTX 
+cleared.  ID consulted.  Orthopedics consulted.  Dermatology 
+biopsied foot ___.  Change IV cefazolin to cephalexin at 
+hospital discharge.
+.
+# Fluid overload: Furosemide diuresis ___.  IV fluids 
+stopped.
+.
+# Dysuria: U/A and culture negative.  D/C'd Foley.
+.
+# Diabetes: Hyperglycemia with steroid premeds.  Restarted 
+glipizide after MTX cleared.  Continued insulin glargine + 
+sliding scale.
+.
+# Asymtomatic bacteruria: Urine cx positive for a resistant 
+bacteria, sensitive to meropenem.  Repeat U/A and culture 
+negative.
+.
+# DLBCL: Purple nodules within cellulitis worrisome for 
+recurrence.  Dermatology biopsied left foot ___.  Restarted 
+TMP-SMX prophylaxis since MTX cleared.  Continued acyclovir PPx.
+.
+# Tibial/fibular fracture: Pathologic fractures due to 
+chemo-response of her lymphoma with distal fibular resorption.  
+Orthopedic surgery recommended bivalve cast only in bed and left 
+leg non-wght bearing.
+.
+# Depression: Psych consulted.  No need for antidepressants at 
+this time.
+.
+# HTN: Not on BP meds.
+.
+# Constipation: Continued outpatient bowel regimen.
+.
+# Neutropenia and anemia: Chemo induced.  Stable H/H.
+.
+# Hearing loss: Uses hearing aid.
+.
+# FEN: Regular diabetic diet.  Metabolic alkalosis expected with 
+bicarb administration.  Repleted hypophosphatemia.
+.
+# DVT prophylaxis: Fondaparinux.
+.
+# GI prophylaxis: PPI and bowel regimen.
+.
+# Lines: Peripheral IV.  PICC placement ___. 
+.
+# Precautions: Fall.
+.
+# CODE: DNR/DNI.
+ 
+Medications on Admission:
+ACYCLOVIR 400 mg Tablet - 1 Tablet(s) by mouth every eight (8) 
+hours
+ALLOPURINOL ___ mg Tablet - 1 Tablet(s) by mouth once a day
+CLOTRIMAZOLE 10 mg Troche - dissolve in mouth four times per day
+FOLIC ACID 1 mg Tablet - 1 Tablet(s) by mouth daily
+FONDAPARINUX [ARIXTRA] 2.5 mg/0.5 mL Syringe - Inject 2.5mg SC 
+daily DVT ppx
+GLIPIZIDE 5 mg Tablet - 1 Tablet(s) by mouth daily
+INSULIN GLARGINE [LANTUS] 100 unit/mL Solution - 12 units SC at 
+bedtime
+LACTULOSE 10 gram/15 mL Solution - 30 gm by mouth daily PRN 
+constipation
+LEVETIRACETAM 250 mg Tablet by mouth twice a day
+OMEPRAZOLE 40 mg Capsule, Delayed Release(E.C.) - 1 Capsule(s) 
+by mouth daily
+ONDANSETRON HCL 8 mg Tablet by mouth Q8 hours PRN nausea
+OXYCODONE 5 mg Tablet - 1 Tablet(s) by mouth every 4 hours PRN 
+pain
+POLYETHYLENE GLYCOL 17 gram/dose Powder PO DAILY PRN 
+constipation
+PROCHLORPERAZINE MALEATE 10 mg PO Q6 hours as needed for nausea
+SULFAMETHOXAZOLE-TRIMETHOPRIM 400 mg-80 mg Tablet PO DAILY *** 
+it
+appears that patient has been taking 1 DS tablet daily, not 1 SS
+tablet daily ***
+ACETAMINOPHEN 650 mg PO QID PRN pain
+ASCORBIC ACID ___ mg Tablet PO DAILY
+ASPIRIN [ENTERIC COATED ASPIRIN] 81 mg Tablet, Delayed Release 
+(E.C.) PO daily
+CYANOCOBALAMIN (VITAMIN B-12) 1,000 mcg PO DAILY
+DOCUSATE SODIUM 100 mg PO BID
+INSULIN REGULAR HUMAN [HUMULIN R] 100 unit/mL Solution - Inject 
+insulin as per sliding scale SC QIDACHS <150 = 0 units; 150-200 
+= 2 units; 201-250 = 4
+units; 251-300 = 6 units; 301-350 = 8 units, 351-400 units = 10
+units, >400 = 12 units
+MAGNESIUM HYDROXIDE [MILK OF MAGNESIA] 400mg/5mL - 30mL PO qHS 
+PRN constipation
+MULTIVITAMIN Tablet PO DAILY
+SENNOSIDES [SENNA] 8.6 mg PO BID
+ 
+Discharge Medications:
+1. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours).  
+2. allopurinol ___ mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+3. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+4. fondaparinux 2.5 mg/0.5 mL Syringe Sig: One (1) Syringe 
+Subcutaneous DAILY.
+5. glipizide 5 mg Tablet Extended Rel 24 hr PO DAILY
+6. insulin glargine 100 unit/mL Solution Sig: 12U Subcutaneous 
+at bedtime.
+7. Humalog 100 unit/mL Solution Units SC QID: Per sliding scale.
+8. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO DAILY 
+PRN constipation.
+9. levetiracetam 250 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).
+10. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+11. ondansetron HCl 4 mg Tablet Sig: ___ Tablets PO q8hrs as 
+needed for nausea.
+12. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H as needed 
+for Pain.
+13. polyethylene glycol 3350 17 gram/dose Powder PO DAILY PRN 
+Constipation.
+14. prochlorperazine maleate 10 mg PO Q6H PRN Nausea.
+15. sulfamethoxazole-trimethoprim 400-80 mg Tablet PO DAILY 
+(Daily).
+16. acetaminophen 325 mg Tablet Sig: ___ Tablets PO q6hrs PRN 
+pain.
+17. ascorbic acid ___ mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+18. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY.
+19. cyanocobalamin (vitamin B-12) 500 mcg Tablet Sig: Two (2) 
+Tablet PO DAILY.
+20. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID.
+21. magnesium hydroxide 400mg/5mL Sig: Thirty (30) ML PO Q6H PRN 
+Constipation.
+22. senna 8.6 mg Tablet PO BID PRN Constipation.  
+23. multivitamin     Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+24. cephalexin 500 mg PO QID for 10 days: Last day ___.
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Cycle #3 high-dose methotrexate chemotherapy
+Brain (CNS) lymphoma
+Leg lymphoma
+Diabetes
+Cellulitis (skin infection)
+Pathologic fracture of left leg
+Depression
+Hypertension
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+You were admitted to the hospital for cycle #3 high-dose 
+methotrexate chemotherapy for brain (CNS) lymphoma.  You 
+tolerated chemotherapy well, but you developed an infection of 
+your left foot (cellulitis).  This was treated with antibiotics 
+and you will need to complete a course after you leave the 
+hospital.  To assist in management of this infection, you were 
+also seen by the orthopedic surgeons and the infectious disease 
+doctors because ___ have hardware in your left leg that could 
+become infected from the skin infection.  You were also seen by 
+the dermatology service to arrange for a biopsy of the purple 
+areas on your foot once the infection has healed.
+.
+The following changes were made to your medications:
+1. Cephalexin 4x a day, last day ___.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10060607-DS-20 | hadm_id=21301154
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+adhesive tape
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Leg pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is an ___ year old female with DLBCL C3D20 of 
+R-CHOP presenting with a pathologic fracture of left tibia and 
+fibula.  She had been at ___ and 
+was recently transferred to a skilled nursing facility.  While 
+walking, she heard a "snap" in her left ankle and had severe 
+pain.  X-rays demonstrated an acute fracture of the distal tibia 
+and resoprtion of the distal fibula.  She was otherwise in her 
+usual state of health and had no other complaints.
+.
+She was seen by orthopedics in the ED and put in a cast. She was 
+admitted for clearance for surgery and further management of her 
+lymphoma. She was given morphine sulfate 4 mg with effect.  
+Currently, she is resting comfortably. She reports that when she 
+lays still, she has no pain and no other complaints. ROS is 
+negative. She is able to move around in the bed comfortably, now 
+that her leg is stabilized in a cast.
+
+ 
+Past Medical History:
+Past medical history
+DLBCL
+Glaucoma
+Diabetes mellitus
+Chronic renal failure
+Hyperlipidemia
+Hypertension
+Osteoarthritis
+s/p TKR
+Anemia
+.
+Oncologic History (per last oncology notes)
+- Mrs. ___ is an ___ year-old ___ female with 
+a
+history of DM2, HL, HTN, and OA who was in her USOH until ___
+when she developed worsening edema in her legs, L>R. She did not
+have a rash at that time. She tried TEDS which did not help and
+was evaluated for a DVT but that was negative. 
+- About 2 weeks prior to her admission, she went to her PCP
+because of ___ new rash in the left leg. 
+- Dermatology performed a biopsy on ___ which revealed
+pan-dermal and subcutaneous malignant infiltrate most consistent
+with diffuse B cell lymphoma, large cell type.
+- She then began to have falls at home and was found down by her
+___ on the day of admission (___). There was no documented
+LOC, loss of sphincter control, or witnessed seizure activity.
+ Her family also described periods of increased confusion and
+making statements that don't make any sense since her diagnosis.
+- In the ER, she underwent a trauma evaluation after her fall 
+and
+she was found to have a 2 cm L frontal mass with surrounding
+vasogenic edema.  C-spine, CXR and hip films were unremarkable. 
+- MRI head on ___ confirmed an enhancing mass lesion in the
+subcortical white matter of the left frontal lobe, approximately
+2 cm, associated with vasogenic edema and effacement of the 
+sulci
+- MRI spine ___ showed multilevel degenerative changes
+throughout the cervical,
+thoracic, and lumbar spine as well as a focal lesion within the
+right psoas at the level of L3/L4, possibly consistent with a
+hematoma, calcification, or a metastasis 
+- ECHO ___: Mild aortic valve stenosis. Mild symmetric left
+ventricular hypertrophy with preserved global and regional
+biventricular systolic function (LVEF >55%). Pulmonary artery
+systolic hypertension. 
+- PET scan ___ revealed a 2-cm intracranial lymphoma
+metastasis in the left frontal lobe, moderate intramuscular
+lymphoma disease in the left biceps and right psoas, and
+extensive lymphoma in the left calf with mild regional spread to
+the left thigh and left inguinal nodes.
+- brain biopsy ___ revealed B-cell lymphoma, favoring large
+B-cell subtype
+- bone marrow biopsy on ___ was normal, no involvement by
+lymphoma
+- received Cyberknife to the CNS lesion on ___ (1500 cGy x 1
+fraction)
+- transferred to ___ service and began CHOP on ___
+(vincristine capped at 2)
+- she received Rituxan 375mg/m2 on ___
+- she received C2D1 of R-CHOP on ___
+- C3D1 R-CHOP ___
+- PET/CT scan after 3 cycles with marked response to therapy
+
+ 
+Social History:
+___
+Family History:
+- Brother with brain cancer diagnosed in his ___  
+- No family history of premature CAD, SCD, stroke.  
+
+ 
+Physical Exam:
+98.7 130/80 67 16 99% RA
+Gen: well appearing, hearing aid in place, no distress
+HEENT: EOMI, OP Clear
+Car: Regular, no murmur
+Resp: Clear bilaterally
+Abd: soft, not tender, no HSM
+Ext: Left leg splinted below knee. Dry/healing ulcer on left 
+hallus. Right without erythema or edema
+Skin: no rash
+
+ 
+Pertinent Results:
+Admission labs:
+===============
+___ 01:35AM BLOOD WBC-5.3# RBC-3.52* Hgb-11.2* Hct-32.8* 
+MCV-93 MCH-31.9 MCHC-34.2 RDW-20.7* Plt ___
+___ 01:35AM BLOOD Neuts-80.5* Lymphs-10.5* Monos-7.6 
+Eos-0.4 Baso-1.0
+___ 01:35AM BLOOD ___ PTT-25.0 ___
+___ 01:35AM BLOOD Glucose-151* UreaN-12 Creat-1.0 Na-137 
+K-4.0 Cl-102 HCO3-26 AnGap-13
+___ 01:35AM BLOOD ALT-15 AST-14 AlkPhos-82 TotBili-0.2
+___ 06:25AM BLOOD Calcium-9.4 Phos-3.5 Mg-1.8
+___ 01:48AM BLOOD Lactate-1.7
+.
+Discharge labs:
+===============
+
+Imaging:
+========
+L leg/toe x-ray: 
+1. Aggressive lytic lesion in distal fibula, with cortical 
+destruction and resultant pathologic fracture. 
+2. Two parallel transverse fractures in the distal tibia, as 
+described. 
+3. Limited assessment of great toe due to osteopenia. No obvious 
+fracture or focal lesion, but, if suspicion remains high, then 
+further assessment with MRI would be recommended. 
+.
+TTE: The left atrium and right atrium are normal in cavity size. 
+There is mild symmetric left ventricular hypertrophy with normal 
+cavity size and regional/global systolic function (LVEF>55%). 
+Right ventricular chamber size and free wall motion are normal. 
+The diameters of aorta at the sinus, ascending and arch levels 
+are normal. The aortic valve leaflets (3) are mildly thickened. 
+There is no valvular aortic stenosis. The increased transaortic 
+velocity is likely related to high cardiac output. Trace aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. Mild (1+) mitral 
+regurgitation is seen. The tricuspid valve leaflets are mildly 
+thickened. There is mild pulmonary artery systolic hypertension. 
+There is a very small pericardial effusion. 
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+preserved global and regional biventricular systolic function. 
+Trace aortic and mild mitral regurgitation and mild pulmonary 
+artery systolic hypertension.
+Compared with the prior study (images reviewed) of ___, 
+findings are similar.  
+ 
+Brief Hospital Course:
+___ year old female with DLBCL of the left leg, C3D20 R-CHOP and 
+s/p Cyberknife to brain lesion, presenting with pathologic 
+fracture of the left leg.
+.
+# Tibial/fibular fracture: pathologic fractures with distal 
+fibular resorption, also seen on last PET scan. Fractures likely 
+in setting of lymphoma which has been chemoresponsive and 
+decreasing in size. Orthopedics evaluated the patient and 
+determined that she was not a surgical candidate at this time 
+given poor bone and tissue integrity. She was fitted with a 
+bivalve cast which can be removed for cleaning. She does not 
+need radiation therapy to her leg at this time given the 
+chemoresponsiveness of her lymphoma. She will be discharged to 
+rehab and should continue on fondaparinux for DVT prophylaxis. 
+She is able to work with ___ and do touch-down with her left leg 
+and partial weight bearing as tolerated. She has a follow up 
+appointment in ___ clinic in 2 weeks. Pain control is with 
+morphine as needed. Of note, patient has had a chronic lesion 
+(5mm eschar) on L first toe which was evaluated by podiatry.
+.
+# DLBCL: chemorseponsive. She is s/p 3 cycles of RCHOP and 
+started her ___ cycle of RCHOP on ___. She will need to 
+start neupogen 2 days after chemo at rehab. Given IV 
+dexamethasone during chemo, blood sugars should be monitored 
+carefully. She will follow up with Dr. ___ in 1 week. 
+Continued on acyclovir and bactrim for prophylaxis. TTE with no 
+evidence of cardiomyopathy from anthracycline. 
+.
+# DM: continue outpatient DM management with careful monitoring 
+of blood sugars while on dexamethasone with adjustment in 
+sliding scale.
+.
+# Pain: morphine prn with bowel regimen of senna, colace, 
+miralax, and lactulose prn.
+ 
+Medications on Admission:
+Sliding scale insulin
+Lantus 12 unit qhs
+Folate 1 mg daily
+Arixtra 2.5 daily
+Keppra 250 mg bid
+MVI daily
+Miralax
+Senna qhs
+acyclovir 400 mg tid
+allopurinol ___ mg daily
+Vitamin C 500 mg daily
+Clotrimazole every 6 hours
+Vitamin B12 1000 mg daily
+Colace 200 mg daily qhs
+Tylenol ___ mg po q4h prn fever/pain
+Lactulose daily prn constipation
+Bactrim SS daily
+Prilosec 40 mg daily
+
+ 
+Discharge Medications:
+1. filgrastim 300 mcg/0.5 mL Syringe Sig: One (1)  Injection 
+once a day for 7 days: start in 2 days (on ___.  
+2. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+3. insulin
+Lantus 12 unit qhs
+
+4. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours).  
+6. allopurinol ___ mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+8. clotrimazole 10 mg Troche Sig: One (1) Troche Mucous membrane 
+QID (4 times a day).  
+9. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO every 
+___ hours as needed for constipation.  
+10. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+11. docusate sodium 100 mg Capsule Sig: Two (2) Capsule PO HS 
+(at bedtime).  
+12. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H 
+(every 6 hours) as needed for pain, fever.  
+13. cyanocobalamin (vitamin B-12) 500 mcg Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+14. ascorbic acid ___ mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+15. senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).  
+
+16. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)  
+PO DAILY (Daily).  
+17. fondaparinux 2.5 mg/0.5 mL Syringe Sig: One (1)  
+Subcutaneous DAILY (Daily).  
+18. levetiracetam 250 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+19. oxycodone 5 mg Capsule Sig: One (1) Capsule PO every ___ 
+hours.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Tibial/fibular pathologic fracture
+  
+Secondary:
+DLBCL
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: non-ambulatory, out of bed and touch down 
+weight bearing only.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+  
+You were admitted to ___ with leg pain and found to have 
+fractures in your lower leg. These are likely due to your 
+lymphoma shrinking from chemotherapy. The orthopedics team 
+evaluated you and determined that surgical repair was too risky 
+in your case and fitted you with a cast to wear on your leg. 
+  
+You continued on your chemotherapy regimen and based on your 
+imaging, it appears that your lymphoma is responding well to the 
+chemo.
+  
+We have made the following changes to your medications:
+- CONTINUE fondaparinux to prevent clots in your leg
+- CONTINUE dexamethasone as part of your chemo regimen
+- START neupogen 480 mg IV in 2 days and continue for ___ days
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10060607-DS-19 | hadm_id=22051839
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Falls
+ 
+Major Surgical or Invasive Procedure:
+Stereotactic brain biopsy
+Bone marrow biopsy
+PICC line insertion
+
+ 
+History of Present Illness:
+Mrs. ___ is a very nice ___ year-old ___ with 
+DM2, HL, HTN, OA and recent diagnosis of B-cell lymphoma 
+(non-Hodkin) coming with weakness of both legs and inability to 
+walk. She was in her prior state of health until aproximately 1 
+month ago when her legs started to swell more than normal 
+(left>right). There was no skin rash at this time. She started 
+using TEDs (knee-high) without improvement in her symptoms. 
+There was no clear precipitant such as change in her diet, 
+excercise activity, changes in her medications. She was seen by 
+a physician in her PCP's office who sent her to the ED for 
+concern of "blockage in the vessels". Work up was negative and 
+she was sent home. Then, she was evaluated by PCP two weeks ago 
+who was concerned by new rash in the left leg. She was refered 
+to dermatology who evaluated her and obtained a skin biopsy. 8 
+days ago she was called home and told that the biopsy results 
+had shown B-cell lymphoma. She was refered to an oncologist at 
+___ who evaluated her 4 days ago and had 
+multiple CT scans performed. They had planned to meet 5 days 
+from now to further discuss treatment, but most likely was going 
+to be some for of chemotherapy including Rituximab.  
+.  
+Since then, she has had multiple unwitness falls at home. 
+Appartently she has not hit her head or lost conciousness. She 
+was found in the floor by her health aid, without any loss of 
+sphincter control, coherent and EMS were called. They evaluated 
+her and recommended going to ED, but she refused. Subsequently, 
+she was not feeling good and call her son who was on his way to 
+see her. He recommended her to check her sugars and she was too 
+weak to walk and get her glucometer, which was only a couple of 
+yards away. The family got concerned and brought her to our 
+emergency room for further evaluation.  
+.  
+When EMS arrived she was nauseous and vomitted x1 (bilous). She 
+complained of ___ pain in both legs and loss of conciousness. 
+She was put on ___ and transfer to a stretcher.She denied 
+any CP, SOB, abdominal pain.  
+.  
+Of note, since she got informed about her cancer diagnosis 8 
+days ago family states that she has been mildly confused. She is 
+A&O X3 and is able to talk, but she looks worried and 
+occasionaly makes comments that ___ make sence. The family 
+thinks it is the shock of the news. She has been afebrile, her 
+weight has been stable, she denies any night sweats, chills, 
+rigors, changes in her bowel movements, tremors, abnormal 
+movements, episodes of LOC.  
+.  
+The initial VS in the ER were: 99.6 80 154/81 16 97% RA. Her VS 
+were stable throught the ED visit. She was alert and oriented 
+x3, moving all extremities, No cervical spine tenderness. Her 
+ECG showed (per ED read) STD III aVF, TWI V1, SR@80. Her labs 
+were significant for WBC 8.5, HCT 35.9, PLT 268, Na 127, K 9.0 
+(hemolyzed), Cl 92, CO2 27, BUN 30, Cr 1.5 (unkown baseline), 
+glucose 129, repeat K 4.0. Her imaging included a CT of the neck 
+that only showed degenerative changes, a 2-cm left frontal mass 
+with neighboring vasogenic edema and mild neighboring mass 
+effect, normal CXR and hip x-rays. Neurosurgery was consulted 
+who did not find any focal deficits. Family was NOT interested 
+in surgical approach whatsoever. Dilantin was recommended for 
+seizure prophylaxis as well as MRI +/-. No comments were made on 
+steroids. She is being admited for further work up and 
+management of her weakness and mass. Her VS prior to transfer 
+were: hr 68 155/57 20 100RA.  
+
+ 
+Past Medical History:
+- Diffuse large B cell lymphoma: Diagnosed ___ ___  
+- Glaucoma  
+- DM2 seen by ___  
+- Chronic kidney disease  
+- Hyperlipidemia  
+- Hypertension  
+- Osteoarthritis  
+- Iron def anemia  
+- s/p bilateral TKR  
+
+ 
+Social History:
+___
+Family History:
+- Brother with brain cancer diagnosed in his ___  
+- No family history of premature CAD, SCD, stroke.  
+
+ 
+Physical Exam:
+Admission:
+VITAL SIGNS - Temp 98.3 F, BP 146/64 mmHg, HR 73 BPM, RR 20 X', 
+O2-sat 99% RA  
+
+ 
+GENERAL - well-appearing woman in NAD, comfortable, appropriate, 
+not jaundiced (skin, mouth, conjuntiva), A&O x3 (month and year; 
+not exact date)  
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear  
+NECK - supple, no thyromegaly, no JVD, no carotid bruits  
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp 
+unlabored, no accessory muscle use  
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2  
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no 
+rebound/guarding.  
+EXTREMITIES - WWP, no c/c, ++/+++, 2+ peripheral pulses 
+(radials, DPs)  
+SKIN - eruthematous rash with some blisters in both knees; 
+erythematous rash in left leg of aprox 2 cm in diameter  
+LYMPH - no cervical, axillary, or inguinal LAD  
+NEUROLOGIC:  
+Mental status: Awake and alert, cooperative with exam, normal 
+affect.  
+Cranial Nerves:  
+Pupils equally round and reactive to light, 4 to 2 mm 
+bilaterally. Visual fields are full to confrontation. Non 
+papilledema on fundoscopic exam. Extraocular movements intact 
+bilaterally, no nystagmus. Sensation intact V1- V3. Facial 
+movement symmetric. Hearing normal to finger rub.  
+Palate elevation symmetrical. Sternocleidomastoid and trapezius 
+normal bilaterally. Tongue midline, movements intact.  
+.  
+___:  
+Defered.  
+.  
+Cerebellum: Normal hands up & down; normal finger-nose, did not 
+walk patient.  
+.  
+Motor:  
+Normal bulk bilaterally. Tone normal. No observed myoclonus or 
+tremor. No pronator drift. RAMs normal.  
+D Del Tri Bi WF WE FE FF IP H Q DF PF TE TF  
+R ___ 4 4  
+L ___ 4 4  
+.  
+Sensation: Intact to light touch, throughout. No extinction to  
+DSS  
+.  
+Reflexes:  
+Trace and symmetric throughout.  
+Toes downgoing bilaterally.  
+Reflexes: B T Br Pa Pl  
+Right ___ 3 3  
+Left ___ 3 3  
+.  
+Coordination: good finger tapping, normal RAM. no intention  
+tremor.  
+.  
+Gait: Not evaluated.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+ 
+
+Discharge physical exam
+Tm98.3, Tc 98.2, BP 100s-120s/60s-70s, HR ___, RR 18, 94/RA
+I/O: Since MN; ___, Yest: 2L/3.7L
+Gen: NAD, interactive
+HEENT: Anicteric, MMM, OP clear, no mucositis
+CV: RRR, nl S1/S2, no m/r/g noted
+___: CTAB anteriorly
+Ext: left lower extremity with resolving erythematous plaques. 
+O/w, 2+ pitting edema in L foot, 1+ in R foot.
+Neuro: MAE, grossly intact. 
+
+ 
+Pertinent Results:
+ADMISSION LABS
+--------------
+TOXOPLASMA IgG ANTIBODY (Final ___: 
+      NEGATIVE FOR TOXOPLASMA IgG ANTIBODY BY EIA. 
+      0.0 IU/ML. 
+      Reference Range:  Negative < 4 IU/ml, Positive >= 8 IU/ml. 
+
+
+   TOXOPLASMA IgM ANTIBODY (Final ___: 
+      NEGATIVE FOR TOXOPLASMA IgM ANTIBODY BY EIA. 
+      INTERPRETATION:  NO ANTIBODY DETECTED. 
+      The FDA is advising that the result from any one 
+toxoplasma IgM
+      commercial test kit should not be used as the sole 
+determinant of
+      recent toxoplasma infection when screening a pregnant 
+patient. 
+___:
+INDICATION: An ___ female with left leg pain. 
+  
+COMPARISON: PET/CT available from ___. 
+  
+TECHNIQUE: Ultrasonography of the left lower extremity. 
+  
+FINDINGS: Grayscale and color Doppler ultrasonography of the 
+left lower 
+extremity demonstrates normal flow, compressibility, and 
+augmentation of the left common femoral, superficial femoral, 
+and popliteal veins. Numerous hypoechoic lesions are present 
+throughout the left leg, compatible with known history of 
+multiple masses, better viewed on the ___ PET/CT 
+examination. The calf veins could not be assessed due to 
+multiple soft tissue masses and associated soft tissue swelling. 
+
+IMPRESSION: Calf veins not assessed due to soft tissue mass. 
+Otherwise, no 
+DVT is seen. 
+SPECIMEN: BONE MARROW ASPIRATE AND CORE BIOPSY:
+
+ 
+
+DIAGNOSIS:
+
+- NORMOCELLULAR BONE MARROW FOR AGE WITH MATURING TRILINEAGE 
+HEMATOPOIESIS.
+
+- NO MORPHOLOGIC FEATURES OF INVOLVEMENT BY LYMPHOMA ARE SEEN, 
+SEE NOTE.
+
+CTA Head:
+IMPRESSION:  
+  
+1. Areas of apparently decreased blood flow and blood volume 
+with minimal 
+increased MTT in the region of edema surrounding the left 
+frontal mass lesion is difficult to assess for 
+ischemia/infarction in the setting of edema. Small area of 
+mildly increased MTT in the right temporal lobe anteriorly 
+without significant decrease in blood volume may be artifactual 
+or related to a focus of ischemia/infarction . MRI is 
+recommended for better assessment. Findings were discussed with 
+Dr. ___ by Dr. ___ after the study was performed. 
+  
+2. Small irregular partially calcified focus in the right lung 
+apex 
+posteriorly- needs correlation with dedicated chest imaging to 
+exclue 
+neoplastic etiology though this can relate to granulomatous 
+disease. 
+  
+3. Moderate mucosal thickening in the ethmoid air cells and left 
+side of  
+sphenoid sinus with aerosolized secretions.  
+ECHO:
+Conclusions :The left atrium and right atrium are normal in 
+cavity size. The estimated right atrial pressure is ___ mmHg. 
+There is mild symmetric left ventricular hypertrophy with normal 
+cavity size and regional/global systolic function (LVEF>55%). 
+The estimated cardiac index is normal (>=2.5L/min/m2). Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets (3) are mildly thickened. 
+There is mild aortic valve stenosis (valve area 1.2-1.9cm2). 
+Trace aortic regurgitation is seen. The mitral valve appears 
+structurally normal with trivial mitral regurgitation. There is 
+mild pulmonary artery systolic hypertension. There is no 
+pericardial effusion. IMPRESSION: Mild aortic valve stenosis. 
+Mild symmetric left ventricular hypertrophy with preserved 
+global and regional biventricular systolic function. Pulmonary 
+artery systolic hypertension.
+ 
+MRI OF THE BRAIN WITH AND WITHOUT CONTRAST 
+  
+CLINICAL INDICATION: ___ woman with new diagnosis of 
+lymphoma, 
+admitted with falls and to have a possible brain metastases, 
+evaluate for 
+lymphoma and leptomeningeal disease. 
+  
+COMPARISON: Prior head CT dated ___. 
+  
+TECHNIQUE: Pre-contrast axial and sagittal images were obtained, 
+axial FLAIR, axial T2, axial magnetic susceptibility and axial 
+diffusion-weighted sequences. The T1-weighted images were 
+repeated after the administration of gadolinium contrast in 
+axial T1, sagittal MP-RAGE and also multiplanar reconstructions 
+were provided. 
+  
+FINDINGS: On the left frontal subcortical white matter, there is 
+an enhancing mass lesion, measuring approximately 21 x 20 mm in 
+transverse dimension by  21.5 x 2.0 mm in sagittal projection, 
+this lesion demonstrates significant vasogenic edema and mild 
+effacement of the sulci at the convexity with minimal shifting 
+of the frontal lobe towards the right, there is no evidence of 
+hydrocephalus. The T2 and FLAIR sequences, demonstrates multiple 
+scattered foci of high signal intensity, distributed in the 
+subcortical white matter, which are nonspecific and may reflect 
+chronic microvascular ischemic disease.   
+No other enhancing lesions are noted throughout the brain, there 
+is no 
+evidence of abnormal leptomeningeal enhancement to suggest 
+meningeal 
+infiltration. Normal flow void signal is noted at the major 
+vascular 
+structures. The diffusion-weighted sequences are normal with no 
+evidence of acute or subacute ischemic changes. The mass lesion 
+demonstrates moderate restricted diffusion. 
+  
+The orbits, the paranasal sinuses and the mastoid air cells are 
+grossly 
+unremarkable. 
+  
+IMPRESSION: Enhancing mass lesion identified at the subcortical 
+white matter of the left frontal lobe as described in detail 
+above, possibly representing a metastatic lesion versus a 
+primary brain neoplasm, associated with vasogenic edema and 
+effacement of the sulci. 
+STUDY: MRI of the cervical, thoracic, and lumbar spine. 
+  
+CLINICAL INDICATION: ___ woman with newly diagnosed 
+lymphoma, 
+admitted with falls and found to have a possible brain 
+metastases, evaluate for leptomeningeal spread or lymphoma. 
+  
+COMPARISON: Prior CT of the cervical spine dated ___. 
+  
+MRI OF THE CERVICAL SPINE: 
+  
+Sagittal T1, T2 and sagittal STIR sequences were obtained, axial 
+T2 and 
+gradient echo sequences. The T1-weighted images were repeated 
+after the 
+administration of gadolinium contrast material. 
+  
+FINDINGS: There is mild straightening and reversal of the normal 
+cervical 
+lordosis with degenerative anterolisthesis at C4 upon C5 level. 
+The signal 
+intensity in the spinal cord throughout the cervical spine is 
+normal with no evidence of focal or diffuse lesions to indicate 
+spinal cord edema or cord expansion. 
+  
+Multilevel degenerative changes are visualized throughout the 
+cervical spine as follows: 
+  
+At C3/C4 level, bilateral uncovertebral hypertrophy is 
+identified, causing 
+mild bilateral neural foraminal narrowing, there is no 
+significant spinal 
+canal stenosis. 
+  
+C4/C5 demonstrates posterior central disc bulge and bilateral 
+uncovertebral hypertrophy, causing anterior thecal sac deformity 
+and mild bilateral neural foraminal narrowing. 
+  
+At C5/C6 level, bilateral uncovertebral hypertrophy is noted and 
+also mild 
+posterior disc bulge. 
+  
+C6/C7 level demonstrates posterior disc bulge and bilateral 
+uncovertebral 
+hypertrophy, left greater than right, causing left side neural 
+foraminal 
+narrowing (image 35, series 5014). 
+  
+The visualized paravertebral structures are normal, there is no 
+evidence of abnormal enhancement. 
+  
+IMPRESSION: Multilevel degenerative changes throughout the 
+cervical spine as described above, there is no evidence of 
+abnormal enhancement or abnormal signal within the cervical 
+spinal cord. 
+  
+MRI OF THE THORACIC SPINE. 
+  
+The alignment and configuration of the thoracic vertebral bodies 
+is normal.  High signal intensity is noted throughout the 
+vertebral bodies in the bone marrow, likely consistent with bone 
+marrow replacement for fat. 
+  
+At T2/T3 level, minimal posterior central disc bulge is 
+identified with no 
+evidence of neural foraminal narrowing or spinal canal stenosis. 
+
+  
+From T3/T4 through T8/T9 levels, there are mild posterior disc 
+bulges with no evidence of neural foraminal narrowing or 
+significant spinal canal stenosis. 
+  
+Signal intensity throughout the thoracic spinal cord is normal 
+and the conus medullaris terminates at the level of T12. There 
+is no evidence of abnormal enhancement. 
+  
+IMPRESSION: Mild multilevel degenerative changes throughout the 
+thoracic 
+spine as described above, there is no evidence of abnormal 
+enhancement. 
+  
+MRI OF THE LUMBAR SPINE: 
+  
+There is mild grade 1 anterolisthesis at L4 upon L5 level, 
+apparently 
+degenerative in nature. At L2/L3 level, there is disc 
+desiccation and mild 
+posterior disc bulge, causing mild bilateral neural foraminal 
+narrowing, there is also mild articular joint facet hypertrophy 
+(image 4, series 5002). 
+  
+At L3/L4 level, there is a prominent posterior disc bulge, 
+asymmetric towards the right, causing significant neural 
+foraminal narrowing and moderate spinal canal stenosis, there is 
+also articular joint facet hypertrophy. The psoas muscle on the 
+right, demonstrates a focal lesion, possibly consistent with a 
+hematoma, calcification, formally a metastasis in this area 
+cannot be completely excluded (image 9, 10, series 5002), this 
+lesion measures approximately 19 x 23 mm in transverse 
+dimension. 
+  
+L4-L5 level demonstrates disc degenerative changes with 
+posterior broad-based disc bulge, causing anterior thecal sac 
+deformity and bilateral neural foraminal narrowing, there is 
+also moderate articular joint facet hypertrophy, resulting in 
+moderate-to-severe spinal canal stenosis. 
+  
+L5-S1 level demonstrates posterior disc bulging, causing 
+anterior thecal sac deformity and apparently contacting the 
+traversing nerve roots bilaterally, there is also moderate 
+articular joint facet hypertrophy resulting in moderate spinal 
+canal stenosis. There is no evidence of abnormal enhancement to 
+indicate leptomeningeal disease. 
+  
+IMPRESSION: Multilevel degenerative changes throughout the 
+cervical, 
+thoracic, and lumbar spine as described in detail above. There 
+is a focal 
+lesion within the right psoas at the level of L3/L4, possibly 
+consistent with a hematoma, calcification, formally a metastasis 
+in this area cannot be completely excluded. 
+  
+There is no evidence of abnormal enhancement to indicate 
+leptomeningeal 
+disease. Diffuse high signal intensity in the bone marrow, 
+possibly 
+representing bone marrow replacement for fat. 
+PET: IMPRESSION: 1. 2-cm intracranial lymphoma metastasis in the 
+left frontal lobe. 2. Moderate intramuscular lymphoma disease in 
+the left biceps and right psoas 3. Extensive lymphoma disease in 
+the left calf with mild regional spread to the left thigh and 
+left inguinal nodes. 
+
+BONE MARROW CYTOGENETICS ___
+INTERPRETATION:  
+No cytogenetic aberrations were identified in 20 
+metaphases analyzed from this unstimulated specimen. 
+This normal result does not exclude a neoplastic 
+proliferation. 
+ 
+Mosaicism and small chromosome anomalies may not be 
+detectable using the standard methods employed. 
+
+LENIs ___:
+IMPRESSION: Calf veins not assessed due to soft tissue mass. 
+Otherwise, no 
+DVT is seen. 
+CT HEAD ___
+IMPRESSION: 
+Stable appearance to left frontal lobe mass. No new areas of 
+abnormality. 
+  
+A few hypodense areas are noted in the left temporal lobe, not 
+significantly changed from recent CT Head study; however, can be 
+better assessed with MR if necessary.  
+EEG ___
+IMPRESSION: This is an abnormal video EEG telemetry due to the 
+persistent fixed focal slowing in the mixed theta and delta 
+frequency 
+range in the left frontal temporal region indicative of 
+subcortical 
+dysfunction. Rare sharp waves were also seen in the left 
+temporal 
+region phase reversing at F7, which may be indicative of an area 
+of 
+cortical irritability, but no clear electrographic seizures were 
+seen. 
+A breach rhythm was also noted in the left frontal temporal area 
+likely 
+due to a skull defect. Otherwise, the waking background was slow 
+and 
+disorganized with bursts of generalized slowing indicative of a 
+mild to 
+moderate encephalopathy. Toxic/metabolic disturbances, 
+infections, and 
+medication effects are among the most frequent causes of 
+encephalopathy. 
+CXR ___
+IMPRESSION: Right-sided PICC line should be withdrawn 
+approximately 3 cm for more optimal positioning. 
+EEG ___
+IMPRESSION: This is an abnormal 24-hour video EEG telemetry due 
+to the 
+presence of rare epileptiform discharges in the left temporal 
+region 
+indicative of an area of cortical irritability; however, no 
+clear 
+electrographic seizures were seen. Focal slowing was also seen 
+in the 
+same region along with higher amplitude activity due to a breach 
+effect 
+typically associated with skull defects. The background was 
+better 
+developed reaching a maximum of 8 Hz during the recording and 
+more 
+wakeful periods were seen overall. Overall, this record is 
+improved 
+compared to the previous day. 
+MRI HEAD ___
+CONCLUSION: 
+1. No evidence of a second lesion in the temporal lobe. 
+2. Increase in the volume of enhancing material and in 
+surrounding edema in the left frontal lobe. This may represent 
+tumor progression, or early 
+response to radiation. 
+CT HEAD ___
+IMPRESSION: 
+  
+In comparison to ___ exam, left frontal vasogenic edema 
+appears 
+improved. The left frontal hyperdense lesion is not well 
+visualized on 
+current study, which may be reflective of its reduction in size. 
+There is no acute intracranial hemorrhage or infarction. 
+
+ 
+Brief Hospital Course:
+___ ___ speaking only with a history of diabetes type II, 
+some degree of chronic kidney disease with unknown baseline 
+creatinine, HTN, and recently diagnosed diffuse large b-cell 
+lymphoma who presented with a fall and found to have a L frontal 
+lesion concerning for metastatic disease. 
+.
+# Frontal mass: Patient presented with 1 week of confusion and a 
+fall from a baseline of being independent in all ADLs, including 
+doing her own shopping.  Patient had a CT head that was further 
+characterized by MRI which showed a 20mm x 20mm lesion with 
+surrounding vasogenic edema.  Given the patient's recent 
+diagnosis of Diffuse Large B Cell Lymphoma and uptake on PET 
+scan the most likely etiology was felt to be lymphoma.  However, 
+toxo was ruled out with serum testing.  And given that the 
+B-cell lymphoma does not typically metastasize to the brain 
+(though cutaneous DLBCL has more predelection) onc, neuro-onc 
+were consulted and it was felt that brain biopsy would be the 
+best diagnostic test.  The patient underwent sterotactic brain 
+biopsy with neurosurgery on ___ and the results showed 
+CD20+ cells consistent with lymphoma and the patient was 
+transferred to the heme/malignancy service for further 
+management.  Patient received one dose of Cyberknife radiation 
+treatment, and for DLBCL, underwent systemic chemotherapy, see 
+below.  She was started on keppra and dexamethasone, and 
+dexamethasone was slowly tapered down as per neuro-onc recs.  
+She is being discharged on 2 mg PO dex BID, and will be tpaered 
+to 2 mg PO daily after 1 week as per neuro onc recs.  She is to 
+continue on this until her Neuro-onc appt in ___.
+.
+# DLBCL: Diagnosed on leg biopsy 2 weeks prior to appointment.  
+Patient had seen an outpatient oncologist and had a CT Torso 
+that was basically unremarkable.  Family meeting was held with 
+ONC/Neuro-ONC, SW and medicine to determine if the patient 
+wanted to pursue treatment.  After careful discussion with the 
+patient and her family, it appeared that the patient would want 
+to pursue chemo if that was clinically indicated, including 
+intrathecal chemo.  She had a PET and a bone marrow biopsy for 
+staging.  PET showed likely mets to the psoas and biceps and 
+brain. Bone marrow biopsy of the ischial spine showed no bone 
+marrow involement.  Patient was transferred to the Oncology 
+service with plan for For R-CHOP.  CHOP was started on ___.  
+Rituxan was dosed after CHOP was started, and her tumor lysis 
+labs were checked Q8H-Q12H.  Rituxan dose was delayed given 
+frequent unresponsive episodes, however with improving MS, we 
+were able to dose on ___.  In terms of cutaneous 
+manifestations, the pt's LLE improved significantly with R-CHOP. 
+ Her counts were trended, but she did not require transfusions.  
+Her nadir in terms of ANC was on ___ with an ANC of 140, at 
+which point she was placed on neutropenic precuations.  She was 
+briefly on neupogen, and on day of discharge, her ANC was >1000. 
+ She was also discharged on regular ppx medications (acyclovir, 
+bactrim, and allopurinol ___.
+.
+# Unresponsiveness: The day prior to the brain biopsy, the 
+patient was noted to be acutely lethargic and appeared unable to 
+move her left side.  Code stroke was called and patient was 
+taken down for CTA/CT perfusion of brain which did not show any 
+evidence of stroke or change in mass effect.  Without 
+intervention the patient was back to her baseline in about 1.5 
+hours.  Given this rapid improvement, it was felt this episode 
+was likely a seizure.  She was loaded with keppra and continued 
+on Keppra 500 BID.  She was also given a dose of 10IV 
+Dexamethasone followed by 4IV q8h for mass.  Although this was 
+felt to possibly worsen the chances of getting a good biopsy it 
+was clearly clinically indicated for emergency management.  
+Patient was continued on Dexamethasone and Keppra, and had 
+further episodes.  Neuro c/s felt that these episodes were more 
+c/w volitional episodes, and each episode had urgent evaluation. 
+ A CT head was done during an episode which showed no bleed.  
+These episodes began to decrease in frequency by day 7 after 
+CHOP initiation.  Her keppra was also decreased to 250 BID out 
+of concern that her unresponsive may be ___ the high keppra 
+dose.  EEG were negative for seizure activity, and these 
+episodes did continue despite normal calcium level.
+.
+# Hypercalcemia: Likely ___ malignancy, PTH was low/normal.  
+HCTZ was held.  Patient given IVF on admission and calcium 
+remained between 11 and 11.5.  She also received a dose of IV 
+pamidronate.  This improved with treatment of lymphoma, and was 
+stable by day of transfer to OMED service.  This was trended, 
+and did not recur after R-CHOP was initiated.
+.
+#  Leg Pain: ___ pain on DLBCL nodules.  ___ was negative for 
+clot.  Pain controlled with lidocaine patch, oxycodone 2.5 mg po 
+bid and IV toradol that was transitioned to ibuprofen.  Patient 
+received IV morphine but this cause urinary rentention and 
+delerium.  Patient continued to have urinary retention so 
+oxycodone was stopped as well.  She did receive some doses while 
+on BMT of oxycodone with good effect (although small doses did 
+make her quite somnolent).  This was improved with chemotherapy.
+.
+# HTN: HCTZ held given hypercalcemia and the patient then had 
+high normal BP, so nifedipine was uptitrated from 30 to 90/day 
+and continued on metoprolol.
+.
+# Diabetes:  Held home Rosiglitazone, Glipizide, and Metformin 
+___ imaging studies.  Patient's sugars were well controlled on 
+sliding scale insulin until she started Dexamethasone and then 
+were in the 300-400 range.  She was started on 10 units of 
+lantus at night and this was uptitrated to 16 units with 
+increasing doses of steroid.  The patient's blood sugar will 
+need to be closely followed as her steroid dose is tapered and 
+likely titrated down.  Upon discharge, she was restarted on her 
+home hypoglycemics with a SSI to cover her.  She could 
+potentially have lantus restarted if her blood sugars are too 
+high.  A SSI was printed out for use at rehab.
+.
+# Anemia: Stable throughout admission, iron  supplements were 
+continued.  With chemo, counts trended but as above, transfusion 
+of 1 u PRBC was done on day prior to discharge as we expect her 
+Hct to trend downward.
+.
+# Mild AS: Patient had an echo on admission given her fall. The 
+patient has mild aortic valve stenosis. Based on ___ ACC/AHA 
+Valvular Heart Disease Guidelines, a follow-up echocardiogram is 
+suggested in ___ years. 
+
+TRANSITIONS OF CARE ISSUES
+# Comm: Daughter ___ ___ (C); Son ___ ___ 
+(c); Daughter in Law ___ wife) ___ (c).  
+# Code: DNR/DNI
+# F/U appt: 10 am on ___ with Dr. ___ Dr. 
+___
+
+ 
+___ on Admission:
+Trazodone 50 mg PO QHS 
+Colace 100 mg PO BID 
+Nifedipine 30 mg PO Daily 
+Aspirin 81 mg PO Daily 
+Avandia 2 mg PO BID 
+Bactrim DS 800 mg-160 mg PO BID 
+Glipizide 5 mg PO Daily 
+Metformin 500 mg PO Daily 
+Hydrochlorothiazide 25 mg PO Daiky  
+Metoprolol Succinate 25 mg PO Daily 
+Percocet ___ mg PO q6 hrs PRN pain 
+Lipitor 10 mg Daily 
+Ambien 10 mg QHS 
+Iron ER 325 mg PO Daily  
+Tylenol-Codeine 30 mg PO Daily 
+Senna 8.6 mg PO PRN constipation 
+Multivitamin daily 
+Alphagan eyedrops 
+
+ 
+Discharge Medications:
+1. Heparin Flush (10 units/ml) 2 mL IV PRN line flush 
+PICC, heparin dependent: Flush with 10mL Normal Saline followed 
+by Heparin as above daily and PRN per lumen. 
+2. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+3. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours).  
+4. levetiracetam 250 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+5. nifedipine 90 mg Tablet Extended Release Sig: One (1) Tablet 
+Extended Release PO DAILY (Daily).  
+6. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).  
+7. heparin (porcine) 5,000 unit/mL Solution Sig: 5000 (5000) 
+units Injection TID (3 times a day): hold for plt<50.  
+8. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+9. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+10. cyanocobalamin (vitamin B-12) 250 mcg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+11. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) 
+packet PO DAILY (Daily) as needed for constipation.  
+12. bacitracin zinc 500 unit/g Ointment Sig: One (1) Appl 
+Topical QID (4 times a day).  
+13. metoprolol succinate 25 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).  
+14. ascorbic acid ___ mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+15. multivitamin     Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+16. saliva substitution combo no.2     Solution Sig: Thirty (30) 
+ML Mucous membrane QID (4 times a day): Until instructed to 
+stop.  
+17. insulin aspart 100 unit/mL Solution Sig: see directions  
+Subcutaneous see directions.  
+18. acetaminophen 650 mg Tablet Sig: One (1) Tablet PO four 
+times a day as needed for pain.  
+19. Avandia 2 mg Tablet Sig: One (1) Tablet PO twice a day.  
+20. glipizide 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+21. metformin 500 mg Tablet Sig: One (1) Tablet PO once a day.  
+22. Alphagan P  Ophthalmic
+23. oxycodone 5 mg Tablet Sig: 0.5 Tablet PO Q6H (every 6 hours) 
+as needed for pain.  
+24. dexamethasone 2 mg Tablet Sig: One (1) Tablet PO daily to 
+Q12 (see below): Take 1 tab POBID until ___ decrease to 
+1 tab daily starting ___.  
+25. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+26. allopurinol ___ mg Tablet Sig: One (1) Tablet PO once a day. 
+ 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Diffuse Large B Cell Lymphoma, metastatic to biceps, psoas and 
+brain
+Hypertension
+Diabetes Type 2
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You came to the hospital after falling at home.  We found that 
+you had a brain mass.  We did a biopsy of this that showed 
+lymphoma.  We started steroids and medicine to prevent seizures 
+for you.  You were seen by oncology and neuro-oncology and 
+transferred to the oncology service where you received 
+chemotherapy.  You also received cyberknife for the brain mass.  
+You tolerated these treatments well.  You also had neurology see 
+you and we made sure there was nothing dangerous causing your 
+episodes of unresponsiveness.  We started a medicine to help 
+with your blood counts, and you will require frequent follow up 
+at ___ for further care.
+
+We made the following changes to your medications (There have 
+been many changes.  For a complete list please see the 
+medication list).
+- START taking ALLOPURINOL ___ mg by mouth daily
+- START taking ACYCLOVIR 400 mg by mouth three times daily
+- START taking BACTRIM single strength tab by mouth daily
+- INCREASE your NIFEDIPINE CR to 90 mg by mouth daily
+- START taking VITAMIN B12 250 mg by mouth daily
+- START taking CAPHOSOL 30cc by mouth swish and spit four times 
+a day
+- START taking VITAMIN C 500 mg by mouth daily 
+- START taking NYSTATIN swish and swallow 5 cc by mouth four 
+times a day as needed for thrush
+- START using sliding scale insulin (see attached sheet)
+- START taking DEXAMETHASONE 2 mg by mouth twice daily, DECREASE 
+this dose to 2 mg by mouth daily on ___ to continue
+- START taking OXYCODONE 2.5 MG by mouth every 6 hours as needed 
+for pain
+- START taking PROTONIX 40 mg by mouth daily
+- STOP TAKING Bactrim DS, trazodone, aspirin, 
+hydrochlorothiazide, lipitor, ambien, tylenol-codeine, percocet
+.
+You should follow up with your doctors as below.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10060607-DS-23 | hadm_id=22936494
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+adhesive tape
+ 
+Attending: ___.
+ 
+Chief Complaint:
+elective admission for HD-MTX
+ 
+Major Surgical or Invasive Procedure:
+___ line placement ___
+ 
+History of Present Illness:
+___ yo woman with DLBCL with CNS involvement admitted electively 
+for cycle #2 HD-MTX.
+Pt was first diagnosed with DLBCL lymphoma involving her leg and 
+brain in ___. She underwent SRS to the brain followed by R-CHOP 
+x 6 cycles. Repeat imaging of the CNS showed recurrence of 
+disease. Pt received the first cycle of HD-MTX in ___ with 
+overall good tolerance except for pan-cytopenia requiring a 
+transfusion of 1 PRBCs and n/v/fatigue.
+Today, pt reports that she is feeling well. Her daughter notes 
+over the weekend she had a brief episode of confusion. She 
+denies fevers, chills, nausea,vominting, headaches/ visual 
+changes/muscle weakness/memory changes/sensory chanegs, cp,sob, 
+abdominal pain, dysuria or frequency.She has chronic 
+constipation which is overall controlled with current regimen.  
+She remains non-weight bearing to left leg but has no leg pain 
+or other pains.All other ROS are negative.
+ 
+
+ 
+Past Medical History:
+- Diffuse large B cell lymphoma
+- Glaucoma  
+- DM2 seen by ___  
+- Chronic kidney disease  
+- Hyperlipidemia  
+- Hypertension  
+- Osteoarthritis  
+- Iron def anemia  
+- s/p bilateral TKR
+Oncologic History:
+___ she developed worsening edema in her legs, L>R. She did 
+not have a rash at that time. She tried TEDS which did not help 
+and was evaluated for a DVT but that was negative.
+- About 2 weeks prior to her admission, she went to her PCP
+because of ___ new rash in the left leg.
+- Dermatology performed a biopsy on ___ which revealed
+pan-dermal and subcutaneous malignant infiltrate most consistent
+with diffuse B cell lymphoma, large cell type.
+- She then began to have falls at home and was found down by her
+___ on the day of admission (___). There was no documented
+LOC, loss of sphincter control, or witnessed seizure activity.
+ Her family also described periods of increased confusion and
+making statements that don't make any sense since her diagnosis.
+- In the ER, she underwent a trauma evaluation after her fall 
+and she was found to have a 2 cm L frontal mass with surrounding
+vasogenic edema.  C-spine, CXR and hip films were unremarkable.
+- MRI head ___ confirmed an enhancing mass lesion in the
+subcortical white matter of the left frontal lobe, approximately
+2 cm, associated with vasogenic edema and effacement of the 
+sulci.
+- MRI spine ___ showed multilevel degenerative changes
+throughout the cervical, thoracic, and lumbar spine as well as a 
+focal lesion within the right psoas at the level of L3/L4, 
+possibly consistent with a hematoma, calcification, or a 
+metastasis.
+- ECHO ___: Mild aortic valve stenosis. Mild symmetric left
+ventricular hypertrophy with preserved global and regional
+biventricular systolic function (LVEF >55%). Pulmonary artery
+systolic hypertension.
+- PET scan ___ revealed a 2-cm intracranial lymphoma
+metastasis in the left frontal lobe, moderate intramuscular
+lymphoma disease in the left biceps and right psoas, and
+extensive lymphoma in the left calf with mild regional spread to
+the left thigh and left inguinal nodes.
+- brain biopsy ___ revealed B-cell lymphoma, favoring large
+B-cell subtype.
+- bone marrow biopsy on ___ was normal, no involvement by
+lymphoma.
+- received Cyberknife to the CNS lesion ___ (1500 cGy x 1
+fraction).
+- transferred to ___ service and began CHOP on ___
+(vincristine capped at 2).
+- she received Rituxan 375mg/m2 on ___.
+- she received C2D1 of R-CHOP on ___.
+- C3D1 R-CHOP ___.
+- C4D1 RCHOP ___.
+- fracture worsened on X-rays ___.
+- ORIF L tibia and closed treatment of L fibular shaft fracture
+performed on ___.
+- C5D1 R-CHOP on ___.
+- C6D1 R-CHOP on ___.
+- ___ PET showed 9-mm FDG-avid lesion in the genu of the 
+corpus callosum SUVmax 18.5 concerning for recurrence and 
+FDG-avid focus in the right hilum SUVmax 5.3 without definite 
+anatomic correlates.
+- ___ Cycle #1 High-dose MTX.
+ 
+Social History:
+___
+Family History:
+- Brother with brain cancer diagnosed in his ___.
+- No family history of premature CAD, SCD, stroke.
+ 
+Physical Exam:
+GEN: Comforatble, NAD, awake, alert  
+HEENT: EOMI, sclera anicteric, conjunctivae clear, OP moist and 
+without lesion
+NECK: Supple, no JVD, no LAD  
+CV: Reg rate, normal S1, S2. No m/r/g.   
+CHEST: Resp unlabored, no accessory muscle use. CTAB, no 
+crackles, wheezes or rhonchi.  
+ABD: Soft, NT, ND, no HSM, bowel sounds present
+EXT: No c/c/e,good pedal pulses, left leg in cast.
+SKIN: No rash, warm skin
+NEURO: oriented x 3, normal attention, CN II-XII intact, ___ 
+strength throughout, intact sensation to light touch, non focal.
+PSYCH: appropriate
+ 
+Pertinent Results:
+___ 09:50AM BLOOD WBC-3.7* RBC-3.47* Hgb-11.9* Hct-32.6* 
+MCV-94 MCH-34.3* MCHC-36.5* RDW-17.5* Plt ___
+___ 09:50AM BLOOD ___ ___
+___ 09:50AM BLOOD UreaN-18 Creat-0.9 Na-143 K-4.5 Cl-104 
+HCO3-29 AnGap-15
+___ 09:50AM BLOOD ALT-23 AST-23 LD(LDH)-236 AlkPhos-95 
+TotBili-0.4
+___ 09:50AM BLOOD Albumin-4.2 Calcium-10.4* Phos-3.4 Mg-1.9
+___ 12:44PM URINE Color-Yellow Appear-Hazy Sp ___
+___ 12:44PM URINE Blood-NEG Nitrite-POS Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-LG
+___ 12:44PM URINE RBC-6* WBC->182* Bacteri-MANY Yeast-NONE 
+Epi-4
+.
+___ comparison to the ___ chest x-ray 
+the previously seen right-sided PICC has been removed. A new 
+left PICC has been placed terminating within the mid SVC. Lung 
+volumes are low. There are no focal consolidations concerning 
+for infectious process. There are no pleural effusions or 
+pneumothoraces. 
+.
+URINE CULTURE (Final ___: 
+Culture workup discontinued. Further incubation showed 
+contamination
+with mixed skin/genital flora. Clinical significance of 
+isolate(s)
+uncertain. Interpret with caution. 
+CITROBACTER FREUNDII COMPLEX.    >100,000 ORGANISMS/ML.. 
+         This organism may develop resistance to third 
+generation
+         cephalosporins during prolonged therapy. Therefore, 
+isolates that
+         are initially susceptible may become resistant within 
+three to
+         four days after initiation of therapy.  For serious 
+infections,
+         repeat culture and sensitivity testing may therefore be 
+warranted
+         if third generation cephalosporins were used. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             CITROBACTER FREUNDII COMPLEX
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------     4 S
+CEFTRIAXONE-----------     8 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+TOBRAMYCIN------------     2 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN: ___ yo woman with diabetes, hypertension, 
+and chronic renal failure admitted for cycle #2 high-dose 
+methotrexate (MTX).  
+.  
+# CNS lymphoma:Received high-dose MTX 3.5g/m2 on ___ 
+reduced for age).Bicarbonate 1meq/kg IV prior to chemotherapy, 
+25meq IV with chemotherapy, 150meq/1L bicarb in IV hydration and 
+1300mg PO. Leucovorin rescue at 24 hours post-MTX. MTX levels 
+checked at 24, 48, and 72 hours.On D/C MTX level <0.1. Pt 
+tolerated treatment well w/o any adverse events. TMP-SMX, 
+aspirin, and glipizide were held while receiving chemotherapy 
+but resumed at discharge. Levetiracetam continued.
+IV low dose  furosemide given one time for positive fluid 
+balance and elevated blood pressure.  
+.
+# Diabetes:  Glipizide held during hospital stay but resumed on 
+discharge. Patient covered with Insulin glargine + sliding scale 
+during hospital stay.  
+.  
+# Asymtomatic bacteruria: U/A and culture sent because of h/o 
+brief episode of confusion , per daughter. Patient initially 
+started on cefriaxone. However, urine culture positive for a 
+resistant bacteria. As patient remained asymptomatic and had no 
+episodes of confusion antibiotics were held. 
+
+.  
+# Tibial/fibular fracture: Pathologic fractures due to 
+chemoresponse of her lymphoma with distal fibular resorption. 
+Orthopedic surgery consulted.  Continued bivalve cast with  no 
+weight bearing until f/u with orthopedics in ___.  
+.  
+#HTN: A few measurements of high blood perssure. Not on 
+antihypertensive meds at home. Likely due to IVF with 
+bicarbonate. As above, patient received gentle diureses.  
+.
+# Constipation: Continued bowel regimen. 24 hrs post MTX dose 
+patient had diarrhea which resolved after 24 hrs.
+.  
+#Anemia: Most likely chemo induced and dilutional. Will monitor. 
+ 
+.  
+# FEN: Regular diabetic diet/MTX diet. Metabolic alkalosis with 
+bicarbonate administration. Replete lytes as needed.  
+.  
+# DVT prophylaxis: Fondaparinux.  
+.  
+# GI prophylaxis: PPI. Bowel regimen.  
+.  
+# Lines: PICC placed ___- removed prior to d/c.  
+.  
+# Precautions: Fall.  
+.  
+# CODE: DNR/DNI.  
+.  
+
+ 
+Medications on Admission:
+ACYCLOVIR 400 mg PO q8hrs
+ALLOPURINOL ___ mg PO once a day
+CLOTRIMAZOLE 10 mg Troche dissolve PO QID
+FOLIC ACID 1 mg Tablet PO daily
+FONDAPARINUX 2.5mg/0.5 mL Syringe - Inject 2.5mg SC daily DVT 
+ppx
+GLIPIZIDE 5 mg Tablet PO daily
+INSULIN GLARGINE [LANTUS] 100U/mL Solution - inject 12U SC qHS
+LACTULOSE 10 gram/15 mL Solution - 30 gm PO daily PRN 
+constipation
+LEVETIRACETAM 250 mg PO BID
+OMEPRAZOLE 40 mg Capsule PO daily
+ONDANSETRON HCL - 8 mg Tablet PO Q8hrs PRN nausea
+OXYCODONE 5 mg Tablet PO q4hrs PRN pain
+POLYETHYLENE GLYCOL 3350 17 gram/dose Powder PO DAILY PRN 
+constipation
+PROCHLORPERAZINE MALEATE 10 mg PO Q6HR PRN nausea
+SULFAMETHOXAZOLE-TRIMETHOPRIM 400mg-80 mg Tablet PO DAILY
+ACETAMINOPHEN 650 mg PO QID PRN pain
+ASCORBIC ACID ___ mg PO DAILY
+ASPIRIN [ENTERIC COATED ASPIRIN] 81mg PO daily
+CYANOCOBALAMIN (VITAMIN B-12) 1,000mcg PO DAILY
+DOCUSATE SODIUM 100 mg PO BID
+INSULIN REGULAR HUMAN [HUMULIN R] 100U/mL Solution - per sliding 
+
+scale SC QIDACHS <150 = 0 units; 150-200 = 2U; 201-250 = 4U; 
+251-300 = 6U; 301-350 = 8U, 351-400 = 10U, >400 = 12U.
+MAGNESIUM HYDROXIDE [MILK OF MAGNESIA] 400mg/5mL 30 mL PO qHS 
+PRN constipation
+MULTIVITAMIN Tablet 1 mouth DAILY
+SENNOSIDES [SENNA] 8.6 mg Tablet PO BID
+
+ 
+Discharge Medications:
+1. fondaparinux 2.5 mg/0.5 mL Syringe Sig: One (1)  Subcutaneous 
+DAILY (Daily).  
+2. acyclovir 400 mg Tablet Sig: One (1) Tablet PO every eight 
+(8) hours.  
+3. clotrimazole 10 mg Troche Sig: One (1)  Mucous membrane four 
+times a day: dissolve in mouth.  
+4. folic acid 1 mg Tablet Sig: One (1) Tablet PO once a day.  
+5. glipizide 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+6. insulin glargine 100 unit/mL Solution Sig: Twelve (12) units 
+Subcutaneous at bedtime.  
+7. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO once a 
+day as needed for constipation.  
+8. levetiracetam 250 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+9. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+10. glucagon (human recombinant) 1 mg Recon Soln Sig: One (1) 
+Recon Soln Injection Q15MIN () as needed for hypoglycemia 
+protocol: for glu < 70, use and call MD.  
+11. ZOFRAN ODT 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO every eight (8) hours as needed for nausea.  
+12. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for pain.  
+13. polyethylene glycol 3350 17 gram/dose Powder Sig: Seventeen 
+(17) gram PO DAILY (Daily) as needed for constipation.  
+14. prochlorperazine maleate 5 mg Tablet Sig: One (1) Tablet PO 
+every six (6) hours as needed for nausea.  
+15. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1) 
+Tablet PO once a day.  
+16. acetaminophen 650 mg Tablet Sig: One (1) Tablet PO four 
+times a day as needed for pain.  
+17. ascorbic acid ___ mg Tablet Sig: One (1) Tablet PO once a 
+day. Tablet(s) 
+18. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+19. cyanocobalamin (vitamin B-12) 500 mcg Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+20. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day): hold for loose stools.  
+21. Insulin
+Regular Human Insulin [Humulin R] give SQ per sliding scale 
+QACHS.
+< 70 call MD and give glucose, 71-150 = 0units; 151-200 = 
+2units; 201-250 = 4units; 251-300 = 6units; 301-350 = 8units; 
+351-400 = 10units; > 400 call MD
+22. Milk of Magnesia 400 mg/5 mL Suspension Sig: Thirty (30) ml 
+PO at bedtime as needed for constipation.  
+23. multivitamin     Tablet Sig: One (1) Tablet PO once a day.  
+24. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day): hold for loose stools. Tablet(s) 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+lymphoma
+encounter for antineoplastic chemotherapy
+anemia
+leukopenia
+asymptomatic bacteruria
+constipation
+pathological fracture of left limb
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Ms ___, you were admitted for chemotherapy treatment for 
+the lymphoma involving your brain. You received IVF and 
+leucovorin rescue as well. You tolerated the treatment well 
+without any adverse effects. Your urine was checked and you have 
+asymptomatic bacteria in your urine that does not need to be 
+treated unless you develop signs or symptoms of an infection 
+(pain or burning with urination).
+.
+The following changes have been made to your  medications;
+STOP allopurinol
+DECREASE prochlorperazine (compazine) from 10 mg to 5 mg every 6 
+hours as needed for nausea
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10060607-DS-21 | hadm_id=27332251
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+adhesive tape
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left distal tibia pathologic fracture
+ 
+Major Surgical or Invasive Procedure:
+___: Open reduction internal fixation left distal tibia.
+
+ 
+History of Present Illness:
+___ ___ speaking female with history of HTN, HL, DMII, CKD,
+and diffuse cell B-cell lymphoma (on cycle 4, day 14 of R-CHOP)
+s/p Cyberknife to brain lesion, who presents with pathologic
+fracture of her left tibia and fibula.
+
+The pt was recently discharged from ___ after presented from a
+SNF with acute pathologic fracture of her distal tibia and
+resorption of distal fibula. She was felt to not be a surgical
+candidate given poor bone and tissue integrity, and was fitted
+with a bivalve cast. Her lymphoma was felt to be 
+chemoresponsive,
+so no radiation. She was discharged to rehab and continued on
+Fondaparinux for DVT prophylaxis. 
+
+She presented to ___ clinic with significant worsening of
+the fracture, so was direct admitted from ___ clinic with plan
+for ORIF distal tibia. 
+
+ 
+Past Medical History:
+- Diffuse large B cell lymphoma
+- Glaucoma  
+- DM2 seen by ___  
+- Chronic kidney disease  
+- Hyperlipidemia  
+- Hypertension  
+- Osteoarthritis  
+- Iron def anemia  
+- s/p bilateral TKR  
+
+ 
+Social History:
+___
+Family History:
+- Brother with brain cancer diagnosed in his ___  
+- No family history of premature CAD, SCD, stroke.  
+
+ 
+Physical Exam:
+PE: Alert and Oriented
+Calm and comfortable appearing
+Regards examiner appropriately
+AVSS.
+CV: RRR, nl S1, S2.
+PULM: CTA B/L.
+ABD: Soft, NT, ND.
+
+LLE:
+Compartments soft and nontender
+Distal pulses 2+
+Saph Sural DPN SPN MPN LPN SILT
+Quad ___ FHS ___ TA PP Fire
+No lacerations or wounds 
+
+ 
+Pertinent Results:
+___ 04:55AM BLOOD WBC-4.8 RBC-3.62* Hgb-11.9* Hct-34.1* 
+MCV-94 MCH-33.0* MCHC-35.0 RDW-18.5* Plt ___
+___ 06:35AM BLOOD WBC-4.7 RBC-3.65*# Hgb-11.8*# Hct-33.5* 
+MCV-92 MCH-32.5* MCHC-35.3* RDW-19.0* Plt ___
+___ 04:45PM BLOOD WBC-3.5* RBC-2.57* Hgb-8.3* Hct-25.0* 
+MCV-97 MCH-32.3* MCHC-33.1 RDW-20.0* Plt ___
+___ 06:25PM BLOOD WBC-6.2# RBC-3.16* Hgb-10.5* Hct-30.3* 
+MCV-96 MCH-33.1* MCHC-34.6 RDW-19.7* Plt ___
+___ 06:35AM BLOOD Glucose-135* UreaN-12 Creat-0.7 Na-139 
+K-4.0 Cl-103 HCO3-27 AnGap-13
+___ 05:00AM BLOOD Glucose-166* UreaN-13 Creat-0.7 Na-139 
+K-4.2 Cl-104 HCO3-27 AnGap-12
+___ 04:45PM BLOOD Glucose-118* UreaN-13 Creat-0.7 Na-139 
+K-4.1 Cl-104 HCO3-25 AnGap-14
+___ 05:30AM BLOOD Glucose-174* UreaN-16 Creat-0.7 Na-139 
+K-4.5 Cl-102 HCO3-30 AnGap-12
+___ 06:25PM BLOOD Glucose-128* UreaN-13 Creat-0.7 Na-139 
+K-4.0 Cl-102 HCO3-28 AnGap-13
+___ 04:45PM BLOOD Calcium-9.1 Phos-3.7 Mg-1.7
+___ 05:30AM BLOOD Calcium-9.6 Phos-4.0 Mg-2.0
+___ 06:25PM BLOOD Calcium-9.6 Phos-4.0 Mg-1.9
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to the Orthopedic service on ___ 
+from the ___ clinic for a left distal tibia pathologic 
+fracture.  On ___ she underwent open reduction internal 
+fixation of the left distal tibia without complication.  The 
+patient was out of bed with physical therapy and continues to 
+improve. Dr. ___ oncology team were consulted and it 
+was agreed that the patient would be monitored over the weekend. 
+She remained stable and is cleared for discharge to an extended 
+care facility. 
+ 
+Medications on Admission:
+Lantus 12 unit qhs  
+Folate 1 mg daily  
+Arixtra 2.5 daily  
+Keppra 250 mg bid  
+MVI daily  
+Miralax  
+Senna qhs  
+acyclovir 400 mg tid  
+allopurinol ___ mg daily  
+Vitamin C 500 mg daily  
+Clotrimazole every 6 hours  
+Vitamin B12 1000 mc daily  
+Colace 200 mg daily qhs  
+Tylenol ___ mg po q4h prn fever/pain  
+Lactulose daily prn constipation  
+Bactrim SS daily  
+Prilosec 40 mg daily  
+
+ 
+Discharge Medications:
+1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed for Constipation.  
+2. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO BID (2 times a day) as needed for Constipation.  
+3. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for Constipation.  
+4. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+5. fondaparinux 2.5 mg/0.5 mL Syringe Sig: One (1)  Subcutaneous 
+DAILY (Daily).  
+6. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO DAILY 
+(Daily) as needed for Constipation.  
+7. levetiracetam 250 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+8. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+9. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)  PO 
+DAILY (Daily) as needed for Constipation.  
+10. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+11. ascorbic acid ___ mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+12. multivitamin     Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+13. allopurinol ___ mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+14. oxycodone 5 mg Tablet Sig: ___ Tablets PO every ___ hours as 
+needed for pain.
+Disp:*100 Tablet(s)* Refills:*0*
+15. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+Constipation.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Left Distal Tibia Pathologic Fracture. 
+Post operative blood loss anemia.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Wound Care: 
+-Keep Incision dry. 
+-Do not soak the incision in a bath or pool.
+
+Activity: 
+-Continue to be touch down weight bearing on your left leg.  
+-Elevate left leg to reduce swelling and pain.
+-Do not remove splint.  Keep splint dry.
+
+Other Instructions
+- Resume your regular diet. 
+- Avoid nicotine products to optimize healing. 
+
+- Resume your home medications. Take all medications as 
+instructed. 
+
+- Continue taking the Lovenox to prevent blood clots.
+
+-You have also been given Additional Medications to control your 
+pain.  Please allow 72 hours for refill of narcotic 
+prescriptions, so plan ahead.  You can either have them mailed 
+to your home or pick them up at the clinic located on ___ 2. 
+ We are not allowed to call in narcotic (oxycontin, oxycodone, 
+percocet) prescriptions to the pharmacy.   In addition, we are 
+only allowed to write for pain medications for 90 days from the 
+date of surgery.
+
+- Narcotic pain medication may cause drowsiness.  Do not drink 
+alcohol while taking narcotic medications.  Do not operate any 
+motor vehicle or machinery while taking narcotic pain 
+medications.  Taking more than recommended may cause serious 
+breathing problems.
+
+If you have questions, concerns or experience any of the below 
+danger signs then please call your doctor at ___ or go 
+to your local emergency room.
+
+Physical Therapy:
+Activity: Touch down weight bearing LLE
+Treatments Frequency:
+None.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10060607-DS-22 | hadm_id=27654122
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+adhesive tape
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Elective admission for cycle #1 high-dose methotrexate (MTX) for 
+CNS lymphoma.
+ 
+Major Surgical or Invasive Procedure:
+___ PICC placement.
+ 
+History of Present Illness:
+___ yo who was doing well with her latest round of chemotherapy 
+and she had no difficulty with fever, nausea, or worsening 
+neuropathy. However, she presented to Dr. ___ in late 
+___ and ___ followup MRI showed that she had relapsed CNS 
+disease.  She has been completely asymptomatic. After discussion 
+with neuro-oncology primary oncology pt and her family, she has 
+elected to proceed with high dose MTX.  She denies any headaches 
+or visual changes.  She denies any nausea.  She denies any 
+difficulties with confusion or memory.  She denies any 
+difficulty with strength or weakness.  She was also seen in 
+___ in late ___ and was told that although her 
+fracture continues to heal well, she needs to remain 
+nonweightbearing for the next five weeks.  She will be seen in 
+the first week of ___, which is approximately three months 
+after her surgery, and at that time, she will hopefully be able 
+to begin bearing weight on the left lower extremity. All other 
+ROS are negative.
+ 
+Past Medical History:
+- Diffuse large B cell lymphoma
+- Glaucoma  
+- DM2 seen by ___  
+- Chronic kidney disease  
+- Hyperlipidemia  
+- Hypertension  
+- Osteoarthritis  
+- Iron def anemia  
+- s/p bilateral TKR
+Oncologic History:
+___ she developed worsening edema in her legs, L>R. She did 
+not have a rash at that time. She tried TEDS which did not help 
+and was evaluated for a DVT but that was negative.
+- About 2 weeks prior to her admission, she went to her PCP
+because of ___ new rash in the left leg.
+- Dermatology performed a biopsy on ___ which revealed
+pan-dermal and subcutaneous malignant infiltrate most consistent
+with diffuse B cell lymphoma, large cell type.
+- She then began to have falls at home and was found down by her
+___ on the day of admission (___). There was no documented
+LOC, loss of sphincter control, or witnessed seizure activity.
+ Her family also described periods of increased confusion and
+making statements that don't make any sense since her diagnosis.
+- In the ER, she underwent a trauma evaluation after her fall 
+and she was found to have a 2 cm L frontal mass with surrounding
+vasogenic edema.  C-spine, CXR and hip films were unremarkable.
+- MRI head ___ confirmed an enhancing mass lesion in the
+subcortical white matter of the left frontal lobe, approximately
+2 cm, associated with vasogenic edema and effacement of the 
+sulci.
+- MRI spine ___ showed multilevel degenerative changes
+throughout the cervical, thoracic, and lumbar spine as well as a 
+focal lesion within the right psoas at the level of L3/L4, 
+possibly consistent with a hematoma, calcification, or a 
+metastasis.
+- ECHO ___: Mild aortic valve stenosis. Mild symmetric left
+ventricular hypertrophy with preserved global and regional
+biventricular systolic function (LVEF >55%). Pulmonary artery
+systolic hypertension.
+- PET scan ___ revealed a 2-cm intracranial lymphoma
+metastasis in the left frontal lobe, moderate intramuscular
+lymphoma disease in the left biceps and right psoas, and
+extensive lymphoma in the left calf with mild regional spread to
+the left thigh and left inguinal nodes.
+- brain biopsy ___ revealed B-cell lymphoma, favoring large
+B-cell subtype.
+- bone marrow biopsy on ___ was normal, no involvement by
+lymphoma.
+- received Cyberknife to the CNS lesion ___ (1500 cGy x 1
+fraction).
+- transferred to ___ service and began CHOP on ___
+(vincristine capped at 2).
+- she received Rituxan 375mg/m2 on ___.
+- she received C2D1 of R-CHOP on ___.
+- C3D1 R-CHOP ___.
+- C4D1 RCHOP ___.
+- fracture worsened on X-rays ___.
+- ORIF L tibia and closed treatment of L fibular shaft fracture
+performed on ___.
+- C5D1 R-CHOP on ___.
+- C6D1 R-CHOP on ___.
+- ___ PET showed 9-mm FDG-avid lesion in the genu of the 
+corpus callosum SUVmax 18.5 concerning for recurrence and 
+FDG-avid focus in the right hilum SUVmax 5.3 without definite 
+anatomic correlates.
+- ___ Cycle #1 High-dose MTX.
+ 
+Social History:
+___
+Family History:
+- Brother with brain cancer diagnosed in his ___.
+- No family history of premature CAD, SCD, stroke.
+ 
+Physical Exam:
+ADMISSION EXAM:
+Pain: Controlled   Uncontrolled  0  1  2  ___  ___  9  
+10    Location:
+VS: 
+GENERAL:  well appearing in no apparent distress 
+Nourishment: good  
+Grooming: good   
+Eyes:NC/AT, PERRL, EOMI without nystagmus, no scleral icterus 
+noted  
+Ears/Nose/Mouth/Throat: Mucous membranes moist,without ulcers or 
+exudates, plates above and below  
+Neck: supple, no JVD or carotid bruits appreciated  
+Respiratory: CTA bilaterally without rhonci, without wheezes
+Cardiovascular: RRR, S1S2, ___ sys murmur at LLSB and ___  
+diastolic murmur, no rubs, no gallops 
+Gastrointestinal: soft, NT/ND, no rebound, no guarding, 
+normoactive bowel sounds, no masses or organomegaly noted. 
+Skin: warm, dry, no rashes or lesions noted. No pressure ulcers  
+
+Extremities: without cyanosis, without clubbing, without edema, 
+without joint swelling
+Lymphatics/Heme/Immun: No cervical, no supracalvicular, no 
+axillary, no inguinal lymphadenopathy noted. 
+Neurologic:  
+-mental status: Alert, oriented x 3. Normal attention. Able to 
+relate history without difficulty. Fluent speech. 
+-cranial nerves: II-XII intact  
+-motor: normal bulk, ___ strength and tone throughout. No 
+abnormal movements noted. -sensory: No deficits to light touch 
+throughout. Psychiatric:  calm, pleasant, appropriate.
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 06:30PM URINE  COLOR-Straw APPEAR-Cloudy SP ___
+___ 06:30PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-100 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-1 PH-7.0 LEUK-LG
+___ 06:30PM URINE  RBC-32* WBC-  BACTERIA-FEW YEAST-NONE 
+EPI-5
+___ 12:15PM   UREA N-8 CREAT-0.7 SODIUM-142 POTASSIUM-3.9 
+CHLORIDE-104 TOTAL CO2-28 ANION GAP-14
+___ 12:15PM   ALT(SGPT)-18 AST(SGOT)-21 LD(LDH)-233 ALK 
+PHOS-100 TOT BILI-0.3
+___ 12:15PM   CALCIUM-9.9 PHOSPHATE-3.5 MAGNESIUM-1.9
+___ 12:15PM   WBC-2.9* RBC-3.61* HGB-11.9* HCT-34.3* MCV-95 
+MCH-33.0* MCHC-34.7 RDW-17.6*
+___ 12:15PM   PLT COUNT-232#
+___ 12:15PM   ___ PTT-23.9 ___
+___ 12:15PM   ___ ___
+.
+___ PET: IMPRESSION:
+1. 9-mm FDG-avid lesion in the genu of the corpus callosum, 
+SUVmax 18.5, concerning for recurrence of intracranial lymphoma. 
+Equivocal tumor seeding at the prior left frontal biopsy site. 
+Recommend correlations with recent MRI head on ___.
+2. FDG-avid focus in the right hilum, SUVmax 5.3, without 
+definite anatomic correlates, but possibly represents FDG-avid 
+right hilar lymphadenopathy.
+3. Multifocal superficial FDG-avidity in the left calf and foot, 
+could represent interval worsening of lymphoma and/or 
+superimpose 
+cellulitis.
+.
+___ CXR FINDINGS: Single upright AP view of the chest shows 
+no pleural effusions. Mild bibasilar atelectasis. Cardiac 
+silhouette is normal. No pneumothorax or focal consolidations.
+.
+___ CXR: FINDINGS: There is right-sided PICC line with tip in 
+the right atrium. The resident interpreting this film in the 
+evening on ___ recommended pulling this back 2 cm. The lungs are 
+clear. There is no effusion. There is no pneumothorax.
+.
+___ CXR: FINDINGS: As compared to the prior examination there 
+are new opacities predominantly within the left lower lobe which 
+could represent aspiration or developing infection. Lung volumes 
+are slightly lower. No pneumothorax is seen. A right-sided PICC 
+terminates within the right atrium.
+.
+___ RUE DOPPLER U/S: IMPRESSION: Superficial thrombophlebitis 
+of the right basilic vein.
+.
+DISCHARGE LABS:
+___ 05:40AM BLOOD WBC-2.1* RBC-3.01* Hgb-9.9* Hct-27.8* 
+MCV-93 MCH-33.0* MCHC-35.6* RDW-16.7* Plt ___
+___ 05:40AM BLOOD Neuts-78.7* Lymphs-16.2* Monos-2.3 
+Eos-1.7 Baso-1.2
+___ 05:40AM BLOOD ___ PTT-25.6 ___
+___ 06:08AM BLOOD Ret Aut-3.2
+___ 05:40AM BLOOD Glucose-92 UreaN-18 Creat-0.9 Na-141 
+K-3.6 Cl-104 HCO3-28 AnGap-13
+___ 06:22AM BLOOD Calcium-9.0 Phos-2.8 Mg-2.0
+___ 06:22AM BLOOD ALT-33 AST-27 AlkPhos-75 TotBili-0.4
+___ 06:08AM BLOOD calTIBC-255* VitB12-1783* Folate-19.9 
+Ferritn-220* TRF-196*
+___ 06:00AM BLOOD mthotrx-0.41
+___ 06:00AM BLOOD mthotrx-0.___ yo woman with DM, HTN, and CRF admitted for cycle #1 
+high-dose MTX.  Chemo postponed for UTI and PICC placement, then 
+MTX given ___ with clearance of UTI and abx held to avoid MTX 
+interaction.  Fever recurred after MTX clearance.  CXR suggested 
+pneumonia.  Started on ceftriaxone (changed to cefpodoxime at 
+hospital discharge).  RUE doppler U/S, done due to difficulty 
+removing PICC, revealed a superficial thrombophlebitis, treated 
+with hot packs.  Discharged to rehab with plan to return in two 
+weeks for cycle #2.
+.
+# CNS lymphoma: Initially held for UTI and PICC placement, 
+high-dose MTX 3.5g/m2 (dose reduced for age) given ___.  
+Stopped cefepime ___ to avoid interaction with MTX.  Avoided 
+penicillins and fluoroquinalones for UTI to avoid MTX 
+interaction.  Bicarbonate 1meq/kg IV prior to chemotherapy, 
+25meq IV with chemotherapy, 150meq/1L bicarb in IV hydration 
+(increased to 150meq to enhance MTX excretion), and 1300mg PO.  
+Changed IV fluids to ___ normal saline with 50-100meq bicarb to 
+stop severe hyperglycemia.  Leucovorin rescue at 24 hours 
+post-MTX.  MTX levels checked at 24, 48, and 72 hours.  
+Anti-emetics prn.  Restarted TMP-SMX, aspirin, and glipizide now 
+that MTX cleared.  Continued levetiracetam.  Gave furosemide 
+40mg PO x1 ___ for 10 lbs wght gain.
+.
+# Pancytopenia: Chemo-induced.  Unremarkable anemia labs.  
+Transfused 1U pRBC ___ with furosemide.
+.
+# Diabetes: Worse with steroids and D5W fluids.  Improved off 
+D5W.  Restarted glipizide with MTX clearance.  Insulin glargine 
++ sliding scale.
+.
+# Fever: Low-grade after stopping cefepime.  Repeat U/A 
+negative.  CXR ___ clear.  Repeat CXR ___ showed LLL 
+infiltrate; started ceftriaxone.  C. diff, stool cx, and O&P 
+negative x1.  Diarrhea resolved.  PICC line irritation and 
+superficial thrombophlebitis.  PICC removed ___.  Blood and 
+PICC tip cultures no growth to date.  Changed ceftriaxone to 
+cefpodoxime for hospital discharge.
+.
+# Superficial thrombophlebitis: Hot packs to right arm.  PICC 
+D/C'd.  Continued DVT prophylaxis with fondaparinux.
+.
+# UTI: Changed meropenem IV to cefepime per antibiotic approval 
+team recommendation.  Cefepime stopped ___ to avoid 
+interaction with MTX.  Urine culture grew alpha hemolytic 
+colonies consistent with alpha streptococcus or Lactobacillus.  
+Repeat U/A negative.
+.
+# Lymphoma: Restaged PET ___ with questionable hilar 
+adenopathy.  Continued allopurinol.  Restarted TMP-SMX and 
+acyclovir prophylaxis since MTX cleared.
+.
+# Tibial/fibular fracture: Pathologic fractures due to 
+chemoresponse of her lymphoma with distal fibular resorption.  
+Orthopedic surgery consulted.  Continued bivalve cast.  No 
+weight bearing for 3 more weeks.
+.
+# Diarrhea: Possibly due to over-judicious use of stool 
+softeners and laxatives.  Held bowel regimen.  C. diff toxin 
+negative x1.  Stool culture and O&P negative.
+.
+# Constipation: Resolved with bowel regimen (now on hold due to 
+diarrhea).
+.
+# Pain: Continued oxycodone prn.
+.
+# FEN: Regular diabetic diet.  Metabolic alkalosis expected with 
+bicarb administration.  Repleted hypophosphatemia and 
+hypokalemia.
+.
+# DVT prophylaxis: Fondaparinux.
+.
+# GI prophylaxis: PPI.  Bowel regimen.
+.
+# Lines: PICC placed ___, D/C'd ___.
+.
+# Precautions: Fall.
+.
+# CODE: FULL.
+ 
+Medications on Admission:
+ACYCLOVIR 400 mg PO q8hrs
+ALLOPURINOL ___ mg PO once a day
+CLOTRIMAZOLE 10 mg Troche dissolve PO QID
+FOLIC ACID 1 mg Tablet PO daily
+FONDAPARINUX 2.5mg/0.5 mL Syringe - Inject 2.5mg SC daily DVT 
+ppx
+GLIPIZIDE 5 mg Tablet PO daily
+INSULIN GLARGINE [LANTUS] 100U/mL Solution - inject 12U SC qHS
+LACTULOSE 10 gram/15 mL Solution - 30 gm PO daily PRN 
+constipation
+LEVETIRACETAM 250 mg PO BID
+OMEPRAZOLE 40 mg Capsule PO daily
+ONDANSETRON HCL - 8 mg Tablet PO Q8hrs PRN nausea
+OXYCODONE 5 mg Tablet PO q4hrs PRN pain
+POLYETHYLENE GLYCOL 3350 17 gram/dose Powder PO DAILY PRN 
+constipation
+PROCHLORPERAZINE MALEATE 10 mg PO Q6HR PRN nausea
+SULFAMETHOXAZOLE-TRIMETHOPRIM 400mg-80 mg Tablet PO DAILY
+ACETAMINOPHEN 650 mg PO QID PRN pain
+ASCORBIC ACID ___ mg PO DAILY
+ASPIRIN [ENTERIC COATED ASPIRIN] 81mg PO daily
+CYANOCOBALAMIN (VITAMIN B-12) 1,000mcg PO DAILY
+DOCUSATE SODIUM 100 mg PO BID
+INSULIN REGULAR HUMAN [HUMULIN R] 100U/mL Solution - per sliding 
+scale SC QIDACHS <150 = 0 units; 150-200 = 2U; 201-250 = 4U; 
+251-300 = 6U; 301-350 = 8U, 351-400 = 10U, >400 = 12U.
+MAGNESIUM HYDROXIDE [MILK OF MAGNESIA] 400mg/5mL 30 mL PO qHS 
+PRN constipation
+MULTIVITAMIN Tablet 1 mouth DAILY
+SENNOSIDES [SENNA] 8.6 mg Tablet PO BID
+ 
+Discharge Medications:
+1. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H.
+2. allopurinol ___ mg Tablet Sig: One (1) Tablet PO DAILY.
+3. clotrimazole 10 mg Troche Sig: One (1) Troche Mucous membrane 
+QID.
+4. fondaparinux 2.5 mg/0.5 mL Syringe Sig: One (1) Syringe 
+Subcutaneous DAILY.
+5. glipizide 5 mg Tablet Extended Rel 24 hr PO DAILY.
+6. insulin glargine 100 unit/mL Solution Sig: 12U Subcutaneous 
+at bedtime.
+7. lactulose 10 gram/15 mL Syrup Sig: 30ML PO DAILY PRN 
+constipation.  
+8. levetiracetam 250 mg Tablet PO BID.
+9. omeprazole 40 mg PO DAILY.
+10. ondansetron HCl ___ mg PO q8hrs PRN nausea.
+11. oxycodone 5 mg Tablet PO Q4H PRN pain.
+12. polyethylene glycol 3350 17 gram/dose PO DAILY PRN 
+Constipation.
+13. prochlorperazine maleate 5 mg Tablet Sig: ___ Tablets PO 
+q6hrs PRN nausea.
+14. sulfamethoxazole-trimethoprim 400-80 mg PO DAILY.
+15. acetaminophen 325 mg Tablet Sig: ___ Tablets PO q6hrs PRN 
+pain.
+16. aspirin 81 mg PO DAILY.
+17. Vitamin B-12 1,000 mcg PO once a day.
+18. docusate sodium 100 mg Capsule PO BID.
+19. senna 8.6 mg PO BID PRN Constipation.
+20. magnesium hydroxide 400 mg/5 mL 30mL PO BID PRN 
+constipation.
+21. insulin regular human 100U/mL Solution Sig: Units QID: Per 
+sliding scale.
+22. miconazole nitrate 2% Powder Topical BID PRN fungal rash.
+23. cefpodoxime 200 mg PO BID x8 days: Last day ___.
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+CNS (central nervous system, brain) lymphoma.
+Cycle #1 high-dose methotrexate chemotherapy.
+Anemia.
+Diabetes.
+Urinary tract infection.
+Pneumonia.
+Left sided tibia/fibula (lower leg) fracture.
+Constipation.
+Right arm superficial thrombophlebitis (blood clot).
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+You were admitted to the hospital for cycle #1 high-dose 
+methotrexate chemotherapy for lymphoma of the brain.  
+Chemotherapy was initially held because you had an urinary tract 
+infection and needed antibiotics.  You also needed to have a 
+PICC line placed to receive fluids and chemotherapy.  You 
+tolerated your chemotherapy well except for an increase in your 
+blood sugars that was treated with insulin.  After chemotherapy, 
+you developed a fever.  Chest x-ray suggested a lung infection 
+(pneumonia), so antibiotics were restarted and you will need to 
+complete a course of antibiotics after you leave the hospital.  
+There is a superficial phlebitis (blood clot) in the right arm, 
+where the PICC line used to be.  This can be treated with hot 
+packs for comfort.
+.
+MEDICATION CHANGES:
+1. Cefpodoxime
+ 
+Followup Instructions:
+___

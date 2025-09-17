@@ -1,0 +1,250 @@
+===== DISCHARGE NOTE =====
+note_id=10813917-DS-10 | hadm_id=26745941
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Neck pain. Leg weakness. Odynophagia
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+This is a ___ yo woman who underwent EGD/EUS with intubation ___ 
+followed by anterior neck pain, fever to 101, swelling of her 
+neck and ___ weakness. She reportedly has had difficulty with 
+intubation in the past and was also difficult to intubate ___. 
+She had difficulty breathing with this.  There was gross blood 
+in the oropharynx on EGD imaging after the intubation. The EGD 
+itself was uncomplicated and normal.  Pt states that she feels 
+that the neck swelling/pain/odynophagia are relatively stable 
+since yesterday, without notable changes.  Since the procedure, 
+she also notes sx of leg weakness, with difficulty lifting legs 
+off of bed.  No sensory changes.  Pt feels stable ambulating 
+once up, but only c/o leg weakness while in bed.
+
+In the ED VS: 99.4 80 154/79 19 96% on RA. She was given unasyn, 
+levofloxacin, tylenol, zofran, and pantoprazole. She was 
+evaluated by ENT, with no clear explanation for the air in her 
+neck, though she has left vocal cord paralysis and edema in her 
+neck. Neurology was consulted for the ___ weakness but they did 
+not see her as she is ambulating (but would not lift legs off 
+the bed). ERCP was contacted but not did not feel esophageal 
+perforation was likely (though there is no explanation for how 
+air is in her subcutaneous tissue). 
+
+ROS: 10 point review of systems otherwise negative except as 
+noted above.
+ 
+Past Medical History:
+Pancreatic cysts
+Meningioma, s/p resection ___
+Thyroid nodules
+Kidney tumor?
+GERD
+hypertension
+hyperlipidemia
+allergies
+ 
+Social History:
+___
+Family History:
+Sister: ___ CVA with paralysis
+Sister: ___ cancer with Hx of DVT's PE's
+Mother: heart disease
+Other: DM
+ 
+Physical Exam:
+Admission:
+VS: T99.1 HR90  BP 164/94 RR18  Sat 95% RA
+Gen: Obese female, appears comfortable, speaking full sentences 
+without difficulty.
+Eye: extra-occular movements intact, pupils equal round, 
+reactive to light, sclera anicteric, not injected, no exudates
+ENT: mucus membranes moist, no ulcerations or exudates
+Neck: Diffuse swelling of neck bilat; pain on palpation B, R>L. 
+No carotid bruit. No erythema.
+Cardiovascular: regular rate and rhythm, normal s1, s2, no 
+murmurs, rubs or gallops
+Respiratory: Mild basilar rales B, L>R.  Good AE.
+Abd: Obese. Soft, non tender, non distended, no 
+heptosplenomegally, bowel sounds present
+Extremities: No cyanosis, clubbing, edema, joint swelling
+Neurological: Alert and oriented x3, CN II-XII intact, normal 
+attention, sensation normal, asterixis absent, speech fluent
+Strength ___:  ___ plantar/dorsiflexion B. ___ ileopsoas B.
+Integument: Warm, moist, no rash or ulceration  
+Psychiatric: appropriate, pleasant, slightly anxious
+Hematologic: no cervical or supraclavicular LAD
+ 
+Pertinent Results:
+Admission labs:
+WBC 10.8/hgb 13.2/hct 40.8/plt 194
+BMP: ___
+lactate 0.9
+ck 189
+inr 1.1/ptt 23.2
+
+Discharge:
+
+___ 06:22AM BLOOD WBC-5.5 RBC-3.84* Hgb-11.2* Hct-33.5* 
+MCV-87 MCH-29.1 MCHC-33.4 RDW-13.1 Plt ___
+___ 06:55AM BLOOD Glucose-138* UreaN-6 Creat-0.7 Na-140 
+K-3.7 Cl-106 HCO3-28 AnGap-10
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+EMERGENCY WARD 
+
+EKG Sinus rhythm. Compared to the previous tracing of ___ 
+there is no change. 
+  
+CXR IMPRESSION: Opacities at both lung bases, which are 
+nonspecific, though given the provided history, may represent 
+foci of aspiration. Clinical correlation advised. 
+
+PA/LAT Neck soft tissues IMPRESSION: Borderline prevertebral 
+soft tissue thickening.
+
+CT Chest IMPRESSION: 
+1. Suboptimal evaluation of lower lobe subsegmental pulmonary 
+arterial 
+branches due to patient respiratory motion. Otherwise, no 
+evidence of 
+pulmonary embolus. No aortic dissection. 
+2. Bilateral lower lobe consolidation, could be due to 
+aspiration, pneumonia, and/or atelectasis. Correlate with 
+clinical symptoms. 
+3. Multiple foci of gas lateral to the right lobe of the thyroid 
+may be 
+related to recent intubation. Please refer to CT neck report 
+from the same 
+day for further detail. 
+
+CT Neck IMPRESSION: Foci of soft tissue gas in the right neck as 
+described above.  Findings may be secondary to tracheal or 
+esophageal injury from recent intubation and endoscopy. Cluster 
+of small foci of gas lateral to the right thyroid lobe may 
+represent developing abscess, however no enhancing fluid 
+collection seen and findings may represent pocket of gas 
+collecting in this location. 
+Retropharyngeal hypodensity extending C2-C5, may concerning for 
+retropharyngeal edema vs. infectious process. 
+
+GASTROGRAFIN SWALLOW IMPRESSION: No evidence of active leak from 
+the esophagus.
+ 
+Brief Hospital Course:
+___ yo woman with neck pain s/p intubation/EGD/EUS with air in 
+neck, fever; appears to be d/t traumatic intubation.  Pt was 
+admitted to medicine with ENT and ERCP consults.  ERCP team 
+evaluated pt, and did not think the EGD was etiology of pt's 
+neck pain and neck emphysema, as pt's endoscopy was 
+uncomplicated.  ENT evaluated patient, and felt that considering 
+difficult nature of pt's intubation, there was likely 
+microperforation leading to the paratracheal emphysema.  
+Considering pt's reported fever prior to admission, pt was 
+treated initially with Levofloxacin and Unasyn, which was 
+tapered to Unasyn without further fevers.  THere was some 
+concern that pt may have had an aspiration considering imaging 
+(see report section), however considering fever so recently 
+after EGD, this was very unlikely to represent an aspiration 
+pneumonia.  Pt was monitored on continuous O2 sat, and was 
+initially kept strict NPO.  Pt subsequently underwent 
+gastrogaffin swallow, which did not show any extravasation; pt 
+was advanced to clear diet, which she tolerated well.  ENT 
+continued to follow daily.  On initial ENT evaluation, there was 
+some concern about possible L vocal cord paralysis, however on 
+repeat examination later that evening, the vocal cord was 
+mobile.  
+
+At time of admission, pt c/o bilateral leg weakness.  Neuro exam 
+was non-focal, and pt was able to ambulate.  Pt's strength 
+appeared intact on exam.  ___ was consulted, and pt regained 
+strength.  Pt may have been feeling lingering effects of 
+anesthesia from her EGD.
+
+Prior to discharge, pt noted that her L front tooth was chipped. 
+ On exam, there appeared to be a small linear chip off of the 
+biting surface of her L incisor.  Anesthesia evaluated and 
+stated that this did not occur during the intubation.  Pt raised 
+concern with Patient Relations.
+
+At time of discharge, pt was converted to Augmentin for an 
+additional 4 days (8 days total).
+.  
+Hypertension:  
+- resumed home meds once taking po's.  
+.  
+Hyperlipidemia: resumed statin once taking po's.  
+.  
+Allergies: resumed singulair once taking po's.  
+.  
+DISPO: to home today; f/u with PCP and GI.  
+
+ 
+Medications on Admission:
+ACETAMINOPHEN-CODEINE 300 mg-30 mg 2 Tablet(s) by mouth three 
+times daily as needed for as needed for pain
+ATENOLOL 25 mg by mouth three times a day
+ATORVASTATIN 10 mg once a day
+ESOMEPRAZOLE MAGNESIUM [NEXIUM] 40 mg once a day
+FOLIC ACID 1 mg by mouth
+HYDROCHLOROTHIAZIDE 50 mg once a day
+MONTELUKAST 10 mg once a day
+RANITIDINE 150 mg once a day
+
+ 
+Discharge Medications:
+1. Atenolol 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day): as per other provider.  
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Nexium 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day.  
+5. Hydrochlorothiazide 50 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a 
+day: as per other provider.  
+8. Tylenol ___ mg Tablet Sig: Two (2) Tablet PO three times a 
+day as needed for pain.  
+9. Augmentin 500-125 mg Tablet Sig: One (1) Tablet PO every 
+eight (8) hours for 4 days.
+Disp:*12 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Paratracheal emphysema
+# Fever prior to admission
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+You were admitted with swelling in your neck and you were 
+treated with antibiotics and you were monitored closely.  Please 
+complete a course of antibiotics as prescribed. Please seek 
+medical attention if you develop fever, chills, worsened neck 
+swelling, pain, or any other concerns.
+ 
+Followup Instructions:
+___

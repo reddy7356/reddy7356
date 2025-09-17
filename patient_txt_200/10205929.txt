@@ -1,0 +1,207 @@
+===== DISCHARGE NOTE =====
+note_id=10205929-DS-8 | hadm_id=26697387
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ recent total knee replacement 5 days ago at OSH, was 
+discharged to ___ where she received large amounts of opioids, 
+and subsequently developed worsening abdominal pain, 
+constipation (no bowel movement post-op), and nausea without 
+vomiting. Did not participate in physical therapy due to 
+abdominal pain. No F/S/C/CP/SOB.
+
+ 
+Past Medical History:
+hypertension, hyperlipidemia, distant history of nephrolithiasis 
+s/p open nephrolithotomy, osteoarthritis
+ 
+Social History:
+___
+Family History:
+Mother died age ___, Father died age ___ both of natural causes
+
+ 
+Physical Exam:
+95.4  144/88  128  20(97% RA)
+GEN NAD
+EYE Anicteric
+ENT Moist OP
+CV RRR
+RESP CTA
+GI Hypoactive BS, soft, tender to palpation without rebound or 
+guarding
+GU no CVAT
+MSK Warm, trace ___ edema, right knee surgical site C/D/I
+SKIN No rash
+NEURO A&Ox3
+PSYCH Calm
+___ no LN
+
+ 
+Pertinent Results:
+___ 09:20PM   WBC-10.5 RBC-3.68* HGB-10.8* HCT-31.3* MCV-85 
+MCH-29.4 MCHC-34.7 RDW-12.9
+___ 09:20PM   NEUTS-74.3* LYMPHS-17.8* MONOS-6.5 EOS-1.2 
+BASOS-0.3
+___ 09:20PM   PLT COUNT-286
+___ 09:20PM   GLUCOSE-149* UREA N-13 CREAT-0.7 SODIUM-141 
+POTASSIUM-5.2* CHLORIDE-103 TOTAL CO2-25 ANION GAP-18
+___ 09:20PM   ALT(SGPT)-36 AST(SGOT)-55* ALK PHOS-64 TOT 
+BILI-1.1
+___ 09:20PM   LIPASE-32
+___ 09:20PM   ALBUMIN-3.5
+___ 01:20AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-1 PH-8.0 LEUK-NEG
+==========
+CT abdomen and CT pelvis (___)
+TECHNIQUE: MDCT-acquired images were obtained through the 
+abdomen and pelvis 
+after the uneventful administration of oral and 130 cc of IV 
+Optiray contrast. 
+Multiplanar reformats were reviewed. 
+  
+ABDOMEN: The lung bases demonstrate bibasilar subsegmental 
+atelectasis. Heart 
+size is normal. There is no pleural or pericardial effusion. NG 
+tube tip lies 
+just beyond the GE junction. 
+  
+The liver, spleen, gallbladder, adrenals, kidneys are grossly 
+unremarkable. A 
+1 cm hypodensity within the interpolar region of the right 
+kidney likely 
+represent simple cyst. 
+  
+There is no evidence of small bowel obstruction. The large bowel 
+is distended 
+with fluid, especially along the descending colon. There is 
+small adjacent 
+free fluid in the left paracolic gutter. There is no bowel wall 
+thickening. 
+There is no mesenteric or retroperitoneal lymphadenopathy. 
+  
+PELVIS: The rectum, uterus, adnexa, bladder are unremarkable. 
+There is a 
+moderate amount of stranding in the subcutaneous tissues of the 
+right proximal 
+thigh. 
+  
+Bone windows demonstrate no suspicious lytic or blastic lesions. 
+
+  
+IMPRESSION: 
+1. Large bowel distended with fluid, may be secondary to 
+gastroenteritis. 
+No bowel obstruction. 
+  
+2. NG tube terminates just beyond the GE junction; recommend 
+advancement.  
+===========
+AP CXR (___)
+Single bedside AP examination labeled "upright at 21:30" with no 
+
+comparisons. The lung volumes are relatively low with 
+slight-moderate 
+elevation of the right hemidiaphragm and associated vascular 
+crowding.  
+Allowing for this, there is no focal airspace process. There is 
+apparent 
+rounded LV enlargement with tortuous, calcified thoracic aorta, 
+which may 
+reflect underlying hypertension. There is no evidence of CHF. 
+Noted are 
+gas-filled and somewhat featureless large bowel loops in the 
+upper abdomen. 
+  
+IMPRESSION: Low lung volumes with no acute cardiopulmonary 
+process. 
+==========
+ECG (___)
+Sinus tachycardia 
+Modest ST-T wave changes - are nonspecific and unstable baseline 
+makes 
+comparison difficult 
+No previous tracing available for comparison 
+
+ 
+Brief Hospital Course:
+Post-operative ileus with constipation. The patient was started 
+on a bowel regimen, including mineral oil enema without 
+substantial relief. One gallon of Golytely (PEG 3350) 
+preparation was given and the patient had multiple bowel 
+movements with resolution of her abdominal pain. She was 
+discharged on Miralax (PEG 3350) and docusate for her bowel 
+regimen.
+
+She received Physical Therapy for her total knee replacement 
+during her hospitalization, and her post-surgical pain was well 
+managed with scheduled doses of acetaminophen.
+
+Her outpatient lovastatin was held during her hospitalization, 
+but her metoprolol was continued with good control of her blood 
+pressure.
+ 
+Medications on Admission:
+lovastatin, metoprolol, ASA
+
+ 
+Discharge Medications:
+1. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours).
+Disp:*240 Tablet(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: Two (2) Capsule PO BID (2 
+times a day) for 4 weeks.
+Disp:*112 Capsule(s)* Refills:*0*
+3. Polyethylene Glycol 3350 100 % Powder Sig: One (1) tablespoon 
+PO once a day for 4 weeks.
+Disp:*QS * Refills:*0*
+4. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID 
+(2 times a day).  
+5. Lovastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.  
+6. Aspirin Tri-Buffered 324 mg Tablet Sig: One (1) Tablet PO 
+once a day.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1. Post-operative ileus with constipation
+2. Hypertension
+3. Hyperlipidemia
+4. Recent total knee replacement
+ 
+Discharge Condition:
+Stable
+ 
+Discharge Instructions:
+Please start home Physical Therapy for knee rehabilitation.
+
+Please contact your primary care physician if you develop 
+fevers, sweats, chills, worsening right knee pain, diarrhea, or 
+constipation.
+ 
+Followup Instructions:
+___

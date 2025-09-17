@@ -1,0 +1,1100 @@
+===== DISCHARGE NOTE =====
+note_id=10503925-DS-12 | hadm_id=22734938
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Gastric Adenocarinoma (T3N2)
+ 
+Major Surgical or Invasive Procedure:
+Robotic-assisted laparoscopic total gastrectomy 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ gentleman with T3N2 gastric 
+cancer who has received 3 cycles of neoadjuvant chemotherapy 
+with Dr. ___ at ___. Treatment was discontinued due 
+to an unfavorable side effect profile. Lymph node regression of 
+disease was noted on follow-up scans. He was evaluated for 
+surgical management of gastric cancer on ___, and was 
+scheduled for robotic-assisted laparoscopic total gastrectomy 
+for ___. 
+
+ 
+Past Medical History:
+Past medical history
+H Pylori gastritis
+GERD
+Iron deficiency anemia
+Hemorroids
+Deep venous thrombosis and pulmonary embolism after shoulder 
+surgery and treated with six months of Coumadin
+
+Past Surgical History
+Two shoulder arthroscopies
+
+No known drug allergies
+ 
+Social History:
+___
+Family History:
+No family history of colon, gastric, esophageal cancer, or IBD
+ 
+Physical Exam:
+ Discharge Physical Exam:  
+ VS: T 97.9 HR 79 BP 111/71 RR 18 O2 96% RA
+ GEN: AA&O x 3, NAD, calm, cooperative.  
+ HEENT: (-)LAD, mucous membranes moist, trachea midline, EOMI  
+ CHEST: Clear to auscultation bilaterally, (-) cyanosis.  
+ ABDOMEN: soft, diffuse tenderness, incision sites are c/d/i 
+covered with steri-strips  
+ EXTREMITIES: Warm, well perfused, no edema 
+ 
+Pertinent Results:
+UGI SGL CONTRAST W/ KUB (___)
+IMPRESSION:  No evidence of leak or obstruction. 
+
+ABDOMEN (SUPINE & ERECT) Xray (___)
+IMPRESSION:   
+1. In the left upper quadrant there is the suggestion of mildly 
+dilated small 
+bowel, however this may also represent superimposed sigmoid 
+colon. The 
+appearance of mildly dilated small bowel in this location likely 
+represents 
+localized ileus the continued close follow-up is recommended.   
+2.  Unable to evaluate for intra-abdominal fluid collections on 
+the current 
+modality. A CT of the abdomen and pelvis could evaluate for 
+intra-abdominal 
+fluid collections as clinically indicated. 
+
+ 
+Brief Hospital Course:
+The patient presented to pre-op on ___ for a scheduled 
+robotic-assisted laparoscopic gastrectomy following 3 cycles of 
+neoadjuvant chemotherapy for T3N2 gastric cancer. Pt was 
+evaluated by anesthesia. There were no adverse events in the 
+operating room; please see the operative note for details.  Pt 
+was extubated, taken to the PACU until stable, then transferred 
+to the ward for observation. 
+
+Neuro: The patient was alert and oriented throughout 
+hospitalization; pain was initially managed with a Dilaudid PCA 
+and IV acetaminophen and then transitioned to oral oxycodone and 
+acetaminophen as well as IV hydromorphone as needed for pain. 
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.
+Pulmonary: The patient remained stable from a pulmonary 
+standpoint; vital signs were routinely monitored. Good pulmonary 
+toilet, early ambulation and incentive spirometry were 
+encouraged throughout hospitalization. 
+GI/GU/FEN: The patient was initially kept NPO with a 
+___ tube in place for decompression.  On ___, 
+the NGT was removed. Subsequently, the diet was advanced 
+sequentially to a regular diet, which was well tolerated. A 
+swallow study done on ___ showed no evidence of leak or 
+obstruction from the esophagus to proximal small bowel. 
+Patient's intake and output were closely monitored. Indwelling 
+catheter was removed on POD2 (___). A JP drain was placed 
+intra-operatively. Outputs were serosanguinous throughout the 
+hospitalization course, with no evidence of amylase leak. The JP 
+drain was removed on *****. 
+ID: The patient's fever curves were closely watched for signs of 
+infection, of which there were none.
+HEME: Perioperatively, the patient's platelets trended downward 
+with a nadir of 77 on ___. SC heparin and IV famotidine 
+were discontinued. Heparin dependent antibodies were found to be 
+negative, and SC heparin was re-started. 
+Prophylaxis: The patient received subcutaneous heparin and ___ 
+dyne boots were used during this stay and was encouraged to get 
+up and ambulate as early as possible.
+Pathology: The pathology report from the total gastrectomy 
+showed pT4aN3a (tumor invading serosa and affecting ___ 
+perigastric nodes) gastric adenocarcinoma, with negative 
+proximal and distal margins and extensive lymphatic invasion. 
+
+At the time of discharge, the patient was doing well, afebrile 
+and hemodynamically stable.  The patient was tolerating a diet,  
+ambulating, voiding without assistance, and pain was well 
+controlled.  The patient received discharge teaching and 
+follow-up instructions with understanding verbalized and 
+agreement with the discharge plan.
+
+ 
+Medications on Admission:
+OMEPRAZOLE - omeprazole 20 mg capsule,delayed release. 1 
+capsule) by mouth once a day)
+Sucralfate 1 gm QID
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Gastric cancer
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you here at ___ 
+___. You were admitted to our hospital for 
+a robotic-assisted laparoscopic total gastrectomy for gastric 
+cancer following neoadjuvant chemotherapy. You have recovered 
+and are now ready to be discharged to home. Please follow the 
+recommendations below to ensure a speedy and uneventful 
+recovery. 
+
+HOW YOU MAY FEEL: 
+- You may feel weak or "washed out" for 6 weeks. You might want 
+to nap often. Simple tasks may exhaust you.
+- You may have a sore throat because of a tube that was in your 
+throat during the surgery. 
+ 
+ACTIVITY:
+- Do not drive until you have stopped taking pain medicine and 
+feel you could respond in an emergency.
+- You may climb stairs. 
+- You may go outside, but avoid traveling long distances until 
+you see your surgeon at your next visit.
+- You may start some light exercise when you feel comfortable.
+- Heavy exercise may be started after 6 weeks, but use common 
+sense and go slowly at first.
+- You may resume sexual activity unless your doctor has told you 
+otherwise.
+ 
+
+PAIN MANAGEMENT:
+- Your pain should get better day by day. If you find the pain 
+is getting worse instead of better, please contact your surgeon.
+
+If you experience any of the following, please contact your 
+surgeon:
+- sharp pain or any severe pain that lasts several hours
+- pain that is getting worse over time
+- pain accompanied by fever of more than 101
+- a drastic change in nature or quality of your pain
+ 
+MEDICATIONS:
+- Pain medications: ___ will receive a prescription for liquid 
+oxycodone, an opioid pain medication. This medication will make 
+you drowsy and impair your ability to drive a motor vehicle or 
+operate machinery safely. You MUST refrain from such activities 
+while taking these medications. You may also take acetaminophen 
+(Tylenol) for pain management; do not exceed 4000 mg per 24 hour 
+period.
+- Constipation: This is a common side effect of opioid pain 
+medication. If you experience constipation, please reduce or 
+eliminate opioid pain medication. You may trial 2 ounces of 
+light prune juice and/or a stool softener (i.e. crushed docusate 
+sodium tablets), twice ___ until you resume a normal bowel 
+pattern. Please stop taking this medication if you develop loose 
+stools. Please do not begin taking laxatives including until you 
+have discussed it with your nurse or surgeon.
+- Antacids: Please discontinue your omeprazole pills. You will 
+no longer require these due to the surgery. 
+- You must not use NSAIDS (non-steroidal anti-inflammatory 
+drugs). Examples include, but are not limited to Aleve, 
+Arthrotec, aspirin, Bufferin, diclofenac, Ecotrin, etodolac, 
+ibuprofen, Indocin, indomethacin, Feldene, ketorolac, 
+meclofenamate, meloxicam, Midol, Motrin, nambumetone, Naprosyn, 
+Naproxen, Nuprin, oxaprozin, Piroxicam, Relafen, Toradol and 
+Voltaren. These agents may cause bleeding and ulcers in your 
+digestive system. If you are unclear whether a medication is 
+considered an NSAID, please ask call your nurse or ask your 
+pharmacist.
+- If you have any questions about what medicine to take or not 
+to take, please call your surgeon. 
+
+WOUND CARE: 
+-You may shower with any bandage strips that may be covering 
+your wound. Do not scrub and do not soak or swim, and pat the 
+incision dry. If you have steri strips, they will fall off by 
+themselves in ___ weeks. If any are still on in two weeks and 
+the edges are curling up, you may carefully peel them off.  *** 
+Your staples will be removed by your surgeon at your follow up 
+appointment. 
+ Do not take baths, soak, or swim for 6 weeks after surgery 
+unless told otherwise by your surgical team. 
+-Notify your surgeon is you notice abnormal (foul smelling, 
+bloody, pus, etc) or increased drainage from your incision site, 
+opening of your incision, or increased pain or bruising. Watch 
+for signs of infection such as redness, streaking of your skin, 
+swelling, increased pain, or increased drainage. 
+
+Please call with any questions or concerns. Thank you for 
+allowing us to participate in your care. We hope you have a 
+quick return to your usual life and activities. 
+
+-- Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10503925-DS-13 | hadm_id=25092449
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+oxaliplatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abd pain, nausea 
+ 
+Major Surgical or Invasive Procedure:
+___: Exchange of a jejunostomy tube for a new 16 ___ MIC 
+jejunostomy tube 
+___: Cholangiogram; R anchor drain removed with 
+embolization of tract
+___: 10 mm CBD stent placed; right ___ Fr anchor drain; 12 
+Fr ___ J-tube placement
+___: Right ___ Fr int/ext PTBD placed 
+
+ 
+History of Present Illness:
+Mr ___ is a ___ with hx of gastric adenocarcinoma (s/p
+total gastrectomy/Roux-en-Y in ___ at ___ w/liver mets, on
+palliative nivolumab) p/w abd pain/nausea to ___, found to
+have transaminitis ___ mets obstruction, transferred to ___ 
+for
+further management
+
+Per ___ Summary, "The patient had been on MS ___ 30 
+mg
+twice a day and oxycodone at home which was not controlling the
+pain as well as due to the ongoing nausea and vomiting, he came
+into the ER. On workup here he was noted to have transaminitis
+with his AST and ALT in the 500-600 range, Alk phosphatase
+increased to 930 ___s bilirubin being elevated to 3.4. His
+most recent LFTs few weeks ago were fairly normal. It was 
+unclear
+if this was related to his new immunotherapy ordered this could
+be related to obstructive jaundice from the malignancy. He was
+seen by gastroenterology, they recommended MRCP which was
+performed and this showed multiple intrahepatic metastasis as
+well as a extrahepatic mass at the porta hepatis causing
+compression and obstruction of the distal CBD. GI recommended 
+him
+to be transferred to ___ for further management given he had
+the surgery done there few months ago."
+
+Initially, plan for ERCP w/stent placement, however, upon GI
+review of imaging, thought diff anatomy, so plan for ___ guided
+stenting. Pt was kept NPO over most of admission, pain control
+w/MS-contin and IV dilaudid. Heme-Onc, GI, and Palliative care
+teams were consulted. Of note, pt reports that he was started on
+Nivolumab ~1wk prior. Pt was seen by Dr ___ as second
+opinion, follows oncology at ___.
+
+Upon arrival to the floor, the patient states that he was
+admitted to ___ for worsening nausea since last
+week. Nausea is associated with NBNB vomiting. 
+
+Pt has had diffuse, constant, dull abdominal pain for
+approximately one month which is being treated with oxycodone 
+and
+well controlled.
+
+No fevers/chills. Intermittent constipation but no diarrhea. No
+blood in urine or stool. No SOB/CP/cough. Intermittent mild
+frontal HA. c/o new dysuria today.
+ 
+Past Medical History:
+1.  H. pylori gastritis.
+2.  History of GERD.
+3.  Iron deficiency anemia.
+4.  History of hemorrhoids.
+5.  Deep venous thrombosis and pulmonary embolism after shoulder
+surgery, treated with six months of Coumadin three to ___ years
+ago.
+ 
+Social History:
+___
+Family History:
+No family history of colon, gastric, esophageal cancer, or IBD
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VITALS: 98.1 113/74 87 18 95 RA   
+GENERAL: Alert and interactive. comfortable
+HEENT: Normocephalic, atraumatic. Pupils equal, round, and
+reactive bilaterally, extraocular muscles intact. Sclera icteric
+and without injection. Oral thrush, MMM 
+NECK: Thyroid is normal in size and texture, no nodules. No
+cervical lymphadenopathy. No JVD.  
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops. 
+LUNGS: Clear to auscultation bilaterally w/appropriate breath
+sounds appreciated in all fields. No wheezes, rhonchi or rales.
+No increased work of breathing.
+BACK: No spinous process tenderness. No CVA tenderness.  
+ABDOMEN: +BS, RUQ and LUQ TTP, no guarding or rebound
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.  
+SKIN: Warm. No rash.
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. Gait is normal.  AOx3.
+
+DISCHARGE PHYSICAL EXAM
+24 HR Data (last updated ___ @ 931)
+    Temp: 98.0 (Tm 98.6), BP: 114/79 (102-120/68-82), HR: 94
+(91-97), RR: 10 (___), O2 sat: 94% (94-99), O2 delivery: Ra  
+GENERAL: Cachectic and chronically ill appearing, appeared
+uncomfortable and sad this morning 
+HEENT: Icteric sclera, dry mucosa
+CARDIAC: Regular rhythm, normal rate.
+LUNGS: Scattered rhonchi posteriorly, breathing comfortably on
+room air
+ABDOMEN: soft, mildly distended
+EXTREMITIES: No clubbing, cyanosis, or edema. BLE warm.
+NEUROLOGIC: moving all extremities spontaneously 
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 06:10AM BLOOD WBC-8.1 RBC-3.82* Hgb-11.1* Hct-31.5* 
+MCV-83# MCH-29.1 MCHC-35.2 RDW-15.0 RDWSD-43.8 Plt ___
+___ 06:10AM BLOOD ___ PTT-26.4 ___
+___ 06:10AM BLOOD Glucose-100 UreaN-15 Creat-0.6 Na-140 
+K-4.3 Cl-97 HCO3-26 AnGap-17
+___ 06:10AM BLOOD ALT-194* AST-153* LD(LDH)-382* 
+AlkPhos-719* TotBili-12.1*
+___ 06:10AM BLOOD Albumin-2.8* Calcium-8.4 Phos-2.9 Mg-1.9
+
+INTERMITTENT LABS
+___ 06:19AM BLOOD WBC-18.9* RBC-3.29* Hgb-9.4* Hct-27.6* 
+MCV-84 MCH-28.6 MCHC-34.1 RDW-22.9* RDWSD-67.3* Plt ___
+___ 06:19AM BLOOD Glucose-132* UreaN-18 Creat-0.5 Na-130* 
+K-5.5* Cl-88* HCO3-26 AnGap-16
+___ 06:19AM BLOOD ALT-123* AST-228* LD(LDH)-657* 
+AlkPhos-653* TotBili-6.1* DirBili-4.2* IndBili-1.9
+
+DISCHARGE LABS
+___ 06:19AM BLOOD WBC-18.9* RBC-3.29* Hgb-9.4* Hct-27.6* 
+MCV-84 MCH-28.6 MCHC-34.1 RDW-22.9* RDWSD-67.3* Plt ___
+___ 06:19AM BLOOD Glucose-132* UreaN-18 Creat-0.5 Na-130* 
+K-5.5* Cl-88* HCO3-26 AnGap-16
+___ 06:19AM BLOOD ALT-123* AST-228* LD(LDH)-657* 
+AlkPhos-653* TotBili-6.1* DirBili-4.2* IndBili-1.9
+
+IMAGING AND STUDIES
+___ PTBD:
+FINDINGS: 
+1.  Moderate right intrahepatic biliary dilatation and common 
+bile duct
+dilatation secondary to low CBD obstruction.  Cone beam CT 
+confirms moderate right anterior intrahepatic biliary duct 
+dilatation with paucity of biliary ducts in the right posterior 
+and left biliary system secondary to hepatic metastases.  
+Catheterization of the segment 2 biliary ducts demonstrates mild 
+dilatation peripherally with long segment stricturing secondary 
+to central hepatic metastasis.  Based on the findings the 
+decision was made not to obtain left biliary duct access.
+IMPRESSION: 
+Successful placement of the right anterior ___ internal-external 
+biliary
+drain.
+
+___ BILIARY STENT:
+FINDINGS:
+1. Right 10 ___ percutaneous transhepatic internal external 
+biliary
+drainage catheters.
+2. Cholangiogram showing distal CBD obstruction.  Post stent 
+deployment and
+cholangioplasty demonstrates brisk antegrade flow of contrast 
+into the
+duodenum through the common bile duct stent.
+3. Successful exchange of right 10 ___ percutaneous 
+transhepatic biliary
+internal external drainage catheters with new 10 ___ anchor 
+drain.
+
+___ CT AP:
+IMPRESSION:
+1. Infiltrative soft tissue mass encasing the remnant stomach 
+extending along the gastrohepatic ligament to the hepatic hilum 
+and involving the celiac axis, portal vein, SMV, splenic vein 
+and pancreas as detailed above consistent with invasive local 
+disease recurrence.
+2. Significant interval progression of hepatic metastases as 
+described.  In
+particular, there is diffuse metastatic infiltration in the left 
+lobe with
+occlusion of the lateral branch of the left portal vein and 
+distal branches of the left hepatic vein.
+3. New 1.3 cm hyperattenuating focus within the right hepatic 
+lobe along the periphery of the large hepatic lesion suspicious 
+for a focal bleed versus pseudoaneurysm.  Further evaluation 
+with a multiphasic CT scan of the abdomen is recommended.
+4. 2.5 cm nodule in the region of the left adrenal gland is 
+suspicious for
+left adrenal metastasis.
+5. Multiple peritoneal and omental nodules as described are 
+consistent with
+peritoneal carcinomatosis.
+6. Enlarged retroperitoneal and mesenteric lymph nodes 
+consistent with
+metastatic lymphadenopathy.
+7. Splenic infarct from tumor involvement of the splenic artery.
+8. New nodular and ill-defined opacities in the visualized lower 
+lung fields concerning for metastatic involvement although 
+superimposed infectious etiologies could also be considered.
+
+___ CHOLANGIOGRAM:
+1. Right 10 ___ external percutaneous transhepatic biliary 
+drainage
+catheter.
+2. Cholangiogram showing patent common bile duct stent with 
+brisk antegrade
+flow.  No biliary ductal dilatation.
+3. Successful removal of right 10 ___ external percutaneous 
+transhepatic
+biliary drainage catheter with embolization of tract.
+ 
+ 
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with metastatic HER-2 
+negative gastric adenocarcinoma s/p neoadjuvant ECF and then EOX 
+___ followed by gastrectomy/Roux-en-Y in ___ recently initiated on nivolumab early ___, 
+who presented with nausea, acute on chronic abdominal pain, and 
+LFTs markedly above baseline secondary to metastatic CBD 
+obstruction and worsening of disease burden. After discussions 
+with the patient, his wife and his niece, patient is CMO and 
+DNR/DNI.
+
+#Acute on chronic abdominal pain
+#Nausea
+#Hiccups
+Patient has chronic abdominal pain and nausea from his 
+underlying metastatic malignancy. His pain and nausea were not 
+well controlled at home, and worsened with spread of his 
+disease. Initially there was hope that biliary 
+decompression/drainage would help his symptoms, but this was not 
+the case. Palliative care was consulted for symptom management. 
+He was on Zofran, metoclopramide, Ativan, morphine pca, 
+oxycodone and methadone. He was discharged to a hospice center 
+to focus on pain and symptom management.
+
+#Goals of care
+On ___ patient expressed that he wants to focus on being 
+comfortable, and not undergo aggressive care because it will not 
+make the cancer better and not help his pain. He asks to be 
+comfortable, and he and family explicitly do not want lab draws, 
+imaging or anything that is not going to improve comfort. 
+Palliative care was consulted during his hospitalization for 
+symptom management. He was discharged to hospice.
+
+#Obstructive jaundice:
+#Metastatic gastric cancer:
+Patient is followed by Dr. ___. He presented as a 
+transfer from ___ with elevated LFTs/AP/T bili along with 
+imaging consistent with common bile duct obstruction from 
+metastatic disease. Imaging also showed worsening 
+intra-abdominal metastases. Patient underwent cholangiogram with 
+PTBD placement on ___, with repeat cholangiogram on ___ with 
+CBD stent placed. Then on ___ right anchor drain was removed 
+and tract was emblazed. Labs initially improved with PTBD done 
+___, then uptrended and then remained stable. Palliative care 
+was consulted for symptom control as above. Dr. ___ was 
+updated during his hospital stay. 
+
+#Leukocytosis
+Uptrended his last week of hospitalization, without increase in 
+LFTs, other focal symptoms or fevers. Differential included 
+infection vs worsening metastatic disease. No intervention was 
+done as patient was transitioned to CMO.
+
+#Severe malnutrition
+Patient underwent J-tube placement for tubefeeds, but also so 
+pain medications could be given with less nausea. Tube feeds 
+were stopped when transitioned to CMO, out of concern that they 
+may precipitate pain or nausea.
+
+TRANSITIONAL ISSUES:
+#Patient comfort measures only at discharge
+#Discharged to ___
+#Code: DNR/DNI, CMO
+#Contact: Wife, ___: ___ Niece, ___: ___ 
+
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. OxycoDONE Liquid ___ mg PO Q4H:PRN pain 
+2. Morphine SR (MS ___ 30 mg PO Q8H 
+3. Pantoprazole 40 mg PO Q12H 
+4. Polyethylene Glycol 17 g PO DAILY 
+5. Nivolumab 240 mg IV EVERY TWO WEEKS 
+6. LORazepam 0.5 mg PO Q6H:PRN anxiety 
+7. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+8. Docusate Sodium 100 mg PO BID:PRN constipation 
+9. Nystatin Oral Suspension 5 mL PO QID 
+10. Senna 8.6 mg PO BID:PRN constipation 
+
+ 
+Discharge Medications:
+1.  ChlorproMAZINE 12.5 mg IV QHS PRN hiccups 
+RX *chlorpromazine 25 mg/mL 12.5 mg IV PRN Disp #*10 Ampule 
+Refills:*0 
+2.  HYDROmorphone (Dilaudid) 0.2-1 mg IVPCA Lockout Interval: 10 
+minutes  Basal Rate: 0.2-1 mg(s)/hour 1-hr Max Limit: 0 mg(s) 
+Start: Today - ___ @ 1500 
+RX *hydromorphone in 0.9 % NaCl 0.2 mg/mL 0.2-1 mg IV q10minutes 
+Disp #*12 Bag Refills:*0 
+3.  LORazepam 0.5 mg IV Q4H:PRN anxiety, agitation 
+RX *lorazepam 2 mg/mL 1 mg iv prn agitation Disp #*10 Vial 
+Refills:*0 
+4.  Methadone 5 mg IV Q8H 
+RX *methadone 5 mg/0.5 mL 5 mg IV three times a day Disp #*10 
+Syringe Refills:*0 
+5.  Ondansetron 4 mg IV Q4H PRN nausea/vomiting  
+6.  Ramelteon 8 mg PO QHS 
+Should be given 30 minutes before bedtime  
+7.  Scopolamine Patch 1 PTCH TD ONCE Duration: 72 Hours  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Metastatic gastric cancer
+Malignant biliary obstruction
+Pain and nausea secondary to gastric cancer
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you during your hospitalization at 
+the ___.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+===========================================
+- You were having worsening pain and also elevation in your 
+liver tests.
+
+WHAT WAS DONE FOR ME IN THE HOSPITAL?
+===========================================
+- You had a CT scan that unfortunately showed worsening spread 
+of the cancer.
+- You were seen by the interventional radiology doctors, who 
+placed a stent (like a drainage pipe) to help drain some of the 
+blockage in the liver caused by the cancer.
+- You were seen by the palliative care team, who helped to find 
+medications to help with your pain and nausea.
+- You were discharge to a hospice center, which is a place that 
+will focus on making sure your pain and nausea are well 
+controlled.
+
+We wish you the best.
+
+Warmly,
+Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10503925-DS-10 | hadm_id=25634730
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+anemia
+ 
+Major Surgical or Invasive Procedure:
+___ - capsule endoscopy
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo M w/ PMHx of recently diagnosed anemia 
+who was admitted for work-up of GI bleed after blood had been 
+found in his colon on colonoscopy ___. His story begins in 
+___ when he went to ___ with leg swelling and shortness 
+of breath. He was found to be anemic. His H&H in ___ was 
+9.6/29.8. Previously in ___, his H&H was 14.9/44.8. The 
+culprit of his anemia was believed to be secondary to high dose 
+NSAID use. He had been taking ibuprofen or aleve two times a day 
+since he tore his rotator cuff. He underwent rotator cuff 
+surgery and he was given celecoxib afterwards as well. After 
+discharge from ___, he went to his PCP who recommended 
+stopping NSAIDs and starting omeprazole. He also states he has 
+been taking iron for approx 3 weeks. In ___, H&H ranged from 
+9.2-9.6. Iron studies revealed a low iron (17) and high TIBC 
+with appropriate reticulocyte count c/w iron deficiency anemia. 
+He had a colonoscopy in ___ but it was recommended that he 
+undergo a repeat colonoscopy and EGD to better evaluate his iron 
+deficiency anemia. His prep was uneventful until his second 
+bottle of magnesium hydroxide when he started passing red liquid 
+per rectum. Since his GI prep was cherry colored, he thought 
+this was secondary to the prep. His only other symptoms is 
+shortness of breath. He denies any melena or hematochezia. He 
+denies any abdominal pain or change to his bowel movements.  
+In the ED, initial VS were 97.7 60 123/83 18 100% RA. There were 
+small spots of blood noted on stool. CTA revealed no active 
+source of bleeding and pulmonary emboli. Transfer VS were 97.3 
+68 131/88 14 99%RA.  
+On arrival to the floor, patient reports that he is feeling 
+fine.  
+
+ 
+Past Medical History:
+iron deficiency anemia 
+ 
+Social History:
+___
+Family History:
+- no family history of colon cancer or GI disease
+ 
+Physical Exam:
+admission:
+---------
+VS - 97.9 139/65 66 18 100%RA
+General: NAD, A+Ox3
+HEENT: anicteric sclera, mild pallor, EOMI, PERRL
+Neck: supple, non-elevated JVP
+CV: RRR, no m/r/g, nl s1&s2
+Lungs: CTAB, no wheeze/rales/rhonchi
+Abdomen: soft, NT/ND, no hsm, +BS
+GU: no foley, otherwise deferred
+Ext: WWP, no pitting edema, +2 pulses distally
+Neuro: CN II-XII intact
+Skin: no rash
+
+discharge:
+---------
+VS: 98.2 110/64 83 18 100%RA
+General: NAD, A+Ox3
+HEENT: anicteric sclera, mild pallor, EOMI, PERRL
+Neck: supple, non-elevated JVP
+CV: RRR, no m/r/g, nl s1&s2
+Lungs: CTAB, no wheeze/rales/rhonchi
+Abdomen: soft, NT/ND, no hsm, +BS
+GU: no foley, otherwise deferred
+Ext: WWP, no pitting edema, +2 pulses distally
+Neuro: CN II-XII intact
+Skin: no rash
+ 
+Pertinent Results:
+admission:
+---------
+
+___ 02:50PM BLOOD WBC-4.7 RBC-3.67* Hgb-9.9* Hct-31.8* 
+MCV-87 MCH-26.9* MCHC-31.0 RDW-13.9 Plt ___
+___ 02:50PM BLOOD Neuts-45.3* Lymphs-45.6* Monos-7.1 
+Eos-1.4 Baso-0.7
+___ 03:08PM BLOOD ___ PTT-27.3 ___
+___ 02:50PM BLOOD Glucose-90 UreaN-11 Creat-1.0 Na-140 
+K-4.3 Cl-107 HCO3-27 AnGap-10
+___ 07:00AM BLOOD Calcium-9.1 Phos-3.0 Mg-2.2
+
+discharge:
+--------
+
+___ 08:15AM BLOOD WBC-3.6* RBC-3.90* Hgb-10.2* Hct-34.2* 
+MCV-88 MCH-26.2* MCHC-29.9* RDW-14.2 Plt ___
+
+imaging:
+-------
+
+___ CT Ab/P
+1.  No CT evidence for small bowel mass.  Given that proximal 
+loops of small
+bowel are collapsed, correlation with capsule endoscopy results 
+is recommended
+as CT is insensitive for small, small bowel lesions.  
+2.  Filling defects persist within subsegmental vascular 
+branches of the
+bilateral lower lobes, likely due to pulmonary emboli.  
+Dedicated chest CT
+examination could be performed for more complete assessment of 
+extent of
+thrombus.
+
+___ Ab XR
+1.  Capsule projecting over the right mid lateral abdomen, 
+likely within the
+ascending colon.  No evidence of bowel obstruction.
+
+___ ballon endoscopy:
+1. Erythema in stomach
+2. Delayed gastric emptying
+3. Lymphangiectasia in small bowel
+4. ___ small ileal angioectasias (nonbleeding)
+
+___ CT Ab/P
+1.  Small bilateral segmental pulmonary emboli in the lower 
+lobes.  No evidence of right heart strain.  
+2.  No active extravasation of contrast within the small bowel 
+and colon to suggest active bleeding.  
+3.  Left renal cyst.  
+4.  Small hydrocele.  
+
+___ colonoscopy:
+Grade 1 internal hemorrhoids
+Fresh blood was noted throughout the colon and into the terminal 
+ileum. No active source of bleeding was identified. Highly 
+suspicious though for a small bowel lesion.
+Otherwise normal colonoscopy to cecum and 15cm into terminal 
+ileum
+
+___ EGD: 
+Normal esophagus.
+Normal stomach.
+Normal duodenum.
+
+ 
+ 
+Brief Hospital Course:
+___ yo M w/ hx of iron deficiency anemia orginally attributed to 
+chronic NSAID use admitted after colonoscopy showed fresh blood 
+in the colon into the terminal ileum suspicious for small bowel 
+lesion.
+
+# Gastrointestinal bleeding, NOS- CTA was unsuccesful at 
+localization of source of bright red blood. He then underwent 
+capsule endoscopy which revealed gastritis, delayed gastric 
+emptying and  ileal angioectasias which may have been the source 
+of his bleeding. Since the capsule ran out of battery before 
+traversing his entire intestine, he underwent CT abdomen which 
+was unrevealing for any source of bleeding. His H&H was trended 
+and was stable and he had no episodes of hematochezia or melena 
+during his hospitalization. He was started on a PPI twice daily. 
+
+
+# H. pylori infection - Started on triple therapy with a PPI, 
+clarithromycin, and amoxicilin.
+
+# Pulmonary embolism - Likely source of pts SOB and unilateral 
+leg swelling that prompted presentation to ___. Unprovoked 
+in the absence of risk factors including recent immobilization, 
+long travel with prolonged periods of being sedentary. PE was 
+noted incidentally on CTA done to evaluate bleeding source. He 
+was started on a heparin drip and then transitioned to lovenox.  
+His H/H remained stable while on anticoagulation. He was also 
+started on coumadin. He will follow up with his PCP who will 
+manage his anti-coagulation. 
+
+# Iron deficiency anemia - Likely from GIB, continued on iron 
+pills. 
+
+TRANSITIONAL ISSUES:
+* f/u INR as outpatient
+* f/u CBC as outpatient to ensure resolution of iron deficiency
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+2. Ferrous Sulfate 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Amoxicillin 1000 mg PO Q12H Duration: 10 Days 
+RX *amoxicillin 500 mg 2 capsule(s) by mouth twice a day Disp 
+#*40 Capsule Refills:*0
+2. Clarithromycin 500 mg PO Q12H Duration: 10 Days 
+RX *clarithromycin 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*20 Tablet Refills:*0
+3. Enoxaparin Sodium 90 mg SC Q12H 
+Start: ___, First Dose: Next Routine Administration Time 
+RX *enoxaparin 100 mg/mL 90 mg SC q12hr Disp #*30 Syringe 
+Refills:*0
+4. Ferrous Sulfate 325 mg PO DAILY 
+5. Omeprazole 40 mg PO BID 
+RX *omeprazole 40 mg 1 capsule(s) by mouth twice a day Disp #*60 
+Capsule Refills:*0
+6. Warfarin 3 mg PO DAILY16 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY: 
+1. acute blood loss anemia 
+2. acute gastrointestinal bleed
+3. bilateral pulmonary emboli
+4. iron deficiency anemia 
+5. H pylori infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you at the ___ 
+___. You were admitted because during your 
+outpatient colonoscopy and EGD, you were found to have blood in 
+your intestines. Out of concern for an acute bleed from your 
+gastrointestinal tract, you were brought to the hospital for 
+further evaluation. We had the GI team see you who recommended 
+capsule endoscopy - this entailed swallowing a camera to get a 
+look at your intestines. This revealed AVMs (arteriovenous 
+malformations - or abnormal connections between your arteries 
+and veins) in your intestines. AVMs are common sources of 
+bleeding. 
+
+Also, while you were here, you underwent a CT scan in an attempt 
+to localize the source of your bleeding. This CT scan found 
+bilateral blood clots in your lungs. These blood clots are 
+called pulmonary emboli. They are likely contributing to your 
+shortness of breath. We started to anticoagulate you (meaning we 
+thinned your blood) as a treatment to prevent more clots from 
+forming and to dissolve the ones that are present. You will do 
+shots of lovenox while taking coumadin until your INR is in the 
+appropriate range. Your goal INR will be between ___.
+
+You were also started on antibiotics for a stomach infection 
+called H. pylori. You will take these for a total of 10-days.
+
+It is extremely important to follow up with your Primary Care 
+Doctor ___ see below for upcoming appointments).
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10503925-DS-11 | hadm_id=29215444
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pneumothorax post port placement
+ 
+Major Surgical or Invasive Procedure:
+Placement of left subclavian Port-A-Cath under fluoroscopy
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with a medical history of 
+Gastric Cancer.  He presented at ___ on ___ for the 
+placement of a left subclavian port under fluoroscopy for 
+initiation of neoadjuvant chemotherapy.  Post-operative x-ray 
+showed a small left apical pneumothorax.  Repeat x-ray showed 
+interval enlargement of the pneumothorax without evidence of 
+tension so he was admitted for observation, O2 therapy, and 
+repeat chest film the following day. 
+ 
+Past Medical History:
+Past Medical History
+H Pylori gastritis,
+GERD,
+iron deficiency anemia
+hemorroids
+
+Past Surgical History
+two shoulder arthroscopies
+ 
+Social History:
+___
+Family History:
+No family history of colon, gastric, esophageal cancer, or IBD
+ 
+Physical Exam:
+Gen: NAD
+Resp: CTAB, unlabored, decreased breath sounds at left apex
+Chest: L port site c/d/I, histoacryl over incisions. No 
+erythema. Soft, no hematoma. 
+CV: RRR
+Abd: s/nt/nd
+ 
+Pertinent Results:
+CXR: ___: 8:51 AM
+IMPRESSION:
+1. New left Port-A-Cath with tip in the distal SVC.
+2. Small left apical pneumothorax with partial collapse of the 
+left upper
+lobe, without evidence of tension.
+
+CXR: ___: 12:05 ___
+IMPRESSION: 
+ Compared to ___ at 08:51, increased size of left 
+apical pneumothoraxwith persistent volume loss in the left upper 
+lobe, but no evidence of tension.  Otherwise, unchanged.
+
+ CXR: ___ 9:28 AM 
+Compared to ___, the left apical pneumothorax is not 
+significantly changed in size. There is no evidence of tension. 
+There is improved ventilation of the lung bases. Previously seen 
+left upper lobe opacification is less distinct. The 
+cardiomediastinal and hilar contours are normal and unchanged. 
+No pulmonary edema or pleural effusions. 
+  
+IMPRESSION: 
+1. Compared to ___, no significant change in appearance 
+of the left  apical pneumothorax, without evidence of tension. 
+2. Improved ventilation of the left upper lobe and bilateral 
+lung bases. 
+
+ 
+Brief Hospital Course:
+Mr. ___ underwent a left subclavian port placement on 
+___.  The port and wire were placed without difficulty, and 
+intraoperative chest xray confirmed placement of the line in the 
+right atrium.  Post operative xray showed a small apical left 
+pneumothorax without evidence of tension.  Repeat cxr 3 hours 
+later showed interval enlargement of the pneumothorax, still 
+without evidence of tension.  The remained largely asymptomatic, 
+but was admitted to ___ for observation.
+
+Since admission he was placed on 2L NC of oxygen and has 
+relatively asymptomatic.  He endorses some mild tenderness at 
+the port insertion site. His O2 sats have ranged from 98-100% on 
+2L NC and he has denied SOB. He had no change in symptoms when 
+oxygen was removed. He had no acute overnight events. Repeat 
+xray on POD1 showed stable size of the pneumothorax from the 
+prior film. His medical oncologist was notified of the 
+pneumothorax and we will plan to have him undergo a repeat CXR 
+within the next week when he returns for an appointment. He will 
+be contacted regarding scheduling. He will have close follow up 
+with Dr. ___ as well while undergoing neoadjuvant chemotherapy 
+for surgical planning. He is cleared to undergo tooth extraction 
+today. 
+ 
+Medications on Admission:
+omeprazole 40 mg BID
+sucralfate 1 gm
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO TID  
+2.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 6 hours Disp #*10 
+Tablet Refills:*0 
+3.  Omeprazole 40 mg PO BID  
+4.  Sucralfate 1 gm PO QID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pneumothorax, gastric adenocarcinoma
+ 
+Discharge Condition:
+Mental status: clear and coherent
+Level of consciousness: Alert and interactive
+Activity status: ambulatory--independent
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___ 
+___.  You under went a left subclavian port placement 
+which was complicated by a left pneumothorax.  You are now safe 
+to return home with the following Instructions.
+
+Please call your doctor or nurse practitioner if you experience 
+the following:
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+*New or worsening cough, shortness of breath, or wheeze.
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+*You are getting dehydrated due to continued vomiting, 
+diarrhea,or other reasons. Signs of dehydration include dry 
+mouth, rapid heartbeat, or feeling dizzy or faint when standing.
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+*Your pain is not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+General Discharge Instructions:
+Please resume all regular home medications , unless specifically 
+advised not to take a particular medication. Also, please take 
+any new medications as prescribed. Please get plenty of rest, 
+continue to ambulate several times per day, and drink adequate 
+amounts of fluids.   Avoid driving or operating heavy machinery 
+while taking pain medications. 
+
+Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+ 
+Followup Instructions:
+___

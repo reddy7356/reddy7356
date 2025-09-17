@@ -1,0 +1,1699 @@
+===== DISCHARGE NOTE =====
+note_id=11323975-DS-13 | hadm_id=20614271
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Iodine Containing Agents Classifier / Uroxatral / Simvastatin / 
+Zetia / Coreg / Celexa / Oxazepam / Lipitor / Lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left knee pain, osteoarthritis
+ 
+Major Surgical or Invasive Procedure:
+Left total knee replacement
+
+ 
+History of Present Illness:
+___ year old male with left knee pain/OA has failed conservative 
+measures and now elects to undergo definitive surgical 
+management.
+ 
+Past Medical History:
+Hypertension  
+CAD (MI x2 in ___ and ___)  
+Spinal Stenosis  
+GERD  
+BPH  
+OSA (does not require CPAP)  
+Anxiety  
+Prior alcohol abuse, sober ___ years  
+s/p laparoscopic cholecystectomy ___  
+s/p repair of bilateral rotator cuff  
+Right knee arthroscopy  
+
+ 
+Social History:
+___
+Family History:
+Mother had a 4-vessel CABG, was diabetic (bilateral lower 
+extremity amputation and renal failure, and died at age ___ of 
+multiple causes.  Father died of widely metastatic cancer, no 
+primary source ever found, in his mid ___.  Pt has a sister who 
+is healthy.
+ 
+Physical Exam:
+Well appearing in no acute distress  
+Afebrile with stable vital signs  
+Pain well-controlled  
+Respiratory: CTAB  
+Cardiovascular: RRR  
+Gastrointestinal: NT/ND  
+Genitourinary: Voiding independently  
+Neurologic: Intact with no focal deficits  
+Psychiatric: Pleasant, A&O x3  
+Musculoskeletal Lower Extremity:  
+* Incision healing well with staples  
+* Scant serosanguinous drainage  
+* Thigh full but soft  
+* No calf tenderness  
+* ___ strength  
+* SILT, NVI distally  
+* Toes warm
+ 
+Pertinent Results:
+___ 07:00AM BLOOD WBC-7.8 RBC-3.23* Hgb-10.1* Hct-29.0* 
+MCV-90 MCH-31.3 MCHC-34.8 RDW-12.2 RDWSD-39.8 Plt ___
+___ 07:00AM BLOOD WBC-9.2 RBC-3.14* Hgb-9.9* Hct-28.4* 
+MCV-90 MCH-31.5 MCHC-34.9 RDW-12.4 RDWSD-40.6 Plt Ct-93*
+___ 07:40AM BLOOD WBC-10.7*# RBC-3.82* Hgb-12.0* Hct-33.8* 
+MCV-89 MCH-31.4 MCHC-35.5 RDW-12.3 RDWSD-39.0 Plt ___
+___ 03:18PM BLOOD WBC-5.3 RBC-4.01* Hgb-12.5* Hct-36.2* 
+MCV-90 MCH-31.2 MCHC-34.5 RDW-12.2 RDWSD-39.7 Plt ___
+___ 07:00AM BLOOD Plt ___
+___ 12:47PM BLOOD Plt Ct-97*
+___ 07:00AM BLOOD Plt Smr-LOW Plt Ct-93*
+___ 07:40AM BLOOD Plt ___
+___ 03:18PM BLOOD Plt ___
+___ 07:00AM BLOOD Glucose-136* UreaN-13 Creat-0.7 Na-134 
+K-3.6 Cl-100 HCO3-29 AnGap-9
+___ 07:00AM BLOOD Glucose-143* UreaN-16 Creat-0.8 Na-135 
+K-4.0 Cl-101 HCO3-29 AnGap-9
+___ 07:40AM BLOOD Glucose-162* UreaN-21* Creat-0.8 Na-137 
+K-4.0 Cl-103 HCO3-27 AnGap-11
+___ 03:18PM BLOOD Glucose-89 UreaN-12 Creat-0.8 Na-141 
+K-4.1 Cl-106 HCO3-29 AnGap-10
+___ 07:00AM BLOOD Calcium-9.0 Phos-2.6* Mg-1.4*
+___ 07:00AM BLOOD Calcium-8.6 Phos-2.3* Mg-1.5*
+___ 07:40AM BLOOD Calcium-8.5 Phos-3.5 Mg-1.8
+___ 03:18PM BLOOD Calcium-9.0 Mg-1.5*
+ 
+Brief Hospital Course:
+The patient was admitted to the orthopedic surgery service and 
+was taken to the operating room for above described procedure. 
+Please see separately dictated operative report for details. The 
+surgery was uncomplicated and the patient tolerated the 
+procedure well. Patient received perioperative IV antibiotics.
+
+Otherwise, pain was controlled with a combination of IV and oral 
+pain medications.  The patient received Lovenox for DVT 
+prophylaxis starting on the morning of POD#1.  The foley was 
+removed and the patient was voiding independently thereafter. 
+The surgical dressing was changed on POD#2 and the surgical 
+incision was found to be clean and intact without erythema or 
+abnormal drainage. The patient was seen daily by physical 
+therapy. Labs were checked throughout the hospital course and 
+repleted accordingly. At the time of discharge the patient was 
+tolerating a regular diet and feeling well.  The patient was 
+afebrile with stable vital signs.  The patient's hematocrit was 
+acceptable and pain was adequately controlled on an oral 
+regimen. The operative extremity was neurovascularly intact and 
+the wound was benign. 
+
+The patient's weight-bearing status is weight bearing as 
+tolerated on the operative extremity.
+ 
+Mr. ___ is discharged to home with services in stable 
+condition.
+
+ 
+Medications on Admission:
+1. Aspirin 81 mg PO DAILY 
+2. Finasteride 5 mg PO DAILY 
+3. Losartan Potassium 100 mg PO DAILY 
+4. Metoprolol Succinate XL 12.5 mg PO DAILY 
+5. Nitroglycerin SL 0.4 mg SL PRN chest pain 
+6. Omeprazole 20 mg PO DAILY 
+7. Paroxetine 5 mg PO DAILY 
+8. fish oil-dha-epa ___ mg oral DAILY 
+9. MetFORMIN XR (Glucophage XR) 750 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Finasteride 5 mg PO DAILY 
+3. Losartan Potassium 100 mg PO DAILY 
+4. MetFORMIN XR (Glucophage XR) 750 mg PO DAILY 
+5. Metoprolol Succinate XL 12.5 mg PO DAILY 
+6. Nitroglycerin SL 0.4 mg SL PRN chest pain 
+7. Omeprazole 20 mg PO DAILY 
+8. Paroxetine 5 mg PO DAILY 
+9. fish oil-dha-epa ___ mg oral DAILY 
+10. Acetaminophen 1000 mg PO Q8H 
+11. Docusate Sodium 100 mg PO BID 
+12. Enoxaparin Sodium 40 mg SC Q24H 
+13. Gabapentin 300 mg PO TID 
+14. HYDROmorphone (Dilaudid) ___ mg PO Q3H:PRN pain 
+15. Senna 8.6 mg PO BID 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left knee pain, osteoarthritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+1. Please return to the emergency department or notify your 
+physician if you experience any of the following: severe pain 
+not relieved by medication, increased swelling, decreased 
+sensation, difficulty with movement, fevers greater than 101.5, 
+shaking chills, increasing redness or drainage from the incision 
+site, chest pain, shortness of breath or any other concerns.
+ 
+2. Please follow up with your primary physician regarding this 
+admission and any new medications and refills. 
+ 
+3. Resume your home medications unless otherwise instructed.
+ 
+4. You have been given medications for pain control. Please do 
+not drive, operate heavy machinery, or drink alcohol while 
+taking these medications. As your pain decreases, take fewer 
+tablets and increase the time between doses. This medication can 
+cause constipation, so you should drink plenty of water daily 
+and take a stool softener (such as Colace) as needed to prevent 
+this side effect.  Call your surgeons office 3 days before you 
+are out of medication so that it can be refilled.  These 
+medications cannot be called into your pharmacy and must be 
+picked up in the clinic or mailed to your house.  Please allow 
+an extra 2 days if you would like your medication mailed to your 
+home.
+ 
+5. You may not drive a car until cleared to do so by your 
+surgeon.
+ 
+6. Please call your surgeon's office to schedule or confirm your 
+follow-up appointment.
+ 
+7. SWELLING: Ice the operative joint 20 minutes at a time, 
+especially after activity or physical therapy. Do not place ice 
+directly on the skin. You may wrap the knee with an ace bandage 
+for added compression. Please DO NOT take any non-steroidal 
+anti-inflammatory medications (NSAIDs such as Celebrex, 
+ibuprofen, Advil, Aleve, Motrin, naproxen etc).
+ 
+8. ANTICOAGULATION: Please continue your Lovenox for four (4) 
+weeks to help prevent deep vein thrombosis (blood clots).  If 
+you were taking aspirin prior to your surgery, it is OK to 
+continue at your previous dose while taking this medication.  
+___ STOCKINGS x 6 WEEKS.
+ 
+9. WOUND CARE: Please keep your incision clean and dry. It is 
+okay to shower five days after surgery but no tub baths, 
+swimming, or submerging your incision until after your four (4) 
+week checkup. Please place a dry sterile dressing on the wound 
+each day if there is drainage, otherwise leave it open to air. 
+Check wound regularly for signs of infection such as redness or 
+thick yellow drainage. Staples will be removed at your follow-up 
+appointment in two weeks.
+ 
+10. ___ (once at home): Home ___, dressing changes as 
+instructed, wound checks.
+ 
+11. ACTIVITY: Weight bearing as tolerated on the operative 
+extremity. Mobilize.  ROM as tolerated. No strenuous exercise or 
+heavy lifting until follow up appointment.
+Physical Therapy:
+WBAT LLE
+No range of motion restrictions
+Mobilize frequently
+
+Treatments Frequency:
+daily dressing changes as needed for drainage
+wound checks daily
+ice
+staple removal and replace with steri-strips (at follow up visit 
+on POD14-17)
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11323975-DS-14 | hadm_id=20694436
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Iodine Containing Agents Classifier / Uroxatral / Simvastatin / 
+Zetia / Coreg / Celexa / Oxazepam / Lipitor / Lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dizziness, Diaphoretic
+ 
+Major Surgical or Invasive Procedure:
+CABG x 2 Lima to LAD, SVG to OM
+ 
+History of Present Illness:
+___ year old male who originally
+presented to ___ after doing yard work on ___ he
+developed dizziness without chest pain.  He subsequently
+developed diarrhea and diaphoresis and reports these symptoms
+were similar to prior MI's. While at ___ troponins
+increased to 0.435 and it was determined to transfer him to 
+___
+for a cardiac catheterization. Cath demonstrated 80& OM and 100% 
+LAD.. Scheduled for surgery ___
+ 
+Past Medical History:
+Arthritis
+BPH
+GERD
+Anxiety
+Sleep Apnea (pt denies)
+Spinal Stenosis (pt denies)
+H/O ETOH (sober x ___ yrs)
+Osteoarthritis
+Kidney Stones
+Hypertension
+Hyperlipidemia
+Diabetes
+Coronary Artery Disease s/p Prior MI's and PCI's
+ 
+Social History:
+___
+Family History:
+Premature CAD Mother CABG x 4
+ 
+Physical Exam:
+Pulse:61 Resp:18  O2 sat:95/RA
+B/P  Right: 129/66 
+Height:5'3"   Weight:74.8 kg pre op (78.2kg at discharge)
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs decreased bibasilar bilaterally
+Heart: RRR [x]  Irregular [] 
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused []  Edema [] 1+ pedal edema
+___ varicosities present
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: p   Left: p
+DP           Right: p   Left: p
+___           Right: p   Left: p
+Radial       Right: p   Left: p
+
+Carotid Bruit: None
+ 
+Pertinent Results:
+___ 04:20AM BLOOD WBC-9.4 RBC-3.33* Hgb-10.2* Hct-30.6* 
+MCV-92 MCH-30.6 MCHC-33.3 RDW-12.8 RDWSD-42.6 Plt ___
+___ 06:50AM BLOOD WBC-11.4* RBC-3.34* Hgb-10.1* Hct-30.7* 
+MCV-92 MCH-30.2 MCHC-32.9 RDW-12.8 RDWSD-42.6 Plt ___
+___ 06:00AM BLOOD WBC-6.9 RBC-4.46* Hgb-13.5* Hct-39.7* 
+MCV-89 MCH-30.3 MCHC-34.0 RDW-12.3 RDWSD-39.8 Plt ___
+___ 10:41AM BLOOD Neuts-77.1* Lymphs-15.9* Monos-4.5* 
+Eos-1.3 Baso-0.4 Im ___ AbsNeut-8.41*# AbsLymp-1.74 
+AbsMono-0.49 AbsEos-0.14 AbsBaso-0.04
+___ 04:20AM BLOOD Plt ___
+___ 06:50AM BLOOD Plt ___
+___ 04:20AM BLOOD Glucose-133* UreaN-23* Creat-1.0 Na-138 
+K-4.3 Cl-100 HCO3-27 AnGap-15
+___ 06:50AM BLOOD Glucose-149* UreaN-21* Creat-0.9 Na-134 
+K-4.2 Cl-98 HCO3-26 AnGap-14
+___ 06:00AM BLOOD UreaN-13 Creat-0.8 Na-137 K-4.1 Cl-101 
+HCO3-26 AnGap-14
+___ 06:00AM BLOOD ALT-13 AST-15 CK(CPK)-41* AlkPhos-62 
+TotBili-0.5
+___ 04:20AM BLOOD Mg-1.8
+___ 06:01PM BLOOD Type-ART pO2-105 pCO2-40 pH-7.38 
+calTCO2-25 Base XS-0
+
+Pre-bypass
+
+ The left atrium is mildly dilated. No spontaneous echo contrast 
+or thrombus is seen in the body of the left atrium or left 
+atrial appendage. No atrial septal defect is seen by 2D or color 
+Doppler. There is mild symmetric left ventricular hypertrophy. 
+The left ventricular cavity size is normal. There is mild 
+regional left ventricular systolic dysfunction with inferior and 
+inferolateral hypokinesis (EF 45-50%). Doppler parameters are 
+most consistent with Grade I (mild) left ventricular diastolic 
+dysfunction. Right ventricular chamber size and free wall motion 
+are normal. The aortic valve leaflets (3) are mildly thickened. 
+There is no aortic valve stenosis. Trace aortic regurgitation is 
+seen. The mitral valve leaflets are mildly thickened. Trivial 
+mitral regurgitation is seen. There is an anterior space which 
+most likely represents a prominent fat pad. 
+
+ECHO ___
+ Post-bypass
+
+ The patient is in sinus rhythm and receiving an phenylephrine 
+infusion.
+ LV function is unchanged (EF 45-50%) with inferior and 
+inferolateral hypokinesis. There are no new wall motion 
+abnormalities.
+ RV function remains preserved.
+ MR, TR, and AI remain trivial.
+ The thoracic aorta is intact following decannulation.
+
+CXR ___
+
+Comparison to ___.  The right internal jugular vein 
+catheter has been 
+removed.  The alignment of the sternal wires is constant.  
+Constant moderate 
+cardiomegaly.  Bilateral areas of atelectasis, caused by minimal 
+bilateral 
+pleural effusions that are better appreciated on the lateral 
+than on the 
+frontal radiograph.  No pneumothorax.  No pneumonia.  No 
+pulmonary edema. 
+
+ 
+Brief Hospital Course:
+Pt was transferred ___ from ___ for NSTEMI and and to 
+undergo cardiac cath. He was brought to the operating room on 
+___ where he underwent a 2V CABG. Overall the patient tolerated 
+the procedure well and post-operatively was transferred to the 
+CVICU in stable condition for recovery and invasive monitoring. 
+He remained on Neosynephrine for hypotension until ___. POD ___xtubated, alert and oriented and breathing 
+comfortably. He remained neurologically intact and 
+hemodynamically stable on no inotropic support. Beta blocker was 
+initiated and the patient was gently diuresed toward his 
+preoperative weight. He was transferred to the post cardiac 
+surgery floor ___. Chest tubes and pacing wires were 
+discontinued without complication. Pt had one three hour episode 
+of Afib rate of 120's, pt aware of rapid heart rate but no 
+hemodynamic compromise. Started on PO Amio and Lopressor. He was 
+evaluated by the physical therapy services for assistance with 
+strength and mobility. By POD 4 the patient was ambulating 
+freely, his sternal wound was healing and pain was controlled 
+with oral analgesics. He was discharged in good condition with 
+appropriate follow up instructions. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Finasteride 5 mg PO DAILY 
+2. Losartan Potassium 100 mg PO DAILY 
+3. Metoprolol Succinate XL 12.5 mg PO DAILY 
+4. MetFORMIN XR (Glucophage XR) 750 mg PO DAILY 
+5. Docusate Sodium 100 mg PO BID 
+6. Omeprazole 20 mg PO DAILY 
+7. PARoxetine 5 mg PO DAILY 
+8. Fish Oil (Omega 3) 1000 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Amiodarone 200 mg PO DAILY Duration: 30 Days 
+RX *amiodarone 200 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+2.  Aspirin EC 81 mg PO DAILY 
+RX *aspirin [Adult Low Dose Aspirin] 81 mg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*0 
+3.  Furosemide 40 mg PO DAILY Duration: 5 Days 
+RX *furosemide 40 mg 1 tablet(s) by mouth daily Disp #*5 Tablet 
+Refills:*0 
+4.  Metoprolol Tartrate 12.5 mg PO BID 
+RX *metoprolol tartrate 25 mg 0.5 (One half) tablet(s) by mouth 
+twice a day Disp #*60 Tablet Refills:*0 
+5.  Milk of Magnesia 30 mL PO DAILY:PRN constipation  
+6.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain: 
+moderate/severe 
+RX *oxycodone 5 mg ___ tablet(s) by mouth q 4  hours Disp #*60 
+Tablet Refills:*0 
+7.  Potassium Chloride 10 mEq PO DAILY Duration: 5 Days 
+Hold for K >4.5 
+RX *potassium chloride 10 mEq 1 tablet(s) by mouth daily Disp 
+#*5 Tablet Refills:*0 
+8.  Losartan Potassium 50 mg PO DAILY  
+9.  MetFORMIN XR (Glucophage XR) 750 mg PO BID  
+10.  PARoxetine 5 mg PO QOD  
+11.  Docusate Sodium 100 mg PO BID Duration: 30 Days 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*60 Capsule Refills:*0 
+12.  Finasteride 5 mg PO DAILY  
+13.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary Artery Disease
+Non-ST Elevation Myocardial Infarction.
+
+Anxiety
+BPH
+Diabetes Mellitus Type II
+Gastroesophageal Reflux Disease
+Hyperlipidemia
+Hypertension
+Myocardial Infraction, ___
+Nephrolithiasis
+Obstructive Sleep Apnea, not on CPAP
+Osteoarthritis 
+Spinal Stenosis
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+Edema: +1 lower extremity
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11323975-DS-15 | hadm_id=24351367
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Iodine Containing Agents Classifier / Uroxatral / Simvastatin / 
+Zetia / Coreg / Celexa / Oxazepam / Lipitor / Lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right knee pain
+ 
+Major Surgical or Invasive Procedure:
+___: right total knee replacement by ___, MD
+
+ 
+History of Present Illness:
+___ year old male with right knee osteoarthritis which has failed 
+conservative management and has elected to proceed with a right 
+total knee replacement on ___
+ 
+Past Medical History:
+PMH: HTN, CAD (MI x 2 in ___ and ___) spinal stenosis, GERD, BPH, 
+anxiety, OSA not on CPAP, hx of alcohol abuse.
+
+PSHx: lap chole (___) b/l rotator cuff repair, R knee 
+arthroscopy,  CABG x2 (___), R cataract surgery (___) 
+femur ORIF (___) removal of hardware (___) left TKA by DKA 
+(___)
+ 
+Social History:
+___
+Family History:
+non contributory 
+ 
+Physical Exam:
+Well appearing in no acute distress  
+Afebrile with stable vital signs  
+Pain well-controlled  
+Respiratory: CTAB  
+Cardiovascular: RRR  
+Gastrointestinal: NT/ND  
+Genitourinary: Voiding independently  
+Neurologic: Intact with no focal deficits  
+Psychiatric: Pleasant, A&O x3  
+Musculoskeletal Lower Extremity:  
+* Incision healing well with staples  
+* Scant serosanguinous drainage  
+* Thigh full but soft  
+* No calf tenderness  
+* ___ strength  
+* SILT, NVI distally  
+* Toes warm
+
+ 
+Pertinent Results:
+___ 07:45AM BLOOD WBC-10.1* RBC-3.72* Hgb-10.9* Hct-31.9* 
+MCV-86 MCH-29.3 MCHC-34.2 RDW-12.2 RDWSD-38.1 Plt ___
+___ 07:15AM BLOOD WBC-11.6*# RBC-3.71* Hgb-11.1*# 
+Hct-31.8*# MCV-86 MCH-29.9 MCHC-34.9 RDW-12.1 RDWSD-37.4 Plt 
+___
+___ 07:45AM BLOOD Plt ___
+___ 07:15AM BLOOD Plt ___
+___ 07:45AM BLOOD Glucose-188* UreaN-15 Creat-0.8 Na-141 
+K-3.7 Cl-103 HCO3-26 AnGap-12
+___ 07:15AM BLOOD Glucose-143* UreaN-17 Creat-0.9 Na-143 
+K-4.2 Cl-102 HCO3-24 AnGap-17*
+___ 07:15AM BLOOD Calcium-8.4 Phos-2.9 Mg-1.3*
+ 
+Brief Hospital Course:
+The patient was admitted to the orthopedic surgery service and 
+was taken to the operating room for above described procedure. 
+Please see separately dictated operative report for details. The 
+surgery was uncomplicated and the patient tolerated the 
+procedure well. Patient received perioperative IV antibiotics.
+
+Postoperative course was unremarkable.
+
+Otherwise, pain was controlled with a combination of IV and oral 
+pain medications. The patient received Lovenox for DVT 
+prophylaxis starting on the morning of POD#1.  The foley was 
+removed and the patient was voiding independently thereafter. 
+The surgical dressing was changed on POD#2 and the surgical 
+incision was found to be clean and intact without erythema or 
+abnormal drainage. The patient was seen daily by physical 
+therapy. Labs were checked throughout the hospital course and 
+repleted accordingly. At the time of discharge the patient was 
+tolerating a regular diet and feeling well.  The patient was 
+afebrile with stable vital signs.  The patient's hematocrit was 
+acceptable and pain was adequately controlled on an oral 
+regimen. The operative extremity was neurovascularly intact and 
+the wound was benign. 
+
+The patient's weight-bearing status is weight bearing as 
+tolerated on the operative extremity.
+ 
+Mr. ___ is discharged to home with services in stable 
+condition.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. alirocumab 150 mg/mL subcutaneous 1 ml sc every 4 weeks 
+2. amLODIPine 5 mg PO DAILY 
+3. Finasteride 5 mg PO DAILY 
+4. Losartan Potassium 100 mg PO DAILY 
+5. MetFORMIN XR (Glucophage XR) 500 mg PO DAILY 
+6. Metoprolol Succinate XL 12.5 mg PO DAILY 
+7. Nitroglycerin SL 0.4 mg SL 1 TABLET SL AS NEEDED angina 
+8. Omeprazole 20 mg PO DAILY 
+9. Januvia (SITagliptin) 50 mg oral DAILY 
+10. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Docusate Sodium 100 mg PO BID 
+stop taking if having loose stools 
+2.  Enoxaparin Sodium 40 mg SC DAILY 
+Start: ___, First Dose: Next Routine Administration Time 
+3.  Senna 8.6 mg PO BID 
+stop taking if having loose stools  
+4.  TraMADol ___ mg PO Q4H:PRN pain 
+Do not drive or consume alcohol while taking med 
+5.  Acetaminophen 500 mg PO Q4H  
+6.  amLODIPine 5 mg PO DAILY  
+7.  Aspirin 81 mg PO DAILY  
+8.  Finasteride 5 mg PO DAILY  
+9.  Januvia (SITagliptin) 50 mg oral DAILY  
+10.  Losartan Potassium 100 mg PO DAILY  
+11.  MetFORMIN XR (Glucophage XR) 500 mg PO DAILY  
+12.  Metoprolol Succinate XL 12.5 mg PO DAILY  
+13.  Nitroglycerin SL 0.4 mg SL 1 TABLET SL AS NEEDED angina  
+14.  Omeprazole 20 mg PO DAILY  
+15. HELD- alirocumab 150 mg/mL subcutaneous 1 ml sc every 4 
+weeks  This medication was held. Do not restart alirocumab until 
+3 weeks post op
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+right knee osteoarthritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+1. Please return to the emergency department or notify your 
+physician if you experience any of the following: severe pain 
+not relieved by medication, increased swelling, decreased 
+sensation, difficulty with movement, fevers greater than 101.5, 
+shaking chills, increasing redness or drainage from the incision 
+site, chest pain, shortness of breath or any other concerns.
+ 
+2. Please follow up with your primary physician regarding this 
+admission and any new medications and refills. 
+ 
+3. Resume your home medications unless otherwise instructed.
+ 
+4. You have been given medications for pain control. Please do 
+not drive, operate heavy machinery, or drink alcohol while 
+taking these medications. As your pain decreases, take fewer 
+tablets and increase the time between doses. This medication can 
+cause constipation, so you should drink plenty of water daily 
+and take a stool softener (such as Colace) as needed to prevent 
+this side effect.  Call your surgeons office 3 days before you 
+are out of medication so that it can be refilled.  These 
+medications cannot be called into your pharmacy and must be 
+picked up in the clinic or mailed to your house.  Please allow 
+an extra 2 days if you would like your medication mailed to your 
+home.
+ 
+5. You may not drive a car until cleared to do so by your 
+surgeon.
+ 
+6. Please call your surgeon's office to schedule or confirm your 
+follow-up appointment.
+ 
+7. SWELLING: Ice the operative joint 20 minutes at a time, 
+especially after activity or physical therapy. Do not place ice 
+directly on the skin. You may wrap the knee with an ace bandage 
+for added compression. Please DO NOT take any non-steroidal 
+anti-inflammatory medications (NSAIDs such as Celebrex, 
+ibuprofen, Advil, Aleve, Motrin, naproxen etc).
+ 
+8. ANTICOAGULATION: Please continue your Lovenox for four (4) 
+weeks to help prevent deep vein thrombosis (blood clots).  If 
+you were taking aspirin prior to your surgery, it is OK to 
+continue at your previous dose while taking this medication. 
+ 
+9. WOUND CARE: Please keep your incision clean and dry. It is 
+okay to shower five days after surgery but no tub baths, 
+swimming, or submerging your incision until after your four (4) 
+week checkup. Please place a dry sterile dressing on the wound 
+each day if there is drainage, otherwise leave it open to air. 
+Check wound regularly for signs of infection such as redness or 
+thick yellow drainage. Staples will be removed at your follow-up 
+appointment in two weeks.
+ 
+10. ___ (once at home): Home ___, dressing changes as 
+instructed, wound checks.
+ 
+11. ACTIVITY: Weight bearing as tolerated on the operative 
+extremity. Mobilize.  ROM as tolerated. No strenuous exercise or 
+heavy lifting until follow up appointment.
+
+Physical Therapy:
+WBAT RLE
+ROMAT
+Mobilize frequently
+Wean from assistive devices when appropriate
+Treatments Frequency:
+daily dressing changes as needed for drainage
+inspect incision daily for erythema/drainage 
+ice and elevation of operative limb
+remove staples and replace with steri-strips at follow up visit 
+in clinic.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11323975-DS-10 | hadm_id=25048840
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodine Containing Agents Classifier / Uroxatral / Simvastatin / 
+Zetia / Coreg / Celexa
+ 
+Attending: ___.
+ 
+Chief Complaint:
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catherization with percutaneous intervention
+
+ 
+History of Present Illness:
+This is a ___ yo male with pmh of STEMI x ___ s/p stent, htn, GERD 
+now with acute onset SOB within last week. As recently as 1 week 
+ago pt was able to go on a 15 mile bike ride with no problems. 
+He now describes that after walking up a flight of stairs from 
+the basement he felt so short of breath that he feared he might 
+die. At times he feels nauseous with the SOB. Pt denies chest 
+pain/pressure. He does get some epigastric discomfort that feels 
+more GI-related than cardiac. 
+.
+He also relates a chronic problem with swallowing- he feels as 
+though food and pills are sitting in the throat after swallowing 
+and gets a "funny feeling" in the epigastric region. This 
+problem has been worked up with repeat endoscopies as recently 
+as ___ and pt is on omeprazole. 
+.
+Cardiac history
+- Acute STEMI ___, status post PTCA/stent of total proximal 
+LCX occlusion with two Cypher ___ in series.
+- Status post non-DES 90% OM3, ___.
+- Repeat catheterization ___: Codominant system, LMCA 
+normal, LCX with patent stents, small OM stent restenotic 
+(approximately 60% in-stent restenosis), 40% proximal LAD, 50% 
+distal LAD, FFR across LAD lesion greater than 0.9, RCA small 
+and nondominant.
+- Recurrent inferolateral STEMI ___. Subtotal occlusion of 
+distal LCX beyond previously placed Cypher stent. Distal LCX 
+treated with 2.5 x 5-mm vision stent.
+.
+In the ED, initial vitals were T: 97.6 HR: 49 BP: 131/65 RR: 18 
+O2Sat: 100% on RA. CK and troponins were drawn. EKG checked. Pt 
+was noted to be bradycardic between 32-47 while sleeping. No 
+changes in BP. Exercise stress test was done and patient was 
+admitted for further evaluation and management.  
+
+ 
+Past Medical History:
+Prior MI x2, STEMI 
+Hypertension
+Dyslipidemia
+Hiatal hernia
+GERD
+BPH
+Anxiety
+Cholelithiasis
+Colon polyps
+Liver lesion
+Right shoulder rotator cuff tear s/p repair ___
+ 
+Social History:
+___
+Family History:
+Mother with CAD and DM2. Father with CVA late in life. Sister 
+without medical problems.
+ 
+Physical Exam:
+VS -  98.1  136/78  49  18  99% RA
+Gen: WDWN muscular man in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. EOMI. MM somewhat dry. No 
+xanthalesma.  
+Neck: Supple with no appreciable JVD. 
+CV: Bradycardic, normal S1, S2. No m/r/g. No thrills, lifts. No 
+S3 or S4.  
+Chest: Breathing is unlabored. CTAB, no crackles, wheezes or 
+rhonchi. No pain on palpation. 
+Abd: Soft, NTND. No HSM or tenderness. 
+Ext: No c/c/e. No femoral bruits.  
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+ 
+Pertinent Results:
+___ 12:15PM   WBC-6.5 RBC-4.80 HGB-15.0 HCT-40.5 MCV-84 
+MCH-31.3 MCHC-37.1* RDW-13.0 PLT COUNT-167
+___ 12:15PM   GLUCOSE-95 UREA N-16 CREAT-0.9 SODIUM-139 
+POTASSIUM-4.1 CHLORIDE-104 TOTAL CO2-26 ANION GAP-13
+___ 12:15PM   CK(CPK)-114 cTropnT-<0.01 CK-MB-5
+___ 06:15PM   cTropnT-<0.01 CK-MB-4
+.
+CXR ___
+FINDINGS: There is no acute cardiopulmonary process. There are 
+degenerative changes seen in the thoracic spine along with loss 
+of vertebral body height at multiple levels, unchanged since the 
+prior examination. 
+.
+Cardiac cath ___
+COMMENTS:      
+1. Selective coronary angiography of this left dominant system 
+revealed one vessel coronary artery disease. The LMCA was 
+normal. The LAD was a small vessel with mild disease. The 
+mid-LCX had a 90% stenosis after OM3. The distal LCX had a 
+40-50% stenosis. The proximal LCX stents were patent with mild 
+instent restenosis. 
+2. Limited resting hemodynamics revealed mild systemic arterial 
+hypertension with BP 145/63 mmHg. Left sided filling pressures 
+were elevated with an LVEDP of 23 mmHg. There was no transaortic 
+gradient on pullback of catheter from LV to aorta. 
+3. Left ventriculography demonstrated hypokinesis of inferior LV 
+wall with calculated LVEF of 50%. 
+FINAL DIAGNOSIS:     
+1. One vessel coronary artery disease. 
+2. Mild LV systolic dysfunction worse in the inferior LV wall. 
+3. Mild to moderate diastolic dysfunction. 
+.
+Exercise test ___
+___ year old male with history of CAD (h/o MI x 2, multiple 
+stents)referred for evaluation of shortness of breath. The 
+patient underwent ___ protocol and completed 2.75 minutes 
+___ METS), which is poor-to-fair exercise capacity. The 
+patient noted substernal chest tightness and difficulty 
+breathing at apporximately 2 minutes into the protocol. The 
+discomfort increased and the patient requested study 
+termination. The sensation resolved by 1 minute into recovery. 
+No significant ST changes from baseline were noted. The rhythm 
+was sinus with occasional isolated polymorphic VPBs and 
+occasional APBs. Blood pressure increased with the limited 
+exercise. 
+IMPRESSION: Exercise-limiting anginal-type symptoms in the 
+setting of
+no ischemic ST changes. 
+.  
+EGD ___
+Small hiatal hernia
+Mucosa suggestive of short segment ___ esophagus (biopsy)
+Polyps in the stomach body
+Erosion, nodularity, friability and erythema in the whole 
+stomach compatible with gastritis (biopsy)
+
+ 
+Brief Hospital Course:
+# Shortness of breath: 
+- Pt had history of inferolateral MIs, and at that time he did 
+not have exhibit any typical anginal chest pain/pressure, but 
+rather experienced lightheadedness and dizziness with heaviness 
+in the arms. 
+- Pt previously had very good exercise tolerance as evidenced in 
+Exercise MIBI in ___. Pt stated he was on a 15 mile 
+bike ride as recently as 1 week prior to presentation, but since 
+then, has been getting extremely SOB with much less exertion, 
+such as climbing just one flight of stairs. 
+- The fact that the patient's exercise tolerance dropped so 
+acutely was concerning for a new myocardial infarct or ischemia. 
+Exercise stress test with no imaging was done while being 
+observed in the ED. It did not reveal any new ischemic changes 
+on the EKG although the test had to be terminated due to extreme 
+SOB.
+- Pt's extensive cardiac history and symptomology were very 
+concerning for ongoing ischemia despite flat cardiac enzymes. Pt 
+underwent cardiac catherization with stent deployment to mid 
+LCx. (Please see cardiac cath report in OMR for details, as 
+final report is not available at this time). Pt tolerated the 
+procedure well, and was discharged home the next day with 
+instructions to continue ASA and Plavix and a follow-up 
+appointment with his cardiologist. 
+.
+# GASTROESOPHAGEAL REFLUX: pt had a history of GERD and feelings 
+of dysphagia. Pt had undergone endoscopies as recently as ___ which revealed many polyps, small hiatal hernia, and a 
+short segment of ___ esophagus. Some of pt's symptoms may 
+have been GI-related (food getting stuck, etc). Pt was 
+instructed to follow up with his gastroenterologist to receive 
+further evaluation if symptoms persist. 
+.
+# BENIGN PROSTATIC HYPERTROPHY: Pt has been followed by an 
+outpatient urologist. The condition appeared stable. Pt was 
+continued on his home medications.
+
+ 
+Medications on Admission:
+asa 81
+avodart 0.5 daily
+doxazosin 2 mg dialy
+Gas X PRN
+metoprolol 12.5 bid
+nitro SL 0.4 PRN
+omeprazole 20 BID
+Plavix 75 daily 
+Omega-3 fatty acids
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Avodart 0.5 mg Capsule Sig: One (1) Capsule PO once a day.  
+3. Doxazosin 1 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+4. Gas-X  Oral
+5. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).  
+6. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+7. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Omega-3 Fatty Acids     Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+9. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tablets 
+Sublingual Take 1 tab for chest pain. ___ take 1 more tablet if 
+chest pain is not relieved after 3 minutes. as needed for chest 
+pain: Call your cardiologist or go to ER if chest pain persists 
+after two Nitro tablets.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+Coronary artery disease 
+Secondary:
+Gastroesophageal reflux
+
+ 
+Discharge Condition:
+Good, with stable vital signs
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for evaluation of shortness of 
+breath. EKG and lab tests showed that you did not have a heart 
+attack. Exercise stress demonstrated that your exercise capacity 
+was significantly reduced since ___ of last year. Given 
+your significant cardiac history, your clinical symptoms were 
+concerning for worsening coronary artery disease. You underwent 
+cardiac catherization during which a stent was deployed to open 
+a vessel narrowing.
+.
+No changes have been made to your medication regimen. Please 
+resume taking all of your previous medications. 
+.
+If you experience chest pain, chest pressure that radiates to 
+the left arm, lightheadedness, or any other symptoms that 
+concern you, please call your cardiologist or return to the 
+emergency room. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11323975-DS-12 | hadm_id=26463565
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodine Containing Agents Classifier / Uroxatral / Simvastatin / 
+Zetia / Coreg / Celexa / Oxazepam / Lipitor / Lisinopril
+ 
+Attending: ___
+ 
+___ Complaint:
+hyperglycemia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with PMH CAD s/p MI x2 and prior alcohol abuse presenting 
+with 2 weeks of polydypsia and polyuria and hyperglycemia to 
+>500 at PCP ___. He was in his normal state of health when he 
+noticed he was drinking much more water than usual ___ cups) 
+and increased urine output at night ___ voids per night). He 
+also experienced fatigue, frontal headache, and occasional left 
+leg cramping at night that he describes as a ___ horse." He 
+denies URI symptoms, fever/chills, chest pain, SOB, diarrhea, 
+nausea/vomiting, or dysuria. No change in vision. Over the past 
+couple days, he does report indulging in more sweets than 
+typical because of the holidays.  
+ 
+In the ED, initial vs were 98.1 55 124/67 16 99% RA. He received 
+2L NS and Regular insulin 10 units IV.  
+On arrival to the floor, patient reports feeling well and denies 
+complaints. His vitals on arrival: 98.5 157/68 51 18 100RA.  
+ 
+REVIEW OF SYSTEMS:  
+Denies fever, chills, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, shortness of breath, 
+chest pain, abdominal pain, nausea, vomiting, diarrhea, 
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.  
+All other 10-system review negative in detail.  
+
+ 
+Past Medical History:
+Hypertension  
+CAD (MI x2 in ___ and ___)  
+Spinal Stenosis  
+GERD  
+BPH  
+OSA (does not require CPAP)  
+Anxiety  
+Prior alcohol abuse, sober ___ years  
+s/p laparoscopic cholecystectomy ___  
+s/p repair of bilateral rotator cuff  
+Right knee arthroscopy  
+
+ 
+Social History:
+___
+Family History:
+Mother had a 4-vessel CABG, was diabetic (bilateral lower 
+extremity amputation and renal failure, and died at age ___ of 
+multiple causes.  Father died of widely metastatic cancer, no 
+primary source ever found, in his mid ___.  Pt has a sister who 
+is healthy.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS 98.5 157/68 51 18 100RA.  
+GEN Alert, oriented, no acute distress  
+HEENT NCAT, EOMI sclera anicteric, OP clear, MMM  
+NECK supple, no JVD, no LAD  
+PULM Good aeration, CTAB no wheezes, rales, ronchi  
+CV RRR normal S1/S2, no mrg  
+ABD soft NT ND normoactive bowel sounds, no r/g  
+EXT WWP 2+ pulses palpable bilaterally, no c/c/e  
+NEURO CNs2-12 intact, motor function grossly normal  
+SKIN no ulcers or lesions  
+
+DISCHARGE PHYSICAL EXAM:
+VS 97.9 140/77 52 18 99RA  
+FSG: ___ fasting)  
+GEN Alert, oriented, no acute distress  
+HEENT NCAT, EOMI sclera anicteric, OP clear, MMM  
+NECK supple, no JVD, no LAD  
+PULM Good aeration, CTAB no wheezes, rales, ronchi  
+CV RRR normal S1/S2, no mrg  
+ABD soft NT ND normoactive bowel sounds, no r/g  
+EXT WWP 2+ pulses palpable bilaterally, no c/c/e  
+NEURO CNs2-12 intact, motor function grossly normal  
+SKIN no ulcers or lesions  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 10:35AM BLOOD WBC-6.6 RBC-5.52 Hgb-17.3 Hct-49.1 MCV-89 
+MCH-31.3 MCHC-35.2* RDW-12.3 Plt ___
+___ 10:35AM BLOOD Neuts-72.9* ___ Monos-5.6 Eos-1.9 
+Baso-0.9
+___ 10:35AM BLOOD Glucose-566* UreaN-20 Creat-0.9 Na-131* 
+K-5.0 Cl-93* HCO3-25 AnGap-18
+___ 10:35AM BLOOD CK(CPK)-62
+___ 10:35AM BLOOD CK-MB-3 cTropnT-<0.01
+___ 04:45PM BLOOD Calcium-8.6 Phos-2.5* Mg-1.9
+___ 04:45PM BLOOD %HbA1c-11.3* eAG-278*
+
+DISCHARGE LABS:
+___ 06:30AM BLOOD WBC-6.1 RBC-4.64 Hgb-14.5 Hct-40.8 MCV-88 
+MCH-31.3 MCHC-35.6* RDW-12.4 Plt ___
+___ 07:10AM BLOOD Glucose-199* UreaN-14 Creat-0.7 Na-136 
+K-3.8 Cl-102 HCO3-26 AnGap-12
+___________________________________________________
+
+EKG: ___  1:40:24 ___ 
+Sinus bradycardia. Probable prior inferior myocardial infarction 
+and 
+borderline Q-T interval prolongation. Compared to the previous 
+tracing  
+of ___ no diagnostic interval change.   QTC ___ with PMH significant for CAD s/p MI ___, HTN, and 
+hyperlipidemia who presented with hyperglycemia, polydypsia and 
+polyuria consistent with new onset diabetes mellitus.
+
+Active Issues: 
+# New onset diabetes: He presentated with polyuria/polydypsia 
+and critically high blood sugars requiring treatment with IVF 
+and IV regular insulin.  Notably, there was no anion gap or 
+altered mental status.  Also, there was no clear infectious or 
+cardiac trigger to this hyperglycemia (cardiac enzymes negative 
+x1).  HgbA1c was 11.3%.  He was seen by ___ and started 
+Lantus, Humalog sliding scale and Metformin.  He experienced 
+some GI upset and diarrhea with metformin which resolved in less 
+than 12 hours.  He resumed diabetic po diet and his insulin 
+regimen was titrated by ___ daily.  Diabetes diet, 
+blood-sugar monitoring and insulin self-injection teaching was 
+done. He was discharged home with Lantus, Humalog sliding scale, 
+and metformin.  He will be seen by ___ and ophthalmology for 
+follow-up.
+
+Chronic Issues:
+# Hypertension: stable, continued losartan  
+
+# CAD: Hx of silent MI x2. Cardiac enzymes negative x1 this 
+admission (checked because concern of another silent MI as 
+precipitant of hyperglycemia).  He continued aspirin, losartan, 
+and metoprolol.  
+
+# BPH: stable, continued finasteride.  
+
+# Anxiety/Depression: stable, continued paroxetine  
+
+TRANSITIONAL ISSUES:
+# ___ to follow up and may increase Metformin to 1000mg BID.
+# He will contact his ophthalmologist Dr. ___ 
+diabetic eye check within a week.
+# Full code (confirmed)
+# EMERGENCY CONTACT: HCP: ___ (wife): ___  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Finasteride 5 mg PO DAILY 
+2. Losartan Potassium 50 mg PO DAILY 
+hold for sbp<100 
+3. Ciprofloxacin 0.3% Ophth Soln 2 DROP BOTH EARS HS 
+4. Clotrimazole Cream 1 Appl TP BID 
+apply to ear lobes as needed for rash 
+5. Metoprolol Succinate XL 12.5 mg PO DAILY 
+hold for sbp<100 and hr <60 
+6. Nitroglycerin SL 0.4 mg SL PRN chest pain 
+If chest pain, give SLN, wait 5 minutes, then repeat if needed, 
+get EKG, and call ___ 
+7. Omeprazole 20 mg PO DAILY 
+8. Paroxetine 5 mg PO DAILY 
+9. Aspirin 81 mg PO DAILY 
+10. Fish Oil (Omega 3) 1000 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Ciprofloxacin 0.3% Ophth Soln 2 DROP BOTH EARS HS 
+3. Clotrimazole Cream 1 Appl TP BID 
+apply to ear lobes as needed for rash 
+4. Finasteride 5 mg PO DAILY 
+5. Fish Oil (Omega 3) 1000 mg PO DAILY 
+6. Losartan Potassium 50 mg PO DAILY 
+hold for sbp<100 
+7. Metoprolol Succinate XL 12.5 mg PO DAILY 
+hold for sbp<100 and hr <60 
+8. Nitroglycerin SL 0.4 mg SL PRN chest pain 
+If chest pain, give SLN, wait 5 minutes, then repeat if needed, 
+get EKG, and call ___ 
+9. Omeprazole 20 mg PO DAILY 
+10. Paroxetine 5 mg PO DAILY 
+11. Glargine 14 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+RX *blood sugar diagnostic ___ Aviva]   Please use 1 
+strip to test blood sugar with glucometer four times a day Disp 
+#*120 Unit Refills:*3
+RX *blood sugar diagnostic [Precision Point Of Care Test]   Use 
+one strip to test blood sugar four times a day Disp #*60 Unit 
+Refills:*0
+RX *insulin glargine [Lantus] 100 unit/mL  14 Units before BED; 
+Disp #*1 Bottle Refills:*3
+RX *blood-glucose meter ___ Nano]   PLease use to test 
+blood sugar four times a day Disp #*1 Unit Refills:*0
+RX *insulin lispro [Humalog] 100 unit/mL Up to 10 Units  per 
+sliding scale four times a day Disp #*1 Bottle Refills:*3
+RX *lancets [Easy Touch Lancets]   Please use with lancing 
+device four times a day Disp #*120 Unit Refills:*3
+RX *insulin syringe-needle U-100 [BD Insulin Syringe Ult-Fine 
+II] 31 gauge x ___ please use to administer insulin four times 
+a day Disp #*120 Syringe Refills:*3
+12. MetFORMIN (Glucophage) 500 mg PO BID 
+RX *metformin [Glucophage] 500 mg 1 tablet(s) by mouth twice a 
+day Disp #*60 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+New diagnosis of diabetes
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was our pleasure to care for you at ___.  You were admitted 
+for a new diagnosis of diabetes and started on 2 types of 
+insulin and metformin to help control your blood sugar.
+
+We had you meet with a dietician to help your diet and to 
+emphasize portion control.  It is important to focus on diet and 
+exercise to help improve your blood sugars.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11323975-DS-11 | hadm_id=29199423
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodine Containing Agents Classifier / Uroxatral / Simvastatin / 
+Zetia / Coreg / Celexa / Oxazepam
+ 
+Attending: ___
+ 
+Chief Complaint:
+Nausea, Diaphoresis 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+This is a ___ yo male s/p 2 STEMI's in ___ and ___ with 4 
+stents placed, HTN, HL, 64 pack year smoking hx who presents for 
+an acute episode of nausea, which was his presenting sx for his 
+previous MI.  Patient reports that for the last month he has 
+been feeling "run down" and tired.  He thought that it was the 
+heat, but reports that he "just feels uncomfortable", even 
+though he was not having CP, SOB, N/V, F/C.  At baseline he 
+walks his dog 3 miles/day, but 3 weeks ago he injured his R 
+knee, so he can't determine what his exercise tolerance is since 
+he started to feel "lousy".  
+
+At 8am the morning of admission, patient was picking vegetables 
+in his garden, when all of a sudden he felt very nauseated, 
+started shaking and got very sweaty.  He reports that he did not 
+have CP or SOB.  He walked inside to his house, drank some water 
+and check his BP, which was 180/81, which he reports is very 
+high for him.  He waited 5 mins and checked it again, and it was 
+178/80, so he had his wife drive him in to the hospital.  On the 
+drive in, the nausea, shaking and sweating stopped.  However, he 
+is concerned that this may be another MI as "this felt just like 
+my second heart attack". 
+ 
+Past Medical History:
+CARDIAC HISTORY:  Acute STEMI ___, status post PTCA/stent
+of total proximal LCX occlusion with two Cypher ___ in
+series.  Status post non-DES with 90% OM3 ___.
+.
+Recurrent inferolateral STEMI ___.  Subtotal occlusion of
+distal LCX beyond previously placed Cypher stent.  Distal LCX
+treated with 2.5 x 5 mm Vision (non-DES) stent.
+.
+New onset of shortness of breath with decreased exercise 
+capacity
+late ___.  No unequivocal MI.  Received DES to PDA. 
+Unsuccessful PTCA of small OM3 with 80% restenosis of proximal
+OM3 stent (___).
+.
+Hypertension/dyslipidemia.  Exercise related AEA/VEA. 
+.  
+Other Past History: 
+Status post repair of right rotator cuff; 
+recurrent left rotator cuff.  
+GERD, 
+status post
+laparoscopic cholecystectomy ___.  
+OSA/SDB.  
+BPH. 
+Anxiety
+Barretts esophagus
+hiatal hernia.
+
+ 
+Social History:
+___
+Family History:
+Mother had a 4-vessel CABG, was diabetic, and died at age ___ of 
+multiple causes.  Father died of widely metastatic cancer, no 
+primary source ever found, in his mid ___.  Pt has a sister who 
+is healthy.
+ 
+Physical Exam:
+VS - 98.0, 138/94, 80, 18, 4L NC  
+Gen: WDWN elderly female in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+Neck: Supple with JVP of 6-7 cm.  
+CV: PMI located in ___ intercostal space, midclavicular line. 
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  
+Chest: No chest wall deformities, scoliosis or kyphosis. Some 
+accessory muscle use on breathing, however minimal SOB sx. 
+Diffuse crackles in all lung fields bilaterally.  No wheezes 
+auscultated
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by 
+palpation. No abdominial bruits.  
+Ext: No c/c/e. No femoral bruits.  
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.  
+ 
+Pertinent Results:
+___ 06:44PM   GLUCOSE-129* UREA N-15 CREAT-0.9 SODIUM-139 
+POTASSIUM-4.0 CHLORIDE-100 TOTAL CO2-30 ANION GAP-13
+___ 06:44PM   CK(CPK)-42*
+___ 06:44PM   CK-MB-2 cTropnT-<0.01
+___ 06:44PM   CALCIUM-9.5 PHOSPHATE-3.7 MAGNESIUM-1.9
+___ 06:44PM   WBC-6.9 RBC-4.79 HGB-15.1 HCT-42.2 MCV-88 
+MCH-31.5 MCHC-35.7* RDW-13.5
+___ 06:44PM   PLT COUNT-152
+___ 06:44PM   ___ PTT-28.5 ___
+___ 10:55AM   cTropnT-<0.01
+ 
+Brief Hospital Course:
+#R/O MI:  As pt reports that his sx were exactly like his second 
+MI, we were concerned for ACS. MI was ruled out with no EKG 
+changes and trop neg x3.  Patient had a pMIBI study which showed 
+a fixed inferior MI but no areas with reversible ischemic 
+changes. He was continued on his home medications of metoprolol 
+12.5mg TID, ___ and plavix, fish oil (pt cannot tolerate 
+statins)  
+.  
+#. HTN - Pt's BP ranged from 128-152/ 76-96, P 45-60. Pt reports 
+he cannot tolerate lisinopril or lasix, and as his HR is brady 
+in the 50's, hesitant to uptitrate BB. He was kept on his home 
+dose of metoprolol 12.5mg TID. On discharge, his BP was 128/ 76. 
+
+.
+#. GERD - pt has ___ esophagus from severe acid reflux. 
+will continue ranitidine BID.
+ 
+Medications on Admission:
+Plavix 75mg ___, 
+___ 325mg ___.
+Metoprolol tartrate 12.5 t.i.d.
+SLTNG 0.4 p.r.n. (not used)
+Avodart 0.5mg ___
+Ranitidine 150 b.i.d.
+Fish oil 1200mg ___ 
+ 
+Discharge Medications:
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO TID (3 
+times a day).  
+4. Avodart 0.5 mg Capsule Sig: One (1) Capsule PO QHS (once a 
+day (at bedtime)).  
+5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+6. Fish Oil  Oral
+7. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1)  
+Sublingual PRN chest pain as needed for chest pain.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: atypical chest pain
+Secondary: Hypertension, coronary artery disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with chest discomfort. Your 
+blood tests and electrocardiogram did not indicate that you were 
+having a heart attack. You had a stress test that showed an area 
+of your heart damaged from your previous heart attack. It shows 
+that the other areas of your heart are healthy and are getting 
+enough blood during exercise. 
+
+We did not make any changes to your medications. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11323975-DS-16 | hadm_id=29516392
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Iodine Containing Agents Classifier / Uroxatral / Simvastatin / 
+Zetia / Coreg / Celexa / Oxazepam / Lipitor / Lisinopril / 
+finasteride
+ 
+Attending: ___.
+ 
+Chief Complaint:
+progressive dysphagia
+ 
+Major Surgical or Invasive Procedure:
+C2-C5 OSTEOPHYTECTOMY & NON INSTRUMENTED FUSION 
+
+ 
+History of Present Illness:
+___ is a pleasant gentleman who presented with progressive 
+difficulty in swallowing and pill dysphagia caused by large 
+anterior osteophytes that were present from C2-C5 essentially 
+almost the same size as his vertebral body in the 
+anterior-posterior dimension. Due to presence of this, he had 
+significant dysphagia. He had undergone significant and 
+prolonged investigative approach to determine the cause for his 
+dysphagia and it was thought that the osteophytes were the 
+reason behind his dysphagia. Due to this, a decision for 
+excision of those osteophytes and non-instrumented fusion was 
+taken.
+
+ 
+Past Medical History:
+PMH: HTN, CAD (MI x 2 in ___ and ___) spinal stenosis, GERD, BPH, 
+anxiety, OSA not on CPAP, hx of alcohol abuse.
+
+PSHx: lap chole (___) b/l rotator cuff repair, R knee 
+arthroscopy,  CABG x2 (___), R cataract surgery (___) 
+femur ORIF (___) removal of hardware (___) left TKA by DKA 
+(___)
+ 
+Social History:
+___
+Family History:
+non contributory 
+ 
+Physical Exam:
+PE: 
+VS ___ 0438 Temp: 97.4 PO BP: 161/77 HR: 61 RR: 18 O2 sat:
+97% O2 delivery: Ra 
+
+NAD, A&Ox4
+nl resp effort
+RRR
+
+dressing c/d/i
+  
+Sensory:
+UE 
+       C5         C6           C7        C8           T1
+     (lat arm)  (thumb)     (mid fing) (sm finger)  (med arm)
+R     SILT       SILT        SILT        SILT         SILT
+L     SILT       SILT        SILT        SILT         SILT
+
+___    
+     L2     L3      L4         L5        S1          S2
+   (Groin) (Knee) (Med Calf) (Grt Toe) (Sm Toe) (Post Thigh)
+R    SILT   SILT    SILT       SILT     SILT       SILT 
+L    SILT   SILT    SILT       SILT     SILT       SILT 
+
+Motor:
+UE   Dlt(C5) Bic(C6) WE(C6) Tri(C7) WF(C7) FF(C8)FinAbd(T1)
+R      5       5       5      5       5      5     5
+L      5       5       5      5       5      5     5
+
+___  Flex(L1) Add(L2) Quad(L3)  TA(L4) ___ ___
+R      5       5       5         5      5      5         5      
+L      5       5       5         5      5      5         5
+
+ 
+Pertinent Results:
+___ 08:55AM BLOOD WBC-11.6* RBC-4.54* Hgb-12.4* Hct-39.0* 
+MCV-86 MCH-27.3 MCHC-31.8* RDW-14.0 RDWSD-44.1 Plt ___
+___ 06:09AM BLOOD WBC-12.5* RBC-4.63 Hgb-13.1* Hct-38.9* 
+MCV-84 MCH-28.3 MCHC-33.7 RDW-13.9 RDWSD-42.5 Plt ___
+___ 08:55AM BLOOD Plt ___
+___ 06:09AM BLOOD Plt ___
+___ 08:55AM BLOOD Glucose-173* UreaN-16 Creat-1.1 Na-139 
+K-4.1 Cl-100 HCO3-24 AnGap-15
+___ 06:09AM BLOOD Glucose-180* UreaN-14 Creat-1.1 Na-136 
+K-4.5 Cl-97 HCO3-27 AnGap-12
+___ 08:55AM BLOOD Calcium-9.1 Phos-2.6* Mg-2.1
+___ 06:09AM BLOOD Calcium-8.9 Phos-3.5 Mg-1.4*
+ 
+Brief Hospital Course:
+Patient was admitted to the ___ Spine Surgery Service and 
+taken to the Operating Room for the above procedure.Refer to the 
+dictated operative note for further details.The surgery was 
+without complication and the patient was transferred to the PACU 
+in a stable ___ were used for postoperative 
+DVT prophylaxis.Intravenous antibiotics were continued for 24hrs 
+postop per standard protocol.Initial postop pain was controlled 
+with oral and IV pain medication.Diet was advanced as 
+tolerated.Foley was removed on POD#2. He was mobilizing 
+independently. On the day of discharge the patient was afebrile 
+with stable vital signs, comfortable on oral pain control and 
+tolerating a thin liquid/pureed diet.
+
+Post op course was complicated by dysphagia and excessive oral 
+secretions. Speech and Swallow service was consulted to help 
+with management of this. He remained NPO diet until ___. Video 
+evaluation on ___ revealed silent aspiration of solif foods 
+however he tolerated thin liquids and pureed foods. He was 
+transitioned to this diet on ___ and tolerated well overnight. 
+He is cleared for discharge to home on thin liquid and pureed 
+diet with outpatient follow up in 1 week for c-spine xray to 
+evaluate improvement in post op soft tissue swelling and follow 
+up with speech and swallow service for video evaluation to 
+advance his diet.  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. alirocumab 150 mg/mL subcutaneous EVERY 4  WEEKS 
+2. amLODIPine 10 mg PO DAILY 
+3. Losartan Potassium 100 mg PO QHS 
+4. MetFORMIN XR (Glucophage XR) 500 mg PO DAILY 
+5. Metoprolol Succinate XL 12.5 mg PO DAILY 
+6. Omeprazole 20 mg PO DAILY 
+7. SITagliptin 100 mg oral DAILY 
+8. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN angina 
+9. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Moderate 
+may take over the counter  
+2.  alirocumab 150 mg/mL subcutaneous EVERY 4  WEEKS  
+3.  amLODIPine 10 mg PO DAILY  
+4.  Aspirin 81 mg PO DAILY  
+5.  Indomethacin 25 mg PO TID  
+6.  Losartan Potassium 100 mg PO QHS  
+7.  MetFORMIN XR (Glucophage XR) 500 mg PO DAILY  
+8.  Metoprolol Succinate XL 12.5 mg PO DAILY  
+9.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN angina  
+10.  Omeprazole 20 mg PO DAILY  
+11.  SITagliptin 100 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1.  Cervical spondylosis.
+2.  Cervical degenerative disk disease.
+3.  Diffuse idiopathic skeletal hyperostosis.
+4.  C2-C5 large anterior osteophyte formation with severe
+dysphagia.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+ACDF:
+
+You have undergone the following operation:Anterior Cervical 
+Decompression and Fusion.
+
+Immediately after the operation:
+
+•                Activity:You should not lift anything greater 
+than 10 lbs for 2 weeks.You will be more comfortable if you do 
+not sit in a car or chair for more than~45 minutes without 
+getting up and walking around. 
+
+•                Rehabilitation/ Physical ___ times a 
+day you should go for a walk for ___ minutes as part of your 
+recovery.You can walk as much as you can tolerate.  
+
+•                Swallowing:Difficulty swallowing is not 
+uncommon after this type of surgery.This should resolve over 
+time.Please continue your pureed and think liquid diet and do 
+not advance until further evaluated by speech and swallow 
+service. 
+
+•                Cervical Collar / Neck Brace:If you have been 
+given a soft collar for comfort, you may remove the collar to 
+take a shower or eat.Limit your motion of your neck while the 
+collar is off.You should wear the collar when walking,especially 
+in public.
+
+•                Wound Care:Open to air. Please call the office 
+if you develop any incisional drainage or swelling at the 
+surgical site. 
+
+•                You should resume taking your normal home 
+medications.
+
+•                You have also been given Additional Medications 
+to control your pain.Please allow 72 hours for refill of 
+narcotic prescriptions,so plan ahead.You can either have them 
+mailed to your home or pick them up at the clinic located on 
+___.We are not allowed to call in narcotic 
+(oxycontin,oxycodone,percocet) prescriptions to the pharmacy.In 
+addition,we are only allowed to write for pain medications for 
+90 days from the date of surgery.
+
+•                Follow up:
+
+                Please Call the office and make an appointment 
+for 2 weeks after the day of your operation if this has not been 
+done already.
+                At the 2-week visit we will check your 
+incision,take baseline x rays and answer any questions.
+               We will then see you at 6 weeks from the day of 
+the operation.At that time we will most likely obtain 
+Flexion/Extension X-rays and often able to place you in a soft 
+collar which you will wean out of over 1 week.
+
+Please call the office if you have a fever>101.5 degrees 
+Fahrenheit, drainage from your wound,or have any questions.
+Physical Therapy:
+1)Weight bearing as tolerated.2)Gait,balance training.3)No 
+lifting >10 lbs.4)No significant bending/twisting.
+Treatments Frequency:
+Open to air, please call the office if you develop and 
+incisional drainage or increased swelling at surgical site. 
+ 
+Followup Instructions:
+___

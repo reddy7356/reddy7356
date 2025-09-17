@@ -1,0 +1,477 @@
+===== DISCHARGE NOTE =====
+note_id=11870228-DS-4 | hadm_id=24877005
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered Mental Status
+ 
+Major Surgical or Invasive Procedure:
+Intubation
+ 
+History of Present Illness:
+___ w/ hx of HTN, dementia (but lives at home with daughter and 
+high functioning) who is transferred from ___ for 
+seizure activity. Per daughter who is a ___ and lives with 
+patient, the patient has been ill for ___ days with a cough. She 
+has had significantly decreased PO intake since the onset of 
+this illness. She has never had a fever. She was prescribed a 
+Z-pac without being seen which she completed. This AM, she 
+vomited clear fluid. At 3:30pm, she became suddenly altered and 
+unresponsive and was "picking at the air rhythmicly" with her R 
+hand and rightward gaze. No reported falls. Her daughter called 
+EMS and the patient was taken to ___.
+
+At ___, patient was unable to verbalize and could not follow 
+commands. Labs at ___ notable for Na 120, Bicarb 32, Cr. 0.4. 
+CT head negative for hemorrhage, acute infarct. Patient then 
+developed shaking movements of left upper extremity, rightward 
+gaze deviation and increase of tone in all extremities. She then 
+received 2mg of IV ativan for possible non-convulsive status. 
+Patient was then loaded with fosphenytoin 1gm. Patient also 
+given 100mL of 3% HTS. The patient then began vomiting, became 
+markedly hypertensive, was no longer protecting airway and was 
+intubated for airway protection and started on propofol gtt and 
+transferred to ___. 
+
+Of note, in coversation with daughter, patient had episode of 
+hyponatremia to 107 in the past in setting of taking norvasc but 
+is unsure of further specifics. Not currently taking this 
+medication per daughter who manages her medications.
+
+In the ___ ED, initial vitals Afebrile 97.8, HR, 52, 102/64, 
+20, 100% (Intubation). The patient then became transiently 
+hypotensive to systolics of ___ and started on levophed, however 
+also became markedly hypertensive. Neurology not formerly 
+consulted, but feel seizure likely ___ to hyponatremia and rec. 
+EEG. Patient also received Vanc/Zosyn.
+
+On arrival to the MICU, vitals T: 98 BP: 200/170 P: 44 R: 18 O2: 
+99 (intubated) and was not arousable or responsive to painful 
+stimulus but was on midazolam for sedation.
+ 
+Past Medical History:
+Prior history of SIADH
+Dementia, mild (non-Alzheimers)
+Hypertension 
+Hyperlipidemia
+Gastroesophageal Reflux Disease
+Diaphragmatic Hernia
+Osteoporosis
+History of Falls
+Cataracts s/p surgery
+
+ 
+Social History:
+___
+Family History:
+Sister had ___ dementia, deceased. Patient's father had 
+___ disease and HTN. No history of DM. No other known 
+cancers per daughter.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+Vitals- T: 98 BP: 200/170 P: 44 R: 18 O2: 99 (intubated) 
+GENERAL: intubated, sedated, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx with ET/OG tube. Pupils 
+2mm, reactive to light
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi appreciated. Ventilated breath sounds.
+CV: Bradycardic, normal S1 S2, no murmurs, rubs, gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Cold distal extremities, no clubbing, cyanosis or edema  
+SKIN:  no obvious rashes, lesions or signs of trauma
+NEURO:  intubated, sedated
+
+DISCHARGE PHYSICAL EXAM
+=======================
+Vitals: 97.9, 149/60, 73, 18, 96% on RA.
+General: Elderly appearing female, resting comfortably. 
+HEENT: Sclera anicteric, moist mucous membranes.
+Neck: supple, JVP not elevated.
+Lungs: Clear to auscultation with no wheezes, rales, or rhonchi.
+CV: Regular rate and rhythm, normal S1 + S2, ___ systolic murmur 
+radiating to carotids. 
+Abdomen: soft non-tender, non-distended, no rebound or guarding, 
+no hepatosplenomegaly.
+Ext: 2+ pulses, no lower extremity swelling.
+Neuro: A+Ox0. Moving arms and legs purposefully.  
+Back: Eczematous lesions noted on back.
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+
+___ 07:40PM BLOOD WBC-5.7 RBC-3.96* Hgb-12.4 Hct-33.5* 
+MCV-85 MCH-31.4 MCHC-37.1* RDW-12.6 Plt ___
+___ 07:40PM BLOOD Neuts-77.0* ___ Monos-4.1 Eos-0.4 
+Baso-0.2
+___ 07:40PM BLOOD ___ PTT-22.7* ___
+___ 07:40PM BLOOD Glucose-173* UreaN-6 Creat-0.4 Na-125* 
+K-2.6* Cl-92* HCO3-24 AnGap-12
+___ 07:40PM BLOOD ALT-14 AST-19 AlkPhos-47 TotBili-0.3
+___ 07:40PM BLOOD Albumin-2.8* Calcium-6.3* Phos-2.9 
+Mg-1.1*
+
+ENDOCRINOLOGY LABS
+==================
+___ 06:10PM BLOOD Osmolal-263*
+___ 05:15AM BLOOD TSH-0.77
+___ 03:40AM BLOOD Cortsol-18.1
+___ 07:40PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+URINE ELECTROLYTES
+==================
+___ 08:00PM URINE Hours-RANDOM
+___ 01:54AM URINE Hours-RANDOM Creat-37 Na-62 K-80 Cl-65 
+Calcium-16.7
+___ 10:26AM URINE Hours-RANDOM UreaN-481 Creat-86 Na-29 
+K-75 Cl-32
+___ 06:10PM URINE Hours-RANDOM UreaN-896 Creat-154 Na-LESS 
+THAN  K-60 Cl-17
+___ 08:23PM URINE Hours-RANDOM Creat-60 Na-73 K-48 Cl-125
+___ 08:37AM URINE Hours-RANDOM Creat-59 Na-47 K-36 Cl-86
+___ 02:24PM URINE Hours-RANDOM Creat-32 Na-42 K-21 Cl-67
+___ 03:48PM URINE Hours-RANDOM UreaN-125 Creat-15 Na-91 
+K-14 Cl-92
+___ 05:27AM URINE Hours-RANDOM UreaN-246 Creat-48 Na-149 
+K-50 Cl-175
+___ 06:30PM URINE Hours-RANDOM
+___ 06:30PM URINE Hours-RANDOM UreaN-404 Na-92 K-61 Cl-150
+___ 10:40PM URINE Hours-RANDOM UreaN-764 Creat-117 Na-38 
+K-42 Cl-112
+___ 03:30PM URINE Hours-RANDOM Na-83 K-45 Cl-154
+___ 06:07AM URINE Hours-RANDOM Na-58 K-23 Cl-98
+___ 01:00PM URINE Hours-RANDOM Na-85 K-39 Cl-143
+___ 10:30PM URINE Hours-RANDOM Na-48 K-18 Cl-55
+___:51PM URINE Hours-RANDOM
+___ 06:51PM URINE Hours-RANDOM Na-95 K-48 Cl-110
+___ 12:57PM URINE Hours-RANDOM Na-56 K-51 Cl-54
+___ 05:46AM URINE Hours-RANDOM Na-68 K-54 Cl-62
+
+URINE OSMOLALITY
+================
+___ 01:54AM URINE Osmolal-386
+___ 10:26AM URINE Osmolal-499
+___ 06:10PM URINE Osmolal-624
+___ 08:23PM URINE Osmolal-428
+___ 08:37AM URINE Osmolal-366
+___ 02:24PM URINE Osmolal-259
+___ 03:48PM URINE Osmolal-288
+___ 05:27AM URINE Osmolal-565
+___ 06:30PM URINE Osmolal-596
+___ 10:40PM URINE Osmolal-585
+___ 03:30PM URINE Osmolal-470
+___ 06:07AM URINE Osmolal-266
+___ 01:00PM URINE Osmolal-474
+___ 10:30PM URINE Osmolal-256
+___ 06:51PM URINE Osmolal-524
+___ 12:57PM URINE Osmolal-568
+___ 05:46AM URINE Osmolal-586
+
+MICROBIOLOGY
+============
+___ 11:40AM OTHER BODY FLUID FluAPCR-NEG FluBPCR-NEG
+___: BLOOD CULTURE: NO GROWTH
+___: BLOOD CULTURE: NO GROWTH
+___: URINE CULTURE: NO GROWTH
+___: LEGIONELLA URINARY ANTIGEN: NEGATIVE
+
+___ 11:12 pm SPUTUM      Source: Endotracheal. 
+**FINAL REPORT ___
+GRAM STAIN (Final ___: 
+>25 PMNs and <10 epithelial cells/100X field. 
+1+    (<1 per 1000X FIELD):   BUDDING YEAST. 
+1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI IN PAIRS. 
+1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+
+RESPIRATORY CULTURE (Final ___: RARE GROWTH Commensal 
+Respiratory Flora. 
+
+EEG STUDIES
+===========
+___: EEG
+IMPRESSION: This is an abnormal continuous ICU EEG monitoring 
+study because
+of generalized background slowing predominantly in the delta 
+frequency range, although very briefly reaching up to ___ Hz, 
+with frequent periods of generalized suppression which are 
+consistent with a moderate encephalopathy of non-specific 
+etiology. The background does show reactivity, however. 
+Excessive diffuse beta activity can be seen with recent 
+benzodiazepine or barbiturate usage. Incidental note is made of 
+persistent bradycardia. No electrographic seizures are recorded.
+
+___: EEG
+IMPRESSION: This is an abnormal continuous ICU EEG monitoring 
+study because
+of generalized background slowing predominantly in the delta 
+frequency range, although very briefly reaching up to 6 Hz, with 
+frequent periods of
+generalized suppression which are consistent with a moderate 
+encephalopathy of non-specific etiology; the background does 
+show reactivity, however.
+Occasionally seen triphasic waves seen in the latter portion of 
+the study are non-specific findings but often seen with 
+toxic/metabolic encephalopathies. Excessive diffuse beta 
+activity can be seen with recent benzodiazepine or barbiturate 
+usage. Incidental note is made of bradycardia although this is 
+improved from before. No electrographic seizures are recorded. 
+When compared to the prior recording, there is mild interval 
+improvement.
+
+___: EEG
+PENDING
+
+IMAGING
+=======
+___: CHEST X-RAY PORTABLE
+IMPRESSION: 
+Increasing right basilar airspace opacity may be due to 
+atelectasis or
+infection.
+NG tube likely coiled in a large hiatal hernia.
+
+___: CHEST X-RAY PORTABLE
+IMPRESSION:  
+No relevant change as compared to the previous image, the 
+patient is slightly rotated. The monitoring and support devices 
+are constant.  A subtle opacity at the right lung base has not 
+substantially changed. Moderate cardiomegaly persists.  No overt 
+pulmonary edema.  No pleural effusions.
+
+___: MRI HEAD WITHOUT CONTRAST
+IMPRESSION: 
+1.  No evidence of acute infarction.
+2. Numerous white matter foci of increased T2 and FLAIR signal 
+are nonspecific but likely represent sequelae of chronic small 
+vessel ischemic disease.
+
+DISCHARGE LABS
+==============
+___ 07:25AM BLOOD WBC-4.4 RBC-2.94* Hgb-9.1* Hct-26.8* 
+MCV-91 MCH-30.9 MCHC-33.9 RDW-13.4 Plt ___
+___ 07:25AM BLOOD Glucose-114* UreaN-15 Creat-0.5 Na-140 
+K-4.0 Cl-103 HCO3-32 AnGap-9
+___ 07:25AM BLOOD Calcium-8.9 Phos-4.2 Mg-2.___SSESSMENT & PLAN: ___ with hx of HTN and dementia who presented 
+from an outside hospital for altered mental status, seizure and 
+hyponatremia, found to have pneumonia and multifactorial 
+hyponatremia (hypovolemia, medication effect, and syndrome of 
+inappropriate ADH).
+
+#Hyponatremia - According to the patient's daughter, Ms. ___ 
+has history of severe hyponatremia (to 107) in the past. Nausea, 
+vomiting, altered mental status symptoms consistent with 
+hyponatremia. Unclear at first if this was hypovolemic 
+hyponatremia in setting of acute illness and decreased PO intake 
+while continuing anti-hypertensives but seems to be sub-acute. 
+Initial Na 120 at OSH. Given 100mL hypertonic saline in OSH as 
+well as intensive care uniti. Initial Na in ED at ___ 125, but 
+on ___ to medical intensive care unit 116. Patient received 
+additional hypertonic saline with improvement of sodium. Renal 
+was consulted to aid in determining cause of hyponatremia. 
+Initially thought hyponatremia was likely secondary to 
+hypovolemia. After receiving small fluid boluses, Na improved 
+suggesting volume depletion. However, Na peaked at 128 even 
+after intravenous normal saline infusion. Urine lytes obtained 
+and appeared as though the hyponatremia was consistent with 
+SIADH (high urine osmolality with elevated urine sodium 
+concentration) at that point in hospitalization. Patient was 
+fluid restricted with improvement of her sodium. Patient was 
+subsequently transferred from the intensive care unit to the 
+general medical floor. Fluid restriction was continued (1.2L 
+daily) and the sodium stabilized in the 135-140 range. Etiology 
+of the hyponatremia appears to be a mixture of hypovolemia in 
+the setting of hydrochlorothiazide use as well as SIADH in the 
+setting of pneumonia (please see below). At the time of 
+discharge Ms. ___ sodium was 140.  She was continued on 1.2 
+L FLUID RESTRICTION AT THE TIME OF DISCHARGE TO REHABILITATION. 
+She should never be on HCTZ again. 
+
+# Healthcare Associated Pneumonia - patient ill for ___ days 
+PTA, however without fever but had reported cough. UA 
+unremarkable. Received Vanc/Zosyn in ED.  Pt was cultured and 
+was monitored for fever/signs of infection. Given question of 
+pneumonia on CXR as well as being in hospital for 48 hours, 
+decision was made to continue with vancomycin and cefepime for 
+treatment of HCAP in the setting of SIADH. She received an 8 day 
+course of vancomycin and cefepime. At the time of discharge she 
+was afebrile with no leukocytosis. 
+
+#Dementia and Delirium - Patient with baseline dementia, however 
+sudden witnessed change on the day of admission with 
+unresponsive, speaking "nonsensical" and grabbing towards air 
+with right hand could be consistent with seizure vs stroke. CT 
+head without bleed or large acute infarct. EEG did not show 
+significant findings.  The patient's mental status improved and 
+she was following commands and therefore extubated on hospital 
+day #3. She had ongoing delirium during her hospitalization and 
+was started on olanzapine 5mg QHS with improvement. Also 
+continued on her rivastigmine 4.6 mg/24h transdermal patch. 
+
+#? Seizure - patient without hx of seizure, however witnessed 
+event at OSH ED consistent with seizure. Likely caused by 
+hyponatremia.  Pt was initially started on keppra, however this 
+was discontinued on HD 3. Patient's hyponatremia was managed as 
+stated above. With stablilization of serum sodium, patient did 
+not have any seizure-like episodes during hospitalization at 
+___. 
+
+#Hypertension: Patient's blood pressure was labile after 
+discontinuation of hydrochlorothiazide with blood pressures in 
+the 200s. To better control her blood pressure, she was started 
+on an antihypertesnive regimen of lisinopril 40 milligrams 
+daily, amlodipine 5 milligrams daily, and Metoprolol Succinate 
+50 milligrams daily. On this blood pressure regimen, her 
+systolic blood pressures ranged between 130-150. 
+Hydrochlorothiazide was held at the time fo discharge. She 
+should NEVER be put back on hydrochlorothizide in the future, 
+given her two episodes of hyponatremia. 
+ 
+CHRONIC MEDICAL CONDITIONS
+==========================
+# Hypercholesterolemia: Atorvastatin 40 mg PO daily. 
+
+# Critical Aortic Stenosis: ___ 0.8 cm2  ___ 
+
+TRANSITIONAL ISSUES
+===================
+***PLEASE OBTAIN URINE LYTES/OSMOLALITY AS WELL AS SERUM 
+ELECTROLYTES EVERY OTHER DAY AND PLEASE CALL MD WITH RESULTS***
+
+#MEDICATION CHANGES: Discontinued HCTZ due to development of 
+hyponatremia. Please DO NOT give HCTZ in the future and make 
+this an allergy, given her history of hyponatremia on two 
+occassions in the setting of HCTZ.
+#BLOOD PRESSURE MEDICATION REGIMEN: Lisinopril 40 milligrams 
+daily, Amlodipine 5 milligrams daily, Metoprolol Succinate 50 
+milligrams daily. 
+#PLEASE REMOVE AMLODIPINE OFF OF HER ALLERGY LIST AS SHE 
+TOLERATED THE MEDICATION DURING HER HOSPITALIZATION. 
+#NEW MEDICATION FOR AGITATION: Olanzapine 5 milligrams PO at 
+bedtime. 
+#FOLLOW UP LABS: Please obtain SERUM ELECTROLYTES EVERY OTHER 
+DAY as well as URINE ELECTROLYTES/URINE OSMOLALITY and call MD 
+with results. 
+#CODE STATUS: Full Code (confirmed)
+#CONTACT INFORMATION: ___ (___) ___, c 
+___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ferrous Sulfate 45 mg PO DAILY 
+2. Atorvastatin 40 mg PO DAILY 
+3. Lisinopril 20 mg PO DAILY 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+5. Exelon (rivastigmine;<br>rivastigmine tartrate) 4.6 mg/24 hr 
+transdermal daily 
+6. Ocuvite (vit C-vit E-lutein-min-om-3) 150-30-5-150 
+mg-unit-mg-mg oral daily 
+
+ 
+Discharge Medications:
+1. Fluid Restriction: Less than 1.2 liters/day (SIADH)
+2. Atorvastatin 40 mg PO DAILY 
+3. Lisinopril 40 mg PO DAILY 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+5. Amlodipine 5 mg PO DAILY 
+6. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation 
+7. Docusate Sodium (Liquid) 100 mg PO BID 
+8. Magnesium Oxide 400 mg PO BID 
+9. OLANZapine (Disintegrating Tablet) 5 mg PO QHS 
+10. Exelon (rivastigmine;<br>rivastigmine tartrate) 4.6 mg/24 hr 
+transdermal daily 
+11. Ferrous Sulfate 45 mg PO DAILY 
+12. Ocuvite (vit C-vit E-lutein-min-om-3) 150-30-5-150 
+mg-unit-mg-mg oral daily 
+13. Senna 8.6 mg PO BID:PRN constipation 
+14. Sarna Lotion 1 Appl TP QID:PRN pruritis  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+- Hypovolemic hyponatremia with generalized seizure
+- Right lower lobe Healthcare Associated Pneumonia
+- Syndrome of Inappropriate Antidiuretic Hormone
+- Toxic/metabolic encephalopathy
+
+Secondary:
+- Severe aortic stenosis ___ 0.8 cm2  ___ ___  
+- Dementia  
+- Hypertension
+- GERD
+- Diaphragmatic hernia
+- Osteoporosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you during your 
+hospitalization. You were admitted to ___ 
+___ after suffering a seizure. This was due to your 
+sodium being low (hyponatremia). The cause of the low sodium was 
+initially thought to be secondary to your hydrochlorothiazide as 
+well as poor oral intake. 
+
+You also were noted to have a pneumonia during your 
+hospitalization. You were treated with antibiotics which 
+resolved the pneumonia. You did not have any further fevers or 
+coughs after being treated for the pneumonia. 
+
+Your sodium continued to fluctuate during your hospitalization. 
+In order to stabilize the sodium further (likely due to Syndrome 
+of Inappropriate ADH, SIADH), we limited the volume of fluid you 
+were able to consume to 1200 milliliters (1.2L). This helped 
+stabilize your sodium levels. You did not have any further 
+episodes of seizures during this hospitalization.
+
+You were also noted to have high blood pressure during your 
+hospitalizaiton after your hydrochlorothiazide was discontinued. 
+In order to better control your blood pressure, you were started 
+on a blood pressure regimen of lisinopril 40 milligrams daily, 
+amlodipine 5 milligrams daily, and Toprol XL 50 milligrams 
+daily. 
+
+In the future please DO NOT take your hydrochlorothiazide 
+medication. 
+
+Please limit the volume of fluid you consume each day to 1200 
+milliliters (1.2 Liters). 
+
+We wish you a happy and healthy ___!
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

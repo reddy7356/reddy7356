@@ -1,0 +1,113 @@
+===== DISCHARGE NOTE =====
+note_id=10859646-DS-10 | hadm_id=24493538
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right hip osteoarthritis 
+ 
+Major Surgical or Invasive Procedure:
+___: Right THA 
+
+ 
+History of Present Illness:
+___ y/o M with history of right hip osteoarthritis who has failed 
+conservative measures and has elected to undergo definitive 
+surgical management. 
+ 
+Past Medical History:
+Diabetes type 2, Hyperlipidemia, Osteoarthritis,right hip
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Well appearing in no acute distress  
+Afebrile with stable vital signs  
+Pain well-controlled  
+Respiratory: CTAB  
+Cardiovascular: RRR  
+Gastrointestinal: NT/ND  
+Genitourinary: Voiding independently  
+Neurologic: Intact with no focal deficits  
+Psychiatric: Pleasant, A&O x3  
+Musculoskeletal Lower Extremity:  
+* Incision healing well with staples  
+* Thigh full but soft  
+* No calf tenderness  
+* ___ strength  
+* SILT, NVI distally  
+* Toes warm
+
+ 
+Brief Hospital Course:
+The patient was admitted to the orthopedic surgery service and 
+was taken to the operating room for above described procedure. 
+Please see separately dictated operative report for details. The 
+surgery was uncomplicated and the patient tolerated the 
+procedure well. Patient received perioperative IV antibiotics.
+
+Postoperative course was remarkable for the following:
+******
+
+Otherwise, pain was controlled with a combination of IV and oral 
+pain medications.  The patient received Aspirin 325 mg twice 
+daily for DVT prophylaxis starting on the morning of POD#1.  The 
+surgical dressing was changed on POD#2 and the surgical incision 
+was found to be clean and intact without erythema or abnormal 
+drainage. The patient was seen daily by physical therapy. Labs 
+were checked throughout the hospital course and repleted 
+accordingly. At the time of discharge the patient was tolerating 
+a regular diet and feeling well.  The patient was afebrile with 
+stable vital signs.  The patient's hematocrit was acceptable and 
+pain was adequately controlled on an oral regimen. The operative 
+extremity was neurovascularly intact and the wound was benign. 
+
+The patient's weight-bearing status is weight bearing as 
+tolerated on the operative extremity with posterior precautions. 
+
+ 
+Mr. ___ is discharged to home with services in stable 
+condition.
+
+ 
+Medications on Admission:
+1. Atorvastatin 40 mg PO QPM 
+2. Fenofibrate 145 mg PO DAILY 
+3. MetFORMIN (Glucophage) 500 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Right hip osteoarthritis 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Followup Instructions:
+___

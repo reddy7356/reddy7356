@@ -1,0 +1,265 @@
+===== DISCHARGE NOTE =====
+note_id=11505493-DS-11 | hadm_id=23873989
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Augmentin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+aortic stenosis,mitral regurgitation, ascending aortic aneursym
+ 
+Major Surgical or Invasive Procedure:
+aortic valve replacement(23mm ___ mechanical),Mitral valve 
+repair(32mm ___ ring),replacement of ascending 
+aorta(30mm Gelweave) ___
+
+ 
+History of Present Illness:
+This is a ___ year old male with known
+aortic stenosis and possible rheumatic heart disease. He is
+followed very closely with serial echocardiograms by Dr. ___.
+In ___, he was admitted to ___ with congestive
+heart failure. Repeat echocardiogram at that time was notable
+worsening mitral regurgitation and worsening left ventricular
+function with LVEF dropping from 50-55% to approximately 30%.
+Given the above findings, he was referred to Dr. ___
+cardiac surgical evaluation. Currently his symptoms have
+improved, and is able to perform routine ADL without difficulty.
+He currently denies shortness of breath, chest pain, syncope,
+pre-syncope, orthopnea, PND and pedal edema. He does admit to
+decreased energy, easy fatiguability, and poor sleep. He is very
+anxious about the possibilty of heart surgery.
+
+ 
+Past Medical History:
+Rheumatic Heart Disease, rheumatic fever at age ___
+- Chronic Systolic Congestive Heart Failure
+- Aortic Stenosis, Mitral Regurgitation
+- History of Endocarditis ___ c/b seizure
+- Hypertension
+- Asthma(exercise induced)
+- History of Kidney Stones
+- Chronic Low Back Pain, Lumbar strain
+- History of Gilberts Hyperbilirubinemia
+Past Surgical History: s/p Tonsillectomy
+
+ 
+Social History:
+___
+Family History:
+Family History: Denies premature coronary artery disease
+
+ 
+Physical Exam:
+Pulse: Resp:14  O2 sat:98%
+B/P  Right:110/70    Left:106/68
+Height:72"     Weight:181#
+
+Five Meter Walk Test #1_______ #2 _________  #3_________
+
+General:
+Skin: Dry [] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [x] grade ___ bases to
+neck______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema [n] _____
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:2   Left:2
+DP           Right:2   Left:2
+___           Right:2   Left:2
+Radial       Right:2   Left:2
+
+ 
+Pertinent Results:
+___ 05:35AM BLOOD WBC-6.1# RBC-3.09* Hgb-9.7* Hct-27.8* 
+MCV-90 MCH-31.3 MCHC-34.8 RDW-12.7 Plt ___
+___ 07:37AM BLOOD WBC-5.7 RBC-4.55* Hgb-14.2 Hct-40.7 
+MCV-90 MCH-31.2 MCHC-34.9 RDW-12.5 Plt ___
+___ 07:35PM BLOOD ___
+___ 04:55AM BLOOD ___ PTT-33.2 ___
+___ 04:45AM BLOOD ___ PTT-27.0 ___
+___ 02:29AM BLOOD ___
+___ 05:35AM BLOOD UreaN-29* Creat-1.0 Na-137 K-4.6 Cl-101
+___ 07:37AM BLOOD Glucose-101* UreaN-21* Creat-1.1 Na-141 
+K-3.9 Cl-104 HCO3-28 AnGap-13
+___ 07:37AM BLOOD ALT-18 AST-15 AlkPhos-35* TotBili-1.7*
+PRE-BYPASS: 
+
+The left atrium is moderately dilated. Mild spontaneous echo 
+contrast is present in the left atrial appendage. No atrial 
+septal defect is seen by 2D or color Doppler. 
+
+Left ventricular wall thicknesses are normal. The left 
+ventricular cavity is moderately dilated. Overall left 
+ventricular systolic function is severely depressed (LVEF= 25 
+%). 
+
+Right ventricular chamber size is normal with mild global free 
+wall hypokinesis. 
+
+The ascending aorta is mildly dilated. The descending thoracic 
+aorta is mildly dilated. 
+
+The aortic valve is bicuspid. The aortic valve leaflets are 
+severely thickened/deformed. There is severe aortic valve 
+stenosis (valve area 0.8-1.0cm2). Mild to moderate (___) aortic 
+regurgitation is seen. 
+
+The mitral valve leaflets are moderately thickened. Moderate 
+(2+) mitral regurgitation is seen. There is no pericardial 
+effusion. Dr. ___ was notified in person of the results at 
+time of surgery. 
+
+POST-BYPASS:
+
+The patient is A paced. The patient is on norepinephine and 
+epinephrine infusions.
+
+Left ventricular function is unchanged, estimated EF is 25%. 
+Right ventricular function is mildly improved.
+
+There is a well-seated mechanical prosthetic valve in the aortic 
+position. Characteristic washing jets are seen. The leaflets are 
+normally mobile. The peak gradient across the aortic valve is 
+18mmHg, the mean gradient is 9mmHg with CO of 4L/min.
+
+There is a mitral annuloplasty ring in place. There is a mean 
+gradient of 2 mmHg across the mitral valve at a cardiac output 
+of 4L/min. No mitral regurgitation is seen.
+
+There is a tube graft in the ascending aortic position. The 
+aortic arch and descending aorta are intact post-decannulation.  
+ 
+  
+
+ 
+Brief Hospital Course:
+He was taken to the Operating Room on ___ where surgery was 
+performed as noted.  See operative note for details.  He weaned 
+from bypass on Epinephrine, Propofol and Levophed.  He remained 
+stable, was extubated and over 48 hours weaned from pressors.
+
+He transferred to the floor on POD 2 and Physical Therapy worked 
+with him.  Coumadin was begun and Heparin started on POD 3.  He 
+was diuresed towards his preoperative weight and Coreg was 
+started and titrated as BP allowed. No ACE_I was given as BP was 
+too low to allow it.
+
+Mediastinal CTs were removed per protocol, as were pacing wires, 
+however, pleural CTs remained in until ___ due to drainage.  At 
+discharge he was ambulatory , follow up appointments were 
+arranged and Coumadin follow up by Dr. ___ arranged as well. 
+
+ 
+Medications on Admission:
+Lasix 20mg daily, Toprol XL 25mg daily,
+Flovent 50mcg 2puffs twice daily, Albuterol MDI prn, Amoxicillin
+prn dental prophylaxis
+
+ 
+Discharge Medications:
+1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+2. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 
+4 hours) as needed for fever, pain.  
+3. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO HS (at bedtime) as needed for constipation.  
+4. fluticasone 110 mcg/actuation Aerosol Sig: Two (2) Puff 
+Inhalation BID (2 times a day).  
+5. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig: 
+___ Puffs Inhalation Q4H (every 4 hours) as needed for dyspnea.  
+
+6. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+7. amiodarone 200 mg Tablet Sig: as directed Tablet PO BID (2 
+times a day): 400mg(2tablets)twice daily for two weeks, then 
+200mg(one tablet) twice daily for two weeks then, 200mg daily 
+until directed to stop.
+Disp:*120 Tablet(s)* Refills:*2*
+8. hydromorphone 2 mg Tablet Sig: ___ Tablets PO Q4H (every 4 
+hours) as needed for pain for 4 weeks.
+Disp:*50 Tablet(s)* Refills:*0*
+9. carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+for 7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+11. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig: 
+One (1) Tablet, ER Particles/Crystals PO once a day for 7 days.
+Disp:*7 Tablet, ER Particles/Crystals(s)* Refills:*0*
+12. Coumadin 2.5 mg Tablet Sig: as directed Tablet PO once a 
+day: goal INR 2.5-3.5.
+Disp:*100 Tablet(s)* Refills:*2*
+13. Outpatient Lab Work
+___ on ___ then prn.
+Please FAX results to Dr. ___ at ___.
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+aortic stenosis
+mitral regurgitation
+ascending aortic aneurysm
+Rheumatic Heart Disease
+Chronic Systolic Congestive Heart Failure
+h/o Endocarditis ___ 
+Hypertension
+Asthma(exercise induced)
+h/o Kidney Stones
+Chronic Low Back Pain
+Gilberts Hyperbilirubinemia
+s/p Tonsillectomy
+
+ 
+Discharge Condition:
+Alert and oriented x3, nonfocal 
+Ambulating with steady gait
+Incisional pain managed with oral analgesics 
+Incisions: 
+Sternal - healing well, no erythema or drainage 
+Edema: trace
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming until cleared by surgeon. Look at 
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions 
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart 
+
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive 
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___

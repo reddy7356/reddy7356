@@ -1,0 +1,511 @@
+===== DISCHARGE NOTE =====
+note_id=11452424-DS-21 | hadm_id=23733200
+
+ 
+Name:  ___                        Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodine / Codeine / Beta-Blockers (Beta-Adrenergic Blocking Agts)
+ 
+Attending: ___
+ 
+Chief Complaint:
+hand swelling
+
+ 
+Major Surgical or Invasive Procedure:
+L thumb arthrocentesis and washout ___
+
+ 
+History of Present Illness:
+Patient is a ___ w/o male with CAD, HTN who presents with left 
+thumb swelling and pain. The patient states that his sx began 
+yesterday with redness and swelling of his left thumb. His pain 
+has been progressively worsening since that time and he has 
+noted increased swelling around the joint.
+
+In the ED, initial vitals were:  97.9 82 153/111 18 100%   
+Exam notable for: pain to palpation of ___ MCP joint (thumb) 
+with swelling and erythema extending to the dorsal hand, not 
+involving other digits, pain with passive extension, pain with 
+palpation of flexor tendons, thumb held in flexed position for 
+optimal comfort. 
+Labs notable for
+Imaging notable for hand xray which showed: no fracture or 
+radiopaque foreign body.
+Patient was given 1g vancomycin
+
+Patient was seen by  who recommended ortho hand who performed 
+arthrocentesis with findings of pus. Washout of the joint was 
+subsequently performed with wick placement to allow incision 
+drain. 2 sets of wound cultures sent. Patient was placed in 
+thumb spica for comfort, as well as a stockinette to help with 
+swelling.
+Decision was made to admit for septic arthritis 
+Vitals notable for: 97.5 70 170/76 14 98% RA  
+
+On the floor, The patient is appearing comfortable. He is 
+feeling hungry but denies any pain, fevers/chills, chest pain, 
+shortness of breath.  
+ 
+Past Medical History:
+Esophageal dysmotility s/p PEG placement, GERD, CAD, HTN, HLD
+
+ 
+Social History:
+___
+Family History:
+noncontributory
+
+ 
+Physical Exam:
+Admission Physical Exam:
+VS:  98.9  66  170/50  20  95%RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear. poor dentition. 
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+MSK: L lower arm with spica cast on. No apparent swelling or 
+pain around the region.
+
+Discharge Physical Exam:
+VS: 98.4 99.5  ___  142-151/50-54  16  97%ra  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear. poor dentition. 
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, ___ systolic 
+ejection murmur at base.
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+MSK: L lower arm with spica cast on. L thumb is purple in color 
+with moderate amount of edema. Small amount of drainage of 
+blood. Mild tenderness to palpation. Sensation to gross touch in 
+tact in all fingers. 
+
+ 
+Pertinent Results:
+==ADMISSION LABS==
+___ 01:10PM BLOOD WBC-7.2 RBC-2.98* Hgb-10.8* Hct-32.4* 
+MCV-109* MCH-36.2* MCHC-33.3 RDW-12.5 RDWSD-49.1* Plt ___
+___ 01:10PM BLOOD Neuts-72.5* Lymphs-13.1* Monos-12.4 
+Eos-0.8* Baso-0.6 Im ___ AbsNeut-5.23 AbsLymp-0.94* 
+AbsMono-0.89* AbsEos-0.06 AbsBaso-0.04
+___ 07:05AM BLOOD Glucose-95 UreaN-21* Creat-0.7 Na-133 
+K-3.7 Cl-98 HCO3-25 AnGap-14
+___ 01:10PM BLOOD UricAcd-5.5
+___ 07:05AM BLOOD Calcium-8.2* Phos-3.4 Mg-2.2
+___ 01:10PM BLOOD CRP-1.7
+
+==DISCHARGE LABS==
+___ 06:40AM BLOOD WBC-5.0 RBC-2.85* Hgb-10.4* Hct-30.7* 
+MCV-108* MCH-36.5* MCHC-33.9 RDW-12.5 RDWSD-48.8* Plt ___
+___ 06:40AM BLOOD Glucose-107* UreaN-17 Creat-0.7 Na-136 
+K-3.5 Cl-100 HCO3-29 AnGap-11
+___ 06:40AM BLOOD Calcium-8.3* Phos-3.2 Mg-2.4
+
+==OTHER RESULTS==
+LEFT HAND XRAY ___
+No fracture or radiopaque foreign body.
+
+CHEST XRAY ___
+Lungs are hyperinflated.  Bibasilar are likely reflect 
+atelectasis.  Heart size is enlarged and the descending thoracic 
+aorta is mildly tortuous. No definite evidence of pneumonia.  
+Multiple calcified pleural plaques are re-demonstrated. 
+  
+ 
+Brief Hospital Course:
+Brief Hospital Course:
+=========================================
+Patient is a ___ with a PMHx of HTN, Esophageal dysmotility 
+s/p PEG placement who presented with swelling and redness of L 
+thumb concerning for septic joint, s/p washout.
+
+# Septic vs Inflammatory arthritis of L hand:  Joint was 
+aspirated by hand surgery in ED and patient was started on IV 
+antibiotics. Pain improved significantly after aspiration. He 
+underwent washout from orthopedics. ID was consulted for 
+possible septic joint and patient was initially started on IV 
+antibiotics. However blood cultures and wound cultures remained 
+negative and antibiotics were discontinued. On discharge only 
+endorsed small amount of discomfort. On discharge, he had athumb 
+spica and stockinette.  He was also instructed to use betadine 
+soaks three times per day.  His pain was treated wtih Tylenol 
+___ mg every 6 hours as needed. Narcotics were avoided due to 
+codeine allergy. Follow up with hand clinic was arranged prior 
+to discharge. 
+
+# Esophageal dysmotility s/p PEG placement: Continued with 
+Jevity tube feeds at home rate
+ 
+CHRONIC ISSUES: 
+==========================
+#  H/o CAD- 
+- Continued with ASA 81 mg
+- Continued with Simvastatin 40 mg qhs
+
+#Depression:
+- Continued with Citalopram
+
+#BPH- No urinary retention in hospital.
+- Continued with Finasteride
+
+#COPD/Asthma- Well controlled, not an active issue during 
+hospital course.
+- Continued with Advair inhaler bid, as well as montelukast qhs.
+
+#GERD
+- Continued dmeprazole 20 mg po bid
+
+#Insomnia
+- Continued with Trazodone 50 mg po qhs for insomnia
+
+TRANSITIONAL ISSUES:
+============================
+- follow up with ortho hand ___
+- continue betadine soak x 48 hours
+- continue splint for 48 hours, then continue splint at night 
+until ortho follow up
+- CODE: Full (Confirmed)
+- CONTACT: ___ (daughter): ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+2. TraZODone 50 mg PO QHS:PRN insomnia 
+3. Simvastatin 40 mg PO QPM 
+4. Omeprazole 20 mg PO BID 
+5. Finasteride 5 mg PO DAILY 
+6. Montelukast 10 mg PO QHS 
+7. Citalopram 10 mg PO DAILY 
+8. Calcarb 600 With Vitamin D (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -200 unit oral DAILY 
+9. Aspirin 81 mg PO DAILY 
+10. Jevity 1.5 Cal (lactose-reduced food with fibr) 240 cc oral 
+Q6H 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Citalopram 10 mg PO DAILY 
+3. Finasteride 5 mg PO DAILY 
+4. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+5. Montelukast 10 mg PO QHS 
+6. Simvastatin 40 mg PO QPM 
+7. TraZODone 50 mg PO QHS:PRN insomnia 
+8. Acetaminophen 650 mg PO Q6H:PRN pain 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*20 Tablet Refills:*0
+9. Calcarb 600 With Vitamin D (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -200 unit oral DAILY 
+10. Jevity 1.5 Cal (lactose-reduced food with fibr) 240 cc oral 
+Q6H 
+11. Omeprazole 20 mg PO BID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+joint effusion
+
+Secondary:
+Esophageal dysmotility s/p PEG placement
+hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to ___ with joint swelling. This was drained 
+by the hand surgeons. The fluid did not show any evidence of 
+infection. Please soak your left thumb in a solution of betadine 
+for the next ___ hours. Use 1 part betadine and 3 parts warm 
+water. Please soak it like this for 20 minutes, twice a day. 
+Practice moving your thumb while it is in this warm water soak. 
+After you are done, dress your thumb in clean, dry gauze. If 
+your hand wound begins to worsen after you go home, please call 
+Dr. ___ office to report this (___). For the next 
+two days, you should maintain your splint at all times except 
+when you are soaking.  After 48 hours, you may keep your hand 
+out of the splint during the day and wear just at night. Keep 
+doing this until you follow up with Dr. ___ on ___. Below 
+are some detailed instructions.
+
+Best,
+Your ___ Care Team
+
+HAND-FINGER INFECTION:
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11452424-DS-22 | hadm_id=29655529
+
+ 
+Name:  ___                        Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodine / Codeine / Beta-Blockers (Beta-Adrenergic Blocking Agts)
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+Intubation ___ 
+attach
+ 
+Pertinent Results:
+RELEVANT IMAGING
+===================
+___ CXR PORTABLE AP: 
+Lower lung opacities may reflect combination of pleural effusion
+and atelectasis, difficult to exclude a component of aspiration 
+sequelae and pneumonia. ET tube and OG tubes positioned 
+appropriately. 
+
+___ CT HEAD W/O CONTRAST: 
+There is no evidence of fracture, infarction, hemorrhage, edema, 
+or
+mass. There is prominence of the ventricles and sulci suggestive
+of involutional changes. 
+
+DISHCARGE LABS
+====================
+___ 01:59AM BLOOD WBC-10.6* RBC-2.67* Hgb-9.4* Hct-31.2* 
+MCV-117* MCH-35.2* MCHC-30.1* RDW-14.2 RDWSD-60.7* Plt Ct-98*
+___ 01:59AM BLOOD Plt Ct-98*
+___ 01:59AM BLOOD Glucose-161* UreaN-50* Creat-1.6* Na-143 
+K-5.3 Cl-109* HCO3-26 AnGap-8*
+___ 01:59AM BLOOD Calcium-7.2* Phos-4.8* Mg-2.4
+
+MICROBIOLOGY 
+====================
+
+___ 9:56 am URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   Legionella Urinary Antigen  (Final ___: 
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. 
+           (Reference Range-Negative). 
+      Performed by Immunochromogenic assay. 
+      A negative result does not rule out infection due to other 
+L.
+      pneumophila serogroups or other Legionella species. 
+Furthermore, ___
+      infected patients the excretion of antigen ___ urine may 
+vary. 
+
+ 
+ 
+___ 9:56 am MRSA SCREEN      Source: Nasal swab. 
+
+                            **FINAL REPORT ___
+
+   MRSA SCREEN (Final ___: 
+      POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS. 
+
+___ 11:29 pm SPUTUM      Source: Endotracheal. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      4+   (>10 per 1000X FIELD):   BUDDING YEAST WITH 
+PSEUDOHYPHAE. 
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      Commensal Respiratory Flora Absent. 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         RIFAMPIN should not be used alone for therapy. 
+         This isolate is presumed to be resistant to clindamycin 
+based on
+         the detection of inducible resistance . 
+      YEAST.    MODERATE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------       R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------ <=0.5 S
+
+ 
+ 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yom man with a history of CAD (s/p MI), 
+COPD/Asthma (reportedly), esophageal dysmotility (s/p PEG), who 
+presented with 3 days of decreased
+energy, worsening confusion, and weakness before ultimately 
+being
+found unresponsive and febrile (T= 104.8) with concerns for a 
+RLL
+pneumonia. He was intubated for airway protection ___ the ER and
+required the initiation of norepinephrine prior to transfer to
+ICU for further evaluation and management. ___ the ICU he was 
+treated with antibiotics for his presumed pneumonia. On ___ a 
+family meeting was held with his family and the primary team and 
+the decision was made to proceed with CMO given his overall poor 
+prognosis and small chance for meaningful recovery. He was 
+extubated and died ___ the afternoon of ___.
+
+ACUTE ISSUES
+=======================
+# Acute hypercarbic and hypoxic respiratory failure
+# Asthma/COPD
+Presented after being found down with VBG ___ 
+requiring
+intubation for airway protection. Hypercarbia was likely acute 
+on
+chronic given history of COPD. Etiology of respiratory failure
+likely infectious given fevers and CXR c/f PNA (RLL, possible
+aspiration with contribution of aspiration pneumonitis). Also
+with likely contribution from known history of asthma/COPD. Flu
+was negative.  Lactate <2 and hypertensive on arrival. He 
+required  low
+dose levophed ___ the ICU. See below for discussion. Family 
+meeting on ___
+with patient's wife and children and made decision to go CMO
+given poor overall prognosis and little chance for meaningful
+recovery. 
+
+# Septic shock vs Medication induced hypotension
+On levophed, likely infectious etiology with PNA > UTI on ddx.
+CXR with c/f PNA. Possible aspiration component. UA on admission
+with few bacteria and protein so UTI possible but less likely 
+the
+source of fevers. Initially some possible contribution from
+sedative medications but subsequently off Propofol and only on 
+fentanyl
+with a small amount of levophed.
+
+# Hypoactive AMS
+Found unresponsive ___ his home by family without known head
+strike. Unknown time down. Likely toxic-metabolic
+encephalopathy due to infectious process, likely PNA. However,
+could also have had primary neurologic process such as seizures
+(although no history) or CNS infection given severe fever and
+altered mental status. Must also consider stroke. Review of
+medications reveals few sedating medications, although he does
+take trazadone nightly. No major electrolyte abnormaliaties
+outside of hyperkalemia. Held off on further intervention, 
+likely ___ delirium on dementia. 
+
+# Hyperkalemia - improved
+Presented with K 6.1 and whole blood K 5.5. He was found
+unresponsive which makes rhabdomyolsis a consideration, although
+there was no report of significant time down. Also likely some
+component of acute on chronic acidemia contributing to hyperK. 
+He
+is not on any potassium-sparking diuretics or other medications
+known to cause hyperkalemia. His potassium improved during his 
+admission.
+
+#CAD
+#RBBB
+#HTN
+Trop 0.05 ___ the ED. Unable to ask patient about chest pain iso
+intubation. Has known history of CAD and prior MI. Low concern
+for ACS given likelihood of demand ischemia (EKG
+without changes, patient tachycardic, potentially septic). Trop 
+trend not
+concerning. Ultimately likely demand iso sepsis.
+
+#Macrocytic Anemia
+Likely some contribution from nutritional deficiencies given low
+albumin as well. Historically he has had a macrocytic anemia 
+with
+an elevated RDW. No active signs of bleeding.
+
+#Esophageal dysmotility
+#GERD
+#Nutrition
+Has chronic PEG tube for feeds, last exchanged with ___ on 
+___.
+Albumin 2.9.
+
+#Anxiety
+- Hold citalopram 10mg daily
+- Hold trazodone 50mg qHS
+
+#BPH
+- Hold Finasteride 5mg PO daily
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 10 mg PO DAILY 
+2. Finasteride 5 mg PO DAILY 
+3. Montelukast 10 mg PO DAILY 
+4. Omeprazole 20 mg PO BID 
+5. TraZODone 50 mg PO QHS 
+
+ 
+Discharge Medications:
+N/A
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+N/A
+ 
+Discharge Condition:
+Patient deceased
+ 
+Discharge Instructions:
+N/A
+ 
+Followup Instructions:
+___

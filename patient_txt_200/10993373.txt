@@ -1,0 +1,429 @@
+===== DISCHARGE NOTE =====
+note_id=10993373-DS-18 | hadm_id=26711422
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Penicillins / Latex / Tramadol / Ibuprofen / Fioricet / Mold 
+Extracts / Cat/Feline Product Derivatives / hospital tape
+ 
+Attending: ___
+ 
+___ Complaint:
+R knee pain from OA
+ 
+Major Surgical or Invasive Procedure:
+___ s/p right total knee replacement
+
+ 
+History of Present Illness:
+___ with R knee OA now s/p R TKA with a prior prior knee 
+contusion
+She is a Jehovah's witness and thus did not receive blood.
+ 
+Past Medical History:
+Asthma
+allergic rhinitis
+
+ 
+Social History:
+___
+Family History:
+n/a
+ 
+Physical Exam:
+Well appearing in no acute distress  
+Afebrile with stable vital signs  
+Pain well-controlled  
+Respiratory: CTAB  
+Cardiovascular: RRR  
+Gastrointestinal: NT/ND  
+Genitourinary: Voiding independently  
+Neurologic: Intact with no focal deficits  
+Psychiatric: Pleasant, A&O x3  
+Musculoskeletal Lower Extremity:  
+* Incision healing well with staples  
+* Scant serosanguinous drainage  
+* Thigh full but soft  
+* No calf tenderness  
+* ___ strength  
+* SILT, NVI distally  
+* Toes warm
+
+ 
+Pertinent Results:
+___ 07:00AM BLOOD WBC-9.2 RBC-3.57* Hgb-10.5* Hct-32.8* 
+MCV-92 MCH-29.5 MCHC-32.1 RDW-13.8 Plt ___
+___ 06:55AM BLOOD WBC-11.3* RBC-3.98* Hgb-11.5* Hct-36.1 
+MCV-91 MCH-28.8 MCHC-31.8 RDW-14.3 Plt ___
+___ 07:10AM BLOOD WBC-10.4# RBC-4.11* Hgb-12.0# Hct-37.9# 
+MCV-92 MCH-29.2 MCHC-31.7 RDW-14.3 Plt ___
+___ 06:55AM BLOOD Glucose-116* UreaN-4* Creat-0.5 Na-136 
+K-3.5 Cl-101 HCO3-29 AnGap-10
+___ 07:10AM BLOOD Glucose-117* UreaN-8 Creat-0.6 Na-134 
+K-4.0 Cl-99 HCO3-31 AnGap-8
+___ 07:10AM BLOOD Calcium-8.5 Phos-3.0 Mg-1.6
+ 
+Brief Hospital Course:
+The patient was admitted to the orthopedic surgery service and 
+was taken to the operating room for above described procedure. 
+Please see separately dictated operative report for details. The 
+surgery was uncomplicated and the patient tolerated the 
+procedure well. Patient received perioperative IV antibiotics.
+
+Postoperative course was remarkable for the following:
+
+Patient did not receive blood as she is a Jehovah's witness
+
+On POD2 she did have an episode of drowsiness with SBP ___, she 
+was given a 500cc bolus and her neurotin was stopped.
+
+Otherwise, pain was initially controlled with a PCA followed by 
+a transition to oral pain medications on POD#1.  The patient 
+received lovenox for DVT prophylaxis starting on the morning of 
+POD#1.  The foley was removed on POD 2 and the patient was 
+voiding independently thereafter. The overlying surgical 
+dressing was changed on POD#2 and the Silverlon dressing was 
+found to be clean and intact without erythema or abnormal 
+drainage. The patient was seen daily by physical therapy. Labs 
+were checked throughout the hospital course and repleted 
+accordingly. At the time of discharge the patient was tolerating 
+a regular diet and feeling well.  The patient was afebrile with 
+stable vital signs.  The patient's hematocrit was acceptable and 
+pain was adequately controlled on an oral regimen. The operative 
+extremity was neurovascularly intact and the wound was benign. 
+
+The patient's weight-bearing status is weight bearing as 
+tolerated on the operative extremity. 
+
+Pt is discharged to home with services in stable condition.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB 
+2. BusPIRone 15 mg PO BID 
+3. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+4. Lorazepam 1 mg PO Q8H:PRN anxiety 
+5. Ranitidine 150 mg PO DAILY 
+6. Sertraline 100 mg PO DAILY 
+7. Montelukast 10 mg PO DAILY 
+8. Zolpidem Tartrate 5 mg PO HS 
+9. Lidocaine 5% Patch 1 PTCH TD QAM 
+
+ 
+Discharge Medications:
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB 
+2. BusPIRone 15 mg PO BID 
+3. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+4. Lidocaine 5% Patch 1 PTCH TD QAM 
+5. Lorazepam 1 mg PO Q8H:PRN anxiety 
+6. Montelukast 10 mg PO DAILY 
+7. Sertraline 100 mg PO DAILY 
+8. Zolpidem Tartrate 2.5-5 mg PO HS PRN: insomnia 
+9. Ranitidine 150 mg PO DAILY 
+10. Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth Q8hrs Disp #*100 
+Tablet Refills:*0
+11. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*60 Capsule Refills:*0
+12. Enoxaparin Sodium 40 mg SC DAILY Duration: 28 Doses 
+Start: ___, First Dose: Next Routine Administration Time 
+RX *enoxaparin 40 mg/0.4 mL 1 syringe SC Daily Disp #*28 Syringe 
+Refills:*0
+13. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN Pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth Q4hrs Disp #*120 
+Tablet Refills:*0
+14. Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 cap by mouth twice a day Disp 
+#*60 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+R knee OA
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - walker/crutches
+ 
+Discharge Instructions:
+1. Please return to the emergency department or notify your 
+physician if you experience any of the following: severe pain 
+not relieved by medication, increased swelling, decreased 
+sensation, difficulty with movement, fevers greater than 101.5, 
+shaking chills, increasing redness or drainage from the incision 
+site, chest pain, shortness of breath or any other concerns.
+ 
+2. Please follow up with your primary physician regarding this 
+admission and any new medications and refills. 
+ 
+3. Resume your home medications unless otherwise instructed.
+ 
+4. You have been given medications for pain control. Please do 
+not drive, operate heavy machinery, or drink alcohol while 
+taking these medications. As your pain decreases, take fewer 
+tablets and increase the time between doses. This medication can 
+cause constipation, so you should drink plenty of water daily 
+and take a stool softener (such as Colace) as needed to prevent 
+this side effect.  Call your surgeons office 3 days before you 
+are out of medication so that it can be refilled.  These 
+medications cannot be called into your pharmacy and must be 
+picked up in the clinic or mailed to your house.  Please allow 
+an extra 2 days if you would like your medication mailed to your 
+home.
+ 
+5. You may not drive a car until cleared to do so by your 
+surgeon.
+ 
+6. Please call your surgeon's office to schedule or confirm your 
+follow-up appointment in three (3) weeks.
+ 
+7. SWELLING: Ice the operative joint 20 minutes at a time, 
+especially after activity or physical therapy. Do not place ice 
+directly on the skin. You may wrap the knee with an ace bandage 
+for added compression. Please DO NOT take any non-steroidal 
+anti-inflammatory medications (NSAIDs such as Celebrex, 
+ibuprofen, Advil, Aleve, Motrin, naproxen etc).
+ 
+8. ANTICOAGULATION: Please continue your Lovenox for four (4) 
+weeks to help prevent deep vein thrombosis (blood clots).  If 
+you were taking aspirin prior to your surgery, it is OK to 
+continue at your previous dose while taking this medication.  
+___ STOCKINGS x 6 WEEKS.
+ 
+9. WOUND CARE: Please keep your Silverlon dressing clean and 
+dry. REMOVE on ___. It is okay to shower five days after 
+surgery but no tub baths, swimming, or submerging your incision 
+until after your four (4) week checkup. You may place a dry 
+sterile dressing on the wound after the Silverlon dressing is 
+removed, otherwise leave it open to air. Check wound regularly 
+for signs of infection such as redness or thick yellow drainage. 
+Staples will be removed by at your follow-up visit in 3 weeks.
+ 
+10. ___ (once at home): Home ___, dressing changes as 
+instructed, and wound checks.
+ 
+11. ACTIVITY: Weight bearing as tolerated on the operative 
+extremity. Mobilize. CPM/ROM as tolerated. No strenuous exercise 
+or heavy lifting until follow up appointment.
+
+Physical Therapy:
+WBAT
+ROM unrestricted
+Mobilize
+
+Treatments Frequency:
+Keep your Silverlon dressing clean and dry. REMOVE on ___. 
+It is okay to shower five days after surgery but no tub baths, 
+swimming, or submerging your incision until after your four (4) 
+week checkup. You may place a dry sterile dressing on the wound 
+after the Silverlon dressing is removed, otherwise leave it open 
+to air.
+Wound checks
+Ice and elevation
+TEDs
+*Staples will be removed by at your follow-up visit in 3 weeks*
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10993373-DS-17 | hadm_id=29268816
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Penicillins / Latex / Tramadol / Ibuprofen / Fioricet / Mold 
+Extracts / Cat/Feline Product Derivatives
+ 
+Attending: ___
+ 
+___ Complaint:
+Right shoulder rash
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ year old female with recent right shoulder arthroscopy 
+presents with rash over surgical site.
+ 
+Past Medical History:
+Asthma
+allergic rhinitis
+
+ 
+Social History:
+___
+Family History:
+n/a
+ 
+Physical Exam:
+ Temp:99.0 HR:78 BP:105/64 Resp:20 O(2)Sat:98 
+ 
+Constitutional: Comfortable
+Extr/Back: Patient with erythema and thin-walled blisters 
+around the operative site.
+Neuro: Speech fluent
+Psych: Normal mood, Normal mentation
+
+ 
+Pertinent Results:
+___ 04:30PM   PLT COUNT-292
+___ 04:30PM   NEUTS-65.6 ___ MONOS-4.3 EOS-3.4 
+BASOS-0.9
+___ 04:30PM   WBC-8.1 RBC-4.68 HGB-14.1 HCT-42.8 MCV-92 
+MCH-30.1 MCHC-32.8 RDW-13.5
+___ 04:30PM   estGFR-Using this
+___ 04:30PM   GLUCOSE-105* UREA N-9 CREAT-0.7 SODIUM-139 
+POTASSIUM-4.1 CHLORIDE-101 TOTAL CO2-30 ANION GAP-12
+___ 04:31PM   LACTATE-2.0
+___ 10:40PM   ___
+___ 10:40PM   GLUCOSE-120* UREA N-8 CREAT-0.7 SODIUM-137 
+POTASSIUM-4.0 CHLORIDE-102 TOTAL CO2-27 ANION GAP-12
+ 
+Brief Hospital Course:
+Ms ___ was admitted to the Orthopedic service on ___ for 
+contact dermatitis of her right shoulder.  During her hospital 
+stay she was seen by the Dermatology service for this rash.  
+Dermatology recommended warm water soaks to remove crust and 
+starting topical Clobetasol.  The remainder of her hospital 
+course was uneventful and she is being discharged to home on 
+___ in stable condition.
+ 
+Medications on Admission:
+ALBUTEROL SULFATE - 90 mcg HFA Aerosol Inhaler - 1 to 2 puffs
+inhaled four times a day as needed to relieve asthma
+FLUTICASONE [FLONASE] - 50 mcg Spray, Suspension - two sprays
+intranasal daily as needed
+IBUPROFEN - 600 mg Tablet - 1 Tablet(s) by mouth every 8 hours
+LORAZEPAM - 0.5 mg Tablet - 2 Tablet(s) by mouth po @ hs;  1 po
+bid or tid prn as needed for anxiety
+MONTELUKAST [SINGULAIR] - 10 mg Tablet - one Tablet by mouth
+daily
+MORPHINE - 15 mg Tablet Sustained Release - 1 Tablet(s) by mouth
+twice a day
+OXYCODONE-ACETAMINOPHEN [PERCOCET] - 5 mg-325 mg Tablet - 1 to 2
+Tablet(s) by mouth q4 to 6 hours as needed for pain
+SALMETEROL [SEREVENT DISKUS] - 50 mcg Disk with Device - one 
+puff
+oral inhalation twice a day
+ 
+Discharge Medications:
+1. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+Two (2) Puff Inhalation Q6H (every 6 hours) as needed for 
+asthma.  
+2. salmeterol 50 mcg/dose Disk with Device Sig: One (1) Disk 
+with Device Inhalation Q12H (every 12 hours).  
+3. oxycodone 5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 hours) 
+as needed for pain for 2 weeks.
+Disp:*50 Tablet(s)* Refills:*0*
+4. diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO 
+Q6H:PRN as needed for itching.
+Disp:*60 Capsule(s)* Refills:*2*
+5. clobetasol 0.05 % Cream Sig: One (1) Appl Topical TID (3 
+times a day) as needed for contact dermatitis.
+Disp:*1 tube* Refills:*2*
+6. Tylenol ___ mg Tablet Sig: ___ Tablets PO every ___ hours.  
+7. Domeboro     Packet Sig: One (1) packet Topical four times a 
+day for 2 weeks: Please dissolve 1 packet in 16 oz of NaCl and 
+apply for ___ mins at a time. Please do NOT allow the cloth to 
+dry  .
+Disp:*60 packets* Refills:*1*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Contact Dermatitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Patient Discharge Instructions
+
+Wound Care: 
+- Keep Incision clean and dry. 
+- Do not soak the incision in a bath or pool. 
+- Apply Clobetasol as directed for treatment of contact 
+dermatitis
+Activity: 
+- Continue to wear your sling for comfort and be non weight 
+bearing on your right arm.
+
+Other Instructions
+- Resume your regular diet. 
+- Avoid nicotine products to optimize healing. 
+- Resume your home medications. Take all medications as 
+instructed. 
+- You have also been given Additional Medications to control 
+your pain. Please allow 72 hours ___ through ___, 9am to 
+4pm) for refill of narcotic prescriptions, so plan ahead. There 
+will be no prescription refils on ___, or 
+holidays. You can either have them mailed to your home or pick 
+them up at the clinic located on ___ 2. We are not allowed 
+to call in narcotic (oxycontin, oxycodone, percocet) 
+prescriptions to the pharmacy. In addition, we are only allowed 
+to write for pain medications for 90 days from the date of 
+surgery.
+- Narcotic pain medication may cause drowsiness. Do not drink 
+alcohol while taking narcotic medications. Do not operate any 
+motor vehicle or machinery while taking narcotic pain 
+medications. Taking more than recommended may cause serious 
+breathing problems.
+
+If you have questions, concerns or experience any of the below 
+danger signs then please call your doctor at ___ or go 
+to your local emergency room.
+Physical Therapy:
+Activity:  Activity as tolerated
+ Pneumatic boots
+ Right upper extremity:  Non weight bearing
+ Sling:   At all times
+
+Treatments Frequency:
+ Site: right shoulder 
+ Type:  Exfoliating rash/skin reaction
+ Dressing:  Adaptec
+ Comment: no tape 
+
+Clobetosol cream as directed
+Warm water soaks to remove crust, Domeboro soaks as directed
+
+ 
+Followup Instructions:
+___

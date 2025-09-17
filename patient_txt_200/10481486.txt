@@ -1,0 +1,511 @@
+===== DISCHARGE NOTE =====
+note_id=10481486-DS-11 | hadm_id=20027822
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Iodine-Iodine Containing / Codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain and distention
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Mr. ___ is a ___ w/ longstanding Crohn's disease 
+complicated by stricturing with recurrent small bowel 
+obstructions and perirectal abscess disease. 
+
+He has had multiple abdominal surgeries, including one for 
+obstruction, he has a past medical history of Afib (now SR s/p 
+ablation) and prostate cancer s/p radical prostatectomy. He is 
+on mesalanie for his Crohn's and has had relatively good control 
+despite numerous complications of ___ abscess requiring 
+drainage and strictures requiring dilations. His most recent
+colonoscopy on ___ showed a stricture in the neoterminal 
+ileum about 10cm from the anastomosis to colon. There were 
+ulcerations in the stricture and around it. There was narrowing 
+at the anastomosis. He has anastomosis of the colon and small 
+bowel at about 55 cm. He has a history of colovesicular fistula 
+as well.
+
+Today he presents as a transfer from OSH. He noticed distention 
+on the evening of ___ with subsequent episodes of bilious and 
+feculent emesis. Reports formed stools until ___ AM which was 
+his last stool. No blood, no melena. No flatus since then.  
+Denies fevers, chills and night sweats.  OSH CTAP shows proximal 
+dilation to the the jejunum. Some fecalization of the distal
+ileum and transition point likely in the right pelvis.  Most 
+recent visit on ___ to ED  for partial self resolved SBO. He 
+underwent ablation procedure for his atrial fibrillation and 
+patient reports he has been in sinus rhythm since the procedure. 
+
+
+ 
+Past Medical History:
+Crohn's Disease: s/p ileal resection, sigmoid resection
+h/o ___ fistula
+Prostate Cancer s/p radical prostatectomy
+ 
+Social History:
+___
+Family History:
+No family history of IBD, heart disease, diabetes or bowel 
+cancers
+ 
+Physical Exam:
+Admission Physical Exam:
+VS: 98.6F 92HR 160/96 20 98% RA
+Gen: AAOx3, drowsy, poor conversationalist
+CV: RRR no mrg
+Pulm: CTAB
+Abd: moderate distended abdomen, tender, not periotneal, 
+multiple
+surgical scars, no obvious fascial defect, minimal epigastric
+tenderness
+DRE: right buttocks fistula w/o drainage, erythematous/enflammed
+___ area; perineal fistula (along perineal raphe) likely
+recently draining
+Ext: warm well perfused
+
+DISCHARGE PHYSICAL EXAM: 
+Vitals: afebrile ___ 147/65(135-149/65-82) 18 96%RA
+24hr I/O: 1390/1825
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP flat, no LAD  
+Lungs: Few Bibasilar rales, no wheezing or rhonchi. No 
+respiratory distress. 
+Abdomen: soft, non-tender, mildly distended, bowel sounds 
+present, no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: No rashes or lesions noted 
+Neuro: A+Ox3, moving all extremities equally and with purpose. 
+Gait assessment deferred.   
+ 
+ 
+Pertinent Results:
+ADMISSION LABS: 
+___ 08:50PM BLOOD WBC-8.3# RBC-3.76* Hgb-11.6* Hct-35.5* 
+MCV-94 MCH-30.9 MCHC-32.7 RDW-13.0 RDWSD-44.6 Plt ___
+___ 08:50PM BLOOD Neuts-77.4* Lymphs-15.7* Monos-4.2* 
+Eos-2.1 Baso-0.2 Im ___ AbsNeut-6.40*# AbsLymp-1.30 
+AbsMono-0.35 AbsEos-0.17 AbsBaso-0.02
+___ 08:50PM BLOOD ___ PTT-26.9 ___
+___ 08:50PM BLOOD Glucose-120* UreaN-19 Creat-1.3* Na-140 
+K-3.9 Cl-101 HCO3-27 AnGap-16
+___ 08:50PM BLOOD ALT-25 AST-30 AlkPhos-59 TotBili-0.5
+___ 08:50PM BLOOD Lipase-803*
+___ 09:01PM BLOOD Lactate-1.5
+
+DISCHARGE LABS: 
+___ 06:20AM BLOOD WBC-5.8 RBC-3.01* Hgb-9.2* Hct-28.5* 
+MCV-95 MCH-30.6 MCHC-32.3 RDW-13.1 RDWSD-44.8 Plt ___
+___ 06:20AM BLOOD Glucose-99 UreaN-28* Creat-1.2 Na-137 
+K-3.9 Cl-100 HCO3-27 AnGap-14
+___ 06:20AM BLOOD Calcium-8.6 Phos-3.3 Mg-1.7
+
+PERTINENT LABS: 
+___ 08:50PM BLOOD Lipase-803*
+___ 03:37AM BLOOD Lipase-194*
+___ 07:22AM BLOOD Lipase-16
+___ 07:18AM BLOOD Lipase-16
+
+___ 07:18AM BLOOD cTropnT-<0.01 proBNP-3173*
+___ 07:00AM BLOOD cTropnT-<0.01
+
+MICROBIOLOGY: 
+Blood culture neg x 2
+
+IMAGING: 
+___ RUQ ULTRASOUND:
+IMPRESSION: No gallstones or CBD dilation.  No acute process 
+identified.
+
+___ CXR PORTABLE 
+Large areas of consolidation have developed in both lower lungs, 
+at of
+proportion to the extent of mild pulmonary edema present 
+elsewhere.  Findings
+suggest severe bilateral pneumonia and secondary heart failure.  
+Small to
+moderate left pleural effusion is likely.  Heart size is 
+partially obscured,
+but no more than moderately enlarged.  No pneumothorax.
+ 
+___ MRE 
+1. Limited study due to motion artifact.
+2.  Continued dilated loops of small bowel in the right 
+mid-abdomen, less
+pronounced than on the prior study, with likely transition point 
+in a cluster
+of small bowel loops tethered in the low mid abdomen suggestive 
+of a partial
+small bowel obstruction.  Identifying a discrete transition 
+point, however, is
+difficult on this exam.  Additionally, these small bowel loops 
+in the mid
+anterior abdomen appear to demonstrate slightly thickened and 
+hyper enhancing
+walls suggestive of mild active inflammation.
+3.   Mild mucosal hyperenhancement at the neoterminal ileum 
+suggests mild
+active inflammation but no evidence of post-stenotic dilation or 
+obstruction.
+4. Transsphincteric fistula extending from 1 o'clock to the left 
+anterior
+scrotum is incompletely assessed.
+5.  The previously seen right perianal fistula is difficult to 
+see on today's
+MRI.
+6.  Mild mucosal hyperemia involving the rectum compatible with 
+proctitis
+which is likely related to active inflammatory bowel disease.
+ 
+___ TTE 
+The left atrial volume index is normal. The interatrial septum 
+is aneurysmal. No atrial septal defect is seen by 2D or color 
+Doppler. Left ventricular wall thickness, cavity size and 
+regional/global systolic function are normal (LVEF >55%). Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic root is mildly dilated at the sinus level. The aortic 
+valve leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis or aortic regurgitation. The 
+mitral valve leaflets are mildly thickened. Mild (1+) mitral 
+regurgitation is seen. Moderate [2+] tricuspid regurgitation is 
+seen. There is moderate to severe pulmonary artery systolic 
+hypertension. There is a trivial/physiologic pericardial 
+effusion. 
+
+IMPRESSION: Normal global and regional biventricular systolic 
+function. Moderate functional tricuspid regurgitation. Moderate 
+to severe pulmonary hypertension. 
+
+___ CXR PORTABLE 
+Since the prior radiograph of 2 days earlier, pulmonary edema 
+has decreased in
+severity and bilateral pleural effusions have decreased in size. 
+ There
+remains more confluent opacification at the lung bases, which 
+could be due to
+dependent edema or a secondary process such as aspiration 
+pneumonia.
+ 
+Brief Hospital Course:
+Mr. ___ is an ___ yo M with Crohn's disease complicated by 
+structuring with recurrent small bowel obstructions. 
+
+#Small bowel obstruction: On ___ he presented to an outside 
+hospital with abdominal pain, distention, and emesis. His labs 
+were notable for a lipase of 803. He was made NPO given IV 
+fluids and admitted to the floor for abdominal exams and 
+hemodynamic monitoring. CTAP at OSH showed proximal dilation to 
+the jejunum and fecalization of the distal ileum and transition 
+point likely in the right pelvis. RUQ U/S showed no gallstones 
+or CBD dilation, and no acute process identified. He was 
+subsequently admitted to the Surgical service. He was treated 
+conservatively for SBO with bowel rest, IVF. He improved and his 
+diet was slowly advanced. Pain resolved and pt was having 
+regular bowel movements at time of discharge. 
+
+#Aspiration pneumonia/hypoxia: Of note, in the ED had witnessed 
+aspiration of vomit when NG tube placement was attempted. During 
+hospital course he developed pleuritic chest pain and dyspnea 
+and on ___ chest xray showed bibasilar consolidations 
+concerning for PNA in addition to e/o pulm edema. ECG showed 
+sinus rhythm no acute ischemic changes. Trop neg x 2. Started on 
+levaquin for aspiration PNA and transferred to medicine for 
+further management. Briefly required supplemental O2 and was 
+diuresed with IV Lasix and breathing improved. TTE showed normal 
+systolic function but moderated to severe pulmonary HTN with 
+PASP estimated at 58 mmhg. Discharged home with close PCP ___ 
+and cardiology ___. 
+
+#Acute diastolic heart failure: Pulmonary edema seen on CXR in 
+addition to severe bibasilar pneumonia, no known history of 
+heart failure. Endorsed orthopnea, no lower extremity edema. 
+proBNP 3173, TTE with normal systolic function, elevated TR 
+gradient. Trop neg x 2, ECG showed sinus rhythm no acute 
+ischemic changes. Briefly required supplemental O2 and was 
+diuresed with IV Lasix and dyspnea and hypoxia improved. Was not 
+started on standing diuretic on discharge, to ___ with 
+cardiology.
+
+#Crohn's disease: complicated by stricturing w/ recurrent small 
+bowel obstructions and perirectal abscess disease s/p multiple 
+abdominal surgeries. Continued on home mesalamine for 
+maintenance therapy. Obtained MRE this admission. The study was 
+limited due to motion artifact but showed partial SBO, with 
+several areas of mild active bowel inflammation. Discharged with 
+close GI ___. 
+
+Chronic Problems: 
+#Atrial fibrillation: S/p ablation. continued ASA 81mg daily
+
+#HTN: continued lisinopril 30mg daily
+
+==================
+TRANSITIONAL ISSUES
+==================
+- patient required IV Lasix for diuresis while hospitalized. He 
+was not discharged on any daily Lasix. He will followup with his 
+PCP (Danze) as well as cardiology for further evaluation of 
+diastolic heart failure vs. pulmonary hypertension. 
+- patient discharged to complete a course of levaquin for 
+pneumonia
+- final read of MRE pending at time of discharge; patient to 
+followup with GI for ongoing management of Crohn's disease
+
+CODE: DNR/DNI confirmed with patient
+# CONTACT: ___ (daughter, HCP): ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 30 mg PO DAILY 
+2. Mesalamine ___ mg PO BID 
+3. Diphenoxylate-Atropine 2 TAB PO Q8H:PRN diarrhea 
+4. Aspirin 81 mg PO DAILY 
+5. Cyanocobalamin 1000 mcg IM/SC 1X/MONTH 
+6. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Lisinopril 30 mg PO DAILY 
+3. Mesalamine ___ mg PO BID 
+4. Levofloxacin 750 mg PO Q24H CAP 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth daily Disp #*3 
+Tablet Refills:*0
+5. Cyanocobalamin 1000 mcg IM/SC 1X/MONTH 
+6. Diphenoxylate-Atropine 2 TAB PO Q8H:PRN diarrhea 
+7. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: small bowel obstruction
+SECONDARY DIAGNOSIS: aspiration pneumonia, acute diastolic heart 
+failure, crohn's disease
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you at ___.  You were 
+initially admitted to the hospital due to a small bowel 
+obstruction.  This resolved and you felt much better.  Your 
+hospital course was also complicated by pneumonia as well as 
+some fluid on your lungs.  You were treated with medication and 
+you started to feel better.  Please be sure to followup as 
+listed below.
+
+Sincerely, 
+
+Your ___ Physicians
+ 
+___:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10481486-DS-10 | hadm_id=22245934
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Aspirin / Iodine; Iodine Containing / Codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+sigmoid-vesicular fistula
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ year old Male Crohns of the colon and rectum, who presents 
+with pneumatouria due to a ___ fistula at the 
+sigmoid. Patient has had a similar fistula in the past, which 
+was resected in the ___. He is currently being followed by 
+Drs. ___ for his chron's and is undergoing 
+medical management with Pentasa and Mercaptopurine. Other local 
+surgeries have consisted of a ileal resection and a radical 
+prostatectomy.
+
+Patient states he was on his way to the gym to work out, and 
+felt "something travelling down my penis" which he was concerned 
+did not feel like urine. He states he always urinates prior to 
+lifting weights as he often has mild incontinence when straining 
+to lift. He urinated, but instead foamy bubbles came out. He 
+notes this is similar but much more mild to his last vessicular 
+fistula.
+
+He denies any fever, chills or dysuria since the day prior to 
+admission.
+ 
+Past Medical History:
+Crohn's Disease: s/p ileal resection, sigmoid resection
+h/o ___ fistula
+Prostate Cancer s/p radical prostatectomy
+ 
+Social History:
+___
+Family History:
+No family history of IBD, heart disease, diabetes or bowel 
+cancers
+ 
+Physical Exam:
+ROS:
+GEN: - fevers, - Chills, - Weight Loss
+EYES: - Photophobia, - Visual Changes
+HEENT: - Oral/Gum bleeding
+CARDIAC: - Chest Pain, - Palpitations, - Edema
+GI: - Nausea, - Vomitting, - Diarhea, - Abdominal Pain, - 
+Constipation, - Hematochezia
+PULM: - Dyspnea, - Cough, - Hemoptysis
+HEME: - Bleeding, - Lymphadenopathy
+GU: - Dysuria, - hematuria, - Incontinence, + pneumatouria
+SKIN: - Rash
+ENDO: - Heat/Cold Intolerance
+MSK: - Myalgia, - Arthralgia, - Back Pain
+NEURO: - Numbness, - Weakness, - Vertigo, - Headache
+ 
+PHYSICAL EXAM:
+VSS: 96.6, 130/78, 58, 97%
+GEN: NAD
+Pain: ___
+HEENT: EOMI, MMM, - OP Lesions
+PUL: CTA B/L
+COR: RRR, S1/S2, - MRG
+ABD: NT/ND, +BS, - CVAT
+EXT: - CCE
+NEURO: CAOx3, Non-Focal
+ 
+Pertinent Results:
+___ 08:55PM BLOOD WBC-5.1 RBC-3.97* Hgb-13.0* Hct-37.4* 
+MCV-94# MCH-32.7* MCHC-34.7 RDW-13.7 Plt ___
+___ 08:55PM BLOOD Neuts-72.8* Lymphs-16.2* Monos-6.7 
+Eos-4.1* Baso-0.3
+___ 08:55PM BLOOD ___ PTT-25.6 ___
+___ 08:55PM BLOOD Glucose-100 UreaN-24* Creat-1.2 Na-140 
+K-4.4 Cl-105 HCO3-27 AnGap-12
+___ 09:04PM BLOOD Lactate-0.9
+___ 11:20PM URINE Color-Yellow Appear-Clear Sp ___
+___ 11:20PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+
+CT ABDOMEN W/O CONTRAST  ___ 1:33 AM
+IMPRESSION:
+1. Small amount of air is noted within the bladder. Small 
+tubular area of soft tissue density is rising from the dome of 
+the bladder and is connecting to the sigmoid colon which might 
+represent a sigmoid-vesicular fistula, however, the study was 
+somewhat limited as no IV contrast was administered. If further 
+evaluation is required, a fluoroscopic examination can be 
+performed.
+2. Status post prostatectomy.
+3. Status post resection of the part of small bowel and the 
+descending colon due to Crohn disease. No evidence of active 
+Crohn disease is noted.
+ 
+Brief Hospital Course:
+1. ___ fistula due to Crohn's Disease
+- Red Surgery was Consulted (Dr. ___ Surgeon)
+- GI was Consulted (Dr. ___ GI)
+- Pentasa, Mercaptopurine were continued
+- Patient started on 10 days of ciprofloxacin/Flagyl
+- Unclear if remicade would be optimum choice vs. watchful 
+waiting vs. surgical repair, which will be addressed by Drs 
+___ in the outpatient setting
+- No signs of infection based on urine analysis, empiric 
+antibiotics to both modulate crohn's and prevent UTI
+- Surgical consult recommended foley catheter to be placed for 
+decompression of the bladder, which was removed at time of 
+discharge in consultation with surgery
+ 
+Medications on Admission:
+Lomotil ___ tab PO BID PRN
+L-Arginine 1gram PO BID
+Mercaptopurine 75mg PO Daily
+Mesalamine SR 500mg BID
+Vitamin C 500mg Daily
+B-Complex Vitamins 1 Tab Daily (___)
+Creatine 1 scoop daily
+Ergocalciferol 1000units Daily
+Ferrous Sulfate 325 PO Daily
+MVI with Minerals Daily (multiple kinds)
+Niacin 100mg Daily
+Omega-3 Daily
+Pyridoxine 100mg Daily
+Selenium 200mcg Daily
+Whey 9gram packet TID
+ 
+Discharge Medications:
+1. Diphenoxylate-Atropine 2.5-0.025 mg Tablet Sig: One (1) 
+Tablet PO Q6H (every 6 hours) as needed.  
+2. Mercaptopurine 50 mg Tablet Sig: 1.5 Tablets PO DAILY 
+(Daily).  
+3. Mesalamine 250 mg Capsule, Sustained Release Sig: Two (2) 
+Capsule, Sustained Release PO BID (2 times a day).  
+4. Ascorbic Acid ___ mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. B Complex Vitamins     Capsule Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+7. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+8. Multivitamin,Tx-Minerals     Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+9. Niacin 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+10. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 10 days.
+Disp:*20 Tablet(s)* Refills:*0*
+11. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 10 days.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Colovessicular Fistula
+Crohn's Disease
+ 
+Discharge Condition:
+Good
+ 
+Discharge Instructions:
+Return to the hospital if you have fever/chills, inability to 
+urinate, back pain, feces in the urine
+ 
+Followup Instructions:
+___

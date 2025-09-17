@@ -1,0 +1,498 @@
+===== DISCHARGE NOTE =====
+note_id=11898134-DS-15 | hadm_id=29097577
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+CC:  ___ of breath
+REASON FOR MICU: Intubated
+ 
+Major Surgical or Invasive Procedure:
+Intubated prior to admission
+Bronchoscopy ___
+ 
+History of Present Illness:
+___ with hx of schizophrenia and multiple medical issues 
+relating to STEMI (BMS to circumflex) c/b cardiac arrest, CHF, 
+aspiration PNA, ?COPD, and blood loss anemia who presented to 
+___ from rehab after an acute episode of respiratory 
+distress and was subsequently intubated. Per EMS report he had 
+been having hemoptysis and SOB that acutely worsened tonight. He 
+was hypoxic to ___. Given medical complexity, he was transferred 
+to ___.  
+
+In review of his records, he was initially admitted to ___ 
+___ in ___ with STEMI but was 
+transferred to ___ for placement of BMS to 
+circumflex. His course at that time was complicated by 
+aspiration PNA, pulmonary edema, and multiorgan shock requiring 
+ICU. He was then discharged to rehab but almost immediately had 
+to return to ___ ICU in late ___ for thrombosed 
+stent. That course was complicated by diastolic HF, COPD, 
+aspiration PNA, and blood transfusions ___ suspected GI bleed. 
+
+Xray was concerning for ARDS. He received 2L of fluid and was 
+started on Vancomycin and Zozyn. Sedated on versed and fentanyl 
+drips. 
+
+In the ED he received aspirin PR. Bedside echo limited. A 
+limited bedside TTE was performed without clear cardiac 
+etiology. 
+
+In ED initial VS:  97.8 ___ 35 100% vent  
+Labs significant for:  leukocytosis, initially elevated lactate 
+to 4, now resolved. Hgb 7
+Imaging notable for:  CXR with diffuse ___ batwing interstital 
+infiltrates, ETT in appropriate location
+
+TTE: ___ MR, Circumflex territory hypokinesis
+VS prior to transfer:  36.9 ___ 22 99% Intubation 
+ 
+On arrival to the MICU,  patient is alert, oriented, and 
+following commands. Denies chest pain or any other pain. Not 
+currently uncomfortable. 
+
+REVIEW OF SYSTEMS:  unable to obtain in detail. Notable as above
+
+ 
+Past Medical History:
+CAD s/p STEMI (BMS to circumflex) w in stent thrombosis - 
+___
+Cardiac Arrest ___
+PAD
+HTN
+Afib
+Schizophrenia- diagnosed at ___ w/ episodic agitation/paranoia. 
+Usually on monthly fluphenazine. 
+?Chronic GI bleed: ___ deferred until stable 
+ 
+Social History:
+___
+Family History:
+Unable to obtain
+ 
+Physical Exam:
+Admission:
+==========
+VITALS:  98.7 115 127/96 16 97% PS
+GENERAL: intubated but appears comfortable. following commands
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: coarse breath sounds but no wheeze
+CV: Regular rate and rhythm, normal S1 S2, +SEM at apex
+ABD: soft, non-tender, distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN:  no apparent rashes
+NEURO:  following commands, PERRL
+
+Discharge:
+==========
+VITALS: Temp: 97.6 (Tm 98.4), BP: 101/68 (101-129/55-72), HR: 65
+(65-89), RR: 18 (___), O2 sat: 100% (92-100), O2 delivery: Ra  
+
+General: AOx3, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, occasional dry cough
+CV: RRR, S1 and S2 audible, no murmurs appreciated
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, trace pedal edema, varicose 
+veins, clubbing
+Neuro: CN II-XII intact, purposefully moves all extremities, no
+pronator drift
+Psych: Flat affect, interacting and follows commands, speaks 
+short sentences, apparent foot tapping versus akathesia
+
+ 
+Pertinent Results:
+Admission and notable labs:
+
+___ 11:50PM BLOOD WBC-21.2* RBC-2.35* Hgb-7.0* Hct-22.9* 
+MCV-97 MCH-29.8 MCHC-30.6* RDW-18.6* RDWSD-64.0* Plt ___
+___ 11:50PM BLOOD Neuts-92* Bands-0 Lymphs-4* Monos-4* 
+Eos-0 Baso-0 ___ Myelos-0 AbsNeut-19.50* 
+AbsLymp-0.85* AbsMono-0.85* AbsEos-0.00* AbsBaso-0.00*
+___ 11:50PM BLOOD ___ PTT-26.5 ___
+___ 11:50PM BLOOD Glucose-158* UreaN-11 Creat-0.8 Na-134* 
+K-6.3* Cl-100 HCO3-21* AnGap-13
+___ 06:32AM BLOOD Glucose-99 UreaN-13 Creat-0.7 Na-137 
+K-3.9 Cl-101 HCO3-23 AnGap-13
+___ 11:50PM BLOOD ALT-23 AST-66* CK(CPK)-50 AlkPhos-69 
+TotBili-1.1
+___ 11:50PM BLOOD CK-MB-4
+___ 11:50PM BLOOD cTropnT-0.18*
+___ 03:00AM BLOOD proBNP-4195*
+___ 03:00AM BLOOD cTropnT-0.18*
+___ 06:32AM BLOOD CK-MB-5
+___ 11:50PM BLOOD Albumin-2.9*
+___ 06:32AM BLOOD Calcium-8.0* Phos-3.6 Mg-1.6
+___ 02:43AM BLOOD pO2-54* pCO2-37 pH-7.40 calTCO2-24 Base 
+XS-0
+___ 11:55PM BLOOD Lactate-2.1* K-4.4
+___ 03:10AM BLOOD Lactate-1.6
+___ 11:50PM URINE Blood-MOD* Nitrite-NEG Protein-30* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 11:50PM URINE Color-Yellow Appear-Clear Sp ___
+___ 11:50PM URINE RBC-12* WBC-14* Bacteri-FEW* Yeast-NONE 
+Epi-1
+
+PLEURAL FLUID
+___ 03:45PM OTHER BODY FLUID Hct,Fl-<2  Polys-36* Lymphs-3* 
+Monos-54* Other-7*
+___ 03:45PM OTHER BODY FLUID Hct,Fl-LESS THAN  Polys-83* 
+Lymphs-3* Monos-2* Atyps-1* Macro-11*
+___ 03:45PM OTHER BODY FLUID Hct,Fl-LESS THAN  Polys-62* 
+Lymphs-5* Monos-2* Macro-31*
+
+MICROBIOLOGY:
+___ 11:52PM OTHER BODY FLUID FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+ 
+___ 6:00 am URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   Legionella Urinary Antigen  (Final ___: 
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. 
+           (Reference Range-Negative). 
+      Performed by Immunochromogenic assay. 
+      A negative result does not rule out infection due to other 
+L.
+      pneumophila serogroups or other Legionella species. 
+Furthermore, in
+      infected patients the excretion of antigen in urine may 
+vary. 
+
+IMAGING:
+The left atrium is mildly dilated. No atrial septal defect is 
+seen by 2D or color Doppler. The estimated right atrial pressure 
+is at least 15 mmHg. There is mild symmetric left ventricular 
+hypertrophy with normal cavity size. There is mild regional left 
+ventricular systolic dysfunction with near akinesis of the 
+inferolateral and inferior walls. The remaining segments 
+contract normally. Quantitative (biplane) LVEF = 40 %. The right 
+ventricular cavity is mildly dilated with moderate global free 
+wall hypokinesis. There is abnormal septal motion/position 
+consistent with right ventricular pressure/volume overload. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. Moderate (2+) mitral 
+regurgitation is seen. Moderate [2+] tricuspid regurgitation is 
+seen. There is moderate to severe pulmonary artery systolic 
+hypertension. There is a trivial/physiologic pericardial 
+effusion. 
+
+ IMPRESSION: Suboptimal image quality. Right ventricular cavity 
+dilation and free wall hypokinesis. Moderate to severe pulmonary 
+artery systolic hypertension. Moderate tricuspid regurgitation. 
+Symmetric left ventricular hypertrophy with regional systolic 
+dysfunction most c/w CAD (PDA distribution). Moderate mitral 
+regurgitation most likely due to papillary muscle dysfunction. 
+
+ Compared with the prior study (images reviewed) of ___, 
+moderate to severe pulmonary artery systolic hypertension is now 
+identified (not quantified on prior study). Left and right 
+ventricular volumes and contractility are similar.  
+
+___ CT CHEST: 
+IMPRESSION:   
+1. Diffuse airspace opacities with surrounding ground-glass and 
+interlobular septal (crazy paving pattern) in both lungs.  
+Differential considerations include ARDS, diffuse alveolar 
+hemorrhage or pulmonary edema.  Concurrent infection is also a 
+consideration. 
+2. Mediastinal lymphadenopathy may be reactive to the above 
+process. 
+3. Small bilateral pleural effusions with possible loculated 
+component along the right major fissure. 
+4. 9 mm right thyroid nodule which requires no further 
+evaluation in the 
+absence of thyroid cancer risk factors. 
+
+CXR ___:
+IMPRESSION:  Comparison to ___.  While the left 
+parenchymal opacities are stable, the widespread right-sided 
+opacities have minimally decreased in extent and severity.  
+Otherwise the radiograph is unchanged.  Moderate cardiomegaly 
+persists.  No larger pleural effusions.  Stable position of the 
+endotracheal tube. 
+
+DISCHARGE LABS:
+
+___ 04:50AM BLOOD WBC-11.2* RBC-2.91* Hgb-8.4* Hct-26.8* 
+MCV-92 MCH-28.9 MCHC-31.3* RDW-16.1* RDWSD-52.7* Plt ___
+___ 04:50AM BLOOD Glucose-104* UreaN-16 Creat-0.7 Na-136 
+K-3.6 Cl-95* HCO3-29 AnGap-12
+___ 04:45AM BLOOD TotBili-1.4
+___ 04:50AM BLOOD Calcium-9.2 Phos-3.4 Mg-2.0
+___ 04:45AM BLOOD Hapto-343*
+___ 03:00AM BLOOD ANCA-NEGATIVE B
+___ 03:00AM BLOOD ___
+ 
+Brief Hospital Course:
+PATIENT SUMMARY:
+================
+
+___ yo M with history of CAD including recent STEMI/cardiac 
+arrest, PE, and schizophrenia presenting with hypoxemic 
+respiratory failure in setting of cough and hemoptysis.
+
+ACUTE ISSUES:
+=============
+
+# ACUTE HYPOXIC RESPIRATORY FAILURE
+# Hemoptysis
+Sent in from rehab with hypoxic respiratory failure. Intubated 
+at ___ and transferred to ___ MICU. Extubated on 
+___. Differential: DAH vs more likely pulmonary edema with 
+volume overload/HF exacerbation. flu negative, MRSA negative, 
+legionella negative. Patient underwent bronchoscopy on ___ 
+which did not appear consistent with DAH based on cell 
+counts/Hct and based on qualitative assessment during 
+bronchoscopy. Most likely etiology thought to be acute systolic 
+heart failure. TTE showed right ventricular cavity dilation and 
+free wall hypokinesis. Moderate to severe pulmonary artery 
+systolic hypertension. Moderate tricuspid regurgitation. 
+Symmetric left ventricular hypertrophy with regional systolic 
+dysfunction most c/w CAD (PDA distribution). Moderate mitral 
+regurgitation most likely due to papillary muscle dysfunction. 
+LVEF 40%. He did have anti-GBM, ___, and ANCA 
+checked to rule out vasculitis as etiology for possible DAH. ___ 
+and ANCA were unrevealing. He was diuresed with Lasix IV 40 mg 
+and briefly on Lasix gtt in the ICU, transitioned to 60 mg PO QD 
+upon discharge. He was placed on vancomycin and cefepime 
+___. Imdur and hydralazine added this admission for 
+better afterload reduction. Patient has had angioedema on 
+___ so was started on these medications instead.
+
+# CAD/NSTEMI II
+# CHF
+TTE with EF 40%, 2+ MR this admission: Patient presented with 
+troponin leak to 0.18 with flat MB. Noted to have ST depressions 
+V2-V5 that subsequently resolved. Suspect demand ischemia as 
+opposed to acute plaque rupture. He was continued on his home 
+___ and ___ 81 and atorvastatin 80 mg QHS. Over hospital 
+course, his metop was restarted at 6.25mg Q6H. This was 
+transitioned to metoprolol succinate at the time of discharge. 
+
+He was seen by cardiology who recommended the following:
+
+1.  Continue aspirin 81 mg daily and ___ 90 mg twice 
+daily.  He will likely need to remain on this regimen 
+indefinitely.
+2.  Please continue metoprolol tartrate and titrate to a heart 
+rate of approximately 60 bpm. Prior to discharge the metoprolol 
+can be converted to succinate for ease of administration. 
+3.  Please continue Lasix 60 mg daily.
+4.  Continue Imdur 15 mg daily and hydralazine 5 mg twice daily. 
+The hydralazine can be uptitrated as needed for afterload 
+reduction.
+5.  Please continue atorvastatin 80 mg daily.
+6.  The patient should have close outpatient cardiology 
+follow-up on discharge.
+
+#Acute on Chronic Blood Loss Anemia
+Patient with report of hemoptysis as well as previous GI bleed 
+that was to be further explored as an outpatient. He was 
+monitored with CBCs and received total of 2U pRBC this 
+admission. Hgb stable at discharge at 8.4.
+
+# Question of atrial fibrillation
+No evidence of this while in ICU, per ICU team history of this 
+is unclear. ___-2-VASc of 2 for HF and hypertension history, 
+does not appear to be on any anticoagulation as outpatient. That 
+being said, currently no indication for bridging and there is 
+concern for acute blood loss anemia. 
+- Need to clarify with outpatient cardiologist Dr. ___ 
+- ___ per HFrEF as noted above
+
+# Leukocytosis
+Resolved ___. Likely stress reaction due to acute hypoxemic 
+respiratory failure. No evidence of infection. WBC on discharge 
+11.2.
+
+# Schizophrenia:
+Stable for ___ years on IM fluphenazine. Currently stable this 
+admission and has completed PO overlap for dose missed in 
+___. No need for changes to plan. Most recent IM dose 
+(___).
+ 
+CHRONIC ISSUES:
+===============
+
+# Peripheral artery disease:
+Common femoral 80% stenosis per outside records. Continued on 
+___, statin as per above.
+
+# COPD
+Diagnosed at ___ (per records). On Albuterol, Advair as 
+outpt, but satting well on RA now, without productive cough. 
+Will restart home medications upon discharge.
+
+# Tobacco use, in remission
+2 PPD smoker for years. Quit cold ___ after ___
+
+TRANSITIONAL ISSUES:
+====================
+
+Follow up:
+# Follow up with Dr. ___ 
+# Schedule an appointment with your PCP within the next couple 
+weeks
+
+Incidental findings requiring follow up:
+
+# Incidental thyroid nodules, renal cysts should be assessed as 
+outpatient.
+# Mitral regurgitation noted on TTE. Should be followed up in 
+cardiology as an outpatient. Patient also noted to have moderate 
+to severe pulmonary artery systolic hypertension. Can consider 
+repeat TTE as outpatient. 
+# ?Atrial fibrillation: No documented atrial fibrillation in 
+house. Consider continuous event monitor. 
+# ___ require outpatient GI follow up (per notes from ___ 
+on ___ was scheduled for ___ with unknown MD)
+
+Home safety: 
+
+# Patient has not lived alone ever, sisters concerned that he 
+needs rehab for ___ to at least be able to use stairs in their 
+house and demonstrate ability to perform iADLs (had been living 
+with his mother who was brought to nursing home with dementia in 
+___, a few weeks after his initial MI). Clarified 
+during family meeting ___.
+
+NEW MEDICATIONS:
+-HydrALAZINE 5 mg PO BID 
+-Isosorbide Mononitrate (Extended Release) 15 mg PO DAILY 
+-Magnesium Oxide 400 mg PO QOD 
+-Metoprolol Succinate XL 100 mg PO DAILY
+-Potassium Chloride 40 mEq PO DAILY
+
+STOPPED MEDICATIONS: NONE
+
+CHANGED MEDICATIONS:
+-Furosemide 60 mg PO DAILY 
+
+# DISCHARGE WEIGHT: 97.6 kg
+# DISCHARGE CREATININE: 0.7
+
+# Communication: 
+HCP: ___: ___ (primary)  
+Alternate: ___ home: ___ cell: ___ 
+(secondary)  
+# Code: Full, presumed  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluphenazine 5 mg PO BID 
+2. LORazepam 0.5 mg PO Q8H:PRN anxiety 
+3. HYDROcodone-Acetaminophen (5mg-325mg) 1 TAB PO Q6H:PRN Pain - 
+Severe 
+4. Bisacodyl 10 mg PO DAILY:PRN constipation 
+5. Senna 17.2 mg PO DAILY:PRN constipation 
+6. Milk of Magnesia 30 mL PO Q12H:PRN constipiation 
+7. Sodium Chloride Nasal ___ SPRY NU BID:PRN dryness 
+8. ___ 90 mg PO BID 
+9. Aspirin 81 mg PO DAILY 
+10. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheezing 
+11. Atorvastatin 80 mg PO QPM 
+12. Omeprazole 20 mg PO DAILY 
+13. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+14. Furosemide 40 mg PO DAILY 
+15. Metoprolol Tartrate 25 mg PO BID 
+
+ 
+Discharge Medications:
+1.  HydrALAZINE 5 mg PO BID  
+2.  Isosorbide Mononitrate (Extended Release) 15 mg PO DAILY  
+3.  Magnesium Oxide 400 mg PO QOD  
+4.  Metoprolol Succinate XL 100 mg PO DAILY  
+5.  Potassium Chloride 40 mEq PO DAILY 
+Hold for K >  
+6.  Furosemide 60 mg PO DAILY  
+7.  Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheezing  
+8.  Aspirin 81 mg PO DAILY  
+9.  Atorvastatin 80 mg PO QPM  
+10.  Bisacodyl 10 mg PO DAILY:PRN constipation  
+11.  Fluphenazine DECANOATE 50 mg IM/SC EVERY 28 DAYS  
+12.  HYDROcodone-Acetaminophen (5mg-325mg) 1 TAB PO Q6H:PRN Pain 
+- Severe 
+RX *hydrocodone-acetaminophen 5 mg-325 mg 1 tablet(s) by mouth 
+every six (6) hours Disp #*15 Tablet Refills:*0 
+13.  LORazepam 0.5 mg PO Q8H:PRN anxiety 
+RX *lorazepam 0.5 mg 1 tablet by mouth every eight (8) hours 
+Disp #*15 Tablet Refills:*0 
+14.  Milk of Magnesia 30 mL PO Q12H:PRN constipiation  
+15.  Omeprazole 20 mg PO DAILY  
+16.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+17.  Senna 17.2 mg PO DAILY:PRN constipation  
+18.  Sodium Chloride Nasal ___ SPRY NU BID:PRN dryness  
+19.  ___ 90 mg PO BID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY:
+========
+Acute hypoxic respiratory failure
+Acute systolic heart failure
+
+SECONDARY:
+==========
+CAD s/p PCI
+Schizophrenia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of your ___ 
+___.
+
+WHY WERE YOU IN THE HOSPITAL?
+You were hospitalized because of trouble breathing.  
+
+WHAT HAPPENED IN THE HOSPITAL?
+You initially needed a breathing tube to help you breathe. This 
+was then removed. You received medications to remove extra fluid 
+and your breathing improved. We think that your heart caused you 
+to have this extra fluid so we gave you medications to improve 
+your heart function.
+
+WHAT HAPPENS AFTER YOU LEAVE THE HOSPITAL?
+You should take all of your medications as prescribed when you 
+leave the hospital. You should follow up with your doctors as 
+___ below.
+
+We wish you the best,
+Your ___ ___ ___ Care ___
+ 
+Followup Instructions:
+___

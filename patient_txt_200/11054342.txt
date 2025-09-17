@@ -1,0 +1,1468 @@
+===== DISCHARGE NOTE =====
+note_id=11054342-DS-17 | hadm_id=22262768
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Azithromycin / Codeine / Sulfa (Sulfonamide 
+Antibiotics) / cephalexin / macrolides & ketolides 
+ 
+Attending: ___.
+ 
+Chief Complaint:
+DKA
+ 
+Major Surgical or Invasive Procedure:
+N/A
+ 
+History of Present Illness:
+___ female past medical history of type 1 diabetes on
+insulin pump, normal pressure hydrocephalus status post shunt
+placement, and hypertension who presents with hyperglycemia and
+nausea/vomiting.  She woke this morning felt weak, and nauseous,
+and a little disoriented.  She missed her sugars were 4 561 at 8
+AM.  She tried giving herself a correctional dose of NovoLog but
+the pump was flashing ___ and so unclear if it was ever
+administered.  She retook her sugar level 45 minutes later and 
+it
+was 540.  Her sugars are normally very well controlled, and her
+last A1c was 6.3 in ___.  She vomited once shortly
+before arrival to ED (describes it as yellow with speckles of
+red).  She feels very thirsty, but no increased urination.  She
+denies chest pain/shortness of breath/bowel pain/upper
+respiratory tract symptoms/dizziness/headache.  She is followed
+by ___ at ___. 
+
+In the ED,  
+- Initial Vitals:  98.2 108/62 113 19 97% RA 
+- Exam: Notable for ___ systolic murmur at the left sternal
+border, abdomen nontender, nondistended.
+- Labs:  ___ 02:35PM BLOOD WBC: 10.1* RBC: 3.83* Hgb: 10.6*
+Hct: 33.4* MCV: 87 MCH: 27.7 MCHC: 31.7* RDW: 14.0 RDWSD: 44.___ 
+___ 02:35PM BLOOD Glucose: 634* UreaN: 38* Creat: 1.2* Na:
+126* K: 6.4* Cl: 83* HCO3: 11* AnGap: 32* 
+___ 02:35PM BLOOD Calcium: 9.6 Phos: 5.1* Mg: 2.2 
+___ 02:00PM BLOOD Lactate: 2.3* 
+-Imaging: chest x-ray without cardioPulmonary abnormality
+-Consults:  ___
+-Interventions: Zofran 4 mg IV, insulin regular 10 units sc, 1 L
+NS 
+
+On arrival to the ICU, the patient confirms the above history. 
+She denies any fever/chills/cough/shortness of breath/chest
+pain/abdominal pain/dysuria.  No increased urinary frequency.  
+No
+diarrhea/constipation/myalgia/arthralgia.
+
+She has no other sick contacts.  She is overall been feeling 
+well
+prior to this morning.
+
+Her main symptom is feeling tired this morning.
+  
+ROS: Positives as per HPI; otherwise negative.  
+
+ 
+Past Medical History:
+-stroke in the corona radiata extending into the anterior limb 
+of the internal capsule on the right on ___. At that time, 
+pt presented with dysarthria, hiccups, dysphagia, left facial 
+droop and typing errors with the left hand. She does not think 
+that she had any numbness or weakness at that time. 
+-insulin dependent diabetes mellitus diagnosed ___, 
+complications include diabetic retinopathy, on insulin pump 
+-macular degeneration 
+-HTN
+-Hyperlipidemia
+-depression
+-iron deficiency anemia
+-osteopenia
+-normal pressure hydrocephalus s/p Right Metronic Strata VPS
+placement on ___
+-Allergic rhinitis
+-Chest pain
+-deviated nasal septum 
+-hyponatremia
+-obstructive sleep apnea
+-R shoulder pain
+-vitiligo 
+ 
+Social History:
+___
+Family History:
+Father and paternal aunt DM.
+No known history of neurologic disease.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM 
+======================== 
+VS: Reviewed in metavision 
+GENERAL: Alert and interactive. In no acute distress.  
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.  
+NECK: No cervical lymphadenopathy. No JVD.  
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.  
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.  
+BACK: No spinous process tenderness. No CVA tenderness.  
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.  
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.  
+SKIN: Warm. Cap refill <2s. No rash.  
+NEUROLOGIC: No gross/focal deficits 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 02:35PM BLOOD WBC-10.1* RBC-3.83* Hgb-10.6* Hct-33.4* 
+MCV-87 MCH-27.7 MCHC-31.7* RDW-14.0 RDWSD-44.7 Plt ___
+___ 02:35PM BLOOD Neuts-88.9* Lymphs-5.0* Monos-5.3 
+Eos-0.0* Baso-0.3 Im ___ AbsNeut-8.96* AbsLymp-0.50* 
+AbsMono-0.53 AbsEos-0.00* AbsBaso-0.03
+___ 02:30PM BLOOD Glucose-633* UreaN-39* Creat-1.2* Na-126* 
+K-6.8* Cl-86* HCO3-8* AnGap-32*
+___ 04:06AM BLOOD ALT-29 AST-23 LD(LDH)-156 AlkPhos-59 
+TotBili-0.3
+___ 02:30PM BLOOD Calcium-9.6 Phos-4.9* Mg-2.2
+___ 01:50PM BLOOD %HbA1c-6.6* eAG-143*
+___ 05:13PM BLOOD ___ pO2-55* pCO2-37 pH-7.26* 
+calTCO2-17* Base XS--9
+___ 02:00PM BLOOD Lactate-2.3*
+
+IMAGING:
+========
+CXR ___
+FINDINGS:  
+Heart size is normal.  The mediastinal and hilar contours are 
+normal. The 
+pulmonary vasculature is normal. Lungs are clear.  No pleural 
+effusion or 
+pneumothorax is seen. There are no acute osseous abnormalities.  
+Right-sided VP shunt catheter is re-demonstrated. 
+IMPRESSION:  
+No acute cardiopulmonary abnormality. 
+
+Discharge Labs:
+
+___ 07:40AM BLOOD WBC-5.5 RBC-3.69* Hgb-10.3* Hct-31.3* 
+MCV-85 MCH-27.9 MCHC-32.9 RDW-13.8 RDWSD-42.6 Plt ___
+___ 07:40AM BLOOD Glucose-428* UreaN-15 Creat-0.7 Na-135 
+K-4.8 Cl-97 HCO3-25 AnGap-13
+___ 02:35PM BLOOD %HbA1c-6.7* eAG-146*
+___ 09:04PM BLOOD Lactate-1.___RIEF FICU COURSE:
+==================
+Ms. ___ is a ___ female past medical history of type 1 
+diabetes
+admitted to the ICU with DKA in the setting of insulin pump 
+malfunction. 
+She was briefly placed on an insulin drip until her glucose 
+level was lower and her anion gap closed, and then she was 
+transitioned to subcutaneous insulin within a day. 
+
+FLOOR COURSE:
+=============
+Once transferred to the floor she was started on weight based 
+insulin - lantus and Humalog with meals. She was bridged to a 
+new ___ insulin pump the next day which was programmed by 
+the ___ team
+
+TRANSITIONAL ISSUES
+===================
+[ ] Pt to follow up with outpatient endocrinologist
+
+>30 min spent on discharge planning including face to face time 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. BuPROPion 75 mg PO DAILY 
+2. Cilostazol 100 mg PO BID 
+3. FLUoxetine 40 mg PO DAILY 
+4. olmesartan 20 mg oral DAILY 
+5. Omeprazole 20 mg PO DAILY 
+6. risedronate 35 mg oral 1X/WEEK 
+7. Simvastatin 20 mg PO QPM 
+8. Aspirin 325 mg PO DAILY 
+9. Calcium Citrate + D (calcium citrate-vitamin D3) 315-200 
+mg-unit oral BID 
+10. Multivitamins 1 TAB PO DAILY 
+11. Insulin  Pump SC (Self Administering Medication)Insulin 
+Aspart (Novolog) (non-formulary)
+Target glucose: 80-180
+
+12. FoLIC Acid 1 mg PO DAILY 
+13. Zinc Sulfate 50 mg PO DAILY 
+14. PreserVision AREDS-2 (vit C,E-Zn-coppr-lutein-zeaxan) 
+250-200-40-1 mg-unit-mg-mg oral DAILY 
+15. Fish Oil (Omega 3) 1000 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Insulin  Pump SC (Self Administering Medication)Insulin 
+Aspart (Novolog) (non-formulary)
+Target glucose: 80-180
+ 
+2.  Aspirin 325 mg PO DAILY  
+3.  BuPROPion 75 mg PO DAILY  
+4.  Calcium Citrate + D (calcium citrate-vitamin D3) 315-200 
+mg-unit oral BID  
+5.  Cilostazol 100 mg PO BID  
+6.  Fish Oil (Omega 3) 1000 mg PO BID  
+7.  FLUoxetine 40 mg PO DAILY  
+8.  FoLIC Acid 1 mg PO DAILY  
+9.  Multivitamins 1 TAB PO DAILY  
+10.  olmesartan 20 mg oral DAILY  
+11.  Omeprazole 20 mg PO DAILY  
+12.  PreserVision AREDS-2 (vit C,E-Zn-coppr-lutein-zeaxan) 
+250-200-40-1 mg-unit-mg-mg oral DAILY  
+13.  risedronate 35 mg oral 1X/WEEK  
+14.  Simvastatin 20 mg PO QPM  
+15.  Zinc Sulfate 50 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+DKA
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the ICU for management of DKA. We treated 
+you with an insulin drip and transitioned you to your home 
+insulin pump. Please follow up with your endocrinologist as an 
+outpatient. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11054342-DS-15 | hadm_id=23041904
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Bactrim / Azithromycin / Codeine / Sulfa (Sulfonamide 
+Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Difficulty walking and increased urinary frequency
+ 
+Major Surgical or Invasive Procedure:
+___ R VP shunt placement
+
+ 
+History of Present Illness:
+The patient is a lovely ___ who presents with worsening 
+cognition, increased urinary frequency, and ataxia secondary to 
+ventriculomegaly, with interval enlargement noted between scans 
+___ vs. ___. She presents for elective R VP shunt placement.
+ 
+Past Medical History:
+-stroke in the corona radiata extending into the anterior limb 
+of the internal capsule on the right on ___. At that time, 
+pt presented with dysarthria, hiccups, dysphagia, left facial 
+droop and typing errors with the left hand. She does not think 
+that she had any numbness or weakness at that time. 
+-insulin dependent diabetes mellitus diagnosed ___, 
+complications include diabetic retinopathy
+-HTN
+-Hyperlipidaemia
+-depression
+-iron deficiency anemia
+-osteopenia
+
+ 
+Social History:
+___
+Family History:
+Father and paternal aunt DM.
+No known history of neurologic disease.
+
+ 
+Physical Exam:
+=============
+ON DISCHARGE: 
+=============
+___ x 3.  NAD.  PERRLA.  CN II-XII intact.  
+Incisions clean, dry and intact.
+LS clear
+RRR
+Abdomen soft, NTND
+___ BUE and BLE.  No drift.
+ 
+Pertinent Results:
+See OMR for pertinent lab results. 
+ 
+Brief Hospital Course:
+#Ventriculomegaly
+The patient was admitted following uncomplicated placement of R 
+VP shunt ___ strata set to 2.0 ___ 
+ventriculomegaly on ___. For details of the procedure, please 
+refer to Dr. ___ operative note. The patient was 
+extubated and transferred to the PACU without incident. While in 
+the PACU, the patient was noted to be neurologically intact. 
+Post-operative CT was performed and revealed no evidence of 
+hemorrhage or infarct with satisfactory placement of the 
+catheter tip in the frontal horn of the right lateral ventricle. 
+The patient was subsequently transferred to the ___ for further 
+monitoring, where she underwent q2hr neurologic checks. On POD1, 
+the patient ambulated OOB and tolerated sips. However, her 
+ability to tolerate PO intake was limited due to ongoing nausea, 
+which was treated with Zofran and scopolamine to good effect. It 
+was felt the scopolamine patch may have cause confusion 
+post-operatively and was d/c'd with improvement in the patient's 
+mental status and did not result in worsening nausea. Here 
+neurologic exam remained stable for the remaineder of her 
+hospital course. 
+
+At the time of discharge, the patient was neurologically intact; 
+all surgical sites were C/D/I without evidence of induration, 
+erythema, or swelling. 
+
+#Pre-renal azotemia
+The patient initially failed to void following surgery. There 
+was no evidence of urinary retention on bladder scan. However, 
+her urine output was borderline low (actual: 20 cc/hr, expected 
+27 cc/hr) in the setting of prerenal azotemia (BUN 25/Cr 0.8 = 
+31.25). Given poor PO intake in the setting of nausea, she 
+continued IV hydration with NS @ 75 mL/hr and received a 500 cc 
+NS bolus on POD1, after which she voided on POD1 evening.
+
+#DM1
+The patient continued home insulin pump post-operatively. The 
+___ service was consulted and recommended increased basal 
+insulin rate as well as sliding scale, as patient was 
+hyperglycemic (SBP ~240s) and questionably confused with 
+inability to self manage. The patient self d/c'd her pump on 
+___ and she was started on Lantus daily and continued on 
+insulin sliding scale per ___ recommendation. Her blood 
+sugars were labile while off the insulin pump. She received her 
+last dose of Lantus on ___ and re-initiated use of her insulin 
+pump on the morning of ___.  She continued to do well with her 
+pump and was monitored until the morning of ___ when settings 
+were adjusted and she was discharged to rehab.  
+
+#Hyponatremia: Patient has chronically low sodium (records as 
+far back as ___ however in the setting of her post-operative 
+confusion she was started on sodium tabs 1G TID, which was 
+increased to 2g TID and had normotremia on discharge.  Her 
+sodium tabs may be weaned as tolerated. Her mag, phos and 
+calcium were also repleted PRN. 
+
+#Confusion
+The patient was noted to be mildly confused on POD1 evening. 
+Neurologic exam was otherwise intact. U/A was sent to rule out 
+UTI and negative. Confusion resolved after discontinuation of 
+scopolamine patch. 
+
+#Disopostion: 
+Patient was evaluated by ___ and OT who recommended rehab. Case 
+management was involved to work on bed placement. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. BuPROPion 75 mg PO BID 
+2. FLUoxetine 20 mg PO DAILY 
+3. Insulin  Pump SC (Self Administering Medication)
+Target glucose: 80-180
+
+4. olmesartan 20 mg oral QHS 
+5. omeprazole 20 mg oral QAM 
+6. risedronate 35 mg oral 1X/WEEK 
+7. Simvastatin 20 mg PO QPM 
+8. Aspirin 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN fever or pain  
+2.  Bisacodyl 10 mg PO/PR DAILY:PRN constipation   
+3.  Cilostazol 100 mg PO BID  
+4.  Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol  
+5.  Docusate Sodium 100 mg PO BID  
+6.  Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol  
+7.  Glucose Gel 15 g PO PRN hypoglycemia protocol  
+8.  Heparin 5000 UNIT SC BID  
+9.  OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN pain  
+10.  Polyethylene Glycol 17 g PO DAILY:PRN constipation   
+11.  Senna 17.2 mg PO QHS  
+12.  Sodium Chloride 2 gm PO TID  
+13.  Insulin  Pump SC (Self Administering Medication)Insulin 
+Aspart (Novolog) (non-formulary)
+Basal rate minimum: 0.85 units/hr
+Basal rate maximum: 0.85 units/hr
+Bolus minimum: 0.5 units
+Bolus maximum: 15 units
+Target glucose: ___
+Fingersticks: QAC and HS
+MD acknowledges patient competent
+MD has completed competency
+ 
+14.  Aspirin 325 mg PO DAILY  
+15.  BuPROPion 75 mg PO BID  
+16.  FLUoxetine 20 mg PO DAILY  
+17.  olmesartan 20 mg oral QHS  
+18.  omeprazole 20 mg oral QAM  
+19.  risedronate 35 mg oral 1X/WEEK  
+20.  Simvastatin 20 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Ventriculomegaly
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Discharge Instructions
+
+Ventriculoperitoneal Shunt
+
+Surgery
+
+•You had a VP shunt placed for hydrocephalus. Your incisions 
+should be kept dry until sutures or staples are removed.
+•Your shunt is a ___ Strata Valve which is programmable. 
+This will need to be readjusted after all MRIs or exposure to 
+large magnets.  Your shunt is programmed to 2.0.
+•It is best to keep your incision open to air but it is ok to 
+cover it when outside. 
+•Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+•We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+•You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+•No driving while taking any narcotic or sedating medication. 
+•If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+•No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+•Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+You should NOT take aspirin and cilastazol until ___.
+•You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+•Headache or pain along your incision. 
+•Some neck tenderness along the shunt tubing.
+•Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+When to Call Your Doctor at ___ for:
+•Severe pain, swelling, redness or drainage from the incision 
+site. 
+•Fever greater than 101.5 degrees Fahrenheit
+•Nausea and/or vomiting
+•Extreme sleepiness and not being able to stay awake
+•Severe headaches not relieved by pain relievers
+•Seizures
+•Any new problems with your vision or ability to speak
+•Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+•Sudden numbness or weakness in the face, arm, or leg
+•Sudden confusion or trouble speaking or understanding
+•Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+•Sudden severe headaches with no known reason
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11054342-DS-14 | hadm_id=24079621
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Bactrim / Azithromycin / Codeine
+ 
+Attending: ___
+ 
+Chief Complaint:
+Diplopia
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ year-old right-handed woman with a PMH
+significant for 2 prior strokes (one in ___ involving corona
+radiata on the right and another in ___ involving left lateral
+thalamus) and DMI who developed gait unsteadiness and diplopia 
+on ___ and presented to the ___ ED. 
+She says that she was walking/exercising between 3 and 3:30 ___ 
+on ___,
+without any gait difficulties or imbalance. She did not get up 
+to
+walk again until 6:30 ___, whe she got up and noticed that her
+balance was off. She says she then went down the stairs and felt
+"strange," but couldn't exactly describe the sensation. She
+believed she was having increased difficulty with turning. She
+was able to eat dinner without difficulty and had no problems
+with swallowing (above baseline) or bringing the food to her
+mouth. She was then able to do a crossword puzzle after dinner.
+She then went to bed, and at around 9:15 ___, she noticed that 
+she was
+seeing double. The objects appeared one on ___ of the other and
+the image on top was noted to be smaller. She also says that
+things were moving in a clockwise direction. When she closed one
+eye, the diplopia resolved (it didn't matter which eye), but
+the clockwise spinning sensation remained. She does not have any
+sensation that she is spinning with regards to the world. She
+said it felt like she was unable to fix her gaze on an
+object. The diplopia and apparent clockwise motions remained 
+when she presented. She also developed nausea and vomited around 
+9:30 ___. She has never
+had similar symptoms in the past. 
+  Her last brain imagining was in ___, which showed no evidence
+of acute infarct and normal circle of ___ MRA. Of note, she
+says that she had tried Aggrenox in the past for her small 
+vessel
+disease, but stopped it because of constant bowel movements; it
+was switched to cilostazol.   
+  
+
+Neuro ROS: Positive for balance difficulties vertical diplopia
+and sensation of objects moving in clockwise direction. No
+headache, loss of vision, dysarthria, dysphagia (though since 
+her
+first stroke, she says she has had issues with choking; this is
+improving), tinnitus or hearing difficulty. No difficulties
+producing or comprehending speech.  No focal weakness, numbness,
+parasthesiae. No bowel or bladder incontinence or retention. 
+ 
+General ROS: Positive for nausea and vomiting. No fever or
+chills.  No night sweats or recent weight loss or gain. No 
+cough,
+shortness of breath, chest pain or tightness, palpitations,
+abdominal pain.  No recent change in bowel or bladder habits.  
+No
+dysuria.
+
+ 
+Past Medical History:
+-stroke in the corona radiata extending into the anterior limb 
+of the internal capsule on the right on ___. At that time, 
+pt presented with dysarthria, hiccups, dysphagia, left facial 
+droop and typing errors with the left hand. She does not think 
+that she had any numbness or weakness at that time. 
+-insulin dependent diabetes mellitus diagnosed ___, 
+complications include diabetic retinopathy
+-HTN
+-Hyperlipidaemia
+-depression
+-iron deficiency anemia
+-osteopenia
+
+ 
+Social History:
+___
+Family History:
+Father and paternal aunt DM.
+No known history of neurologic disease.
+
+ 
+Physical Exam:
+On admission
+T: 96.6 P: 70 R: 16  BP: 149/66 SaO2: 100% RA  
+General: Awake, cooperative, NAD. 
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx 
+Neck: Supple 
+Pulmonary: Lungs CTA bilaterally without R/R/W 
+Cardiac: RRR, S1S2, no M/R/G noted 
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted. 
+Extremities: warm, well perfused 
+
+Neurologic: 
+___ Stroke Scale score was: 0   
+1a. Level of Consciousness: 0  
+1b. LOC Question: 0  
+1c. LOC Commands: 0  
+2. Best gaze: 0  
+3. Visual fields: 0  
+4. Facial palsy: 0  
+5a. Motor arm, left: 0  
+5b. Motor arm, right: 0  
+6a. Motor leg, left: 0  
+6b. Motor leg, right: 0  
+7. Limb Ataxia: 0  
+8. Sensory: 0  
+9. Language: 0  
+10. Dysarthria: 0  
+11. Extinction and Neglect: 0  
+
+Mental Status: Awake, alert, oriented to person, place and date. 
+
+Able to relate history without difficulty.  Attentive, able to
+name ___ backward without difficulty. Able to follow both 
+midline
+and appendicular commands. Able to register 3 objects and recall
+___ at 5 minutes. No evidence of apraxia or neglect.   
+
+Language: speech is clear, fluent, nondysarthric with intact
+naming, repetition and comprehension. Normal prosody. There were
+no paraphasic errors. Able to read without difficulty.  
+
+Cranial Nerves: 
+I: Olfaction not tested.  
+II: PERRL 3 to 2mm and brisk.  VFF to confrontation. 
+III, IV, VI: Eyes in midline in primary gaze, however, right eye 
+cannot adduct and left eye shows a horizontal nystagmus with 
+vertical component on left lateral gaze. Otherwise, the 
+nystagmus of the left eye seems to be primarily a vertical 
+nystagmus (upbeating with a torsional component). In addition, 
+she has a skew deviation with left eye slightly lower and out 
+compared to the right eye. 
+V: Facial sensation intact to light touch. 
+VII: No facial droop, facial musculature symmetric. 
+VIII: Hearing intact to finger-rub bilaterally.  
+IX, X: Palate elevates symmetrically.  
+XI: ___ strength in trapezii and SCM bilaterally. 
+XII: Tongue protrudes in midline.
+ 
+Motor: Normal bulk. Has mildly increased tone in LUE and
+increased tone in L>R ___. No pronator drift bilaterally. No
+adventitious movements, such as tremor, noted. No asterixis
+noted. 
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA Gastroc 
+L  5    ___   ___  5   5    5  5     5    
+R  5    ___   ___  5   5    5  5     5      
+ 
+Sensory: No deficits to light touch, pinprick, cold sensation,
+vibratory sense, proprioception throughout. No extinction to 
+DSS.
+
+DTRs: 
+  Bi Tri ___ Pat Ach 
+L  2  2    2    2   1 
+R  2  2    2    2   1 
+Plantar response was extensor bilaterally. 
+ 
+Coordination: No intention tremor or dysmetria on F-N, FNF or 
+HKS
+bilaterally. 
+ 
+Gait: normal stance; Romberg is negative. Gait is difficult due 
+to her double vision, it is possible with closing her left eye.
+
+ON DISCHARGE
+Cranial Nerves - on primary gaze there is ABduction of the right 
+eye, but no ADduction. The left eye is down and abducted and 
+there is a persistent torsional nystagumus of the left eye with 
+a vertical nystagmus as well. On left lateral gaze she has full 
+abduction of the left, but the right eye does not adduct past 
+midline. On right lateral gaze she can completely abduct the 
+right eye and adduct the left eye. When individual eyes are 
+closed the left eye has full EOM. The right eye has no ability 
+to adduct. Her diplopia is most significant on left lateral gaze 
+and resolves on right lateral gaze.
+
+Gait: with her eye patched she has some difficulty ambulating 
+but is able to walk without the aid of an assistive device.
+ 
+Pertinent Results:
+MRI: ___
+1. Foci of increased DWI signal within the brainstem are too 
+small to 
+definitively characterize but may represent very small lacunar 
+infarcts. 
+2. No other acute findings. 
+
+MRI ___ w/ fine cuts through the brainstem: several small 
+midline pontine and lower midbrain infarcts (acute)
+
+TTE: ___
+No intracardiac source of embolism identified. Normal global and 
+regional biventricular systolic function. Mild to moderate 
+mitral regurgitation. Borderline pulmonary hypertension.  
+
+HgA1c: 6.7
+LDL ___iplopia
+Ms. ___ was admitted to the stroke service after having sudden 
+onset of double vision and difficulty walking. On examination 
+she was found to have significant eye movement abnormalities as 
+detailed below: on primary gaze there is an Abduction of the 
+right, but right eye cannot adduct and left eye shows a 
+horizontal nystagmus with vertical component on left lateral 
+gaze. Otherwise, the nystagmus of the left eye seems to be 
+primarily a vertical nystagmus (upbeating with a torsional 
+component). In addition, she has a skew deviation with left eye 
+slightly lower and out compared to the right eye. When 
+individual eyes are closed the left eye has full EOM. The right 
+eye has no ability to adduct. Her diplopia is most significant 
+on left lateral gaze and resolves on right lateral gaze.
+
+The likely etiology for this was an acute small vessel 
+infarction of the brainstem localizing most likely close to the 
+right ___ nuclei affecting the part of the ___ nucleus on the 
+right that governs the right adductor and hitting fibers from 
+the superior rectus of the left eye causing the skew deviation 
+and the vertical nystagmus as gaze paretic nystagmus. An MRI was 
+performed which showed some DWI abnormalities in the midportion 
+of the upper pons and power midbrain which were very small.
+
+She was on cilostazol and aspirin when she was admitted. We 
+changed her medications to aspirin 81 and added plavix 75 daily. 
+We told her to patch her eye and switch the patch intermittently 
+to help with the diplopia. She will follow up in clinic with Dr. 
+___.
+
+___ clinic was asked to check on her insulin pump during this 
+admission. They felt no changes were necessary.
+
+ 
+Medications on Admission:
+-insulin Pump (Novolog): Basal rate 0.3 units/hr from 12AM to 
+6AM
+and 0.5 units/hr remainder of day
+-aspirin 81 mg po daily 
+-cilostazol 50 mg po bid  
+-simvastatin 10 mg po daily
+-benicar 20 mg po daily  
+-fluoxetine 60 mg po daily
+-bupropion SR 100 mg PO qAM
+-eye injections monthly with Avastin and other medication she
+could not rememer name of   
+
+ 
+___:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. olmesartan 20 mg Tablet Sig: One (1) Tablet PO daily ().  
+4. fluoxetine 20 mg Capsule Sig: Three (3) Capsule PO DAILY 
+(Daily).  
+5. bupropion HCl 100 mg Tablet Extended Release Sig: One (1) 
+Tablet Extended Release PO QAM (once a day (in the morning)).  
+6. Plavix 75 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+7. Outpatient Physical Therapy
+Had brainstem stroke with some incoordination from diplopia.
+8. Medication
+Insulin pump - specified by ___
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+Brainstem ischemic stroke
+Diplopia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the neurology service after you had sudden 
+onset of difficulty walking and diplopia (double vision). On 
+examination you had limitations in your eye movements on both 
+the left eye and right eye. There wer ___ MRIs done which showed 
+evidence of a an acute stroke in your brainstem. The likely 
+cause was vascular disease secondary to diabtes. We had the 
+people from ___ see you in-house and they felt there were no 
+adjustments necessary at this time for your insulin pump. We 
+adjusted your medications and you will now be taking aspirin and 
+plavix.
+1. Stop cilostazol
+2. Start Aspirin 81 mg daily and Plavix 75 mg daily
+3. Follow-up with Dr. ___
+4. Patch alternate eyes every 4 hours for relief of double 
+vision 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11054342-DS-13 | hadm_id=28095079
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right upper lip numbness
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a history of DM, HTN,
+and prior left lateral thalamic infarct who presents with lip
+numbness. She noticed at 9:30 am that her right upper lip felt
+numb. This is similar to her symptoms with a prior infarct. She
+does not know when she last noticed her lip normal. 
+
+At about 9:30, she was putting on chap stick, and felt that her
+right upper lip was numb. She also noticed around the same time
+that she was slightly disoriented: only in that she was in a
+store looking for food scales and noticed that she could not
+picture in her mind the store display that she had seen earlier,
+and then discovered that she was in the wrong store. She found
+this quite unusual for her. She drove home, and called Dr.
+___. While dialing the phone, she noticed that her
+vision was "patchy." Dr. ___ her to the ED. She did
+note that she had checked her fingerstick glucose this morning
+and it was 141.
+
+A CODE STROKE was called at 12:15 pm; neurology was at the
+bedside by 12:23 pm.  
+
+Initial ___ Stroke Scale was 0:
+1a. LOC: alert, responsive (0)  
+1b. LOC questions: knew age and name of month (0)  
+1c. LOC commands: closed eyes and gripped with left hand (0)  
+2. Best gaze: No gaze palsy (0)  
+3. Visual: No visual loss (0)  
+4. Facial Palsy: normal, symmetrical movements (0)  
+5a. Left arm: No drift (0)  
+5b. Right arm: no drift (0)  
+6a. Left leg: No drift (0)  
+6b. Right leg: no drift (0)  
+7. Limb ataxia: absent (0)  
+8. Sensory: no sensory loss bilaterally (0)  
+9. Language: No aphasia, normal (0)  
+10. Dysarthria: None (0)  
+11. Extinction/inattention: None (0)
+
+On neuro ROS, Ms. ___ denied headache, loss of vision, blurred
+vision, diplopia, dysarthria, dysphagia, lightheadedness,
+vertigo, tinnitus or hearing difficulty. Denied difficulties
+producing or  comprehending speech.  Denied focal weakness or
+parasthesiae. No bowel or bladder incontinence or retention.
+Denied difficulty with gait.
+
+On general review of systems, she complains of generalized
+fatigue and urinary frequency and nocturia without dysuria. She
+denied recent fever or chills.  No night sweats or recent weight
+loss or gain. Denied cough, shortness of breath.  Denied chest
+pain or tightness, palpitations.  Denied nausea, vomiting,
+diarrhea, constipation or abdominal pain.  No recent change in
+bowel habits.  No dysuria.  Denied arthralgias or myalgias.
+Denied rash.
+
+ 
+Past Medical History:
+-stroke in the corona radiata extending into the anterior limb 
+of the internal capsule on the right on ___. At that time, 
+pt presented with dysarthria, hiccups, dysphagia, left facial 
+droop and typing errors with the left hand. She does not think 
+that she had any numbness or weakness at that time. 
+-insulin dependent diabetes mellitus diagnosed ___, 
+complications include diabetic retinopathy
+-HTN
+-Hyperlipidaemia
+-depression
+-iron deficiency anemia
+-osteopenia
+
+ 
+Social History:
+___
+Family History:
+Father and paternal aunt DM.
+No known history of neurologic disease.
+
+ 
+Physical Exam:
+Vitals: 98.9 79 128/60 16 97%RA
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: ___ HSM at LUSB. RRR
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally.
+Skin: no rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ without
+difficulty. Language is fluent with intact repetition and
+comprehension.  Normal prosody.  There were no paraphasic 
+errors.
+Pt. was able to name both high and low frequency objects.  Able
+to read and write without difficulty.  Speech was not 
+dysarthric.
+Able to follow both midline and appendicular commands. The pt.
+had good knowledge of current events.  There was no evidence of
+apraxia or neglect. Visuospatial construction was intact. She 
+was
+able to name 24 animals in 60 seconds.
+
+-Cranial Nerves: Olfaction not tested. PERRL 5 to 2mm and brisk. 
+
+VFF to confrontation. There is no ptosis bilaterally. 
+Funduscopic
+exam revealed no papilledema, exudates, or hemorrhages. EOMI
+without nystagmus.  Normal saccades. Facial sensation intact to
+pinprick. No facial droop, facial musculature symmetric. Hearing
+intact to finger-rub bilaterally.  Palate elevates 
+symmetrically.
+___ strength in trapezii and SCM bilaterally. Tongue protrudes 
+in
+midline.
+
+-Motor: Normal bulk, tone, and strength throughout in both upper
+and lower extremities. No adventitious movements noted. No
+asterixis noted. No pronator drift bilaterally.
+
+-Sensory: Pt reports no loss of pinprick. Some decreased cold
+sensation and vibration at distal feet. No extinction to DSS. 
+
+-Coordination: No intention tremor, dysdiadochokinesia noted. No
+dysmetria on FNF or HKS bilaterally.
+
+-DTRs: 
+  Bi Tri ___ Pat Ach
+L  ___    3   3
+R  ___    3   3
+
+Plantar response was extensor bilaterally.
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  Able to walk in tandem without difficulty. Romberg
+absent.
+
+ 
+Pertinent Results:
+___ 10:35AM BLOOD WBC-5.3 RBC-3.83* Hgb-11.2* Hct-31.7* 
+MCV-83 MCH-29.2 MCHC-35.3* RDW-13.8 Plt ___
+___ 06:35AM BLOOD WBC-4.7 RBC-4.02* Hgb-11.5* Hct-33.3* 
+MCV-83 MCH-28.6 MCHC-34.5 RDW-13.9 Plt ___
+___ 12:20PM BLOOD WBC-5.3 RBC-3.97* Hgb-11.1* Hct-32.6* 
+MCV-82 MCH-27.9 MCHC-34.0 RDW-14.0 Plt ___
+___ 12:20PM BLOOD Neuts-64.9 ___ Monos-6.6 Eos-0.6 
+Baso-0.2
+___ 10:35AM BLOOD Plt ___
+___ 06:35AM BLOOD Plt ___
+___ 12:20PM BLOOD Plt ___
+___ 12:20PM BLOOD ___ PTT-28.7 ___
+___ 10:35AM BLOOD Glucose-244* UreaN-16 Creat-0.7 Na-127* 
+K-4.9 Cl-92* HCO3-32 AnGap-8
+___ 06:35AM BLOOD Glucose-160* UreaN-13 Creat-0.8 Na-133 
+K-4.3 Cl-97 HCO3-28 AnGap-12
+___ 12:20PM BLOOD Glucose-110* UreaN-18 Creat-0.8 Na-127* 
+K-4.1 Cl-92* HCO3-26 AnGap-13
+___ 12:20PM BLOOD CK(CPK)-87
+___ 12:20PM BLOOD cTropnT-<0.01
+___ 10:35AM BLOOD Calcium-9.3 Phos-3.3 Mg-2.1 Cholest-PND
+___ 06:35AM BLOOD Calcium-9.2 Phos-3.6 Mg-2.0 Cholest-PND
+___ 12:20PM BLOOD Calcium-9.0 Phos-4.0 Mg-1.9
+___ 06:35AM BLOOD %HbA1c-6.7*
+ 
+Brief Hospital Course:
+This ___ yo woman was admitted for right upper lip numbess, which 
+she noticed while applying Chapstick, and also some mild 
+confusion. When she arrived in the ER a code stroke was called, 
+but by that time, that symptom had resolved, and only a b/l 
+peripheral ___ neuropathy c/w her long-standing DM was 
+appreciated. Brain MRI showed no acute infarct or vessel 
+occlusion. HgbA1C was measured as 6.7. Her Zocor was increased 
+empirically from 10 to 40 mg daily. Initially, her blood sodium 
+level was found to be 127, but increased the following day to 
+133 with increased PO intake. The following morning, she felt 
+100% back to normal, was anxious to go home, and was discharged 
+on ___. 
+ 
+Medications on Admission:
+Cilostazol (pletal) 50mg BID
+aspirin 81 mg po daily
+Fluoxetine 60mg daily
+HCTZ 12.5mg daily
+Olmesartan 20mg daily
+Simvastatin 10mg daily
+Vitamin C 500mg daily
+Calcium + Vitamin D 250/200 BID
+Omega 3 daily
+Pyridoxine
+Zinc
+Ferrous sulfate
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Cilostazol 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+3. Fluoxetine 20 mg Capsule Sig: Three (3) Capsule PO DAILY 
+(Daily).
+Disp:*90 Capsule(s)* Refills:*2*
+4. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+8. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO BID (2 times a day).
+Disp:*60 Tablet, Chewable(s)* Refills:*2*
+9. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Omega-3 Fatty Acids     Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+11. Pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+12. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).
+Disp:*30 Capsule(s)* Refills:*2*
+13. Ascorbic Acid ___ mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+hyponatremia
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+Your pattern of symptoms and brain and vessel imaging are not 
+consistent with a stroke, and perhaps more reflect hyponatremia. 
+However, to prevent future stroke, it is important to modify 
+your risk factors, including diabetes, high blood pressure, and 
+high blod cholesterol.  You should continue aspirin 81 mg daily, 
+insulin and diet control for your diabetes, and we have 
+increased your zocor to 40 mg daily. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11054342-DS-16 | hadm_id=28706109
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Bactrim / Azithromycin / Codeine / Sulfa (Sulfonamide 
+Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+RLQ pain, skin erosion behind R ear
+ 
+Major Surgical or Invasive Procedure:
+___: removal of distal catheter & scalp revision
+___: ___ attempt for drainage of abdominal fluid 
+
+ 
+History of Present Illness:
+___ is a ___ with history of DM on insulin pump, on ASA 
+325mg daily s/p R Metronic Strata VPS placement ___ ___ ___ who presents with 3 days of new onset ___ RLQ 
+pain when she moves, coughs, laughs. At rest it is a dull ___ 
+pain. She takes Advil qHS for the pain to help her sleep. She 
+reports she was recently seen in ED on 2 days ago and had temp 
+of 101.0. No other known fevers. WBC 8.5 now. CT Abd/Pelvis 
+concerning for phlegmonous collection in the RLQ partially along 
+catheter tubing and gallbladder fossa,
+appendicitis cannot be excluded per rads. Patient reports her 
+gait was initially improved after shunt was inserted and has 
+progressively gotten more unsteady over the last few weeks. Her 
+shunt was adjusted from 1.5 to 1.0 on ___ in clinic. CT head 
+shows slightly increased size in ventricles. 
+
+Patient currently denies pain behind her right ear but reports 
+it can be "excruciating" at times. Pain and skin breakdown is 
+where her glasses rest on her head. She denies nausea, vomiting, 
+diarrhea, seizures, visual changes, weakness, numbness, 
+tingling, incontinence of bowel or bladder. 
+ 
+Past Medical History:
+-stroke in the corona radiata extending into the anterior limb 
+of the internal capsule on the right on ___. At that time, 
+pt presented with dysarthria, hiccups, dysphagia, left facial 
+droop and typing errors with the left hand. She does not think 
+that she had any numbness or weakness at that time. 
+-insulin dependent diabetes mellitus diagnosed ___, 
+complications include diabetic retinopathy, on insulin pump 
+-macular degeneration 
+-HTN
+-Hyperlipidemia
+-depression
+-iron deficiency anemia
+-osteopenia
+-normal pressure hydrocephalus s/p Right Metronic Strata VPS
+placement on ___
+-Allergic rhinitis
+-Chest pain
+-deviated nasal septum 
+-hyponatremia
+-obstructive sleep apnea
+-R shoulder pain
+-vitiligo 
+ 
+Social History:
+___
+Family History:
+Father and paternal aunt DM.
+No known history of neurologic disease.
+
+ 
+Physical Exam:
+==============
+ON ADMISSION:
+==============
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: PERRL        EOMs: intact
+Neck: Supple.
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3 to 2mm
+bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch bilaterally.
+
+Coordination: normal on finger-nose-finger, rapid alternating
+movements, heel to shin
+
+VP Shunt: Easily compressible, recoils briskly. 
+
+Skin: 
+There is a pinhole opening behind the right ear draining clear
+drainage. Catheter tracking behind right ear is superficial 
+under
+the skin, redness noted 
+R crani: well healed
+R clavicle: well healed
+R abdomen: well healed
+
+ 
+Pertinent Results:
+Please refer to OMR for pertinent lab and imaging results. 
+ 
+Brief Hospital Course:
+Patient presented to ED on ___ with 3 days of RLQ pain. CT 
+abdomen pelvis concerning for phlemonous collection at distal 
+end of catheter. NCHCT showed slightly increased size in 
+ventricles. Her shunt setting was confirmed at 1.0 in the ED. 
+Shunt was tapped for CSF studies. ACS was not concerned about 
+abdominal collection/ possible appedicitis and the patient was 
+admitted to the neuro step down unit on the neurosurgery 
+service. 
+
+#Wound erosion behind R ear:
+On assessment in ED there was a pinhole opening behind her right 
+ear draining clear fluid concerning for CSF. The underlying 
+catheter appeared superficial however there was no exposed 
+hardware. The area was cleansed with wound cleanser and covered 
+with bacitracin and DSD. The patient was consented and taken to 
+the OR on ___ for VP shunt revision on ___ ___. 
+Please see operative report for full details. Post-auricular 
+incision was revised and distal catheter removed and sent for 
+culture (see ID).
+
+#Phlegmon abdominal collection
+Distal VP shunt catheter was removed in the OR and tied off in 
+the abdomen. Fluid from distal catheter tip sent for culture, 
+but further fluid was not able to be aspirated from collection. 
+She was taken to ___ for further drainage attempt on ___, but 
+no fluid was able to be aspirated. CT showed decrease in fluid 
+collection with only trace fluid. 
+
+#ID:
+The patient was afebrile on admission. WBC within normal limits. 
+The shunt reservoir was tapped for CSF in the ED. ID was 
+consulted and the patient was started on empiric vancomycin and 
+zosyn. The zosyn was changed to ceftazidime per ID recs. CSF 
+gram stain from tap was negative and culture was no growth. 
+Peritoneal fluid grew 2+ GPCs on gram stain, culture grew 
+coagulase negative staphylococcus. CRP elevated at 245. 
+Ceftazidime was discontinued on ___ and she was continued on 
+Vancomycin, with plans for 2 week course. PICC was placed on 
+___. 
+
+#Type I diabetes:
+Patient presented to ED with home insulin pump attached. She 
+self d/c'd the pump at 4am the following morning. She was made 
+NPO for the OR and ___ was consulted. She was started on 
+Lantus 10 units and Humalog sliding scale q4h. Her sugars were 
+monitored closely q1h. ___ was consulted and closely 
+monitored and adjusted insulin postop. She was restarted on her 
+home insulin pump on ___.
+
+#CV: 
+Her aspirin 325mg was held on admission for OR and may be 
+resumed on ___. 
+ 
+Medications on Admission:
+ Actonel 35 mg tablet
+1 tablet(s) by mouth once a week take on an empty stomach with a
+full glass of water, stay upright for 1 hour after (NO
+SUBSTITUTION PLEASE)
+   
+ Benicar 20 mg tablet
+1 tablet(s) by mouth daily 'no substitution'
+   
+ Calcium Citrate + D 315 mg-200 unit tablet
+1 tablet(s) by mouth twice a day
+   
+ Fish Oil Concentrate 1,000 mg capsule
+(dose uncertain)
+   
+ Novolog 100 unit/mL subcutaneous solution
+ via pump
+   
+ aspirin 325 mg Tab
+1 Tablet(s) by mouth once a day
+   
+ bupropion HCl 75 mg tablet
+2 tablet(s) by mouth once a day
+   
+ cilostazol 100 mg tablet
+1 tablet(s) by mouth twice a day
+  
+ fluoxetine 20 mg Cap
+one Capsule(s) by mouth every day, once a day
+   
+ fluoxetine 40 mg Cap
+1 Capsule(s) by mouth once a day
+   
+ multivitamin capsule
+1 capsule(s) by mouth once a day
+   
+ omeprazole 20 mg capsule,delayed release
+1 capsule(s) by mouth once a day
+   
+ simvastatin 20 mg tablet
+1 tablet(s) by mouth at bedtime
+  
+ zinc 50 mg tablet
+1 tablet(s) by mouth once a day
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q8H:PRN Pain - Mild  
+2.  Sodium Chloride 0.9%  Flush ___ mL IV DAILY and PRN, line 
+flush  
+3.  Vancomycin 750 mg IV Q 12H 
+End ___ 
+RX *vancomycin 750 mg 1 vial iv twice a day Disp #*28 Vial 
+Refills:*0 
+4.  Aspirin 81 mg PO DAILY  
+5.  Benicar (olmesartan) 20 mg oral DAILY  
+6.  BuPROPion 150 mg PO DAILY  
+7.  FLUoxetine 20 mg PO DAILY  
+8.  FoLIC Acid 1 mg PO DAILY  
+9.  Insulin  Pump SC (Self Administering Medication)Insulin 
+Aspart (Novolog) (non-formulary)
+
+Basal Rates:
+  Midnight - 8 am:  .5 Units/Hr
+  8am - 8pm:  .8 Units/Hr
+  8pm - MN:  .5 Units/Hr
+Meal Bolus Rates:
+  Breakfast = 1:8
+  Lunch = 1:8
+  Dinner = 1:8
+  Snacks = 1:8
+High Bolus:
+  Correction Factor = 1:25
+  Correct To ___ mg/dL
+
+ 
+10.  Omeprazole 20 mg PO DAILY  
+11.  Simvastatin 20 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Abdominal abscess
+Skin breakdown
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Discharge Instructions
+Ventriculoperitoneal Shunt
+
+Surgery
+•You underwent surgery to remove the distal portion of your VP 
+shunt due to infection. The remainder of the shunt remains in 
+place but has been tied off. You also had a revision of your 
+scalp wound. Your incisions should be kept dry until sutures are 
+removed.
+•It is best to keep your incision open to air but it is ok to 
+cover it when outside. 
+•Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+•We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+•You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+•No driving while taking any narcotic or sedating medication. 
+•If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+•No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+•Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+•You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+•Headache or pain along your incision. 
+•Some neck tenderness along the shunt tubing.
+•Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+When to Call Your Doctor at ___ for:
+•Severe pain, swelling, redness or drainage from the incision 
+site. 
+•Fever greater than 101.5 degrees Fahrenheit
+•Nausea and/or vomiting
+•Extreme sleepiness and not being able to stay awake
+•Severe headaches not relieved by pain relievers
+•Seizures
+•Any new problems with your vision or ability to speak
+•Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+•Sudden numbness or weakness in the face, arm, or leg
+•Sudden confusion or trouble speaking or understanding
+•Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+•Sudden severe headaches with no known reason
+ 
+Followup Instructions:
+___

@@ -1,0 +1,260 @@
+===== DISCHARGE NOTE =====
+note_id=10912912-DS-6 | hadm_id=24269410
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Asymptomatic
+ 
+Major Surgical or Invasive Procedure:
+___ - Mitral valve repair with resection of the middle 
+scallop of the posterior leaflet (P2) and a mitral valve 
+annuloplasty with a 32 ___ annuloplasty band.
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with history of mitral 
+regurgitation followed with serial echocardiograms since ___. 
+His last several echocardiograms revealed moderate to severe 
+mitral regurgitation with bi-leaflet prolapse. Left ventricular 
+function remained normal with left ventricular cavity size top
+normal/borderline dilated. A Cardiac MRI in ___ 
+demonstrated partial posterior leaflet flail, dilated left 
+ventricular cavity size ___ 6.7cm), normal systolic function, 
+and moderately reduced forward effective LVEF. His most recent 
+echocardiogram on ___ demonstrated moderate to severe 
+mitral regurgitation and moderate to severe bi-leaflet mitral 
+valve prolapse. Given the slight increase in his left 
+ventricular cavity size, he was referred to Dr. ___ 
+surgical consultation. He is very active at baseline. He plays 
+tennis twice a week, golfs once a week, and walks regularly. He 
+has denied any changes in his exercise tolerance. He did not an 
+episode of dizziness last week. He otherwise denied syncope, 
+lightheadedness, shortness of breath at rest, dyspnea on 
+exertion, chest pain, palpitations, orthopnea, paroxysmal 
+nocturnal dyspnea, or lower extremity edema.
+ 
+Past Medical History:
+Cluster Headaches
+Melanoma s/p resection on thigh
+Mitral Regurgitation
+Nephrolithiasis s/p lithotripsy 
+
+Surgical History:
+Hemorrhoidectomy
+ 
+Social History:
+___
+Family History:
+Father - died of failure to thrive at age ___
+Mother - died of pancreatic cancer
+Brother - ___ cancer
+ 
+Physical Exam:
+PREOPERATIVE EXAM
+Vitals : HR 49/min, BP 123/80mmHg O2 Sat 98 %.
+Height: 68"  Weight: 162 lbs 
+
+General: Pleasant man, WDWN, appears younger than stated age, 
+NAD
+Skin: Warm, dry, intact
+HEENT: NCAT, PERRL, EOMI, OP benign 
+Neck:  Supple, full ROM
+Chest: Lungs clear bilaterally 
+Heart: Regular rate and rhythm, III/VI holosystolic murmur 
+radiating to apex 
+Abdomen: Normal BS, soft, non-tender, non-distended 
+Extremities: Warm, well-perfused, no edema
+Varicosities: None 
+Neuro: Grossly intact 
+Pulses:
+DP           Right: 2+  Left: 2+
+___           Right: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+Carotid Bruit: transmitted murmur
+.
+DISCHARGE EXAM
+98.3
+PO 94 / 62
+R Sitting 69 18 95 Ra 
+.
+General: NAD [x]  
+Neurological: A/O x3 [x] non-focal [x] 
+HEENT:  PEERL [x] 
+Cardiovascular: RRR [x]  Irregular []  Murmur [] Rub [] 
+Respiratory: CTA [x]  No resp distress [x] tiny + airleak
+GI/Abdomen: Bowel sounds present [x] Soft [x] ND [x] NT [x]
+Extremities: 
+Right Upper extremity   Warm [x] trace Edema  
+Left Upper extremity    Warm [x]  trace Edema 
+Right Lower extremity   Warm [x]  trace Edema 
+Left Lower extremity    Warm [x]  trace Edema 
+Pulses:
+DP             Right:  2+     Left: 2+
+___             Right:  2+     Left: 2+
+Radial         Right:  2+     Left: 2+
+Skin/Wounds: Dry [x] intact [x]
+Sternal: CDI [x] no erythema or drainage [x]
+Sternum stable [] Prevena []
+Lower extremity: Right [x] Left []  CDI [x]
+Upper extremity: Right [] Left []  CDI []
+
+ 
+Pertinent Results:
+.
+Transesophageal Echocardiogram ___
+PRE-OPERATIVE STATE: Pre-bypass assessment. Sinus rhythm.
+Left Atrium ___ Veins: Dilated ___. No spontaneous 
+echo contrast or thrombus in the ___.
+Right Atrium (RA)/Interatrial Septum/Inferior Vena Cava (IVC): 
+Dilated RA. No spontaneous echo contrast or thrombus is seen in 
+the RA/RA appendage. Normal interatrial septum. No atrial septal 
+defect by 2D/color flow Doppler.
+Left Ventricle (LV): Normal cavity size. Mild-moderate global 
+hypokinesis. Mildly depressed ejection fraction.
+Right Ventricle (RV): Moderate global hypokinesis.
+Aorta: Normal ascending diameter. Normal descending aorta 
+diameter. No dissection. Simple atheroma of ascending aorta. 
+Simple arch atheroma. Simple descending atheroma.
+Aortic Valve: Mildly thickened (3) leaflets. Mild leaflet 
+calcification. No stenosis. Trace regurgitation. Central jet.
+Mitral Valve: Mildly thickened/myxomatous leaflets. Mild leaflet 
+calcification. Partial posterior leaflet flail. No stenosis. 
+Mild annular calcification. SEVERE [4+] regurgitation. 
+Eccentric, anteriorly directed jet.
+Pulmonic Valve: Normal leaflets. Mild regurgitation.
+Tricuspid Valve: Mildly thickened leaflets. Mild annular 
+calcification. Mild-moderate [___] regurgitation. Central jet.
+Pericardium: Trivial effusion.
+
+POST-OP STATE: The post-bypass TEE was performed at 12:57:00. 
+Atrial paced rhythm.
+Support: Vasopressor(s): epinephrine.
+Left Ventricle: Systolic function is improved. Similar regional 
+function. Global ejection fraction is low normal.
+Right Ventricle: Improved systolic function.
+Aorta: Intact. No dissection.
+Aortic Valve: No change in aortic valve morphology from 
+preoperative state. No change in aortic regurgitation.
+Mitral Valve: The mitral valve is s/p repair. Annular ring. 
+Well-seated annular ring. Post-bypass, mean mitral valve 
+gradient = 1mmHg. Normal gradient for annular ring. Trace 
+regurgitation.
+Tricuspid Valve: No change in tricuspid valve morphology vs. 
+preoperative state.
+Pericardium: No effusion.
+LABS:
+Pathology ___:  Mitral valve, P2 leaflet, valve repair:
+Myxomatous degeneration.
+
+Admit:
+___ 01:30PM BLOOD WBC-14.2* RBC-3.61* Hgb-11.1* Hct-33.9* 
+MCV-94 MCH-30.7 MCHC-32.7 RDW-12.9 RDWSD-44.1 Plt ___
+___ 01:30PM BLOOD ___ PTT-28.6 ___
+___ 02:20PM BLOOD UreaN-17 Creat-0.9 Cl-113* HCO3-22 
+AnGap-8*
+___ 07:44PM BLOOD Mg-2.6
+
+Discharge:
+
+___ 07:05AM BLOOD WBC-8.6 RBC-3.37* Hgb-10.6* Hct-31.7* 
+MCV-94 MCH-31.5 MCHC-33.4 RDW-12.8 RDWSD-44.3 Plt ___
+___ 12:52AM BLOOD ___ PTT-26.4 ___
+___ 07:05AM BLOOD Glucose-97 UreaN-18 Creat-1.1 Na-140 
+K-4.4 Cl-101 HCO3-27 AnGap-12
+___ 07:05AM BLOOD Mg-2.1
+ 
+Brief Hospital Course:
+Mr. ___ was admitted on ___ and was taken to the 
+operating room. He underwent mitral valve repair with resection 
+of the middle scallop of the posterior leaflet (P2) and a mitral 
+valve annuloplasty with a 32 ___ annuloplasty band. 
+Please see operative note for full details. He tolerated the 
+procedure well and was transferred to the CVICU in stable 
+condition for recovery and invasive monitoring. 
+  
+He weaned from sedation, awoke neurologically intact and was 
+extubated on POD 1.  Beta blocker was initiated and he was 
+diuresed toward his preoperative weight. He remained 
+hemodynamically stable and was transferred to the telemetry 
+floor for further recovery.  He was evaluated by the physical 
+therapy service for assistance with strength and mobility.  He 
+did not tolerate Metoprolol due to hypotension. 
+By the time of discharge on POD 4 he was ambulating freely, the 
+wound was healing, and pain was controlled with oral analgesics. 
+He was discharged home in good condition with appropriate follow 
+up instructions.
+ 
+Medications on Admission:
+1. Sumatriptan Succinate 100 mg PO DAILY:PRN migraine 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Aspirin EC 81 mg PO DAILY  
+3.  Polyethylene Glycol 17 g PO DAILY  
+4.  TraMADol ___ mg PO Q6H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *tramadol 50 mg 0.5-1.0 tablet(s) by mouth every six (6) 
+hours Disp #*10 Tablet Refills:*0 
+5.  Sumatriptan Succinate 100 mg PO DAILY:PRN migraine  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Mitral Valve Regurgitation, s/p mitral valve repair
+
+Cluster Headaches
+Melanoma s/p resection on thigh
+Nephrolithiasis s/p lithotripsy 
+
+ 
+Discharge Condition:
+Alert and oriented x3, non-focal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+Edema: none
+
+ 
+Discharge Instructions:
+1. Shower daily -wash incisions gently with mild soap, 
+2. No baths or swimming, look at your incisions daily
+3. NO lotion, cream, powder or ointment to incisions
+4. Monitor your incision for signs of infection: fever > 101.5, 
+redness, drainage or increased pain. Should you have any of 
+these symptoms Please call the office immediately. ___.
+5. Daily weights: keep a log. Should you have a ___ pound weight 
+gain over 5 days please call for additional diuretics.
+6. No driving for approximately one month and while taking 
+narcotics
+Clearance to drive will be discussed at follow up appointment 
+with surgeon
+7. No lifting more than 10 pounds for 10 weeks
+8. Encourage full shoulder range of motion, unless otherwise 
+specified
+
+Fluid Restriction
+Limit fluid to 1.5 Liters a day until seen
+
+ 
+Followup Instructions:
+___

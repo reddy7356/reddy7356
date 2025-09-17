@@ -1,0 +1,965 @@
+===== DISCHARGE NOTE =====
+note_id=10779535-DS-8 | hadm_id=28379044
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / iodinated IV dye / fenofibrate / Sulfa 
+(Sulfonamide Antibiotics) / contrast dye / shellfish derived / 
+cyclobenzaprine / vancomycin
+ 
+Attending: ___
+ 
+Chief Complaint:
+left lower extremity redness and swelling
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with a h/o EtOH cirrhosis c/b
+esophageal varices, undergoing serial band ligation, who
+presented for outpatient EGD /colon today, referred to ED for 
+LLE
+wounds.
+
+EGD /colon was performed ___ without complications. 3 bands 
+were
+placed. 2 colonic polyps removed. Also noted to have rectal
+varix.  While there, pt was noted to have LLE wound c/f 
+recurrent
+cellulitis (h/o MRSA cellulitis in past) with worsening erythema
+x 4 days, pain, and drainage from punctate ulcers.  He says he
+has had recurrent skin ulcerations and lesions for years.
+
+He reports an injury one month ago where he injured the right
+side of his chest after reaching out with an outstretched arm to
+grab something.  After 2 weeks of right chest wall pain, he was
+evaluated at ___ locally, where he says X-Ray and
+CT were normal, was diagnosed with a "sprain."  He has had the
+same level of pain since then.  He is taking Percocet.  It is
+worth with movement, and located in the right lower chest and
+right upper quadrant.
+
+He denies fever, chills, chest pain, diarrhea, constipation,
+dysuria, hematuria, wheezing.  He reports chronic headache.
+
+In the ED, initial VS were: 98.7, HR 75, BP 118/60, RR 18, 96% 
+RA
+
+- He was given 1g IV Vanco, Omeprazole, Sucralfate, and home 
+meds
+- RUQUS showed no ascites
+
+On arrival to the floor, patient reports above story, no new
+complaints.
+
+REVIEW OF SYSTEMS: 10 point ROS reviewed and negative except as
+per HPI
+
+ 
+Past Medical History:
+- EtOH Cirrhosis
+- CAD
+- HTN
+- Seizures
+- COPD
+- Cataracts
+- H/o malignant colon polyps
+- DMT2
+- BPH
+- Anxiety, depression.
+- Migraines
+- HLD
+
+ 
+Social History:
+___
+Family History:
+He has multiple family members with alcoholism.  His brother is 
+alcoholic.  His another brother died from alcoholic cirrhosis.  
+He has siblings who live in ___ in ___.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=========================
+VS: T 100.2, BP 122 / 64, HR 72, RR 18, 94% RA 
+GENERAL: NAD, chronically ill appearing, resting in bed. 
+Significant right chest wall pain with movement of that area.
+HEENT: AT/NC, sclera mildly icteric, MMM
+NECK: supple
+CV: RRR
+PULM: CTAB, no wheezes
+GI: abdomen soft, nondistended.  Mild TTP in RUQ, not rigid.
+EXTREMITIES: 1+ ___ edema bilat
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric, no asterixis
+DERM: LLE with warmth and erythema about ___ of the way up the
+leg, scattered pustules. Demarcated the area with a pen.  He 
+also
+has multiple punctate ulcerations throughout his body surface.
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+VS:
+24 HR Data (last updated ___ @ 1422)
+    Temp: 99.3 (Tm 99.3), BP: 132/66 (106-134/61-68), HR: 59 
+(53-59), RR: 18 (___), O2 sat: 94% (92-96), O2 delivery: Ra, 
+Wt: 220.68 lb/100.1 kg  
+GENERAL: No acute distress. Breathing comfortably on RA.
+HEENT: AT/NC, sclera mildly icteric. Moist mucus membranes, JVP
+~9 cm. 
+Heart: RRR, normal S1 and S2
+Lungs: soft crackles RLL otherwise clear
+Abdomen: abdomen soft, nontender to palpation, mildly distended.
+Normal bowel sounds
+EXTREMITIES: trace to 1+ ___ edema bilat otherwise warm and
+symmetric without erythema
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric, no asterixis
+
+ 
+Pertinent Results:
+ADMISSION / PERTINENT LABS:
+==============================
+
+___ 07:58PM BLOOD WBC-10.9* RBC-4.32* Hgb-14.0 Hct-41.3 
+MCV-96 MCH-32.4* MCHC-33.9 RDW-11.6 RDWSD-40.7 Plt Ct-85*
+___ 07:58PM BLOOD Neuts-69.6 Lymphs-15.4* Monos-11.5 
+Eos-2.5 Baso-0.6 Im ___ AbsNeut-7.58* AbsLymp-1.68 
+AbsMono-1.25* AbsEos-0.27 AbsBaso-0.06
+___ 07:58PM BLOOD ___ PTT-30.1 ___
+___ 07:58PM BLOOD Glucose-171* UreaN-17 Creat-1.3* Na-135 
+K-4.7 Cl-101 HCO3-20* AnGap-14
+___ 07:58PM BLOOD ALT-21 AST-32 AlkPhos-79 TotBili-3.8* 
+DirBili-1.0* IndBili-2.8
+___ 07:58PM BLOOD Lipase-19
+___ 02:44AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 07:58PM BLOOD Albumin-3.6 Calcium-9.4 Phos-2.4* Mg-1.6
+___ 01:05PM BLOOD Osmolal-290
+___ 08:15PM BLOOD Lactate-2.2*
+
+DISCHARGE LABS:
+=====================
+___ 06:15AM BLOOD WBC-5.9 RBC-3.56* Hgb-11.6* Hct-34.6* 
+MCV-97 MCH-32.6* MCHC-33.5 RDW-12.9 RDWSD-45.1 Plt ___
+___ 06:15AM BLOOD Glucose-216* UreaN-31* Creat-1.5* Na-138 
+K-5.0 Cl-102 HCO3-23 AnGap-13
+___ 06:20AM BLOOD ALT-13 AST-24 LD(LDH)-199 AlkPhos-95 
+TotBili-1.3
+___ 06:15AM BLOOD Calcium-9.3 Phos-3.2 Mg-2.2
+
+MICROBIOLOGY:
+==================
+___ 11:25 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Cepheid nucleic 
+acid
+      amplification assay.. 
+           (Reference Range-Negative). 
+
+___ 10:49 am MRSA SCREEN      Source: Nasal swab. 
+
+                            **FINAL REPORT ___
+
+   MRSA SCREEN (Final ___:    No MRSA isolated. 
+
+URINE STUDIES:
+================
+___ 10:57PM URINE Color-Yellow Appear-Clear Sp ___
+___ 10:57PM URINE Blood-NEG Nitrite-NEG Protein-TR* 
+Glucose-150* Ketone-TR* Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 10:57PM URINE RBC-0 WBC-1 Bacteri-NONE Yeast-NONE Epi-0
+___ 02:22PM URINE Hours-RANDOM UreaN-627 Creat-131 Na-33 
+Cl-<20
+___ 01:48PM URINE Hours-RANDOM UreaN-517 Creat-95 Na-<20 
+TotProt-23 Prot/Cr-0.2
+___ 01:48PM URINE Color-Yellow Appear-Clear Sp ___
+___ 01:48PM URINE Blood-NEG Nitrite-NEG Protein-TR* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+
+IMAGING:
+=============
+___ Imaging LIVER OR GALLBLADDER US 
+IMPRESSION:  
+Patent main portal vein in the portal venous system with 
+appropriate direction of flow.  Main portal is patent, but 
+appears to demonstrate slow flow, unclear whether this is 
+technical or real.   
+Splenomegaly.  
+No ascites. 
+
+___ Imaging CHEST (PA & LAT) 
+FINDINGS:  
+There is mild pulmonary vascular congestion.  No focal 
+consolidation is seen.  There is no pleural effusion or 
+pneumothorax.  Cardiac and mediastinal silhouettes are stable.  
+IMPRESSION:  
+Mild pulmonary vascular congestion. 
+
+___HEST W/O CONTRAST
+FINDINGS:  
+BASE OF NECK: Partially visualized thyroid is within normal 
+limits 
+AXILLA, HILA, AND MEDIASTINUM: No axillary, mediastinal, or 
+hilar adenopathy.  
+HEART AND VASCULATURE:  The heart is normal size.  No 
+pericardial effusion.  Mild coronary artery disease.  Mild 
+calcifications of the aortic valve.  Mild atherosclerotic 
+calcifications of the thoracic aorta. 
+PLEURAL SPACES: No pleural effusion or pneumothorax. 
+LUNGS/AIRWAYS: Mild dependent atelectasis.  Mildly more 
+confluent 
+consolidative change at the right greater than left lung base 
+may represent developing pneumonia versus atelectasis.  The 
+airways are centrally patent.  
+ABDOMEN:  Mildly nodular liver contour consistent with history 
+of cirrhosis.  Mild perihepatic ascitic fluid.  Splenomegaly 
+with the spleen measuring 15.9 cm.  Small hiatal hernia.  
+Cholelithiasis. 
+BONES: No rib fractures.  No acute osseous process. 
+IMPRESSION: 
+1. No evidence of rib fractures. 
+2. Mildly more confluent consolidative change at the right 
+greater than left lung base are most consistent with 
+atelectasis.. 
+3. Finding secondary to known cirrhosis. 
+
+___ Imaging CHEST (PORTABLE AP) 
+IMPRESSION:  
+Increased consolidation of the right lung base concerning for 
+pneumonia.  Mild pulmonary edema. 
+ 
+___ Imaging CHEST (PA & LAT) 
+IMPRESSION:  
+Comparison to ___.  The patient has developed mild to 
+moderate 
+pulmonary edema.  In addition, there is a new parenchymal 
+opacity at the right lung bases, with a location highly 
+suggestive of aspiration.  No pleural effusions.  Stable 
+borderline size of the cardiac silhouette. 
+
+ 
+Brief Hospital Course:
+Information for Outpatient Providers: ___ man with a h/o EtOH 
+cirrhosis c/b esophageal varices, undergoing serial band 
+ligation (most recent ___ and recurrent soft tissue 
+infections (h/o MRSA), who presented for outpatient EGD /colon 
+on ___, referred to ED for LLE wounds concerning for 
+cellulitis. Hospital course complicated by intermittent fevers 
+while on broad spectrum antibiotics and acute kidney injury.
+
+# Cellulitis
+Tender erythematous, tender swelling up to ___ of left lower 
+extremity, with slight leukocytosis (10.9). Skin on shins were 
+covered with multiple excoriated lesions with broken skin. 
+Likely due to venous insufficiency, poor wound healing (T2DM), 
+and broken skin due to scratching and chronic itch. Patient was 
+treated with vancomycin for 7 days with great improvement ___ 
+- ___. Vancomycin was discontinued on ___ out of concern for 
+drug-induced fever, and patient was transitioned to doxycycline 
+on ___ to complete a 14 day course on ___.
+Cellulitis improved while on antibiotics, with significant 
+reductions in erythema, warmth, and tenderness. Initial 
+leukocytosis resolved after day 1 of treatment and has remained 
+normal.
+
+# Hypoxia: Patient developed some shortness of breath and 
+hypoxia on ___, requiring intermittent supplemental oxygen (1L) 
+and nebulizer treatments, with patient complaining of chest 
+tightness and dyspnea, particularly in the setting of receiving 
+supplemental albumin. CXR was initially significant for lower 
+right lobe consolidation vs. effusion, and pulmonary edema. He 
+was given IV Lasix and briefly treated with vancomycin, 
+ceftazidine, and flagyl, until repeat CXR showed resolution of 
+the consolidation most consistent with pulmonary edema/effusion 
+on ___. Patient was breathing comfortably on room air by ___. 
+
+# Fever - Patient spiking intermittent fevers every day since 
+___. Antibiotics were broaded vancomycin, ceftriaxone, and 
+flagyl, with repeat CXR initially concerning for 
+hospital-acquired PNA. However, persistent, intermittent fevers 
+continued despite broad antibiotic coverage. Resolution of 
+radiographic signs with diuresis made a fever due to PNA less 
+likely. Out of concern for drug reaction causing fever (patient 
+noted a reaction to vancomycin), all antibiotics were 
+discontinued on ___ and doxycycline was started on ___. His 
+fevers resolved and vancomycin was added to him adverse reaction 
+list. 
+
+# Right chest wall and RUQ pain: Most likely costocondritis, as 
+very tender to palpation. No evidence of rib fractures on CT. No 
+tachycardia or hypoxia to suggest PE. Treated with Tylenol, 
+lidocaine patch. At time of discharge this pain had resolved. 
+
+# ___: Patient presented with a Cr of 1.3 that has progressively 
+trended up to 2.0 on ___. Patient had a likely prerenal iso of 
+NPO for EGD/Colonoscopy, but ___ did not respond to fluid 
+resuscitation with 25% albumin, nor did it improve with 
+diruesis. Muddy brown fragements possibly seen on urine 
+sediment. Low urine chloride suggesting dehydration. Nephrology 
+consulted on ___ and did not have further recommendations since 
+his creatinine had improved to 1.6 then 1.5 at time of 
+discharge. His spironolactone was held in the setting ___ 
+with potassium of 5.0. Recommend repeat labs in one week prior 
+to resumption of his spironolactone. 
+
+# Diarrhea. Has intermittent diarrhea at baseline has complained 
+of this during hospital stay. C. diff negative. Stool O+P and 
+cultures also negative. Possibly secondary to antibiotics and 
+resolved by the time of discharge.
+
+# Esophageal varices, s/p banding ___: patient was continued 
+on his home pantoprazole and sucralfate. Propranolol was reduced 
+to BID given low blood pressures initially and increased back to 
+TID at time of discharge. He will continue his sucralfate until 
+he completes a 2 week course on ___.
+
+# HTN: patient's Enalapril 10mg BID was held on admission and 
+discharge secondary to systolic BP 100-110. 
+
+TRANSITIONAL ISSUES: 
+=========================
+ - New Meds: 
+ * doxycycline 100mg PO BID for cellulitis, last dose on ___
+ * Clobetasol Propionate 0.05% Cream BID (this is replacing 
+triamcinolone) 
+
+ - Stopped/Held Meds: 
+ * Spironolactone 50mg daily was held in the setting ___ 
+(discharge Cr 1.5 from baseline 1.3) and potassium 5.0 prior to 
+discharge. Please resume if repeat labs are improved. 
+ * Enalapril 10mg BID was held in the setting of hypotension / 
+normotension with systolic blood pressure in the 100s-110s.
+ * Oxycodone 5mg as needed, you did not need this medication 
+while inpatient. You can continue to use it as needed at home.
+
+ - Changed Meds: none
+
+ - Post-Discharge Follow-up Labs Needed: 
+ *Patient was given a prescription for repeat labs on ___ 
+___
+
+-consider outpatient sleep study: per patient, he often wakes up 
+at night. does not know if he snores (wife sleeps in a separate 
+bedroom). Denies headaches in AM. Reports that often falls 
+asleep during the day, multiple times.
+
+-f/u w/ PCP/GI/Cards re: furosemide prescriptions: ___ (home 
+nurse, ___ needs clarification as to who should be 
+prescribing him furosemide (has been getting it from his PCP). 
+
+- f/u with PCP and dermatology for managing chronic itchiness / 
+prurigo nodularis. Scratching seemed to be the primary cause of 
+patient's cellulitis. He was discharged with Clobetasol cream. 
+Can consider Carafate if etiology of itching seems to be 
+secondary to elevated bilirubin. 
+
+- f/u with PCP ___: diabetes control, patient discharged on home 
+diabetic regimen.
+
+- patient discharged with home ___ for complex medication 
+management. 
+
+#CODE: Full (confirmed)
+#CONTACT: wife ___ ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Donepezil 5 mg PO QHS 
+2. DiphenhydrAMINE 25 mg PO Q6H:PRN rash/itching 
+3. LamoTRIgine 75 mg PO DAILY 
+4. Lotrimin AF (miconazole nitrate) 2 % topical BID 
+5. Pregabalin 50 mg PO BID 
+6. OxyCODONE--Acetaminophen (5mg-325mg) 1 TAB PO Q8H:PRN Pain - 
+Severe 
+7. Pantoprazole 40 mg PO Q24H 
+8. Albuterol Inhaler 1 PUFF IH Q4H:PRN SOB/wheeze 
+9. FLUoxetine 60 mg PO DAILY 
+10. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID 
+11. Vitamin D ___ UNIT PO MONTHLY 
+12. Cetirizine 10 mg PO DAILY 
+13. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheeze 
+14. Enalapril Maleate 10 mg PO BID 
+15. Ferrous Sulfate 325 mg PO DAILY 
+16. Furosemide 40 mg PO DAILY 
+17. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+18. Montelukast 10 mg PO DAILY 
+19. Multivitamins 1 TAB PO DAILY 
+20. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+21. oxybutynin chloride 15 mg oral DAILY 
+22. Propranolol 10 mg PO TID 
+23. Spironolactone 100 mg PO DAILY 
+24. Triamcinolone Acetonide 0.1% Cream 1 Appl TP ASDIR 
+25. HumuLIN R U-500 (Conc) Kwikpen (insulin regular hum U-500 
+conc) 500 unit/mL (3 mL) subcutaneous BID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild  
+2.  Clobetasol Propionate 0.05% Ointment 1 Appl TP BID 
+RX *clobetasol 0.05 % apply to rash (red spots) twice a day 
+Refills:*0 
+3.  Doxycycline Hyclate 100 mg PO Q12H 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth twice a day 
+Disp #*11 Tablet Refills:*0 
+4.  Sucralfate 1 gm PO Q6H Duration: 14 Days 
+RX *sucralfate 1 gram 1 tablet(s) by mouth every 6 hours Disp 
+#*18 Tablet Refills:*0 
+5.  Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheeze  
+6.  Albuterol Inhaler 1 PUFF IH Q4H:PRN SOB/wheeze  
+7.  Cetirizine 10 mg PO DAILY  
+8.  DiphenhydrAMINE 25 mg PO Q6H:PRN rash/itching  
+9.  Donepezil 5 mg PO QHS  
+10.  Ferrous Sulfate 325 mg PO DAILY  
+11.  FLUoxetine 60 mg PO DAILY  
+12.  Furosemide 40 mg PO DAILY  
+13.  HumuLIN R U-500 (Conc) Kwikpen (insulin regular hum U-500 
+conc) 500 unit/mL (3 mL) subcutaneous BID  
+14.  Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY  
+15.  LamoTRIgine 75 mg PO DAILY  
+16.  Lotrimin AF (miconazole nitrate) 2 % topical BID  
+17.  Montelukast 10 mg PO DAILY  
+18.  Multivitamins 1 TAB PO DAILY  
+19.  Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  
+20.  oxybutynin chloride 15 mg oral DAILY  
+21.  Pantoprazole 40 mg PO Q24H  
+22.  Pregabalin 50 mg PO BID  
+23.  Propranolol 10 mg PO TID  
+24.  Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID  
+25.  Vitamin D ___ UNIT PO MONTHLY  
+26. HELD- Enalapril Maleate 10 mg PO BID  This medication was 
+held. Do not restart Enalapril Maleate until your blood pressure 
+and labs are checked and you see your doctor
+27. HELD- OxyCODONE--Acetaminophen (5mg-325mg) 1 TAB PO Q8H:PRN 
+Pain - Severe  This medication was held. Do not restart 
+OxyCODONE--Acetaminophen (5mg-325mg) until your blood pressure 
+improves
+28. HELD- Spironolactone 50 mg PO DAILY  This medication was 
+held. Do not restart Spironolactone until you have repeat labs 
+done and your liver doctor tells you to resume this medication
+29.Outpatient Lab Work
+DATE: ___
+Diagnosis: Anemia (D64.9), ___ (N17.9)
+LABS: Na, K, Cl, Bicarb, BUN, Cr, CBC
+Please fax results to: Dr. ___ ___ AND Dr. ___ 
+___   
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: Cellulitis
+
+Secondary: 
+Acute Kidney Injury on chronic kidney disease 
+Alcoholic cirrhosis
+Prurigo nodularis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure to take care of you at ___.  
+
+WHY WERE YOU HERE?  
+You were admitted to the hospital because you had an infection 
+of the skin in your left leg and your kidney function was lower 
+than normal. 
+
+WHAT WAS DONE WHILE YOU WERE IN THE HOSPITAL  
+While you were in the hospital, we treated your skin infection 
+with antibiotics. We also treated the rib pain you were 
+experiencing. You continued to have fevers but they stopped when 
+we stopped your antibiotic called vancomycin. 
+You also developed some injury to your kidneys. We monitored 
+your kidney function and it got better.
+We evaluated the rash on your body, and diagnosed you with 
+prurigo nodularis, a skin rash caused by constant scratching, 
+usually in a person who frequently feels very itchy. 
+ 
+WHAT SHOULD YOU DO WHEN YOU GET HOME?  
+ 1) Please follow up at your outpatient appointments.  
+ 2) Please take your medications as prescribed.  
+ 3) You need to have your labs checked in one week. 
+ 3) We are holding your spironolactone until you have your labs 
+rechecked and your doctor says you can start taking it again. 
+ 4) You were also discharged with an antibiotic for your leg 
+infection called doxycycline. You should take doxycycline 100mg 
+twice a day (once in the morning and once at night) until 
+___.
+
+ We wish you the best!  
+ Your ___ Care Team  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10779535-DS-7 | hadm_id=28807232
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / iodinated IV dye / fenofibrate / Sulfa 
+(Sulfonamide Antibiotics) / contrast dye / shellfish derived
+ 
+Attending: ___
+ 
+Chief Complaint:
+Lower extremity edema, left lower extremity cellulitis
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ hx decompensated cirrhosis (child ___ B; decompensated with 
+portal hypertension, bleeding from esophageal varices status 
+post banding, hepatic encephalopathy and volume overload), HTN, 
+HLD, CAD, T2DM, BPH, migraine, depression who presents with LLE 
+pain, redness, and swelling. He was seen in liver clinic today, 
+where he was thought to be volume overloaded with bilateral 
+lower extremity edema, with skin breakdown LLE. Per hepatology 
+note, sent to ED for admission and tx for cellulitis, and 
+diuresis with Lasix/albumin. 
+
+Today reports 3 weeks of worsening leg edema, skin blisters LLE, 
+warmth. No fevers or chills. Reports he gets chest discomfort 
+and dyspnea while walking > 1 block, which is stable over 
+months. No abd pain, nausea, vomiting, diarrhea. Worsening ___ 
+edema; per hepatology notes, there may be some dietary 
+indiscretion when his wife cooks. Notes he takes baths with 
+water immersion of his feet. 
+
+In the ED, initial VS were: 98.2 78 127/45 18 96% RA 
+Exam notable for:  ___ with 2+ edema to knees bilat; LLE with 
+? cellulitis vs stasis dermatitis. Labs showed:  Lactate:2.0, 
+WBC 7.8, Cr 1.2 Imaging showed: CXR with No consolidation, RUQ 
+US: Patent hepatic vasculature. No focal lesions, within the 
+limits of the examination. 
+Consults: hepatology  
+Patient received: 1gm Vancomycin IV 
+ 
+Transfer VS were:  98.8 67 140/65 14 98% RA  
+
+On arrival to the floor, patient reports no complaints aside 
+from discomfort in his left lower extremity when putting weight 
+on the leg. 
+ 
+REVIEW OF SYSTEMS: 10 point ROS reviewed and negative except as 
+per HPI, also with intermittent diarrhea over the last few 
+months
+
+ 
+Past Medical History:
+1.  Significant coronary artery disease.
+2.  Hypertension.
+3.  Recurrent seizures.
+4.  COPD.
+5.  Cervical epidural steroid injection.
+6.  Cataracts.
+7.  Status post malignant colonic polyp removal.
+8.  Alcohol abuse.
+9.  Diabetes.
+10.  BPH.
+11.  Anxiety, depression.
+12.  Migraines.
+13.  Hypercholesterolemia.
+14. ALLERGIES: Penicillins / iodinated IV dye / fenofibrate / 
+Sulfa
+(Sulfonamide Antibiotics) / contrast dye / shellfish derived  
+ 
+Social History:
+___
+Family History:
+He has multiple family members with alcoholism.  His brother is 
+alcoholic.  His another brother died from alcoholic cirrhosis.  
+He has siblings who live in ___ in ___.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+================================
+VS: 98.4PO 137/67 71 18 97 Ra   
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM  
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: mildly distended, nontender in all quadrants
+EXTREMITIES: 3+ pitting edema bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose. No 
+asterixis
+SKIN: warm and well perfused. Numerous small, round lesions in 
+the right lower extremity with minimal drainage. No purulence, 
+no induration. With surrounding area of erythema, warmth and 
+tenderness on the calf, outlined with skin marker  
+
+DISCHARGE PHYSICAL EXAM:
+================================
+VS: 98.1 134/75 59 18 98 Ra
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+NECK: supple, no LAD, no JVD but +HJR 
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: softly distended, RUQ tenderness to deep palpation
+otherwise non tender, skin with scattered brown macules
+EXTREMITIES: trace pitting edema bilaterally to the knees, 
++outlined erythema on the left shin with scattered blisters, 
+right shin also with darkening
+NEURO: A&Ox3, moving all 4 extremities with purpose. No 
+asterixis
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+=====================
+___ 07:55PM BLOOD WBC-7.8 RBC-4.13* Hgb-13.3* Hct-40.6 
+MCV-98 MCH-32.2* MCHC-32.8 RDW-12.5 RDWSD-44.7 Plt ___
+___ 07:55PM BLOOD Neuts-64.8 ___ Monos-9.7 Eos-3.6 
+Baso-1.0 Im ___ AbsNeut-5.03 AbsLymp-1.60 AbsMono-0.75 
+AbsEos-0.28 AbsBaso-0.08
+___ 07:55PM BLOOD ___ PTT-31.0 ___
+___ 07:55PM BLOOD Glucose-209* UreaN-13 Creat-1.2 Na-139 
+K-4.5 Cl-101 HCO3-25 AnGap-13
+___ 07:55PM BLOOD ALT-29 AST-35 AlkPhos-105 TotBili-1.3
+___ 06:33AM BLOOD Calcium-9.3 Phos-3.0 Mg-1.9
+___ 07:55PM BLOOD Albumin-3.9
+___ 07:23AM BLOOD %HbA1c-7.8* eAG-177*
+___ 08:08PM BLOOD Lactate-2.0
+
+DISCHARGE LABS:
+=====================
+___ 06:54AM BLOOD WBC-8.1 RBC-4.08* Hgb-13.1* Hct-39.0* 
+MCV-96 MCH-32.1* MCHC-33.6 RDW-12.0 RDWSD-42.0 Plt ___
+___ 06:54AM BLOOD ___ PTT-31.6 ___
+___ 06:54AM BLOOD Glucose-219* UreaN-15 Creat-1.1 Na-138 
+K-4.4 Cl-98 HCO3-27 AnGap-13
+___ 06:54AM BLOOD ALT-24 AST-28 LD(LDH)-260* AlkPhos-87 
+TotBili-2.3* DirBili-0.5* IndBili-1.8
+___ 06:54AM BLOOD Albumin-3.7 Calcium-9.7 Phos-2.9 Mg-1.8
+
+MICROBIOLOGY:
+======================
+___ Blood Cx - NGTD, pending
+
+IMAGING:
+======================
+___ ABDOMINAL U/S: 
+Patent hepatic vasculature.  No focal lesions, within the limits 
+of the examination.
+
+___ CXR:
+There is no consolidation.  There are no pleural effusions.  The 
+heart is normal in size.  The aorta is atherosclerotic.  The 
+trachea is midline.  The visualized osseous structures are 
+unremarkable.
+
+ 
+Brief Hospital Course:
+SUMMARY:
+================
+___ hx decompensated cirrhosis (child ___ B; decompensated with 
+portal hypertension, bleeding from esophageal varices status 
+post banding, hepatic encephalopathy and volume overload 
+presenting with LLE pain, swelling and redness concerning for 
+cellulitis. 
+
+ACTIVE ISSUES:
+================
+# LLE SWELLING and 
+# ?CELLULITIS:
+Patient p/w worsening LLE pain, swelling, and redness with 
+blistering. He was given 40mg IV Lasix for two days in addition 
+to his spironolactone, and then transitioned back to his home 
+dose of Lasix 40mg qd with an increase in his spironolactone 
+from 50mg to 100mg daily. His exam was concerning for possible 
+cellulitis with MRSA involvement (history of MRSA skin 
+infections) given that pt had some weeping blisters and has had 
+MRSA skin infections in the past. However, he also has 
+chronic-looking skin changes that may indicate underlying venous 
+stasis changes. He was treated with vancomycin in-house, to 
+improvement of his erythema. He was continued on doxycycline BID 
+for a total of a 7-day course of antimicrobial therapy. His 
+final day of therapy will be ___.
+
+# ETOH CIRRHOSIS:
+Child's ___ B, complicated by bleeding varices, hepatic 
+encephalopathy, and volume overload. Possibly due to dietary 
+indiscretion at home (Pt has his wife's family cooking for them 
+oftentimes, and it is generally salty food). Nutrition consulted 
+and provided recommendations for low salt intake. His edema 
+improved after 2 doses of active diuresis with 40mg IV 
+furosemide + albumin. He was transitioned to an oral diuretic 
+regimen of 40mg furosemide/100mg spironolactone (increased from 
+50mg spironolactone that he had previously been on).
+- Continued on home propranolol for variceal bleed PPx
+- Continued on home HE regimen
+
+# DIARRHEA:
+Pt with some complaints of on and off diarrhea for several 
+months. It was not bothersome during his hospital stay, so a C. 
+diff was not checked.
+
+CHRONIC/STABLE ISSUES:
+===========================
+# CORONARY ARTERY DISEASE:
+- Home antihypertensives as below
+- Consider starting a statin as outpatient (has possibly not 
+been on it due to cirrhosis, but if he has not had adverse 
+reactions likely could tolerate a low to moderate intensity 
+statin).
+
+# HISTORY OF DIABETES:
+- Followed by ___ Associates
+- ___ = 7.8
+- D/c on home insulin regimen, no changes made:
+U-500 insulin sliding scale (no standing insulin)
+Pre-meal blood sugar, units 
+(B = breakfast, D = dinner)
+< 70 - B 0, D 0
+< 80 - B 20, D 15
+< 90 - B 30, D 25
+< 100 - B 40, D 35
+100-150 - B 65, D 50 
+151-200 - B 70, D 55
+201-250 - B 75, D 60
+251-300 - B 80, D 65
+301-350 - B 85, D 70
+351-400 - B 90, D 75
+401-450 - B 95, D 80
+> 450 - B 100, D 85
+
+# HYPERTENSION:
+- Home enalapril and imdur
+
+# SEIZURE DISORDER:
+- Home lamotrigine
+
+# COPD:
+- Home Prozac and aricept
+
+# ANEMIA, BASELINE:
+- Home iron supplements
+
+# GERD:
+- Home pantoprazole
+
+# BPH:
+- Home oxybutynin
+
+TRANSITIONAL ISSUES:
+========================
+#CODE: Full (confirmed)
+#CONTACT: wife ___ ___ 
+#DISCHARGE WEIGHT: 101.6kg
+
+[ ] MEDICATION CHANGES:
+- Added: Doxycycline (___ therapy ___
+- Changed: Spironolactone (50mg -> 100mg daily)
+
+[ ] DISCHARGE CREATININE:
+- Creatinine 1.1 on ___.
+
+[ ] FOLLOW UP LABS:
+- Please obtain chem10 on ___. Please fax results to the 
+___ at ___, attn: Dr. ___.
+
+[ ] LOW SODIUM DIET:
+- Encouraged Pt to reduce his sodium intake to 2g daily.
+- Nutrition consulted for further evaluation.
+
+[ ] MRSA SKIN INFECTIONS:
+- Pt with a reported history of multiple MRSA skin infections in 
+the past. Consider a decontamination regimen with chlorhexidine 
+baths for Pt.
+
+[ ] DIABETES MELLITUS:
+- Pt had reported some hypoglycemia while on his home regimen of 
+U-500. However, he felt comfortable returning on same.
+- Please consider downtitrating his insulin regimen, or giving 
+him doses of long-acting insulin, to prevent 
+hyperglycemia/hypoglycemia.
+
+[ ] CARDIAC RISK FACTORS:
+- Pt is currently not taking a statin, reasons are unclear
+- If tolerates, consider starting on Atorvastatin 80mg QHS
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Cyclobenzaprine 10 mg PO TID:PRN muscle spasm 
+2. Donepezil 5 mg PO QHS 
+3. Enalapril Maleate 20 mg PO DAILY 
+4. Vitamin D ___ UNIT PO QMONTHLY 
+5. FLUoxetine 60 mg PO DAILY 
+6. Furosemide 40 mg PO DAILY 
+7. LamoTRIgine 75 mg PO DAILY 
+8. Montelukast 10 mg PO DAILY 
+9. Nitroglycerin SL 0.4 mg SL Q15MIN PRN chest pain 
+10. Oxybutynin 15 mg PO QHS 
+11. Pantoprazole 40 mg PO Q24H 
+12. Pregabalin 50 mg PO BID 
+13. Propranolol 10 mg PO TID 
+14. Spironolactone 50 mg PO DAILY 
+15. Cetirizine 10 mg PO DAILY 
+16. Ferrous Sulfate 325 mg PO BID 
+17. Multivitamins 1 TAB PO DAILY 
+18. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using U500 InsulinMax Dose Override 
+Reason: U500 insulin
+
+19. Triamcinolone Acetonide 0.1% Cream 1 Appl TP BID:PRN itching 
+
+20. DiphenhydrAMINE 25 mg PO Q6H:PRN rash 
+21. Glucose Tab ___ TAB PO PRN hypoglycemia 
+22. Albuterol 0.083% Neb Soln 1 NEB IH Q4-6H sob, wheezing 
+23. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID 
+24. Lidocaine 5% Ointment 1 Appl TP TID:PRN pain 
+25. Albuterol Inhaler 2 PUFF IH Q4H:PRN shortness of breath 
+26. Clotrimazole Cream 1 Appl TP BID to groin 
+27. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Doxycycline Hyclate 100 mg PO Q12H Duration: 11 Doses 
+Final day of therapy through ___. 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth every twelve 
+(12) hours Disp #*11 Tablet Refills:*0 
+2.  Spironolactone 100 mg PO DAILY 
+RX *spironolactone 100 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+3.  Albuterol 0.083% Neb Soln 1 NEB IH Q4-6H sob, wheezing  
+4.  Albuterol Inhaler 2 PUFF IH Q4H:PRN shortness of breath  
+5.  Cetirizine 10 mg PO DAILY  
+6.  Clotrimazole Cream 1 Appl TP BID to groin  
+7.  Cyclobenzaprine 10 mg PO TID:PRN muscle spasm  
+8.  DiphenhydrAMINE 25 mg PO Q6H:PRN rash  
+9.  Donepezil 5 mg PO QHS  
+10.  Enalapril Maleate 20 mg PO DAILY  
+11.  Ferrous Sulfate 325 mg PO BID  
+12.  FLUoxetine 60 mg PO DAILY  
+13.  Furosemide 40 mg PO DAILY  
+14.  Glucose Tab ___ TAB PO PRN hypoglycemia  
+15.  Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using U500 InsulinMax Dose Override 
+Reason: U500 insulin
+ 
+16.  Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY  
+17.  LamoTRIgine 75 mg PO DAILY  
+18.  Lidocaine 5% Ointment 1 Appl TP TID:PRN pain  
+19.  Montelukast 10 mg PO DAILY  
+20.  Multivitamins 1 TAB PO DAILY  
+21.  Nitroglycerin SL 0.4 mg SL Q15MIN PRN chest pain  
+22.  Oxybutynin 15 mg PO QHS  
+23.  Pantoprazole 40 mg PO Q24H  
+24.  Pregabalin 50 mg PO BID  
+25.  Propranolol 10 mg PO TID  
+26.  Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID  
+27.  Triamcinolone Acetonide 0.1% Cream 1 Appl TP BID:PRN 
+itching  
+28.  Vitamin D ___ UNIT PO QMONTHLY  
+29.Outpatient Lab Work
+L03.90:  Cellulitis
+Please obtain chem10 on ___.  Please fax results to the 
+___ at ___, attn: Dr. ___.
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+Left lower extremity swelling
+Concern for cellulitis
+
+SECONDARY DIAGNOSES:
+History of cirrhosis, Child ___ class B; decompensated by 
+esophageal variceal bleeding, hepatic encephalopathy, and volume 
+overload
+History of coronary artery disease
+Hypertension
+Seizure disorder
+History of chronic obstructive pulmonary disease
+History of diabetes
+Benign prostatic hyperplasia
+History of anxiety
+Anemia, stable
+Gastroesophageal reflux
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at the ___ 
+___.
+
+WHY WAS I SEEN IN THE HOSPITAL?
+- You were having worsening left leg pain, redness, and 
+swelling.
+
+WHAT DID WE DO WHILE YOU WERE IN THE HOSPITAL?
+- We gave you water pills through the IV ("Lasix") to reduce 
+your swelling.
+- We gave you antibiotics through the IV to treat your 
+infection.
+- We gave you pills to complete your antibiotic course.
+
+WHAT SHOULD I DO WHEN I LEAVE THE HOSPITAL?
+- Please take all your antibiotics as prescribed.  
+ 
+Followup Instructions:
+___

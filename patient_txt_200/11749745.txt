@@ -1,0 +1,728 @@
+===== DISCHARGE NOTE =====
+note_id=11749745-DS-4 | hadm_id=22185139
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Liver Failure
+ 
+Major Surgical or Invasive Procedure:
+___ Transjugular liver biopsy
+___ EGD
+___ Attempted colonoscopy
+___ Thoracentesis
+___ ___ guided percutaneous cholecystostomy tube placement 
+and drainage of ascitic fluid
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old gentleman with a history of alcohol 
+consumption, who is being admitted with acute onset of 
+decompensated cirrhosis. Patient developed right leg weakness in 
+___. This grew progressively worse, until right leg 
+"buckled out" from under him (attributed to subsequently found 
+iliopsoas hematoma). When he was picked up by EMS at that time, 
+they noticed that he was floridly jaundiced. Since then, he has 
+had two admissions to ___ for new onset, 
+decompendated cirrhosis. His MELD was 28 on ___. Now, per 
+advice of his outpatient Hepatologists, he is being admitted 
+from ___ Phone: (___). He 
+was still on prednisone until ___ (when it was discontinued in 
+clinic). His LFT's were in the 900 in mid ___, and are coming 
+down. From outpatient clinic on ___, labs on ___ showed that 
+LFTs trended down from previous, but patient was clinically 
+worse with MELD 30. Patient then admitted for expedited work-up. 
+Biopsy has not been done previously.
+.
+Patient reports that he has never been jaundiced before. He 
+denies any abdominal distention, episodes of confusion, 
+hematochezia, melena or hematemesis. He has been drinking ___ 
+glasses of white wine per day since ___. Prior to that, he 
+had alternating periods of alcohol consumption and sobriety. He 
+denies any past IV drug use, tattoos, blood transfusions, or 
+surgeries. He has never been told that he has high blood 
+pressure in the past. He has not been sexually active for the 
+past ___ years, but never checked for any sexually transmitted 
+diseases. He is unaware of any iron disorders. He denies any 
+family history of any liver diseases or cancers. He is of 
+___ decent.
+.  
+Today, he just notes that he has pain on his coccyx from a 
+couple of ulcers that were being treated with special dressings 
+at rehab. 
+.  
+.  
+REVIEW OF SYSTEMS:  
+Denies fever, chills, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, shortness of breath, 
+chest pain, abdominal pain, nausea, vomiting, diarrhea, 
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.
+ 
+Past Medical History:
+- EtOH consumption: no apparent periods of abuse
+- Cirrhosis  
+- Stress test in ___ for chest pain, revealed no CAD
+- hiatal hernia 
+- Iliopsoas Hematoma  
+- flu in ___
+- question of asthma (prescribed an inhaler but never used it) 
+- has never had a colonoscopy or EGD
+ 
+Social History:
+___
+Family History:
+No family history of liver disease or iron storage disorders. 
+One brother with mental retardation. One brother with UC.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS - Temp 100.2F, BP 101/61, HR 71, R 18, O2-sat 100% RA  
+GENERAL - Alert, interactive, well-appearing in NAD  
+HEENT - PERRLA, EOMI, sclerae icteric  
+NECK - Supple,  
+HEART - ___ systolic murmur heard throughout  
+LUNGS - CTAB, no r/rh/wh, good air movement, resp unlabored, no 
+accessory muscle use  
+ABDOMEN - NABS, soft/NT/ND, no masses, liver edge 2cm below 
+costal margin  
+EXTREMITIES - WWP, 2+ pitting edema in the bilateral ___, no 
+calf tenderness  
+SKIN - icteric  
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout except for ___ in the right hip flexor, no 
+asterixis
+.
+DISCHARGE PHYSICAL EXAM:
+EXPIRED
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 01:40PM BLOOD WBC-15.0* RBC-2.60* Hgb-9.8* Hct-28.6* 
+MCV-110* MCH-37.9* MCHC-34.4 RDW-20.2* Plt Ct-38*
+___ 01:40PM BLOOD Neuts-85* Bands-1 Lymphs-4* Monos-10 
+Eos-0 Baso-0 ___ Myelos-0
+___ 01:40PM BLOOD ___
+___ 01:40PM BLOOD UreaN-27* Creat-0.8 Na-125* K-5.7* Cl-91* 
+HCO3-24 AnGap-16
+___ 01:40PM BLOOD ALT-161* AST-143* CK(CPK)-76 AlkPhos-220* 
+TotBili-24.0* DirBili-6.8* IndBili-17.2
+.
+DISCHARGE LABS:
+___ 03:05PM BLOOD WBC-11.1*# RBC-0.75*# Hgb-2.7*# Hct-9.1*# 
+MCV-120* MCH-36.5* MCHC-30.6* RDW-23.0* Plt Ct-44*#
+___ 03:05PM BLOOD ___ PTT-54.5* ___
+___ 03:05PM BLOOD Glucose-366* UreaN-78* Creat-2.2* Na-138 
+K-5.6* Cl-102 HCO3-19* AnGap-23*
+___ 03:05PM BLOOD ALT-17 AST-41* LD(LDH)-312* AlkPhos-46 
+TotBili-9.3*
+___ 07:09PM BLOOD Lipase-70*
+___ 03:05PM BLOOD Calcium-8.3* Phos-6.6* Mg-2.2
+___ 05:11PM BLOOD Type-ART pO2-133* pCO2-40 pH-7.29* 
+calTCO2-20* Base XS--6
+___ 05:11PM BLOOD Lactate-7.8*
+.
+PERTINENT LABS:
+___ 06:12AM BLOOD ___
+___ 05:44AM BLOOD Hapto-<5*
+___ 05:44AM BLOOD Triglyc-85 HDL-107 CHOL/HD-1.4 LDLcalc-30
+___ 01:40PM BLOOD TSH-1.7
+___ 05:45PM BLOOD 25VitD-12*
+___ 01:40PM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE HAV 
+Ab-POSITIVE
+___ 05:45PM BLOOD HBsAb-NEGATIVE HBcAb-NEGATIVE
+___ 05:45PM BLOOD AMA-NEGATIVE
+___ 05:45PM BLOOD ___
+___ 05:45PM BLOOD CEA-12* PSA-0.2 AFP-1.8
+___ 05:45PM BLOOD IgG-1240 IgA-674* IgM-271*
+___ CA ___    504  H  
+___ CERULOPLASMIN  15  L  
+___ 05:45PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 05:45PM BLOOD HCV Ab-NEGATIVE
+___ 07:00PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-MOD Urobiln-NEG pH-6.5 Leuks-NEG
+___ 07:00PM URINE Hours-RANDOM TotProt-6
+___ Urine PEP: no protein
+___ Free kappa and lambda light chains: 
+FREE KAPPA, SERUM             20.1  H   (ref range 3.3-19.4 
+mg/L) 
+FREE LAMBDA, SERUM            30.2  H   (ref range 5.7-26.3 
+mg/L) 
+FREE KAPPA/LAMBDA RATIO       0.67      (ref range 0.26-1.65)
+___ Serum PEP: polyclonal
+___ Urine porphyrins:
+Test                          Result              Reference 
+Range/Units
+UROPORPHYRIN                  53.7  H             22.0 OR LESS 
+mcg/g creat
+HEPTACARBOXYPORPHYRIN         12.3  H             4.6 OR LESS 
+mcg/g creat
+HEXACARBOXYPORPHYRIN          NOT DETECTED        NOT DETECTED 
+mcg/g creat
+PENTACARBOXYPORPHYRIN         2.9  H              1.7 OR LESS 
+mcg/g creat
+COPROPORPHYRIN                575.4  H            23.0-130.0 
+mcg/g creat
+TOTAL PORPHYRINS              644.3  H            31.0-139.0 
+mcg/g creat
+.
+___  IRON, LIVER TISSUE
+Test Name                Flag     Result      Units       
+Reference    
+---------                ----     ------      -----     
+---------------    
+Iron, Liver Tissue        H        3497    mcg/g dry wt     ___
+  Hepatic Iron Index      H         1.0    mcmol/g/yr        
+<1.0
+.
+___ 05:35AM BLOOD proBNP-986*
+___ 03:27PM BLOOD ___ pO2-34* pCO2-39 pH-7.45 
+calTCO2-28 Base XS-2 Intubat-NOT INTUBA Comment-NASAL ___
+___ 08:41AM BLOOD Type-ART Temp-36.2 pO2-57* pCO2-38 
+pH-7.48* calTCO2-29 Base XS-4 Intubat-NOT INTUBA Comment-NASAL 
+___
+___ 08:41AM BLOOD Glucose-102 Lactate-2.8* Na-137 K-5.0 
+Cl-103
+___ 08:41AM BLOOD freeCa-1.29
+___ 06:54PM PLEURAL WBC-375* ___ Polys-8* Lymphs-39* 
+Monos-6* Atyps-2* Meso-5* Macro-40*
+___ 06:54PM PLEURAL TotProt-1.4 Glucose-224 Creat-1.5 
+LD(LDH)-163 Amylase-17 Albumin-1.1 Cholest-18
+___ 01:30PM PLEURAL TotProt-1.7 Glucose-160 LD(LDH)-482 
+Cholest-21
+.
+MICROBIOLOGY:
+___ RPR: non-reactive
+___ Rubella IgG/IgM: positive
+___ Varicella IgG: positive
+___ CMV IgG: negative
+___ EBV antibody panel: 
+   ___ VIRUS VCA-IgG AB (Final ___:    POSITIVE 
+BY EIA. 
+   ___ VIRUS EBNA IgG AB (Final ___:    POSITIVE 
+BY EIA. 
+   ___ VIRUS VCA-IgM AB (Final ___: 
+      NEGATIVE <1:10 BY IFA. 
+      INTERPRETATION: RESULTS INDICATIVE OF PAST EBV INFECTION. 
+___ 05:45PM BLOOD HIV Ab-NEGATIVE
+___ Urine culture: no growth
+___ Blood cultures x2: no growth
+___ C. diff PCR: negative
+___ Blood cultures x2: no growth to date
+___ Pleural fluid: gram stain with no PMNs, no 
+microorgansims. Fluid culture with no growth to date
+___ 11:09 am SWAB      Source: Biliary fluid. 
+                            **FINAL REPORT ___
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+   FLUID CULTURE (Final ___: 
+      A swab is not the optimal specimen collection to evaluate 
+body
+      fluids. 
+      KLEBSIELLA PNEUMONIAE.    MODERATE GROWTH. 
+         Piperacillin/tazobactam sensitivity testing available 
+on request. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |   
+AMIKACIN--------------   <=2 S
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------     2 S
+CEFTAZIDIME-----------  =>64 R
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     8 I
+MEROPENEM-------------<=0.25 S
+TOBRAMYCIN------------     8 I
+TRIMETHOPRIM/SULFA----  =>16 R
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+___ 11:01 am PERITONEAL FLUID
+                            **FINAL REPORT ___
+   GRAM STAIN (Final ___: 
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+
+.
+PATHOLOGY:
+___ Tranjugular liver biopsy (right lobe):
+1.  Established cirrhosis (trichrome stain) with mild septal and 
+periseptal mononuclear inflammatory infiltrate composed 
+predominantly of lymphocytes.  No significant plasma cell 
+infiltrate identified.
+2.  Iron overload, severe (grade 4); within hepatocytes, Kupffer 
+cells and bile duct epithelial cells (Iron stain).
+3.  Bile ductular proliferation and cholestasis are also 
+present. 
+4. No steatosis, ___ hyalin or granulomas are seen.
+.
+IMAGING:
+___ CXR PA/lat: Small right-sided pleural effusion is 
+present. There is no pleural abnormality on the left side. Lungs 
+are clear. There are no lung opacities concerning for nodules or 
+consolidation. Heart size, mediastinal and hilar contours are 
+normal.
+IMPRESSION: Small right pleural effusion. No nodules or lung 
+consolidation.
+.
+___ Transjugular liver biopsy: Pressures were obtained in 
+the following locations: RIGHT ATRIUM: 7 mmHg, FREE RIGHT 
+HEPATIC VEIN PRESSURE: 8 mmHg, WEDGED RIGHT HEPATIC VEIN 
+PRESSURE: 24 mmHg
+The patient tolerated the procedure well and there were no 
+immediate
+post-procedure complications.
+IMPRESSION:
+1. Successful fluoroscopic-guided transjugular liver biopsy via 
+the right
+internal jugular vein. Three core samples of the right hepatic 
+lobe were
+obtained via the right hepatic vein and sent to pathology.
+2. Portosystemic gradient measures 16 mmHg consistent with 
+portal
+hypertension.
+.
+___bd/pelvis: In the lung bases, note is 
+made of a moderate-sized right pleural effusion with adjacent 
+compressive atelectasis. There are no pulmonary nodules or 
+masses seen.
+ABDOMEN AND PELVIS: There is abnormal morphology to the hepatic 
+parenchyma consistent with the patient's known cirrhosis. There 
+is a small low-attenuation lesion in the segment VIII of the 
+liver measuring less than a centimeter in size and is too small 
+to characterize. There is no enhancement within this lesion. 
+Additional tiny subcentimeter-sized low-attenuation lesions are 
+seen in the liver, which are too small to characterize. There is 
+no intra- or extra-hepatic biliary ductal dilatation. The portal 
+and hepatic veins are patent. The patient has an aberrant 
+hepatic arterial anatomy, with replaced right hepatic artery 
+originating from the superior mesenteric artery. No 
+hyper-enhancing lesions are seen in the liver.
+The gallbladder is slightly distended without wall thickening. 
+There is high density within the gallbladder measuring 32HU.
+The spleen is enlarged measuring 13.5 cm in the largest 
+dimension. There are lower esophageal and paraesophageal 
+varices. Note is made of prominent
+splenorenal shunting. The splenic and superior mesenteric veins 
+appear within normal limits.
+There is perihepatic ascites, which measures about 2.5 
+Hounsfield units in
+density representing simple fluid. There are no hematomas seen 
+in the abdomen or pelvis. There is evidence of mild fat 
+stranding involving the mesentary suggestive of ascites.
+The pancreas, adrenal glands appear within normal limits. The 
+kidneys enhance contrast symmetrically and are seen excreting 
+contrast without focal abnormalities. Nonspecific perinephric 
+fat stranding is seen.
+The abdominal aorta is normal in caliber. 
+There is no mesenteric or retroperitoneal lymphadenopathy.
+The urinary bladder is well-distended without any obvious focal 
+abnormalities.
+There are coarse calcifications within the prostate gland. There 
+is no pelvic lymphadenopathy.
+There is bi-lenticular-shaped low-attenuation lesion within the 
+right iliacus muscle (series 6, image 61) measuring 
+approximately 6.1 x 2.0 cm in size, which extends upward up to 
+the level of the iliopsoas insertion into the lesser trochanter 
+of the right femur. It measures approximately 39 Hounsfield 
+units in density. Please note that he images of the pelvis were 
+not obtained on the non-contrast CT images and the visualized 
+abnormality within the right iliacus muscle is noted only on the 
+three-minute delayed view through the pelvis. It is unclear if 
+this is an enhancing lesion or not. Multilevel degenerative 
+changes are seen in the spine, without suspicious osteolytic or 
+osteoblastic lesions.
+Evaluation of bowel is limited due to lack of enteric contrast.
+IMPRESSION:
+1. No evidence of active extravasation.
+2. Bi-lenticular shaped low-density lesion within the right 
+iliacus muscle
+likely represents patient's known hematoma.
+3. Nonspecific findings of high density contents within the 
+gallbladder could be secondary to hemobilia, inspissated bile or 
+vicarious contrast excretion.
+4. Cirrhosis with sequela of portal hypertension.
+5. Small hypodense lesions within the liver which are too small 
+to
+characterize. No hyper-enhancing lesions to suggest HCC.
+6. Moderate right pleural effusion with adjacent compressive 
+atelectasis.
+.
+___ EGD: 
+Findings: Esophagus: Normal esophagus. 
+Stomach: Normal stomach. 
+Duodenum: Normal duodenum. 
+Recommendations: No varices
+No evidence of portal hypertension on EGD 
+.
+___ TTE: The left atrium is dilated. Left ventricular wall 
+thicknesses are normal. The left ventricular cavity size is 
+normal. Left ventricular systolic function is hyperdynamic (EF 
+80%). There is a moderate resting left ventricular outflow tract 
+obstruction. Right ventricular chamber size and free wall motion 
+are normal. The ascending aorta is mildly dilated. The aortic 
+valve leaflets (3) are mildly thickened but aortic stenosis is 
+not present. No aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. There is no mitral valve 
+prolapse. The estimated pulmonary artery systolic pressure is 
+normal. There is no pericardial effusion.  
+.
+___ CT Abd/pelvis (attempted CTC Virtual Colonoscopy): 
+A moderate right pleural effusion is again with adjacent 
+compressive
+atelectasis (3:4) is minimally changed since ___. The heart size is normal, and there is no pericardial 
+effusion. Severe mitral annulus calcifications are unchanged 
+(3:6).
+Non contrast-enhanced images of the liver demonstrate a mildly 
+nodular
+contour, in keeping with known history of cirrhosis. Massive 
+parasplenic
+varices denote chronic portal hypertension (3:29). The pancreas, 
+stomach,
+adrenal glands, kidneys, and intra-abdominal loops of small and 
+large bowel
+are within normal limits. No large colonic polyps or masses are 
+seen,
+although this assessment is limited due to obscuration from 
+incomplete
+insufflation and obscuring fluids. There is no mesenteric or 
+retroperitoneal lymphadenopathy, and no free air or free fluid.
+CT OF THE PELVIS WITHOUT IV CONTRAST:
+Coarse calcifications reside within the prostate (3:89). The 
+urinary bladder and rectum are normal. There is no intrapelvic 
+free fluid.
+OSSEOUS STRUCTURES:
+There is no acute fracture. There are no bony lesions concerning 
+for
+malignancy or infection.
+IMPRESSION:
+1. This should not be considered as a virtual CT colonography 
+examination.
+2. Unchanged moderate right pleural effusion with adjacent 
+compressive
+atelectasis.
+3. Cirrhotic liver. Massive parasplenic varices denote chronic 
+portal
+hypertension.
+.
+___ CXR PA/lat: There are lower lung volumes. Cardiac size 
+is top normal, is accentuated by the low lung volumes. Moderate 
+right pleural effusion is unchanged. New diffuse alveolar 
+opacities are likely consistent with pulmonary edema. There is 
+no pneumothorax. The aorta is tortuous. 
+.
+___ LUE U/S: No evidence of deep vein thrombosis in the left 
+arm.
+.
+___ Abdominal ultrasound: Multiple sonographic images were 
+obtained. The liver is nodular and coarse in appearance, 
+consistent with cirrhosis. A small pocket of ascites is seen 
+near the dome of the liver. No ascites was seen in the remaining 
+quadrants. The pocket was deemed too small to mark for 
+aspiration without real-time ultrasound guidance.  
+IMPRESSION: Small pocket of fluid for which realtime 
+ultrasound-guided aspiration would be required.
+.
+___ CXR PA/lat: There are low lung volumes. There are 
+developing opacities within the lung bases. These may represent 
+atelectasis or more likely developing pneumonia or aspiration. 
+Heart size is upper limits of normal but stable. There are no 
+pneumothoraces. 
+.
+___ CTA Chest:
+There is no central PE. The subsegmental and distal branches of
+the pulmonary arteries are difficult to evaluate secondary to 
+respiratory
+motion. The great vessels are unremarkable. There is no 
+pericardial
+effusion. There are mitral valve calcifications along with 
+coronary
+calcifications most notably in the LAD. There are also aortic 
+annulus
+calcifications.
+There is no mediastinal or axillary lymphadenopathy by CT 
+criteria.
+Within the lungs, there are dense peribronchial opacities 
+surrounded by
+ground-glass opacities in bilateral upper lobes. There is also a
+moderate-sized nonhemorrhagic layering right-sided pleural 
+effusion with
+adjacent atelectasis. There is also left-sided opacity 
+consistent with
+atelectasis, less likely infectious process.
+The tracheobronchial tree is patent to the subsegmental level.
+This study is not intended for subdiaphragmatic evaluation; 
+however, moderate amount of ascites as well as prominent 
+splenorenal shunting is seen.
+BONES: No suspicious osseous or lytic lesions are seen. A bony 
+island is
+seen within the posterior approximately tenth rib.
+IMPRESSION:
+1. No evidence of central PE.
+2. Moderate right-sided pleural effusion with adjacent 
+atelectasis.
+3. Peribronchial opacities representative of pulmonary edema 
+diffusely in
+bilateral upper lobes.
+4. Coronary calcifications along with mitral and aortic annulus
+calcifications as described above.
+.
+___ Cardiac MRI: ***pending final read***
+.
+___ Abdominal ultrasound: Small amount of ascites only seen 
+in the perihepatic space. There is no suitable pocket to mark.
+Also noted there is splenomegaly, a right pleural effusion, and 
+sludge within the gallbladder.
+.
+___ CXR PA/lat: There are low inspiratory volumes. Even 
+allowing for this, there is probable cardiomegaly. There is 
+opacity at the right base obscuring the right hemidiaphragm, new 
+compared with ___. The most likely etiology is a small 
+effusion with underlying collapse and/or consolidation. Mild 
+prominence of vascular markings could reflect mild vascular 
+plethora; doubt overt CHF. There is atelectasis at the left 
+base. No left effusion.
+.
+___ CXR portable: Compared with ___ at 8:44 a.m., a 
+catheter has been placed at the right base. There is a 
+persistent right pleural effusion, probably slightly smaller, 
+with underlying collapse and/or consolidation. There is slight 
+rightward positioning of the mediastinum and trachea, ? due to 
+rotation. There are low inspiratory volumes, with vascular 
+plethora and patchy opacity at the left base. No left-sided 
+effusion. No pneumothorax is detected. 
+IMPRESSION:
+1. Interval placement of right-sided (pleural) catheter. A 
+portion of the
+catheter is indistinct, ? related to site of entry. No 
+pneumothorax detected.
+2. Right effusion again seen, possibly slightly smaller, with 
+underlying
+right base collapse and/or consolidation.
+3. Confluent opacity in the left midzone and base medially, 
+which could
+represent an additional focal pneumonic infiltrate.
+4. Mild prominence of the cardiomediastinal silhouette with 
+slightly
+rightward positioning. Please see comment.
+5. Probable CHF, even allowing for low lung volumes.
+.
+___ CXR portable: Compared with ___ at 21:59 p.m., 
+there has been improvement at the right base. No effusion is 
+identified at the right base on the current exam. Some residual 
+atelectasis and/or focal infiltrate at the right base medially 
+is again seen, better visualized due to improvements in the 
+effusion. Patchy retrocardiac opacity has also improved. Slight 
+vascular plethora remains present, but has improved. No 
+left-sided effusion.
+IMPRESSION: Patchy opacities at both bases are improved. Right 
+pleural
+effusion has resolved on the frontal view. CHF has also 
+improved. No new
+area of infiltrate or consolidation identified.
+
+___ CT abdomen/pelvis:
+IMPRESSION: 
+1. Progressive increased distention of the gallbladder, now 
+measuring 7.1 cm in transverse diameter. Evaluation for 
+gallbladder wall edema/enhancement cannot be performed secondary 
+to lack of intravenous contrast. Acute cholecystitis cannot be 
+excluded on this examination. If further imaging confirmation is 
+needed, a gallbladder scan could be performed.  
+2. Cirrhotic liver with sequelae of portal hypertension. Small 
+volume ascites.  
+3. Increased density of the kidneys may be a sign of renal 
+insufficiency in the setting of prior contrast administration. 
+
+___ ___ guided paracentesis:
+IMPRESSION: Technically successful ultrasound-guided drainage of 
+1.8 L of dark straw-colored slightly thickened fluid. 
+Hemorrhagic ascitic fluid noted within paracentesis tubing at 
+the end of percutaneous cholecystostomy procedure. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old gentleman, with PMHx significant for 
+alcohol consumption but not abuse, now presenting with 
+decompensated cirrhosis (for jaundice) of unknown origin for 
+expedited transplant work-up. Hospital course complicated by 
+acute on chronic anemia, encephalopathy, hypoxia, acute kidney 
+injury, coccygeal ulcers and depression.
+.  
+#Septic shock:  He presented to ICU with hypotension and 
+unresponsiveness.  Elevated white count concerning for sepsis of 
+unidentified source. Leukocytosis, tachypnea, and hypotension 
+were concerning for septic shock.  Right IJ was placed on 
+admission to the ICU with initiation of pressors.  Initially, 
+phenylepherine was chosen given history of LVOT in attempts to 
+avoid tachycardia.  He was bolused several liters of fluid with 
+good response as well.  However, he continued to become 
+hypotensive requiring initiation of vasopressin then 
+norepinepherine to maintain MAPs in the ___ range.  He was 
+empirically started on vancomycin and cefepime, with broadening 
+to fluconazole given continued decompensation.  CT scan of the 
+abdomen was pursued, which identified a >7 cm gallbladder 
+concerning for cholecystitis.  Necessity for intervention 
+prompted elective intubation on MICU day #2.  ___ was consulted 
+and a bedside percutaneous paracentesis and cholecystostomy tube 
+placement was performed.  He received FFP and cryoprecipitate 
+prior to the procedure as his INR was high and platelet count 
+low due to underlying liver disease.  The procedure was 
+complicated by bleeding and hypotension.  Ascitic fluid was also 
+sent for culture.  Following the procedure, HCP made the 
+decision to change code status from full code to DNR.  Soon 
+after the procedure, blood pressures continued to drop despite 
+being on pressors.  Abdomen was found to be increasingly 
+distended.  Hct was checked and had fallen to 9 (from 29 prior 
+to the procedure).  He was transfused two units PRBCs.  HCP was 
+informed of likelihood that pt was hemorrhaging into 
+intra-abdominal cavity.  Possible options were discussed, 
+including ___ guided intervention to stop the bleeding.  Given 
+overall poor prognosis, HCP made the decision to not pursue 
+aggressive management.  BPs continued to drop and he was 
+pronounced dead on ___ at 17:40pm.  HCP was informed and 
+declined autopsy.  
+
+# Cirrhosis: Patient with cirrhotic liver noted on OSH imaging, 
+with jaundice and MELD 23. Only known risk factors for cirrhosis 
+are alcohol consumption (family contributed that it is a "jumbo 
+bottle" of wine per day), ongoing poor diet/overweight, and 
+family history of porphyria cutanea tarda. Cirrhosis etiology is 
+most likely a combination of alcoholic cirrhosis, with 
+contribution from NAFLD and porphyria (based on family history 
+and porphyrin labs). At OSH, HFE gene was negative, making 
+hemochromatosis less likely. Other possible etiologies, 
+including viral and autoimmune were ruled out on labs and 
+serologies. During this admission, the patient had a 
+transjugular liver biopsy, which demonstrated elevated portal 
+pressures consistent with portal hypertension, with pathology 
+showing cirrhosis and severe iron overload. For his transplant 
+evaluation, patient had EGD showing normal esophagus, stomach 
+and duodenum without varices or portal gastropathy. He had a 
+virtual colonscopy, but the study was limited and 
+non-diagnostic. Also, his TTE was done; this showed hyperdynamic 
+LV with EF 80%, moderate resting LVOT obstruction, and mildly 
+thickened aortic valve leaflets. He was continued on furosemide, 
+spironolactone, lacutlose and rifaxmin. 
+.
+# Acute on chronic anemia: Hematocrit stabilized in the low ___, 
+with several blood transfusions intermittently during this 
+admission for Hcts below 21. There were no active signs of 
+bleeding on exam on CT imaging. Patient's labs were consistent 
+with ongoing hemolysis that was probably secondary to both 
+cirrhosis and porphyria.
+.
+# Encephalopathy: Throughout the latter half of this 
+hospitalization, the patient had waxing and waning somnolence. 
+Differential for encephalopathy was broad, including pulmonary 
+edema, hypoxia, deconditioning, atelectasis and infection. 
+Work-up for infection was negative (no UTI, PNA, infectious 
+diarrhea, skin infection or SBP). Likely not attributable 
+hepatic encephalopathy, given frequent BMs on lactulose. No 
+sedating meds. Most likely etiology was from chronic disease and 
+deconditioning from long hospital stay, with some contribution 
+from pulmonary edema and atelectasis. 
+. 
+# Hypoxia: Following attempted colonoscopies, the patient was 
+noted to have a new oxygen requirement of 2L supplemental 
+oxygen. ABG on ___ demonstrated hypoxia with pO2 57. Etiology 
+was unclear, but it was most likely mutlifactorial from pleural 
+effusion, LVOT obstruction, atelectasis, and possible silent 
+aspiration. Diuretics were initially discontinued to allow more 
+BP room for metoprolol for rate control and better preload. 
+Patient had a thoracentesis for 800 cc transudative fluid on 
+___. He was uptitrated to metoprolol tartrate 25 mg PO BID for 
+improvement of preload. Lasix at low dose was restarted. Patient 
+was evaluated by speech and swallow, who noted to overt 
+aspiration, but recommended HOB elevation, and diet with thin 
+liquids and soft solids. 
+.
+# Acute kidney injury: Creatinine was initially 0.8 and rose to 
+1.3 several days prior to discharge, which it remained stable. 
+This ___ was likely related to diuretic medications and 
+decreased PO intake, along with some decreased cardiac output 
+from LVOT obstruction. Patient's diuretics were adjusted. 
+.
+# Coccygeal ulcers: Noted to have several ulcers, from 
+exfoliative stress and pressure. At rehabilitation, he should 
+continue commercial cleansing, Duoderm and Mipelex per nursing 
+care recommendations. There were no signs of infection.
+.
+# Depression: Patient expressing hopelessness, and sadness about 
+his father's death on ___. This probably contributed to some 
+lack of motivation during inpatient physical therapy and rehab 
+process. 
+.
+# Alcohol consumption: Based on patient report, it did not seem 
+that he has alcohol abuse beyond what is recommended for his 
+gender ___ glasses of wine per night); however, family input 
+that he was actually drinking a "jumbo" bottle of wine per day. 
+He was deemed not a transplant candidate
+.
+# Iliopsoas Hematoma: Patient developed weakness in his right 
+leg in ___ of this year, with right iliopsoas hematoma 
+demonstrated on CT scan. During this admission, repeat CT scan 
+showed a slight improvement in the size of the iliopsoas 
+hematoma. 
+.   
+ 
+Medications on Admission:
+- folic acid 1 mg daily  
+- furosemide 20 mg daily  
+- nadolol 40 mg daily  
+- prednisone 40 mg daily (d/c'ed ___  
+- senna 8.6 mg daily  
+- spironolactone 100 mg daily  
+- thiamine 100 mg daily  
+- lactulose 10 mg BID  
+- xifaxan 550 mg BID  
+- vitamin d 1000 units daily  
+- nystatin swish and swallow  
+- ursodiol 500 mg BID 
+ 
+Discharge Medications:
+EXPIRED
+ 
+Discharge Disposition:
+Expired
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+EXPIRED
+ 
+Discharge Condition:
+EXPIRED
+
+ 
+Discharge Instructions:
+EXPIRED
+ 
+Followup Instructions:
+___

@@ -1,0 +1,112 @@
+===== DISCHARGE NOTE =====
+note_id=10643823-DS-5 | hadm_id=29600162
+
+ 
+Name:  ___              ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+free air 
+ 
+Major Surgical or Invasive Procedure:
+___: exploratory laparotomy, sigmoid resection, 
+discontinuity, abthera 
+
+ 
+History of Present Illness:
+___ PMH HTN, HLD and advanced Alzheimer's dementia presents as
+transfer from ___ with free air on CXR. Patient is
+intubated and sedated on arrival, thus history is obtained from
+OSH records. Per report patient was at a ___ store with her
+husband earlier this afternoon when she suddenly sat down and
+"became limp" prompting a call to ___. She was taken by EMS to
+___ where she was noted to grimace to abdominal
+palpation and CXR showed free air under the right 
+hemi-diaphragm.
+She was intubated, sedated, given IV Zosyn, started on Levophed
+and transferred to ___ for further management.
+ 
+Past Medical History:
+PMH: 
+-HTN
+-HLD
+-Alzheimer's dementia
+
+PSH: 
+-no abdominal operations
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+At admission: 
+
+Vitals-99.2   95    96/32    18    92% RA 
+GEN: intubated/sedated
+HEENT: pupils pinpoint
+CV: tachycardic
+PULM: intubated, coarse breath sounds bilaterally
+ABD: somewhat distended, dull to percussion, no incisions or
+scars noted
+EXT: WWP, palpable pulses to bilateral lower extremities
+SKIN: no jaundice, no rashes
+NEURO: intubated/sedated
+
+At discharge: 
+
+Expired.
+ 
+Brief Hospital Course:
+Mrs. ___ presented to ___ on ___ as a transfer from 
+___ with free air on chest x-ray and in septic 
+shock. On arrival, she was already intubated and sedated. A 
+right femoral central venous line was placed in the ED and she 
+was taken emergently to the Operating Room. In the Operating 
+Room, a perforation in the sigmoid colon was visualized. and 
+there was gross spillage of feces into the abdomen.  For full 
+details of the procedure, please refer to the separately 
+dictated operative report. Patient was becoming increasingly 
+unstable and requiring 4 pressors, thus decision was made to 
+resect the perforated portion of colon, pack the abdomen, place 
+an Abthera and return the patient to the ICU for ongoing 
+resuscitation. In the ICU, patient had worsening pressor 
+requirement and ultimately became bradycardic at which time 
+family (who were present in the ICU) made the decision not to 
+pursue resuscitative measures. Time of death was 0440. Next of 
+kin (husband, ___ was present at the time of death. Autopsy 
+was declined.
+ 
+Medications on Admission:
+Unknown
+ 
+Discharge Medications:
+Expired.
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+fecal peritonitis ___ colon perforation
+
+ 
+Discharge Condition:
+Expired.
+
+ 
+Discharge Instructions:
+Expired.
+ 
+Followup Instructions:
+___

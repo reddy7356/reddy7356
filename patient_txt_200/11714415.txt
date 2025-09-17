@@ -1,0 +1,398 @@
+===== DISCHARGE NOTE =====
+note_id=11714415-DS-19 | hadm_id=23244068
+
+ 
+Name:  ___        Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ with a history of CVA with residual bilateral lower 
+extremity weakness who presented with chest pain and is 
+transferred with concern for NSTEMI. He developed acute onset 
+pressure-like substernal chest pain without radiation the 
+evening of ___ and presented to CHA. His symptoms were 
+accompanied by nausea and shortness of breath. This occurred at 
+rest. There is an EKG demonstrating inferolateral ST depressions 
+and troponin-I increasing from 0.3 to 0.8. Upon arrival to ___ 
+ED, he was chest pain free. He notes that he had similar 
+symptoms ___ years ago that were not as severe and occurred in the 
+setting of exertion. He was given full dose aspirin at the 
+outside hospital.  
+
+- In the ED, initial VS: T 97.6 HR 89 BP 126/62 RR 14 O2 98% RA  
+
+- Labs were notable for: WBC 10.1 Hgb 14.7 Plt 250, Trop 0.07  
+- Studies were notable for:  EKG here with sinus tachycardia, 
+prominent T waves in anterior leads, no evidence of ischemia  
+- The patient was given: none
+
+On arrival to the floor, patient is doing well. Reports no chest 
+pain, SOB, palpitations, dizziness, abd pain, nausea, vomiting, 
+diarrhea, dysuria, cough, sore throat, fevers, sick contacts, 
+changes to his routine. 
+ 
+Past Medical History:
+?CVA with residual lower extremity weakness  
+ 
+Social History:
+___
+Family History:
+No family history of early coronary disease, cardiomyopathy, or 
+sudden death
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+VITALS: T98.5, BP 117/77, HR 92, RR 17, PO2 97 Ra  
+GENERAL: Alert and interactive. In no acute distress.  
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM. 
+ 
+NECK: No cervical lymphadenopathy. No JVD.  
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No 
+murmurs/rubs/gallops.  
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or 
+rales. No increased work of breathing.  
+BACK: No CVA tenderness.  
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep 
+palpation in all four quadrants. No organomegaly.  
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+ bilaterally.  
+SKIN: Warm. Cap refill <2s. No rashes.  
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs 
+spontaneously. ___ strength throughout. Normal sensation.  
+
+DISCHARGE EXAM
+===============
+24 HR Data (last updated ___ @ 718)
+    Temp: 98.0 (Tm 99.2), BP: 110/73 (106-121/71-82), HR: 73
+(73-96), RR: 16 (___), O2 sat: 97% (96-99), O2 delivery: Ra    
+
+GENERAL: Alert and interactive. In no acute distress.  
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM. 
+
+
+NECK: No cervical lymphadenopathy. No JVD.  
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.  
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.  
+BACK: No CVA tenderness.  
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.  
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.  
+SKIN: Warm. Cap refill <2s. No rashes.  
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.  
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 05:07AM BLOOD WBC-10.1* RBC-4.92 Hgb-14.7 Hct-44.9 
+MCV-91 MCH-29.9 MCHC-32.7 RDW-12.3 RDWSD-41.1 Plt ___
+___ 05:07AM BLOOD Neuts-58.9 ___ Monos-12.9 Eos-1.3 
+Baso-0.4 Im ___ AbsNeut-5.96 AbsLymp-2.64 AbsMono-1.30* 
+AbsEos-0.13 AbsBaso-0.04
+___ 05:09AM BLOOD ___ PTT-30.6 ___
+___ 05:07AM BLOOD Glucose-103* UreaN-11 Creat-0.9 Na-137 
+K-4.4 Cl-102 HCO3-22 AnGap-13
+___ 05:52AM BLOOD ALT-47* AST-32 AlkPhos-77 TotBili-0.6
+___ 05:52AM BLOOD Calcium-9.7 Phos-5.1* Mg-2.4
+
+OTHER PERTINENT LABS/MICRO
+=========================
+___ 05:07AM BLOOD CK-MB-7
+___ 05:07AM BLOOD cTropnT-0.07*
+___ 01:13PM BLOOD CK-MB-6 cTropnT-0.04*
+
+___ 01:13PM BLOOD Cholest-167
+___ 01:13PM BLOOD Triglyc-75 HDL-39* CHOL/HD-4.3 
+LDLcalc-113
+
+___ 05:12AM BLOOD %HbA1c-5.4 eAG-108
+
+IMAGING
+=======
+TTE ___
+The left atrial volume index is normal. The right atrium is 
+mildly enlarged. There is no evidence for an atrial septal 
+defect by 2D/color Doppler. The estimated right atrial pressure 
+is ___ mmHg. There is mild symmetric left ventricular 
+hypertrophy with a normal cavity size. There is mild regional 
+left ventricular systolic dysfunction with inferior hypokinesis 
+(see schematic). Quantitative biplane left ventricular ejection 
+fraction is 41 % (normal 54-73%). Left ventricular cardiac index 
+is low normal (2.0-2.5 L/ min/m2). There is no resting left 
+ventricular outflow tract gradient. No ventricular septal defect 
+is seen. Tissue Doppler suggests a normal left ventricular 
+filling pressure (PCWP less than 12mmHg). Normal right 
+ventricular cavity size with normal free wall motion. Tricuspid 
+annular plane systolic excursion (TAPSE) is normal. The aortic 
+sinus diameter is normal for gender with normal ascending aorta 
+diameter for gender. The aortic arch diameter is normal with a 
+normal descending aorta diameter. There is no evidence for an 
+aortic arch coarctation. The aortic valve leaflets (3) appear 
+structurally normal. There is no aortic valve stenosis. There is 
+no aortic regurgitation. The mitral valve leaflets are mildly 
+thickened with no mitral valve prolapse. There is trivial mitral 
+regurgitation. The pulmonic valve leaflets are normal. The 
+tricuspid valve leaflets appear structurally normal. There is 
+physiologic tricuspid regurgitation. The estimated pulmonary 
+artery systolic pressure is normal. There is a trivial 
+pericardial effusion.
+
+CTA CORONARIES ___
+Image Quality: The overall quality of the CT angiographic 
+examination is good
+and is limited by cardiac motion artifacts.
+ 
+AGATSTON SCORE: The total (aggregate) calcium score using the AJ 
+130 method is
+0. Total volume score of 0.
+0% of similar patients have less coronary artery calcium.
+ 
+Individual major vessel AJ 130 scores are: LM: -; LAD: 0; LCX: 
+0; RCA: 0.
+ 
+CORONARY CTA: Dominance of the coronary artery system: left with 
+normal
+origins and course.
+ 
+Left Main: The left main is a normal caliber vessel which gives 
+rise to the
+LAD and circumflex arteries. The left main has no stenosis with 
+no plaque.
+There is a short-segment of superficial myocardial bridging of 
+the proximal
+LAD.
+ 
+Left Anterior Descending Artery: has no stenosis with no plaque.
+LAD branches:
+- D1: has no stenosis with no plaque.
+- D2: has no stenosis with no plaque.
+ 
+Left Circumflex Artery: has no stenosis with no plaque.
+LCX branches:
+- OM1: has no stenosis with no plaque.
+- OM2: has no stenosis with no plaque.
+ 
+Right Coronary Artery: The RCA territory is small in caliber and 
+not well
+assessed, an expected finding in the setting of left dominant 
+coronary
+anatomy.
+ 
+CARDIAC MORPHOLOGY: The right atrium is normal. The right 
+ventricle is normal.
+The left atrium is normal. The left ventricle is normal. The 
+aortic valve is
+tricuspid with normal leaflets. No mitral calcifications are 
+appreciated.
+ 
+EXTRACARDIAC FINDINGS:
+ 
+No mediastinal or hilar lymphadenopathy within the 
+field-of-view. Anterior
+mediastinal soft tissue in a patient of this age likely 
+represents thymic
+tissue. There is bibasilar atelectasis. The central airways are 
+patent. No
+pleural effusion or parenchymal opacity. Visualized upper 
+abdomen is normal.
+ 
+IMPRESSION AND RECOMMENDATIONS: This study was considered 
+diagnostic for
+evaluation of the coronary arteries.
+ 
+Total calcium score of 0.
+CAC Score risk: CAC-DRS 0 (0): very low risk- statin generally 
+not recommended
+CAC-DRS ___ A0/N0
+(A - risk category based on Agatston score / N - number of 
+coronary arteries
+containing calcifications)
+ 
+CAD-RADS 0- No plaque or stenosis.
+ 
+REFERENCES: Calcium Scoring is reported using the interactive 
+___ form
+(___) and graded using the 
+CAC-DRS
+___ (J Cardiovasc Comput Tomogr ___ 
+___.
+ 
+CAC-DRS 0 (A0) - Agaston score 0: Very low risk (statin 
+generally not
+recommended)
+CAC-DRS 1 (A1) - Agaston score between ___: Mildly increased 
+risk (moderate
+intensity statin recommended)
+CAC-DRS 2 (A2) - Agaston score between 100-299: Moderately 
+increased risk
+(moderate to high intensity statin + 81 mg ASA recommended)
+CAC-DRS 3 (A3) - Agaston score between >300: Moderately to 
+severely increased
+risk (high intensity statin + 81 mg ASA recommended)
+ 
+Coronary stenoses are reported as maximum percentage diameter 
+stenosis and
+graded using the CAD-RADS classification (___ Cardiovasc 
+Imaging ___
+Sep;9(9):1099-113).
+ 
+CAD-RADS 0: 0%, no stenosis
+CAD-RADS 1: ___, minimal stenosis or plaque with no stenosis
+CAD-RADS 2: ___, mild stenosis
+CAD-RADS 3: 50-69%, moderate stenosis
+CAD-RADS 4A: 70-99%, severe stenosis
+CAD-RADS 4B: >50% stenosis of the left main or >=70% stenosis of 
+the left
+anterior descending, the left circumflex, and the right 
+coronary, severe
+stenosis
+CAD-RADS 5: 100%, total occlusion
+CAD-RADS N: Non-diagnostic study, obstructive CAD cannot be 
+excluded
+
+DISCHARGE LABS
+==============
+___ 07:12AM BLOOD WBC-6.9 RBC-4.94 Hgb-14.9 Hct-44.8 MCV-91 
+MCH-30.2 MCHC-33.3 RDW-12.2 RDWSD-40.3 Plt ___
+___ 07:12AM BLOOD ___ PTT-32.7 ___
+___ 07:12AM BLOOD Glucose-94 UreaN-13 Creat-0.8 Na-138 
+K-4.6 Cl-100 HCO3-23 AnGap-15
+___ 07:12AM BLOOD Calcium-9.5 Phos-4.9* Mg-2.3
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES
+====================
+Discharge wt: 212.52 lb
+Discharge Cr: 0.8
+New medications: metoprolol succinate XL 25mg daily, lisinopril 
+2.5mg daily
+
+[] TTE with one month cardiology follow up
+[] consider downgrading metoprolol and/or lisinopril if 
+resolution of wall motion abnormality 
+[] consider workup for elevated INR, 1.3 on discharge; unlikely 
+to be related to cardiac presentation 
+[] find out if patient actually had CVA in the past; documented 
+but patient does not recall. Could be risk for hypercoagulable 
+state if this was the cause
+[] counsel on avoidance of substances that could induce 
+vasospasm (negative utox here and denies substances)
+[] f/u Chagas antibody 
+
+# CODE: full presumed
+# CONTACT: ___ (Wife) ___ 
+
+___, ___ man with no PMH who 
+presented with chest pain, nausea, SOB to CHA, found to have 
+inferolateral ST depressions and elevated troponins, and was 
+transferred with concern for NSTEMI. Found to have regional wall 
+motion abnormalities inferiorly on TTE with EF 41%. CTA with no 
+evidence of coronary disease or coronary anatomical 
+abnormalities. 
+
+# NSTEMI, unclear etiology: 
+Patient presented with EKG showing evidence of regional ischemia 
+with infero-lateral ST depressions and TWI, although this 
+resolved on EKG in our ED. Trop I 0.3->0.8, to trop T 0.07, 
+subtle regional wall motion abnormality on TTE. Differential for 
+chest pain with elevated troponins in this patient includes ACS 
+although less likely given age and lack of comorbidities/family 
+history; coronary vasospasm although utox negative; coronary 
+dissection, acute myocarditis and myopericarditis although no 
+viral prodrome or ingestions and without pleuritic sx or 
+consistent EKG changes. Potentially also secondary to PE iso 
+sinus tachycardia although ddimer 440. Inferior wall motion 
+abnormalities found on echo. Another possibility is Chagas 
+disease as patient is from ___ but the presentation would be 
+unusual for this condition as well. CTA coronaries with CAC 
+score of 0 (no epicardial coronary disease), and no evidence of 
+acute coronary abnormalities including dissection. Overall most 
+consistent with myocarditis. Stopped primary prevention aspirin. 
+Can consider outpt CMR and will need repeat TTE. 
+
+# HF borderline EF:
+On TTE, EF is 41%. Warm on exam, euvolemic. Well-appearing. Will 
+optimize medications associated with decreased mortality in 
+heart failure and prevent adverse remodeling of damaged 
+myocardium. Started lisinopril 2.5 mg daily, metoprolol 
+succinate 25 mg daily. Will repeat TTE in 4 months.
+ 
+Medications on Admission:
+NONE
+ 
+Discharge Medications:
+1.  Lisinopril 2.5 mg PO DAILY  
+2.  Metoprolol Succinate XL 25 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Non-ST elevation myocardial infarction, unclear etiology
+Reduced ejection fraction
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+WHY YOU WERE HERE
+- You had chest pain and shortness of breath
+
+WHAT WE DID FOR YOU
+- You were found to have evidence of damage to your heart but 
+this got better
+- You had an ultrasound of your heart that showed decrease in 
+pumping function of one part of your heart
+- You had a cat scan that showed no blockages of your heart 
+vessels or damage to the vessel that supply your heart. This was 
+reassuring
+- We are not sure what caused your chest pain but sometimes 
+blood vessels can "spasm" and temporarily cause issues that go 
+away
+
+WHAT YOU SHOULD DO WHEN YOU LEAVE
+- You will need to take two new medications to protect your 
+heart
+- You will need to follow up with a cardiologist as below
+- If you are having chest pain, shortness of breath, 
+palpitations, dizziness, or any other symptoms that concern you 
+please call the doctor or go to the emergency room!
+
+It was a pleasure caring for you!
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,578 @@
+===== DISCHARGE NOTE =====
+note_id=10019957-DS-18 | hadm_id=28761725
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Fruit Extracts / Chocolate Flavor / Strawberry
+ 
+Attending: ___.
+ 
+Chief Complaint:
+angina, pulmonary edema
+ 
+Major Surgical or Invasive Procedure:
+coronary artery bypass x 2 (LIMA-LAD, SVG-diagonal), aortic 
+valve replacement (23mm ___ tissue) ___
+
+ 
+History of Present Illness:
+The patient recently had an increasein his anginal symptoms and 
+underwent echo and stress test with his cardiologist.  
+Additionally he developed cough, shortness of breath and pink 
+frothy sputum, so he presented to the ED where he was treated 
+for pulmonary edema and admitted for further workup.  Cardiac 
+catheterization revealed three vessel disease.
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+1. CARDIAC RISK FACTORS: no Diabetes, + Dyslipidemia, + 
+Hypertension  
+2. CARDIAC HISTORY:  
+- CAD s/p cath at ___ ___: 30% LMCA, 60% proximal LAD, LCx 
+with 60% stenosis, RCA completely occluded proximally. This was 
+managed medically.  
+- Mild AS on cath ___  
+3. OTHER PAST MEDICAL HISTORY  
+- PVD  
+- TIA, s/p left CEA ___ and known total occlusion of the ___ 
+right ICA at its origin  
+- Tonsillectomy  
+- Anxiety Depression  
+- ADD  
+- MVA x2 c/b chronic back pain  
+- Constipation causing impactions  
+- Gerd  
+- Hyperlipidemia  
+- hypertension  
+
+ 
+Social History:
+___
+Family History:
+Father had a CABG in his ___, lived into his ___. No other 
+family history of cardiac disease.
+ 
+Physical Exam:
+Pulse:68-regular Resp: 20 O2 sat: 99 on RA
+B/P  Right:  127/72  Left: 
+Height: 71 inches    Weight:169 lbs
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur3/6 harsh systolic ejection
+murmur radiates to carotids
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema1+ Varicosities:
+bilateral None []chronic venous stasis changes
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:cath site-2+ no hematoma   Left:2+
+DP           Right:trace   Left:1+
+___           Right:1+   Left:trace
+Radial       Right:2+   Left:2+
+
+Carotid Bruit        Right: murmur   Left:murmur
+
+ 
+Pertinent Results:
+___ 03:53AM BLOOD WBC-14.5* RBC-2.99* Hgb-9.5* Hct-27.8* 
+MCV-93 MCH-31.9 MCHC-34.2 RDW-14.0 Plt ___
+___ 05:40AM BLOOD WBC-13.4* RBC-3.21* Hgb-10.1* Hct-30.1* 
+MCV-94 MCH-31.5 MCHC-33.5 RDW-14.1 Plt ___
+___ 02:46PM BLOOD ___ PTT-34.6 ___
+___ 05:40AM BLOOD Glucose-114* UreaN-29* Creat-1.5* Na-140 
+K-3.9 Cl-103 HCO3-27 AnGap-14
+
+PRE-BYPASS: 
+No atrial septal defect is seen by 2D or color Doppler. There is 
+mild symmetric left ventricular hypertrophy. The left 
+ventricular cavity size is normal. Regional left ventricular 
+wall motion is normal. Overall left ventricular systolic 
+function is normal (LVEF>55%). Right ventricular chamber size 
+and free wall motion are normal. The aortic arch is mildly 
+dilated. There are simple atheroma in the aortic arch. There are 
+complex (>4mm) atheroma in the descending thoracic aorta. There 
+are three aortic valve leaflets. The aortic valve leaflets are 
+severely thickened/deformed. There is moderate aortic valve 
+stenosis (valve area 1.0-1.2cm2). No aortic regurgitation is 
+seen. The mitral valve leaflets are mildly thickened. Mild (1+) 
+mitral regurgitation is seen. There is no pericardial effusion. 
+
+POST-BYPASS:
+Patient is AV paced, on low dose neo.
+A prosthetic aortic valve is in place with no leak and no AI. 
+Residual mean gradient 16.
+Good biventricular systolic fxn. Aorta intact.
+
+Dr. ___ was notified in person of the results in the 
+operating room.  
+ 
+Brief Hospital Course:
+The patient was admitted and brought to the operating room on 
+___ where he underwent AVR, CABG as detailed in the 
+operative report.  Overall the patient tolerated the procedure 
+well and post-operatively was transferred to the CVICU in 
+critical but stable condition for observation and recovery.  POD 
+1 found the patient extubated, alert and oriented and breathing 
+comfortably.  He was hemodynamically stable, weaned from 
+vasopressor support.   He did display some confusion on POD 1, 
+however, this cleared.  The patient was transferred to 
+telemetry.  Chest tubes and pacing wires were discontinued 
+without complication.  The physical therapy service was 
+consulted for assistance with post-operative strength and 
+mobility.  The patient had some dental work prior to surgery, 
+and post-operatively, his crown fell off while eating.  The 
+patient was started on amoxicillin and advised to continue this 
+until he sees his dentist.  Dr. ___ was consulted via 
+telephone and agrees with this plan.   Post-op course was 
+essentially uneventful and the patient was cleared by Dr. 
+___ discharge home on POD 4.     
+ 
+Medications on Admission:
+ASA 81mg daily
+simvastatin 40mg daily
+ezetimibe 10mg daily
+lasix 20 mg q ___
+atenolol 50 mg daily
+omeprazole 20 mg daily
+venlafaxine 100 mg bid
+methylphenidate 20 mg bid
+ginko biloba 60 mg bid
+
+Plavix - last dose:300 mg ___ am
+
+ 
+Discharge Medications:
+1. Venlafaxine 100 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+3. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+5. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+6. Amoxicillin-Pot Clavulanate 250-62.5 mg/5 mL Suspension for 
+Reconstitution Sig: Two (2)  PO Q12H (every 12 hours) as needed 
+for lost crown for 2 weeks: **take until further instructed by 
+dentist**.
+Disp:*56 * Refills:*0*
+7. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+8. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain.  
+9. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Metoprolol Tartrate 50 mg Tablet Sig: 2.5 Tablets PO TID (3 
+times a day).
+Disp:*225 Tablet(s)* Refills:*2*
+11. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day 
+for 1 weeks.
+Disp:*7 Tablet(s)* Refills:*0*
+12. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal 
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day for 1 
+weeks.
+Disp:*7 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+aortic stenosis
+coronary artery disease
+
+ 
+Discharge Condition:
+good
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions, no baths or 
+swimming 
+Monitor wounds for infection - redness, drainage, or increased 
+pain 
+Report any fever greater than 101 
+Report any weight gain of greater than 2 pounds in 24 hours or 5 
+pounds in a week 
+No creams, lotions, powders, or ointments to incisions 
+No driving for approximately one month, and while taking 
+narcotics 
+No lifting more than 10 pounds for 10 weeks 
+Please call with any questions or concerns ___
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10019957-DS-17 | hadm_id=28960763
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with a history of CAD s/p 
+cath in ___ showing 3VD that has been managed medically. He has 
+had no further cardiac procedures since then but has been 
+followed by Dr. ___ at ___ who noted a new LBBB on 
+his EKG ___.  
+.  
+Mr. ___ has baseline anginal symptoms that include chest 
+pain after walking ___ blocks, usually lasting minutes and 
+promptly relieved by SL nitro. Angina is described as variable, 
+at times starting in neck and radiating down to b/l chest, 
+pressure sensation, rarely radiating down L arm. No accompanying 
+SOB. It is difficult for him to say whether these symptoms have 
+worsened recently. His exercise tolerance is more limited by 
+lower extremity cramping pain than by angina. He also noted 6 
+months of increasing lower extremity edema. His cardiologist had 
+given him lasix for this with some improvement.  
+.  
+He was having sex on ___ night and developed worsening of his 
+baseline anginal symptoms. On ___ morning while lying in bed 
+he developed cough productive of pink frothy sputum and was 
+short of breath. After standing up and getting in the shower the 
+shortness of breath subsided and he did not have any further CP. 
+He presented to the ED.  
+.  
+On admission, vital signs T 98.9, HR 63, BP 157/85, RR 22, O2 
+sat 97% on 2L. Exam notable for bilateral crackles EKG showed a 
+left bundle branch block that was old compared to ___ (but 
+new at that time). CXR not grossly volume overloaded. BNP 500. 
+Troponin elevated to .13 (upper limit of normal .04). CK’s neg. 
+He was given 20 mg IV lasix with 800 cc output as well as ASA 
+325 mg. He was not plavix loaded or started on a heparin gtt at 
+that time. He was admitted.  
+.  
+Overnight he developed elevated systolic BP to the 180s and was 
+treated with 2 doses of hydralazine with improvement. He also 
+received an additional 20 mg IV lasix this morning, with 1050 cc 
+urine output and improvement in peripheral edema.  
+.  
+The morning of transfer. he developed chest pain that was 
+suspicious for GERD vs angina. He treated with prilosec, NTG x 
+1, Maalox and then Tylenol. He also received 300 mg Plavix as 
+well as ASA 81 mg. Chest pain resolved after two hours. Symptoms 
+resolved and no further complaints.  
+.  
+Echo was done showing normal EF of 65%, trivial LVH, no regional 
+wall motion abnormabilities, AS with peak flow of 3.1 m/s. He 
+has been NPO, received IV NS at 40 cc/h (no mucomyst), and is 
+now transferred to ___ for catheterization. Vital signs prior 
+to transfer: BP 145/74, HR ___ sinus, O2 sat 95% on RA, 
+afebrile,  
+.  
+In the cath lab, 3VD was confirmed, with RCA totally occluded, 
+LAD 60%, LCx 60%. This was essentially unchanged from prior. 
+PCWP 15.  
+.  
+On review of systems, he denies any prior history of stroke. He 
+did have a TIA. He has had no deep venous thrombosis, pulmonary 
+embolism, bleeding at the time of surgery, myalgias, joint 
+pains, cough, hemoptysis, black stools or red stools. He denies 
+recent fevers, chills or rigors. He does have exertional calf 
+pain as above. All of the other review of systems were negative. 
+ 
+.  
+Cardiac review of systems is notable for chest pain as above. No 
+significant dyspnea on exertion, paroxysmal nocturnal dyspnea, 
+orthopnea. No palpitations, syncope recently (remote hx) or 
+presyncope.  
+.  
+.  
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+1. CARDIAC RISK FACTORS: no Diabetes, + Dyslipidemia, + 
+Hypertension  
+2. CARDIAC HISTORY:  
+- CAD s/p cath at ___ ___: 30% LMCA, 60% proximal LAD, LCx 
+with 60% stenosis, RCA completely occluded proximally. This was 
+managed medically.  
+- Mild AS on cath ___  
+3. OTHER PAST MEDICAL HISTORY  
+- PVD  
+- TIA, s/p left CEA ___ and known total occlusion of the ___ 
+right ICA at its origin  
+- Tonsillectomy  
+- Anxiety Depression  
+- ADD  
+- MVA x2 c/b chronic back pain  
+- Constipation causing impactions  
+- Gerd  
+- Hyperlipidemia  
+- hypertension  
+
+ 
+Social History:
+___
+Family History:
+Father had a CABG in his ___, lived into his ___. No other 
+family history of cardiac disease.
+ 
+Physical Exam:
+weight 76 kg this morning, height ___  
+VS - BP 174/90, HR ___, afebrile  
+Gen: well-appearing elderly man lying flat in bed in no distress 
+Oriented x3. Mood, affect appropriate.  
+HEENT: moist mucous membranes, oropharynx clear  
+Neck: Supple with JVP to angle of jaw lying flat  
+CV: PMI non-displaced. Regular. ___ systolic murmur, heard best 
+at RUSB  
+Chest: breathing not labored, lungs clear bilaterally anteriorly 
+ 
+Abd: soft, nontender, nondistended, normoactive bowel sounds  
+Ext: warm, no edema  
+Skin: no rashes  
+
+ 
+Pertinent Results:
+___ 06:30AM BLOOD Glucose-94 UreaN-22* Creat-1.6* Na-144 
+K-3.6 Cl-104 HCO3-27 AnGap-17
+___ 06:30AM BLOOD WBC-8.1 RBC-4.37* Hgb-13.8* Hct-40.4 
+MCV-92 MCH-31.6 MCHC-34.2 RDW-14.0 Plt ___
+___ 06:30AM BLOOD ALT-19 AST-25 LD(LDH)-243 AlkPhos-67 
+Amylase-127* TotBili-0.8
+___ 06:30AM BLOOD Lipase-122*
+
+Cardiac cath:
+
+COMMENTS:      
+1. Selective coronary angiography of this right dominant system 
+revealed 
+three vessel coronary artery disease.  The LMCA had no 
+angiographically 
+apparent flow limiting disease.  The LAD had a 70% stenosis at 
+the 
+proximal segment and diffuse irregularities.  The LCX system had 
+a 70% 
+stenosis at the proximal major obtuse marginal.  The RCA had a 
+proximal 
+occlusion with bridging and LAD collaterals to the distal 
+vessel. 
+2. Resting hemodynamics demonstrated only minimally elevated 
+left-sided 
+filling pressure with PCWP 15 mm Hg, mild pulmonary hypertension 
+with PA 
+pressures ___ mm Hg, elevated systolic central pressure with 
+central 
+aortic pressure 182/79 mm Hg, and normal cardiac index at 2.43 
+l/min/m2. 
+  
+FINAL DIAGNOSIS:     
+1. Three vessel coronary artery disease. 
+2. Mild elevation of PCW pressure. 
+
+TTE:
+
+The left atrium is normal in size. No atrial septal defect is 
+seen by 2D or color Doppler. There is mild symmetric left 
+ventricular hypertrophy. The left ventricular cavity size is 
+normal. There is mild regional left ventricular systolic 
+dysfunction with infero-lateral hypokinesis and distal 
+___ hypokinesis. The remaining segments are 
+hyperdynamic.Tissue Doppler imaging suggests an increased left 
+ventricular filling pressure (PCWP>18mmHg). There is no 
+ventricular septal defect. Right ventricular chamber size and 
+free wall motion are normal. The number of aortic valve leaflets 
+cannot be determined. The aortic valve leaflets are moderately 
+thickened. There is moderate aortic valve stenosis (valve area 
+1.0-1.2cm2). Trace aortic regurgitation is seen. The mitral 
+valve leaflets are mildly thickened. There is no mitral valve 
+prolapse. Trivial mitral regurgitation is seen. The pulmonary 
+artery systolic pressure could not be determined. There is no 
+pericardial effusion.  
+ 
+Brief Hospital Course:
+A ___ year-old man with a 3-vessel CAD managemed medically who 
+presented with frothy sputum and increasing angina, now referred 
+for catheterization.  
+.  
+#) CORONARIES: Patient had 3 vessel disease on cath in ___ that 
+has been managed medically. He had been appropriately medically 
+managed with ASA, beta blocker, lipid control. Anginal symptoms 
+increasing recently, and recently new LBBB concerning for 
+worsening CAD.  He received ASA and Plavix load at outside 
+hospital.  He was transferred for catheterization which 
+confirmed 3VD that was not significantly worse. However, given 
+worsening symptoms and the extent of his disease, the deicion 
+was made to pursue surgical revascularization.  Cardio-thoracic 
+surgery was consulted and made arrangements for him to follow up 
+as an outpatient to arrange CABG/AVR.  Medical management was 
+continued in the interim, including simvastatin, which was 
+increased to 80 mg, ezetimibe, atenolol.  Methylphenidate was 
+concerning for its potential to worsen coronary vasospasm, and 
+it was stopped. 
+.  
+#) PUMP: EF normal per echo at OSH without systolic or diastolic 
+dysfunction. BNP on admission there was mildly elevated to 500. 
+His symptoms may have been more attributable to his AS rather 
+than intrinsic pump dysfunction. After diuresis at the other 
+hospital, PCWP 15 on catheterization.  At ___, he appeared 
+euvolemic and did not require further diuresis.  He underwent 
+TTE which showed EF 50-55% and aortic stenosis as below.   
+.
+#) AORTIC STENOSIS: Mild on cath ___ (gradient 10 mm Hg), 
+increased to moderate on echo this admission (area 1.0-1.2, peak 
+gradient 40 mm Hg).  He will undergo AVR at the time of CABG.
+.  
+#) RHYTHM: normal sinus on EKG   
+.  
+#) HYPERTENSION: Patient has had difficult to control 
+hypertension, responsive to hydralazine at OSH. Nitro gtt 
+started in the cath lab.  This was transitioned to hydralazine 
+and Imdur, initially, which was later changed to lisinopril and 
+Imdur. His home atenolol was continued. On this regimen his 
+blood pressure fell quickly from systolic 180s down to ~100/50. 
+He was asymptomatic.  The dose of lisinopril was decreased, and 
+the Imdur was stopped prior to discharge.  
+.  
+#) POSSIBLE PNA: seen on CXR at OSH medial right lower lobe 
+subsegmental atelectasis vs development of pneumonia. He has 
+been afebrile, without elevated WBC, not hypoxic.  Repeat CXR 
+did not show a clear infiltrate. 
+.  
+#) HYPERLIPIDEMIA: LDL 110, above goal <70 given CAD. Statin was 
+increased to atovastatin 80 mg daily. 
+.  
+#) ACUTE RENAL FAILURE: Baseline creatinine 1.6-1.7 per outside 
+hospital. Elevated to 1.8 at OSH.  He received IVF with bicarb 
+at 100 cc/h x 6 hours  after catheterization.  Subsequently 
+creatinine was at baseline 1.6.
+- continue to monitor  
+.  
+#) GERD: Omeprazole was continued.
+.  
+#) ADD/COGNITIVE DEFICITS: Not evident on exam.  Venlafaxine was 
+continued.  Methylphenidate as held as above.
+.
+He was confirmed to be full code. 
+ 
+Medications on Admission:
+Medications at home:  
+ASA 81 mg qday  
+simvastatin 40 mg qday  
+ezetimibe 10 mg qday  
+lasix 20 mg MWF  
+atenolol 50 mg qday  
+omeprazole 20 mg qday  
+venlafaxine 100 mg BID  
+methylphenidate 20 mg BID  
+ginko biloba 60 mg BID  
+.  
+.  
+Medications on transfer:  
+Heparin 5000 SQ at 830am today  
+Effexor 100mg bid  
+Ritalin 20mg bid at ___  
+Zocor 40mg in the pm  
+Asa 81mg daily-got this am  
+Lasix 20mg IV daily –LD 830am  
+Prilosec 20mg daily at 645 am  
+Atenolol 50mg daily at 530am today  
+Zetia 10mg daily  
+Maalox 15cc today at 745 am for c/o indigestion/angina after KCL 
+ 
+SL ntg 0.4mg at 630 for for c/o inigestion/angina after KCL  
+Tylenol ___ at 530am for headache  
+KCL 40meq at 530.  
+Hydralazine 10mg for 180/90s overnight, 4 am and 20mg 
+hydralazine at 530 for 180/80  
+
+ 
+Discharge Medications:
+1. Venlafaxine 100 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+2. Simvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+3. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+4. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+5. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+6. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+7. Lasix 20 mg Tablet Sig: One (1) Tablet PO MWF.  
+8. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+9. Simvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+primary:  coronary artery disease, aortic stenosis, hypertension
+secondary:  peripheral vascular disease, anxiety, attention 
+deficit disorder, hyperlipidemia
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+You were transferred to ___ for evaluation of chest pain and 
+shortness of breath.  You had a cardiac catheterization that 
+showed coronary artery disease.  You had an echocardiogram that 
+confirmed your aortic stenosis as well.  You are considering an 
+operation to deal with both of these issues.  You will need to 
+follow up  as below to address this further.
+
+The following medications were changed:
+simvastatin was increased
+methylphenidate was stopped
+lisinopril was added
+.
+Please check your blood pressure at home and call your 
+cardiologist at ___ for persistent readings >140 or 
+<100 systolic (top number).
+.
+Please call your doctor or return to the emergency room if you 
+have worsening chest pain, chest pain not relieved by 
+nitroglycerin, shortness of breath, fevers and chills, or other 
+symptoms that are concerning to you.
+ 
+Followup Instructions:
+___

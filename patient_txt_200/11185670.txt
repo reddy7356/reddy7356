@@ -1,0 +1,302 @@
+===== DISCHARGE NOTE =====
+note_id=11185670-DS-8 | hadm_id=26592709
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered mental status
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ old male without significant past medical 
+history who presented to the ED after LSD intoxication.
+
+The patient was found the day prior to admission  naked, 
+agitated, and running around ___ by the police and EMS. 
+When he arrived in the ED, handcuffed to a stretcher, he was 
+agitated and communicative, but confused, and unable to give a 
+history. It was noted that he was repeatedly biting his 
+bilateral forearms.
+
+In the ED, exam was significant for tachycardia to the 160s, 
+tachypnea, and abrasions over the body and head with erythema 
+and tenseness of the bilateral forearms.  Labs were significant 
+for likely ___ with Cr 1.7, lactate elevation to 7.1, mild 
+transaminitis, elevated CK to >3000, and leukocytosis to 24. 
+Stox/Utox positive only for benzos. CT of the head C-spine did 
+not reveal any acute injury. X-ray of the left wrist, was 
+indicative of soft tissue swelling but negative for fracture. 
+The patient was put in four-point constraints, received two 
+doses of IM midazolam for agitation and 3L IV fluids for 
+presumed rhabdomyolysis, and was started on vancomycin IV for 
+cellulitis.
+
+Over the course of several hours, patient rapidly returned to 
+baseline mental status. He became much more alert, interactive, 
+calm, and restraints were discontinued. He endorsed, at this 
+time, taking LSD without any other drugs; no PCP, ___, 
+cocaine, ethanol.  He was admitted to medicine for management of 
+rhabdomyolysis and cellulitis.
+
+On the floor, the patient endorses the history above. He denies 
+pain in the upper extremities other than when he moves around. 
+He was started on Unasyn and maintained on IV fluids. Hand 
+surgery was consulted for concern for rapidly spreading 
+cellulitis and possible compartment syndrome.
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+-No known family history of kidney disease
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+======================
+VS:  T 97.5, BP 117/79, HR 70, RR 18, O2 Sat 99 RA
+Constitutional: NAD, alert, and attentive  
+Eyes: anicteric, no scleral icterus
+ENT: oropharynx without erythema or infiltrate; moist mucus 
+membranes
+CV:  normal S1/S2, no m/r/g
+Resp: clear to auscultation b/l, no w/c/r
+GI:  Normoactive bowel sounds, NT/ND
+Skin: Large 6 cm x 3 cm abrasion on L forearm with black eschar. 
+Teeth marks on dorsal L forearm with erythema and induration, no 
+fluctuance, mildly tender to palpation. additional abrasions 
+without bleeding on inferior chin, L hand, R forearm, b/l LEs 
+and R shoulder
+Ext: WWP, L forearm, wrist, and hand edematous, erythematous, 
+and warm, L radial pulse palpable but weaker than R radial 
+pulse, no pain with passive extension of L digits or wrist
+Neuro:  AAOx3, attentive, CN II-XII intact, grip strength 
+limited by pain on the left side.
+
+DISCHARGE PHYSICAL EXAM
+=======================
+Vitals: T 98.1 BP 128/82 HR 63 RR 16 O2 sat 96% RA 
+Constitutional: NAD, alert, and attentive  
+Eyes: anicteric, no scleral icterus
+ENT: moist mucus membranes
+CV:  normal S1/S2, no m/r/g
+Resp: clear to auscultation b/l, no w/c/r
+GI:  Normoactive bowel sounds, NT/ND
+Skin: Teeth marks on dorsal L forearm with raw abrasion, without 
+surrounding erythema or induration.  Additional abrasions 
+without bleeding on inferior chin, L hand, R forearm, b/l LEs 
+and R shoulder
+Ext: bilateral hands and wrist mildly edematous, palpable radial 
+pulses bilaterally, no pain with passive extension of L digits 
+or wrist
+Neuro:  AAOx3, attentive, CN II-XII intact, grip strength 
+limited by pain on the left side.
+ 
+Pertinent Results:
+ADMISSION LABS
+===================
+___ 01:43AM BLOOD WBC-24.1* RBC-4.67 Hgb-14.6 Hct-41.8 
+MCV-90 MCH-31.3 MCHC-34.9 RDW-11.8 RDWSD-38.5 Plt ___
+___ 01:43AM BLOOD Neuts-86.6* Lymphs-4.4* Monos-6.9 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-20.87* AbsLymp-1.06* 
+AbsMono-1.67* AbsEos-0.00* AbsBaso-0.04
+___ 01:43AM BLOOD Plt ___
+___ 01:43AM BLOOD Glucose-116* UreaN-19 Creat-1.7* Na-133 
+K-3.9 Cl-95* HCO3-16* AnGap-26*
+___ 09:45PM BLOOD Glucose-118* UreaN-27* Creat-3.5* Na-136 
+K-3.4 Cl-102 HCO3-22 AnGap-15
+___ 09:48PM BLOOD CK(CPK)-9070*
+___ 09:48PM BLOOD Calcium-8.5 Phos-5.0* Mg-2.9*
+___ 08:25AM BLOOD CRP-8.0*
+___ 12:45PM BLOOD C3-70* C4-17
+___ 01:51AM BLOOD Lactate-7.2*
+___ 08:36AM BLOOD Lactate-1.5
+
+DISCHARGE LABS
+====================
+___ 08:00AM BLOOD WBC-6.5 RBC-3.68* Hgb-11.5* Hct-33.3* 
+MCV-91 MCH-31.3 MCHC-34.5 RDW-11.9 RDWSD-39.8 Plt ___
+___ 08:00AM BLOOD ___ PTT-35.5 ___
+___ 08:00AM BLOOD Glucose-94 UreaN-16 Creat-2.2* Na-143 
+K-3.6 Cl-108 HCO3-25 AnGap-14
+___ 08:00AM BLOOD CK(CPK)-1104*
+___ 08:00AM BLOOD Calcium-8.3* Phos-3.7 Mg-1.7
+
+MICROBIOLOGY
+====================
+___ 10:50 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+
+IMAGING
+====================
+Non-con head Ct ___ IMPRESSION:
+1. Normal study.
+
+CT C-spine ___ FINDINGS: 
+Alignment is normal. No fractures are identified.  There is no 
+evidence of
+spinal canal or neural foraminal stenosis. There is no 
+prevertebral soft
+tissue swelling. There is no evidence of infection or neoplasm.
+IMPRESSION: Normal study
+
+Left upper extremity x-ray ___ IMPRESSION:  
+No fracture. Soft tissue swelling without visualized fracture or 
+radiopaque foreign body.
+
+Left forearm ultrasound ___ IMPRESSION: 
+There is edematous appearance of the subcutaneous tissues of the 
+left forearm.
+No evidence of drainable fluid collection concerning for 
+abscess.
+
+Renal US ___ IMPRESSION: No hydronephrosis.  Trace 
+perinephric fluid and loss of normal
+corticomedullary differentiation bilaterally consistent with the 
+history of acute renal injury.
+ 
+Brief Hospital Course:
+___ old male with no significant medical history who 
+presented with LSD intoxication and was found to have upper 
+extremity cellulitis, rhabomyolysis, and ___. Patient was 
+brought in by police acutely intoxicated and agitated after LSD 
+use. Agitation resolved rapidly, but lab tests showed ___ with 
+Cr peaking at 3.5 and CK peaking >9000. Patient was evaluated by 
+the nephrology team, and received aggressive IV hydration, and 
+kidney injury improved. Was also treated for LUE cellulitis that 
+was thought to be precipitated by self-inflicted bite wounds 
+with clindamycin; he remained afebrile and hemodynamically 
+stable throughout admission, and initial leukocytosis 
+downtrended. Due to fluid overload after aggressive IV 
+resuscitation, patient was also given low-dose Lasix to 
+accelerate diuresis.
+
+___: 
+#Rhabdomyolysis: CPK peaked >9000 in the setting of dehydration 
+and exercise during LSD intoxication. Accompanied by kidney 
+injury with Cr peaking at 3.5 from unknown baseline (admission 
+Cr 1.7). UA showed moderate blood with few RBCs and no casts to 
+suggest ATN; renal US was without obstruction. Renal service was 
+consulted and recommended aggressive IV hydration. No profound 
+electrolyte abnormalities were noted during admission. Initial 
+concern for compartment syndrome of left upper extremity given 
+high CK and circumferential erythema of left arm, but hand 
+surgery team felt presentation was most consistent with 
+cellulitis. On discharge, CK had downtrended to ~1100 and Cr was 
+2.2. 
+
+#Volume overload: Noted in the face and upper extremities in the 
+setting of fluid resuscitation for rhabdomyolysis. Patient was 
+given furosemide 20 mg IV x1 and 20 mg PO x1 prior to discharge 
+to accelerate diuresis. 
+
+#Cellulitis: Patient had left forearm large abrasion with 
+well-demarcated forearm, wrist, hand swelling and erythema 
+surrounding self-inflicted bite marks, consistent with 
+cellulitis. US was negative for infectious collection, and hand 
+surgery was consulted and felt that there was low concern for 
+invasive infection or compartment syndrome. Patient was treated 
+initially with vancomycin and unasyn which was narrowed to PO 
+clindamycin. Initial leukocytosis to 24 downtrended to normal 
+during admission. Patient remained afebrile and hemodynamically 
+stable. Patient will finish 7 day course of antibiotics on ___
+
+Transitional Issues:
+[] Discharge Cr 2.2. Patient should have labs repeated on ___ 
+to document continued kidney injury improvement. 
+[] Continue PO clindamycin for 7 day course for cellulitis 
+though ___.
+[] Patient should have nephrology follow-up for ___ secondary to 
+rhabdomyolysis.
+[] Continue to address illicit drug use and consider outpatient 
+social work involvement.
+[] The patient had significant increase in weight from IVF and 
+was urinating well on the day of discharge with improvement of 
+his swelling. Please follow up with his anasarca and consider 
+Lasix for further diuresis as needed.
+[] The patient has a significant abrasion in the left arm which 
+was healing well on the day of discharge but still require 
+further dressing and personal wound care. Please assess healing 
+of the abrasion. 
+CODE: Full
+CONTACT: Roommate/friend, ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Clindamycin 300 mg PO Q6H Duration: 3 Days 
+RX *clindamycin HCl 300 mg 1 capsule(s) by mouth q6 hours Disp 
+#*10 Capsule Refills:*0 
+2.  Ondansetron 4 mg PO Q8H:PRN nausea 
+RX *ondansetron 4 mg 1 tablet(s) by mouth q8 hours Disp #*9 
+Tablet Refills:*0 
+3.Outpatient Lab Work
+Please obtain Na, K, Cl, HCO3, BUN, Cr
+Dx: Rhabdomyolysis, ICD10: ___
+Fax results to Dr. ___, ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Rhabdomyolysis
+
+Secondary Diagnosis:
+Acute Kidney Injury
+Cellulitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure treating you at ___!
+
+Why was I admitted to the hospital?
+-You were admitted because you were brought to the Emergency 
+Department because you were agitated and we found that you had 
+muscle breakdown from excessive running, kidney injury, and a 
+skin infection.
+
+What happened while I was admitted?
+-We gave you antibiotics to treat the infection in your arm.
+-We gave you lots of fluid to protect your kidneys.
+-We tracked your kidney function closely, and by the time you 
+were discharged your kidneys had improved.
+
+What should I do when I return home?
+-Please continue to take your antibiotics as directed.
+-It is very important to follow-up with a primary care physician 
+ 
+ 
+___:
+___

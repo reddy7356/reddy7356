@@ -1,0 +1,455 @@
+===== DISCHARGE NOTE =====
+note_id=11540608-DS-10 | hadm_id=21117819
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+aspirin / ibuprofen / Penicillins / shellfish derived / Dairy 
+Aid
+ 
+Attending: ___.
+ 
+Chief Complaint:
+R Toe Pain, Abnormal MRI 
+ 
+Major Surgical or Invasive Procedure:
+Right ___ Toe Amputation ___
+
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS: ___ with a PMH of DM1, asthma/COPD, 
+CM (unknown EF) who was transferred from ___ with 
+MRI findings c/f right toe osteomyelitis iso subacute injury to 
+right forth toe > 1 week ago.  
+ Pt has a history of MRSA abscess on right ___ toe ___ years 
+ago that required amputation. She had an additional episode of 
+cellulitis of her right ___ toe that was treated with 6 weeks of 
+antibiotics (likely cephalosporin), last dose ___.  
+ Over one week ago patient tripped and bumped her right ___ toe 
+into the wall. She felt severe pain ___ her right toe that 
+progressed but did not want to go to the hospital because she 
+was hoping it would get better and also knew it would likely 
+require a several day admission at minimum. She wrapped her toe 
+with dry gauze. She endorsed subjective chills but no fevers. 
+Her pain continued to progress so she went to ___ 
+where she underwent an MRI which was notable for right toe 
+osteomyelitis. She received a dose of vancomycin/ceftriaxone and 
+was transferred to ___.  
+ ___ the ED, initial VS were: ___ pain 98.6 90 104/54 18 96% RA  
+
+ Exam notable for: Right leg is erythematous to mid shin, tender 
+to touch up to ankle. Right fourth toe is black, draining white 
+fluid. Pulses nonpalpable.  
+ Labs showed:  
+ 1) Coags: INR 1.2, PTT 28.3  
+ 2) CBC: WBC 8.7, Hb 10.6, plt 288  
+ 3) BMP: Na 136, K 3.5, Cl 95, HCO3 25, BUN 17, Cr 1.1  
+ Imaging showed:  
+ 1) Foot X-ray: erosive changes c/f OM of toe and metatarsals  
+ Received:  
+ ___ 00:54 IV Morphine Sulfate 2 mg  
+ ___ 01:48 IV MetroNIDAZOLE 500 mg  
+ ___ 02:47 IV Ciprofloxacin 400 mg  
+ ___ 03:28 IV Morphine Sulfate 2 mg  
+ Podiatry was consulted: recommended continuing AB for presumed 
+OM, obtaining ABI/PVRs, betadine dressing to toe  
+ Transfer VS were: ___ 91 ___ 95% RA  
+ On arrival to the floor, patient reports persistent right toe 
+pain.  
+ REVIEW OF SYSTEMS:  
+ (+)PER HPI  
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+ Anxiety/Depression  
+ Heart failure  
+ Gout  
+ DM1  
+ GERD  
+ Arthritis  
+ Neuropathy  
+ Cataracts  
+ Thyroid Goiter  
+ Asthma/COPD  
+ Benign rectal polyps  
+ Depression/Anxiety/PTSD  
+ Shingles ___  
+ PAST SURGICAL HISTORY  
+ L Carpal Tunnel ___  
+ Rt shoulder surgery ___  
+ Cholecystectomy ___  
+ Hysterectomy ___  
+ Tonsillectomy ___  
+
+ 
+Social History:
+___
+Family History:
+Mother- sciatica, allergies  
+ Father- heart disease, skin cancer  
+ Son- testicular cancer  
+ Uncle- colon cancer  
+ Sister- skin cancer  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+ VS: 97.9 PO 112 / 69 R Sitting 88 16 98 RA  
+ GENERAL: NAD  
+ HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MM dry  
+ NECK: supple, thick, no JVD appreciated  
+ HEART: RRR, S1 + S2, ___ SEM  
+ LUNGS: CTAB, no crackles/wheezes  
+ ABDOMEN: SNTND, +BS, no rebound/guarding  
+ EXTREMITIES: WWP, PPP, no ___ edema  
+ NEURO: A&Ox3, CNII-XII intact, ___ strength ___ UE and ___  
+ SKIN: no rashes/lesions  
+
+DISCHARGE PHYSICAL EXAM:
+VS: 98.0 120 / 68 67 18 94 Ra 
+GENERAL: well developed female sitting up ___ a chair. NAD.
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM, poor dentition
+NECK: supple, thick, no JVD appreciated  
+HEART: RRR, S1 + S2, ___ SEM  
+LUNGS: CTAB, no crackles/wheezes  
+ABDOMEN: SNTND, +BS, no rebound/guarding  
+EXTREMITIES: Right foot wrapped this AM. Mild abrasion of R ___
+toe w/ scab and w/o surrounding erythema. Mild lower extremity
+edema of R leg.  
+NEURO: A&Ox3, moving all four extremities spontaneously
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 12:58AM BLOOD WBC-8.7 RBC-3.42* Hgb-10.6* Hct-31.1* 
+MCV-91 MCH-31.0 MCHC-34.1 RDW-12.5 RDWSD-41.3 Plt ___
+___ 12:58AM BLOOD Neuts-60.2 ___ Monos-9.4 Eos-2.1 
+Baso-0.5 Im ___ AbsNeut-5.24 AbsLymp-2.37 AbsMono-0.82* 
+AbsEos-0.18 AbsBaso-0.04
+___ 12:58AM BLOOD ___ PTT-28.3 ___
+___ 12:58AM BLOOD Glucose-131* UreaN-17 Creat-1.1 Na-136 
+K-3.5 Cl-95* HCO3-25 AnGap-16
+___ 12:58AM BLOOD Calcium-8.1* Phos-2.9 Mg-1.6
+___ 12:54AM BLOOD Lactate-1.8
+
+DISCHARGE LABS:
+===============
+___ 05:28AM BLOOD WBC-7.5 RBC-3.01* Hgb-9.1* Hct-28.5* 
+MCV-95 MCH-30.2 MCHC-31.9* RDW-13.1 RDWSD-44.7 Plt ___
+___ 05:28AM BLOOD Glucose-101* UreaN-26* Creat-1.0 Na-137 
+K-3.9 Cl-94* HCO3-32 AnGap-11
+___ 05:28AM BLOOD Calcium-8.5 Phos-3.7 Mg-1.8
+
+MICROBIOLOGY:
+=============
+___ 12:35 am BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH.
+
+___ 7:50 am BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+ 
+___ 2:35 pm TISSUE      RIGHT 4 TH TOE. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   TISSUE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH OF TWO COLONIAL 
+MORPHOLOGIES. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+      ENTEROCOCCUS SP..    SPARSE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |          ENTEROCOCCUS SP.
+                             |          |   
+AMPICILLIN------------              <=2 S
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------<=0.25 S
+PENICILLIN G----------                4 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------                1 S
+
+   ANAEROBIC CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA. 
+         Mixed bacteria are present, which may include anaerobes 
+and/or
+         facultative anaerobes. Bacterial growth was screened 
+for the
+         presence of B.fragilis, C.perfringenes, and C.septicum. 
+None of
+         these species was found. 
+
+ 
+ 
+___ 9:07 am BLOOD CULTURE      Source: Line-PICC. 
+
+   Blood Culture, Routine (Pending): 
+
+ 
+ 
+___ 10:40 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+ 
+ 
+___ 9:50 am URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+
+IMAGING:
+========
+___ SECOND OPINION MRI MSK RIGHT FOOT
+
+IMPRESSION:  
+  
+1.  Finding most suggestive of osteomyelitis of the fourth toe.  
+There has 
+been interval amputation of this toe. 
+2.  Destruction of the head of the second metatarsal and base of 
+the second 
+toe proximal phalanx with T1 marrow replacement and apparent 
+prominent 
+enhancement is concerning for osteomyelitis ___ the proper 
+clinical setting 
+particularly given the near normal appearance of this joint on 
+x-ray from ___ and confirmed osteomyelitis of the fourth toe.  
+Alternative 
+considerations include a destructive inflammatory arthropathy or 
+destruction 
+___ a neuropathic foot.  Nuclear medicine study could be 
+considered for further 
+evaluation if clinically indicated. 
+3.  Destruction and T1 marrow replacement across the third toe 
+PIP joint could 
+represent sequela of septic arthritis given the relative normal 
+appearance of 
+the joint on x-ray from ___ and confirmed 
+osteomyelitis of the 
+fourth toe.  Alternative considerations include a destructive 
+inflammatory 
+arthropathy or destruction due to chronic fracture. 
+4.  Flattening of the head of the ___ third metatarsal with bone 
+marrow edema 
+and mild T1 marrow replacement could represent a more of a 
+chronic remodeling 
+process such ___ infraction, however infection could have a 
+similar 
+appearance. 
+5.  Erosive change along the plantar lateral aspect of the head 
+of the first 
+metatarsal may be less likely to be infectious as there is 
+minimal surrounding 
+bone marrow edema. 
+6.  Area of soft tissue nonenhancement along the plantar lateral 
+aspect of the 
+forefoot underlying the heads of the third and fourth 
+metatarsals likely 
+represents poor tissue perfusion. 
+
+___ UNILAT LOWER EXT VEINS
+IMPRESSION: 
+ 
+No evidence of deep venous thrombosis ___ the right lower 
+extremity veins.
+ 
+
+ 
+Brief Hospital Course:
+This is a ___ year old female with past medical history of type 
+1 diabetes, COPD, CHF NOS admitted ___ with R ___ toe soft 
+tissue infection and acute osteomyelitis failing to improve on 
+antibiotics, now status post ___ toe amputation, pathology with 
+clean margins, discharged home 
+
+# Acute R ___ toe osteomyelitis and soft tissue infection
+# Infection with enterococcus and MSSA 
+Patient was transferred from ___ after presenting 
+with worsening R toe ulcer with an MRI concerning for 
+osteomyelitis.  Labs were notable for elevated CRP to 85.4.  
+Patient was seen by podiatry service, underwent ABI/PVR did not 
+show evidence of lower extremity ischemia at rest. Given ___ 
+toe osteomyelitis, patient underwent amputation of R ___ toe 
+with podiatry without complications.  OR cultures grew MSSA, 
+enterococcus and mixed bacterial anaerobic flora. Patient was 
+seen by ID and treated with an IV vancomycin, cefepime 
+(transitioned to cefazolin), metronidazole (D1 = ___.  
+Subsequent pathology returned showing negative margins.  
+Patient completed an 8 day course of IV antibiotics per ID.  Of 
+note, MRI foot also showed abnormalities ___ the ___ and ___ R 
+toes, that were felt to likely be reactive to recent trauma 
+that patient reported (although infection could not be ruled 
+out).  Podiatry recommended outpatient follow-up with 
+consideration of reimaging to ensure resolution.  Discharged 
+with 3 day supply of prn oxycodone.  
+
+# Generalized Anxiety Disorder 
+: Patient with significant anxiety during admission, greater 
+than baseline. Medications confirmed with her psychiatrist, Dr. 
+___, ___ ___. She was continued on Bupropion, BusPIRone, 
+fluoxetine
+
+# Gout 
+Continued Allopurinol 
+
+# Chronic CHF NOS
+Continued bumetanide, sprinolactone, metoprolol
+
+# Type 2 diabetes 
+Continued glargine, humalog sliding scale and bydureon. 
+
+TRANSITIONAL ISSUES
+=====================
+- Patient discharged with follow up with podiatry for wound 
+healing and evaluation for new ulcers. 
+- Would consider ensuring patient follow up with outpatient 
+psych for management of anxiety, which seems to have a 
+significant impact on her life
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. albuterol sulfate 90 mcg/actuation inhalation BID;PRN 
+2. Spironolactone 50 mg PO DAILY 
+3. Allopurinol ___ mg PO DAILY 
+4. BusPIRone 5 mg PO TID 
+5. FLUoxetine 60 mg PO DAILY 
+6. Fluticasone Propionate NASAL 1 SPRY NU BID 
+7. HydrOXYzine 25 mg PO TID 
+8. Klor-Con M20 (potassium chloride) 60 meq oral TID 
+9. Glargine 80 Units Breakfast
+Glargine 50 Units Bedtime
+Insulin SC Sliding Scale using UNK Insulin
+10. Methocarbamol 750 mg PO TID 
+11. Metolazone 2.5 mg PO QD:PRN edema 
+12. Omeprazole 20 mg PO DAILY 
+13. Metoprolol Succinate XL 25 mg PO DAILY 
+14. BuPROPion (Sustained Release) 200 mg PO QAM 
+15. Bydureon (exenatide microspheres) 2 mg subcutaneous Qweek 
+16. Bumetanide 2 mg PO TID 
+17. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth Q6H PRN Disp #*10 
+Tablet Refills:*0 
+2.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+3.  albuterol sulfate 90 mcg/actuation inhalation BID;PRN  
+4.  Allopurinol ___ mg PO DAILY  
+5.  Bumetanide 2 mg PO TID  
+6.  BuPROPion (Sustained Release) 200 mg PO QAM  
+7.  BusPIRone 5 mg PO TID  
+8.  Bydureon (exenatide microspheres) 2 mg subcutaneous Qweek  
+9.  FLUoxetine 60 mg PO DAILY  
+10.  Fluticasone Propionate NASAL 1 SPRY NU BID  
+11.  HydrOXYzine 25 mg PO TID  
+12.  Glargine 80 Units Breakfast
+Glargine 50 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin 
+13.  Metoprolol Succinate XL 25 mg PO DAILY  
+14.  Omeprazole 20 mg PO DAILY  
+15.  Spironolactone 50 mg PO DAILY  
+16. HELD- Methocarbamol 750 mg PO TID  This medication was held. 
+Do not restart Methocarbamol until you discuss with your primary 
+care doctor. 
+17. HELD- Metolazone 2.5 mg PO QD:PRN edema  This medication was 
+held. Do not restart Metolazone until you discuss with your 
+primary care doctor. 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+# Acute R ___ toe osteomyelitis and soft tissue infection
+# Infection with enterococcus and MSSA 
+# Diabetes Mellitus type 2
+# COPD
+# Chronic CHF NOS 
+# Generalized anxiety disorder
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___.
+
+WHY YOU WERE ADMITTED TO THE HOSPITAL:
+=======================================
+- You had an ulcer on your right foot and toe that was 
+concerning for osteomyelitis, a bone infection. 
+
+WHAT WAS DONE WHILE YOU WERE ___ THE HOSPITAL:
+==============================================
+- You were seen by the Podiatry team. You had an amputation of 
+your right toe to remove the infected bone.
+- You received antibiotics and finished your antibiotics ___ the 
+hospital.  
+
+WHAT YOU NEED TO DO WHEN YOU GO HOME:
+======================================
+- Please follow up with your primary care doctor. 
+- Please follow up with our podiatry surgery team at ___ 
+___. After that, you may follow up with your podiatrist that 
+is closer to your home. 
+- Please continue to take your medications as prescribed. 
+
+It was a pleasure taking care of you!
+
+Sincerely, 
+Your ___ Care Team
+
+ 
+Followup Instructions:
+___

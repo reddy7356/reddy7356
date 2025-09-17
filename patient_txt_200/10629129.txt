@@ -1,0 +1,929 @@
+===== DISCHARGE NOTE =====
+note_id=10629129-DS-9 | hadm_id=22690913
+
+ 
+Name:  ___.             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Latex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Wound Dehisence
+ 
+Major Surgical or Invasive Procedure:
+1. Local flap advancement of left lumbar skin.
+2. V-Y advancement flap of the right lower lumbar skin and
+    local tissue rearrangement
+
+ 
+History of Present Illness:
+___ female who under went previous spinal surgery for a 
+spinal metastasis ___ . The patient wasseen her after spinal 
+wound follow-up on a regular basis. She had a small wound 
+breakdown a went back to the OR for a debridement on ___ she 
+then followed up this week for her suture removal. On the day of 
+admission her primary care noted her wound was open thus she 
+returned for further management. 
+ 
+Past Medical History:
+Renal Cell Carcinoma
+Adrenal recurrence
+Rt. nephrectomy ___
+Adrenalectomy ___
+Left knee surgery ___
+T&A
+Polypectomies 
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+O: T:98.6 BP: 122/78 HR: 81 R 18 O2Sats 95% 
+Gen: WD/WN, comfortable, NAD. 
+HEENT: Pupils:3.0mm EOMs full 
+Neck: Supple. 
+Lungs: CTA bilaterally. 
+Cardiac: RRR. S1/S2. 
+Abd: Soft, NT, BS+ 
+Extrem: Warm and well-perfused. 
+Neuro: 
+Mental status: Awake and alert, cooperative with exam, normal 
+affect. 
+Orientation: Oriented to person, place, and date. 
+Motor: 
+D B T WE WF IP Q H AT ___ G 
+R ___ 5 5 
+L ___ 5 5 
+ 
+Sensation: Intact to light touch, propioception, pinprick and 
+vibration bilaterally. 
+ 
+Reflexes: B T Br Pa Ac 
+Right ___ +1 +1 
+Left ___ +1 +1  
+ 
+Propioception intact 
+Toes downgoing bilaterally 
+ On discharge ___:
+
+O: T: 100 BP: 103/75 HR: 88 R 18 O2Sats 98% 
+Gen: WD/WN, comfortable, NAD. 
+HEENT: Pupils:3.0mm to 2.0mm EOMs full 
+Neck: Supple. No JVD or Upstrokes
+Lungs: CTA bilaterally. 
+Cardiac: RRR. S1/S2. 
+Abd: Soft, NT, BS+ 
+Extrem: Warm and well-perfused. Lumbar incision is clear. There 
+is no drainage, edema or erythema. Sutures are intact
+Neuro: 
+Mental status: Awake and alert, cooperative with exam, normal 
+affect. 
+Orientation: Oriented to person, place, and date. 
+Motor: 
+D B T WE WF IP Q H AT ___ G 
+R ___ 5 5 
+L ___ 5 5 
+ 
+Sensation: Intact to light touch 
+Propioception intact 
+Toes downgoing bilaterally 
+
+ 
+Pertinent Results:
+___ 12:50PM BLOOD WBC-6.7 RBC-3.62* Hgb-9.8* Hct-31.5* 
+MCV-87 MCH-27.2 MCHC-31.2 RDW-15.7* Plt ___
+___ 11:00AM BLOOD Neuts-73.3* ___ Monos-6.5 Eos-1.4 
+Baso-0.3
+___ 12:50PM BLOOD Plt ___
+___ 08:10PM BLOOD Glucose-108* UreaN-12 Creat-0.9 Na-136 
+K-4.2 Cl-99 HCO3-30 AnGap-11
+___ 08:10PM BLOOD Amylase-15
+___ 08:10PM BLOOD CRP-58.3*
+
+___
+CT CHEST WITH CONTRAST: A nodule in the left apex (2:14) 
+measuring 14 mm has increased in size. There is scarring and 
+chain suture at the left apex 
+related to prior wedge resection, which appears stable. There is 
+minimal 
+bibasilar dependent atelectasis. No other masses or nodules are 
+seen. No 
+pleural effusion is present. Airways appear patent to the 
+segmental levels 
+bilaterally. Target lesion #1 in the mediastinum measuring 9 x 6 
+mm (2:16) 
+has slightly decreased in size. Target lesion #2 in the 
+mediastinum (2:20) 
+measuring 13 x 3 mm is unchanged. Target lesion #3 (2:18) in the 
+mediastinum measuring 8 x 5 mm is unchanged. No significant 
+axillary, hilar, or mediastinal adenopathy is present. 
+
+CT ABDOMEN WITH CONTRAST: Status post right nephrectomy and 
+adrenalectomy 
+with multiple surgical clips in the renal fossa. No evidence for 
+suspicious nodules in the resection bed. There is a hypodensity 
+in the left kidney, which is likely a simple cyst but is 
+incompletely characterized on this study. Otherwise, the left 
+kidney appears normal without stones, masses, or hydronephrosis. 
+The spleen, left adrenal, gallbladder, liver appear normal. The 
+pancreas is fatty replaced but is otherwise normal. Abdominal 
+aorta and its branches appear widely patent. Stomach and 
+abdominal loops of small bowel appear normal. No free air or no 
+free fluid is seen. No retroperitoneal or mesenteric adenopathy 
+is present. 
+
+CT PELVIS WITH CONTRAST: There are colonic diverticula 
+particularly at the 
+sigmoid colon without evidence for diverticulitis. Otherwise, 
+pelvic loops of small and large bowel appear normal. Appendix 
+appears normal. No free air or no free fluid is seen. Bladder 
+and uterus appear normal. Adjacent to the left iliac artery 
+(2:90) is a heterogeneously enhancing soft tissue mass measuring 
+3.5 x 3.5 cm which has increased in size compared to the prior 
+study. Anterior and invading into the left sacrum is a 6.2 x 5.4 
+cm mass which has appreciably increased in size compared to the 
+prior study. No evidence for bowel obstruction. There is a 
+fat-containing ventral hernia (2:75). No bowel loops are seen in 
+this hernia. 
+  
+BONE AND SOFT TISSUE WINDOWS: Vertebral fusion hardware spans 
+from T10 to L3 with bilateral pedicle screws at T10, T11, T12, 
+L2 and L3. Unchanged loss of vertebral body height at L1. No new 
+bony metastatic disease is seen at that site; however, 
+evaluation is somewhat limited due to extensive streak artifact 
+from fusion hardware. In the posterior aspect of the left iliac 
+wing (2:74 through 2:80) is a soft tissue density measuring 6.1 
+x 3.3 cm, which may be a hematoma or seroma secondary to bone 
+graft harvesting. Surrounding this soft tissue density are 
+amorphous areas of calcification which may represent areas of 
+dystrophic calcification secondary to bone harvest. This is 
+unlikely to represent an area of metastatic disease; however, 
+attention should be paid on followup. 
+  
+PELVIS U.S., TRANSVAGINAL ___
+IMPRESSION: 
+1. Enlarged endometrium in this postmenopausal patient, warrants 
+further 
+evaluation as discussed with ___ APN on the day of 
+the study. 
+2. Large left adnexal nodal mass, better seen on CT from the 
+same date. 
+
+ 
+Brief Hospital Course:
+Ms ___ was admitted to the surgical floor, she was started on 
+Vancomycin and continued on Keflex. A torso CT was done at the 
+request of her oncologist please see results section for further 
+detail.  During her first hospital day she passed a large golf 
+ball size clot from her vagina, GYN was consulted they 
+recommended a pelvic ultrasound and this showed an enlarged 
+endometrium whcih warrents futher follow-up out-pt. She was 
+taken to the OR on ___ where she had a wound revision/flap by 
+plastic & neurosurgery. She tolerated the surgery well and then 
+had a PICC placed on ___ due to the need for Ampicillin 2G q4hr 
+for 4weeks and Flagyl 500mg PO q8 for 6weeks for positive 
+C-diff. She was required to have weekly ALT, AST, Tbili, Alk 
+Phos, CBC with diff results faxed to Dr. ___ 
+disease) @ ___. Because of her new flap, she had a 
+special mattress ordered for while she was in bed to alleviate 
+any potential pressure to that area. On ___, she complained of 
+left lower extremity pain; LENIS were performed and determined 
+to be negative for any clot. 
+ 
+Medications on Admission:
+Metoprolol ___ tablet b.i.d., Colace, Senokot, MiraLax, 
+Protonix 40, Keflex, Ativan 2 mg, aspirin 325, B6 100
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Lumbar Wound Dehisence
+
+ 
+Discharge Condition:
+Neurologically stable
+
+ 
+Discharge Instructions:
+  •Do not smoke.
+•Keep your wound(s) clean and dry / No tub baths or pool 
+swimming for two weeks from your date of surgery.
+•No pulling up, lifting more than 10 lbs., or excessive bending 
+or twisting.
+•Limit your use of stairs to ___ times per day.
+•Have a friend or family member check your incision daily for 
+signs of infection.
+•Take your pain medication as instructed; you may find it best 
+if taken in the morning when you wake-up for morning stiffness, 
+and before bed for sleeping discomfort.
+•Do not take any anti-inflammatory medications such as Motrin, 
+Advil, Aspirin, and Ibuprofen etc. unless directed by your 
+doctor.
+•Increase your intake of fluids and fiber, as pain medicine 
+(narcotics) can cause constipation. We recommend taking an over 
+the counter stool softener, such as Docusate (Colace) while 
+taking narcotic pain medication.
+•Clearance to drive and return to work will be addressed at 
+your post-operative office visit.
+*Please exercise caution when in the sitting position for your 
+new flap. 
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING:
+
+•Pain that is continually increasing or not relieved by pain 
+medicine.
+•Any weakness, numbness, tingling in your extremities.
+•Any signs of infection at the wound site: redness, swelling, 
+tenderness, and drainage.
+•Fever greater than or equal to 101° F. 
+•Any change in your bowel or bladder habits (such as loss of 
+bowl or urine control). 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10629129-DS-11 | hadm_id=23341334
+
+ 
+Name:  ___.             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Latex / Lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left Femur Fracture
+ 
+Major Surgical or Invasive Procedure:
+Left distal femur ORIF
+
+ 
+History of Present Illness:
+___ yo female with history of PAF, HL, hypothyroidism, HTN and 
+metastatic renal cell carcinoma s/p chemo/XRT, R nephrectomy 
+___, adrenalextomy ___, T11-L1 lami/tumor resection/T9-L2 
+fusion who presented with new L distal ___ femur fracture upon 
+standing up and is now s/p ORIF on ___. Patient was noted to 
+be in afib with RVR in the OR and was started on neo gtt. She 
+remained in the PACU for >24 hr and subsequently spontaneously 
+converted to NSR and was able to be weaned off the neo gtt. She 
+was then transferred to the floor but after arriving on the 
+floor the she went back in afib with RVR and had hypotension 
+down to SBP ___. She was given Lopressor 5 mg x 1 without good 
+effect and a cards consult was obtained. Cardiology recommended 
+resuming home BB when able, pain control and digoxin if BP could 
+tolerate. She was dig loaded but continued to be hemodynamically 
+unstable and was transferred to SICU.  
+.  
+In the SICU, she was treated with metoprolol, her dig was 
+discontinued and she converted to NSR. She has had issues with 
+pain control and has been noted to be delirious at times but 
+mostly AOx3.  
+.  
+Review of sytems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denied cough, shortness of breath. Denied chest pain 
+or tightness, palpitations. Denied nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denied arthralgias or myalgias.  
+
+ 
+Past Medical History:
+Metastatic Renal Cell Carcinoma (s/p surgery/XRT/chemo)  
+Paroxysmal AF  
+HTN  
+Hypothyroidism  
+Dyslipidemia  
+Right nephretomy ___
+Adrenalectomy ___
+Left knee surgery ___ 
+Tonsillectomy and Adenoidectomy
+Polypectomies
+
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+VS: T= 98.1, BP=118/70, HR=95, RR=22, O2 sat=100% 3L NC  
+GENERAL: Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple with JVP of *** cm.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+.  
+
+ 
+Pertinent Results:
+Imaging
+.
+___ Femur Film
+IMPRESSION: Distal femur diaphyseal fracture. 
+.
+___ Chest Xray
+IMPRESSION: Unchanged bilateral pulmonary metastases. No acute 
+process 
+identified. 
+.
+___ Left femoral reamings
+1.  Fragments of bone and bone marrow with maturing trilineage 
+hematopiesis, no evidence of malignancy; multiple levels are 
+examined, see note.
+2.  Fibroadipose tissue and skeletal muscle.
+.
+___ Intraop Films
+28 spot fluoroscopic images were obtained intraoperatively 
+without the 
+presence of a radiologist. Flouro time recorded as 533.1 s on 
+the 
+electronic requisition. Views demonstrate steps related to 
+fixation of a 
+distal femoral shaft fracture. FCorrelaiton with real-time 
+findings and,when appropriate, conventional radiographs is 
+recommended for full assessment. 
+.
+___ CTA Chest
+IMPRESSION: 
+1. No evidence of pulmonary embolism. 
+2. Interval progression of metastatic disease since ___ with 
+increase in the size and number of metastatic foci. 
+3. Interval development of pulmonary edema and small bilateral 
+pleural 
+effusion. 
+.
+___ Femur Right
+The film is listed as two views of the femur. However, the study 
+consists of a single view of the femur and a single view of the 
+right lower extremity. The right hip and proximal femoral neck 
+are not well evaluated on this scan. No acute fracture is 
+detected on this limited exam. No suspicious lytic or sclerotic 
+lesions are detected. 
+Some non-aggressive periosteal new bone seen in the proximal 
+tibial diaphysis medially likely relates to a muscle insertion 
+site. However, if this corresponds to the site of symptoms, then 
+conventional AP and lateral views of the right lower extremity 
+or alternatively an MRI scan would be recommended for further 
+assessment. There are degenerative changes of the right knee. 
+.
+___
+Bilateral LENIs: There is nonocclusive thrombus of some age in 
+one of the left posterior tibial veins. The other deep veins of 
+the lower extremities show no ultrasound evidence of deep venous 
+thrombosis. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with metastatic renal cell 
+carcinoma. She underwent an ORIF on ___. Her post-operative 
+course was complicated by atrial fibrillation with RVR and 
+hypotension.  
+.
+# DVT: Patient was found on ___ to have left posterior tibial 
+vein deep vein thrombosis. It was unclear how long the blood 
+clot had been there (chronic or new). 
+Patient was started on Lovenox (therapeutic dosing) and given 
+her hemoptysis, closely monitored. Patient did not have any 
+issues with increased bleeding on Lovenox. 
+- Continue Lovenox ___ q12 daily 
+.  
+# Hemoptysis: On ___ and ___ Ms. ___ had an episode of 
+hemoptysis. Each episode was approximately 1 teaspoon. Pulmonary 
+was consulted who felt this was likely related to known 
+pulmonary metastatic disease in the presence of lovenox for DVT 
+prophylaxis. Patient did benefit from 2L nasal cannula at night, 
+more for OSA. Ultimately, patient's lovenox had to be increased 
+to therapeutic doses given her left lower extremity DVT. She did 
+not have any hemoptysis for >48 hours, however, prior to 
+discharge - with close supervision. 
+- Continue 2L nasal cannula at night, room air during the day 
+- Continue Lovenox at DVT treatment dosing 
+.  
+#. s/p left ORIF: She underwent a ORIF. She was started on 
+enoxaparin post-operatively. She worked with physical therapy.
+- Patient has follow-up appointment in Orthopedic Surgery Clinic 
+on ___ at 10:40am (for Ortho Xrays on ___ ___ ___) and 
+11am (w/ ___, NP)
+- Please encourage patient to continue working with physical 
+therapy. She should get extra pain medications as needed 
+prior/during work with physical therapy. 
+.
+# Pain Control: The pain service was consulted to help manage 
+Ms. ___ pain. She was started on nortriptyline and 
+increased morphine. Nortriptyline was eventually stopped given 
+some concerns for tremor and weakness in her upper extremities. 
+Patient was started on gabapentin, MS ___ up to 
+90mg TID) and lidocaine patches with control of her pain.
+- Continue Morphine Sulfate ___ ___ every 4 hours for 
+breakthrough pain 
+- Continue MS ___ 90mg TID for ongoing pain (can decrease to 
+90/60/90mg if overly sedated) 
+- Continue gabapentin and lidocaine patches - the latter has 
+been particularly helpful in controlling patient's pain
+.  
+#. Atrial fibrillation: Her post-operative course was 
+complicated by atrial fibrillation with RVR and hypotension. She 
+required care in the SICU. Cardiology was consulted. She was 
+loaded with digoxin and converted into a regular rate. She 
+maintained a regular rate throughout the rest of the 
+hospitalization. She was placed on metoprolol TID.
+- Continue current metoprolol TID dose
+.  
+#. Delirium: Post-op course complicated by delirium. This 
+resolved outside of the ICU.
+- Continue lorazepam PRN for anxiety and before bed to help with 
+sleep
+.  
+#. Metastatic renal cell: Ms. ___ is s/p 
+nephrectomy/adrenalectomy, spinal tumor resection/T9-L2 fusion, 
+and left ORIF on ___. A family meeting was held on ___ which 
+discussed her ___ plans. She will restart her Sutent 
+after allowing a couple of weeks for her fracture to heal. 
+Patient does also have a number of metastasis to her skin (left 
+flank purplish nodules), confirmed by biopsy pathology reports.
+.  
+# Hypothyroidism: Continue home dose of levothyroxine.  
+.  
+# Skin Nodules: Per review of path reports, she has nodules on 
+her back which were consistent with known metastatic disease.   
+.  
+# Oxygen Saturation: Desaturates slightly when sleeping. Likely 
+due to obstructive sleep apnea. 
+- Continue 2L nasal cannula when sleeping 
+- Continue incentive spirometry, mobilization, and avoid 
+increasing sedating meds.  
+.    
+CODE: Ms. ___ is full code.  
+
+ 
+Medications on Admission:
+Lopressor 25 qAM/50 qPM  
+ASA 325 QD  
+Gabapentin 800 mg TID  
+Levothyroxine 200 mcg QD  
+Lorazepam 2mg QHS  
+MS ___ 60 mg Q12  
+MS ___ ___ mg Q4  
+Nystation cream  
+Omeprazole 20 mg BID  
+Prochlorperazine 10 mg Q8 prn nausea  
+Extra strength tylenol Q6 prn pain  
+Fish oil  
+Ibuprofen 400 mg BID  
+Methylsulfonylmethane 1 gram QD  
+Miralax  
+Pyridoxine 100 mg QD  
+
+ 
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID 
+(3 times a day).  
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+3. Gabapentin 400 mg Capsule Sig: Two (2) Capsule PO TID (3 
+times a day).  
+4. Levothyroxine 100 mcg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+5. Pyridoxine 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+6. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1) 
+dose PO DAILY (Daily).  
+7. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q8H (every 
+8 hours) for 5 days.  
+8. Lorazepam 1 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime). 
+ 
+9. Morphine 15 mg Tablet Sig: ___ Tablets PO Q4H (every 4 hours) 
+as needed for pain: Please use for increased pain with movement. 
+Be sparing during the evenings. Hold for sedation, RR<12.  
+10. Multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).  
+11. Famotidine 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+12. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical BID 
+(2 times a day) as needed for rash on bilateral thighs and 
+groin.  
+13. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+14. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+15. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for anxiety.  
+16. Ondansetron HCl (PF) 4 mg/2 mL Solution Sig: One (1)  
+Injection Q8H (every 8 hours) as needed for nausea/vomiting.  
+17. MS ___ 30 mg Tablet Sustained Release Sig: Three (3) 
+Tablet Sustained Release PO three times a day.  
+18. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+Three (3) Adhesive Patch, Medicated Topical DAILY (Daily): 
+Please keep ON 12 hours, OFF 12 hours. One for sacrum, one for 
+hip, one for knee.  
+19. ___ 200-25-400-40 mg/30 mL 
+Mouthwash Sig: ___ mL Mucous membrane four times a day as 
+needed for oral pain: Swish and spit.  
+20. Lovenox 80 mg/0.8 mL Syringe Sig: One Hundred Sixty (160) mg 
+Subcutaneous once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Metastatic Renal Cell Cancer
+Left distal femur fracture.
+Hemoptysis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Thank you for allowing us to take part in your care. You were 
+admitted to the hospital after a fracture of your left femur. 
+You had a surgery to repair the fracture. Your post-operative 
+course was complicated by an irregular rhythm which has now 
+resolved. Your post-operative pain is also being controlled with 
+a specific medication regimen. You were also found to have a 
+blood clot in your left leg, so you were started on blood 
+thinners. You were discharged to a rehab facility.
+.
+We made several changes to your medications. The important ones 
+are as follows:
+We STARTED Lovenox injections for the blood clot
+We STARTED Morphine Intermediate Release as needed for 
+breakthrough pain and MS ___ for ongoing pain
+We STARTED Lidocaine patches for pain control
+We STOPPED nortriptyline because of tremors/weakness.
+We STOPPED ibuprofen.
+We STOPPED fish oil.
+We STOPPED methylsulfonylmethane.
+We CHANGED acetaminophen.
+We CHANGED your dosing of metoprolol to better control your 
+irregular heart rate.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10629129-DS-8 | hadm_id=25688487
+
+ 
+Name:  ___.             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Latex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left lower extremity weakness
+ 
+Major Surgical or Invasive Procedure:
+___ T11-L1 decompressive laminectomy, tumor resection, T9-L2 
+instrumented fusion with neuromonitoring
+
+ 
+History of Present Illness:
+This is a ___ female who is known to Dr. ___. She was 
+diagnosed previously with a long history of renal cell carcinoma 
+and has recently presented with progressive metastases to her 
+lumbar spine. She has a large
+lesion in the post. elements overlying T12-L1 with infiltration 
+of both lamina, the facet joint as well as the epidural space. 
+There was noted to be sig. spinal cord compression. The patient 
+is symptomatic. 
+It is felt that she is not a candidate for radiation therefore 
+___ wished to undergo surgical decompression of the 
+lesion.  
+ 
+Past Medical History:
+Renal Cell Carcinoma
+Adrenal recurrence
+Rt. nephrectomy ___
+Adrenalectomy ___
+Left knee surgery ___
+T&A
+Polypectomies 
+ 
+Social History:
+___
+Family History:
+unknown
+ 
+Physical Exam:
+On Discharge:
+Neurologically intact with the exception of Left lower extremity 
+___ in the quadracep. Sensorium is reported to be 
+intact. Surgical incision is slightly erythemic, but intact. 
+There is a small blister noted adjacent to the right of midline 
+incision. 
+ 
+Pertinent Results:
+___ WBC-9.1 RBC-2.87* Hgb-8.0* Hct-24.9* MCV-87 MCH-28.0 
+MCHC-32.3 RDW-15.3 Plt ___
+___ Plt ___
+___ Glucose-112* UreaN-8 Creat-0.6 Na-136 K-4.3 Cl-103 
+HCO3-30 AnGap-7*
+___ CT-T-spine: Post-operative thoracolumbar spine, with 
+posterior fusion from T10-L3 with pedicle screws in T10, T11, 
+T12, L2, and L3. 
+ Satisfactory position of pedicle screws. Laminectomy from 
+T11-L1 with resection of metastases. Sacral soft tissue mass 
+causing bone destruction, and measuring almost 5 cm. 
+  
+MRI T Spine: final report pending at discharge.
+
+Intraoperative Pathology: final report pending at discharge
+
+ 
+Brief Hospital Course:
+     To O.R. ___ as planned. Immediately following 
+surgergy on post op day one and two the pt recieved a total of 4 
+units of packed red blood cells for symptomatic low urine 
+output, hypotension and decreasing Hematocrit. The pt tolerated 
+the transfusions well, with no signs of volume overload or 
+cardiac dysfunction. Subsequent hematocrits have been stable, 
+and symptoms of hypovolemia resolved. This is likely attributed 
+to intraoperative volume losses.  
+     Lower extremity motor strength is noted to be improving 
+daily and the patient reports her preoperative pain is also 
+improved. ___ has been consulted to work with the pt daily and 
+evaluate for any post discharge needs. She was found to be an 
+appropriate rehab candidate, and was discharged to an 
+appropriate facility on ___ with appropriate follow up 
+instructions. 
+ 
+Medications on Admission:
+AMLODIPINE, HCTZ, Levothyroxine, Lorazepam, Nystatin,Omprazole, 
+Oxycodone, Valsartan, Zometa 
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Thoracic tumor
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+•Do not smoke.
+•Keep your wound(s) clean and dry / No tub baths or pool 
+swimming for two weeks from your date of surgery.
+•No pulling up, lifting more than 10 lbs., or excessive bending 
+or twisting.
+•Limit your use of stairs to ___ times per day.
+•Have a friend or family member check your incision daily for 
+signs of infection.
+•Take your pain medication as instructed; you may find it best 
+if taken in the morning when you wake-up for morning stiffness, 
+and before bed for sleeping discomfort.
+•Do not take any anti-inflammatory medications such as Motrin, 
+Advil, Aspirin, and Ibuprofen etc. unless directed by your 
+doctor.
+•Increase your intake of fluids and fiber, as pain medicine 
+(narcotics) can cause constipation. We recommend taking an over 
+the counter stool softener, such as Docusate (Colace) while 
+taking narcotic pain medication.
+•Clearance to drive and return to work will be addressed at 
+your post-operative office visit.
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING:
+
+•Pain that is continually increasing or not relieved by pain 
+medicine.
+•Any weakness, numbness, tingling in your extremities.
+•Any signs of infection at the wound site: redness, swelling, 
+tenderness, and drainage.
+•Fever greater than or equal to 101° F. 
+•Any change in your bowel or bladder habits (such as loss of 
+bowl or urine control). 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10629129-DS-10 | hadm_id=25997816
+
+ 
+Name:  ___.             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Latex / Lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left lower back mass
+ 
+Major Surgical or Invasive Procedure:
+Wide excision of left back renal cell carcinoma with 30 cm2 
+advancement flap closure.
+
+ 
+History of Present Illness:
+This was a ___ woman with a history of progressive 
+metastatic renal cell carcinoma involving the lung, spine and 
+additional sites. She had a very symptomatic soft tissue 
+metastasis to the left lumbar area which she strongly desired to 
+have removed. Medial to it she had previously undergone a spinal 
+fusion and resection of tumor metastatic to the spine. She was 
+known to have additional metastases to the sacrum which were 
+increasingly symptomatic with planned radiotherapy.
+ 
+Past Medical History:
+Renal Cell Carcinoma
+Adrenal recurrence
+Rt. nephrectomy ___
+Adrenalectomy ___
+Left knee surgery ___
+T&A
+Polypectomies 
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+Physical exam at discharge:
+
+VS: T 98.6  HR 78  BP 120/64  RR 18  Pox 96%RA
+GEN: NAD, AOx3
+CV: RRR
+RESP: Unlabored
+Back: There is no erythema or induration of the wound. The 
+dressing is clean, dry, and intact. The ___ drain is in place.
+ABD: Soft, nontender
+EXT: No c/c/e
+ 
+Pertinent Results:
+None
+ 
+Brief Hospital Course:
+She underwent wide excision of the left back mass with a 30 cm2 
+advancement flap closure. A #7 flat ___ drain was placed. 
+Blood loss was minimal. Postoperatively, she underwent drain 
+teaching and a physical therapy consult was ordered for 
+difficulty ambulating at baseline. The postoperative course was 
+uncomplicated and she was discharged on postop day 1 with ___ 
+assistance.
+ 
+Medications on Admission:
+amlodipine 5mg daily
+gabapentin 800mg tid
+levothyroxine 200 mcg daily
+ativan 2mg qhs
+metoprolol 75mg bid
+MS contin 3mg bid
+nystatin cream
+omeprazole 20mg daily
+prochlorperazine 10mg prn nausea
+valsartan 320mg daily
+tylenol prn
+aspirin 325mg daily
+colace 100mg bid
+fish oil
+glucosamine
+immodium prn
+miralax
+pyridoxine
+ 
+Discharge Medications:
+1. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+2. Gabapentin 400 mg Capsule Sig: Two (2) Capsule PO TID (3 
+times a day).  
+3. Levothyroxine 100 mcg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+4. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID 
+(2 times a day).  
+5. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+6. Valsartan 160 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+7. Lorazepam 1 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime). 
+ 
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+9. Oxycodone 5 mg Tablet Sig: ___ Tablets PO every six (6) hours 
+as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left back metastatic renal cell carcinoma.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+You may eat a regular diet and may resume your regular 
+activities as tolerated.
+
+Please continue taking your regular medications. You have been 
+given a prescription for oxycodone for pain.
+
+Please empty your drain daily and record the output. When the 
+output is less than ___ milliliters per day plase call your 
+physician to make an appointment to have the drain removed. 
+Bring the record of the drain output to your follow-up 
+appointment. 
+
+Please do not shower until your drain is removed. Do not immerse 
+your wound in water for the next 2 weeks. Please leave the wound 
+dressing on until your follow-up appointment with your 
+physician.
+
+Please call your physician if you experience any of the 
+following:
+- Redness that is spreading
+- Pain not adequately relieved with medication
+- Drainage from wound
+- Opening of incision
+- Nausea and vomiting
+- Fever greater than 101
+- Chills
+- Any other symptoms that concern you
+ 
+Followup Instructions:
+___

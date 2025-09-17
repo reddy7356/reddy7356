@@ -1,0 +1,1017 @@
+===== DISCHARGE NOTE =====
+note_id=11423154-DS-7 | hadm_id=20815816
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin / Naproxen / Sulfa (Sulfonamide Antibiotics) / Percocet 
+/ ibuprofen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pain control post uterine fibroid embolization
+
+ 
+Major Surgical or Invasive Procedure:
+___ Ablation of uterine fibroids
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a history of 
+fibromyalgia, atypical ductal hyperplasia on tamoxifen, chronic 
+back pain, and symptomatic uterine fibroids, SLE (unclear 
+diagnosis per OMR), admitted post uterine fibroid embolization 
+for pain control and monitoring. 
+ 
+The patient has had symptomatic uterine fibroids with heavy 
+menstrual bleeding, pelvic pain between periods, constipation, 
+and a feeling of incomplete voiding. The patient underwent left 
+radial artery access for bilateral uterine artery particle 
+embolization to near stasis on the day of admission. The patient 
+is admitted from the ___ suite post procedure for pain 
+management. 
+
+VS prior to transfer per PACU record BP 120/78 HR 92. In ___ the 
+patient received 150 mg PO Zantac, 10 mg IV dexamethasone, 4 mg 
+IV Zofran, 0.25 mg sublingual alprazolam, 1 gram cefazolin, 2 mg 
+IV versed, 100 mcg fentanyl, and 1 gram Tylenol.  The patient 
+was started on a dilaudid PCA prior to transfer to the floor. 
+
+On the floor, the patient notes mild abdominal pain. She notes 
+that she feels like she is getting hot flashes which she gets 
+with her tamoxifen. She also endorses that she is itchy and 
+wants to get washed up. Denies any chest pain, shortness of 
+breath, nausea, vomiting, diarrhea, constipation, BRBPR. States 
+she has increased urinary frequency which she attributes to 
+fibroids. Denies dysuria but gets discomfort with full bladder
+
+Review of systems:  
+(+) Per HPI. Notable for black stool a few weeks prior in 
+setting of constipation. 
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+Allergic Rhinitis
+SLE (unclear diagnosis per OMR)                                  
+             
+Fibromyalgia                                                    
+Herpes Simplex                                                  
+Low Back Pain                                                   
+Breast Reduction                                                
+Breast Biopsy                                                   
+Dysphonia                                                       
+Atypical Ductal Hyperplasia 
+Lupus
+Arthritis
+Patellofemoral Syndrome 
+
+PAST SURGICAL HISTORY:
+Breast reduction
+Bunionectomy
+Cyst removal from hand
+Cesarean section  
+ 
+Social History:
+___
+Family History:
+Mother    ___      MULTIPLE MYELOMA                        
+MGF       Deceased      MYOCARDIAL                              
+                        INFARCTION                              
+Father    Living        DIABETES ___                       
+                        HYPERTENSION   
+ 
+Physical Exam:
+=============================
+PHYSICAL EXAM ON ADMISSION
+=============================
+Vital Signs:  T 99.5 BP 105/68 HR 88 RR 17 96 RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-distended, diffuse tenderness to palpation 
+over bilateral lower quandrants, no rebound or guarding, bowel 
+sounds present  
+Ext: Warm, well perfused, no clubbing, cyanosis or edema. L 
+radial bandage c/d/i 
+Neuro: CNII-XII intact, grossly normal sensation, moving all 
+extremities with purpose, gait deferred.  
+
+=============================
+PHYSICAL EXAM ON DISCHARGE
+=============================
+Vital Signs:   0716 T 97.8 Axillary ___ 20 98 ra 
+T max 101.2 2319
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-distended, diffuse tenderness to palpation 
+over bilateral lower quandrants, no rebound or guarding, bowel 
+sounds present  
+Ext: Warm, well perfused, no clubbing, cyanosis or edema.
+Neuro: alert, grossly normal sensation, moving all extremities 
+with purpose, gait deferred. 
+ 
+Pertinent Results:
+======================
+LABS ON ADMISSION
+======================
+___ 05:26AM BLOOD WBC-12.9*# RBC-3.57* Hgb-10.2* Hct-31.0* 
+MCV-87 MCH-28.6 MCHC-32.9 RDW-11.9 RDWSD-38.2 Plt ___
+___ 05:26AM BLOOD Glucose-115* UreaN-10 Creat-0.7 Na-138 
+K-3.8 Cl-99 HCO3-28 AnGap-15
+___ 05:26AM BLOOD Calcium-9.0 Phos-4.4 Mg-1.8
+___ 09:10AM BLOOD ___
+
+======================
+LABS ON DISCHARGE
+======================
+___ 05:40AM BLOOD WBC-12.5* RBC-3.70* Hgb-10.6* Hct-32.2* 
+MCV-87 MCH-28.6 MCHC-32.9 RDW-11.9 RDWSD-38.0 Plt ___
+___ 05:40AM BLOOD Glucose-112* UreaN-11 Creat-0.7 Na-140 
+K-3.7 Cl-100 HCO3-30 AnGap-14
+___ 05:40AM BLOOD Calcium-8.8 Phos-3.6 Mg-1.7
+
+======================
+MICROBIOLOGY
+======================
+___ - Blood Culture - Pending
+___ - Blood Culture - Pending
+___ - Blood Culture - Pending
+___ - Urine Culture - Pending
+
+======================
+IMAGING
+======================
+CHEST (PORTABLE AP) ___  
+No acute cardiopulmonary abnormality
+
+======================
+PROCEDURE
+======================
+PROCEDURE: ___ 
+1. Left radial artery access. 
+2. Right uterine arteriogram. 
+3. 3 vials of 500-700 micron particles and 2 vials of 700-900 
+micron particle 
+embolization embolization of the right uterine artery to near 
+stasis. 
+4. Left uterine arteriogram. 
+5. 3.5 vials of 500-700 micron particle embolization of the left 
+uterine 
+artery to near stasis. 
+6. Aortogram extending to the superficial femoral arteries. 
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a history of 
+fibromyalgia, atypical ductal hyperplasia on tamoxifen, chronic 
+back pain, and symptomatic uterine fibroids, SLE (unclear 
+diagnosis per OMR), admitted post uterine fibroid embolization 
+for pain control and vital sign monitoring.  
+
+# bilateral lower quadrant abdominal pain  s/p uterine fibroid 
+embolization:
+Patient with symptomatic uterine fibroids s/p left radial artery 
+access bilateral uterine artery particle embolization to near 
+status. Left radial access site without bleeding. Patient with 
+significant pain post procedure requiring overnight dilaudid 
+PCA. Transitioned on post procedure day 1 to PO 
+hydrocodone-acetaminophen, and dilaudid PCA successfully 
+discontinued. However on post procedure day 2 the patient had 
+continued pain despite hydrocodone-acetaminophen, and tramadol 
+was added. This was because the patient had a previous 
+intolerance to oxycodone, and uptitration of 
+hydrocodone-acetaminophen limited by maximum acetaminophen 
+dosing. The patient's pain was better controlled on this 
+regimen. She was tolerating PO well and ambulating without 
+difficulty prior to discharge. Sarna lotion was added for 
+pruritus. Patient will be contacted by ___, and will have plans 
+for 3 month follow up MRI for evaluation.
+
+# Fever: 
+Patient spiked fever overnight on post procedure day 1 to 101.2 
+while receiving acetaminophen of unclear etiology. The patient 
+had no pulmonary or GU symptoms. CXR negative for pneumonia, UA 
+bland. Blood cultures and urine cultures were sent and pending 
+on discharge. The patient remained afebrile for the remaining 
+duration of the hospital course and remained hemodynamically 
+stable throughout. Upon discussion with interventional 
+radiology, low grade fevers likely expected post embolization, 
+and were comfortable with discharge given negative infectious 
+workup and improvement in pain. 
+
+=======================
+CHRONIC ISSUES
+=======================
+# Fibromyalgia: Patient continued home pregabalin 100 mg BID, 
+duloxetine 60 mg QHS, tizanidine 4 mg daily. Patient on chronic 
+hydrocodone-acetaminophen at baseline which was titrated as 
+described above.
+
+# Cognitive impairment NOS: Patient on home Namenda, confirmed 
+in OMR. Continued while inpatient
+
+# Anemia: Patient with history of normocytic anemia with 
+previous workup in ___ with elevated ferritin, no iron level 
+sent at the time. Patient H/H stable during the admission. 
+Continued on home iron.
+
+# GERD: Patient continued home sucralfate BID and omeprazole 
+BID.
+
+# Atypical ductal hyperplasia: Patient continued home tamoxifen 
+daily.
+
+# Depression: Patient continued home duloxetine.
+
+# Allergic rhinitis: Patient continued fluticasone.
+
+# Insomnia: Patient continued home trazodone.
+
+=======================
+TRANSITIONAL ISSUES
+=======================
+[ ] Patient should only be continued on tramadol for short 
+course given medication interactions
+[ ] Ensure follow up with GI given history of black stools 
+reported per patient prior to admission
+[ ] Check CBC at next PCP visit to trend hemoglobin in setting 
+of anemia and uterine fibroid embolization
+[ ] Patient will need follow up MRI in 3 months post procedure
+[ ] Ensure follow up with ___ in clinic
+
+# CODE: Full (confirmed)
+# CONTACT: Father ___ ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 500 mg PO BID:PRN Pain 
+2. Hydrocortisone Cream 2.5% 1 Appl TP PRN facial itch 
+3. Pregabalin 100 mg PO BID 
+4. Tamoxifen Citrate 20 mg PO DAILY 
+5. Lidocaine 5% Ointment 1 Appl TP BID:PRN painful area 
+6. Tizanidine 4 mg PO QHS 
+7. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+8. ferrous gluconate 240 mg (27 mg iron) oral DAILY 
+9. Multivitamins 1 TAB PO DAILY 
+10. ValACYclovir ___ mg PO Q12H:PRN Cold sores 
+11. HYDROcodone-Acetaminophen (5mg-325mg) 1 TAB PO Q12H:PRN Pain 
+
+12. Sucralfate 1 gm PO BID 
+13. DULoxetine 60 mg PO DAILY 
+14. TraZODone 50 mg PO QHS:PRN insomnia 
+15. Vitamin D ___ UNIT PO 1X/WEEK (___) 
+16. Omeprazole 20 mg PO Q12H 
+17. Memantine 28 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. DULoxetine 60 mg PO DAILY 
+2. ferrous gluconate 240 mg (27 mg iron) oral DAILY 
+3. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+4. Memantine 28 mg PO DAILY 
+RX *memantine [Namenda XR] 28 mg 1 capsule(s) by mouth daily 
+Disp #*30 Capsule Refills:*0
+5. Multivitamins 1 TAB PO DAILY 
+6. Omeprazole 20 mg PO Q12H 
+7. Pregabalin 100 mg PO BID 
+8. Sucralfate 1 gm PO BID 
+9. Tamoxifen Citrate 20 mg PO DAILY 
+10. TraZODone 50 mg PO QHS:PRN insomnia 
+11. Hydrocortisone Cream 2.5% 1 Appl TP PRN facial itch 
+12. Lidocaine 5% Ointment 1 Appl TP BID:PRN painful area 
+13. Tizanidine 4 mg PO QHS 
+14. ValACYclovir ___ mg PO Q12H:PRN Cold sores 
+15. Vitamin D ___ UNIT PO 1X/WEEK (___) 
+16. Sarna Lotion 1 Appl TP QID:PRN itching 
+17. HYDROcodone-Acetaminophen (5mg-325mg) ___ TAB PO Q6H:PRN 
+Pain 
+Avoid drinking alcohol and driving while taking. 
+RX *hydrocodone-acetaminophen 5 mg-325 mg ___ tablet(s) by mouth 
+every 6 hours Disp #*16 Tablet Refills:*0
+18. TraMADol 50 mg PO Q8H:PRN Pain 
+RX *tramadol 50 mg 1 tablet(s) by mouth every 8 hours Disp #*12 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute issues:
+# Pain control s/p uterine fibroid embolization
+# Anemia
+
+Chronic issues:
+# Fibromyalgia
+# Cognitive impairment
+# GERD
+# Atypical ductal hyperplasia
+# Depression 
+# Allergic rhinitis
+# Nutrition
+# Insomnia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you at ___. You were admitted for 
+an ablation of your uterine fibroids to address your vaginal 
+bleeding. You tolerated the procedure well and we treated your 
+pain. You were started on a medication called tramadol for a 
+short duration to help treat your pain. You had a temperature on 
+the second night of your hospitalization which can be seen after 
+this procedure. Your were worked up for an infection which was 
+negative.
+
+It is normal to have small amounts of vaginal bleeding over the 
+next two weeks. The pain should improve over the next day. If 
+you have any fever, worsening pain, chills or heavy bleeding 
+please call interventional radiology at ___. You will 
+need to have a follow up MRI in 3 months which the radiology 
+department will help you schedule. 
+
+Take care, and we wish you the best.
+
+Sincerely,
+Your ___ medicine team.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11423154-DS-9 | hadm_id=22661940
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Aspirin / Naproxen / Sulfa (Sulfonamide Antibiotics) / Percocet 
+/ ibuprofen / gabapentin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Paroxysmal episodes
+
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+HPI: The patient is a ___ woman PMHx atypical ductal
+hyperplasia, fibromyalgia and possible lupus (unclear diagnosis
+per records and patient) and recurrent paroxysmal events since
+___ who presents to the ___ ED with recurrent paroxysmal
+events.
+
+Neurologic history is listed below. Regarding her current
+presentation, pt reports feeling like her usual self this AM. 
+She
+ate breakfast uneventfully. Around 9:30a, she was preparing for 
+a
+neuropsychiatric appointment scheduled for today when she
+received a phone call from her transportation asking if they
+could pick her up sooner. She had missed two prior appointments
+for neuropsychiatric testing and was concerned she may not make
+an earlier ride and thus felt very stressed. She quickly tried 
+to
+get ready and put on sneakers. She then started to "gasp for
+breath" and feel anxious and began shaking. She fell onto her
+bed. Her daughter arrived who observed bilateral arm and leg
+jerking, the arms were jerking moreso than the legs (seemed
+asynchronous when I asked daughter to act out). There was no eye
+deviation, urinary incontinence or tongue bite. Pt reports being
+unable to have a conversation during this time period but she
+felt "somewhat aware of something going on around me". Daughter
+then called her father who recommended calling EMS. Daughter
+reports episode stopped when EMS arrived and had lasted about 10
+minutes.
+
+En route to the hospital, pt had a recurrent episode and per
+EMS/ED pt was "verbally responsive during shaking spell". 
+Further
+details unclear. This again lasted ~10 minutes and then 
+resolved.
+Pt then had a recurrent episode in the ED observed by staff 
+where
+"patient is not verbally interactive. Has twitching of arms and
+face and moves eyes. But able to respond to some commands."
+Neurology was then consulted.
+
+At the time of my assessment, pt had returned to her baseline. 
+No
+abnormal movements were observed and she had no complaints. She
+has not had any recent fevers or headache. Her last event was in
+___. 
+
+Regarding her neurologic history, her events are as such:
+
+(1) Episodes with memory lapses
+(2) Episodes with difficulty talking or inability to talk 
+(3) Episodes of leg stiffening eye deviation and pelvic
+thrusting. During one episode in past, awareness was maintained. 
+
+(4) Numbness around mouth and left arm and left arm pain which 
+progresses to difficulty talking, generalized shaking, eye
+fluttering. She is able to follow commands.
+
+Potential Triggers:
+(1) C/o feeling off when has menses - weak and tired. She had 
+one
+of these when at recent gyn visit for uterine fibroids
+(2) Stress - had event on day of gyn surgery in past 
+
+Prior Work-Up:
+LP (___): Routine studies, ACE, MS profile, cytology negative
+
+MRI Brain +/- (___):
+1. 4 mm linear area of enhancement within the left frontal lobe,
+with subtle possible FLAIR hyperintensity and magnetic
+susceptibility, is incompletely evaluated secondary to extensive
+motion artifact (17;17).  Attention on close interval followup 
+or
+repeat study when patient is able to tolerate exam, is 
+recommended, to exclude a focus of metastases.  No other 
+definite
+concerning lesions identified. 
+2. No acute intracranial abnormalities identified. 
+
+EEG (___):
+Normal extended routine EEG, mostly in drowsiness and sleep.
+There were no areas of prominent focal slowing, and there were 
+no
+epileptiform features. A tachycardia was noted. 
+
+She has never been on AEDs. She was recommended to have LTM in
+___ however she did not arrange this.
+
+ 
+Past Medical History:
+ALLERGIC RHINITIS                                               
+FIBROMYALGIA                                                    
+HERPES SIMPLEX                                                  
+LOW BACK PAIN                                                   
+BREAST REDUCTION                                                
+BREAST BIOPSY                                                   
+DYSPHONIA                                                       
+ATYPICAL DUCTAL HYPERPLASIA                                     
+SYSTEMIC LUPUS ERYTHEMATOSUS (unclear diagnosis per records and
+patient)   
+Paroxysmal events     
+ 
+Social History:
+___
+Family History:
+Relative  Status    Age Problem              Comments           
+Mother    ___      MULTIPLE MYELOMA                        
+
+MGF       Deceased      MYOCARDIAL                              
+                        INFARCTION                              
+
+Father    Living        DIABETES ___                       
+                        HYPERTENSION 
+Daughter and son had febrile seizures.     
+ 
+Physical Exam:
+Vitals: 98.2 94 115/64 16 100% RA 
+General: NAD, resting in bed
+HEENT: NCAT, no oropharyngeal lesions, moist mucous membranes,
+sclerae anicteric
+Neck: Supple
+___: RRR
+Pulmonary: CTAB
+Abdomen: Soft, NT, ND
+Extremities: Warm, no edema
+Skin: No rashes or lesions
+
+Neurologic Examination:
+- Mental Status - Awake, alert, oriented to person, place and
+time. Attention to examiner easily maintained, able to say ___
+forwards and backwards. Recalls a coherent history. Speech is
+fluent with full sentences, intact repetition, and intact verbal
+comprehension. Hypophonic. Content of speech demonstrates intact
+naming (high and low frequency) and no paraphasias. Normal
+prosody. No evidence of hemineglect. No left-right agnosia.
+
+- Cranial Nerves - PERRL 3->2 brisk. VF full to finger wiggling.
+EOMI, no nystagmus. V1-V3 without deficits to light touch
+bilaterally. No facial movement asymmetry. Hearing intact to
+finger rub bilaterally. No dysarthria. Palate elevation
+symmetric. Trapezius strength ___ bilaterally. Tongue midline.
+
+- Motor - Normal bulk and tone. No drift. No tremor or 
+asterixis.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  5    ___   ___  5   5    5  5     5     5
+R  5    ___   ___  5   5    5  5     5     5
+
+- Sensory - No deficits to light touch bilaterally.
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  2  2    2    2   2
+R  2  2    2    2   2
+Plantar response flexor bilaterally.
+
+- Coordination - No dysmetria with finger to nose testing
+bilaterally. Good speed and intact cadence with rapid 
+alternating
+movements.
+
+- Gait - Ambulates independently in a stable manner.
+
+ 
+Pertinent Results:
+___ 04:40AM BLOOD WBC-5.8 RBC-4.05 Hgb-11.7 Hct-35.7 MCV-88 
+MCH-28.9 MCHC-32.8 RDW-12.3 RDWSD-39.7 Plt ___
+___ 12:30PM BLOOD WBC-5.2 RBC-3.95 Hgb-11.2 Hct-33.9* 
+MCV-86 MCH-28.4 MCHC-33.0 RDW-12.0 RDWSD-37.9 Plt ___
+___ 12:30PM BLOOD Neuts-42.2 ___ Monos-8.9 Eos-0.8* 
+Baso-0.8 Im ___ AbsNeut-2.19 AbsLymp-2.44 AbsMono-0.46 
+AbsEos-0.04 AbsBaso-0.04
+___ 04:40AM BLOOD Plt ___
+___ 12:30PM BLOOD Plt ___
+___ 04:40AM BLOOD Glucose-83 UreaN-14 Creat-0.7 Na-137 
+K-3.9 Cl-99 HCO3-25 AnGap-17
+___ 12:30PM BLOOD Glucose-100 UreaN-11 Creat-0.7 Na-135 
+K-3.8 Cl-98 HCO3-26 AnGap-15
+___ 12:30PM BLOOD ALT-22 AST-23 AlkPhos-69 TotBili-0.7
+___ 12:30PM BLOOD Albumin-4.0 Calcium-9.1 Phos-2.9 Mg-1.9
+___ 12:30PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+EEG ___: IMPRESSION: This is an abnormal video-EEG 
+monitoring session because of 3  prolonged ___ minutes) 
+clinical events of side-to-side head shaking and irregular 
+asynchronous floppy jerking of both arms, often with eyes 
+closed, or  with eyes open and repetitive blinking. She is 
+unresponsive or has slowed  responses during the events. EEG 
+during these events showed only movement and  electrode 
+artifact, with no ictal discharges; normal posterior dominant 
+rhythm  is seen during and immediately following the events. 
+Clinically and  electrographically, these are consistent with 
+nonepileptic psychogenic events. 
+No electrographic seizures or epileptiform discharges are 
+present. 
+
+EEG ___: IMPRESSION: This is an abnormal video-EEG 
+monitoring session because of a  single prolonged event 
+characterized by side-to-side head shaking, irregular  
+asynchronous jerking of both arms, repetitive blinking, upward 
+eye deviation,  and slowed response to questions, lasting a 
+total of 8 minutes. Aside for  movement artifact, no other 
+electrographic correlate is seen. These findings  are consistent 
+with a psychogenic nonepileptic seizure. Otherwise, the waking  
+background consists of a normal alpha frequency posterior 
+dominant rhythm. No 
+electrographic seizures or epileptiform discharges are present. 
+
+EEG ___: IMPRESSION: This is a normal video-EEG monitoring 
+session. There are no  focal, lateralizing, epileptiform 
+features in this recording. 
+
+ 
+Brief Hospital Course:
+ ___ woman PMHx atypical ductal hyperplasia, 
+fibromyalgia and possible lupus (unclear diagnosis per records 
+and patient) and recurrent paroxysmal events since
+___ who presents to the ___ ED with recurrent paroxysmal 
+events, diagnosed with PNES this admission.
+
+# PNES:
+- She was admitted in the setting of events (as per HPI) prior 
+to neuropsychiatric appointment.  She was admitted to the BI for 
+event capture and formal diagnosis.  She was established on 
+cvEEG with multiple typical events captured over several days.  
+As per the EEG report she had "prolonged ___ minutes) clinical 
+events of side-to-side head shaking and irregular asynchronous 
+floppy jerking of both arms, often with eyes closed, or  with 
+eyes open and repetitive blinking. She is unresponsive or has 
+slowed  responses during the events.".  Remainder of EEG benign. 
+ 
+
+The capture typical events were felt to be sufficient to 
+diagnose her with Psychogenic Non-epileptic Seizures or events.  
+This was discussed with the patient extensively.  The 
+alternative management of this (as compared to epileptic 
+seizures) were discussed- as was the importance of 
+multidisciplinary outpatient follow-up.  She will follow-up with 
+Neurology and Psychiatry (___) to help manage her care.  
+
+As per ___ Law, she cannot drive for 6 months following 
+last event.  This was discussed with good understanding.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Cyclobenzaprine 5 mg PO BID:PRN muscle spasm/pain 
+2. DULoxetine 90 mg PO DAILY 
+3. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+4. Pregabalin 100 mg PO TID 
+5. TraMADol 50 mg PO Q8H:PRN Pain - Moderate 
+6. TraZODone 50 mg PO QHS:PRN insomnia 
+7. ValACYclovir ___ mg PO Q12HRS FOR 1 DAY PRN COLD SORES Cold 
+Sores 
+8. Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+9. Vitamin D 5000 UNIT PO 1X/WEEK (MO) 
+10. Ferrous GLUCONATE 324 mg PO DAILY 
+11. Multivitamins 1 TAB PO DAILY 
+12. Memantine 28 mg PO DAILY Take as directed by prescribing 
+physician 
+13. Omeprazole 20 mg PO DAILY 
+14. Lidocaine 5% Ointment 1 Appl TP BID:PRN pain 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+2.  Cyclobenzaprine 5 mg PO BID:PRN muscle spasm/pain  
+3.  DULoxetine 90 mg PO DAILY  
+4.  Ferrous GLUCONATE 324 mg PO DAILY  
+5.  Fluticasone Propionate NASAL 1 SPRY NU DAILY  
+6.  Lidocaine 5% Ointment 1 Appl TP BID:PRN pain  
+7.  Memantine 28 mg PO DAILY Take as directed by prescribing 
+physician  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  Omeprazole 20 mg PO DAILY  
+10.  Pregabalin 100 mg PO TID  
+11.  TraMADol 50 mg PO Q8H:PRN Pain - Moderate  
+12.  TraZODone 50 mg PO QHS:PRN insomnia  
+13.  ValACYclovir ___ mg PO Q12HRS FOR 1 DAY PRN COLD SORES 
+Cold Sores  
+14.  Vitamin D 5000 UNIT PO 1X/WEEK (MO)  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Non-Epileptic Events
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+   You were admitted to ___ for evaluation of multiple events 
+of limb jerking and altered awareness.  The hopes of this 
+admission were to determine whether these events were Epileptic 
+Seizures or Non-Epileptic Events, as the treatment of these two 
+things is different.  You evaluated by the Neurology team and 
+monitored on EEG (a test which looks at the brain's electrical 
+activity as part of seizure detection).
+   Fortunately, your EEG did not show evidence of seizures or 
+seizure like activity.  Your doctors feel ___ have ___ 
+Non-epileptic events (PNEE).  These are a "stress response", 
+which can sometimes look similar to seizures, but are different.
+   Psychogenic Non-epileptic events are caused by social and 
+psychiologic stress.  They are best treated by outpatient 
+Neurology and Psychiatry to help address the underlying issues.  
+For this, your doctors recommend ___ make an appointment to see 
+a psychiatrist (___).
+    Also, please know that according to ___ Law you 
+cannot drive for 6 months following your last event.
+    It was a pleasure taking care of you,
+Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11423154-DS-8 | hadm_id=28280295
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Aspirin / Naproxen / Sulfa (Sulfonamide Antibiotics) / Percocet 
+/ ibuprofen / gabapentin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Possible first time seizure. 
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+The patient is a ___ with hx of fibromyalgia, atypical
+ductal hyperplasia on tamoxifen, chronic back pain, uterine
+fibroids, SLE (unclear diagnosis per OMR) here with event
+concerning for seizure. 
+
+Pt is currently unable to provide a coherent history - the below
+is obtained from multiple residents involved in her code. 
+When reassessed later in the evening, she can produce coherent
+speech - however, she speaks very slowly and softly, saying that
+she was at ___ and they were asking her to do an exercise that 
+she
+was having trouble perform due to pain her leg. She then pauses
+appearing somnolent and is unable to tell me exactly what
+happened or what she remembers. 
+
+She was undergoing ___ session today at around 1pm in ___ 2
+when she had an episode reportedly some kind of convulsive
+activity. Per Onc attending who saw the patient at that time, 
+her
+arms and legs were extended and stiff with rightward eye
+deviation all lasting 1 min or less. Afterwards, she localized 
+to
+pain and had possible ?upbeating nystagmus. Code Blue was called
+for unresponsiveness. When the Code Team arrived they found her
+somnolent, not answering questions or following commands,
+appearing "postictal". She was given 2mg IM Ativan at this time
+for unclear reasons but seemed more responsive after the dose -
+she would follow/track a finger on command and would nod to
+questions without producing any speech. After several minutes,
+she started arching back, pelvic thrusting, extending arms and
+legs but was following commands throughout to track finger and
+tried to open her mouth when asked as well. This lasted 2 min
+total and resolved with 2mg IV Ativan. 
+
+Finger stick in the ED was 52, pt was given dextrose. 
+
+She is unable to respond to ROS accurately at the time of
+interview. 
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+Allergic Rhinitis
+SLE (unclear diagnosis per OMR)                                  
+             
+Fibromyalgia                                                    
+Herpes Simplex                                                  
+Low Back Pain                                                   
+Breast Reduction                                                
+Breast Biopsy                                                   
+Dysphonia                                                       
+Atypical Ductal Hyperplasia 
+Lupus
+Arthritis
+Patellofemoral Syndrome 
+
+PAST SURGICAL HISTORY:
+Breast reduction
+Bunionectomy
+Cyst removal from hand
+Cesarean section  
+ 
+Social History:
+___
+Family History:
+Mother    ___      MULTIPLE MYELOMA                        
+MGF       Deceased      MYOCARDIAL                              
+                        INFARCTION                              
+Father    Living        DIABETES ___                       
+                        HYPERTENSION   
+ 
+Physical Exam:
+PHYSICAL EXAMINATION
+Vitals: ___, HR 80-100s, 116/89, RR 14, 100% on RA
+
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR
+Abdomen: Initially guards. 
+Extremities: No ___ edema.
+Skin: no rashes or lesions noted.
+
+Neurologic:
+On initial assessment - MS as below. She moved arms and legs in 
+a
+nonfocal to noxious way but only cooperated partly with exam
+given ___ strength in b/l delts, triceps, biceps, and IPs -
+otherwise no effort with testing of distal muscles. Reacted to
+noxious in all four. Symmetric hyperreflexia in 3 range
+bilaterally. Toes down. No clonus. 
+
+-Mental Status: 
+Initial assessment: Somnolent but arousable to noxious stim.
+Following most simple commands. Decreased speech output but able
+to repeat well, tell me her name, oriented to "hospital", named
+glasses and thumb, Describes cookie jar picture by saying 
+"mother
+is washing the dishes". 
+
+On Repeat Eval: Mildly somnolent, arousable with verbal, light
+tactile stimuli, oriented oriented x 3. Still unable to relate
+history well as noted above in HPI. Inattentive, able to name 
+___
+backward until ___ then starts going forwards. Language is
+technically fluent but slow with intact repetition and
+comprehension. There were no paraphasic errors. Able to read
+without difficulty. Speech was not dysarthric. Able to follow
+both midline and appendicular commands. There was no evidence of
+apraxia or neglect.
+
+-Cranial Nerves: On repeat eval
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation. Visual acuity
+___ bilaterally. Fundoscopic exam revealed no papilledema,
+exudates, or hemorrhages.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: On repeat eval. 
+Normal bulk, tone throughout. No pronator drift bilaterally.
+Mild asterixis. 
+  Delt Bic Tri WrE FFl FE  IP Quad Ham TA ___
+L  5    ___   ___   5    4* 5     5     5   5
+R  5    ___   ___   5    5  5     5     5   5
+*Pain limited, unclear baseline. 
+
+-Sensory: No deficits to light touch throughout. No extinction 
+to
+DSS.
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  2  2    2    3   1
+R  2  2    2    3   1
+Plantar response was flexor bilaterally. No ankle clonus
+
+-Coordination: No dysmetria on FNF or HKS bilaterally.
+
+-Gait: Able to stand with minimal assistance, walks several 
+steps
+slowly. Due to mental status, did not continue. Romberg absent. 
+_
+________________________________________________________________
+Discharge physical exam is identical except for mental status: 
+AAO x 3, able to name months of year backwards and serial 7's. 
+Speaks slowly with pauses but this is reportedly her baseline 
+per father. ___ eye contact, tenses mouth prior to 
+initiating speech, also baseline per father. 
+
+ 
+Pertinent Results:
+___ 02:48PM BLOOD WBC-5.2 RBC-3.84* Hgb-10.5* Hct-33.2* 
+MCV-87 MCH-27.3 MCHC-31.6* RDW-12.9 RDWSD-40.4 Plt ___
+___ 02:48PM BLOOD Neuts-44.5 ___ Monos-10.2 
+Eos-0.8* Baso-0.8 Im ___ AbsNeut-2.33 AbsLymp-2.27 
+AbsMono-0.53 AbsEos-0.04 AbsBaso-0.04
+___ 02:48PM BLOOD Plt ___
+___ 02:48PM BLOOD ___ PTT-30.7 ___
+___ 10:14AM BLOOD Glucose-101* UreaN-8 Creat-0.8 Na-136 
+K-3.9 Cl-99 HCO3-25 AnGap-16
+___ 02:48PM BLOOD ALT-10 AST-17 AlkPhos-50 TotBili-1.0
+___ 02:48PM BLOOD Albumin-4.1 Calcium-9.0 Phos-4.1 Mg-1.9
+___ 02:48PM BLOOD HCG-<5
+___ 02:48PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 03:07PM BLOOD Lactate-1.3
+ 
+Brief Hospital Course:
+Ms. ___ was observed in the ED then admitted to the neurology 
+service, where her mental status was noted to improve. Lab 
+workup was unrevealing aside from hypoglycemia at time of event 
+(52). Repeat glucose checks >70 throughout hospitalization. Her 
+mental status was noted to improve and to return to baseline. 
+She underwent routine EEG which was normal. She had MRI brain 
+with contrast which revealed 4 mm linear area of enhancement 
+within the left frontal lobe, with subtle 
+possible FLAIR hyperintensity and magnetic susceptibility, 
+possible artifact vs small lesion. The clinical significance of 
+this finding was unclear.  For further workup, she had an LP for 
+which routine studies were negative; ACE and MS profile pending. 
+Arrangements were made for patient to follow up in Neuro urgent 
+care at soonest available appointment.  At the time of 
+discharge, she reported feeling at her baseline, denying back 
+pain, nausea/vomiting or other neurologic symptoms.  
+
+Transitional issues:
+1) To follow up with Neuro-urgent care clinic after discharge
+2)  Should follow up with Psychiatry  as an outpatient for 
+anxiety (had several panic attacks during hospitalization) 
+3) Follow up LP results when seen by Neurology in follow up
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ALPRAZolam 1 mg PO TID:PRN prior to MRI 
+2. ClonazePAM 1 mg PO QHS:PRN prior to exam 
+3. DULoxetine 60 mg PO DAILY 
+4. fluticasone 50 mcg/actuation nasal DAILY 
+5. Hydrocortisone Cream 2.5% 1 Appl TP DAILY 
+6. Lidocaine 5% Ointment 1 Appl TP BID 
+7. Pregabalin 100 mg PO TID 
+8. Ranitidine 300 mg PO QHS 
+9. Sucralfate 1 gm PO BID 
+10. Cyclobenzaprine 10 mg PO TID:PRN spasm 
+11. TraMADol 50 mg PO QHS 
+12. ValACYclovir 1000 mg PO Q12H 
+13. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+14. calcium carbonate-vitamin D3 600mg (1,000mg) -1,000 unit 
+oral 1X/WEEK 
+15. Docusate Sodium 100 mg PO BID 
+16. Ferrous GLUCONATE 324 mg PO DAILY 
+17. Loratadine 10 mg PO DAILY 
+18. minoxidil 2 % topical DAILY 
+19. Polyethylene Glycol 17 g PO DAILY 
+20. Memantine 28 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild  
+2.  ClonazePAM 1 mg PO DAILY  
+3.  Memantine 28 mg PO BID  
+4.  ALPRAZolam 1 mg PO TID:PRN prior to MRI  
+5.  calcium carbonate-vitamin D3 600mg (1,000mg) -1,000 unit 
+oral 1X/WEEK  
+6.  Docusate Sodium 100 mg PO BID  
+7.  DULoxetine 60 mg PO DAILY  
+8.  Ferrous GLUCONATE 324 mg PO DAILY  
+9.  fluticasone 50 mcg/actuation nasal DAILY  
+10.  Hydrocortisone Cream 2.5% 1 Appl TP DAILY  
+11.  Lidocaine 5% Ointment 1 Appl TP BID  
+12.  Loratadine 10 mg PO DAILY  
+13.  minoxidil 2 % topical DAILY  
+14.  Polyethylene Glycol 17 g PO DAILY  
+15.  Pregabalin 100 mg PO TID  
+16.  Ranitidine 300 mg PO QHS  
+17.  Sucralfate 1 gm PO BID  
+18.  ValACYclovir 1000 mg PO Q12H  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+altered mental status
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+You were admitted following an episode of altered consciousness 
+associated with shaking which was concerning for a first time 
+seizure. While you were admitted, you had a brain wave test 
+(EEG) which was normal and image (MRI) which revealed a small 
+area of abnormality in the brain, but it is unclear if this 
+explains your symptoms. To look into your symptoms further, we 
+did a lumbar puncture (spinal tap) for which preliminary studies 
+were negative.  It will be important that you follow up in 
+Neurology clinic at soonest available appointment to discuss the 
+rest of your results.
+
+It was a pleasure taking care of you.
+
+Sincerely,
+Your ___ care team 
+ 
+Followup Instructions:
+___

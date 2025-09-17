@@ -1,0 +1,270 @@
+===== DISCHARGE NOTE =====
+note_id=10501590-DS-7 | hadm_id=28646819
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+heparin / Lovenox / Dilantin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fevers  
+
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ anesthesiologist with history of sagittal venous sinus 
+thrombosis in ___ presenting with two weeks of low grade fever, 
+night sweats headaches, tachycardia, and tachypnea. Pt noticed 
+symptoms initially two weeks ago of fatigue, temperatures in 
+100-101 in the evenings. Several days ago he noted tachycardia 
+to the ___. Last ___, went to see PCP since symptoms did not 
+improve. Labs done showed normal WBC, D-dimer 3430, CRP 8.3, and 
+mild transaminitis. UA was negative, IgG and IgM CMV was 
+positive, EBV pending. Pt started himself on rivaroxuban 10mg in 
+AM and 20 mg in ___ out of concern for PE. (now day 4 of 
+anticoagulation). On ___ pt also developed dry cough,  
+malaise, myalgias, so started himself on levaquin 750mg (today 
+day 3 of antibiotics) although he noted no improvement of 
+symptoms. Pt denies HA since starting anticoagulation, changes 
+in vision, SOB. Pt sent today by PCP to expedite workup and 
+imaging.  Of note, pt is from ___, had multiple TB tests in 
+the past negative (last PPD in ___. No recent international 
+travel.
+
+In the ED, initial vs were: 98.6 93 121/75 18 96% RA. Labs were 
+remarkable for ALT 135, AST, 55. Rest of LFTs wnl. CBC, chem-7, 
+UA, CTA of chest were all unremarkable w/ exception of monocytic 
+predominance of CBC differential.
+
+Vitals on Transfer: 97.6 90 115/79 18 96% RA   
+ 
+On the floor, vs were: T 98 P 76 BP 102/68 R 16 O2 sat 99% on 
+RA. He is resting comfortably in bed. Denies any current 
+headaches, SOB, fevers or chills.  
+ 
+Review of systems:  
+(+) Per HPI  - one episode of diarrhea yesterday
+(-) Denies recent weight loss or gain. Denies  sinus tenderness, 
+rhinorrhea or congestion. Denies  shortness of breath. Denies 
+chest pain or tightness, palpitations. Denies nausea, vomiting, 
+constipation or abdominal pain.  No dysuria. Denies arthralgias. 
+Ten point review of systems is otherwise negative.  
+ 
+
+ 
+Past Medical History:
+sagittal venous thromobosis, s/p thrombectomy
+ 
+
+ 
+Social History:
+___
+Family History:
+Father with DVT after long flight
+
+ 
+Physical Exam:
+ON ADMISSION:
+============
+Vitals: T 98 P 76 BP 102/68 R 16 O2 sat 99% on RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI  
+Neck: supple, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, no rebound tenderness 
+or guarding, no hepatomegaly by exam
+Ext: Warm, well perfused   
+Skin:  no lesions
+Neuro:  AOx3, moving all extremities purposefully
+ 
+ON DISCHARGE:
+==============
+Vitals: T: 98.1 BP:105/71 P:81 R:18 O2: 100%RA 
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi, dry non-productive cough  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema    
+Neuro:  Alert, oriented X3, ST memory intact, EOMI, PERRL 
+ 
+Pertinent Results:
+ON ADMISSION:
+=============
+___ 07:20AM BLOOD WBC-7.4 RBC-5.31 Hgb-15.5 Hct-46.3 MCV-87 
+MCH-29.2 MCHC-33.5 RDW-12.5 Plt ___
+___ 11:13AM BLOOD Neuts-38* Bands-0 ___ Monos-21* 
+Eos-3 Baso-0 ___ Myelos-0
+___ 11:13AM BLOOD ___ PTT-50.6* ___
+___ 11:13AM BLOOD Glucose-83 UreaN-14 Creat-1.0 Na-139 
+K-4.5 Cl-104 HCO3-25 AnGap-15
+___ 11:13AM BLOOD ALT-135* AST-55* AlkPhos-118 TotBili-0.4
+___ 11:13AM BLOOD Albumin-4.4
+___ 11:22AM BLOOD Lactate-1.4
+
+RADIOLOGY:
+==========
+CTA ___:
+CT Thorax:  The airways are patent to the subsegmental level.  
+There is no mediastinal, hilar, or axillary lymph node 
+enlargement by CT size criteria.  The heart, pericardium, and 
+great vessels are within normal limits.  No hiatal hernia seen.  
+Lung windows demonstrate a 4 mm right upper lobe pulmonary 
+nodule (2:33).  No additional pulmonary nodules seen. There is 
+no pleural effusion or pneumothorax.   
+  
+CTA Thorax:  The aorta and main thoracic vessels are well 
+opacified.  The 
+aorta demonstrates normal caliber throughout the thorax without 
+intramural hematoma or dissection.  There is no filling defect 
+to suggest pulmonary embolism.  Osseous structures: No blastic 
+or lytic lesions suspicious for malignancy.  
+  
+Although this study is not designed for assessment of 
+intra-abdominal 
+structures, the visualized solid organs and stomach are 
+unremarkable.   
+  
+IMPRESSION: 
+  
+1. No evidence of pulmonary embolism or pneumonia.  
+  
+2. 4mm right upper lobe pulmonary nodule. If no risk factors for 
+malignancy, including history of smoking, then no additional 
+follow-up needed. If risk factors then follow-up chest CT in ___ 
+year is recommended.  
+
+RUQ WITH DOPPLERS ___:
+FINDINGS:  The liver is normal in size, echogenicity, and 
+architecture.  There
+is no focal liver lesion.  The gallbladder is normal and there 
+are no stones
+or sludge.  There is no intra- or extra-hepatic biliary ductal 
+dilatation and
+the common bile duct measures 2 mm.  The pancreas is not well 
+visualized. 
+There is no ascites.
+ 
+The main, left, and the right portal veins are patent with 
+hepatopetal flow. 
+The main, left, and right hepatic arteries are patent with sharp 
+systolic
+upstroke and antegrade diastolic flow.  The right, middle, and 
+left hepatic
+veins are patent with antegrade flow.
+ 
+IMPRESSION:  Normal liver duplex ultrasound.  
+
+ON DISCHARGE:
+=============
+
+___ 07:20AM BLOOD WBC-7.4 RBC-5.31 Hgb-15.5 Hct-46.3 MCV-87 
+MCH-29.2 MCHC-33.5 RDW-12.5 Plt ___
+___ 07:20AM BLOOD ___ PTT-42.3* ___
+___ 07:20AM BLOOD Glucose-94 UreaN-13 Creat-1.0 Na-137 
+K-4.7 Cl-103 HCO3-24 AnGap-15
+___ 07:20AM BLOOD ALT-122* AST-51* LD(LDH)-291* AlkPhos-115 
+TotBili-0.___ anesthesiologist with history of sagittal venous sinus 
+thrombosis in ___ presenting with two weeks of low grade fever, 
+headache, night sweats, tachycardia, and tachypnea.
+ 
+#  Fevers/Tachycardia/Tachypnea: Pt with two weeks of fevers and 
+malaise as well as several days of tachycardia, tachypnea and 
+dry cough, night sweats and headache. Pt had prescribed himself 
+short course of levoflox for atypical pneumonia with no 
+improvement of symptoms.  CTA in ED negative for PE or 
+pneumonia. Pt found to have positive IgG and IgM CMV 
+antibiodies, making CMV mononucelosis most likely diagnosis. CBC 
+Differential significant for increased monocytes, most likely 
+from CMV. Previous differential from ___ includes atypical 
+lymphs. Although patient endorses cough and nightsweats and has 
+a 4mm nodule seen on CT, he denies weight loss, denies 
+hemoptisis, denies known exposure and does not have cavitary 
+lesions making TB unlikely.  On discharge, his symptoms were 
+improved. EBV and HIV testing pending on discharge
+ 
+#  H/o sagittal venous sinus thrombosis: Pt is s/p thrombectomy 
+after venous sinus thrombosis in ___. He was treated with 
+riveroxiban for ___ years. He had followed up with hematology 
+and neurology. No coagulation d/o was diagnosed. When pt began 
+experiencing headaches as an outpatient, he prophylactically 
+restarted rivaroxiban and stated his headaches improved. Denies 
+vision changes, weakness, or seizures. Given lack of symptoms or 
+focal neurological deficits on exam, no MRV was performed. Based 
+on guidelines, pt's with sinus venous thrombosis without 
+identified coagulation disorder should be anticogulated for 6 mo 
+after event. Given pt's thrombosis was in ___, advised pt to 
+stop rivaroxiban and follow up with his outpatient hematologist.
+
+#  Transaminitis: Pt with mildly elevated LFTs which have 
+uptrended since ___. Most likely mild viral hepatitis in setting 
+of CMV infection. However, given his hx of thrombosis and 
+possible coagulation d/o,a RUQ ultrasound was performed that 
+showed no show evidence of thrombosis.
+
+TRANSITIONAL ISSUES:
+[ ] Pt had HIV test to rule out immunocompromise given his CMV 
+infection. This result was pending at discharge and should be 
+follow up. EBV testing also pending
+[ ] Based on guidelines, pt's with sinus venous thrombosis 
+without identified coagulation disorder should be anticogulated 
+for 6 mo after event. Given pt's thrombosis was in ___, advised 
+pt to stop rivaroxiban and follow up with his outpatient 
+hematologist
+[ ] Pt had mild transaminits in setting of CMV infection, should 
+have LFTs rechecked as an outpatient to monitor for improvement
+[ ] 4mm nodule found on CT scan. Pt denies any risk factors such 
+as smoking or hx of malignancy and per radiology recommendations 
+does not need further imaging
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Rivaroxaban 10 mg PO BREAKFAST 
+2. Rivaroxaban 20 mg PO HS 
+
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+CMV mononucelosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Dr. ___ was a pleasure taking care of you during your 
+stay at ___. You were admitted to the hospital for 
+fevers, tachycardia and tachypnea most likely secondary to CMV. 
+You had a RUQ ultrasound as well as CTA which were reassuring. 
+Please follow up with your outpatient providers.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,166 @@
+===== DISCHARGE NOTE =====
+note_id=10427229-DS-2 | hadm_id=26669955
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: PLASTIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Increasing left wrist pain s/p cat bite
+ 
+Major Surgical or Invasive Procedure:
+BEDSIDE PROCEDURE:
+Using local field blocks a small ellipse of tissue above each 
+puncture wound was excised. All wounds were irrigated, left 
+open,
+soaked in betadine-saline, and then elevated in a volar resting
+splint. 
+
+ 
+History of Present Illness:
+Healthy ___ RHD woman bitten once on the ulnar aspect of the 
+left wrist by her own cat at 6:30am ___. She sustained 
+discrete 4 puncture wounds, two on the dorsal aspect of the 
+wrist and two on the volar aspect of the wrist. Over the course 
+of the day her left wrist became progressively more painful. The 
+pain is worsened by any motion at the wrist. In addition to pain 
+she has
+noticed some mild redness and mild swelling around the bite 
+marks. No weakness/numbness/tingling. No history of injury to 
+the arms/wrist/hands. Last tetanus booster was ___ years ago.
+
+ 
+Past Medical History:
+Left shoulder injury ___ years ago
+laprascopic cholecystectomy
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+98.5, 60, 140/80, 16, 100%RA
+Well-appearing woman
+Left upper extremity with four discrete dry <5mm diameter
+puncture marks about the ulnar aspect of the wrist, two dorsal
+and two volar, in a pattern consistent with a single cat bite.
+There is mild erythema and swelling about the wounds. No
+bleeding. No significant wound drainage. Sensation is intact and
+normal in all distributions throughout the forearm, wrist, and
+hand. Strength is normal. The wrist is tender to passive range 
+of
+motion.
+
+ 
+Pertinent Results:
+___ 06:15PM   GLUCOSE-80 UREA N-10 CREAT-0.7 SODIUM-137 
+POTASSIUM-5.1 CHLORIDE-103 TOTAL CO2-24 ANION GAP-15
+___ 06:15PM   estGFR-Using this
+___ 06:15PM   WBC-18.1* RBC-3.93* HGB-12.8 HCT-36.6 MCV-93 
+MCH-32.6* MCHC-34.9 RDW-12.9
+___ 06:15PM   NEUTS-65.6 ___ MONOS-3.7 EOS-1.6 
+BASOS-0.4
+___ 06:15PM   PLT COUNT-383
+___ 04:20PM URINE  HOURS-RANDOM
+___ 04:20PM URINE  UCG-NEGATIVE
+___ 06:55AM BLOOD WBC-14.3* RBC-3.73* Hgb-12.1 Hct-35.8* 
+MCV-96 MCH-32.6* MCHC-34.0 RDW-12.8 Plt ___
+___ 06:55AM BLOOD Neuts-73.6* ___ Monos-3.4 Eos-1.0 
+Baso-0.8
+___ 06:55AM BLOOD Plt ___
+___ 08:10AM BLOOD WBC-11.6* RBC-3.74* Hgb-12.1 Hct-35.4* 
+MCV-95 MCH-32.2* MCHC-34.1 RDW-12.0 Plt ___
+___ 08:10AM BLOOD Plt ___
+___ 08:10AM BLOOD Glucose-92 UreaN-8 Creat-0.7 Na-139 K-4.1 
+Cl-104 HCO3-26 AnGap-13
+___ 08:10AM BLOOD Calcium-9.0 Phos-3.8 Mg-2.1
+.
+RADIOLOGY:
+Radiology Report WRIST(3 + VIEWS) LEFT Study Date of ___ 
+6:26 ___ 
+IMPRESSION: No radiopaque foreign body or fracture.
+ 
+Brief Hospital Course:
+The patient was admitted to the plastic surgery service on 
+___ for observation and treatment of a cat bite to your 
+left wrist.  Her left wrist had a bedside incision and drainage 
+at the site of bite puncture wounds.  Her left hand/wrist was 
+soaked in warm betadine solution baths every 6 hours and her 
+left hand/forearm was splinted and elevated at all other times. 
+.
+Neuro: The patient was given Percocet for her pain which 
+provided good relief by report. 
+.
+CV: The patient was stable from a cardiovascular standpoint; 
+vital signs were routinely monitored.
+.
+Pulmonary: The patient was stable from a pulmonary standpoint; 
+vital signs were routinely monitored.
+.
+GI/GU: The patient was maintained on a regular diet which she 
+tolerated while during her stay.  She was started on a bowel 
+regimen to encourage bowel movement.  Intake and output were 
+closely monitored. 
+.
+ID: Post-operatively, the patient was started on IV Unasyn, then 
+switched to PO Augmentin x 10 days for discharge home. The 
+patient's temperature was closely watched for signs of 
+infection. 
+.
+Prophylaxis: The patient was encouraged to get up and ambulate 
+as early as much as possible. 
+.
+At the time of discharge on hospital day #3, the patient was 
+doing well, afebrile with stable vital signs, tolerating a 
+regular diet, ambulating, voiding without assistance, and pain 
+was well controlled. Left wrist pain, swelling, erythema and ROM 
+showed clear improvement upon discharge home.
+
+ 
+Medications on Admission:
+NONE
+ 
+Discharge Medications:
+1. oxycodone-acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q3H (every 3 hours) as needed for pain: Max 12/day. Each tab has 
+325mg of tylenol. Do not exceed 4gms/4000mgs of tylenol per day.
+Disp:*60 Tablet(s)* Refills:*0*
+2. Augmentin 875-125 mg Tablet Sig: One (1) Tablet PO twice a 
+day for 10 days.
+Disp:*20 Tablet(s)* Refills:*0*
+3. ibuprofen 200 mg Tablet Sig: ___ Tablets PO every six (6) 
+hours: Do not exceed 2400mg/day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+cellulitis left wrist s/p cat bite
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted on ___ for observation and treatment of a 
+cat bite to your left wrist.  Please read the following 
+instructions.
+.
+Followup Instructions:
+___

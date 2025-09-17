@@ -1,0 +1,1259 @@
+===== DISCHARGE NOTE =====
+note_id=10921932-DS-6 | hadm_id=21504239
+
+Name:  ___        ___ No:  ___
+
+Admission Date: ___        Discharge Date: ___
+
+Date of Birth:  ___        Sex:  M
+
+Service:  OME
+
+
+HISTORY OF PRESENT ILLNESS:  Mr. ___ is a ___
+male with metastatic melanoma admitted today to begin cycle 1
+week one high-dose IL-2 therapy. His oncologic history began
+in ___ when he underwent resection of what was reportedly at
+4.8 mm thick, ___ level IV melanoma from his posterior
+left leg. He underwent wide local excision and sentinel lymph
+node staging without evidence of residual melanoma. He did
+not receive any adjuvant therapy. He did well until ___ when
+he developed a mass in his right deltoid area. Punch biopsy
+revealed evidence of melanoma. Head CT showed uptake in the
+right deltoid mass, potentially in the right axilla and right
+back. Biopsies of the axilla and neck done under ultrasound
+guidance showed no evidence of melanoma. He underwent
+surgical resection of the right deltoid mass by Dr. ___ on ___. Pathology revealed a 6.5 cm
+subcutaneous mass resected with clean margins. He began
+adjuvant interferon therapy on ___ completing ___ year
+of therapy in ___. Torso CT on ___ showed a
+new strike 3-cm soft tissue mass in the jejunum with FTG
+avidity on CAT scan. He underwent jejunal resection on
+___ by Dr. ___ at ___ with pathology
+revealing melanoma in the in the jejunal mass with ___ lymph
+nodes positive. Follow-up CT on ___ revealed a new
+liver lesion consistent with metastatic disease. High-dose IL-
+2 therapy was discussed as an option for treatment and he
+passed eligibility testing. He presents today to begin cycle
+1 week one high-dose IL-2 therapy.
+
+PAST MEDICAL HISTORY:  Melanoma as above, history of
+folliculitis, migraine headaches.
+
+ALLERGIES:  Penicillin with unknown reaction, Demerol causes
+vomiting.
+
+MEDICATIONS:  Oxycodone ___ mg p.r.n. pain.
+
+PHYSICAL EXAMINATION:  ___:  Well-appearing male in no
+acute distress. Performance status 0. VITAL SIGNS:  96.1, 80,
+21, 130/80, O2 sat 95% on room air. HEENT:  Normocephalic,
+atraumatic. Sclerae anicteric. Moist oral mucosa without
+lesions. NECK:  Supple. Lymph nodes. No cervical,
+supraclavicular or bilateral axillary lymphadenopathy. HEART:
+Regular rate and rhythm, S1, S2. CHEST:  Clear. ABDOMEN:
+Soft, nontender, no HSM or masses. EXTREMITIES:  No lower
+extremity edema SKIN:  Multiple cysts over the trunk,
+extremities, and scalp. Neurologic exam nonfocal.
+
+ADMISSION LABS:  WBC 8.8, hemoglobin 12.5, hematocrit 36.4,
+platelet count 220,000, INR 1, BUN 12, creatinine 0.7, sodium
+39, potassium 3.5, chloride 102, CO2 29, glucose 121, ALT 15,
+AST 14, CK 67, total bili 0.2, calcium 8.8, phosphorus 3.9,
+magnesium 2.1.
+
+HOSPITAL COURSE:  Mr. ___ was admitted and underwent
+central line placement to begin therapy. His admission weight
+was 173 kg and he received interleukin-2 600,000
+international units based on adjusted ideal body weight
+equaling 75.3 million units of IL-2 every 8 hours times 14
+potential doses. During this week, he received 10 of 14 doses
+with four doses held related to development of toxic
+encephalopathy. On treatment day #4, he was noted to have
+slowed speech with periods of agitation. IL-2 therapy was
+held at 4:00 p.m. and midnight on treatment day #4 with
+improvement in mental status by treatment day #5 and he was
+given his final diet dose of IL-2 at 8:00 a.m.. Further IL-2
+was held due to slight alteration in mental status. His
+mental status improved off IL-2 therapy and when he was
+discharged to home at baseline. Other side effects during
+this week included rigors improved with Demerol; nausea and
+vomiting improved with antiemetics; development of a pruritic
+erythematous skin rash; and diarrhea improved with Lomotil
+therapy. During this week, he had no evidence of evidence of
+acute renal failure. He developed transaminitis with a peak
+ALT of 57 and a peak AST of 53. He developed
+hyperbilirubinemia with a peak bilirubin of 3.6. He was
+anemic without need for packed red blood cell transfusion. He
+developed thrombocytopenia with a platelet count low of
+87,000 without evidence of bleeding. He had no coagulopathy
+or myocarditis noted. By ___, he had recovered from
+side effects to allow for discharge to home.
+
+CONDITION ON DISCHARGE:  Alert, oriented and ambulatory.
+
+DISCHARGE STATUS:  To home with his family.
+
+DISCHARGE DIAGNOSES:  Metastatic melanoma status post cycle 1
+week one high-dose IL-2 therapy complicated by toxic
+encephalopathy.
+
+DISCHARGE MEDICATIONS:  Lasix 20 mg p.o. daily times 5 days
+or until you reach pretreatment weight, Tylenol ___ mg
+q.i.d. p.r.n. pain, ranitidine 150 mg p.o. b.i.d. p.r.n.
+heartburn, lorazepam 1 mg t.i.d. p.r.n. nausea/vomiting,
+Benadryl ___ mg q.i.d. p.r.n. pruritus, Compazine 10 mg
+p.o. q.i.d. p.r.n. nausea/vomiting, Lomotil ___ tablets
+q.i.d. p.r.n. loose stools, ciprofloxacin 250 mg p.o. b.i.d.
+times 5 days, Eucerin cream topically one q.i.d. p.r.n. dry
+skin, Sarna lotion topically q.i.d. p.r.n. pruritus.
+
+FOLLOW-UP PLANS:  Mr. ___ return in one week for
+week #2 of therapy.
+
+
+
+                        ___, ___
+
+Dictated By:  ___, NP
+
+MEDQUIST36
+D:  ___ 17:54:54
+T:  ___ 17:37:09
+___:  ___
+
+cc: ___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10921932-DS-9 | hadm_id=24208475
+
+Name:  ___        ___ No:  ___
+
+Admission Date: ___        Discharge Date: ___
+
+Date of Birth:  ___        Sex:  M
+
+Service:  OME
+
+
+HISTORY OF PRESENT ILLNESS:  Mr. ___ is a ___
+male with metastatic melanoma admitted today to begin cycle
+2, week 1 high-dose IL-2 therapy. His oncologic history began
+in ___ when he underwent resection of what was reportedly a
+4.8-mm thick ___ level IV melanoma from his posterior
+left leg. He underwent wide local excision and sentinel lymph
+node staging without evidence of residual melanoma. He did
+not receive any adjuvant therapy.
+
+He did well until ___ when he developed a mass in his right
+deltoid area. Punch biopsy revealed evidence of melanoma. A
+PET CT showed uptake in the right deltoid mass potentially in
+the right axilla and right back. Biopsy of the axilla and
+neck done under ultrasound guidance showed no evidence of
+melanoma. He underwent surgical resection of the right
+deltoid mass by Dr. ___ on ___. Pathology
+revealed a 6.5-cm subcutaneous mass resected with clean
+margins. He began adjuvant interferon therapy on ___,
+completing ___ year of therapy in ___.
+
+Torso CT on ___ showed a new 3-cm soft tissue mass in
+the jejunum with FDG avidity on PET. He underwent jejunal
+resection on ___ by Dr. ___ at ___ with pathology
+revealing melanoma of the jejunal mass with ___ lymph nodes
+positive. Follow-up CT on ___ revealed a new liver
+lesion consistent with metastatic disease. High-dose IL-2
+therapy was discussed, and he passed eligibility testing to
+begin treatment on ___ receiving 10 of 14 doses week 1
+___omplicated by neurotoxicity. He received 2 of 14
+doses week 2 due to development of probable air embolus in
+the setting of hypoxia, dyspnea and chest pain after his
+central line disconnected. He was transferred to the ICU and
+treated supportively with resolution of symptoms. Follow-up
+CT scans showed resolution of the liver lesion and a slight
+increase in an omental nodule.
+
+He was admitted on ___ for cycle 2 week 1, but was
+found to have a neck abscess requiring incision and drainage.
+IL-2 was held and he was treated with IV vancomycin and
+dressing changes. He was subsequently discharged to home on
+oral antibiotics. This wound is now healed and he is admitted
+today to begin cycle 2 week 1 of therapy.
+
+PAST MEDICAL HISTORY:  Melanoma as above, history of
+folliculitis, history of migraine headaches.
+
+ALLERGIES:  Penicillin with unknown reaction. Demerol causes
+vomiting.
+
+MEDICATIONS:  Tylenol p.r.n. pain, Percocet p.r.n. pain.
+
+PHYSICAL EXAMINATION:  General: Well-appearing male in no
+acute distress. Performance status zero. Vital Signs:  97,
+83, 18, 150/79, O2 saturation 96% on room air. HEENT:
+Normocephalic, atraumatic. Sclerae anicteric. Moist oral
+mucosa without lesions. Neck: Supple. Lymph nodes: No
+cervical, supraclavicular or bilateral axillary
+lymphadenopathy. Heart: Regular rate and rhythm, S1, S2.
+Chest: Clear bilaterally. Abdomen: Rounded, positive bowel
+sounds. Soft, nontender. Midline scar noted. Extremities: No
+lower extremity edema. Skin: Reveals scattered folliculitis
+over the face, chest and legs, superficial, without drainage.
+There is a right ear cystic lesion with a small amount of
+drainage present. Neurologic: Exam nonfocal.
+
+ADMISSION LABS:  WBC 9.5, hemoglobin 12.8, hematocrit 37.7,
+platelet count 249,000. INR 1. BUN 13, creatinine 0.9, sodium
+38, potassium 4.2, chloride 99, CO2 31, glucose 79, ALT 29,
+AST 23, CK 120, total bilirubin 0.4.
+
+HOSPITAL COURSE:  Mr. ___ was admitted and underwent
+attempted central line placement at the bedside by two
+different surgeons who were unable to successfully gain IV
+access. He subsequently went to interventional radiology on
+hospital day #2 to have a central line placed which was
+successful. He began therapy on ___. His admission
+weight was 172 kg. He received interleukin-2 600,000
+international units per kilo based on adjusted ideal body
+weight equaling 74.9 million units IV every 8 hours x14
+potential doses. During this week he received 9 of 14 doses
+with 5 doses held due to fatigue and development of
+Staphylococcus epidermidis bacteremia noted on treatment day
+#5. He has a MRSA-positive nasal swab and was subsequently
+placed on vancomycin once IL-2 therapy began.
+
+On treatment day #3, he was noted to have a fever of 101.4
+and blood cultures were drawn. Two sets were drawn. One set
+revealed no growth. The other set revealed Staphylococcus
+epidermidis bacteremia. This result came back on ___
+and his central line was subsequently removed. His tip was
+sent for culture; also growing Staphylococcus epidermidis. He
+was continued on vancomycin treatments, monitoring trough
+levels closely. Two subsequent blood cultures were drawn and
+were negative. He had no further fevers or rigors. IL-2
+therapy was stopped at that time due to infection. Infectious
+disease consult was obtained and they suggested a 14-day
+course of IV vancomycin and PICC line placement after 48
+hours being afebrile. PICC line was placed on ___ and
+he was sent home on vancomycin 1500 mg b.i.d. to complete a
+14-day course.
+
+Other side effects during this week included rigors improved
+with Demerol; nausea, vomiting improved with antiemetic
+therapy, and development of an erythematous skin rash. During
+this week he developed acute renal failure with a peak
+creatinine of 2.2 improved to 1.7 at the time of discharge.
+He had associated oliguria, but no metabolic acidosis noted.
+He developed transaminitis with a peak ALT of 99 and a peak
+AST of 58, both improved at the time of discharge. He
+developed hyperbilirubinemia with a peak bilirubin of 5.8. He
+was anemic without need for packed red blood cell
+transfusion. He developed thrombocytopenia with a platelet
+count low of 90,000 improved to 131,000 the time of discharge
+without evidence of bleeding. He had no myocarditis or
+coagulopathy noted. By ___ he had recovered from side
+effects and was ready for discharge to home.
+
+CONDITION ON DISCHARGE:  Alert, oriented and ambulatory.
+
+DISCHARGE STATUS:  To home with his father.
+
+DISCHARGE DIAGNOSES:  ___ melanoma status post cycle 2
+week 1 high-dose IL-2 therapy complicated by acute renal
+failure and Staphylococcus epidermidis bacteremia.
+
+DISCHARGE MEDICATIONS:  Lasix 20 mg p.o. daily times 5 days
+or until you reach pretreatment weight; Tylenol ___ mg
+q.i.d. p.r.n. pain; lorazepam 1 mg t.i.d. p.r.n.
+nausea/vomiting; Benadryl ___ mg q.i.d. p.r.n. pruritus;
+Compazine 10 mg q.i.d. p.r.n. nausea/vomiting; Eucerin cream
+topically; Sarna lotion topically; vancomycin 1500 mg IV for
+11 more days.
+
+FOLLOW-UP PLANS:  Mr. ___ have ___ services to
+assist with PICC line care and administration of vancomycin.
+We will not treat him with week 2 of therapy, given his a
+significant complications during week 1 of therapy. He will
+return to clinic in approximately 6 weeks after CT scans to
+assess disease response.
+
+
+
+                        ___, MD ___
+
+Dictated By:  ___, NP
+
+MEDQUIST36
+D:  ___ 12:54:20
+T:  ___ 20:26:43
+___:  ___
+
+cc: ___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10921932-DS-12 | hadm_id=24320218
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chief Complaint: Painful temporal swelling
+
+ 
+Major Surgical or Invasive Procedure:
+Right Temporal Fluid Aspiration
+
+ 
+History of Present Illness:
+___ with hx melanoma w/ mets to R temporal lobe, s/p resection 
+___ w/ Dr. ___ presenting temporal and orbital swelling 
+since ___ and occasional double vision. He continues to 
+complain of surgical site pain requiring
+two tablets of sustained release oxycodone daily. He reports the
+new symptom of double vision developed over the weekend. He 
+reports it being episodic, eliminated by closing either eye, and 
+sometime
+can be overcome by concentrating. He denies HA or neck 
+stiffness. He endorses low grade fevers to 99.9 and chills, but 
+denies n/v, abd pain, SOB, chest pain or any newly infected skin 
+lesions. The patient reports that the cellulitis for which he 
+had been recently admitted is markedly improved.
+
+In the ED, 97.4, 68, 125/84, 16, 98% RA. The patient was noted 
+to have R eyelid droop. No erythema or tenderness to palpation. 
+minimal pain with looking up. No double vision. Area of scarring 
+on R temple swollen and boggy, no erythema or tenderness. 
+Neurosurgery was consulted and tapped fluid collection on 
+lateral head which yielded clear fluid consistent with CSF. CT 
+head showed new foci in brain (? new metastasis). No evidence of 
+infection. LP was attempted but was unsuccessful. Pt received 1L 
+NS for lactate of 2.4.
+
+The patient was admitted for further management. He reports that 
+since the drainage of the fluid collection his eye sight feels 
+improved and he does not have any more double vision.
+
+ 
+Past Medical History:
+Oncology history;
+ONCOLOGIC HISTORY:
+___ of 4.8mm thick ___ level IV melanoma from 
+left
+leg posteriorly.
+-Wide local excision,neg lympadenopathy,no mets-->No adjuvant 
+tr.
+___ of new mass at right deltoid area-->melanoma
+PET/CT: Increased uptake at right deltoid mass, right axilla and
+right back.
+Biopsies from axilla and back are neg.
+___: Resection of 6.5cm SQ mass
+___: Adjuvant interferon therapy 
+___ CT: New 3cm soft tissue mass left side of abdomen
+___ resection of jejunal mass with ___ lymph nodes
+positive
+___: Cycle #1 Week #1 of IL-2 therapy
+___: IL-2 therapy stopped for presumed air embolus
+___: CT Chest: Decrease in size of hepatic lesion. No new
+areas of metastatic disease identified. 
+___, head CT, no significant change, no evidence of
+enhancing intraparenchymal or extraaxial lesion.  If there is a
+strong clinical suspicion for intraparenchymal metastases, an 
+MRI
+with gadolinium is more sensitive for further characterization.
+___, torso CT, previously seen hepatic lesion in segment 
+VI
+of liver is no longer identified, 1.9 x 1.6 omental nodule
+increased in size from previous records (1.3 x 1.2).
+___: Did not complete the second cycle of ___: abdominal metastatectomy at ___
+___ MRI brain shows right temporal lesion
+___ Frontal-temporal Craniotomy for mass resection 
+with partial temporal lobectomy
+___: MRI of head: Status post resection of right temporal 
+lobe lesion. Expected post-surgical changes are identified. No 
+acute infarcts or hydrocephalus. Subtle enhancement of the 
+posterior margins of the surgical cavity noted. 
+
+Other PMH:
+
+1. Melanoma
+2. Folliculitis
+3. Migraine 
+4. Seizure
+
+PSH;
+___: Right Frontal-temporal Craniotomy for mass resection 
+with partial temporal lobectomy
+
+ 
+Social History:
+___
+Family History:
+No history of CAD, HTN, DM or cancer in mother, father or his 
+one younger brother (his only sibling). No other history of 
+cancer in the extended family.
+ 
+Physical Exam:
+Admission Exam:
+VS: 96.1  148/98  60  18  99R
+GEN: AOx3, NAD
+HEENT:  PERRLA. MMM. no LAD. no JVD. neck supple. No cervical, 
+supraclavicular, or axillary LAD. R temple with fluctuant mass. 
+Mild swelling of the R eye lid and resultant droop. No 
+tenderness on palpation. Mild tenderness on outward gaze of R 
+eye. No double vision
+Cards: RR S1/S2 normal. no murmurs/gallops/rubs.
+Pulm: No dullness to percussion, CTAB no crackles or wheezes
+Abd: BS+, soft, NT, no rebound/guarding, no HSM, no ___ 
+sign
+Extremities: wwp, no edema. DPs, PTs 2+.
+Skin: excoriations over RUE, healing. excoriations over R 
+forehead healing, numerous small lesions all appear to be 
+healing
+Neuro: CNs II-XII intact. ___ strength in U/L extremities. DTRs 
+2+ ___. sensation intact to LT, cerebellar fxn intact (FTN, HTS). 
+gait WNL. 
+.  
+Discharge Exam:
+AVSS
+Neuro: CNs II-XII intact. ___ strength in U/L extremities. DTRs 
+2+ ___. sensation intact to LT, cerebellar fxn intact (FTN, HTS). 
+gait WNL. 
+ 
+Pertinent Results:
+___ 03:29PM   PLT COUNT-278
+___ 03:29PM   NEUTS-83.7* LYMPHS-11.5* MONOS-3.6 EOS-0.9 
+BASOS-0.3
+___ 03:29PM   WBC-18.6* RBC-4.14* HGB-12.4* HCT-35.0* 
+MCV-85 MCH-29.9 MCHC-35.4* RDW-14.0
+___ 03:29PM   CALCIUM-9.5 PHOSPHATE-3.9 MAGNESIUM-2.5
+___ 03:29PM   ALT(SGPT)-20 AST(SGOT)-14 ALK PHOS-68 TOT 
+BILI-0.2
+___ 05:50PM   GLUCOSE-99 UREA N-20 CREAT-0.8 SODIUM-140 
+POTASSIUM-4.2 CHLORIDE-106 TOTAL CO2-22 ANION GAP-16
+___ 06:53PM   ___ PTT-26.0 ___
+___ 06:01PM   LACTATE-2.4*
+
+CT head:
+No acute hemorrahge. New rim enhancing foci in the left superior 
+frontal lobe (1.4 x 1.4 cm) and the right medial temporal lobe 
+(1.4 x 1.4 cm) suggest metastatic disease. Small right frontal 
+subdural hygroma w/ slight leftward shift of midline structures 
+similar to prior. Right frontal subgaleal low density fluid 
+collection slightly increased but no associated soft tissue 
+stranding, could represent seroma although infection not 
+excluded. 
+ 
+Brief Hospital Course:
+___ with hx melanoma w/ mets to R temporal lobe, s/p resection 
+___, that presented with CSFoma as evidence by CSF into leak 
+subgaleal tissue and was ruled out for superinfection.
+.
+ACTIVE ISSUES:
+# CSFoma: Pt underwent aspiration while in the ED. Give 
+appearance and cell count on fluid (8WBC and 17RBC). there was 
+initially concern for superinfected due to indolent pathogen in 
+the context of significant immunosuppression on high dose 
+steroids. The pt was started on Vanc/Cefepime. Gram stain was 
+negative. Cx NGTD at time of discharge. Neurosurgery was 
+consulted and agreed with diagnosis of CNSoma and recommended 
+outpatient follow-up. 
+- CSF Cx pending at discharge.
+.  
+# New brain lesions: Likely metastatic melanoma and concerning 
+for worsening metastatic disease; less likely to be infectious. 
+The pt was continued on Dexamethasone and topiramate for HA. 
+Rad-Onc was consulted and recommended holding off currently 
+treatment course.
+- f/u with Rad-Onc as outaptient.
+.
+INACTIVE ISSUES:
+# Seizures: Pt was continued on Keppra
+.
+TRANSITIONAL ISSUES:
+- Pt to be contacted by Dr. ___ for oncological 
+follow-up.
+
+ 
+Medications on Admission:
+dexamethasone 4 mg Tablet BID
+levetiracetam 1000 mg Tablet BID
+lorazepam 1 mg Tablet TID as needed for insomnia 
+oxycodone [OxyContin] 30 mg Tablet Extended Release 12 hr BID
+ranitidine HCl 150 mg Tablet BID
+topiramate 50 mg Tablet BID
+
+ 
+Discharge Medications:
+1. topiramate 25 mg Tablet Sig: Three (3) Tablet PO BID (2 times 
+a day).  
+2. dexamethasone 4 mg Tablet Sig: One (1) Tablet PO Q12H (every 
+12 hours).  
+3. levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day).  
+4. oxycodone 10 mg Tablet Extended Release 12 hr Sig: Three (3) 
+Tablet Extended Release 12 hr PO Q12H (every 12 hours).  
+5. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+- CSFoma (fluid collection)
+Secondary Diagnosis
+- Malignant Melanoma
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with facial pain and swelling. 
+This was found to be a collection of cerebral spinal fluid. You 
+were given antibiotics but it was felt that this collection was 
+not infected. You were evaluated by the Neurosurgery team that 
+agreed with these findings.
+.
+Please continue to take all of your medications. We have made no 
+changes to your regimen.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10921932-DS-8 | hadm_id=24645549
+
+
+
+Name:  ___ No:  ___
+Admission Date: ___
+Discharge Date: ___
+Date of Birth:  ___
+Sex:  M
+Service:  OME
+
+
+HISTORY OF PRESENT ILLNESS:  Mr. ___ is a ___
+male with metastatic melanoma admitted today to begin cycle
+two, week one high-dose IL-2 therapy. His oncologic history
+began in ___ when he underwent resection of what was
+reportedly of 4.8 mm thick, ___ level IV melanoma from
+posterior left leg. He underwent wide local excision and
+sentinel lymph node biopsy. Staging without evidence of
+residual melanoma. He did not receive any adjuvant therapy.
+He did well until ___ when he developed a mass in his right
+deltoid area. Punch biopsy revealed evidence of melanoma. PET
+CT showed uptake in the right deltoid mass potentially in the
+right axilla and right back. Biopsies of the axilla and neck
+done under ultrasound guidance showed no evidence of
+melanoma. He underwent surgical resection of the right
+deltoid mass on ___ revealing a 6.5 cm subcutaneous
+mass resected with clean margins. He began adjuvant
+interferon therapy on ___, completing ___ year of
+therapy in ___. Torso CT on ___ showed a
+new 3.0 cm soft tissue mass in the jejunum with FDG avidity
+on PET. He underwent jejunal resection on ___ by Dr.
+___ at ___ with pathology revealing melanoma of
+the jejunal mass with ___ lymph nodes positive. Follow-up CT
+on ___ revealed a new liver lesion consistent with
+metastatic disease. High-dose IL-2 therapy was discussed and
+he passed eligibility testing to begin cycle one week one on
+___, receiving 10 of ___omplicated
+by neurotoxicity. He received 2 of 14 doses week two due to
+development of probable air embolus in the setting of
+hypoxia, dyspnea and chest pain after his central line
+disconnected. He was transferred to the ICU and treated
+supportively with complete resolution of symptoms. Follow-up
+CT scan shows resolution of the liver lesion and slight
+increase in an omental nodule. He is now being admitted to
+begin cycle two of therapy.
+
+PAST MEDICAL HISTORY:
+1. Melanoma as above.
+2. History of folliculitis.
+3. History of migraine headaches.
+
+ALLERGIES:
+1. Penicillin.
+2. Meperidine.
+
+MEDICATIONS:  Tylenol as needed.
+
+PHYSICAL EXAMINATION:  ___:  Well-appearing male in no
+acute distress. Performance status zero. VITAL SIGNS:  95.8,
+78, 18, 132/81, O2 sat 97% on room air. HEENT:
+Normocephalic, atraumatic. Sclerae anicteric. Moist oral
+mucosa without lesions. NECK:  Supple. LYMPH NODES:  No
+cervical, supraclavicular or bilateral axillary
+lymphadenopathy. HEART:  Regular rate and rhythm, S1-S2.
+CHEST:  Clear bilaterally. ABDOMEN:  Rounded, soft,
+nontender, no masses or HSM. EXTREMITIES:  No lower extremity
+edema. NEUROLOGIC:  Non-focal. SKIN:  Scattered folliculitis.
+Over the left posterior neck, there is a cystic area with
+associated tenderness and purulent drainage with erythema.
+
+ADMISSION LABS:  WBC 6.8, hemoglobin 9.3, hematocrit 27.6,
+platelet count 158,000. Creatinine 0.8, sodium 141, potassium
+3.7, ALT 26, AST 21, LDH 156, total bili 0.5.
+
+HOSPITAL COURSE:  Mr. ___ underwent central line
+placement prior to the left neck cyst being discovered. He
+was initiated on ciprofloxacin and IV vancomycin given
+history of MRSA positive nasal swab. He remained afebrile
+without chills but on hospital day #___rea
+remained tender, although with improved erythema but
+persistent drainage. Surgical consult was obtained from Dr.
+___ possible incision and drainage of the area. IL-2
+remained on hold and he continued on IV vancomycin and
+ciprofloxacin. On hospital day #3, he underwent incision and
+drainage of the left neck cyst with subsequent improvement in
+the appearance of the area. IL-2 was continued on hold with
+plan for discharge to home for neck healing prior to
+beginning cycle two week one of therapy. He remained afebrile
+throughout his stay on Cipro and vancomycin. He was
+discharged home with twice daily dressing changes as well as
+oral Cipro.
+
+CONDITION ON DISCHARGE:  Alert, oriented and ambulatory.
+
+DISCHARGE STATUS:  To home with his family.
+
+DISCHARGE DIAGNOSES:  Metastatic melanoma admitted for high-
+dose IL-2 therapy with therapy held secondary to left neck
+cyst/abscess requiring incision and drainage.
+
+DISCHARGE MEDICATIONS:
+1. Tylenol ___ mg every 6 hours as needed for pain.
+2. Oxycodone ___ mg every 6 hours as needed for pain.
+3. Ciprofloxacin 500 mg by mouth twice daily x 5 days.
+
+Dressing changes to the left neck done daily, wet to dry with
+packing.
+
+FOLLOW-UP PLANS:  Mr. ___ return in ___ weeks
+once his has completely healed to begin cycle two week one
+high-dose IL-2 therapy.
+
+
+
+                        ___, MD ___
+
+Dictated By:  ___, NP
+
+MEDQUIST36
+D:  ___ 17:39:25
+T:  ___ 08:34:04
+___:  ___
+
+cc: ___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10921932-DS-7 | hadm_id=27886992
+
+Name:  ___        ___ No:  ___
+
+Admission Date: ___        Discharge Date: ___
+
+Date of Birth:  ___        Sex:  M
+
+Service:  OME
+
+
+HISTORY OF PRESENT ILLNESS:  Mr. ___ is a ___
+male with a history of metastatic melanoma admitted today to
+begin cycle 1 week two high-dose IL-2 therapy. His oncologic
+history began in ___ when he underwent resection of a was
+reportedly a 4.8-mm thick, ___ level IV melanoma from his
+posterior left leg. He underwent wide local excision and
+sentinel lymph node staging without evidence of residual
+melanoma. He did not receive any adjuvant therapy. He did
+well until ___ when he developed a mass in his right deltoid
+area. Punch biopsy revealed evidence of melanoma. Head CT
+showed uptake in the right deltoid mass potentially in the
+right axilla and right back. Biopsies of the axilla and neck
+done under ultrasound guide showed no evidence of melanoma.
+He underwent surgical resection of the right deltoid mass by
+Dr. ___ on ___. Pathology revealed a 6.5 cm
+subcutaneous mass resected clean margins. He began adjuvant
+interferon therapy on ___, completing ___ year of
+therapy in ___. Torso CT on ___ showed a
+new 3-cm soft tissue mass in the jejunum with FTG avidity a
+PET scan. He underwent jejunal resection on ___ by Dr.
+___ at ___ with pathology revealing melanoma of the
+jejunal mass of ___ lymph nodes positive. Follow-up CT on
+___ revealed new liver lesion consistent with
+metastatic disease. High-dose IL-2 therapy was discussed as
+an option and he passed eligibility testing. He began cycle 1
+week one high-dose IL-2 therapy on ___ receiving 10 of
+___omplicated by neurotoxicity. He is now
+recovered is ready for week two of therapy.
+
+PAST MEDICAL HISTORY:  Melanoma, history of folliculitis,
+migraine headaches.
+
+ALLERGIES:  Penicillin and Demerol causes vomiting.
+
+MEDICATIONS:  Oxycodone ___ mg p.r.n. pain.
+
+PHYSICAL EXAMINATION:  GENERAL:  Well-appearing male in no
+acute distress. Performance status 1. VITAL SIGNS:  96.1, 89,
+18, 141/78, O2 sat 98% on room air. HEENT:  Normocephalic,
+atraumatic without oral lesions. HEART:  Regular rate and
+rhythm. Respirations clear bilaterally. SKIN:  Scattered
+folliculitis.  Neuro exam nonfocal.
+
+ADMISSION LABS:  Admission labs WBC 13.7, hemoglobin 11.8,
+hematocrit 35.3, platelet count 470,000, BUN 16, creatinine
+0.8, sodium 134, potassium 4.5, chloride 101, CO2 29, ALT 31,
+AST 22, LDH 191, albumin 4.0.
+
+HOSPITAL COURSE:  Mr. ___ was admitted and underwent
+central line placement to begin therapy. His central line tip
+removed on ___ grew staph aureus coag positive with
+blood cultures done prior to removal of being negative. In
+addition, his MRSA screen via nasal swab was also negative
+for week one. A repeat nasal swab was sent on admission which
+was positive for MRSA. He has a prior history of MRSA
+colonization and was not felt to be infected.
+
+He underwent central line placement at the bedside to begin
+IL-2 therapy. His admission weight was 170 kg. He received
+interleukin-2 600,000 international units per kilo based on
+adjusted ideal body weight equaling 74.4 million units of IL-
+2 every 8 hours times 14 potential doses. During this week,
+he received two of 14 doses with IL-2 held on treatment day
+#2 due to development of acute hypoxia, shortness of breath
+and diaphoresis at approximately 10:00 a.m.. His third dose
+of IL-2 therapy had been placed on hold due to low urine
+output overnight. At approximately 10:00 a.m., he complained
+of shortness of breath and was found to be diaphoretic with
+oxygen saturations in the mid ___ compared to a prior reading
+of 98% on room air. This occurred in the setting of the
+patient having that not of bed unassisted with his central
+line becoming disconnected with the alligator clamp had
+active bleeding of the central line as an open system. The
+patient was not hypotensive. EKG revealed ___ normal sinus
+rhythm without ischemic changes. Oxygen saturation improved
+on 100% non-rebreather. ICU consult was called and the
+patient was transferred to the ICU for further management and
+workup of questionable air embolus versus pulmonary embolus.
+He underwent CT angio which was negative for pulmonary
+embolus. Echocardiogram was performed and was found to be
+within normal limits without thrombus noted. It was felt to
+the etiology of his hypoxia, dyspnea and chest pain was from
+an air embolus related to central line disconnection. His
+oxygenation status improved over the next ___ hours and he was
+weaned to room air with O2 sats in the high ___. He remained
+in normal sinus rhythm without ectopy or hypotension. He was
+transferred back to the floor on treatment day #3. Further IL-
+2 therapy was held. He was discharged to home on ___.
+
+CONDITION ON DISCHARGE:  Alert, oriented and ambulatory.
+
+DISCHARGE STATUS:  To home with his family.
+
+DISCHARGE DIAGNOSES:  Metastatic melanoma status post
+abbreviated cycle 1 week two of high-dose IL-2 complicated by
+presumed air embolus.
+
+DISCHARGE MEDICATIONS:  Lomotil ___ tablets q.i.d. p.r.n.
+diarrhea, Benadryl ___ mg q.i.d. p.r.n. pruritus, Sarna
+lotion topically p.r.n. pruritus, Eucerin cream topically,
+lorazepam 0.521 mg t.i.d. p.r.n. nausea/vomiting,
+ciprofloxacin 250 mg every 12 hours times 5 days.
+
+FOLLOW-UP PLANS:  Mr. ___ return in 4 weeks for
+CT scans to assess disease response.
+
+
+
+                        ___, ___
+
+Dictated By:  ___, NP
+
+MEDQUIST36
+D:  ___ 18:12:47
+T:  ___ 18:04:47
+___:  ___
+
+cc: ___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10921932-DS-11 | hadm_id=27977506
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cellulitis
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+A ___ male with melanoma with brain metastases s/p Right 
+Frontal-temporal Craniotomy for mass resection with partial 
+temporal lobectomy and IL-2 treatment presented erythema and 
+superficial ulcerations on his right upper arm for the past one 
+week.  One week ago, he initially had erythema and hardness on 
+his right upper arm.  However over the past ___ days, he also 
+had noticed that there were a few blisters on the arm and the 
+blisters broke and had "pus" like discharge.  He also had 
+worsening pain on his right arm.    He denied fever, chill, 
+worsening headache, dizziness.  He also reported that there was 
+a blister in his left groin area that had already spontaneously 
+opened and drained by itself ___ days ago. 
+
+In ED, pt received one dose of vancomycin.
+
+Review of Systems:  
+(+) Per HPI  
+(-) Review of Systems: GEN: No night sweats, recent weight loss 
+or gain. HEENT: No sinus tenderness or congestion. CV: No chest 
+pain or tightness, palpitations. PULM: No cough, shortness of 
+breath, or wheezing. GI: No diarrhea, constipation or abdominal 
+pain. No recent change in bowel habits, no hematochezia or 
+melena. GUI: No dysuria or change in bladder habits. MSK:  No 
+arthritis, arthralgias, or myalgias. DERM: No rashes or 
+worstening skin breakdown. NEURO: No numbness/tingling in 
+extremities. PSYCH: No feelings of depression or anxiety. All 
+other review of systems negative.
+
+ 
+Past Medical History:
+Oncology history;
+ONCOLOGIC HISTORY:
+___ of 4.8mm thick ___ level IV melanoma from 
+left
+leg posteriorly.
+-Wide local excision,neg lympadenopathy,no mets-->No adjuvant 
+tr.
+___ of new mass at right deltoid area-->melanoma
+PET/CT: Increased uptake at right deltoid mass, right axilla and
+right back.
+Biopsies from axilla and back are neg.
+___: Resection of 6.5cm SQ mass
+___: Adjuvant interferon therapy 
+___ CT: New 3cm soft tissue mass left side of abdomen
+___ resection of jejunal mass with ___ lymph nodes
+positive
+___: Cycle #1 Week #1 of IL-2 therapy
+___: IL-2 therapy stopped for presumed air embolus
+___: CT Chest: Decrease in size of hepatic lesion. No new
+areas of metastatic disease identified. 
+___, head CT, no significant change, no evidence of
+enhancing intraparenchymal or extraaxial lesion.  If there is a
+strong clinical suspicion for intraparenchymal metastases, an 
+MRI
+with gadolinium is more sensitive for further characterization.
+___, torso CT, previously seen hepatic lesion in segment 
+VI
+of liver is no longer identified, 1.9 x 1.6 omental nodule
+increased in size from previous records (1.3 x 1.2).
+___: Did not complete the second cycle of ___: abdominal metastatectomy at ___
+___ MRI brain shows right temporal lesion
+___ Frontal-temporal Craniotomy for mass resection 
+with partial temporal lobectomy
+___: MRI of head: Status post resection of right temporal 
+lobe lesion. Expected post-surgical changes are identified. No 
+acute infarcts or hydrocephalus. Subtle enhancement of the 
+posterior margins of the surgical cavity noted. 
+
+Other PMH:
+
+1. Melanoma
+2. Folliculitis
+3. Migraine 
+4. Seizure
+
+PSH;
+___: Right Frontal-temporal Craniotomy for mass resection 
+with partial temporal lobectomy
+
+ 
+Social History:
+___
+Family History:
+No history of CAD, HTN, DM or cancer in mother, father or his 
+one younger brother (his only sibling). No other history of 
+cancer in the extended family.
+ 
+Physical Exam:
+VITAL SIGNS:  97.6 67 139/85 18 100% 
+HEENT: Anicteric sclerae, MMM, oropharynx without erythema, oral
+ulcerative lesions, or thrush. Neck supple without adenopathy. 
+RESPIRATORY: B/L breath sounds were clear, no crackles and 
+wheezes, Normal respiratory effort. 
+HEART: RRR, normal S1,S2, no murmurs, rubs, or gallops. 
+ABDOMEN: Soft, No tenderness, no rigidity or rebound, 
+nondistended, +BS throughout, no hepatosplenomegaly appreciated. 
+
+SKIN: There was one area (5X6 cm) with erythema and hardness on 
+his right upper arm with tenderness.
+EXTREMITIES: Without edema, warm and well perfused. 
+NEURO EXAM: Grossly normal.
+
+ 
+Pertinent Results:
+___ 04:42PM   LACTATE-1.5
+___ 04:20PM   GLUCOSE-97 UREA N-13 CREAT-0.8 SODIUM-140 
+POTASSIUM-4.1 CHLORIDE-100 TOTAL CO2-31 ANION GAP-13
+___ 04:20PM   WBC-17.1* RBC-3.74* HGB-11.1* HCT-33.0* 
+MCV-88 MCH-29.8 MCHC-33.8 RDW-14.4
+___ 04:20PM   NEUTS-88.2* LYMPHS-8.3* MONOS-2.9 EOS-0.4 
+BASOS-0.2
+___ 04:20PM   PLT COUNT-219
+.
+___ CT of head w/o contrast:IMPRESSION: No acute intracranial 
+process. Post-surgical changes in the right temporal lobe with 
+fluid adjacent to the craniotomy site. MRI is more sensitive to 
+evaluate for possible infection. 
+.
+___ CXR: FINDINGS: PA and lateral views of the chest are 
+obtained demonstrating clear lungs bilaterally and no signs of 
+pneumonia or CHF. No pleural effusion or pneumothorax. 
+Cardiomediastinal silhouette is normal. Bony structures are 
+intact. No free air below the hemidiaphragm is seen. 
+
+ 
+Brief Hospital Course:
+Assessment/Plan: The patient is a MRSA colonized ___ 
+male with metastatic melanoma s/p right parietal resection of 
+brain met on ___ immunosuppressed on steroids admitted with 
+right upper extremity cellulitis. 
+.
+#Cellulitis: He was treated with IV vancomycin for ~ 60 hours 
+until blood cultures obtained on admission remained negative for 
+48 hours. His cellulitis improved on vancomycin and the patient 
+had no signs of systemic infection. After discussion with  Dr. 
+___ was changed to doxycycline 100 mg BID for 10 days 
+and with outpatient follow up in one week. Dr. ___ will 
+follow up final blood cultures. Because the patient was observed 
+to compulsively pick at his skin, including his open cellulitis 
+wound, he was seen in consultation with the psychiatry service. 
+The consult judgeed the patient safe for discharge and 
+recommended considering liberalizing his use of ativan if it 
+helped with the patient's low level anxiety. The recommendation 
+was conveyed to the patient's primary oncologist and deferred to 
+outpatient management. The patient was seen in consultation with 
+the wound consult team whose recommendations were instituted for 
+his multiple skin lesions. 
+.
+# Pain at site of cellulitis:
+- continued oxycodone. 
+.
+#Leukocytosis: Resolved, Due to both cellulitis and 
+demargination due to his ongoing steroids. Discharged on  
+doxycycline 100 mg BID for 10 days 
+.
+#Anemia: normochromic, normocytic, slightly below his base line 
+(36-39%). Remained stable and followed daily. 
+.
+# Melanoma: The patient was receiving no active systemic 
+cytotoxic or biologic treatment currently as he was still 
+recovering from his recent craniotomy. He was seen by neurosurg 
+in the ER without findings of infection at his operative site.
+- continued steroids
+- continue dantiseizure meds
+- discussed with Dr. ___ onc) and with Dr ___ 
+___ onc)
+.
+FEN: oral
+.
+DVT PPx: ambulation and pneumoboots
+.
+Precautions for: MRSA
+.
+Lines: peripheral
+.
+CODE: FULL.
+
+ 
+Medications on Admission:
+1. oxycodone 30 mg Q 4hrs PRN pain
+2. levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).
+3. ranitidine HCl 150 mg Tablet Sig: 0.5 Tablet PO BID (2 times 
+a day).
+4.  dexamethasone 2 mg Tablet Sig: One (1) Tablet PO Q12H (every 
+
+12 hours).
+
+ 
+Discharge Medications:
+1. dexamethasone 2 mg Tablet Sig: One (1) Tablet PO Q12H (every 
+12 hours).  
+2. levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+3. oxycodone 15 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 
+hours) as needed for pain.  
+4. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+5. doxycycline hyclate 100 mg Tablet Sig: One (1) Tablet PO 
+twice a day for 10 days.
+Disp:*20 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Metastatic melanoma
+Folliculitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with a skin infection of your right upper arm 
+that required IV antibiotics. Your infection has improved and 
+blood cultures drawn at the time of your admission are negative 
+so far. As a result, your antibiotics will be changed to 
+medicine that you can take by mouth. You should take a full 10 
+days of antibiotics after you go home. You should follow up the 
+final results of your blood cultures with Dr. ___ you 
+see him next week. It is important that you DO NOT pick or 
+squeeze the infected areas on your skin. You should change the 
+dressing on your right arm once a day  using the following 
+steps:
+ 1. Commercial wound cleanser to irrigate/cleanse all open 
+wounds.
+ 2. Pat the tissue dry with dry gauze.
+ 3. Cover with dry gauze
+ 4. Secure with tubular netting or kerlix
+ 5. Change dressing daily
+.
+You should dress the other lesions on your left upper arm and 
+shoulder as follows:
+ 1. cleanse with normal saline or commercial clearner
+ 2. pat dry.  
+ 3. Apply Bactroban ointment dry gauze and secure with
+tubular netting, change daily.
+.
+The following changes have been made to your medications:
+START doxycyline 100 mg BID
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10921932-DS-10 | hadm_id=29355773
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+seizures
+ 
+Major Surgical or Invasive Procedure:
+___: Right Frontal-temporal Craniotomy for mass resection 
+with partial temporal lobectomy
+
+ 
+History of Present Illness:
+___ gentleman with a history of metastatic melanoma 
+since ___, now with likely brain metastasis. He is s/p 
+chemotherapy and excisions of previous lesions. Since ___, 
+he is subject to complex stereotyped spells, with
+the feeling of his stomach raising, goosebumps developing on his 
+skin, experiencing the sensation of foul smell, nausea, and then 
+finally he develops a sharp headache. This happens from ___ 
+times per week to ___ timesd per day. It lasts for a few 
+seconds, and the headache lasts for 15 minutes.
+ 
+Past Medical History:
+1. Melanoma
+2. Folliculitis
+
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+On Admission:
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils:  ___       EOMs full
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3to2
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch bilaterally.
+
+On Discharge: intacted and stable
+ 
+Pertinent Results:
+preop MRI Brain ___ with and without contrast: Stable 3.7 cm 
+right medial temporal lobe mass with heterogeneous enhancement. 
+Given the well circumscribed appearance and history of 
+underlying malignancy metastatic etiology is most likely, and 
+primary glioma is a secondary consideration. 
+
+CT head noncontrast ___ postop: postop changes, Right 
+temporal lobe hypodensity, which likely represents 
+post-operative edema. Minimal pneumocephalus.
+
+MRI Brain with and without contrast postop ___: Status post 
+resection of right temporal lobe lesion. Expected post-surgical 
+changes are identified. No acute infarcts or hydrocephalus.  
+Subtle enhancement of the posterior margins of the surgical 
+cavity.
+
+ 
+Brief Hospital Course:
+Elective admit for right frontal-temporal craniotomy with mass 
+resection and partial temporal lobectomy on ___.  
+Postoperatively the patient was extubated and transferred to the 
+ICU for Q1 hour neuro checks and SBP control less than 140.  POD 
+1 he was transferred to the regular floor.  Postoperatively he 
+did well and remained neurologically intact.  Radiation Oncology 
+and Neuro-oncology were consulted while he was inhouse and 
+outpatient followup was scheduled.  He was fully ambulatory and 
+independent.  At the time of discharge on POD2 he was tolerating 
+a regular diet, ambulating without difficulty, afebrile with 
+stable vital signs.
+ 
+Medications on Admission:
+Dexamethasone 4mg BID, Keppra 50omg BID, oxycodone PRN
+ 
+Discharge Medications:
+1. oxycodone 5 mg Tablet Sig: ___ Tablets PO every four (4) 
+hours as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+2. acetaminophen 325 mg Tablet Sig: ___ Tablets PO every six (6) 
+hours as needed for pain.  
+3. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+4. senna 8.6 mg Tablet Sig: ___ Tablets PO DAILY (Daily) as 
+needed for constipation.  
+5. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+6. levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+7. ranitidine HCl 150 mg Tablet Sig: 0.5 Tablet PO BID (2 times 
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+8. dexamethasone 2 mg Tablet Sig: One (1) Tablet PO Q12H (every 
+12 hours).
+Disp:*60 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Right temporal mass
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+General Instructions
+
+•Have a friend/family member check your incision daily for 
+signs of infection.
+•Take your pain medicine as prescribed.
+•Exercise should be limited to walking; no lifting, straining, 
+or excessive bending.
+•You may wash your hair only after 10 days. Your wound closure 
+uses dissolvable sutures, you must keep that area dry for 10 
+days. 
+•You may shower before this time using a shower cap to cover 
+your head.
+•Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+•Unless directed by your doctor, do not take any 
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and 
+Ibuprofen etc. 
+•If you were on a medication such as Coumadin (Warfarin), or 
+Plavix (clopidogrel), or Aspirin, prior to your injury, do not 
+resume taking these until cleared by your surgeon.
+•Clearance to drive and return to work will be addressed at 
+your post-operative office visit.
+•Make sure to continue to use your incentive spirometer while 
+at home, unless you have been instructed not to. 
+
+ 
+Followup Instructions:
+___

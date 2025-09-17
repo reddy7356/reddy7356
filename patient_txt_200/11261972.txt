@@ -1,0 +1,308 @@
+===== DISCHARGE NOTE =====
+note_id=11261972-DS-18 | hadm_id=24408652
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+weight loss, diarrhea  
+ 
+Major Surgical or Invasive Procedure:
+___ ultrasound-guided core-needle biopsy of right adrenal 
+mass
+ 
+History of Present Illness:
+___ year old man with refractory hypertension presents with 
+weight loss, diarrhea, and abdominal discomfort after eating. He 
+initially presented to ___ where a CT 
+abdomen showed a large soft tissue mass in the right suprarenal 
+space, suspicious for an adrenal tumor. Additionally, there is 
+concern for an IVC thrombus and possible pulmonary and hepatic 
+metastases. He was subsequently transferred to ___ for further 
+management and workup.  
+
+His symptoms began approximately 2 months prior to admission. He 
+has lost weight unintentionally (154 lb -> 141 lb), persistent 
+diarrhea, and right sided abdominal pain after eating. He has 
+fatigue, nausea and recently developed bilateral lower extremity 
+edema. He thinks his symptoms are due to the many new blood 
+pressure medications his PCP ___.  
+
+In the ED, initial VS were: 97.8 80 124/76 16 98% RA. Labs 
+notable for Na 130, BUN 76, Cr 1.7, HCO3 19, ALT 45, AP 161, 
+Tbili 1.6, Alb 3.6, AST 127, INR 1.3. He was started on a 
+heparin drip. Vitals prior to admission: 97.0 96 18 116/74 98% 
+RA.  
+
+On arrival to the floor, the patient is tired. He does not know 
+any of his medications. Denies pain currently.  
+ 
+REVIEW OF SYSTEMS:  
+Denies fever, chills, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, chest pain, 
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.  
+ 
+Past Medical History:
+Hypertension  
+Right hip replacement ___  
+ 
+Social History:
+___
+Family History:
+Extensive family history of cancer, although patient does not 
+know which types. Mother, 2 sisters, father and grandmother all 
+with cancer.  
+ 
+Physical Exam:
+ADMISSION EXAM
+VITALS: 98.1 F 127/72 78 98% RA  
+___: NAD, cachectic, weak appearing  
+HEENT: PERRL, EOMI, MMM  
+NECK: no carotid buits, no cervical LAD  
+LUNGS: CTAB, no W/R/R  
+HEART: RRR, normal S1 S2, no MRG  
+ABDOMEN: Soft, NT, NABS, no organomegaly, occasional voluntary 
+guarding but no pain  
+EXTREMITIES: 1+ pitting ___ edema bilaterally, warm/well perfused 
+ 
+NEUROLOGIC: A+OX3, normal mentation, ___ strength throughout, 
+sensation intact  
+
+DISCHARGE EXAM
+VS: not checking vital signs
+___: NAD, cachectic, comfortable-appearing
+SKIN: Stage II skin abrasion on right flank
+GU: Scrotum very swollen, edematous
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 11:45PM BLOOD WBC-6.8 RBC-5.58 Hgb-18.5* Hct-56.4* 
+MCV-101* MCH-33.1* MCHC-32.8 RDW-15.0 Plt Ct-98*
+___ 11:45PM BLOOD Neuts-69.6 ___ Monos-7.6 Eos-2.3 
+Baso-1.8
+___ 11:45PM BLOOD ___ PTT-87.3* ___
+___ 11:45PM BLOOD Glucose-153* UreaN-76* Creat-1.7* Na-130* 
+K-4.8 Cl-98 HCO3-19* AnGap-18
+___ 11:45PM BLOOD ALT-45* AST-127* AlkPhos-161* 
+TotBili-1.6*
+___ 07:00AM BLOOD Albumin-3.5 Calcium-8.9 Phos-4.1 Mg-2.4 
+UricAcd-14.3*
+___ 07:00AM BLOOD Cortsol-23.8*
+___ 11:45PM BLOOD DHEA-SO-30
+___ 04:43 ERYTHROPOIETIN  18.7  H (2.6-18.5 mIU/mL)
+___ 07:25AM URINE Color-Yellow Appear-Clear Sp ___
+___ 07:25AM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+___ 07:25AM URINE RBC-<1 WBC-1 Bacteri-FEW Yeast-NONE Epi-0 
+TransE-<1
+___ 07:25AM URINE Hours-RANDOM UreaN-1072 Creat-118 Na-20 
+K-58 Cl-22
+
+====================
+
+___ 10:06AM  CT ABD & PELVIS W/O CONTRAST 
+1.  8-cm mass in the mid-to-upper pole of the right kidney, 
+which likely infiltrates the right adrenal gland.  There is a 
+concern for tumor thrombus extending to the right renal vein and 
+into the IVC as the IVC is dilated in the intrahepatic segment.  
+
+2. Ascites surrounding the liver and in the pelvis.  
+3. Enlarged retroperitoneal lymph node at the level of the 
+celiac axis.
+4.  Multiple small lung nodules concerning for metastatic 
+disease.
+5.  Two liver lesions concerning for metastases.
+
+====================
+
+MRI ABDOMEN W/O & W/CONTRAST ___ 11:00 AM
+1.  13-cm right retroperitoneal mass, likely arising from the 
+adrenal, and may
+reflect adrenocorticocarcinoma. Tumor thrombus involves the 
+right renal vein
+and IVC to the level of the inferior cavoatrial junction.  
+Recommend
+additional MR imaging or echocardiogram to evaluate thrombus 
+burden in the
+right atrium. 
+2.  Bland nonocclusive thrombus in the right anterior portal 
+vein.    
+3.  Volume overload with ascites, pleural effusions, and 
+anasarca.
+4.  Cirrhosis and portal hypertension.  Primary hemochromatosis. 
+
+Indeterminate liver lesions, for which the differential includes 
+metastases,
+can be better evaluated by dedicated multiphase liver CT or MR.
+5.  Cholelithiasis.
+
+====================
+
+___ ultrasound-guided core-needle biopsy of right adrenal 
+mass
+Poorly differentiated carcinoma.  See note.
+Note:  The tumor cells stain positive for MNF116, Keratin 
+cocktail (AE1/AE3); CAM5.2), CA9 and very focally CK7.  CK20, 
+P63, CK903, MART1, inhibin, synaptophysin, chromogranin,TTF-1, 
+HMB45, S-100, PAX-2, p504s, and p63 are negative. CD99 is 
+positive but the marked keratin staining present would be 
+unusual for PNET/Ewing's.  Given the immunohistochemical profile 
+and the clinical situation, a poorly differentiated renal cell 
+carcinoma seems to be the most likely diagnosis, although other 
+possibilities cannot be entirely excluded.
+ADDENDUM: 
+New radiological imaging suggested that the tumor origin was not 
+kidney:" 13-cm right retroperitoneal mass, likely arising form 
+the adrenal, and may reflect adrenocorticocarcinoma.  Tumor 
+thrombus involves the right renal vein and IVC".  Given this 
+information, the differential diagnosis of this tumor becomes 
+uncertain, i.e. the immunophenotype is not that of the typical 
+adrenal carcinoma and renal origin becomes unlikely.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ gentleman with extensive family history 
+of cancer, as well as recent refractory hypertension, who 
+presented with weight loss and diarrhea.  He was diagnosed with 
+C. difficile colitis and was started on Metronidazole.  Imaging 
+revealed that he had an adrenal mass and IVC thrombus for which 
+he was started on a Heparin drip.
+
+Workup included CT and MRI imaging, as well as ultrasound-guided 
+core-needle biopsy of right adrenal mass.  He was diagnosed with 
+metastatic adrenocortical carcinoma with liver & lung 
+metastases.  
+
+Per Oncology note: "His case was discussed at the ___ GU 
+multidisciplinary conference, where his pathology, imaging, and 
+clinical status were reviewed with urology, pathology, 
+radiology, and medical oncology all in attendance.  The primary 
+mass...arises from the right adrenal gland...The carcinoma is 
+poorly differentiated and definitely would not be a clear cell 
+carcinoma even in the small likelihood that it were an RCC, 
+thereby making it a suboptimal candidate for most standard RCC 
+therapies.  Furthermore, it invades the liver and IVC, making 
+any potential surgical option a highly morbid procedure, with 
+anticipated need for partial liver resection (given liver 
+invasion), IVCectomy (given IVC invasion in addition to tumor 
+thrombus), and cardiac bypass (given the proximity of the 
+thrombus to his heart).  The consensus was that he is not an 
+appropriate candidate for surgery...We had a family meeting 
+___ options we discussed included palliative 
+therapy with mitotane, which would have no chance of cure and a 
+small chance of providing symptomatic relief and meaningful 
+benefit given the extent of his disease, home hospice, and 
+inpatient hospice.  We expressed our regret that we did not have 
+better antineoplastic options to offer to him.  He expressed 
+that his wishes are to go home if possible and to enjoy the best 
+quality of life possible in his remaining time."
+
+Patient is DNR/DNI with goals of care focusing on comfort and 
+symptom management (CMO).  Heparin drip has been stopped, 
+antihypertensives stopped, and 10-day course of Metronidazole 
+will be continued for comfort (___).  He is being 
+discharged to hospice care.
+
+Symptoms to monitor:
+-Numbness along the lateral part of his right thigh. 
+-Pain in right abdomen, reasonably controlled on Oxycodone 
+Please continue to monitor pain.
+-Occasional nausea.
+-Stage II skin abrasion on right flank.
+-Scrotal swelling (likely from IVC thrombus), with urine 
+dribbling and difficulty manipulating his penis to urinate. He 
+was offered foley for comfort but declined on the day of 
+discharge. Please offer again upon arrival to hospice.
+ 
+Medications on Admission:
+Preadmissions medications listed are incomplete and require 
+futher investigation.  Information was obtained from Patient.
+1. Hydrochlorothiazide 25 mg PO DAILY 
+2. Amlodipine 10 mg PO DAILY 
+please hold for HR <60, SBP <90 
+3. Lisinopril Dose is Unknown  PO DAILY 
+___ mg at home, unknown dose. 
+4. Diltiazem 120 mg PO QID 
+please hold for SBP <90, HR <60 
+5. Furosemide 40 mg PO DAILY 
+6. Metoprolol Succinate XL 25 mg PO DAILY 
+please hold for SBP <90, HR <60 
+7. Benicar HCT *NF* (olmesartan-hydrochlorothiazide) ___ mg 
+Oral QD 
+
+ 
+Discharge Medications:
+1. MetRONIDAZOLE (FLagyl) 500 mg PO Q8H Duration: 2 Days 
+through ___ (which completes a 10 day course of antibiotics 
+for C.difficile colitis) 
+2. Acetaminophen 325-650 mg PO Q6H:PRN pain or fever 
+3. Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN 
+stomach upset 
+4. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+Please alternate w/ acetaminophen dosing. thanks 
+5. traZODONE 50 mg PO HS:PRN insomnia 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY
+metastatic adrenocortical carcinoma with liver and lung 
+metastases
+inferior vena cava thrombus
+C.difficile colitis
+
+SECONDARY
+hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+Thank you for choosing your care at the ___ 
+___. You presented with weight loss and diarrhea.  
+The diarrhea was due to a bacteria called C.difficile, for which 
+you will complete a 10 day course of antibiotics.  You were 
+found to have an adrenal cancer with liver and lung metastases 
+as well as a clot in one of the gut veins.  You discussed your 
+options with Oncology, Urology, and the medical team and you 
+decided to be discharged to hospice.  Your care will be focused 
+on symptom control. 
+
+You are being discharged on Oxycodone as needed for pain, as 
+well as a couple of days of an antibiotic to complete a full 
+course for your infectious diarrhea.
+
+We made the following changes to your medications:
+-Please stop all medications received prior to this 
+hospitalization.  The hospice providers ___ give you 
+medications as needed for your symptoms such as pain and nausea.
+-START Tylenol and Oxycodone as needed for pain
+-START Maalox as needed for heartburn
+-START Trazodone as needed for insomnia
+-START Metronidazole (through ___, which will complete a 10 day 
+course of antibiotics for C.difficile diarrhea)
+ 
+Followup Instructions:
+___

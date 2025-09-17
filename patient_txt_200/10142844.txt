@@ -1,0 +1,927 @@
+===== DISCHARGE NOTE =====
+note_id=10142844-DS-23 | hadm_id=22340248
+
+ 
+Name:  ___.             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+syncope, respiratory failure
+ 
+Major Surgical or Invasive Procedure:
+Intubation ___
+Extubation ___
+ 
+History of Present Illness:
+  ___ with history of cluster headaches, anxiety, EtOH use 
+disorder, depression and syncopal episode in ___ who was 
+brought to ___ ED by EMS after a witnessed syncopal episode 
+with headstrike, with progressive AMS and hypoxia requiring 
+intubation in the ED, admitted to ICU for syncope and hypoxia 
+workup.
+
+On the day prior to admission ___ he was sitting on a bench and 
+was witnessed by friends to fall, landing on his face, without 
+appreciable seizure-like activities or shaking afterwards. This 
+was in the setting of drinking 5 beers.  He was somewhat 
+confused after the event and there is a report of 5 minute LOC 
+and ENS bag-mask ventilation. He was afebrile, tachycardic to 
+120, BP 160/96 in the field with FSG 135. He was transferred to 
+___ ED. 
+
+In ED initial VS: 97.1 | 120 | 134/88 | 18 | 95% RA  
+He was alert and oriented x3 but was perseverating. he denied 
+any chest pain, shortness of breath, abdominal pain, cough, 
+fever, chills, nausea or vomiting. Denies any other illness 
+prior to this episode. No history of seizures though has had 
+syncope in ___ with facial fracture, and has had head trauma 
+d/t falls and assault in the past. 
+
+Exam:  His exam was notable to A&Ox4, NAD but pale and 
+diaphoretic. Abrasions were noted over right supraorbital 
+region. No other signs of external trauma. He was moving all 
+extremities. 
+
+Given initial normal labs and imaging, including CTA chest and 
+CXR, he was enrolled into the syncope pathway and was to be in 
+ED-obs overnight for echocardiogram in AM to complete syncope 
+workup.  
+
+In the ED he was noted to have some transient episodes of 
+hypoxia to 80-85% on RA which initially improved with ___ NC. 
+At 0230, he was noted to have progressive worsening hypoxia, 
+"then sudden change in mental status and apnea requiring 
+intubation," with fent/versed for sedation. At the time he 
+seemed to have some right gaze deviation, LLE twitching and 
+right hand clenching.
+ 
+Labs significant for:  
+- initial WBC 10.5 | H/H 16.0/46.5 | 277
+- Na 142 | K 4.8 | Cl 102 | Bicarb 22 | BUN 13 | Cr 1.3 | Glu 
+136
+- proBNP 8
+- ALT 20 | AST 19 | AP 72 | Lip 58 | Tbil 0.2 | Alb 4.9
+- EtOH serum 102, APAP/benzo/barb/tricyc neg
+
+Patient was given:  1L NS initially, then for sedation 2mg 
+lorazepam, IV gtt midazolam/fentanyl.
+
+Imaging notable for:  
+___ CXR: FINDINGS: AP upright and lateral views of the chest 
+provided.  Mild left basal atelectasis is noted. There is no 
+focal consolidation, effusion, or pneumothorax. The 
+cardiomediastinal silhouette is normal. Imaged osseous 
+structures are intact.  No free air below the right 
+hemidiaphragm is seen.   
+IMPRESSION: No acute intrathoracic process. 
+
+___  CT-PE IMPRESSION:   
+1. No evidence of pulmonary embolism or acute aortic 
+abnormality. 
+2. Mild bronchial wall thickening suggestive of airway 
+inflammation. 
+
+___ CT HEAD IMPRESSION:  No acute intracranial process. 
+
+Consults: Neurology was consulted for possible seizure and 
+recommended admission to MICU, r/o cardiac and metabolic cause, 
+and cvEEG.
+ 
+VS prior to transfer:  89 | 104/70 | 16 | 99% intubated.
+
+On arrival to the MICU, he was intubated and minimally able to 
+respond to questions though he seemed to deny any similar 
+events, and any current pain or nausea.
+
+REVIEW OF SYSTEMS:  Pt intubated, sedated, unable to provide
+
+ 
+Past Medical History:
+- Depression  
+- Migraine  
+- Syncope ___ attributed to History of orthostasis coupled with 
+alcohol consumption (at that time, ETOH level of 269)  
+- bifrontal SDHs in ___  
+- h/o alcoholism  
+- s/p repair of orbital floor fractures  
+- s/p fractures left ulna with pinning  
+- right talus fracture ___  
+ 
+Social History:
+___
+Family History:
+ - heart disease
+ - father: CAD in ___ (smoker)
+ - mother: smoker, died in a fire at ___, ?MI
+ - brother: CAD early ___ (drinking, smoking); bipolar 
+depression
+ - ___: MI in ___
+ - no DM
+ - no cancer
+Has had 5 family members die at young age (___) of "heart  
+attacks" or "heart failure".
+ 
+Physical Exam:
+ADMISSION LABS
+==============
+VITALS: 89 | 104/70 | 16 | 99% RA 
+GENERAL: Intubated, rouses easily to voice, tracks, follows 
+commands, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, JVP not elevated
+LUNGS: Clear to auscultation bilaterally on lateral fields w/o 
+wheezes, rales, rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: No mottling. 1-2cm abrasion above right orbit and on left 
+knee.
+NEURO: intubated, RAS -1, follows ___ step commands. Pupils 
+equal and reactive, EOMI, strength ___ dorsal/plantarflexion but 
+possible 3+ left thigh extension (vs. poor 
+attention/participation). Reflexes symmetric and not appreciably 
+abnormal, possible 1 beat clonus.
+  
+
+DISCHARGE EXAM
+==============
+VS: Tmax 100.1 Tc 99 86 137/75 23 96% 3L NC
+I/Os: +2869 24H, LOS +3L
+Awake, alert, NAD
+RRR no MRG
+CTAB, NLB on RA
+Abd soft, NT
+A&O, SILT, MAE
+WWP, no edema
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 08:07PM BLOOD WBC-10.5* RBC-4.94 Hgb-16.0 Hct-46.5 
+MCV-94 MCH-32.4* MCHC-34.4 RDW-13.3 RDWSD-45.7 Plt ___
+___ 08:07PM BLOOD Neuts-65.7 ___ Monos-8.7 Eos-0.5* 
+Baso-0.7 Im ___ AbsNeut-6.89* AbsLymp-2.48 AbsMono-0.91* 
+AbsEos-0.05 AbsBaso-0.07
+___ 08:07PM BLOOD ___ PTT-29.2 ___
+___ 08:07PM BLOOD Glucose-136* UreaN-13 Creat-1.3* Na-142 
+K-4.8 Cl-102 HCO3-22 AnGap-18*
+___ 08:07PM BLOOD ALT-20 AST-19 AlkPhos-72 TotBili-0.2
+___ 08:07PM BLOOD Albumin-4.9 Calcium-9.4 Phos-6.6* Mg-2.2
+___ 08:07PM BLOOD ___ Acetmnp-NEG Bnzodzp-NEG 
+Barbitr-NEG Tricycl-NEG
+
+INTERVAL & DISCHARGE LABS
+==========================
+___ 02:28AM BLOOD Type-ART FiO2-100 pO2-328* pCO2-58* 
+pH-7.22* calTCO2-25 Base XS--4 AADO2-329 REQ O2-60 
+Intubat-INTUBATED Vent-CONTROLLED
+___ 04:10AM BLOOD WBC-10.6* RBC-4.05* Hgb-13.0* Hct-38.2* 
+MCV-94 MCH-32.1* MCHC-34.0 RDW-13.2 RDWSD-45.8 Plt ___
+___ 04:10AM BLOOD Glucose-108* UreaN-10 Creat-0.8 Na-137 
+K-3.9 Cl-98 HCO3-26 AnGap-13
+___ 08:07PM BLOOD cTropnT-<0.01 proBNP-8
+___ 01:46AM BLOOD cTropnT-<0.01
+
+STUDIES
+=======
+___ CXR IMPRESSION: No acute intrathoracic process. 
+  
+___ CTA CHEST IMPRESSION:  
+1. No evidence of pulmonary embolism or acute aortic 
+abnormality. 
+2. Mild bronchial wall thickening suggestive of airway 
+inflammation. 
+
+___ CT HEAD w/o CONTRAST IMPRESSION: No acute intracranial 
+process. 
+
+___ ECHOCARDIOGRAM Conclusions: The left atrium is normal in 
+size. Left ventricular wall thicknesses are normal. The left 
+ventricular cavity size is normal. Due to suboptimal technical 
+quality, a focal wall motion abnormality cannot be fully 
+excluded. Left ventricular systolic function is hyperdynamic (EF 
+= 75%). The right ventricular free wall thickness is normal. 
+Right ventricular chamber size is normal with borderline normal 
+free wall function. The aortic root is mildly dilated at the 
+sinus level. The aortic arch is mildly dilated. The number of 
+aortic valve leaflets cannot be determined. There is no aortic 
+valve stenosis. Trace aortic regurgitation is seen. The mitral 
+valve leaflets are mildly thickened. There is systolic anterior 
+motion of the mitral valve leaflets. Mild (1+) mitral 
+regurgitation is seen. The estimated pulmonary artery systolic 
+pressure is normal. There is no pericardial effusion. 
+  Compared with the prior study (images reviewed) of ___, 
+the left ventricle is now hyperdynamic with mitral valvular (and 
+chordal) systolic anterior motion but no manifest resting left 
+ventricular outflow tract obstruction.   
+
+ 
+Brief Hospital Course:
+___ with history of migraines/cluster HA, anxiety, EtOH use 
+disorder, depression and syncopal episode in ___ who was 
+brought to ___ ED by EMS after a witnessed syncopal episode 
+with headstrike, with progressive AMS and hypoxia requiring 
+intubation in the ED, admitted to ICU for syncope and hypoxia 
+workup, no evidence of arrhythmia, LV dysfunction, valvular 
+disease, further seizure activity on EEG. Patient was loaded 
+with phenobarbital and extubated. He chose to leave against 
+medical advice and demonstrated capacity to make this decision. 
+
+#POSSIBLE SEIZURES
+#EtOH USE DISORDER
+Witnessed syncope in the setting of drinking, with no obvious 
+seizure activity until possible clenching/gaze deviation the ED. 
+No known history of withdrawal seizures. Blood tox screen 
+negative except for EtOH; Utox only with benzo. Neg PE, neg trop 
+x2, neg CT head, TTE without obvious abnormality. Does have 
+history of head trauma more likely. Has syncopized in ___ (also 
+in setting of drinking)for which he was admitted to cardiology 
+here with negative extensive workup for malignant arrhythmia, 
+coronary pathology, or other etiology. On buproprion and 
+paroxetine can lower seizure threshold. CIWA 4. Phenobarb loaded 
+___. Patient left AMA ___. PCP was contacted and warm hand off 
+accomplished. Patient advised not to drink alcohol, take 
+bupropion or Fioricet or clonazepam given interactions with 
+phenobarbital.
+
+#SYNCOPE
+No evidence of arrhythmia, LV dysfunction or valvular disease. 
+Possibly due to withdrawal seizures. Orthostatic vital signs 
+were planned but patient left AMA.
+
+#COFFEE GROUND EMESIS: 
+Coffee grounds coming up with OG, resolved with PPI, H/H stable, 
+tolerated regular diet after extubation. Discharged with script 
+for omeprazole 20mg QD. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. BuPROPion XL (Once Daily) 150 mg PO DAILY 
+2. PARoxetine 50 mg PO DAILY 
+3. ClonazePAM 1 mg PO BID 
+4. Fiorinal-Codeine #3 (codeine-butalbital-ASA-caff) 
+___ mg oral BID:PRN 
+
+ 
+Discharge Medications:
+1.  Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 capsule(s) by mouth Daily Disp #*30 
+Capsule Refills:*0 
+2.  PARoxetine 50 mg PO DAILY  
+3. HELD- ClonazePAM 1 mg PO BID  This medication was held. Do 
+not restart ClonazePAM until you discuss with you PCP
+4. HELD- Fiorinal-Codeine #3 (codeine-butalbital-ASA-caff) 
+___ mg oral BID:PRN  This medication was held. Do not 
+restart Fiorinal-Codeine #3 until you discuss with you PCP
+
+ 
+___:
+Home
+ 
+Discharge Diagnosis:
+#ALCOHOL USE DISORDER
+#POSSIBLE WITHDRAWAL SEIZURE
+#SYNCOPE
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+ 
+You were brought to the ___ after a fall 
+and you had an episode that was though to be a seizure in the 
+ED. You needed a breathing tube and were admitted to the 
+Intensive Care Unit for monitoring after this episode. You were 
+given a very long lasting medication to protect yourself against 
+features (phenobarbital).
+Fortunately, you were able to come off the breathing machine and 
+had no further episodes. 
+Unfortunately, you chose to left the hospital against medical 
+advice. 
+ 
+You understood the risks of leaving and especially of drinking 
+alcohol while the medication (phenobarbital) is active in your 
+body which include:
+- Death from not breathing
+- Low blood pressure
+- Coma
+ 
+We urge you NOT TO DRINK ALCOHOL as this may be life threatening 
+while the medication (phenobarbital) is in your system
+
+We urge you to MAKE AN APPOINTMENT WITH YOUR PRIMARY CARE 
+DOCTOR.
+
+___ do not take BUPROPION (WELLBUTRIN) or FIORICET or 
+CLONAZEPAM as these have interactions with the phenobarbital 
+that stays in your system for days. 
+
+Please talk your doctor about restarting these medications
+
+We wish you the best in health,
+
+Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10142844-DS-22 | hadm_id=25227088
+
+ 
+Name:  ___.             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain, nausea, vomiting
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ presented to the emergency department with lower abdominal, 
+epigastric and left flank pain associated with nausea and 
+vomiting ___ times per day over ___ last 3 days. He denies any 
+fevers. He does endorse dysuria x1. Denies any shortness of 
+breath. No diarrhea  
+In the ED intial vitals were: 96.8 138 170/96 18 94% RA.  
+- Labs were significant for lipase 61, WBC 14.7 (82%PMN), Cr 
+1.1, K 4, Trop-T: <0.01 x1, ALT 44, AST 21. CT abd-pelvis 
+without contrast showed per prelim read fat stranding 
+surrounding the tail of the pancreas and thickening of the 
+adjacent peritoneum is concerning for focal pancreatitis. Patent 
+splenic artery and vein. No free fluid or fluid collection. No 
+renal stones, pyelonephritis or diverticulitis. CXR PA and LAT 
+showed low lung volumes and bibasilar atelectasis. Patient was 
+given IV zofran 4 mg x1, IV morphine 5 mg x1, ASA 325 mg x1. Pt 
+is being admitted for fluid resuscitation and pain control.  
+ 
+Vitals prior to transfer were: 99.3 107 148/82 22.  
+On the floor, pt complains of abdominal pain that is ___.  
+ 
+Review of Systems:  
+(+) per HPI  
+ 
+Past Medical History:
+- Depression  
+- Migraine  
+- Syncope ___ attributed to History of orthostasis coupled with 
+alcohol consumption (at that time, ETOH level of 269)  
+- bifrontal SDHs in ___  
+- h/o alcoholism  
+- s/p repair of orbital floor fractures  
+- s/p fractures left ulna with pinning  
+- right talus fracture ___  
+ 
+Social History:
+___
+Family History:
+Has had 5 family members die at young age (___) of "heart  
+attacks" or "heart failure". Brother with bipolar depression.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+Vitals - 98.8 114/98 112 20 98RA  
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+patent nares, MMM, nontender supple neck, no LAD, no JVD  
+CARDIAC: Regular rhythm, slightly tachycardic, N S1/S2, no 
+murmurs, gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, non tender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: moving all extremities well, no cyanosis, clubbing 
+or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII grossly intact  
+ 
+DISCHARGE PHYSICAL EXAM:  
+Vitals:  99.6 (99.6)  128/68  95  16  95% RA
+Tele:  SR 90-110, < 100 since 2300 last night
+GENERAL: alert and oriented, NAD  
+HEENT: AT/NC, EOMI, MMM, OP clear
+CARDIAC: RRR, Nl S1/S2, no murmurs, gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, non tender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing or edema.  
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 06:40PM BLOOD WBC-14.7*# RBC-4.92 Hgb-16.4 Hct-45.9 
+MCV-93 MCH-33.3* MCHC-35.7* RDW-13.0 Plt ___
+___ 06:40PM BLOOD Neuts-82.4* Lymphs-11.9* Monos-4.5 
+Eos-0.9 Baso-0.2
+___ 06:40PM BLOOD Glucose-138* UreaN-16 Creat-1.1 Na-136 
+K-4.0 Cl-100 HCO3-21* AnGap-19
+___ 06:40PM BLOOD ALT-44* AST-21 AlkPhos-91 TotBili-1.2
+___ 06:40PM BLOOD Lipase-61*
+___ 06:40PM BLOOD cTropnT-<0.01
+___ 11:00PM URINE Color-Straw Appear-Clear Sp ___
+___ 11:00PM URINE Blood-TR Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 11:00PM URINE RBC-1 WBC-0 Bacteri-NONE Yeast-NONE Epi-0
+
+DISCHARGE LABS:
+___ 06:45AM BLOOD WBC-9.5 RBC-4.23* Hgb-14.1 Hct-40.6 
+MCV-96 MCH-33.3* MCHC-34.6 RDW-13.0 Plt ___
+___ 06:45AM BLOOD Glucose-90 UreaN-6 Creat-0.9 Na-136 K-4.0 
+Cl-101 HCO3-27 AnGap-12
+___ 06:45AM BLOOD Calcium-8.6 Phos-2.1* Mg-2.2
+
+MICROBIOLOGY:  NONE
+
+IMAGING:
+CT ABDOMEN/PELVIS ___:
+FINDINGS:  Linear opacity at the lung bases most likely 
+represents atelectasis or scarring.  A nodule in the right lung 
+base measures 2 mm.  There is no pleural or pericardial 
+effusion. Diffuse hypodensity of the liver parenchyma indicates 
+hepatic steatosis. There are no focal liver lesions.  The 
+gallbladder appears normal.  Fat stranding adjacent to the tail 
+of the pancreas may represent focal pancreatitis.  The left 
+renal fascia is thickening and there is adjacent fat stranding.  
+The spleen and adrenal glands appear normal.  The kidneys 
+enhance symmetrically
+and promptly excrete contrast.  No renal stones or concerning 
+renal lesions are identified. The bladder is partially filled 
+and appears normal.  The prostate is unremarkable. The stomach 
+is decompressed.  The small bowel appears normal without 
+evidence of wall thickening or obstruction.  There is colonic 
+diverticulosis without evidence of diverticulitis.  The appendix 
+is visualized in the right lower quadrant and appears normal.  
+There is no free fluid, free air or pathologic lymphadenopathy 
+by CT size criteria.  There are calcifications within a normal
+caliber aorta. 
+OSSEOUS STRUCTURES:  No concerning osteoblastic or osteolytic 
+lesions identified.
+IMPRESSION:
+1.  Fat stranding adjacent to the tail of the pancreas and 
+thickening of the left pararenal fascia is most consistent with 
+acute pancreatitis.  There is no decreased pancreatic 
+parenchymal enhancement, peripancreatic free fluid or fluid 
+collections.  No biliary dilation or gallstones identified.
+2.  The kidneys appear normal without evidence of stones, 
+hydronephrosis or masses.
+3.  Hepatic steatosis.
+4.  Diverticulosis without evidence of diverticulosis.
+5.  A nodule in the right lung base measures 2 mm. Follow-up CT 
+in ___ year is recommended if the patient has risk factors for 
+lung cancer or known prior malignancy.
+
+RUQ U/S ___:
+FINDINGS:  The liver is mildly echogenic, consistent with fatty 
+deposition.  No focal lesions or intrahepatic biliary ductal 
+dilatation is seen.  The common bile duct is normal measuring 
+0.4 cm.  The pancreas is not assessed on this exam.  The 
+gallbladder is normal without evidence of cholelithiasis or 
+cholecystitis.  Doppler assessment of the main portal vein 
+demonstrates normal hepatopetal flow.  There is no evidence of 
+ascites. Limited assessment of the right kidney is unremarkable.
+IMPRESSION:
+1.  No evidence of cholelithiasis or cholecystitis.
+2.  Echogenic liver is consistent with fatty deposition.  More 
+advanced forms of liver disease such as cirrhosis or hepatic 
+fibrosis cannot be excluded by this study, however.
+
+CXR ___:
+FINDINGS:  The lung volumes are low.  There is persistent mild 
+relative elevation of the right hemidiaphragm compared to the 
+left side.  The cardiac, mediastinal and hilar contours appear 
+stable.  There is no pleural effusion or pneumothorax.  New 
+streaky opacities involve each lung base as well as the left mid 
+lung, the latter probably associated with the lingula.  This 
+appearance is very suggestive of minor atelectasis.  Elsewhere, 
+the lungs appear clear.
+IMPRESSION:  New basilar opacities, most likely due to 
+atelectasis.
+ 
+Brief Hospital Course:
+___ with PMH of migraine, depression and history of alcoholism 
+is admitted with abdominal pain, nausea and vomiting and CT 
+findings strongly suggestive of pancreatitis.  
+
+# Abdominal pain: Patient presented with 2 days of N/V/abdominal 
+pain. CT findings suggestive of pancreatitis with lipase of 61. 
+RUQ u/s and CT do not suggest cholestatic source, and ALP was 
+normal.  Leukocytosis on admission was probably reactive to 
+pancreatitis, resolved.  No fever during admission.  Abdominal 
+exam benign.  Patient felt better by the morning after 
+admission, without emesis for almost 48 hours and with improved 
+appetite, able to tolerate solid foods.  Provided IV morphine 
+and then PO oxycodone for pain control.  Used IV ativan for 
+nausea control given QTc prolongation.
+
+# Sinus tachycardia: Initially was in sinus tachycardia 100-120s 
+on admission.  No known history of tachycardia.  ___ be 
+associated with dehydration and pain, no other clear sympathetic 
+drivers.  Resolved with IVF.
+
+# Long QT:  No obvious QT prolonging medications.  Avoided 
+Zofran, compazine given this EKG finding.  No evidence of 
+arrhythmia on telemetry.
+# Hip pain: Likely MSK given resolution with passive ROM.  
+Resolved by discharge.
+# Depression: continued Wellbutrin
+# Migraine: held home Fioricet
+ 
+# Code: full - confirmed with pt  
+# Emergency Contact: ___ (friend) ___  
+
+TRANSITIONAL ISSUES:
+- CT abdomen:  there was a 2 mm right lower lobe nodule.  
+Follow-up CT in ___ year is recommended if the patient has risk 
+factors for lung cancer. No follow-up is recommended if the 
+patient does not have any risk factors.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen-Caff-Butalbital 1 TAB PO BID:PRN migraine 
+2. Wellbutrin XL (buPROPion HCl) 300 mg oral daily 
+
+ 
+Discharge Medications:
+1. Acetaminophen-Caff-Butalbital 1 TAB PO BID:PRN migraine 
+2. Wellbutrin XL (buPROPion HCl) 300 mg oral daily 
+3. Lorazepam 0.5 mg PO Q4H:PRN nausea 
+___ cause sedation.  Do not drive while using. 
+RX *lorazepam 0.5 mg 1 tablet by mouth every eighter hours Disp 
+#*10 Tablet Refills:*0
+4. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+___ cause sedation.  Do not drive while using.  ___ cause 
+constipation. 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every six hours Disp 
+#*20 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+pancreatitis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+It was a pleasure taking care of you at ___ 
+___.  You came to the hospital with abdominal pain 
+and nausea.  You were also found to be dehydrated.  A CT scan 
+showed inflammation of your pancreas.  You were treated with IV 
+fluids, pain medication, and bowel rest.  You then advanced your 
+diet and were able to tolerate some solid foods before 
+discharge.  We recommend that you avoid fatty or spicy foods for 
+the next few days as you recover.  Be sure to drink plenty of 
+fluids; your urine should be light yellow to indicate you are 
+hydrated.
+
+We have given you a prescription for pain medication for the 
+next week.  If you find that you have pain that requires more 
+medication, please contact your primary care physician Dr ___.
+
+You have an appointment scheduled with Dr ___ ___.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10142844-DS-21 | hadm_id=25833875
+
+ 
+Name:  ___.             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ yo male with hx of migraines and depression who presents 
+after a syncopal episode at home. The patient was in kitchen, 
+next thing he knew he was on the floor. Did not have any 
+prodromal symptoms such as CP/SOB, lightheadedness, aura. Did 
+not lose control of bowel or bladder. Woke up with nose 
+bleeding. He otherwise felt well and denies any fatigue, or 
+dizziness. No hx of syncope. He is very active at baseline and 
+bikes frequently. Denies any history of CP or shortness of 
+breath with activity. The patient reports he has been out 
+drinking with friends prior to the event and had a few glasses 
+of wine.  
+Of note he has a history of several family members, brothers and 
+sisters included passing way suddenly from cardiac causes. He 
+personally has never been told there are any problems with his 
+heart.  He notes he has had 5 faimly member die of heart related 
+events. His brother died of an MI in his ___ while in the 
+hospital, his sister had a sudden death in the ___ which was 
+believed to be heart related. His father had a CABG x3 at age ___ 
+and died in his ___ from heart related complications. His mother 
+had a ___ death in her ___ while smoking a cigarette, with a 
+resultant house fire. He reports he consumes alcohol once a 
+month with friends and typically does not get too intoxicated. 
+He denies any other acute complaints today. 
+ 
+In the ED, initial vitals were 98.2 88 138/88 16 94%. Labs 
+including a trop which was negative x 1 were unremarkable with 
+the exception of an ETOH level of 269. CXR showed no acute 
+process. CT of the head showed no acute process but maxillofacia 
+CT did demonstrate a nasal fracture. EKG was concerning for 
+Brugada syndrome and the patient was admitted to cardiology for 
+further management. Patient given morphine and dilaudid for 
+pain. Vitals on transfer were 98.2 78 129/79 16 96%  
+On arrival to the floor, patient patient notes continued nasal 
+pain but is otherwise symptom free  
+ 
+REVIEW OF SYSTEMS  
+On review of systems, s/he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. S/he denies recent fevers, chills or 
+rigors. S/he denies exertional buttock or calf pain. All of the 
+other review of systems were negative.  
+ 
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations. 
+ 
+Past Medical History:
+depression and migraine.
+ 
+Social History:
+___
+Family History:
+Has had 5 family members die at young age (___) of "heart 
+attacks" or "heart failure".  Brother with bipolar depression.
+ 
+Physical Exam:
+PHYSICAL EXAMINATION ON ADMISSION:  
+VS- T= 97.4 BP= 141/100 HR=71 RR= 18 O2 sat= 98% RA  
+GENERAL- WDWN male in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT- no septal hematoma (per ED), swelling of the nasal 
+bridge.  
+NECK- Supple  
+BACK: No spinal or paraspinal TTP  
+CARDIAC- normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS- CTAB  
+ABDOMEN- Soft, NT/ND  
+EXTREMITIES- No c/c/e. No femoral bruits.  
+NEURO- CN II-XII intact, strength ___ sensation in tact to light 
+touch  
+PULSES-  
+Right: Radial 2+ DP 2+ ___ 2+  
+Left: Radial 2+ DP 2+ ___ 2+ 
+
+PHYSICAL EXAM ON DISCHARGE:
+VS- T97.7 BP 111/76 (100-140) P 69 RR 18 RR 98%RA Weight 82.6kg
+I/O: 500/NR 
+GENERAL- NAD. Oriented x3. Mood, affect appropriate, smells of 
+alcohol.  
+HEENT- NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. Nasal bridge 
+swelling and erythema noted. Nasal bridge tender to palpation, 
+no septal hematoma noted inED  
+NECK- Supple, normal JVD.  
+CARDIAC- RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 
+or S4.  
+LUNGS- Resp were unlabored, no accessory muscle use. CTAB, no 
+crackles, wheezes or rhonchi.  
+ABDOMEN- Soft, NTND. No HSM or tenderness.   
+EXTREMITIES- No c/c/e. peripheral pulses are 2+ 
+SKIN- No stasis dermatitis, ulcers, or scars
+ 
+Pertinent Results:
+___ 07:25PM BLOOD WBC-6.8 RBC-4.84 Hgb-15.5 Hct-45.6 MCV-94 
+MCH-32.1* MCHC-34.0 RDW-14.0 Plt ___
+___ 07:25PM BLOOD Neuts-60.9 ___ Monos-4.3 Eos-1.6 
+Baso-0.9
+___ 06:20AM BLOOD Glucose-86 UreaN-14 Creat-0.9 Na-142 
+K-4.0 Cl-102 HCO3-30 AnGap-14
+___ 07:25PM BLOOD Glucose-84 UreaN-14 Creat-1.0 Na-143 
+K-4.2 Cl-103 HCO3-28 AnGap-16
+___ 07:25PM BLOOD estGFR-Using this
+___ 06:20AM BLOOD cTropnT-<0.01
+___ 07:25PM BLOOD cTropnT-<0.01
+___ 06:20AM BLOOD Calcium-8.6 Phos-3.8 Mg-2.3
+___ 07:25PM BLOOD Calcium-9.2 Phos-3.4 Mg-2.5
+___ 07:25PM BLOOD ASA-NEG ___ Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 07:25PM BLOOD HoldBLu-HOLD
+
+CARDIOLOGY:
+EKG ___: Sinus rhythm. Right ventricular conduction delay. 
+Downsloping ST segment elevation in lead V2. Compared to the 
+previous tracing of ___ repolarization abnormality in lead 
+V2 is now present. This finding is highly concerning for Brugada 
+syndrome as the potential etiology of syncope. 
+
+EKG ___ rhythm. Compared to the previous tracing 
+Brugada pattern repolarization abnormalities is again noted in 
+lead V2. 
+
+ECHO ___:
+Conclusions  
+The left atrium is elongated. No atrial septal defect is seen by 
+2D or color Doppler. There is mild (non-obstructive) focal 
+hypertrophy of the basal septum. The left ventricular cavity 
+size is normal. Regional left ventricular wall motion is normal. 
+Overall left ventricular systolic function is normal (LVEF>55%). 
+There is no left ventricular outflow obstruction at rest or with 
+Valsalva. There is no ventricular septal defect. Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic root is mildly dilated at the sinus level. The aortic 
+valve leaflets (3) appear structurally normal with good leaflet 
+excursion. There is no aortic valve stenosis. Mild (1+) aortic 
+regurgitation is seen. The mitral valve appears structurally 
+normal with trivial mitral regurgitation. There is no mitral 
+valve prolapse. The estimated pulmonary artery systolic pressure 
+is normal. There is no pericardial effusion.    
+
+STRESS TEST ___: 
+RESTING DATA 
+EKG:  SINUS, NSSTTWS   
+HEART RATE:  69 BLOOD PRESSURE:  160/80 
+  
+PROTOCOL ___ - TREADMILL 
+STAGE TIME SPEED ELEVATION HEART BLOOD RPP 
+  (MIN) (MPH) (%) RATE PRESSURE   
+1 ___ 1.7 10 104 158/88 ___ 
+2 ___ 2.5 12 125 184/80 ___ 
+3 ___ 3.4 14 150 188/74 ___ 
+  
+TOTAL EXERCISE TIME:  9 % MAX HRT RATE ACHIEVED:  93 
+ 
+SYMPTOMS: NONE   
+ 
+  
+INTERPRETATION: This ___ year old man with a family history of 
+SCD 
+was referred to the lab for arrhythmia evaluation of a Brugada 
+like EKG 
+in the ER following a negative flecainide challenge. The patient 
+
+exercise for 9 minutes of ___ protocol and stopped for 
+fatigue. The 
+estimated peak MET capacity was 10.1 which represents an average 
+
+functional capacity for his age. No arm, neck, back or chest 
+discomfort 
+throughout. At peak exercise, there was 2 mm STE in V2 only with 
+no 
+other ST segment changes in any other lead throughout the study. 
+The 
+rhythm was sinus with no ectopy. Appropriate hemodynamic 
+response to 
+exercise and recovery. 
+IMPRESSION: Non-specific ST changes in V2 only in the absence of 
+
+symptoms or ectopy. 
+ 
+EKG ___: Sinus rhythm. Compared to the previous tracing the 
+Brugada pattern of repolarization in lead V2 is less prominent. 
+
+RADIOLOGY
+
+CT SINUS/MANDIBLE/MAXILLA ___
+IMPRESSION: 
+Nasal bone fractures, which may be acute.  Fractures through the 
+frontal 
+processes of the maxilla on the left and on the right. 
+
+CXR ___: 
+IMPRESSION: 
+No acute cardiopulmonary process. 
+
+CT HEAD W/ AND W/O CONTRAST ___:
+IMPRESSION:  No acute intracranial process.
+ 
+Brief Hospital Course:
+___ yo male with history significant for family members with 
+sudden cardiac death presents after a syncopal episodes with EKG 
+findings concerning for Brugada syndrome vs. Orthostasis.  
+
+# Syncope: Initial presentation was concerning for a malignant 
+arrythmia inlight of family history and findings on EKG 
+concerning for brugada syndrome. Family history more consistent 
+with CAD rather than Brugada, but sister's sudden death is 
+questionable. The significance of an normal EKG in ___ is 
+unclear. Troponins were negative, ECHO was unremarkable, Stress 
+test did not illustrate any coronary pathology, and overnight 
+telemetry was with in normal limits. A flecainide study was 
+conducted and failed to induce an arrhytmia. Repeat EKG was 
+unremarkable. No history or findings to suggest seizure. History 
+of orthostasis coupled with alcohol consumption likely resulted 
+in syncopal event. 
+
+# Nasal fracture: there was no evidence of septal hematoma. CT 
+of sinuses/mandible/maxilla illustrated fractures of the frontal 
+processes of the maxilla. Pain was controlled with oxycodone. 
+Patient is scheduled with outpatient plastic surgery for nasal 
+bridge repair.    
+
+# Depression- Citalopram was held during hospitalization. 
+Patient to resume home citalopram on discharge.
+
+TRANSITIONAL ISSUES:
+[ ]Patient needs to be counseled on drinking behavior
+[ ]Will need to follow up with plastic surgery for nasal bone 
+fracture.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 20 mg PO DAILY 
+2. Acetaminophen-Caff-Butalbital ___ TAB PO Q8H:PRN migraine 
+
+ 
+Discharge Medications:
+1. Acetaminophen-Caff-Butalbital ___ TAB PO Q8H:PRN migraine 
+2. Citalopram 20 mg PO DAILY 
+3. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth Q4-6hrs Disp #*15 Tablet 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Syncope
+Fractured nose
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+It was a pleasure taking care of you during your hospitalization 
+at ___. You were admitted after losing consciousness. An EKG 
+was performed in the emergency room which was concerning for an 
+abnormal rhythm. We performed several studies which were not 
+consistent with this abnormal EKG, and a repeat EKG was normal.  
+You are scheduled to see a cardiologist in a few weeks to make 
+sure you continue to do well.
+
+In addition, after falling, you broke your nose. You have an 
+appointment to see the plastic surgeons regarding this fracture.
+
+We made the following changes to your medication list:
+Please START taking oxycodone 5mg every 4 to 6 hours as needed 
+for pain.
+Please CONTINUE taking the rest of your medications as 
+prescribed.
+ 
+Followup Instructions:
+___

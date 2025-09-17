@@ -1,0 +1,272 @@
+===== DISCHARGE NOTE =====
+note_id=10726069-DS-11 | hadm_id=27901128
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___
+ 
+Chief Complaint:
+Exertional angina
+ 
+Major Surgical or Invasive Procedure:
+___ - Coronary artery bypass graft x3, left internal 
+mammary
+artery to left anterior descending artery, and saphenous vein 
+grafts to obtuse marginal and posterior descending arteries.
+
+ 
+History of Present Illness:
+Mrs. ___ is a ___ year old woman with a history of type I 
+diabetes mellitus who recently presented with complaints of 
+dyspnea with exertion for the past few months. She also noted 
+chest discomfort with exertion. She
+denied lower extremity edema or lightheadedness. She 
+subsequently underwent a  stress test which was markedly 
+abnormal. Cardiac catheterization revealed severe three vessel 
+coronary artery disease. Given the above findings, she has been 
+referred for surgical revascularization.
+
+ 
+Past Medical History:
+Anxiety
+Coronary Artery Disease
+Diabetes Mellitus, Insulin Dependent, poorly controlled
+Fall History due to hypoglycemia
+Gastroparesis
+Hyprlipidemia
+Hypertension 
+Viral encephalitis complicated by seizures, ___ 
+ 
+Social History:
+___
+Family History:
+Denies premature coronary artery disease. Mother died of heart 
+disease in her mid ___.
+
+ 
+Physical Exam:
+Admission PE:
+BP: 133/64. Heart Rate: 67. Resp. Rate: 12. O2 Saturation%: 99.
+Height: 5' 7''     Weight: 148 lbs
+
+General: WDWN female in no acute distress
+Skin: Warm [x] Dry [x] intact [x] - multiple bruises noted, burn 
+injury of left upper arm
+HEENT: NCAT [x] PERRL [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x] JVD - none
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] 
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds 
++ [x]
+Extremities: Warm [x], well-perfused [x]  
+Edema: None
+Varicosities: None 
+Neuro: Grossly intact [x]
+
+Pulses:
+Femoral      Right: 2     Left: 2
+DP           Right: palp  Left: palp
+___           Right: palp  Left: palp
+Radial       Right: 1+    Left: 1+
+
+Carotid Bruit Right: ?   Left: none
+
+Discharge PE:
+BP: 124/73. Heart Rate: 81. Resp. Rate: 18. O2 Saturation%: 
+94%on 2L.
+Height: 5' 7''     Weight: 157 lbs (148 lbs preop)
+
+General: WDWN, NAD
+HEENT: NCAT [x] PERRL [x]  
+Neck:  Supple [x] Full ROM [x] JVD - none
+Chest: Lungs clear except few bibasilar rales[x]
+Heart: RRR [x]  no M/G/R
+Abdomen: Soft [x] non-distended [x] non-tender [x]  hypoactive 
+bowel sounds+[x]
+Extremities: Warm [x], well-perfused [x]  
+Left leg EVH incision: healing well
+Edema: None
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 2  Left: 2
+DP           Right: 2  Left: 2
+___           Right: 2  Left: 2
+Radial       Right: 2  Left: 2
+
+ 
+Pertinent Results:
+STUDIES:
+Carotid US ___:
+Impression:   
+Right ICA no stenosis. 
+Left ICA no stenosis. 
+.
+Transesophageal Echocardiogram ___
+Pre-bypass:
+Normal left ventricular function (EF 60-65%)No regional wall 
+motion abnormalityRight ventricular chamber size and free wall 
+motion are normal. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+stenosis or aortic regurgitation. . The mitral valve appears 
+structurally normal with trivial mitral regurgitation. There is 
+trivial tricuspid regurgitationThere is a trivial/physiologic 
+pericardial effusion. The interatrial serptum is aneurysmal, a 
+small PFO is present.
+
+Post-bypass:
+Infusion Phenylephrine
+Biventricular function preserved. Ascending aorta is normal. 
+Rest of the exam is unchanged.  
+.
+PA/LAT CXR ___:
+IMPRESSION:    
+Lung volumes have improved although there is still moderate left 
+lower lobe atelectasis.  Small right pleural effusion is stable. 
+ There is no 
+pneumothorax or pulmonary edema.  Postoperative widening of the 
+cardiomediastinal silhouette has decreased as well.  Lateral 
+view shows small anterior mediastinal or pleural collection of 
+air and fluid, a common early postoperative finding. 
+LABS:
+___ 11:24AM BLOOD WBC-13.4*# RBC-2.15*# Hgb-6.4*# 
+Hct-19.5*# MCV-91 MCH-29.8 MCHC-32.8 RDW-13.3 RDWSD-43.9 Plt 
+___
+___ 12:22PM BLOOD WBC-21.0*# RBC-3.90# Hgb-11.3# Hct-34.0# 
+MCV-87 MCH-29.0 MCHC-33.2 RDW-13.8 RDWSD-43.7 Plt ___
+___ 04:17AM BLOOD WBC-13.5* RBC-3.70* Hgb-10.8* Hct-32.4* 
+MCV-88 MCH-29.2 MCHC-33.3 RDW-15.0 RDWSD-47.8* Plt ___
+___ 06:55AM BLOOD WBC-12.8* RBC-3.92 Hgb-11.3 Hct-34.5 
+MCV-88 MCH-28.8 MCHC-32.8 RDW-14.6 RDWSD-46.6* Plt ___
+___ 02:13AM BLOOD ___ PTT-29.2 ___
+___ 12:22PM BLOOD UreaN-12 Creat-0.5 Na-140 K-3.5 Cl-110* 
+HCO3-21* AnGap-13
+___ 03:13AM BLOOD Glucose-158* UreaN-15 Creat-0.6 Na-136 
+K-4.7 Cl-104 HCO3-22 AnGap-15
+___ 04:17AM BLOOD Glucose-207* UreaN-12 Creat-0.5 Na-137 
+K-3.9 Cl-101 HCO3-29 AnGap-11
+___ 06:55AM BLOOD Glucose-130* UreaN-14 Creat-0.5 Na-137 
+K-3.7 Cl-98 HCO3-32 AnGap-11
+___ 06:55AM BLOOD Mg-1.9
+ 
+Brief Hospital Course:
+She was admitted on ___ and was taken to the operating 
+room. She underwent coronary artery bypass x 3. Please see 
+operative note for full details. She tolerated the procedure 
+well and was transferred to the CVICU in stable condition for 
+recovery and invasive monitoring.   She required neosynephrine 
+for hypotension management.  That evening she was weaned from 
+sedation, awoke neurologically intact and was extubated without 
+complications. She was noted for post op anemia acute blood loss 
+was transfused with PRBC and progressively weaned off 
+neosynephrine.  
+She remained on insulin drip for diabetes management and ___ 
+was consulted.  On post operative day two she was started on 
+lasix and betablockers.  Her lisinopril and norvasc are being 
+held while she is on lasix.  She was transitioned to lantus and 
+humalog sliding scale insulin from drip as she was unable to 
+manage pump.  Diabetes nurse educator has assisted her in using 
+the insulin pens, but she will need further nursing follow up at 
+home until she resumes her insulin pump.  On post operative day 
+three chest tubes and epicardial wires were removed per 
+protocol.  She worked with physical therapy on strength and 
+mobility. By the time of discharge on POD 4 the patient was 
+ambulating freely, the wound was healing and pain was controlled 
+with oral analgesics.  The patient was discharged to home with 
+___ services in good condition with appropriate follow up 
+instructions.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 10 mg PO DAILY 
+2. Senna 25.8 mg PO DAILY 
+3. Amlodipine 5 mg PO DAILY 
+4. Atorvastatin 80 mg PO QPM 
+5. Aspirin 81 mg PO DAILY 
+6. biotin unknown  oral Other 
+7. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+8. Clobetasol Propionate 0.05% Cream 1 Appl TP BID 
+9. Isordil (isosorbide dinitrate) 30  oral DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin EC 81 mg PO DAILY 
+2. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0
+3. Acetaminophen 650 mg PO Q4H:PRN pain/fever 
+maximum 4000mg/day please 
+4. Atorvastatin 80 mg PO DAILY 
+5. HYDROmorphone (Dilaudid) ___ mg PO Q3H:PRN pain 
+RX *hydromorphone 2 mg ___ tablet(s) by mouth every three (3) 
+hours Disp #*60 Tablet Refills:*0
+6. Glargine 16 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+7. Metoprolol Tartrate 25 mg PO TID 
+RX *metoprolol tartrate 25 mg 1 tablet(s) by mouth three times a 
+day Disp #*90 Tablet Refills:*0
+8. Potassium Chloride 20 mEq PO DAILY Duration: 10 Days 
+RX *potassium chloride [Klor-Con 10] 10 mEq 2 tablet(s) by mouth 
+daily Disp #*20 Tablet Refills:*0
+9. Furosemide 40 mg PO DAILY Duration: 10 Days 
+RX *furosemide 40 mg 1 tablet(s) by mouth daily Disp #*10 Tablet 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary Artery Disease s/p revascularization 
+Anemia acute blood loss 
+Diabetes mellitus type 1
+
+Secondary diagnosis 
+Anxiety
+Fall History due to hypoglycemia
+Gastroparesis
+Hyprlipidemia
+Hypertension 
+Viral encephalitis complicated by seizures, ___ 
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with oral medications
+Sternal Incision - healing well, no erythema or drainage
+Left EVH - healing well, no erythema or drainage 
+Edema - none 
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+Females: Please wear bra to reduce pulling on incision, avoid 
+rubbing on lower edge
+ 
+Followup Instructions:
+___

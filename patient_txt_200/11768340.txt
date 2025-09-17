@@ -1,0 +1,295 @@
+===== DISCHARGE NOTE =====
+note_id=11768340-DS-14 | hadm_id=25506361
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Incidental PE finding  
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Patient referred in for incidental finding of left upper lobe PE 
+on CT neck. Patient is a ___ year old former ICU physician with 
+history of hypertension and C2 fracture 9 weeks ago for which he 
+is in SOMI brace with plan for operative repair on ___ with 
+Dr. ___. The patient recently underwent CTA neck as part of 
+operative workup, and a subsegmental PE was noted in LUL as an 
+incidental finding. Patient was then referred to ___ ED.
+On arrival to the ED, patient noted to be asymptomatic with no 
+chest pain, shortness of breath, or cough. Denies ___ swelling, 
+immobilization, recent surgery, history of clots or family 
+history of coagulation disorders.
+In the ED, initial VS were:
+Temp. 98.1 HR 66 BP 137/71 RR 16 SpO2 100% RA
+Labs notable for WBC 9.1, Hg 12.8, platelets 257, Na 137, K 6.0, 
+Cl 99, Bicarb 26, BUN 19, Cr 0.9. K on repeat 4.1
+CT chest showed:
+Imaging showed:
+1. Pulmonary emboli involving the segmental and subsegmental 
+right and leftupper and lower lobe pulmonary arteries. No 
+evidence of pulmonary infarction.
+2. Dilated right and left pulmonary trunks and right atrial 
+enlargement, not significantly changed compared to ___, 
+suggestive of pulmonary artery hypertension.
+Patient given:
+80mg Lovenox X 1
+Vitals prior to transfer:
+Temp. 98.2 HR 71 BP 141/66 RR 16 SpO2 100% RA
+On arrival to the floor, patient reports he does not believe he 
+has a PE as he has had no dyspnea, chest pain, coughing, or 
+shortness of breath. He notes he has taken care of many 
+patient's with pulmonary emboli in his career and does not 
+believe his imaging findings are from PE. He notes he fell about 
+9 weeks with C2 fracture with plan for operative repair in 
+___. He is up to date with colonoscopy and PSA screening. He 
+denies any personal or family history of blood clots or 
+malignancy.
+REVIEW OF SYSTEMS:
+Denies fever, chills, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, shortness of breath, 
+chest pain, abdominal pain, nausea, vomiting, diarrhea, 
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.
+All other 10-system review negative in detail.
+ 
+Past Medical History:
+Hypertension
+C2 fracture with upcoming plan for operative repair
+ 
+Social History:
+___
+Family History:
+Father with diabetes and congestive heart failure. Denies family 
+history of DVT or PE.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS - Temp. 97.8, BP 139/82, HR 78, RR 18, 100% RA
+GENERAL: NAD, resting comfortably in bed
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM, good dentition
+NECK: nontender supple neck, no LAD, no JVD. SOMI brace at edge 
+of bed. About to place on neck.
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose
+PULSES: 2+ DP pulses bilaterally
+NEURO: CN II-XII intact
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes
+
+DISCHARGE PHYSICAL EXAM:
+VS - 98.1 133/78 64 18 98%RA 74.6kg
+GENERAL: NAD, resting comfortably in bed with brace on
+HEENT: MMM
+NECK: nontender supple neck, 
+LYMPH: no LAD in cervical, supraclavicular, axillary or inguinal 
+nodes
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: CTAB, no wheezes, 
+ABDOMEN: nondistended, +BS, nontender  
+EXTREMITIES: no cyanosis, clubbing or edema,   
+SKIN: warm and well perfused
+ 
+Pertinent Results:
+PERTINENT LABS
+===============
+___ 02:15PM BLOOD WBC-10.6* RBC-4.12* Hgb-13.0* Hct-38.4* 
+MCV-93 MCH-31.6 MCHC-33.9 RDW-13.6 RDWSD-46.2 Plt ___
+___ 05:44PM BLOOD WBC-9.1 RBC-4.11* Hgb-12.8* Hct-38.1* 
+MCV-93 MCH-31.1 MCHC-33.6 RDW-13.7 RDWSD-46.7* Plt ___
+___ 06:40AM BLOOD WBC-8.5 RBC-3.96* Hgb-12.6* Hct-36.8* 
+MCV-93 MCH-31.8 MCHC-34.2 RDW-13.8 RDWSD-46.7* Plt ___
+___ 05:44PM BLOOD Neuts-51.2 ___ Monos-10.2 Eos-1.6 
+Baso-0.5 Im ___ AbsNeut-4.67 AbsLymp-3.31 AbsMono-0.93* 
+AbsEos-0.15 AbsBaso-0.05
+___ 02:15PM BLOOD ___
+___ 05:44PM BLOOD ___ PTT-25.9 ___
+___ 02:15PM BLOOD UreaN-20 Creat-0.9 Na-140 K-3.9 Cl-101
+___ 05:44PM BLOOD Glucose-95 UreaN-19 Creat-0.9 Na-137 
+K-6.0* Cl-99 HCO3-26 AnGap-18
+___ 06:40AM BLOOD Glucose-94 UreaN-13 Creat-0.9 Na-142 
+K-4.3 Cl-103 HCO3-28 AnGap-15
+___ 06:40AM BLOOD Calcium-9.8 Phos-3.8 Mg-1.9
+___ 08:13PM BLOOD K-4.1
+
+IMAGING
+==============
+
+EXAMINATION:  CT ABDOMEN PELVIS WITH CONTRAST.
+ 
+INDICATION:  ___ man with incidental left upper lobe 
+subsegmental
+pulmonary embolism on CTA neck
+ 
+TECHNIQUE:  Axial multidetector CT images were obtained through 
+the thorax
+after the uneventful administration of intravenous contrast.
+Reformatted coronal, sagittal, thin slice axial images, and 
+oblique maximal
+intensity projection images were submitted to PACS and reviewed.
+ 
+DOSE:  Total DLP (Body) = 327 mGy-cm.
+ 
+COMPARISON:  CTA neck ___.
+ 
+FINDINGS: 
+ 
+CTA:  There are segmental and subsegmental pulmonary emboli 
+involving right
+upper, right lower, left upper, and left lower lobe.  The right 
+and left main
+pulmonary arteries are dilated measuring 25 and 28 mm 
+respectively.  There is
+no intraventricular septal flattening.  There is mild left 
+atrial enlargement.
+The thoracic aorta is normal in caliber without aneurysmal 
+dilation.
+ 
+CHEST:  There is no axillary, supraclavicular, or mediastinal 
+lymphadenopathy.
+The thyroid is normal.  Heart size is enlarged.  There is no 
+pericardial
+effusion.  Coronary artery calcifications are moderate.
+ 
+Airway is are patent to the segmental level bilaterally with 
+bronchial wall
+thickening at the lung bases likely reflective of chronic 
+inflammation.  There
+is no focal lung consolidation.  There is no evidence of 
+pulmonary infarction.
+Scattered calcified granulomas are present.  There is bibasilar 
+atelectasis.
+ 
+The thoracic esophagus is unremarkable.  Views of the upper 
+abdomen are
+normal.  Superficial soft tissues are notable for bilateral 
+gynecomastia.
+ 
+OSSEOUS STRUCTURES:  Mild compression of T3 and T7 are unchanged 
+from ___.  Compression deformity of T5 has minimally increased from 
+___.
+ 
+IMPRESSION:
+ 
+ 
+1. Pulmonary emboli involving the segmental and subsegmental 
+right and left
+upper and lower lobe pulmonary arteries.  No evidence of 
+pulmonary infarction.
+No evidence of acute right heart strain.
+2. Lower lobe bronchial wall thickening, likely related to 
+chronic
+inflammation.
+ 
+ 
+Brief Hospital Course:
+___ intensivist (MD) with hx of htn, recent C2 fracture with 
+planned operative repair ___ presenting with incidental, 
+asymptomatic PE discovered on CT head/neck for C2 fracture.
+ 
+# Multiple pulmonary emboli: The patient recently underwent CTA 
+neck as part of operative workup, and a subsegmental PE was 
+noted in LUL as an incidental finding. Patient subsequently had 
+CTA to further characterize PE, which revealed multiple 
+segmental and subsegmental PEs. Patient does note he has been 
+spending more time in bed in setting of C2 fracture. Denies any 
+fevers, chills, night sweats or weight loss. Up to date on 
+colonoscopy ___ years ago. No lower extremity swelling noted on 
+exam. Patient denied chest pain or shortness of breath. No 
+respiratory distress on exam. Patient was started on 
+weight-based lovenox. He was stable and asymptomatic on 
+discharge. Neurosurgeon notified by email regarding initiation 
+of anticoagulation and need for perioperative anticoagulation 
+planning.
+
+# Hypertension: stable, continued on amlodipine and lisinopril.
+
+# C2 fracture: C2 fracture 9 weeks prior to admission for which 
+he is in SOMI brace with plan for operative repair on ___ 
+with Dr. ___.  Patient was given tylenol for pain and 
+continued use of SOMI brace. 
+
+# Depression: continued sertraline  
+# Glaucoma: continued dorzolamide  
+# Insomnia: continued Ativan 2 mg QHS  (transitional issue to 
+d/c given fall)
+
+TRANSITIONAL ISSUES:
+======================
+- Lovenox ___ SC daily- duration 3 months given first DVT, can 
+discuss other anticoagulation options with patient
+- Further work up for PE and presumed DVT, patient with no lower 
+extremity edema so lower extremity ultrasound was deferred
+- Up to date cancer screening 
+- Consider discontinuation of lorazepam QHS given increased risk 
+of fall and delirium
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 10 mg PO DAILY 
+2. Lisinopril 20 mg PO DAILY 
+3. Dorzolamide 2% Ophth. Soln. 1 DROP RIGHT EYE BID 
+4. Fluoxetine 20 mg PO DAILY 
+5. Lorazepam 2 mg PO QHS 
+
+ 
+Discharge Medications:
+1. Enoxaparin Sodium 120 mg SC DAILY 
+Start: ___, First Dose: Next Routine Administration Time 
+RX *enoxaparin 120 mg/0.8 mL 120 mg SC daily Disp #*30 Syringe 
+Refills:*0
+2. Amlodipine 10 mg PO DAILY 
+3. Dorzolamide 2% Ophth. Soln. 1 DROP RIGHT EYE BID 
+4. Fluoxetine 20 mg PO DAILY 
+5. Lisinopril 20 mg PO DAILY 
+6. Lorazepam 2 mg PO QHS 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: Pulmonary Embolism
+Secondary Diagnosis: hypertension , C2 Cervical Fracture
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Dr. ___,
+
+___ was a pleasure taking care of you at the ___ 
+___. You were hospitalized after a CT scan 
+showed pulmonary embolism (blood clots found in your lungs). You 
+were started on treatment with Lovenox (blood thinner). You will 
+need to continue this medication till you visit with your PCP 
+and decide long term treatment for your clot.
+
+Please continue to take your medications as prescribed and 
+follow up with your primary care doctor.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,257 @@
+===== DISCHARGE NOTE =====
+note_id=11452808-DS-20 | hadm_id=20177445
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+dizzyness
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Mr. ___ is a pleasant ___ year-old male with no significant past
+medical history.  On ___ evening, ___, the patient became
+dizzy and the room was spinning when he arose from sitting.  he
+described a right frontal headache located primarily behind his
+eye.  He didn't think much of it and went to bed.  On the
+following morning, the patient ate breakfast and felt fairly
+normal.  Shortly thereafter, he again felt dizzy (room 
+spinning),
+became nauseated and vomited.  He laid down on the floor to try
+and relax.  Because the patient didn't feel better, he called 
+his
+son to take him to ___. Since that time, he
+complains of an intermittent headache located in the posterior
+(occipital) area of his ___.
+
+While at ___, the patient initially underwent a
+non-contrast ___ CT and CTA on ___.  CT was a normal study and
+CTA was most notable for distal left ICA stenosis and moderate 
+to
+severe focal stenosis of left vertebral artery.  
+
+Today, ___, the patient was being transported to radiology for 
+a
+MRI study of his ___.  While in transit, the patient became
+clammy and dizzy and didn't feel well enough to sit through the
+exam.  Instead, he underwent a repeat non-contrast ___ CT which
+revealed a right cerebellar infarct with effacement of the 
+fourth
+ventricle.  As a result, arrangements were made to send the
+patient to ___ for neurosurgical evaluation.
+
+ 
+Past Medical History:
+None.  Patient thinks he had high cholesterol, but was
+controlling it via diet per PCP.
+
+ 
+Social History:
+___
+Family History:
+Mother had hypertension and diabetes, father died of stroke in
+his ___.
+
+ 
+Physical Exam:
+Exam on Admission
+O: T: 98.4   HR 80  BP: 169/79  RR 22  O2 Sat 95% on room air
+Gen: WD/WN, comfortable, NAD.
+HEENT: PERRL, EOMs intact.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, to
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift.
+
+Sensation: Intact to light touch. 
+
+Coordination: normal on finger-nose-finger.
+
+Right handed.
+
+Discharge Exam:
+General: Awake, cooperative, NAD.
+Neck: Supple, no nuchal rigidity.
+Lung: CTAB
+CV: RRR, nl S1, S2, no m/r/g
+Abdomen: Soft, NT, ND, +BS, no organomegaly/masses palpated
+Extremities: No C/C/E bilaterally
+
+Neurologic:
+-Mental Status: Alert, oriented. Attentive to conversation.
+Language is fluent without dysarthria or word-finding 
+difficulty.
+Normal prosody. There were no paraphasic errors. Following
+commands. 
+-Cranial Nerves: PERRL. EOMI. No nystagmus. Symmetric smile,
+symmetric facial sensation.
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally. Strength ___ throughout.
+-Sensory: Sensation to light touch intact throughout.
+-DTRs: 2+ throughout.
+Coordination: normal finger to nose and heel-shin testing.
+ 
+Pertinent Results:
+___ ECHO
+The left atrium is normal in size. No thrombus/mass is seen in 
+the body of the left atrium. No atrial septal defect is seen by 
+2D or color Doppler. There is mild (non-obstructive) focal 
+hypertrophy of the basal septum ( in some views it appears as an 
+aberrant papillary muscle insertion at the basal septum). The 
+left ventricular cavity size is normal. Regional left 
+ventricular wall motion is normal. Overall left ventricular 
+systolic function is normal (LVEF>55%). No masses or thrombi are 
+seen in the left ventricle. There is no ventricular septal 
+defect. Right ventricular chamber size and free wall motion are 
+normal. The aortic valve leaflets (3) are mildly thickened but 
+aortic stenosis is not present. No masses or vegetations are 
+seen on the aortic valve. No aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. No mass or 
+vegetation is seen on the mitral valve. Trivial mitral 
+regurgitation is seen. The estimated pulmonary artery systolic 
+pressure is normal. There is no pericardial effusion.  
+
+___ NCHCT
+Overall stable appearance of right cerebellar infarct and 
+resultant effacement of the fourth ventricle. 
+
+___ CXR
+No relevant change as compared to the previous EXAMINATION:. 
+Normal size of the cardiac silhouette. Normal hilar and 
+mediastinal structures. Mild 
+elongation of the descending aorta. 
+
+___ MR ___
+IMPRESSION: 
+1. No evidence of acute intracranial hemorrhage. 
+2. Subacute right cerebellar infarct with associated edema and 
+effacement of the fourth ventricle. The third ventricle and 
+lateral ventricles are stable in size. 
+3. Presumed sequelae of chronic small vessel ischemic disease. 
+
+___ 04:42AM BLOOD %HbA1c-5.5 eAG-111
+___ 04:42AM BLOOD Triglyc-76 HDL-72 CHOL/HD-3.2 
+LDLcalc-144*
+___ 09:30PM BLOOD TSH-0.98
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ RHM with HLD, smoking history, diffuse 
+arterial stenosis on CTA, family history of stroke, who was 
+transfered from ___ with vertigo, found to have R 
+cerebellar infarct on MRI, consistent with ___ vascular 
+distribution. Etiology of the stroke is thought to be embolic 
+from atherosclerotic plaque in the vertebral artery. He was 
+initially admitted to the Neurosurgical service in case 
+decompressive craniectomy was indicated if the patient developed 
+cerebral edema with obstruction of ___ ventricle causing 
+hydrocephalus or brainstem impingement.
+
+On ___, stroke neurology was consulted who recommended that he 
+start on aspirin as well as a statin. A standard stroke work up 
+was implemented which included laboratory tests as well as an 
+echocardiogram. The echocardiogram was negative for any 
+significant heart defects, including no ASD/PFO. A repeat NCHCT 
+was obtained which showed stable overall appearance of right 
+cerebellar infarct. Physical therapy was consulted who felt the 
+patient had no deficits requiring their management. 
+
+On ___ he was clinically stable and without complaint. His exam 
+showed no cerebellar signs. His case was discussed with the 
+stroke neurology service and given his exam he was accepted for 
+transfer to their service.  
+
+On ___ the patient has a stable neurologic exam and stable 
+cerebral ___
+ventricle effacement on imaging; at 5 days out from the stroke 
+he has passed the window for peak cerebral edema. He is stable 
+for transfer to floor.
+
+On ___ the patient was discharged home without need for home 
+___. Neurologic exam stable.
+
+Neuro:
+- Aspirin 81mg QD
+- Atorvastatin 20mg QD; LDL 144
+- recommend 14 day heart monitor to check for afib - pt 
+instructed to call stroke clinic for this monitor
+ 
+Medications on Admission:
+This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 20 mg PO DAILY 
+RX *atorvastatin 20 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+ischemic stroke
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+You were admitted with vertigo due to a stroke in the right part 
+of your brain.   This was thought to be due to your 
+atherosclerotic plaques in the blood vessels that lead to the 
+brain. You were started on Aspirin for stroke protection.   Your 
+stroke risk factors were checked.  Your LDL (bad) cholesterol 
+was 144.  You were started on atorvstatin. Some people have 
+muscle pain with this- let your primary doctor know if that 
+happens for you. You had a cardiac echocardiogram which 
+demonstrated no cause for stroke.   You were checked for blood 
+glucose control with a HgB A1c which was normal. We monitored 
+your heart rate and found no abnormal rhythm but would like to 
+make sure with extended monitoring at home. Please call the 
+numbner below to schedule.  You need to continue your good blood 
+pressure control.  
+ 
+You should continue to eat a low fat healthy diet, and follow up 
+with your primary care physician and stroke ___ as below.
+ 
+It was a pleasure taking care of you.  
+
+ 
+Followup Instructions:
+___

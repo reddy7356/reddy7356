@@ -1,0 +1,335 @@
+===== DISCHARGE NOTE =====
+note_id=11784849-DS-9 | hadm_id=24630193
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Codeine / Vicodin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ yo woman with history of depression, 
+sigmoid
+diverticulitis, rectal bleeding, who presented to ___
+after an episode of chest pain at 9:30 AM on ___, found to
+have troponin elevation to to 0.07 and PR prolongation on EKG 
+and
+transferred to ___ for further evaluation.
+
+Patient was in her usual state of health until 9:30am when she
+developed an episode of chest pain. Patient was sitting at her
+desk at work with abrupt onset mid substernal chest pressure
+radiating to back, and after a few minutes radiated up her neck
+and had associated headache. Patient experienced anxiety during
+and after the episode with lightheadedness, feeling shaky in the
+knees, reportedly was white in the face after the episode.
+Patient removed a tick (unidentified, unknown time of latch) 8
+days ago, and another last night. No rashes, arthralgias,
+constitutional symptoms. 
+
+Symptoms resolved after approximately 10 minutes. Afterwards for
+period of hours she felt generally weak and fatigued. She is
+currently without complaint. Notably no HTN, HLD, DM, FH,
+smoking, alc 2 drinks/week. Workup at outside hospital
+significant for ECG with prolonged PR, troponin 0.07. CTA 
+without
+evidence of dissection or PE. Patient administered a loading 
+dose
+of heparin, ASA 324mg, and given 2 g ceftriaxone at outside
+hospital for concern for Lyme carditis.
+
+- In the ED, initial vitals were: T 97.7, HR 63, BP 117/79, RR
+20, SpO2 98% RA 
+
+- Exam was notable for:
+Const: Comfortable
+Eyes: No conjunctival injection
+HENT: NCAT, Neck supple without meningismus. No JVD. 2+ radial
+and DP pulses
+CV: RRR, Warm, well-perfused extremities
+RESP: CTAB, Unlabored respiratory effort
+GI: soft, non-tender, non-distended
+MSK: No gross deformities appreciated
+Skin: Warm, dry. No rashes
+Neuro: Alert, Speech fluent 
+Psych: Appropriate mood and affect.
+
+- Labs were notable for:
+TropT: 0.07 -> 0.08
+
+- The patient was given: ASA 324mg and IV Ceftriaxone 2g at 
+___,
+heparin gtt
+
+On arrival to the floor, patient endorses the story outlined
+above. Denies any current chest pain. No clear alleviating
+factors when she had the chest pain earlier, including leaning
+forward/backward. Described pain as both a stabbing and pressure
+like pain. Does endorse history of chest pain which she has
+described as being indigestion. Denies any recent illness like
+symptoms except for nasal congestion. Denies any recent fevers,
+chills, sore throat, or cough. Denies any weight gain, 
+orthopnea,
+PND, or lower extremity edema. 
+
+ 
+Past Medical History:
+Depression
+ 
+Social History:
+___
+Family History:
+No family history of MI or early cardiac death.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: ___ 2339 Temp: 98.2 PO BP: 103/61 R Lying HR: 61 
+RR:
+18 O2 sat: 96% O2 delivery: RA 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VITALS: T 98.6 F, BP 99/56, HR 78, RR 18, 95% RA
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. Sclera anicteric and without injection. MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants.
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+NEUROLOGIC: AOx3. Moving all 4 limbs spontaneously.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 07:58PM BLOOD WBC-6.7 RBC-3.98 Hgb-12.5 Hct-37.7 MCV-95 
+MCH-31.4 MCHC-33.2 RDW-12.2 RDWSD-42.6 Plt ___
+___ 07:58PM BLOOD Neuts-33.2* ___ Monos-10.6 
+Eos-3.9 Baso-0.3 Im ___ AbsNeut-2.23 AbsLymp-3.49 
+AbsMono-0.71 AbsEos-0.26 AbsBaso-0.02
+___ 07:58PM BLOOD ___ PTT-40.4* ___
+___ 07:58PM BLOOD Glucose-83 UreaN-12 Creat-0.7 Na-139 
+K-4.1 Cl-104 HCO3-23 AnGap-12
+___ 07:58PM BLOOD CK(CPK)-376*
+___ 07:58PM BLOOD CK-MB-19* MB Indx-5.1 proBNP-55
+___ 07:58PM BLOOD cTropnT-0.08*
+___ 04:13AM BLOOD CK-MB-15* MB Indx-5.2 cTropnT-0.08*
+___ 10:10AM BLOOD CK-MB-13* cTropnT-0.08*
+
+PERTINENT LABS:
+===============
+___ 05:22AM BLOOD %HbA1c-4.7 eAG-88
+___ 04:13AM BLOOD Triglyc-73 HDL-65 CHOL/HD-2.3 LDLcalc-69
+___ 10:10AM BLOOD CRP-1.9
+___ 04:13 SED RATE 
+Test                          Result              Reference 
+Range/Units
+SED RATE BY MODIFIED          2                   < OR = 20 mm/h
+___                                        
+
+PERTINENT MICRO:
+================
+None
+
+PERTINENT IMAGING:
+==================
+___ TTE:
+CONCLUSION:
+The left atrial volume index is normal. There is normal left 
+ventricular wall thickness with a normal cavity size.
+There is normal regional and global left ventricular systolic 
+function. Quantitative biplane left ventricular
+ejection fraction is 62 %. There is no resting left ventricular 
+outflow tract gradient. Tissue Doppler suggests
+a normal left ventricular filling pressure (PCWP less than 
+12mmHg). Normal right ventricular cavity size with
+normal free wall motion. The aortic sinus diameter is normal for 
+gender with normal ascending aorta diameter
+for gender. The aortic arch diameter is normal. The aortic valve 
+leaflets (3) appear structurally normal. There
+is no aortic valve stenosis. There is trace aortic 
+regurgitation. The mitral valve leaflets appear structurally
+normal with no mitral valve prolapse. There is trivial mitral 
+regurgitation. The pulmonic valve leaflets are
+normal. The tricuspid valve leaflets appear structurally normal. 
+There is physiologic tricuspid regurgitation.
+The estimated pulmonary artery systolic pressure is normal. 
+There is no pericardial effusion.
+IMPRESSION: Normal biventricular cavity sizes and 
+regional/global biventricular systolic function.
+No significant valvular pathology or pathologic flow identified. 
+Normal estimated pulmonary artery
+systolic pressure.
+
+___ Stress echo:
+CONCLUSION: Good functional exercise capacity for age and 
+gender. No ischemic ECG changes
+with no symptoms to achieved treadmill stress. No 2D 
+echocardiographic evidence of inducible
+ischemia to achieved workload. Normal pulmonary artery systolic 
+pressure at rest. Normal resting
+blood pressure with a normal blood pressure and a normal heart 
+rate response to achieved
+workload.
+
+DISCHARGE LABS:
+================
+___ 06:20AM BLOOD WBC-5.3 RBC-4.11 Hgb-12.8 Hct-39.8 MCV-97 
+MCH-31.1 MCHC-32.2 RDW-12.3 RDWSD-44.4 Plt ___
+___ 06:20AM BLOOD Glucose-92 UreaN-11 Creat-0.7 Na-142 
+K-5.0 Cl-105 HCO3-24 AnGap-13
+___ 06:20AM BLOOD Calcium-9.1 Phos-3.6 Mg-2.0
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ yo woman with history of depression, 
+sigmoid
+diverticulitis, rectal bleeding, who presented to ___
+after an episode of chest pain at 9:30 AM on ___, found to
+have troponin elevation to 0.07 and PR prolongation on EKG and
+transferred to ___ for further evaluation.
+
+ACUTE ISSUES:
+==============
+# Chest pain:
+# Troponin elevation:
+# C/f NSTEMI:
+Patient presented with chest pain radiating to back lasting 
+___
+minutes with troponin elevation to 0.07 -> 0.08 at ___, 
+remained stable at 0.08 with downtrending MB at ___. EKG 
+notable for
+PR prolongation (uncertain of baseline) with PR 206 ms at 
+discharge. CTA without evidence of PE or dissection. Etiology 
+unclear. Patient without risk factors for ACS and presentation 
+of chest pain occurred for first time while at rest. TTE and 
+Exercise echo stress test were normal. This all makes ACS very 
+unlikely. Other possible etiologies include myocarditis 
+including lyme (recent tick exposure, PR prolongation) vs. viral 
+(recent nasal congestion) or coronary vasospasm. Can also 
+consider SCAD, though less likely given no abnormalities on TTE 
+and does not necessarily fit demographic. Did not have any 
+further episodes of chest pain inpatient. Her A1c and lipids 
+were normal, as were her CRP and ESR. Lyme is still pending. She 
+was initially started on ASA, statin, and heparin gtt, which 
+were all discontinued when TTE and stress test resulted normal. 
+She did also receive ceftriaxone 2g IV x1 at ___ to 
+empirically treat Lyme, which was not continued at ___.
+
+# First degree AV block:
+Patient with prolonged PR interval, > 200 ms. ___ about
+baseline. PR 206 ms at discharge. As noted above, recent tick 
+exposure so ordered for Lyme Ab, which is still pending at the 
+time of discharge.
+
+CHRONIC/STABLE ISSUES:
+======================
+# Depression.
+Continued home wellbutrin, citalopram.
+
+TRANSITIONAL ISSUES:
+====================
+Discharge PR interval: 206 ms
+
+[ ] Follow up Lyme Ab.
+[ ] Please repeat cardiac enzymes at PCP ___ ___ to 
+ensure resolution of elevation.
+[ ] Can repeat EKG in-office to trend PR intervals and ensure no 
+progression of heart block. Consider ongoing evaluation of PR 
+prolongation if lyme antibody negative.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. BuPROPion (Sustained Release) 200 mg PO QAM 
+2. Citalopram 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  BuPROPion (Sustained Release) 200 mg PO QAM  
+2.  Citalopram 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+-Chest pain
+-Troponin elevation
+-First degree atrioventricular block
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+You were admitted to the hospital because you had an episode of 
+chest pain and the heart enzymes in your blood were a little 
+high.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+-Over time, the heart enzymes in your blood were stable to 
+decreased.
+-You were initially on a blood thinner (heparin) until the 
+enzymes trended down.
+-You had an ultrasound of your heart (echocardiogram) and stress 
+test, both of which were normal, which is re-assuring.
+-You did not have any further episodes of chest pain, so you 
+were discharged home.
+
+WHAT SHOULD I DO WHEN I LEAVE THE HOSPITAL?
+-Continue to take your medications as prescribed.
+-Please attend all follow-up appointments.
+-If you have any additional episodes of chest pain, please go to 
+the Emergency Room.
+
+We wish you all the best,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,232 @@
+===== DISCHARGE NOTE =====
+note_id=10855311-DS-15 | hadm_id=27337509
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Shortness of breath, chest pain (sent to ED by PCP for new LBBB)
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ male with HTN and current tobacco use, no cardiac history, 
+who was sent from his PCP's office for shortness of breath, 
+chest pain and new left bundle branch block on EKG.  This 
+morning, he was walking at ___ when he felt the sudden 
+onset of shortness of breath, associated with chest heaviness.  
+He thought it was the start of a 'cold' but did not have 
+rhinorrhea or cough.  He reports some improvement of SOB with 
+rest, but did not completely resolve, so he presented to his 
+PCP.  At the PCP's office, he developed some substernal chest 
+pain, ___, associated with some jaw numbness.  He went to his 
+PCP, who performed an EKG and was found to have a new LBBB (a 
+change since ___.  His PCP sent him to the ___ ED.  Of 
+note, patient had similar symptoms ___ years ago, had cardiac 
+workup at ___ and was told he has no cardiac disease.
+.
+In the ED, initial vitals were T 98.8, HR 78, BP 152/102, RR 18, 
+SaO2 100% 2L.  He had already received ASA, NTGx2 with little/no 
+relief but he was given Morphine 8mg IV, which did relieve his 
+pain.  He received Zofran as well for nausea.  His first set of 
+biomarkers were negative.  ___ attending (___) 
+was contacted and the patient was started on Heparin drip.
+.
+On transfer, his vital signs were: HR 73, BP 140/93, O2 sat 
+96%RA.
+.  
+On review of systems, he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, long periods of 
+immobility, clotting disorder, bleeding at the time of surgery, 
+myalgias, cough, hemoptysis, black stools or red stools. He 
+denies recent fevers, chills or rigors. He denies exertional 
+buttock or calf pain. All of the other review of systems were 
+negative.  
+.  
+Cardiac review of systems is notable for paroxysmal nocturnal 
+dyspnea, ankle edema, palpitations, syncope or presyncope.  
+ 
+Past Medical History:
+- Hypertension
+- h/o nephrolithiasis
+ 
+Social History:
+___
+Family History:
+Grandfather passed away from MI in his ___.
+No other family history of early MI.  No FH of arrhythmia, 
+cardiomyopathies, or sudden cardiac death; otherwise 
+non-contributory.  
+ 
+Physical Exam:
+VS: T=98.4 BP=128-155/85-106 ___ RR=18 O2sat= 97%RA
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa.
+NECK: Supple with no JVP elevation.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, loud S2. No m/r. No thrills, lifts. No S3 
+or S4.  Chest not tender on palpation.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Rapid 
+resp rate, resp were unlabored, no accessory muscle use. CTAB, 
+no crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ DP 2+ ___ 2+ 
+ 
+Pertinent Results:
+Labs:
+___ 12:00PM WBC-7.4 RBC-4.79 Hgb-15.9 Hct-43.8 MCV-92 
+MCH-33.1* MCHC-36.2* RDW-13.2 Plt ___ Neuts-66.4 Lymphs-25.9 
+Monos-5.4 Eos-1.9 Baso-0.5
+___ 04:25AM WBC-6.9 RBC-4.74 Hgb-15.5 Hct-44.8 MCV-94 
+MCH-32.7* MCHC-34.6 RDW-12.8 Plt ___
+___ 12:00PM Glucose-77 UreaN-10 Creat-0.8 Na-139 K-3.9 
+Cl-105 HCO3-27 AnGap-11 Calcium-8.8 Phos-3.2 Mg-2.1 Cholest-117
+___ 04:25AM Glucose-99 UreaN-14 Creat-1.1 Na-138 K-4.5 
+Cl-101 HCO3-30 AnGap-12 Calcium-8.9 Phos-3.9 Mg-2.1
+___ 12:00PM CK-MB-2
+___ 12:00PM cTropnT-<0.01
+___ 12:36AM CK-MB-1 cTropnT-<0.01
+___ 12:00PM %HbA1c-5.3 eAG-105
+
+___ 12:00PM Triglyc-120 HDL-38 CHOL/HD-3.1 LDLcalc-55
+
+___ 12:00PM TSH-1.2
+
+CXR ___:
+FINDINGS: PA and lateral views of the chest were obtained. The 
+lungs appear clear bilaterally. The heart is at the upper limits 
+of normal in size. No pleural effusion or pneumothorax is seen. 
+Osseous structures are intact. No free air below the right 
+hemidiaphragm is seen. 
+IMPRESSION: Mild/borderline cardiac enlargement. Otherwise 
+unremarkable. 
+
+ECHOCARDIOGRAM ___:
+Conclusions  
+The left atrium is mildly dilated. The estimated right atrial 
+pressure is ___. There is mild symmetric left ventricular 
+hypertrophy. The left ventricular cavity size is normal. There 
+is mild to moderate global left ventricular hypokinesis (LVEF = 
+40 %) with mild regional variation. Right ventricular chamber 
+size and free wall motion are normal. The aortic valve leaflets 
+(3) appear structurally normal with good leaflet excursion and 
+no aortic regurgitation. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. Mild (1+) mitral 
+regurgitation is seen. The pulmonary artery systolic pressure 
+could not be determined. There is no pericardial effusion.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ gentleman with cardiac risk factors being 
+tobacco use and HTN, who presents with sudden onset of shortness 
+of breath with exertion, associated with chest pain.  EKG 
+revealed new LBBB.  Troponin negx2 (12 hours) and EKG had no 
+evidence of ACS.  ECHO revealed global hypokinesia and decreased 
+LVEF~40%.  LV dysfunction possibly secondary to viral cause, 
+unlikely ischemic given global hypokinesis.
+.  
+# Shorness of Breath/Chest Pain- Patient presents with sudden 
+onset of shortness of breath with atypical chest pain.  Given 
+his risk factors and newly developed LBBB, this is concerning 
+for CAD.  However, patient does not meet Sgarbossa's criteria 
+given his STE were all discordant with QRS and <5mm (Sgarbossa- 
+ST segment elevation of 1 mm or more that was concordant as the 
+QRS complex in any lead — score 5. ST segment depression of 1 mm 
+or more in any lead from V1 to V3 — score 3. ST segment 
+elevation of 5 mm or more that was discordant with the QRS 
+complex— score 2.)  LBBB can be a result conduction system 
+degeneration with aging or hypertensive cardiomyopathy. In 
+addition, PE is also on the differential given the sudden onset 
+of shortness of breath, and ongoing tachypnea, although patient 
+has no history of DVT, PE, family clotting disorder, or recent 
+periods of immobility.  COPD/Pulm HTN also on the differential 
+with SOB and chest pain on exertion.  ECHO revealed global 
+hypokinesia and decreased LVEF~40%.  Given global hypokinesis 
+with no obvious regional wall motion abnormalities, ischemic 
+cause is unlikely.  Ddx of decreased LVEF includes viral 
+etiology and HTN cardiomyopathy (he has no history of EtOH 
+abuse).  Viral cause is most likely, especially given that the 
+patient feels that he has been "coming down with something."  We 
+started the patient on ASA, beta blocker, statin and continued 
+home valsartan.  Lipid panel, TSH, and lyme titer were obtained 
+as part of work up.  Patient instructed to follow up as 
+outpatient repeat echocardiogram and possible stress test.  
+Patient discharged on ASA 81mg (new med), toprol 25mg (new med) 
+and home dose Diovan/HCTZ.
+.  
+# Hypertension- Initial SBP 120-150s (120s after night 
+metoprolol), with HR 60-80.  Recently increased Diovan/HCTZ 
+dose.  We continued his Diovan/HCTZ, and added 12.5mg metoprolol 
+BID for further BP and HR control.  Patient discharged on home 
+dose Diovan/HCTZ and metoprolol succinate 25mg daily. 
+.  
+# Tobacco Use- Smoking cessation counseling.
+
+***Labs pending at the time of discharge: Lyme titers.
+ 
+Medications on Admission:
+- Diovan HCTZ 160 mg-25 mg daily
+ 
+*ALLERGIES: PCN- tongue swelling
+ 
+Discharge Medications:
+1. valsartan-hydrochlorothiazide 160-25 mg Tablet Sig: One (1) 
+Tablet PO once a day.  
+2. aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+3. metoprolol succinate 25 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+Cardiomyopathy
+
+SECONDARY:
+Hypertension
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you during your 
+hospitalization.  You were admitted to the hospital because you 
+had chest discomfort and new EKG changes.  We made sure you were 
+not having a heart attack.  You also had an echocardiogram 
+(ultrasound of the heart) which was abnormal: your heart is not 
+pumping as strongly as it should be.  This may be a result of a 
+viral illness, which should resolve spontaneoudsly.  In case it 
+is because of lack of blood supply to the heart, you should 
+undergo a repeat echo in a few weeks to ensure resolution beause 
+if the abnormality is still present you may need a stress test 
+or other workup.
+.
+We made the following changes to your medications:
+1. ADD metoprolol succinate 25mg daily
+2. ADD aspirin 81mg daily (baby aspirin)
+ 
+Followup Instructions:
+___

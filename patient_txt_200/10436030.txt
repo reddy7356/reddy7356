@@ -1,0 +1,420 @@
+===== DISCHARGE NOTE =====
+note_id=10436030-DS-22 | hadm_id=23621452
+
+ 
+Name:  ___.                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Solu-Medrol / Nsaids
+ 
+Attending: ___.
+ 
+Chief Complaint:
+bilateral upper extremity pain, paresthesias, and weakness
+ 
+Major Surgical or Invasive Procedure:
+FUSION CERVICAL ANTERIOR C5-C7 with Neuromonitoring on ___ 
+with Dr. ___
+
+ 
+___ of Present Illness:
+___ w narcolepsy, CVID, neurologist at BI p/w BUE pain, 
+dystesthesias, and weakness s/p fall down 20+ stairs this 
+evening after missing a step.  + HS, - LOC. States that she 
+could not initially move legs or arms, but this subsided. 
+
+ 
+Past Medical History:
+Monoclonal IgA kappa
+Hypogammaglobulinemia
+hypertension
+narcolepsy
+knee surgery with synovectomy in ___
+ 
+Social History:
+___
+Family History:
+She does not have a family history of immune deficiency or 
+hematologic malignancy.
+ 
+Physical Exam:
+PE:
+NAD, A&Ox4
+nl resp effort
+RRR
+  
+Sensory:
+UE 
+       C5         C6           C7        C8           T1
+     (lat arm)  (thumb)     (mid fing) (sm finger)  (med arm)
+R     SILT       SILT        dys        dys         SILT
+L     SILT       SILT        dys        dys         SILT
+
+___    
+     L2     L3      L4         L5        S1          S2
+   (Groin) (Knee) (Med Calf) (Grt Toe) (Sm Toe) (Post Thigh)
+R    SILT   SILT    SILT       SILT     SILT       SILT 
+L    SILT   SILT    SILT       SILT     SILT       SILT 
+
+Motor:
+UE   Dlt(C5) Bic(C6) WE(C6) Tri(C7) WF(C7) FF(C8)FinAbd(T1)
+R      5       5       4      5       5      4     5
+L      5       4       4      5       5      4     5
+
+___  Flex(L1) Add(L2) Quad(L3)  TA(L4) ___ ___
+R      5       5       5         5      5      5         5      
+L      5       5       5         5      5      5         5
+
+              
+___: Negative
+Clonus: No beats
+
+ 
+Pertinent Results:
+___ 01:10AM BLOOD WBC-7.1 RBC-3.58* Hgb-11.5 Hct-34.4 
+MCV-96 MCH-32.1* MCHC-33.4 RDW-12.1 RDWSD-42.6 Plt ___
+___ 09:16AM BLOOD WBC-6.5 RBC-4.00 Hgb-12.7 Hct-38.1 MCV-95 
+MCH-31.8 MCHC-33.3 RDW-11.9 RDWSD-41.6 Plt ___
+___ 11:32PM BLOOD WBC-6.8 RBC-4.06 Hgb-13.0 Hct-39.7 MCV-98 
+MCH-32.0 MCHC-32.7 RDW-12.1 RDWSD-43.7 Plt ___
+___ 09:16AM BLOOD Neuts-92.4* Lymphs-6.0* Monos-1.1* 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-5.99 AbsLymp-0.39* 
+AbsMono-0.07* AbsEos-0.00* AbsBaso-0.01
+___ 01:10AM BLOOD Plt ___
+___ 09:16AM BLOOD Plt ___
+___ 09:16AM BLOOD ___ PTT-29.8 ___
+___ 11:32PM BLOOD ___ 01:10AM BLOOD Glucose-119* UreaN-9 Creat-0.5 Na-137 
+K-3.5 Cl-101 HCO3-24 AnGap-12
+___ 09:16AM BLOOD Glucose-165* UreaN-10 Creat-0.6 Na-138 
+K-4.1 Cl-101 HCO3-24 AnGap-13
+___ 11:32PM BLOOD Glucose-120* UreaN-14 Creat-0.8 Na-143 
+K-3.6 Cl-104 HCO3-24 AnGap-15
+___ 11:32PM BLOOD LD(LDH)-256*
+___ 11:32PM BLOOD Lipase-25
+___ 01:10AM BLOOD Calcium-8.4 Phos-3.5 Mg-1.8
+___ 09:16AM BLOOD Calcium-9.1 Phos-2.6* Mg-1.9
+ 
+Brief Hospital Course:
+Patient was admitted to the ___ Spine Surgery Service and 
+taken to the Operating Room for the above procedure.Refer to the 
+dictated operative note for further details.The surgery was 
+without complication and the patient was transferred to the PACU 
+in a stable ___ were used for postoperative 
+DVT prophylaxis.Intravenous antibiotics were continued for 24hrs 
+postop per standard protocol.Initial postop pain was controlled 
+with oral and IV pain medication.Diet was advanced as 
+tolerated.Foley was removed on POD#2. Physical therapy and 
+Occupational therapy were consulted for mobilization OOB to 
+ambulate and ADL's.
+Hospital course was otherwise unremarkable.On the day of 
+discharge the patient was afebrile with stable vital signs, 
+comfortable on oral pain control and tolerating a regular diet.
+ 
+Medications on Admission:
+Medications - Prescription
+ARMODAFINIL [NUVIGIL] - Nuvigil 250 mg tablet. 0.5 (One half)
+tablet by mouth twice each day.
+BUDESONIDE-FORMOTEROL [SYMBICORT] - Symbicort 160 mcg-4.5
+mcg/actuation HFA aerosol inhaler. 2 puffs inhaled twice daily
+CHLORTHALIDONE - chlorthalidone 25 mg tablet. 1 tablet(s) by
+mouth once a day -  (Dose adjustment - no new Rx)
+CLOBETASOL - clobetasol 0.05 % topical ointment. apply at 
+bedtime
+CODEINE-GUAIFENESIN [GUAIFENESIN AC] - Guaifenesin AC 10 mg-100
+mg/5 mL oral liquid. ___ ml by mouth every eight (8) hours as
+needed for cough Dispense 150cc bottle
+FEXOFENADINE - fexofenadine 180 mg tablet. 1 tablet(s) by mouth
+once prior to IVIG treatment
+FEXOFENADINE - fexofenadine 60 mg tablet. 1 tablet(s) by mouth
+twice as needed for allergic rhinitis
+IMMUN GLOB G(IGG)-PRO-IGA ___ [___] - Hizentra 4 gram/20 
+mL
+(20 %) subcutaneous solution. 10 grams every 10 days
+LAMOTRIGINE - lamotrigine 150 mg tablet. 1 tablet(s) by mouth
+once a day
+LIDOCAINE-PRILOCAINE - lidocaine-prilocaine 2.5 %-2.5 % topical
+cream. apply to area 1 hour before procedure one time as needed
+for prn pain -  (Not Taking as Prescribed: Discontinued)
+LORAZEPAM - Dosage uncertain -  (Prescribed by Other Provider:
+0.5  mg 1x bedtime )
+OSELTAMIVIR - oseltamivir 75 mg capsule. 1 capsule(s) by mouth
+daily for ongoing flu prophylaxis.
+ 
+Medications - OTC
+ASPIRIN, BUFFERED - aspirin, buffered 325 mg tablet. one
+Tablet(s) by mouth DAILY please take daily for one month to
+prevent blood clots -  (Not Taking as Prescribed)
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H 
+no more than 4G/24H  
+2.  Bisacodyl 10 mg PO/PR DAILY  
+3.  Docusate Sodium 100 mg PO BID  
+4.  HYDROmorphone (Dilaudid) 2 mg PO Q4H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: GI upset with oxycodone
+RX *hydromorphone [Dilaudid] 2 mg 1 tablet(s) by mouth every 
+four (4) hours Disp #*40 Tablet Refills:*0 
+5.  Pregabalin 100 mg PO BID  
+6.  Chlorthalidone 25 mg PO DAILY  
+7.  Clobetasol Propionate 0.05% Ointment 1 Appl TP QHS  
+8.  LamoTRIgine 150 mg PO DAILY  
+9.  LORazepam 0.5 mg PO QHS:PRN insomnia  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+C5-6, C6-7 disc herniation c/b cord impingement
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+ACDF:
+
+You have undergone the following operation:Anterior Cervical 
+Decompression and Fusion.
+
+Immediately after the operation:
+
+•                Activity:You should not lift anything greater 
+than 10 lbs for 2 weeks.You will be more comfortable if you do 
+not sit in a car or chair for more than~45 minutes without 
+getting up and walking around. 
+
+•                Rehabilitation/ Physical ___ times a 
+day you should go for a walk for ___ minutes as part of your 
+recovery.You can walk as much as you can tolerate.  
+
+•                Swallowing:Difficulty swallowing is not 
+uncommon after this type of surgery.This should resolve over 
+time.Please take small bites and eat slowly.Removing the collar 
+while eating can be helpful–however,please limit your movement 
+of your neck if you remove your collar while eating.
+
+•                Cervical Collar / Neck Brace:If you have been 
+given a soft collar for comfort, you may remove the collar to 
+take a shower or eat.Limit your motion of your neck while the 
+collar is off.You should wear the collar when walking,especially 
+in public.
+
+•                Wound Care:Remove the dressing in 2 days.If the 
+incision is draining cover it with a new sterile dressing.If it 
+is dry then you can leave the incision open to the air.Once the 
+incision is completely dry (usually ___ days after the 
+operation) you may take a shower.Do not soak the incision in a 
+bath or pool.If the incision starts draining at anytime after 
+surgery,do not get the incision wet.Call the office at that 
+time. f you have an incision on your hip please follow the same 
+instructions in terms of wound care.
+
+•                You should resume taking your normal home 
+medications.
+
+•                You have also been given Additional Medications 
+to control your pain.Please allow 72 hours for refill of 
+narcotic prescriptions,so plan ahead.You can either have them 
+mailed to your home or pick them up at the clinic located on 
+___.We are not allowed to call in narcotic 
+(oxycontin,oxycodone,percocet) prescriptions to the pharmacy.In 
+addition,we are only allowed to write for pain medications for 
+90 days from the date of surgery.
+
+•                Follow up:
+
+               Please Call the office and make an appointment 
+for 2 weeks after the day of your operation if this has not been 
+done already.
+
+                At the 2-week visit we will check your 
+incision,take baseline x rays and answer any questions.
+
+                We will then see you at 6 weeks from the day of 
+the operation.At that time we will most likely obtain 
+Flexion/Extension X-rays and often able to place you in a soft 
+collar which you will wean out of over 1 week.
+
+Please call the office if you have a fever>101.5 degrees 
+Fahrenheit, drainage from your wound,or have any questions.
+Physical Therapy:
+1)Weight bearing as tolerated.2)Gait,balance training.3)No 
+lifting >10 lbs.4)No significant bending/twisting. 
+C-collar at all times X 6 weeks. ___ remove for hygiene
+Treatments Frequency:
+Remove the dressing in 2 days.If the incision is draining cover 
+it with a new sterile dressing.If it is dry then you can leave 
+the incision open to the air.Once the incision is completely dry 
+(usually ___ days after the operation) you may take a shower.Do 
+not soak the incision in a bath or pool.If the incision starts 
+draining at anytime after surgery,do not get the incision 
+wet.Call the office at that time.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10436030-DS-21 | hadm_id=27144373
+
+ 
+Name:  ___.                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Solu-Medrol / Nsaids
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Periorbital Cellulitis
+ 
+Major Surgical or Invasive Procedure:
+intravenous antibiotics
+ 
+History of Present Illness:
+___ is a ___ year old physician who is followed for a 
+monoclonal Ig A happa. She has hypogammaglobulinemia, and 
+receives weekly subcutaneous IVIG(Vivaglobin)under the direction 
+of Dr. ___. She presented with a two day history of of 
+progressive pain and irritation in her left eye. She was 
+evaluated by ___ on the day prior to admission, and 
+was found to have a mild exudate, erythema, and mild swelling in 
+area of left outer canthus.  She received a dose of Doxycycline 
+in clinic and tool two doses of Augmentin. Over the subsequent 
+24 hours, she developed progressive erythema nad swelling under 
+the left eye, progressing to the left cheek. She did not note  
+any fever. Her vision was not affected, and she was able to move 
+her eye
+without any restriction or pain. She does note that there was an 
+approximate 6 week time period where she didn't administer IVIG. 
+This was resumed 2 weeks ago but hasn't had any since.
+
+ALLERGIES: NSAIDS AND SOLUMEDROL
+
+MEDICATIONS: Reviewed
+
+PHYSICAL EXAMINATION:
+GENERAL: ___ year old female sitting at edge of exam table in 
+some
+mild distress
+HEENT: Left eye with conjunctival injection and mild drainage 
+and
+exudate noted on exam. ? of hordelodeum. Progression of edema 
+and
+erythema. Still most promient on lateral third of the left lower
+eyelid. Also has some mild erythema and edema on left cheek. The
+area around the left aspect of outer eye is extremely tenderness
+to palpation. There is no pain with eye movement. OD is
+unremarkable.
+
+LABORATORY DATA:
+
+WBC 5.6, Hgb 13.2, Plt 226, normal diff BUN/creatinine ___,
+alk phos 130. Electrolytes and LFTs are otherwise within normal
+limits.
+   
+
+ASSESSMENT AND PLAN
+
+___ has what is felt to most likely be periorbital cellulitis
+which is not responding to oral antibiotics and now with
+worsening symptoms. Had a low grade temp of 99.1 today in 
+clinic.
+She will receive IV Ceftriaxone and Vancomycin. We will also 
+give
+her 200mg/kg of IVIG and would recommend that she resume her sc
+weekly IVIG which she administers at home. Her CBC and
+differential are normal. We sent serum immunoglobulins which are
+pending. Her last IgG level in ___ was 702. Her IgA has been
+stable and at that time was 524. Would also recommend adding
+topical erthyromycin ointment. She will be observed inhospital
+overnight, and if her symptoms improve, she will be discharged 
+in
+the am to complete a course of oral antibiotics.
+
+We also will send bacterial and viral cultures of the exudate
+today.
+
+The patient was seen and examined by Dr. ___ and
+___ in agreement with the above plan.
+
+ 
+Past Medical History:
+Monoclonal IgA kappa
+Hypogammaglobulinemia
+hypertension
+narcolepsy
+knee surgery with synovectomy in ___
+ 
+Social History:
+___
+Family History:
+She does not have a family history of immune deficiency or 
+hematologic malignancy.
+ 
+Physical Exam:
+Temp 99.1
+Conjunctival injection with mild drainage. Erythema and swelling
+of the lateral third of the left lower eyelid, and mild erythema
+and swelling over the left cheek.
+No pain with eye movement
+
+ 
+Pertinent Results:
+WBC 5.6, Hgb 13.2, Plt 226, normal diff BUN/creatinine ___,
+alk phos 130. Electrolytes and LFTs are otherwise within normal
+limits
+ 
+Brief Hospital Course:
+Dr. ___ two doses of Ceftiaxone and one dose of 
+Vancomycin intravenously. She also received 20 grams of IVIG, 
+given her history of low IgG. She developed itching and mild 
+facial erythema after the vancomycin, which improved with 
+benadryl. 
+
+The following morning, the erythema and swelling around her eye 
+and check was much improved. She was discharged home to complete 
+a two week course of oral antibiotics with Augmentin and 
+Bactrim. This was discussed with Dr. ___ who recommended 
+bacrtim in addition to Augmentin for better gram positive 
+coverage.
+ 
+Discharge Medications:
+Augmentin
+Bactrim
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+___ cellulitis
+ 
+Discharge Condition:
+improved
+ 
+Discharge Instructions:
+Complete a two week course of oral augmentin and bactrim.
+ 
+Followup Instructions:
+___

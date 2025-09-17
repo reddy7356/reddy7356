@@ -1,0 +1,236 @@
+===== DISCHARGE NOTE =====
+note_id=11329227-DS-5 | hadm_id=27551193
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+code stroke: diplopia, slurred speech
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+The pt is a ___ year-old right-handed woman with past medical
+history significant for HLD, hypothyroidism, and temporal lobe
+epilepsy who presents at ___ as a code stroke for lethargy,
+vision problems, diplopia and slurred speech.
+
+Her story is somewhat confusing, she was normal this morning 
+when
+she woke up, and was driving when she first thought the sun was
+bothering her eyes.  She was driving in the the sun and felt 
+that
+the light was too great and was making it difficulty to see. 
+When she put the visor down she realized that it wasn't only the
+sun that was causing her vision trouble.  She had the sensation
+that one eye was being pushed up (she thinks it was her right
+eye) and one eye was being pulled down.  It is not clear what 
+she
+means by this.  At the time she does not think she has double
+vision, but cannot explain the vision problem well.  She doesn't
+believe that there was any part of her vision that was missing,
+and doesn't think the vision difficultly was on one side or the
+other.  She didn't test each eye individually.  She pulled over
+out of concern that she would crash and looked for her cell 
+phone
+to call her family, but she had left it at home .  She then
+decided to drive home on her own.  She was able to get home with
+her vision difficulty, however was very anxious on the ride back
+and felt that she had generalized weakness.
+
+When she got home she tried to get out of the car and had
+difficulty and fell to the floor.  She did not hit her head and
+it was a short distance and she didn't injure herself.  When she
+attempted to walk she felt unsteady, and weak.  She felt like 
+her legs were "drunk" and may have had a brief sensation of 
+vertigo.  At this time her
+husband found her.  He noted when she tried to talk that her
+words were difficult to understand.  He was only able to make 
+out
+a few words.  She also noted that her speech sounded strange, 
+and
+she described a feeling of being unable to produce the correct
+words, and felt that she could not put a whole sentence together
+and was limited to short phrases of 3 words or less.  Her 
+husband
+also felt there may have been some drooping of the right side of
+the face and the patient remembered there was some drooling out
+the right side of her mouth.  Her husband thinks she was able to
+understand and follow simple commands, the patient notes she was
+very anxious at this time, and does not remember what her 
+husband
+said to her.  Given these symptoms they put her back in the car
+and drove her to ___.  While in the car she noted that she was
+having double vision.  She saw street signs one above the other. 
+
+She didn't test if it improved by closing one eye.  This lasted
+for at least 15 minutes.  Both her speech difficulty and her
+vision problems started to resolved while she was in the car. 
+She was nearly back to baseline when she arrived in the ED where
+she was called as a code stroke.
+
+She had an ___ stroke scale of 0.  Her exam was notable 
+initially
+for mild slowing of speech, and occasionally would drop an
+article such as "the" or "my".  This rapidly resolved. 
+
+ 
+Past Medical History:
+- hypothyroidism
+- partial seizures (she reports episodes at night where she 
+bites
+her lip has not had an episode for some time)
+- HLD
+- GERD 
+ 
+Social History:
+___
+Family History:
+Multiple members of family with cardiac risk factors,
+stroke and ICH.  Father died of an MI, sisters with HTN.
+ 
+Physical Exam:
+Mental Status: Alert, oriented x 3.  Able to relate history
+without difficulty.  Attentive, able to name ___ backward 
+without
+difficulty.  Initially on speaking with patient she had somewhat
+halting speech, and would leave out articles such as "the" and
+say, left car to go into house, and saw husband at top of 
+stairs,
+but this was gone in < 30 seconds, and did not reoccur. 
+Currently
+language is fluent with intact repetition and comprehension. 
+Normal prosody.  There were no paraphasic errors.  Pt. was able
+to name both high and low frequency objects.  Able to read
+without difficulty.  Speech was not dysarthric. Able to follow
+both midline and appendicular commands. Pt. was able to register
+3 objects and recall ___ at 5 minutes.  The pt. had good
+knowledge of current events.  There was no evidence of apraxia 
+or
+neglect. 
+
+-Cranial Nerves: 
+I: Olfaction not tested.  
+II: PERRL 3 to 2mm and brisk.  VFF to confrontation.III, IV, VI:
+EOMI without nystagmus.  Normal saccades. 
+V: Facial sensation intact to light touch. 
+VII: No facial droop, facial musculature symmetric. 
+VIII: Hearing intact to finger-rub bilaterally.  
+IX, X: Palate elevates symmetrically.  
+XI: ___ strength in trapezii and SCM bilaterally. 
+XII: Tongue protrudes in midline.
+ 
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally. 
+Patient was cold and had a high amplitude, high frequency tremor
+in all limbs, improved after warming and calming patient down.
+  Delt Bic Tri WrE FFl FE IP Quad Ham TA Gastroc
+L  5    ___   ___   5    5  5     5   
+R  5    ___   ___   5    5  5     5   
+ 
+-Sensory: No deficits to light touch, cold sensation, vibratory
+sense, proprioception throughout. No extinction to DSS. 
+ 
+-DTRs: 
+  Bi Tri ___ Pat Ach 
+L  1  1    1    1   0 
+R  1  1    1    1   0 
+Plantar response was flexor bilaterally. 
+ 
+-Coordination: No intention tremor, no dysdiadochokinesia noted.
+No dysmetria on FNF or HKS bilaterally. 
+ 
+-Gait: Good initiation. Very hesitant gait but narrow-based. 
+Unsteady standing but didn't fall, had romberg on first testing
+not on second time
+
+ 
+Pertinent Results:
+Echo: 
+The left atrium is normal in size. No atrial septal defect or 
+patent foramen ovale is seen by 2D, color Doppler or saline 
+contrast with maneuvers. Left ventricular wall thicknesses are 
+normal. The left ventricular cavity is unusually small. Left 
+ventricular systolic function is hyperdynamic (EF>75%). Right 
+ventricular chamber size and free wall motion are normal. There 
+are focal calcifications in the aortic arch. The aortic valve 
+leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic regurgitation. The mitral valve leaflets 
+are mildly thickened. There is no mitral valve prolapse. Trivial 
+mitral regurgitation is seen. There is borderline pulmonary 
+artery systolic hypertension. There is no pericardial effusion.  
+ 
+
+MRI head: 
+No acute infarction or hemorrhage.
+
+___ 09:26AM   cTropnT-<0.01
+___ 09:26AM   WBC-5.6 RBC-4.37 HGB-14.7 HCT-41.3 MCV-95 
+MCH-33.7* MCHC-35.5* RDW-12.8
+ 
+Brief Hospital Course:
+Mrs ___ was admitted as a code stroke. Her NIHSS was 0. 
+She had undergone an MRI of the brain which was negative. An 
+Echo was also completed which was unrevealing. There was no 
+arrhythmia captured on overnight telemetry monitoring. She was 
+started on aspirin 325mg daily along with lipitor 20mg. It was 
+not clear what this event was but could have been a transient 
+vascular event. She will follow up with neurology for further 
+management.
+ 
+Medications on Admission:
+- Synthroid ___ qd
+- Trileptal 200mg BID
+- Nexium 40mg qd
+- caltrate 1g daily
+- b complex vitamins
+
+ 
+Discharge Medications:
+1. levothyroxine 137 mcg Capsule Sig: One (1) Tablet PO once a 
+day.  
+2. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+4. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*20 Tablet(s)* Refills:*2*
+5. oxcarbazepine 150 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day). Tablet(s) 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Possible Transient Ischemic Attack
+
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted after an episode of double vision, slurred 
+speech and difficulty walking that self resolved. Your brain MRI 
+was normal. Your brain and neck vessels showed no obstruction. 
+Your exhocardiogram was normal. You were started on aspirin and 
+simvastatin.
+ 
+Followup Instructions:
+___

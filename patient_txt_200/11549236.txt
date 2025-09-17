@@ -1,0 +1,500 @@
+===== DISCHARGE NOTE =====
+note_id=11549236-DS-22 | hadm_id=20060563
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Seizure
+ 
+Major Surgical or Invasive Procedure:
+Intubation
+ 
+History of Present Illness:
+Patient is a ___ yo RHW with hx of traumatic SDH back in ___
+but did not undergo any surgical intervention transferred from
+___ after ~45 minutes of generalized convulsion. 
+
+
+Patient fell back in ___ while carrying laundry basket - 
+thought
+to have tripped over something and found to have L SDH.  She was
+admitted here from ___ ~ ___ under ___ service but did not
+have surgical intervention.  She was discharged to home with
+Dilantin then she was found to have some word-finding difficulty
+on ___ hence was admitted to ___ from ___.  She was
+initially sent to rehab and she has been home afterwards and per
+sister, she has been getting stronger day by day.  She was
+actually able to take a lengthy walk with sister who held her
+hand yesterday and was in her USOH this morning.  
+
+Then around 1pm, patient was found in the bathroom calling for
+her sister.  Per sister, patient was shaking her head and arms
+with L hand clenched but was able to talk to her sister.  
+Patient
+was also quite diaphoretic per sister.  EMS was called and
+patient was able to answer their questions but upon arrival to
+___, she was reportedly having generalized
+convulsion.  The ambulance that took her was not equipped to 
+give
+her any meds.  At ___, she was given 30mg IV
+Valium then 4mg of IV Ativan and intubated after a bolus of
+Propofol.  Her convulsion supposedly lasted ~45 minutes.  She
+then was transferred here for further evaluation.  Also, she was
+febrile up to 101 at ___ per records.  There is no hx of
+seizures per sister but it appears that her Dilantin dose was
+increased from ___ to ___ at ___.
+
+ROS completely negative per sister including fever/chills, 
+change
+in appetite, N/V/D, or sick contact.
+
+Given the fever of 101 and status, patient was empirically
+started on broad ABX with plan for LP but repeat head CT shows
+acute but small SDH (R frontal and occipital) hence LP deferred
+per ED.  ___ was also consulted who did not feel that
+intervention was warranted at this point.
+ 
+Past Medical History:
+1. hx of traumatic SDH back in ___. Hypothyroidism
+3. Osteoporosis
+4. s/p mastectomy
+ 
+Social History:
+___
+Family History:
+No FH of seizures
+ 
+Physical Exam:
+Patient sedated on propofol and had received 20mg of IV
+Valium and 4mg of IV Ativan prior to transfer.
+T 99.8 (rectal) BP 158/68 HR 60 RR 14 O2Sat 100% on CMV
+Gen: Lying in bed, intubated and sedated.
+CV: RRR, ___ systolic murmur auscultable on LUSB.
+Lung: Clear anteriorly. 
+Abd: +BS, soft, nondistended.
+Ext: No edema
+
+Neurologic examination: 
+Mental status: Intubated and sedated.
+CN: Pupils small but symm and reactive (2.5 -> 2mm). No OCR but
+bilateral corneal's present.  No gag.  Face appears symmetric.
+Motor: Purposeful withdrawal to noxious stim in both ___ but
+nothing on UEs.  No spontaneous movement.
+___: Appears intact to noxious stim in ___: 2+ and symm throughout and toes appear upgoing
+bilaterally.
+
+Neurological examination at time of discharge:
+
+MS:  Alert, oriented to place, time and person.  She was 
+attentive: MOYB, was awake. There was no aphasia, no paraphasic 
+errors.  No dysarthria.  She repeated, registered ___ but recall 
+was ___.  She was able to follow simple commands, but 
+perserveration was noted with multiple step commands and she 
+required multiple redirection.  No right left confusion.  Naming 
+of low and high frequency objects was intact.
+
+CN: PERRL 2.5->2mm, VFF to threat, EOMI, lateral gaze nystagmus 
+x2bts b/l, facial sensation and symmetry were present, hearing 
+impaired to finger rub (presbycusis hx), papate midline, tongue 
+midline, shoulder shrug intact.
+
+Motor: Normal tone, trace asterixis.  She was full strength in 
+UEs with exception of L delt/tri/FE which were 4+.  She was 3+ 
+at biceps and triceps b/l.  Position sense was intact.  No 
+tremor. In ___, IPs were 4+ on R and 4 on L, H 4+ on L, 
+otherwise strength was full.  No clonus, DTRs were 3+ b/l and 1+ 
+at achilles.  Toe was down on R, equivocal on L.  
+
+Sensory: intact to PP and LT throughout.  Proprioception 
+impaired at great toes, vibration impaired by 5 seconds b/l in 
+___.
+
+Gait: able to stand up from chair on own w/ use of hands.  Gait 
+was wide-based, patient nearly fell to the R when walking w/ 
+examiner.
+ 
+Pertinent Results:
+Admission Labs
+
+___ 05:10PM URINE  
+MUCOUS-MOD
+___ BACTERIA-FEW YEAST-NONE ___ TRANS ___
+BLOOD-SM NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG 
+BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG
+COLOR-Yellow APPEAR-Clear SP ___
+
+___ 05:10PM   
+PLT COUNT-257
+___ PTT-26.4 ___
+NEUTS-76.2* LYMPHS-15.7* MONOS-5.8 EOS-1.8 BASOS-0.5
+WBC-7.4 RBC-3.47* HGB-10.5* HCT-32.8* MCV-95 MCH-30.3 MCHC-32.0 
+RDW-14.6
+GLUCOSE-139* UREA N-15 CREAT-0.7 SODIUM-133 POTASSIUM-3.8 
+CHLORIDE-100 TOTAL CO2-24 ANION GAP-13
+LACTATE-1.5
+
+Cardiac Biomarkers
+___ 05:10PM   cTropnT-0.12* CK-MB-6 CK(CPK)-313*
+___ 10:35PM   cTropnT-0.05* CK-MB-6  CK(CPK)-459*
+
+CT HEAD W/O CONTRASTStudy Date of ___ 6:07 ___
+MPRESSION:
+1. New right cerebral convexity subdural hematoma, without 
+midline shift.
+2. Resolution of left frontotemporal subdural hematoma.
+
+CT C-SPINE W/O CONTRASTStudy Date of ___ 8:49 ___
+IMPRESSION:
+1. No cervical spine fracture, subluxation, or interval change.
+2. Multilevel degenerative disease causes moderate to severe 
+central canal
+stenosis and thecal effacement predisposing the patient to 
+spinal cord injury
+with minor trauma. In the appropriate clinical situation (for 
+example
+myelopathy), consider MR for further characterization.
+3. Rotation of C1 on C2 for which rotary subluxation cannot be 
+excluded and
+clinical correlation is necessary.
+
+Thyroid function tests:
+
+___ 05:00AM BLOOD TSH-23*
+___ 05:00AM BLOOD Free T4-0.64*
+ 
+Brief Hospital Course:
+Ms. ___ is an ___ year old right handed woman with a history 
+of a traumatic left subdural hematoma on ___ who presented with 
+suspected status epilepticus while on Dilantin.
+
+# Neuro/Seizures/Subdural Hematoma:  The patient was admitted 
+intubated and sedated in the setting of a possible seizure and 
+transferred to ___.   On arrival to ICU, CT of the head 
+demonstrated resolution of her prior SHD but a new, small right 
+sided SDH.  Since her apparent seizure events occurred while on 
+dilantin, the patient was loaded with 500mg fosphenytoin and her 
+daily dose of dilantin was increased to ___.  With this 
+treatment, her seizures resolved and she was successfully 
+extubated.  Her dilantin level returned as 13.8.  She markedly 
+improved and was transferred to a neuromedicine floor on HD2.  
+Her MS examination was remarkable for being alert, oriented to 
+place, time and person.  She was attentive, had no neglect. Her 
+naming was intact.  Her registration was intact, recall ___.  
+
+She was continued on dilantin at above dosing.  Dilantin level 
+at time of discharge was 17.7.  Although she remained seizure 
+free, she had signficant difficulties with balance and gait 
+(likely due to peripheral neuropathy and cerebellar 
+dysfunction).  Because of this, her age and prior falls and gait 
+instability, the plan is to wean her off dilantin and 
+crostitrate with Keppra. She was started on 250mg BID of Keppra 
+which is to be increased by 250mg in each dose every five days 
+to maximum dose of 1g bid.  At dose of 750mg BID, her dilantin 
+is to be tapered at by 100mg TID and then discontinued once 
+dosing of Keppra reaches 1g BID. She will require neurology 
+follow up for this.
+
+Given significant clinical improvement, she was discharged home 
+with Neurosurtery and Neurology follow up.   
+
+# Cervical Spine Evlauation:   Because of her history of 
+traumatic SDH, a CT of the C-spine was conducted.  No fracture 
+was seen and the patient was cleared by neurosurgery.
+
+# Cardiovascular/? NSTEMI: The patient had no documented history 
+of coronary artery disease but was noted to have an elevated 
+troponin on admission.  Admission EKG demonstrated NSR w/ Left 
+atrial abnormality, PAC and telemetry monitoring in the ICU was 
+unremarkable.   Repeat EKG was notable for no change.  She did 
+have troponin elevations but her CKMB was wnl.   
+
+# Hypothyroidism.  TSH was elevated and her T4 was low.  She had 
+sx of paresthesias and numbness in her extremities. There were 
+no other signs of hypothyroidism.  It is known that phenytoin 
+can decrese circulating levels of T4, however, given her 
+symptoms, levothyroxine was increased to 100mcg daily.  Her PCP 
+office was contacted regarding this and requirement for further 
+work up of peripheral neuropathy (we will send B12, Folate, RPR, 
+UPEP/SPEP, LFTs, A1C, Lyme antibody).   
+
+# Hyperkalemia.  K was noted to be 5.1 on day of discharge. Pt. 
+was asymptomatic.  
+ 
+Medications on Admission:
+1. Levothyroxine 75mcg daily
+2. Dilantin ___
+3. Oscal
+4. Fosamax
+5. Glucosamine
+6. Fish oil
+7. ASA
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours) as needed for T>100.4 or pain.  
+2. Phenytoin Sodium Extended 100 mg Capsule Sig: One (1) Capsule 
+PO BREAKFAST (Breakfast).  
+3. Phenytoin Sodium Extended 100 mg Capsule Sig: Two (2) Capsule 
+PO DINNER (Dinner).  
+4. Phenytoin Sodium Extended 100 mg Capsule Sig: Two (2) Capsule 
+PO NOON (At Noon).  
+5. Levetiracetam 250 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day): x 4 days, then increased by 250mg each dose every 
+five days until final dose of 1g BID.  
+6. Calcium Carbonate 500 mg (1,250 mg) Tablet Sig: One (1) 
+Tablet PO BID (2 times a day).  
+7. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: 0.5 Tablet 
+PO BID (2 times a day).  
+8. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO once a 
+day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: Right subdural hematoma, Status epilepticus
+Secondary: Peripheral neuropathy, Subdural hematoma
+
+ 
+Discharge Condition:
+Seizure free
+
+ 
+Discharge Instructions:
+You were admitted to ___ from another hospital for treatment 
+of a prolonged seizure.  It was found that your seizure was due 
+to a new subdural hematoma (bleed) on your right side.  This was 
+felt to due to a possible fall you experienced.  Fortunately, 
+the hematoma on your left side has actually improved.
+
+Because of unresponsiveness to dilantin initially, and ongoing 
+seizures, you required sedation and temporary intubation.  With 
+this 
+her seizures were controlled.  Dilantin dosing was increased and 
+you were started on Keppra.
+
+Because of you balance difficulties, you will require 
+rehabilitation and will require outpatient evaluation for 
+peripheral neuropathy.
+
+The following changes were made to you medications:
+- Dilantin doses changed to 100mg/200mg/200mg with breakfast, 
+lunch and dinner
+- Started on Keppra 250mg twice daily to be increased every five 
+days.
+- Increased levothyroxine to 100micrograms daily
+
+Should your symptoms worsen, you develop confusion, headache, 
+vision changes, difficulty with movements, worsening numbness in 
+the legs or arms, chest pain or shortness of breath or any other 
+symptom concerning to you, please call your primary care doctor 
+or go to the emergency room.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11549236-DS-21 | hadm_id=24826728
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fall
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+The patient is an ___ year-old female transferred from
+___ after a fall from 3 steps approximately 2
+hours ago.  Per report, she was carrying her laundry up the
+stairs and was on the ___ step when she fell posteriorly and hit
+her occiput.  She sustained a 7cm laceration which was sutured 
+at
+___ ED.  She received a head CT at ___ 
+with
+reports of bilateral occiput SDH and was then transferred to 
+___ for further neurosurgical workup. 
+
+ 
+Past Medical History:
+thyroidectomy, mastectomy, cyst on spine, and arthritis
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+PHYSICAL EXAM:
+O: T: 97.7   BP: 123/64  HR:83  RR:16  O2Sats:97% on 2LNC
+Gen: WD/WN, comfortable, NAD.
+HEENT: PERLA, EOMs intact, left forehead abrasion, nasal bridge
+abrasion, left maxillary abrasion
+Neck: Supple.
+Lungs: CTA bilaterally, left posterior shoulder abrasion
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Recall: ___ objects at 5 minutes.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, to 3-5mm
+bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch, proprioception, pinprick and
+vibration bilaterally.
+
+Reflexes: B T Br Pa Ac
+Right 2+ 2+ 2+ 2+ 2+ 
+Left 2+ 2+ 2+ 2+ 2+
+
+Toes downgoing bilaterally
+
+Coordination: normal on finger-nose-finger, rapid alternating
+movements, heel to shin
+
+Physical exam on discharge:
+A&OX3
+PERRL
+face symmetrical
+tongue midline
+no pronator drift
+Motor   B T D IP QUAD HAM AT ___
+      L ___ 5   5    ___    5
+      R ___ 5   5    ___    5
+
+ 
+Pertinent Results:
+CT of head ___:
+*2mm R frontal acute SDH, 6MM acute L SDH
+*L frontal and temporal SAH
+*Bilateral parafalcine SDH
+*No interventricular hemorrhage, midlines shift, or herniation.
+*R posterior subgaleal hematoma with laceration, no fx.
+
+CT c-spine ___
+No dislocation or fracture. Dengenerative chages at C5/6 and 
+C6/7.
+ 
+Brief Hospital Course:
+Patient was transferred to ___ s/p fall with CT of the heading 
+showing bilateral SDH. She was also found to have a SAH. 
+Neurologically, patient has been stable, repeat CT scan of the 
+head was also stable with initial scan. On ___, patient was 
+found to have a fever of 101.2. She was pancultured. Uranialysis 
+was negative and blood cultures are pending. Patient will be 
+discharged today, blood culture results pending at time of 
+discharge and patient is nonfebrible, follow up as outpatient. 
+ 
+Medications on Admission:
+Fosamax, thyroid med, Sudafed for post nasal drip
+
+ 
+Discharge Medications:
+1. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 
+hours).  
+2. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Hydralazine 20 mg/mL Solution Sig: One (1)  Injection Q4H 
+(every 4 hours) as needed for SBP >160.  
+4. Phenytoin Sodium Extended 100 mg Capsule Sig: One (1) Capsule 
+PO TID (3 times a day).
+Disp:*90 Capsule(s)* Refills:*2*
+5. Tylenol ___ mg Tablet Sig: ___ Tablets PO Q6H PRN as needed 
+for pain.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Traumatic brain injury, right SDH, left SDH, left SAH, SDH along 
+falx
+
+ 
+Discharge Condition:
+Neurologically stable
+
+ 
+Discharge Instructions:
+General Instructions
+
+•Take your medicine as prescribed.
+•Exercise should be limited to walking; no lifting, straining, 
+or excessive bending.
+•Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+•Do not take any anti-inflammatory medicines such as Motrin, 
+Aspirin, Advil, or Ibuprofen etc. for one month. 
+•You have been prescribed Dilantin (Phenytoin) for anti-seizure 
+medicine, take it as prescribed and follow up with laboratory 
+blood drawing in one week.  This can be drawn at your PCP’s 
+office, but please have the results faxed to ___.
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING
+
+•New onset of tremors or seizures.
+•Any confusion, lethargy or change in mental status. 
+•Any numbness, tingling, weakness in your extremities.
+•Pain or headache that is continually increasing, or not 
+relieved by pain medication.
+•New onset of the loss of function, or decrease of function on 
+one whole side of your body.
+ 
+Followup Instructions:
+___

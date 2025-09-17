@@ -1,0 +1,2964 @@
+===== DISCHARGE NOTE =====
+note_id=10227511-DS-16 | hadm_id=20278786
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Demerol / Ativan
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal Pain, N/V
+ 
+Major Surgical or Invasive Procedure:
+1. EGD
+
+ 
+History of Present Illness:
+___ yo man w DM1 c/b neuropathy, gastroparesis, s/p pancreas 
+transplant in ___ on sirolimus and tacrolimua, now presents 
+with nausea/vomiting and abdominal pain.  
+.  
+He was admitted at ___ 5 days ago with the same symptoms. On that 
+admission, he improved with antiemetics (zofran, compazine, 
+phenergan) and morphine. IV fluids were given until the patient 
+was able to tolerate PO. On the last admission his narcotic 
+regimen was decreased, since it was though that it was 
+exacurbating his gastroparesis.  
+.  
+After this discharge he was doing well but three days ago he 
+reexperienced nausea, vomiting and abdominal pain. The pain is 
+described as diffuse diffuse and sharp, ___ in severity. He 
+denies any hematemesis or bilious emesis. He denies any fever, 
+chills, constipation, diarrhea, hematochezia or melena. These 
+became progressively worse and he presented to the ED.  
+.  
+In the ED, initial vital signs were T 97.6, HR 78, BP 154/82, RR 
+16, satting 100%RA. Labs showed lactate of 7 and Phos 0.6. Chem7 
+showed bicarb of 17 with AG 21. Patient got a total of 7mg IV 
+dilaudid, zofran, reglan, and 4L normal saline as well as NaP04. 
+His lactate trended down to 2.7 and Phos normalized. Vitals at 
+time of transfer were T 99, HR 74, BP 160/88, RR 16, O2 sat 
+99%RA.  
+.  
+Currently, he continues to have nausea with small amount of 
+vomitus that is dark brown in appearence. No coffee grown or 
+frank blood seen. Reports his abdominal pain is similar in 
+location and quality to past flares. He denies urinary symptoms. 
+He denies cough, shortness of breath, sputum production, or 
+fever.  
+.  
+Renal impressed that this was the same presentation as his 
+previous episodes of gastroparesis and may have been affected by 
+his narcotic use. They recommended continuing immunosupressants, 
+advancing to clears and limiting narcotic use. GI impressed that 
+his symptoms are likely due to gastroparesis, but still supected 
+SBO or PUD. They were also concered about possible MW tear.  
+.  
+ROS was otherwise negative. The pt denied recent unintended 
+weight loss, fevers, night sweats, chills, headaches, dizziness 
+or vertigo, changes in hearing or vision, neck stiffness, 
+lymphadenopathy, hematemesis, coffee-ground emesis, dysphagia, 
+odynophagia, heartburn, nausea, vomiting, diarrhea, 
+constipation, steatorrhea, melena, hematochezia, cough, 
+hemoptysis, wheezing, shortness of breath, chest pain, 
+palpitations, dyspnea on exertion, increasing lower extremity 
+swelling, orthpnea, paroxysmal nocturnal dyspnea, leg pain while 
+walking, joint pain.  
+
+ 
+Past Medical History:
+Pancreatic transplant ___  
+DM2 c/b gastroparesis, peripheral neuropathy  
+Hep C  
+Glaucoma  
+?Seizures  
+Right knee surgery 
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Vitals: 98 128/82 85 18 98RA  
+General: Awake, alert, complaining of pain and is not fully 
+cooperative with examination.  
+HEENT: NCAT, PERRL, EOMI, no scleral icterus, MMM, no lesions 
+noted in OP  
+Neck: supple, no significant JVD or carotid bruits appreciated  
+Pulmonary: Lungs CTA bilaterally, no wheezes, ronchi or rales  
+Cardiac: RR, nl S1 S2, no murmurs, rubs or gallops appreciated  
+Abdomen: TTP, soft, ND, normoactive bowel sounds, no masses or 
+organomegaly noted  
+Extremities: No edema, 2+ radial, DP pulses b/l  
+Skin: multiple tatoos. 
+
+ 
+Pertinent Results:
+___ 02:00PM BLOOD WBC-8.8# RBC-4.46* Hgb-12.7* Hct-37.7* 
+MCV-85 MCH-28.4 MCHC-33.6 RDW-13.6 Plt ___
+___ 05:45AM BLOOD WBC-5.1 RBC-3.58* Hgb-10.2* Hct-30.6* 
+MCV-85 MCH-28.6 MCHC-33.4 RDW-13.7 Plt ___
+___ 06:35AM BLOOD WBC-6.1 RBC-4.39* Hgb-12.5* Hct-37.6* 
+MCV-86 MCH-28.4 MCHC-33.2 RDW-13.2 Plt ___
+___ 02:00PM BLOOD Glucose-137* UreaN-15 Creat-0.9 Na-143 
+K-4.1 Cl-105 HCO3-17* AnGap-25*
+___ 06:35AM BLOOD Glucose-97 UreaN-9 Creat-0.7 Na-137 K-3.4 
+Cl-98 HCO3-24 AnGap-18
+___ 02:00PM BLOOD ALT-11 AST-25 AlkPhos-109 TotBili-0.4
+___ 07:30PM BLOOD Amylase-74
+___ 06:35AM BLOOD Amylase-40
+___ 06:35AM BLOOD Lipase-22
+___ 05:45AM BLOOD tacroFK-1.5* rapmycn-2.5*
+___ 05:45AM BLOOD ASA-NEG Acetmnp-NEG* Bnzodzp-POS 
+Barbitr-NEG Tricycl-NEG
+___ 06:35AM BLOOD rapmycn-3.2*
+___ 06:35AM BLOOD tacroFK-6.___ssessment and Plan: ___ year old male with past history of DMI 
+c/b neuropathy and gastroparesis, s/p pancreas transplant ___ 
+now with recurrent admissions for abdominal pain and nausea and 
+vomitting.
+.
+# Abdominal Pain - Mr. ___ has had ___ admissions over the 
+past year s/p pancreas transplant for abdominal pain, nausea, 
+vomiting and inability to tolerate PO intake.  On this 
+admission, he was admitted with similar presentation.  He was 
+made NPO, placed on IV maintenance fluids and continued on 
+pro-motility agents (IV) and treated with Dilaudid 0.5 IV prn.  
+KUB on admission showed no evidence of perforation or 
+obstrution.  CT Scan of abdomen showed a very small fluid 
+collection at the head of the transplant pancreas that was 
+stable isnce previous scans.  while likely post-surgical, mild 
+edematous pancreatitis could not be ruled out.  EGD showed 
+esophagitis and gastritis and GI recommeneded BID PPI and 
+carafate solution for treatment.   There was concern for 
+possible transplant rejection so tacro and siroliums levels were 
+checked and determined to be low.  Solumedrol IV was given for 
+three days until Tacrolimus and Sirolimus levels added to 9, 
+which they did on day of discharge.  Due to lack of findings on 
+imaging and studies, it  was felt that abdominal pain was most 
+likely ___ long standing gastroparesis.  Abdominal pain resolved 
+on the day of discharge, patient's diet was advanced and he 
+tolerated a regular diet with no nausea or emesis.  He was 
+discharge with a 2 week supply of dilaudid to follow-up with his 
+transplant physician.  
+.
+# S/P Pancreatic Transplant - Transplant ___, currently on 
+tacrolimus and sirolimus. Compliance was questionable prior to 
+admission due to emesis.  Prograf levels were determined to be 
+subtherapeutic on admission.  Due to inability to tolerate PO, 
+prograf capsules were broken in half and given sublingually.  
+Additionally, Solumedrol IV was given for three days while 
+immunosupressant levels were low.  On day of discharge, patient 
+was tolerating PO with no emesis or nausea x 24 hours.  Patient 
+was instructed to take Prograf SL in the future if unable to 
+take medications due to emesis or nausea.
+.
+# DM - s/p pancreatic transplant, see above. stable.
+
+ 
+Medications on Admission:
+-tacrolimus 3 mg bid  
+-Bactrim DS qday  
+-sirolimus 3 mg qd  
+-asa 81 mg  
+-omeprazole 20mg BID  
+-Diazepam 10mg q6h prn for anxiety  
+-Dronabinol 10mg tid  
+-duloxetine 90mg qday  
+-gabapentin 600mg q8h  
+-metoclopramide 20mg qidachs  
+-topiramate 25mg qday prn for headaches  
+-dilaudid prn  
+-compazine 10mg q6h prn  
+-zofran prn
+-fentanyl 50 mcg patch
+
+ 
+Discharge Medications:
+1. Tacrolimus 1 mg Capsule Sig: Three (3) Capsule PO twice a 
+day: If you are unable to tolerate anything by mouth, break 
+capsule apart and place under tongue.  
+2. Sirolimus 1 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily). 
+ 
+3. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+4. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three 
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+5. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO Q8H (every 
+8 hours).  
+6. Metoclopramide 10 mg Tablet Sig: Two (2) Tablet PO QIDACHS (4 
+times a day (before meals and at bedtime)).  
+7. Topiramate 25 mg Tablet Sig: One (1) Tablet PO once a day as 
+needed for headache.  
+8. Compazine 10 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for nausea.  
+9. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+10. Dronabinol 2.5 mg Capsule Sig: Four (4) Capsule PO TID (3 
+times a day) as needed for nausea.  
+11. Diazepam 10 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for anxiety.  
+12. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q4H (every 
+4 hours) as needed for pain for 14 days.
+Disp:*84 Tablet(s)* Refills:*0*
+13. Sucralfate 1 gram Tablet Sig: One (1) Tablet PO TID (3 times 
+a day) for 14 days: dissolve in 10mL water and drink.
+Disp:*42 Tablet(s)* Refills:*0*
+14. Zofran 4 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for nausea.  
+15. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+16. Omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO twice a day for 30 days.
+Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Abdominal Pain - NOS
+2. s/p pancreas transplant
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with abdominal pain, nausea 
+and vomitting.  You were given medication to control your pain 
+and other symptoms.  Imaging of your abdomen was unable to 
+identify a source of your pain.  An EGD of your esophagus and 
+stomach showed some ulcerations in your esophogus.  You were 
+given IV fluids when you couldn't tolerate anything by mouth.  
+Please call on ___ to make an appointment with 
+Dr. ___ one week for follow-up after your 
+hospitalization.
+
+Medication Changes:
+CHANGE Dilaudid to 2mg by mouth every 4 hours as needed for pain
+START Sucralfate 1g disolved in 10 ml water by mouth three times 
+a day
+CHANGE Omeperazole to 40 mg PO by mouth twice a day
+Continue all other medications as previously prescribed.
+
+If you experience worsening abdominal pain, fever greater than 
+101, chest pain, vomitting, shortness of breath, vomitting blood 
+or any other symptom that concerns you, please call Dr. 
+___ office or go to the emergency room.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10227511-DS-11 | hadm_id=22055148
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Demerol / Ativan
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr ___ is a ___ DM1 c/b neuropathy and gastroparesis with 
+multiple prior exacerbations, s/p pancreas transplant (___), 
+who p/w N/V and dehydration x 2 days.  
+.  
+Pt reports N/V x 25, occasionally bilious, unable to tolerate 
+any PO. He denies any other constitutional symptoms. Passing 
+flatus, normal BM (non-bloody). Associated b/l lower abd pain 
+(typically assoc  
+w/ prior gastroparesis admission) is now resolved. Denies 
+fevers, chills, diarrhea. Blood sugars have been under good 
+control.  
+.  
+Transferred from surgical service for management. Has been given 
+IVFs for rehydration, with resolution of ARF.  
+
+ 
+Past Medical History:
+PMH: 
+Pancreatic transplant ___  
+DM2 c/b gastroparesis, peripheral neuropathy  
+Hep C  
+Glaucoma  
+?Seizures  
+Right knee surgery  
+
+PSH: Right knee surgery
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+T97.1F, BP 147/91, HR 84, RR 20, Sat 97%RA 
+GEN: lying in bed supine in NAD  
+HEENT: NC/AT, PERRL, EOMI, MMM, OP clear  
+NECK: supple, no LAD, normal JVP  
+CV: RRR, normal S1S2, no M/R/G  
+CHEST: CTAB, no W/R/R  
+ABD: soft, TTP lower abdmen, no HSM, NABS  
+EXTR: WWP, no C/C/E, 2+ DP/rad pulses b/l  
+NEURO: AOx3, CNII-XII intact, ___ Motor strength in ___ b/l, 
+2+ DTR in ___, normal stance and gait  
+SKIN: Multiple tattoos
+
+ 
+Pertinent Results:
+LABS ON ADMISSION
+
+___ 03:15PM   WBC-9.9 RBC-4.40* HGB-14.3 HCT-42.5 MCV-97 
+MCH-32.4* MCHC-33.5 RDW-15.5
+___ 03:15PM   NEUTS-94.3* LYMPHS-2.2* MONOS-2.8 EOS-0.4 
+BASOS-0.3
+___ 03:15PM   PLT COUNT-343
+___ 03:15PM   ___ PTT-26.4 ___
+___ 03:15PM   ALBUMIN-5.0*
+___ 03:15PM   ALT(SGPT)-52* AST(SGOT)-56* ALK PHOS-77 TOT 
+BILI-0.4
+___ 03:15PM   LIPASE-19
+___ 03:15PM   GLUCOSE-153* UREA N-25* CREAT-1.3* SODIUM-139 
+POTASSIUM-4.0 CHLORIDE-104 TOTAL CO2-21* ANION GAP-18
+___ 03:22PM   LACTATE-1.6
+___ 05:41PM   tacroFK-25.5*
+.
+LABS ON DISCHARGE
+
+___ 05:35AM BLOOD WBC-3.0* RBC-3.55* Hgb-11.0* Hct-34.6* 
+MCV-97 MCH-31.0 MCHC-31.8 RDW-15.7* Plt ___
+___ 05:35AM BLOOD Plt ___
+___ 05:35AM BLOOD Glucose-92 UreaN-26* Creat-0.9 Na-139 
+K-4.3 Cl-106 HCO3-24 AnGap-13
+___ 05:35AM BLOOD ALT-133* AST-42* AlkPhos-78 TotBili-0.3
+___ 05:35AM BLOOD Calcium-8.6 Phos-5.1* Mg-1.7
+___ 05:35AM BLOOD tacroFK-11.8
+.
+MICRO
+___ 7:10 pm IMMUNOLOGY
+
+                            **FINAL REPORT ___
+
+   HCV VIRAL LOAD (Final ___: 
+      HCV-RNA NOT DETECTED. 
+.
+___ 12:35 pm IMMUNOLOGY
+
+                            **FINAL REPORT ___
+
+   HBV Viral Load (Final ___: 
+      HBV DNA not detected. 
+.
+IMAGING
+RUQ U/S ___
+IMPRESSION: Echogenic liver consistent with fatty infiltration. 
+Other forms 
+of liver disease and more advanced liver disease including 
+significant hepatic 
+fibrosis/cirrhosis cannot be excluded on this study. Slightly 
+prominent 
+common duct. No intra- or extra-hepatic biliary ductal 
+dilatation. 
+
+ 
+Brief Hospital Course:
+___ w DM1 with gastroparesis, neuropathy s/p pancreas transplant 
+___, here w/ N/V/dehydration/abdominal pain, transferred 
+from Transplant Surgery service for continued symptomatic 
+management.  
+.
+# Abdominal pain: This is likely ___ gastroparesis, as pt has 
+had similar previous admissions for abdominal pain/n/v that have 
+resolved with IVF hydration and symptomatic control. Pain and 
+nausea were well controlled on a regimen of Morphine ___ IV q4 
+PRN, Zofran 4mg IV q8 PRN, Compazine PRN nausea. By day of 
+discharge, pain was still present but low-grade and manageable. 
+Pt was tolerating POs. He was sent home with a limited 
+prescription for PO Dilaudid.
+.  
+# Elevated LFTs: During last few days of admission, LFTs had 
+been uptrending. Liver was consulted, and it was thought that 
+this could be secondary to inflammation in the setting of 
+recently elevated Tacrolimus levels. Hep C viral load were 
+re-checked given concern for reactivation in setting of 
+immunosuppresion, and was undetectable. Hep B viral load was 
+also negative. Pt was sent home on reduced dose of Tacrolimus. 
+LFTs were down-trending on day of discharge.
+.    
+# s/p Pancreatic transplant: on ___. Post-op course has 
+included several admissions for gastroparesis as above. Dosing 
+of Tacrolimus was adjusted as above, and home MMF and 
+Fludrocortisone were continued. Pt is also continued on Bactrim 
+SS qday and Valcyte 900 PO qday for prophylaxis.
+.  
+# IDDM: now off insulin s/p pancreatic transplant. Continue 
+Gabapentin for peripheral neuropathy, Reglan for gastroparesis.
+.
+# Anxiety: continue home Duloxetine, Topamax, Diazepam PRN 
+.  
+# Glaucoma: stable. Continue Xibrom.  
+.  
+# FEN: regular, IVF, replete lytes  
+# Access: PIV  
+# PPx: ambulatory, PPI, bowel reg PRN  
+# Code: presumed FULL  
+# Communication: patient, father
+# ___: home given improvement of n/v/pain.  
+
+ 
+Medications on Admission:
+Tacrolimus 7mg bid  
+Mycophenolate 500mg qid  
+Valcyte 900mg daily  
+Bactrim SS daily  
+Nystatin 5ml QID  
+Protonix 40mg daily  
+Valium 10mg qid  
+Dronabinol 10mg tid  
+Cymbalta 90mg daily  
+Neurontin 600mg tid  
+Reglan 20mg qid  
+Topamax 25mg daily  
+Fludrocortisone 0.1mg daily  
+EPO 1mL sc qwk  
+
+ 
+Discharge Medications:
+1. Mycophenolate Mofetil 500 mg Tablet Sig: One (1) Tablet PO 
+QID (4 times a day).  
+2. Valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+3. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+4. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ml PO once 
+a day.  
+5. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+6. Diazepam 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed.  
+7. Dronabinol 2.5 mg Capsule Sig: Four (4) Capsule PO TID (3 
+times a day).  
+8. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three 
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+9. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO Q8H (every 
+8 hours).  
+10. Reglan 10 mg Tablet Sig: Two (2) Tablet PO four times a day. 
+ 
+11. Topiramate 25 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+12. Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+13. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+14. Prednisolone Acetate 1 % Drops, Suspension Sig: One (1) Drop 
+Ophthalmic QID (4 times a day).  
+15. XIBROM 0.09 % Drops Sig: One (1) drop ___ Ophthalmic four 
+times a day.  
+16. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+17. Dilaudid 2 mg Tablet Sig: One (1) Tablet PO every ___ hours 
+for 2 days.
+Disp:*12 Tablet(s)* Refills:*0*
+18. Tacrolimus 1 mg Capsule Sig: Three (3) Capsule PO every 
+twelve (12) hours.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Abdominal pain secondary to gastroparesis
+.
+Secondary: 
+Diabetes mellitus type 2 
+Peripheral neuropathy
+s/p pancreatic transplant 
+Glaucoma
+
+ 
+Discharge Condition:
+Good, hemodynamically stable, afebrile, pain controlled, 
+nausea/vomiting resolved, tolerating POs
+ 
+Discharge Instructions:
+You were admitted for severe abdominal pain secondary to your 
+gastroparesis.  You received symptomatic control with pain and 
+nausea medicine, and your symptoms are now much improved. You 
+will be discharged home with follow-up. 
+.
+The following changes were made to your medications:
+Dilaudid 2mg PO q4-6hr PRN breakthrough pain
+DECREASE Tacrolimus to 3mg PO twice daily
+Please take your remaining medications as prescribed.
+.
+If you experience any worsening abdominal pain, fevers, nausea, 
+vomiting, diarrhea, SOB, or have any other concerns, please call 
+your MD or return to the ED.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10227511-DS-18 | hadm_id=22934643
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Demerol / Ativan / Shellfish Derived
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo M with h/o DM1 c/b neuropathy, gastroparesis, s/p
+pancreas transplant in ___ on sirolimus and tacrolimus,
+presents with nausea, vomiting, coffee ground emesis and
+abdominal pain. Pt reports of nausea, vomiting and abdominal 
+pain
+started from yesterday. Pt claims that this is his typical
+gastroparesis symptoms. He vomited more than 10 times yesterday.
+His had bilious emesis initially and then noticed bright red
+blood and coffee ground material in his vomitus. His pain is
+epigastric in location, sharp, ___. Pt claims of normal bowel
+movement. He moved his bowel this am, denies BRBPR or melena. 
+ 
+ED: VS: 101.3 120 130/90 24 100%. Labs: lactate 5.7, bicarb 15,
+urine ketones, Cr 1.4, WBC 8.1 and hct of 41. Patient got a 
+total
+of IV Dilaudid, Zofran, Reglan, and normal saline. His lactate
+trended down to 1.2. The pt was given vancomycin and cefepime. 
+Pt
+was noted to have a small amount of coffee ground emesis which
+was heme-occult positive.
+ 
+Past Medical History:
+Pancreatic transplant ___  
+DM2 c/b gastroparesis, peripheral neuropathy  
+Hep C  
+Glaucoma  
+?Seizures  
+Right knee surgery 
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+General: Awake, alert, appears to be in some pain.  
+HEENT: NCAT, PERRL, EOMI, no scleral icterus, MMM, no lesions 
+noted in OP  
+Neck: supple, no significant JVD  
+Pulmonary: Lungs CTA bilaterally, no wheezes, ronchi or rales  
+Cardiac: RRR, nl S1 S2, no murmurs, rubs or gallops appreciated  
+
+Abdomen: diffusely tender to light palpation, soft, ND, 
+normoactive bowel sounds, ___ neg. +voluntary guarding. no 
+masses or organomegaly noted  
+Extremities: No edema, 2+ radial, DP pulses b/l  
+Skin: multiple tattoos.  
+ 
+Pertinent Results:
+___ 10:05PM BLOOD WBC-8.1# RBC-5.14# Hgb-14.7 Hct-43.6 
+MCV-85 MCH-28.5 MCHC-33.7 RDW-13.7 Plt ___
+___ 10:05PM BLOOD Neuts-88.9* Lymphs-7.4* Monos-2.9 Eos-0.4 
+Baso-0.4
+___ 05:55AM BLOOD WBC-3.9* RBC-4.22* Hgb-12.1* Hct-35.3* 
+MCV-84 MCH-28.7 MCHC-34.3 RDW-13.2 Plt ___
+___ 10:05PM BLOOD Glucose-156* UreaN-23* Creat-1.4* Na-141 
+K-4.6 Cl-104 HCO3-15* AnGap-27*
+___ 05:55AM BLOOD Glucose-84 UreaN-6 Creat-0.7 Na-138 
+K-3.1* Cl-103 HCO3-26 AnGap-12
+___ 10:05PM BLOOD ALT-15 AST-25 AlkPhos-138* TotBili-0.5
+___ 10:05PM BLOOD Lipase-22
+___ 05:55AM BLOOD Amylase-37
+___ 08:47AM BLOOD tacroFK-3.1* rapmycn-3.1*
+___ 05:55AM BLOOD tacroFK-12.5 rapmycn-5.9
+___ 10:43PM BLOOD Lactate-5.7*
+___ 04:07PM BLOOD Lactate-1.2
+
+___
+HEAVY METAL SCREEN 
+  Test                          Result              Reference 
+Range/Units
+ARSENIC, BLOOD                <3                  LESS THAN 23 
+UG/L UG/L
+MERCURY, BLOOD                <4                  ___ UG/L
+LEAD, BLOOD                   <2                  ___ SEE NOTE
+
+___ 05:40AM 
+FAMILIAL MEDITERRANEAN FEVER Results Pending 
+
+___ CT abdomen/pelvis
+CT ABDOMEN: The lung bases are clear. There is no pericardial or 
+pleural 
+effusion. The liver is unremarkable except to note small area of 
+focal fatty 
+infiltration adjacent to the ligamentum teres (2, 26). The 
+gallbladder is 
+unremarkable. The spleen, adrenal glands and kidneys are normal 
+in 
+appearance. Small bowel loops are normal in caliber and without 
+focal wall 
+thickening. There is no free fluid or free air. 
+  
+CT OF THE PELVIS: Patient is status post right lower quadrant 
+pancreatic 
+transplant. The pancreas appears to enhance homogenously. Small 
+amount of 
+fluid adjacent to the pancreatic head is again identified and 
+not 
+significantly changed when compared to prior exam. There is no 
+change in 
+peripancreatic fluid stranding or new collections identified. 
+The rectum, 
+sigmoid colon, bladder and prostate gland are unremarkable. 
+There is no 
+pelvic or inguinal lymphadenopathy. 
+
+BONE WINDOWS: There are no suspicious lytic or sclerotic lesions 
+identified
+
+IMPRESSION:
+1. Stable appearance of right lower quadrant pancreatic 
+transplant with small 
+amount of fluid adjacent to the pancreatic head, unchanged. No 
+new fluid 
+collections or peripancreatic fat stranding identified. 
+
+CXR ___:
+No interval occurrence of infectious or other abnormalities.  
+Unchanged size of the cardiac silhouette, no pleural effusions. 
+Known right 
+aortic arch. 
+
+ 
+Brief Hospital Course:
+#. Abdominal Pain:  On presentation to the ED, patient was 
+febrile to 101.3 with severe abdominal pain, nausea/vomiting, 
+leukocytosis of 8.1 with 88% neutrophils and a serum lactate of 
+5.3.  His pain was initially treated with dilaudid IV prn, his 
+nausea was treated with zofran, and he was made NPO  Initially 
+there was a concern for pancreas rejection, intraabdominal 
+infection or bowel infarction.  A CT of the abdomen was 
+performed, which showed the transplant to be unchanged from 
+prior studies, and no other obvious cause of his pain.  
+Transplant surgery was consulted, who attributed his pain to 
+gastroparesis given the similarity of his presentation to prior 
+presentations. Gastroenterology was consulted and recommended 
+testing for more unusual abdominal pain syndromes, such as heavy 
+metal poisoning, familial Mediterranean fever and porphyria, all 
+of which were pending on discharge. On subsequent days, his 
+fever, leukocytosis and elevated lactate resolved.  His diet was 
+advanced to a regular diabetic diet, and his pain was controlled 
+with PO dilaudid and his home fentanyl patch.  Patient initially 
+had hypoactive bowel sounds, and few bowel movements, but 
+retained normal bowel function throughout this hospitalization.  
+Patient was discharged with his home regimen of fentanyl patch, 
+with vicodin for breakthrough pain.  
+.
+#. s/p pancreas transplant:  On initial presentation, serum 
+rapamune and tacrolimus levels were depressed at 3.1 and 3.1 
+respectively.  Patient was given a loading dose of 6mg of 
+rapamune once, and his dose was increased to 4mg PO daily.  
+Tacrolimus dose was increased to 4mg PO bid.  Subsequent 
+rapamune and tacrolimus levels were 12.5 and 5.9, in the 
+therapeutic range.  Tacrolimus dose was decreased to 3mg PO bid 
+on discharge. Daily fasting glucose was stable, ranging from 83 
+to 104.
+
+ 
+Medications on Admission:
+1. Duloxetine 90 mg E.C PO DAILY  
+2. Dronabinol 10 mg PO TID  
+3. Gabapentin 600 mg PO TID  
+4. Docusate Sodium 100 mg PO BID  
+5. Bisacodyl 10 mg Rectal HS PRN  
+6. Trimethoprim-Sulfamethoxazole 80-400 mg PO DAILY  
+7. Fentanyl 50 mcg/hr Patch Transdermal Q72H  
+- vicodin prn pain
+8. Diazepam 10 mg PO Q6H PRN Anxiety  
+9. Metoclopramide 20 mg PO QIDACHS (before meals and at 
+bedtime)).  
+10. Omeprazole 40 mg PO BID -(pt reports taking 40mg. OMR says 
+20mg)  
+11. Prochlorperazine Maleate 10 mg PO Q6H PRN  
+12. Topiramate 25 mg PO DAILY as needed for headache.  
+13. Tacrolimus 3 mg PO Q12H  
+14. Sirolimus 4 mg PO DAILY  
+15. Senna 8.6 mg PO BID PRN for constipation.  
+16. Bisacodyl 10 mg Tablet, (E.C.) PO DAILY PRN 
+ 
+Discharge Medications:
+1. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three 
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+2. Dronabinol 10 mg Capsule Sig: One (1) Capsule PO TID (3 times 
+a day).  
+3. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO TID (3 
+times a day).  
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+5. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal 
+HS (at bedtime) as needed for constipation.  
+6. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+7. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+8. Diazepam 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for anxiety.  
+9. Metoclopramide 10 mg Tablet Sig: Two (2) Tablet PO QIDACHS (4 
+times a day (before meals and at bedtime)).  
+10. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+11. Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO 
+Q6H (every 6 hours) as needed for nausea.  
+12. Topiramate 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+as needed for headache.  
+13. Tacrolimus 1 mg Capsule Sig: Three (3) Capsule PO Q12H 
+(every 12 hours).  
+14. Sirolimus 1 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+15. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+16. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abdominal Pain
+s/p Pancreas Transplant
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You were admitted with abdominal pain, fever nausea and 
+vomiting.  A CAT scan of your abdomen showed that your 
+transplanted pancreas looked normal.  You were treated with 
+antibiotics for a suspected infection, and your temperature 
+return to normal. These were stopped after 2 days given your 
+improvement. The blood levels of your immunosupressant drugs 
+were low, and the doses were increased.  
+
+The following changes were made in your medications:
+Please take prograf (tacrolimus) 3mg, take one tablet twice 
+daily
+Please take rapamune (sirolimus) 4mg, once daily
+
+Please adhere to your follow-up appointments. They are important 
+for managing your long-term health.
+
+Please return to the hospital or call your doctor if you have 
+temperature greater than 101, shortness of breath, worsening 
+difficulty with swallowing, chest pain, abdominal pain, 
+diarrhea, or any other symptoms that you are concerned about.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10227511-DS-13 | hadm_id=25197385
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Demerol / Ativan
+ 
+Attending: ___
+ 
+Chief Complaint:
+Nausea, vomiting
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo man w/hx of DM1 c/b neuropathy, gastroparesis, s/p 
+pancreas tx ___ on Prograf and Cellcept, now presents with 
+nausea/vomiting, abdominal pain consistent with prior episodes 
+of gastroparesis. Nausea x3 days, vomiting today every 15 
+minutes. Abdominal pain worsened acutely this morning which is 
+why he presented to the ED.  
+.  
+In the ED, initial vital signs were T 97.6, HR 71, BP 138/82, RR 
+18, satting 100%RA. Labs showed hct 37.5 (up from baseline mid 
+to low thirties), white count 8.7 with 89.5%polys. Liver enzymes 
+and lipase were WNL. Chem7 showed bicarb of 18 with AG 18. Renal 
+function slightly up from baseline, creatinine 1.2 from baseline 
+1.0. Patient got 4mg IV morphine x3 without effect, then 1mg 
+Dilaudid x2 with adequate pain relief, then 8mg IV Zofran, 10mg 
+IV compazine, and Reglan for nausea. He got 2L normal saline. 
+Vitals at time of transfer were T 99, HR 55, BP 147/63, RR 16, 
+O2 sat 99%RA. Lactate was 2.3.  
+.  
+Currently, he continues to have nausea with dry heaving. Says 
+his abdominal pain is similar in location and quality to past 
+pancreatitis flares. He has had mild diarrhea for the last two 
+days. He denies urinary symptoms. He denies cough, shortness of 
+breath, sputum production, or fever. 
+
+ 
+Past Medical History:
+Pancreatic transplant ___  
+DM2 c/b gastroparesis, peripheral neuropathy  
+Hep C  
+Glaucoma  
+?Seizures  
+Right knee surgery 
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Vitals - T: 99.5, BP: 157/91, HR: 63, RR: 12, 02 sat: 100%RA  
+Blood sugar - 154  
+GENERAL: young man in mild distress, breathing comfortably, 
+answer questions appropriately  
+HEENT: normocephalic, atraumatic, EOMI, no scleral icterus  
+CARDIAC: regular rate and rhythm, normal S1/S2, no murmurs  
+LUNG: clear bilaterally anterior fields  
+ABDOMEN: moderate diffuse tenderness, normal bowel sounds  
+EXT: warm and well-perfused, non-edematous  
+NEURO: alert and oriented x3, moving all extremities  
+SKIN: numerous tattoos 
+
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+
+___ 07:10AM   GLUCOSE-152* UREA N-22* CREAT-0.9 SODIUM-140 
+POTASSIUM-4.2 CHLORIDE-105 TOTAL CO2-16* ANION GAP-23
+___ 07:10AM   CALCIUM-9.2 PHOSPHATE-3.3# MAGNESIUM-1.8
+___ 07:36AM   LACTATE-2.0
+___ 07:10AM   tacroFK-4.0*
+___ 07:10AM   WBC-9.7 RBC-3.64* HGB-10.9* HCT-32.5* MCV-89 
+MCH-29.9 MCHC-33.6 RDW-14.7
+___ 07:10AM   PLT COUNT-317
+___ 09:45PM   ALT(SGPT)-10 AST(SGOT)-23 ALK PHOS-101 TOT 
+BILI-0.6
+___ 09:45PM   LIPASE-27
+___ 09:45PM   ALBUMIN-5.0*
+
+___ 07:10AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 01:41AM URINE  BLOOD-TR NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-TR KETONE-150 BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 01:41AM URINE  RBC-0 ___ BACTERIA-NONE YEAST-NONE 
+EPI-<1
+
+CULTURES:
+Blood cx (___): No growth to date.
+
+IMAGING:
+CXR (___) IMPRESSION: AP chest compared to ___: 
+Lungs fully expanded and clear. Heart size normal. No pleural 
+abnormality or evidence of central adenopathy. Right aortic 
+arch.
+
+CT ABDOMEN/PELVIS (___) IMPRESSION: 1. Status post 
+pancreatic transplant in the right lower quadrant, which appears 
+unremarkable. 2. No acute findings in the abdomen or pelvis to 
+explain patient's low-grade temperature. 
+
+ 
+Brief Hospital Course:
+1. GASTROPARESIS: The patient was admitted for nausea and 
+vomiting, which was similar in nature to past episodes of 
+gastroparesis.  When he initially presented, he had a starvation 
+ketoacidosis, which was managed with a combination of ___ and 
+insulin sliding scale.  Anion gap improved with this regimen. 
+His symptoms were managed with IVF and antiemetics but relieved 
+most with phenergan.  The patient was started on this medication 
+as an outpatient. He was also placed on morphine for abdominal 
+pain and vomiting. He was advanced as tolerated and eating a 
+regular diet on discharge.
+
+2. FEVER: During hospitalization course, the patient had a 
+temperature spike to 100.4. He was worked up for a source: UA, 
+chest Xray, CT abdomen, and blood cultures (to date)were 
+negative.
+
+3. IMMUNOSUPPRESSIVE THERAPY: While hospitalized, cellcept was 
+changed to myfortic 360mg TID. He was continued on Prograf 4mg 
+Q12H. Note that the patient had been able to tolerate his meds 
+despite nausea and vomiting. He will follow up with Dr. ___ 
+as an outpatient.
+ 
+Medications on Admission:
+-mycophenolate mofetil 500mg tid  
+-Bactrim SS qday  
+-omeprazole 20mg qday  
+-Diazepam 10mg q6h prn for anxiety  
+-Dronabinol 10mg tid  
+-duloxetine 90mg qday  
+-gabapentin 600mg q8h  
+-metoclopramide 20mg qidachs  
+-topiramate 25mg qday prn for headaches  
+-fentanyl 75mcg patch q72h  
+-aspirin 81mg qday  
+-tacrolimus 4mg q12h  
+-compazine 10mg q6h prn  
+
+ 
+Discharge Medications:
+1. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+2. Dronabinol 2.5 mg Capsule Sig: Four (4) Capsule PO TID (3 
+times a day).  
+3. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three 
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+4. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO Q8H (every 
+8 hours).  
+5. Metoclopramide 10 mg Tablet Sig: Two (2) Tablet PO QIDACHS (4 
+times a day (before meals and at bedtime)).  
+6. Topiramate 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+as needed for headaches.  
+7. Fentanyl 75 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+8. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+9. Tacrolimus 1 mg Capsule Sig: Four (4) Capsule PO Q12H (every 
+12 hours).  
+10. Mycophenolate Sodium 180 mg Tablet, Delayed Release (E.C.) 
+Sig: Two (2) Tablet, Delayed Release (E.C.) PO TID (3 times a 
+day).
+Disp:*180 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+11. Compazine 10 mg Tablet Sig: One (1) Tablet PO Q12 PRN as 
+needed for nausea.  
+12. Diazepam 10 mg Tablet Sig: One (1) Tablet PO Q6H PRN as 
+needed for anxiety.  
+13. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+14. Phenergan 25 mg Tablet Sig: One (1) Tablet PO Q8H PRN as 
+needed for nausea.
+Disp:*15 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Diabetic Gastroparesis
+2. s/p Pancreatic Transplant
+
+ 
+Discharge Condition:
+Stable, afebrile, tolerating PO.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with nausea and vomiting 
+secondary to diabetic gastroparesis. You were given fluids and 
+anti-nausea medications, as well as pain medications.  While you 
+were hospitalized, you had a fever, so we did a chest Xray and 
+CT scan of your abdomen to determine a source of infection. 
+
+The chest Xray showed no source of infection in  your lungs.
+The CT scan showed no source of infection in your abdomen.
+The blood cultures we drew have been negative so far.
+
+You are being given a prescription for phenergan, which helped 
+with your nausea.  You can take this medication every ___ hours 
+as needed for nausea.  Note that when it is combined with 
+narcotics or other sedating medications, it can cause your level 
+of sedation and decrease your respiratory rate.  
+
+Please STOP taking cellcept and START taking myfortic 360mg 
+three times a day.
+
+Return to the ER if you experience a recurrence of 
+nausea/vomiting, fevers/chills, shortness of breath, chest pain, 
+blood in your stools, or any other symptoms that are concerning 
+to you.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10227511-DS-10 | hadm_id=25317123
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins / Demerol / Ativan
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Nausea, vomiting, abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ y/o male s/p pancreas transplant ___ who presents with 
+c/o nausea, vomiting and abdominal pain c/w gastroparesis 
+exacerbations. Blood sugars are consistently less than 140 and 
+he has no other constitutional symptoms. He initially presented 
+to OSH and was transferred to ___ for further evaluation. 
+ 
+Past Medical History:
+PMH: hepatitis C, IDDM, gastroparesis, peripheral neuropathy,
+glaucoma, seizures
+
+PSH: Right knee surgery
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+VS: 98.2, 92, 142/94, 18, 98%RA
+Gen: A+Ox3, NAD, multiple tattoos, vomiting has resolved
+Card: Reg rhythm, tachy,
+Abd: Soft, distended and tender but no abdominal pain
+Extr: MAE, ___ bilateral lower extremities
+ 
+Pertinent Results:
+On Admission: ___
+WBC-5.0 RBC-2.88* Hgb-9.3* Hct-27.9* MCV-97 MCH-32.4* MCHC-33.4 
+RDW-16.9* Plt ___ PTT-26.1 ___
+Glucose-109* UreaN-17 Creat-0.7 Na-140 K-4.4 Cl-107 HCO3-25 
+AnGap-12
+ALT-7 AST-12 AlkPhos-63 TotBili-0.3 Lipase-19
+Calcium-8.4 Phos-4.1 Mg-1.5*
+At Discharge: ___ 
+WBC-2.0*# RBC-3.05* Hgb-9.7* Hct-29.5* MCV-97 MCH-31.7 MCHC-32.8 
+RDW-16.5* Plt ___
+Glucose-83 UreaN-11 Creat-0.9 Na-140 K-4.0 Cl-104 HCO3-28 
+AnGap-12
+Amylase-45 Lipase-19
+Calcium-8.9 Phos-5.2* Mg-1.5*
+tacroFK-10.___ y/o male who was admitted with recurring gastroparesis 
+symptoms, 2 months s/p pancreas transplant.
+The patient was made NPO, hydrated and given IV reglan.
+His abdomen remained soft, non-distended with + bowel sounds. 
+His nausea subsided and his diet was advanced to regular with 
+good tolerance although he did have sompaints intermittently of 
+abdominal pain.
+He was scheduled to see Dr ___ GI ___ this ___, 
+however he came by to see patient while in house. His 
+recommendations include dropping his Reglan to TID as tolerated, 
+and returning to QID if needed. Per his note it appears he is 
+trying to wean patient down on the Reglan. He will continue to 
+follow with Dr ___ as an outpatient.
+ 
+Medications on Admission:
+ tacro ___, cellcept 500'''', valcyte 900', bactrim ss', 
+nystatin STOPPED, prilosec 20'', diazepam 10'''', ASA 81', 
+Dronabinol 10''', duloxetine 90', gabapentin 600''', reglan 
+20'''', topiramate 25', fludrocortisone 0.1'  
+
+ 
+Discharge Medications:
+1. Valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+2. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+4. Dronabinol 2.5 mg Capsule Sig: Four (4) Capsule PO TID (3 
+times a day).  
+5. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three 
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+6. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO Q8H (every 
+8 hours).  
+7. Topiramate 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+8. Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. Mycophenolate Mofetil 500 mg Tablet Sig: One (1) Tablet PO 
+QID (4 times a day).  
+10. Tacrolimus 1 mg Capsule Sig: Two (2) Capsule PO twice a day. 
+ 
+11. Tacrolimus 5 mg Capsule Sig: One (1) Capsule PO twice a day. 
+ 
+12. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO twice a day.  
+13. Reglan 10 mg Tablet Sig: Two (2) Tablet PO four times a day. 
+ 
+14. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+15. Diazepam 10 mg Tablet Sig: One (1) Tablet PO four times a 
+day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+s/p pancreas transplant 2 months ago
+gastroparesis exacerbation
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Please call the transplant clinic at ___ for fever > 
+101, chills, nausea, vomiting more than your usual, increased 
+abdominal pain, diarrhea or other concerning symptoms.
+Check your blood sugar and report any value greater than 200
+Continue all home medications and immunosuppresives. Your 
+Prograf dose has been changed to 7 mg BID
+Lab draws per transplant clinic recommendations
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10227511-DS-20 | hadm_id=26123100
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Demerol / Ativan / Shellfish Derived
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ yo man w DM1 c/b neuropathy, gastroparesis, s/p pancreas 
+transplant in ___ on sirolimus and tacrolimus, now presents 
+with nausea, vomiting, and abdominal pain. The pt was admitted 
+at ___ from ___ with the same symptoms. On that admission, 
+he was evaluated for more unusual causes of abdominal pain 
+including: heavy metal poisoning, intermittent prophyria, 
+pancreatitis, biliary etiology. Tests for familial Mediterraean 
+Fever are pending. There was some concern that some of his pain 
+may be exhibiting some narcotic seeking behavior.  
+.
+He most recent admission was from ___ to ___ for 
+nausea, vomiting and abdominal pain. Since that time he was 
+doing well at home until the morning of presentation when he 
+developed nausea, vomiting and abodminal pain. The pain is 
+mid-epigastric and does not radiate. It is a stabbing pain. The 
+pain is similar to that which he experiences with all his 
+flares. The nausea and vomiting also began this morning. He is 
+vomiting mainly water and food. He is not vomiting bile or 
+blood. He has been able to continue to take PO fluids but has 
+not taken any of his medications including his tacroliums and 
+siroliums. He has vomited over ten times today. He denies 
+hematemasis, diarrhea, constipation, melena, hematochezia. He 
+has normal urine output without dysuria or hematuria. He denies 
+fevers and chills.  
+.  
+He initially presented to ___. On 
+presentation there his initial vitals were T: 100.3, BP: 158/84, 
+RR: 26, O2: 98% on RA. He received normal saline 500 ml, 
+Dilaudid 2 mg IV x 3, Zofran 4 mg IV x 1. He had a chest xray 
+which showed no acute cardiopulmonary process. CBC showed WBC 
+11.7, 90% PMNs, normal chemistries, normal LFTs and normal 
+lipase. He was transferred to this hospital for further 
+management.  
+.  
+On arrival to ___ his initial vital signs were T: 100.2 BP: 
+121/83, HR: 98, RR: 18 O2: 100% on RA. He was given a total of 
+dilaudid 3mg IV, Zofran 4 mg IV, reglan 10 mg IV and Toradol 30 
+mg IV x 1. Imaging was deferred as his pain was typical for his 
+flares. He was admitted to ___ 10.  
+.  
+On arrival to the floor he continues to experience nausea, 
+vomiting and abdominal pain. He requests narcotis. He reports 
+that these symptoms are identical to previous flares. He denies 
+new symptoms.
+ 
+Past Medical History:
+Pancreatic transplant ___  
+DM2 c/b gastroparesis, peripheral neuropathy  
+Hep C  
+Glaucoma  
+?Seizures  
+Right knee surgery 
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Vitals: T: 98.3 BP: 156/110 P: 68 R: 20 O2: 100% on RA  
+General: Alert, oriented, moans in pain, will not answer 
+questions  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-distended, bowel sounds present, diffusely 
+tender, voluntary guarding, no rebound tenderness, no 
+organomegaly, no tenderness over pancreatic graft, well healed 
+surgical scars  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+ 
+Pertinent Results:
+LABS:
+___ 09:25PM BLOOD WBC-9.2# RBC-4.38* Hgb-12.6* Hct-36.8* 
+MCV-84 MCH-28.8 MCHC-34.3 RDW-14.6 Plt ___
+___ 09:25PM BLOOD Neuts-97* Bands-0 Lymphs-2* Monos-1* 
+Eos-0 Baso-0 ___ Myelos-0
+___ 09:25PM BLOOD Hypochr-OCCASIONAL Anisocy-NORMAL 
+Poiklo-2+ Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL 
+Burr-OCCASIONAL Ellipto-1+
+___ 09:25PM BLOOD ___ PTT-20.7* ___
+___ 05:20AM BLOOD Glucose-122* UreaN-17 Creat-0.9 Na-140 
+K-3.4 Cl-104 HCO3-20* AnGap-19
+___ 05:20AM BLOOD Calcium-9.3 Phos-3.3# Mg-1.5*
+___ 05:20AM BLOOD Amylase-58
+___ 05:20AM BLOOD Lipase-19
+___ 07:48PM BLOOD Lactate-1.5
+___ 06:20AM BLOOD ALT-11 AST-15 AlkPhos-82 TotBili-0.6
+
+IMMUNOSUPPRESSION LEVELS:
+___ 05:20AM BLOOD tacroFK-3.0* rapmycn-3.6*
+___ 05:00AM BLOOD tacroFK-2.8* rapmycn-2.1*
+___ 05:10AM BLOOD tacroFK-3.7* rapmycn-3.3*
+___ 04:55AM BLOOD tacroFK-5.9 rapmycn-6.8
+___ 05:45AM BLOOD tacroFK-4.1* rapmycn-3.5*
+___ 06:20AM BLOOD tacroFK-3.1* rapmycn-3.7*
+___ 04:50AM BLOOD tacroFK-4.7* rapmycn-6.8
+
+___ URINALYSIS: clear yellow, spec ___ 1.020, pH 7.5, 
+trace blood, >80 ketones, 0.2 urobilinogen, negative ___ / 
+nitrite / protein / glucose / bilirubin; ___ RBCs, 0 WBCs, no 
+bacteria, no yeast, <1 epithelial
+
+MICRO:
+___ Urine Cx negative
+___ Blood Cx negative x4
+
+CXR ___:
+PA and lateral chest compared to ___: 
+  
+Aside from right aortic arch normal heart, lungs, hila, 
+mediastinum and 
+pleural surfaces. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+
+CT Abdomen/Pelvis ___:
+TECHNIQUE: Axial CT images were acquired through the abdomen and 
+pelvis 
+following administration of 130 cc of intravenous Optiray 
+contrast. Coronal 
+and sagittal reformatted images were also reviewed. 
+  
+CT ABDOMEN WITH CONTRAST: The included portions of the lung 
+bases and the 
+cardiac apex are unremarkable. The stomach and small bowel are 
+unremarkable. 
+The spleen, adrenal glands, kidneys, gallbladder are 
+unremarkable. The liver 
+contains a focal hypodensity consistent with focal fatty 
+infiltration, 
+unchanged from the comparison study (2:24). There is no free gas 
+or fluid in 
+the abdomen. Regional vascular structures are unremarkable. 
+There is no 
+retroperitoneal or mesenteric lymphadenopathy. 
+  
+CT PELVIS WITH CONTRAST: The patient is status post pancreas 
+transplant with 
+the new pancreas visualized in the right lower quadrant, 
+enhancing 
+homogeneously. A trace amount of hypodensity near the pancreatic 
+head (2:61) 
+is consistent with a small amount of adjacent fluid, unchanged 
+from previous 
+studies. The rectum and colon are unchanged in appearance from 
+the comparison 
+study and appear unremarkable. The appendix is also well 
+visualized and is 
+normal (300B:20). There is no free gas in the pelvis. There is 
+no pelvic 
+sidewall or inguinal lymphadenopathy. The urinary bladder, 
+distal ureters, 
+prostate, and seminal vesicles are also unremarkable. 
+  
+OSSEOUS FINDINGS: There is no suspicious sclerotic or lytic 
+osseous lesion. 
+  
+IMPRESSION: Overall minimal change with redemonstration of 
+normally enhancing 
+pancreatic transplant with a stable, small amount of adjacent 
+fluid. 
+
+ 
+Brief Hospital Course:
+#. Abdominal Pain/Nausea/Vomiting.  During his last admission, 
+an agreement was reached that we would no longer treat his 
+gastroparesis with narcotic analgesics.  Due to a computer 
+outage, he received IV dilaudid in the emergency department 
+before admission.  On the floor, he was given no narcotic pain 
+relievers.  His home fentanyl patch was stopped.  His nausea was 
+treated with prn compazine and zofran.  His gastroparesis was 
+treated with standing reglan.  He was made NPO and given IV 
+fluids and his electrolytes were repleted as needed.  Withdrawal 
+symptoms were treated with clonidine and valium.  His diet was 
+advanced to clears which he tolerated, and his abdominal pain 
+improved slowly.  Substance Abuse psychiatry was consulted an 
+investigated inpatient detoxification options.  As patient was 
+no longer taking narcotics, he did not qualify for inpatient 
+detoxification.  Patient was provided with a list of outpatient 
+providers that can treat narcotic withdrawal with suboxone.  He 
+tolerated advancement of his diet to regular.
+.
+#. Fever.  On ___, patient had a fever to 101.0 F.  Chest 
+x-ray and urinalysis were unremarkable.  A CT scan of the 
+abdomen and pelvis demonstrated no interval change from a study 
+on ___.  Blood and urine cultures had no growth to date at 
+time of discharge.  
+.
+#. s/p pancreas transplant. Serum levels of rapamune and 
+tacrolimus were low on admission.  He was given his homes doses 
+of rapamune and tacrolimus, even while NPO.  As his nausea and 
+vomiting improved, his serum level of immunsupressants  now 
+therapeutic 5.9 and 6.8 respectively. As he has been better able 
+to tolerate PO, he has been able to take his meds. Amylase and 
+lipase continue to be negative.  His tacrolimus and sirolimus 
+doses were adjusted and on discharge were:
+1. tacrolimus 3mg PO Q12hrs
+2. sirolimus 5mg PO daily
+.
+
+ 
+Medications on Admission:
+Tacrolimus 3 mg PO Q12H  
+Sirolimus 4 mg PO daily  
+Topiramate 25 mg PO daily  
+Omeprazole 40 mg PO BID  
+Diazepam 10 mg PO Q6H:PRN  
+Fentanyl 50 mcg/hr patch Q72H  
+Bactrim SS daily  
+Gabapentin 600 mg PO TID  
+Duloxetine 90 mg EC daily  
+Dronabinol 10 mg PO TID  
+Senna PRN  
+Colace PRN  
+Metoclorpramide 20 mg PO QIDACHS  
+Bisacodyl PRN  
+Prochlorperazine 10 mg PO Q6H:PRN  
+
+ 
+Discharge Medications:
+.
+1. Tacrolimus 1 mg Capsule Sig: Three (3) Capsule PO every 
+twelve (12) hours.  
+2. Sirolimus 1 mg Tablet Sig: Five (5) Tablet PO once a day.  
+3. Topiramate 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+as needed for headache.  
+4. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+5. Diazepam 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for anxiety.  
+6. Bactrim 80-400 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO Q8H (every 
+8 hours).  
+8. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three 
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+9. Dronabinol 10 mg Capsule Sig: One (1) Capsule PO TID (3 times 
+a day).  
+10. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+11. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as 
+needed for constipation.  
+12. Metoclopramide 10 mg Tablet Sig: Two (2) Tablet PO QIDACHS 
+(four times daily: with meals and at bedtime).  
+13. Bisacodyl 5 mg Tablet Sig: ___ Tablets PO once a day as 
+needed for constipation.  
+14. Compazine 10 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for nausea.  
+15. Acetaminophen 500 mg Tablet Sig: ___ Tablets PO every six 
+(6) hours as needed for fever or pain.  
+16. Clonidine 0.1 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours.
+Disp:*120 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+1. Narcotics dependence, withdrawal
+2. Gastroparesis
+.
+Secondary Diagnoses:
+1. Type 1 diabetes mellitus, s/p pancreas transplant
+
+ 
+Discharge Condition:
+Afebrile, vital signs stable.
+
+ 
+Discharge Instructions:
+You were admitted to ___ with abdominal pain, and nausea / 
+vomiting. You were treated as gastroparesis and narcotic 
+withdrawal, and you received anti-emetics, IV fluids, valium, 
+and clonidine to make you comfortable while you were withdrawing 
+from the narcotics. Your immunosuppression was adjusted as well. 
+You should take all your medications as listed below.
+.
+The following changes were made to your medications:
+1. STOP the Fentanyl patch
+2. STOP the Dilaudid
+3. START Clonidine 0.1mg every 6 hours
+.
+You have been set up with an outpatient program for relapse
+prevention and psycho-education with Ad-Care ___, which 
+has a ___ clinic for future care. You should follow-up with 
+your appointment with them tomorrow. You should also follow-up 
+with Dr. ___ your endoscopic ultrasound & Botox, and 
+then with Dr. ___, at the appointments listed below.
+.
+If you develop any abdominal pain, nausea, vomiting, or other 
+concerning symptoms, you should call your doctor or return to 
+the Emergency Room for evaluation.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10227511-DS-12 | hadm_id=26526535
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Demerol / Ativan
+ 
+Attending: ___
+ 
+Chief Complaint:
+nausea, abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This is a ___ with history of DM1 c/b neuropathy and 
+gastroparesis, s/p pancreas transplant (___) who presents 
+with nausea and vomiting x 1 day. Patient states symptoms are 
+similar to previous episodes of gastroparesis. He reports at 
+least 20 episodes of vomiting in the past day, small amounts of 
+yellow/clear emesis,non-bloody, no coffee grounds. ___ 
+abdominal pain today, currently ___ in Left mid to lower 
+quadrant which is where is always has pain. At baseline pain is 
+___ and worsens with his exacerbations. He denies any recent 
+fevers, chills, cough, SOB, chest pain, diarrhea, melena, BRBPR, 
+back pain, HA, arthralgias. He does report some calf discomfort 
+which he attributes to muscle strain/ache. He was able to keep 
+down his Tacrolimus, Mycophenylate Mofetil and Fludrocortisone 
+today.  
+.  
+In the ED: Temp 99.2, BP 139/88, HR 104, RR 17, 98% RA. Received 
+Morphine 4mg IV x 3, Zofran 4mg IV x 2, 1L NS at 125cc/hr. He 
+was transferred to the medical floor for further management.  
+
+ 
+Past Medical History:
+PMH: 
+Pancreatic transplant ___  
+DM2 c/b gastroparesis, peripheral neuropathy  
+Hep C  
+Glaucoma  
+?Seizures  
+Right knee surgery  
+
+PSH: Right knee surgery
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+V/S Temp 100.5, BP 146/100, HR 100, RR 16 96%RA  
+GEN: NAD, lying in bed comfortably, pleasant  
+HEENT: NC/AT, dry MM, OP clear  
+NECK: supple, no LAD  
+CV: RRR, normal S1S2, no M/R/G  
+CHEST: CTAB, no wheezes crackles or ronchi  
+ABD: soft, TTP in left mid to lower quadrant, no rebound or 
+guarding, no HSM, NABS  
+EXTR: no c/c/e, +2 distal pulses  
+
+ 
+Pertinent Results:
+___ 05:00AM BLOOD WBC-2.2* RBC-3.57* Hgb-10.5* Hct-32.1* 
+MCV-90 MCH-29.3 MCHC-32.6 RDW-15.0 Plt ___
+___ 08:00PM BLOOD WBC-2.5* RBC-4.16* Hgb-12.3* Hct-36.8* 
+MCV-88# MCH-29.6 MCHC-33.5 RDW-15.1 Plt ___
+___ 08:00PM BLOOD Neuts-67.9 ___ Monos-9.9 Eos-3.2 
+Baso-0.3
+___ 05:00AM BLOOD Plt ___
+___ 05:00AM BLOOD Glucose-82 UreaN-25* Creat-1.0 Na-140 
+K-4.2 Cl-106 HCO3-24 AnGap-14
+___ 08:00PM BLOOD Glucose-93 UreaN-34* Creat-1.2 Na-137 
+K-4.2 Cl-103 HCO3-19* AnGap-19
+___ 08:00PM BLOOD ALT-8 AST-16 AlkPhos-90 TotBili-0.4
+___ 08:00PM BLOOD Lipase-17
+___ 05:00AM BLOOD tacroFK-7.8
+.
+FINDINGS: Supine and upright views of the abdomen are obtained. 
+Clips are 
+noted in the right lower quadrant as well as a suture. Bowel gas 
+pattern is unremarkable and demonstrates no evidence of ileus or 
+obstruction. Gas is seen throughout the large bowel and rectum. 
+No free air is seen below the diaphragm. No worrisome 
+calcifications are seen. Lung bases appear clear.  Bony 
+structures appear intact. 
+
+ 
+Brief Hospital Course:
+___ yo with history of DM1 c/b neuropathy and gastroparesis, s/p 
+pancreas transplant (___) who presents with nausea and 
+vomiting consistent with previous episodes of gastroparesis.  
+.  
+# Nausea/Vomiting: LFTs normal, lipase normal, KUB normal, 
+patient stooling normally, so hepatits, pancreatitis and 
+obstruction ruled out. Possibly a gastroenteritis, but patient 
+without sick contacts and his symptoms were consistent with 
+prior episodes of gastroparesis. Therefore, we treated as 
+gastroparesis in the same was he treated in previous admissions 
+with Morphine ___ IV q2h, Zofran 4mg IV q8 PRN, Compazine PRN 
+nausea.  We also continued his fentanyl patch.  On the morning 
+after admission the patient tolerated breakfast and lunch 
+without nausea or vomiting.  He was discharged with 3 days of 
+compazine and we discussed proper diet to prevent gastroparesis 
+and one extra 25mcg fentanyl patch (for total of 75mcg for 72 
+hours).   
+.  
+# s/p Pancreatic transplant:  Patient continued on home 
+immunosuppression with Tacrolimus, Mycophenalate Mofetil and 
+fludrocortisone.  His mycophealate mofetil dose was decreased to 
+TID. Tacro level was checked and was therapeutic.  Patient also 
+continued on prophylaxis Bactrim SS qday.  
+.  
+# Peripheral Neuropathy: Continued on gabapentin.  
+.  
+# Anxiety:  Continued on home Duloxetine, Topamax, Diazepam  
+.  
+# Glaucoma: Continue on Xibrom eye drops.  
+
+ 
+Medications on Admission:
+Mycophenylate Mofetil 500 mg PO QID  
+Trimethoprim-Sulfamethoxazole 80-400 mg PO DAILY  
+Protonix 40 mg PO once a day  
+Diazepam 10 mg PO Q6H  
+Dronabinol 10mg PO TID  
+Duloxetine 90 mg PO DAILY  
+Gabapentin 600 mg PO Q8H  
+Reglan 20 mg PO four times a day.  
+Topiramate 25 mg PO DAILY  
+Fludrocortisone 0.1 mg PO DAILY  
+Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch q72 hr  
+XIBROM 0.09 % Drops Sig: One (1) drop ___ Ophthalmic QID  
+Aspirin 81 mg Tablet PO DAILY  
+Tacrolimus 4mg Capsule PO every twelve (12) hours.  
+
+ 
+Discharge Medications:
+1. Mycophenolate Mofetil 500 mg Tablet Sig: One (1) Tablet PO 
+QID (4 times a day).  
+2. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+4. Diazepam 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours).  
+5. Dronabinol 2.5 mg Capsule Sig: Four (4) Capsule PO TID (3 
+times a day).  
+6. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three 
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+7. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO Q8H (every 
+8 hours).  
+8. Metoclopramide 10 mg Tablet Sig: Two (2) Tablet PO QIDACHS (4 
+times a day (before meals and at bedtime)).  
+9. Topiramate 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+10. Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+11. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) patch 
+Transdermal every ___ (72) hours.  
+12. XIBROM 0.09 % Drops Sig: One (1) drop both eyes Ophthalmic 
+QID (4 times a day).  
+13. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+14. Tacrolimus 1 mg Capsule Sig: Four (4) Capsule PO Q12H (every 
+12 hours).  
+15. Compazine 10 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for nausea for 3 days.
+Disp:*10 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Gastroparesis
+Pancreatic transplant ___  
+DM Type I complicated by peripheral neuropathy  
+Hep C  
+Glaucoma  
+Anxiety
+
+ 
+Discharge Condition:
+Stable, taking good PO, no nausea or abdominal pain.
+
+ 
+Discharge Instructions:
+You came to the hospital with nausea and vomiting that was 
+similar to your prior episode of gastroparesis.  We treated you 
+with pain medications, and did not find any abnormalities on 
+your labwork.  You felt better and you were able to eat so we 
+discharged you home.
+.
+We made no changes to your medications.  Please take all your 
+medications as directed.
+.
+We recommend that you eat smaller, more frequent meals with 
+foods that are easy to digest to prevent your gastroparesis from 
+coming back.  You should also make sure to take all your doses 
+of reglan.
+.
+If you have nausea, vomiting, abdominal pain, diarrhea, fever, 
+chills or any other symptom that is concerning to you please 
+call your doctor or come to the emergency room.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10227511-DS-9 | hadm_id=27010498
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins / Demerol / Ativan
+ 
+Attending: ___.
+ 
+Chief Complaint:
+IDDM here for pancreas transplant
+
+ 
+Major Surgical or Invasive Procedure:
+___ pancreas transplant
+
+ 
+History of Present Illness:
+___ with IDDM c/b gastroparesis requiring multiple 
+hospitalizations presents for elective pancreas transplant.  He 
+reports no recent fever, chills, chest pain, dyspnea, diarrhea, 
+melena, cough, sputum production, or rash.  He
+was recently admitted for nausea/vomiting and abdominal pain 
+related to his gastroparesis.  Pt reports that he has occurences 
+of nausea and abdominal pain related to his gastroparesis 
+usually every other week.  
+
+ 
+Past Medical History:
+PMH: hepatitis C, IDDM, gastroparesis, peripheral neuropathy,
+glaucoma, seizures
+
+PSH: Right knee surgery
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+PE: T 98.1  P ___  BP 118/79  R 18  SaO2 95% on room air
+Gen: no distress, alert and oriented x 3, multiple tattooes
+HEENT: NC/AT, PERLA, EOMI, mucus membranes moist, anicteric
+Neck: supple, no LAD
+Chest: lungs clear bilaterally
+Heart: RRR, no M/R/G
+Abd: soft, nontender, nondistended
+Ext: no edema, warm, palpable ___ bilaterally
+
+ 
+Pertinent Results:
+At Admission: ___ 
+WBC-6.8 RBC-3.50* Hgb-11.6* Hct-32.8* MCV-94 MCH-33.2* 
+MCHC-35.5* RDW-14.8 Plt ___ PTT-25.7 ___
+Glucose-106* UreaN-19 Creat-0.6 Na-144 K-4.1 Cl-107 HCO3-29 
+AnGap-12
+ALT-14 AST-14 LD(LDH)-171 AlkPhos-89 Amylase-36 TotBili-0.4
+Lipase-12 Albumin-4.2 Calcium-8.9 Phos-4.7* Mg-1.9 Cholest-157
+___ HbA1c-6.8*
+At Discharge: 
+WBC-9.9# RBC-3.19* Hgb-10.4* Hct-29.7* MCV-93 MCH-32.7* 
+MCHC-35.1* RDW-14.2 Plt ___
+Glucose-113* UreaN-13 Creat-0.7 Na-137 K-3.9 Cl-104 HCO3-23 
+AnGap-14
+Amylase-45 Lipase-48
+Calcium-8.6 Phos-3.3 Mg-1.6
+tacroFK-18.___ Pt admitted to the surgical sevice for Pancreatic 
+transplant for IDDM.  Renal transplant consult called. Post 
+operativeley pt kept NPO/IVF with q hourly glucose moitoring. 
+Immunosuppresion with ATG ( 5 doses total with last dose split 
+due to neutropenia), SM, MMF started. Pain control with PCa , 
+BZD. ___ u/s showed no evidence of DVT.
+___ NGt to suction, q 2 hr gluc checks, ASA started and 
+Heparin GTT started for thrombosis prevention. US: limited study 
+but nl vasc to head of panc, good arterial and venous flow  
+___ Marinol added for pain control.  Pancreatic enzymes 
+trended down.  NGT removed
+___ foley dc'd.Advanced diet to clears,Social work consult. 
+___ diet advanced to solids. Heparin GTT stopped.  ATG help for 
+neutropenia.  Po pain managment, Nausea due to chronic 
+gastropresis.  
+___.  NGT replaced due to nausea, with large output from 
+ngt.  KUB performed.  
+___: Advanced to sips. Sm and MMF for immunosuppression. 
+___ Clear diet,  advanced to regular diet still with some 
+nausea secondary to gastroparesis.  
+___: pt discharged to home, VSS, tolerating a regular diet, with 
+mild nausea.  Pain controlled on PO pain meds with BS<140s.
+ 
+Medications on Admission:
+ axert 12.5mg prn, valium 10mg qid, cymbalta 90mg daily,
+fentanyl 50mcg patch q72, neurontin 600mg tid, vicodin prn,
+novolog sliding scale, lantus 44units qhs, reglan 20mg qid,
+zegerid 40/1680mg tid, zoloft 75mg daily, sucralfate 1g tid,
+topamax prn
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. Topiramate 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three 
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+4. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO Q8H (every 
+8 hours).  
+5. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+6. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+7. Diazepam 10 mg Tablet Sig: One (1) Tablet PO QID (4 times a 
+day).  
+8. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID 
+(4 times a day).
+Disp:*300 ml* Refills:*2*
+9. Valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+11. Mycophenolate Mofetil 500 mg Tablet Sig: One (1) Tablet PO 
+QID (4 times a day).  
+12. Oxycodone 5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 
+hours) as needed for pain.
+Disp:*70 Tablet(s)* Refills:*0*
+13. Dronabinol 2.5 mg Capsule Sig: Two (2) Capsule PO Q 8H 
+(Every 8 Hours).
+Disp:*42 Capsule(s)* Refills:*0*
+14. Tacrolimus 1 mg Capsule Sig: One (1) Capsule PO twice a day: 
+Total 6 mg BID. 
+15. Tacrolimus 5 mg Capsule Sig: One (1) Capsule PO twice a day: 
+Total 6 mg BID.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+pancreas transplant
+gastroparesis
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+Please call the Transplant Office ___ if fever, chills, 
+nausea/vomiting, inability to take any of your medications, 
+diarrhea, worsening abdominal pain, glucose of 200 or greater or 
+incision redness/bleeding/drainage. 
+___ shower, but do not tub bathe, swim, soak, or scrub incision 
+for 2 weeks.  
+No driving or alcohol while taking pain medications.  
+Labs ___ at ___
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10227511-DS-14 | hadm_id=27269765
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Demerol / Ativan
+ 
+Attending: ___
+ 
+Chief Complaint:
+nausea, vomiting, abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ yo man w/hx of DM1, gastroparesis, s/p pancreas tx ___ on 
+Prograf and Cellcept, now presents with nausea/vomiting, 
+abdominal pain consistent with prior episodes of gastroparesis. 
+Nausea and vomiting all started this morning after he woke up. 
+He tried taking oral antiemetics, but did not improve. He had 
+approximately 15 episodes of vomiting, and presented to ED for 
+furthe evaluation. He denies fevers, chills, hematemesis. Denies 
+ETOH use. He describes his pain as sharp, in LUQ, consistent 
+with prior episodes. He had a BM prior to presentation in ER.
+.
+In the ED, initial vital signs were 98.9, 135/86, 96, 16, 
+100%RA. He received zofran, morphine 4 mg IV x 2, dilaudid 1 mg 
+IV x 1, phenergan x 2 with some relief of nausea and pain. He 
+had a KUB which was negative for acute pathology. Vitals at time 
+of transfer were 99.4, 86, 121/78, 16, 95%RA.
+.
+Currently, he continues to have nausea with dry heaving. Says 
+his abdominal pain is similar in location and quality to past 
+episodes. He denies urinary symptoms. He denies cough, shortness 
+of breath, sputum production, or fever.
+ 
+Past Medical History:
+Pancreatic transplant ___  
+DM2 c/b gastroparesis, peripheral neuropathy  
+Hep C  
+Glaucoma  
+?Seizures  
+Right knee surgery 
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Vitals - 100.3 152/100 88 14 100%RA
+GENERAL: young man, breathing comfortably, answer questions 
+appropriately
+HEENT: no scleral icterus
+CARDIAC: regular rate and rhythm, normal S1/S2, no murmurs
+LUNG: clear bilaterally anterior fields
+ABDOMEN: moderate diffuse tenderness particularly in LUQ without 
+rebound. some voluntary guarding, hypoactive bowel sounds
+EXT: warm and well-perfused, non-edematous
+NEURO: alert and oriented x3, moving all extremities
+SKIN: numerous tattoos
+ 
+Pertinent Results:
+Labs on admission:
+
+___ 07:25PM   WBC-7.6 RBC-4.30* HGB-13.0*# HCT-38.3* MCV-89 
+MCH-30.3 MCHC-34.0 RDW-14.7
+___ 07:25PM   PLT COUNT-407
+___ 07:25PM   NEUTS-87.8* LYMPHS-6.6* MONOS-3.6 EOS-1.8 
+BASOS-0.2
+___ 07:25PM   ALBUMIN-5.0*
+___ 07:25PM   LIPASE-24
+___ 07:25PM   ALT(SGPT)-11 AST(SGOT)-22 ALK PHOS-107 TOT 
+BILI-0.4
+___ 07:25PM   GLUCOSE-96 UREA N-21* CREAT-1.1 SODIUM-140 
+POTASSIUM-5.1 CHLORIDE-104 TOTAL CO2-24 ANION GAP-17
+___ 07:15AM   ___ PTT-26.1 ___
+___ 07:15AM   tacroFK-5.6
+
+___ 12:20AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-50 BILIRUBIN-NEG UROBILNGN-1 PH-8.0 LEUK-NEG
+
+IMAGING:
+KUB (___): IMPRESSION: Nonspecific bowel gas pattern with no 
+evidence of obstruction
+
+CULTURES:
+Urine (___): <10,000 colonies
+Blood (___): No growth to date.
+ 
+Brief Hospital Course:
+___ yo man w/hx of DM1, gastroparesis, s/p pancreas tx ___ on 
+Prograf and Cellcept, now presents with nausea/vomiting and 
+abdominal pain consistent with prior episodes of gastroparesis.
+
+# Gastroparesis: The patient's symptoms were consistent with 
+previous episodes of gastroparesis and resolved with antiemetics 
+(zofran, compazine, phenergan) and morphine. IV fluids were 
+given until the patient was able to tolerate PO. KUB ruled out 
+obstruction or perforation. LFTs and lipase were unremarkable. 
+Mr. ___ did have a single fever to 100.3.  Blood cultures 
+were drawn and have been negative to date.  Urine cultures were 
+negative. There was no evidence of perforation on KUB.  There 
+was no evidence of respiratory etiology on exam. There were no 
+further temperature spikes and no source of infection was 
+identified.
+The patient has been receiving narcotics on each hospitalization 
+for gastroparesis.  Since this is not an ideal agent for 
+gastroparesis or abdominal pain, he was weaned from pain 
+medications on this admission. Fentanyl patch dose was reduced 
+from 75mcg (home dose) to 50mcg. He was discharged on a limited 
+supply of PO morphine as abdominal pain had not completely 
+resolved on discharge. He was advised to follow up with PCP in 
+terms of fentanyl patch dosing and pain management.
+
+# S/p pancreatic transplant: There was no evidence of rejection 
+on admission. Tacrolimus level was 5.6 on admission. Myfortic 
+was stopped.  He was started on Mycophenolate Mofetil 250mg BID 
+and sirolimus 3mg PO Qdaily and continued on tacrolimus.  
+Mycophenolate mofetil will be stopped once sirolimus is 
+therapeutic. He was instructed to have tacrolimus and sirolimus 
+levels checked on ___, which will be followed by Dr. 
+___.  He was continued on bactrim prophylaxis.  He was also 
+given a prescription for Nepro supplement Qdaily.
+
+ 
+Medications on Admission:
+-mycophenolate sodium 360 mg TID
+-Bactrim SS qday
+-omeprazole 20mg qday
+-Diazepam 10mg q6h prn for anxiety
+-Dronabinol 10mg tid
+-duloxetine 90mg qday
+-gabapentin 600mg q8h
+-metoclopramide 20mg qidachs
+-topiramate 25mg qday prn for headaches
+-fentanyl 75mcg patch q72h
+-aspirin 81mg qday
+-tacrolimus 4mg q12h
+-compazine 10mg q12h prn
+-Phenergan 25 mg Q8H PRN
+ 
+Discharge Medications:
+1. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+2. Diazepam 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for anxiety.  
+3. Dronabinol 10 mg Capsule Sig: One (1) Capsule PO three times 
+a day.  
+4. Gabapentin 600 mg Tablet Sig: One (1) Tablet PO every eight 
+(8) hours.  
+5. Metoclopramide 10 mg Tablet Sig: Two (2) Tablet PO QIDACHS 
+PRN as needed for nausea.  
+6. Tacrolimus 1 mg Capsule Sig: Four (4) Capsule PO Q12H (every 
+12 hours).  
+7. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+8. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+9. Sirolimus 1 mg Tablet Sig: Three (3) Tablet PO once a day.
+Disp:*180 Tablet(s)* Refills:*2*
+10. Phenergan 25 mg Tablet Sig: One (1) Tablet PO Q8H PRN as 
+needed for nausea.  
+11. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three 
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+12. Compazine 10 mg Tablet Sig: One (1) Tablet PO Q12H PRN as 
+needed for nausea.  
+13. Mycophenolate Mofetil 250 mg Capsule Sig: One (1) Capsule PO 
+BID (2 times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+14. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).
+Disp:*5 Patch 72 hr(s)* Refills:*2*
+15. Outpatient Lab Work
+Please have tacrolimus and rapamycin levels drawn in morning on 
+___. Levels to be sent to Dr. ___
+16. Morphine 15 mg Tablet Sig: One (1) Tablet PO Q6-8H PRN as 
+needed for pain.
+Disp:*10 Tablet(s)* Refills:*0*
+17. Nepro 0.08-1.80 gram-kcal/mL Liquid Sig: One (1)  PO once a 
+day.
+Disp:*1 month supply* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Diabetic gastroparesis
+2. Dehydration
+3. Pancreatic transplant
+
+ 
+Discharge Condition:
+Stable, tolerating PO. Afebrile. 
+
+ 
+Discharge Instructions:
+You were admitted to ___ on ___ for nausea and vomiting 
+secondary to diabetic gastroparesis.  You were unable to 
+tolerate your immunosuppressant medications and you were 
+dehydrated.
+
+While you were hospitalized, we did an Xray of your abdomen, but 
+there was no evidence of obstruction.  You had a fever, but 
+blood cultures and urine cultures are negative for infection to 
+date. 
+
+We gave you anti-nausea medications and IV fluids. We also gave 
+you pain medications for your abdominal pain.  You will receive 
+a limited supply of oral morphine. In general, however, 
+narcotics may increase your symptoms from gastroparesis. We are 
+also decreasing your fentanyl patch from 75mcg to 50mcg. 
+
+You should continue to take your other medications as prescribed 
+EXCEPT, you should STOP taking myfortic 360mg three times a day. 
+START taking sirolimus 3 mg once a day. START taking 
+Mycophenolate Mofetil 250mg twice a day.  You will need to get 
+levels of sirolimus and prograf on ___ and these results 
+will be faxed to Dr. ___.
+
+Please return to the ER or call your doctor if you have 
+nausea/vomiting to the extent that you cannot keep down fluids 
+or medications, fevers/chills, chest pain, shortness of breath, 
+bloody stools, or any other symptoms concerning to you.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10227511-DS-15 | hadm_id=28578929
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Demerol / Ativan
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal Pain 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HPI: ___ y/o M w. h/o DM2, c/b gastroparesis, who had pancreatic 
+transplant in ___, also with frequent presentations 
+with gastroparesis. He says that he woke up this morning and had 
+very sharp abdominal pain, and started vomiting, he says that he 
+has vomited over 60 times today, and now is dry heaving and 
+clear fluid with blood streaks are coming up. Now p/w vomiting, 
+nausea, severe abdominal pain c/w previous gastroparesis 
+episodes. Non bilious emesis, no medications today, he tried to 
+take them but could not keep them down. No fever but is c/o 
+sweats, no HA, no visual changes. No known triggers. Patient had 
+two episodes of diarrhea today, that were not bloody, he denies 
+any recent constipation. No recent sick contacts, says up until 
+this morning when the pain began he says he had been eating 
+normaly. Also denies any constipation, dysuria/hematuria.
+.
+In the ED initial VS 98.7, 66, 151/112, RR22, 100%RA, Actively 
+wretching on arrival. GI exam with diffuse abdominal tenderness, 
+but soft. AG was 17. Got 1L of NS, getting another ___ liter 
+with phos, and then maintenence fluids with bicarbonate. ___ 
+NS with 50meq NaHCO3. One PIV.
+ 
+Past Medical History:
+Pancreatic transplant ___  
+DM2 c/b gastroparesis, peripheral neuropathy  
+Hep C  
+Glaucoma  
+?Seizures  
+Right knee surgery 
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+VS: T: , HR:62, BP:150/86, RR:16, O2 Sat:100%, BS:305
+Gen: Patient hunched over in bed, retching into a basin
+HEENT: MMM, sclerae anicteric
+Neck: supple, no LAD
+Lungs: CTA b/l
+Chest: RRR, +S1/S2, no murmurs/rubs/gallops
+Abdomen: +BS, soft, diffusely tender to palpation, no rebound or 
+guarding, well healed midline scar
+Ext: no edema
+ 
+Pertinent Results:
+___ 09:10AM BLOOD UreaN-27* Creat-1.2 Na-140 K-4.7 Cl-107 
+HCO3-20* AnGap-18
+
+___ 03:10PM BLOOD Glucose-191* UreaN-32* Creat-1.2 Na-139 
+K-4.0 Cl-109* HCO3-13* AnGap-21*
+___ 11:45PM BLOOD Glucose-114* UreaN-23* Creat-0.9 Na-142 
+K-3.1* Cl-109* HCO3-20* AnGap-16
+___ 05:45AM BLOOD Glucose-104 UreaN-21* Creat-0.8 Na-142 
+K-3.9 Cl-109* HCO3-19* AnGap-18
+___ 06:45AM BLOOD Glucose-97 UreaN-10 Creat-0.8 Na-144 
+K-3.5 Cl-109* HCO3-24 AnGap-15
+
+___ 06:45AM BLOOD WBC-5.8 RBC-3.92* Hgb-10.9* Hct-34.2* 
+MCV-87 MCH-27.9 MCHC-31.9 RDW-13.2 Plt ___
+
+___ 09:10AM BLOOD Albumin-4.5 Calcium-9.0 Phos-3.2
+___ 03:10PM BLOOD Albumin-4.5 Calcium-9.3 Phos-0.7*# Mg-1.6
+___ 05:45AM BLOOD Calcium-7.9* Phos-4.0 Mg-1.8
+___ 06:45AM BLOOD Calcium-8.7 Phos-2.8 Mg-1.7
+
+___ 07:41PM BLOOD ___ pO2-67* pCO2-21* pH-7.49* 
+calTCO2-16* Base XS--4 Comment-GREEN TOP 
+___ 11:57PM BLOOD ___ pO2-192* pCO2-30* pH-7.42 
+calTCO2-20* Base XS--3
+___ 12:46PM BLOOD ___ pO2-99 pCO2-35 pH-7.41 
+calTCO2-23 Base XS--1
+
+___ 07:41PM BLOOD Lactate-2.9*
+___ 11:57PM BLOOD Lactate-1.3
+___ 12:46PM BLOOD Lactate-1.1
+
+___ 09:10AM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-2* pH-6.0 Leuks-NEG
+___ 09:46PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-1000 Ketone-150 Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 10:32AM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-TR Ketone-150 Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+
+KUB: IMPRESSION: Normal radiographs of the abdomen.
+ 
+Brief Hospital Course:
+___ y/o M w/ h/o DM c/b gastroparesis, s/p pancreatic transplant 
+p/w severe nausea, vomiting, now with a primary respiratory 
+alkalosis with an acute metabolic acidosis, and an anion gap 
+acidosis and abdominal pain c/w prior episodes of gastroparesis.
+.
+Brief Hospital Course By Problem: 
+.
+#) Abdominal Pain: per patient, the pain, nausea and vomiting 
+were all consistent with prior gastroparesis flares.  The pain 
+was severe, most intense in the epigastric region but his entire 
+abdomen hurt.  Patient initially made npo, with IVF, IV dilaudid 
+for pain control, and four anti-emetics (zofran, phenergen, 
+compazine and reglan) for nausea and ativan for nausea/anxiety, 
+a combination that had worked well in the past.  He was 
+initially requiring about ___ of dilaudid over 24 hours for 
+pain control.  KUB done on admission did not show any sign of 
+obstruction.  Over the next ___ hours his pain and nausea 
+improved and he was able to be transitioned to oral pain and 
+nausea medications.  Additionally, as his pain/nausea improved 
+he was able to restart all of his outpatient medications.  On 
+hospital day #2 he was able to tolerate clear liquids, and all 
+medications were converted from IV to PO.  He was sent home on 
+clear liquids, and po dilaudid for pain and zofran for nausea.
+.
+#) Respiratory Alkalosis with concurrent metabolic acidosis and 
+anion gap acidosis:  Primary respiratory alkalosis seen on 
+admission VBG, likely acute due to hyperventilation secondary to 
+abdominal pain and anxiety.  On admission chem 7, patient with 
+evidence of  anion gap acidosis, which raised concern for either 
+lactic acidosis since it was elevated at 2.9 or possibly 
+unrecognized DKA.  After pancreatic transplant he had not needed 
+any insulin, but had an transiently elevated fingerstick and his 
+urine had 1000 glucose and 150 ketones at the time of admission. 
+ After fluid resuscitation with normal saline, his lactate 
+normalized, his anion gap closed and remainder of his 
+fingersticks were all under 150.  On repeat urinalysis he no 
+longer had any glucose in his urine.  Also, once his pain was 
+controlled, his respiratory rate normalized, helping to correct 
+the primary respiratory alkalosis. 
+.
+#) Electrolyte Abnormalities: on admission patient was found to 
+have a phosphorous of 0.7, which was repleted with IV 
+phosphorous.  The etiology of his hypophosphatemia was thought 
+to be due to hyperventilation and respiratory alkalosis, which 
+led to a decrease in CO2 in cells causing a rise in 
+intracellular pH.  The increased intracellular pH turns on 
+phosphofructokinase and glycolysis, leading to depletion of 
+serum phosphorous.  After initial repletion with IV phosphorous, 
+he did not require further repletion.  
+.
+#) Pancreatic Transplant: patient is status post pancreatic 
+transplant on ___, initial tacrolimus levels were 
+subtherapeutic as he had been unable to keep his medications 
+down at home.  The dosing was changed, so the capsules were 
+broken apart and the powder placed sublingually, and repeat 
+tacrolimus level was 18.5.  Once his nausea resolved, he was 
+also again able to tolerate his rapamune.  
+ 
+Medications on Admission:
+1. Bactrim 80-400 mg Tablet PO Daily
+2. Diazepam 10 mg PO Q6H PRN anxiety.
+3. Dronabinol 10 mg PO TID
+4. Gabapentin 600 mg PO Q8H
+5. Reglan (Metoclopramide) 20 mg PO QID PRN nausea.
+6. Prograf (Tacrolimus) 3 mg PO Q12H
+7. Omeprazole E.C. 20 mg PO BID
+8. Aspirin 81 Chewable tab PO Daily
+9. Rapamune (Sirolimus) 3 mg PO daily
+10. Phenergan (promethazine) 25 mg PO Q8H PRN nausea per OMR, 
+12.5mg per ED med list
+11. Cymbalta (Duloxetine) E.C. 90 mg PO Daily
+12. Compazine (Prochlorperazine maleate) 10 mg PO Q12H PRN 
+nausea.
+13. Fentanyl 50 mcg/hr Transdermal Q72H
+14. Nepro 0.08-1.80 gram-kcal/mL Liquid: One PO daily
+15. Topamax 25mg sprinkle cap PO daily
+16. Fludrocortisone 0.1mg daily
+17. Zofran (Ondansetron) 4mg QID PRN nausea
+18. Axert (almotriptan) 12.5mg PRN
+19. VitD 50,000U PO 1 capsule for 8 weeks
+20. Kayexalate (Sodium Polystyrtene Sulfonate Powder) 15gms as 
+directed PRN dispense 464 gm bottle
+ 
+Discharge Medications:
+1. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+2. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO Q8H (every 
+8 hours).  
+3. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+5. Sirolimus 1 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily). 
+ 
+6. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three 
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+7. Nepro 0.08-1.80 gram-kcal/mL Liquid Sig: One (1) ML PO Daily  
+().  
+8. Topiramate 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+9. Tacrolimus 1 mg Capsule Sig: Three (3) Capsule PO Q12H (every 
+12 hours).  
+10. Dronabinol 2.5 mg Capsule Sig: Four (4) Capsule PO TID (3 
+times a day) as needed for Nausea.  
+11. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QID (4 
+times a day) as needed for Nausea.  
+12. Ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO every six (6) hours as needed for Nausea.
+Disp:*30 Tablet, Rapid Dissolve(s)* Refills:*0*
+13. Promethazine 25 mg Tablet Sig: One (1) Tablet PO Q6H (every 
+6 hours) as needed for Nausea.  
+14. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1)  Transdermal 
+every ___ (72) hours.  
+15. Dilaudid 2 mg Tablet Sig: ___ Tablets PO every six (6) hours 
+as needed for pain: Please do not drive or operate machinery 
+while taking this medication.  .
+Disp:*15 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Abdominal pain secondary to gastroparesis
+2. Acute Respiratory Alkalosis with concurrent Metabolic Anion 
+Gap Acidosis
+
+ 
+Discharge Condition:
+At the time of discharge the patient's pain was well controlled 
+and he was able to tolerate oral pain medications, had tolerated 
+clear liquids without difficulty, was able to take all his 
+medications without difficulty and was considered medically 
+clear for discharge. 
+
+ 
+Discharge Instructions:
+You were admitted to ___ with abdominal pain secondary to 
+gastroparesis, since you had not been eating and were in a 
+significant amount of abdominal pain, you also had some 
+electrolytes imbalances and acid/base imbalances.  The 
+electrolyte and acid/base imbalances, were corrected with IV 
+fluids and electrolyte repletion.  Your pain and nausea were 
+controlled initially with IV medications, as you were feeling 
+better your pain medications were changed to oral medications 
+and you were able to tolerate clear fluids without difficulty.  
+.
+Changes made to your medication regimen: 
+1. Dilaudid ___ added for a short course for pain control
+2. Zofran tablets given for nausea
+--In the hospital we did not give you any compazine, since you 
+had an prolongation of your QT interval on EKG.  
+.
+Please call your doctor or return to the hospital if you have 
+fever or chills, worsening nausea or abdominal pain, are unable 
+to tolerate your medications, are unable to keep down fluids, 
+chest pain, trouble breathing or any other concerning symptoms.  
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10227511-DS-19 | hadm_id=29894816
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Demerol / Ativan / Shellfish Derived
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old male with a history of pancreas transplant ___ for 
+diabetes type I and recurrent gastroparesis, presents with 
+nausea, vomiting and abdominal pain.
+
+Last night he ate a meal with more solid foods than usual.  This 
+morning he woke up with severe abdominal pain and nausea.  He 
+describes the pain as ___ in intensity, in the epigastrum and 
+periumbilical areas.  He says the pain is similar to his prior 
+epsiodes of gastroparesis.  He describes 20 episodes of clear 
+and bilious emesis, no hematemesis or coffee ground emesis.  
+Denies fever, chills, diarrhea, constipation, BRBPR, or melena.  
+He presented to the ___, where he was given 6mg 
+dilaudid IV and 4mg zofran IV, and was tranferred to ___.
+
+In the ___ vital signs were T 98.5, P ___, BP 131/84, RR 22, 
+O2sat 100.  Pain described as ___.  Transplant surgery was 
+contacted, and did not feel he needed evaluation in the ___ as 
+his symptoms are so similar to previous presentations.  He was 
+then admitted to the transplant nephrology service.
+ 
+Past Medical History:
+Pancreatic transplant ___  
+DM2 c/b gastroparesis, peripheral neuropathy  
+Hep C  
+Glaucoma  
+?Seizures  
+Right knee surgery 
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Physical Exam:  
+Vitals: T: 98.3 BP: 143/73 P: 100 R: 18 O2: 99% on RA  
+General: Alert, oriented, moans in pain, will not answer 
+questions  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-distended, bowel sounds present, diffusely 
+tender, voluntary guarding, no rebound tenderness, no 
+organomegaly, no tenderness over pancreatic graft, well healed 
+surgical scars  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+ 
+Pertinent Results:
+On admission:
+
+U/A
+COLOR-Straw 
+APPEAR-Clear 
+SP ___
+BLOOD-NEG 
+NITRITE-NEG 
+PROTEIN-NEG 
+GLUCOSE-NEG 
+KETONE-NEG 
+BILIRUBIN-NEG 
+UROBILNGN-NEG 
+PH-7.0 
+LEUK-NEG
+
+Serum chemistries
+GLUCOSE-124* 
+UREA N-13 
+CREAT-0.8 
+SODIUM-142 
+POTASSIUM-4.0 
+CHLORIDE-106 
+TOTAL CO2-25 
+ANION GAP-15
+ALT(SGPT)-12 
+AST(SGOT)-14 
+ALK PHOS-103 
+TOT BILI-0.2
+LIPASE-22
+
+Complete Blood Count
+WBC-6.9# 
+RBC-4.57* 
+HGB-12.8* 
+HCT-38.5* 
+MCV-84 
+MCH-28.0 
+MCHC-33.3 
+RDW-13.7
+NEUTS-93.2* 
+LYMPHS-4.8* 
+MONOS-0.9* 
+EOS-1.0 
+BASOS-0.2
+PLT COUNT-359
+
+Additional Labs:
+
+___ 05:40AM BLOOD tacroFK-6.3 rapmycn-3.4*
+___ 05:00AM BLOOD tacroFK-6.3
+___ 05:20AM BLOOD tacroFK-7.9 rapmycn-5.2
+___ 05:20AM BLOOD tacroFK-8.0 rapmycn-6.1
+___ 06:30PM BLOOD Lipase-22
+___ 05:40AM BLOOD Lipase-19
+___ 05:00AM BLOOD Lipase-19
+___ 05:20AM BLOOD Lipase-20
+___ 05:20AM BLOOD Lipase-22
+
+Abdominal X-ray ___:
+FINDINGS: Three frontal radiographs of the abdomen are obtained. 
+The bowel
+gas pattern reveals a moderate amount of gas throughout the 
+colon with no
+evidence of obstruction or ileus. Chain sutures and metallic 
+clips projecting
+in the right pelvis are consistent with history of pancreatic 
+transplant.
+There is no free gas or pneumatosis. The included osseous 
+structures are
+unremarkable.
+ 
+IMPRESSION: Non-obstructive bowel gas pattern.
+
+ 
+Brief Hospital Course:
+#. Abdominal Pain/Nausea and Vomiting.  In the emergency patient 
+was treated with dilaudid IV which relieved his symptoms.  An 
+abdominal x-ray was unremarkable.  On the floor, he tolerated PO 
+intake and advanced to a regular diet.  His pain was treated 
+with his home dose fentanyl patch and PO dilaudid.   His dose of 
+dilaudid was gradually reduced from ___ PO q 3 hours to 1 mg 
+PO q 4 hours.  As gastroenterology was consulted on a prior 
+admission and did not believe that his recurrent presentations 
+were consistent with gastroparesis, it was considered that 
+narcotics dependence may be a significant part of his current 
+presentation.  Social work was consulted and considered both 
+inpatient and outpatient detoxification options.  Patient did 
+not qualify for outpatient detox programs, as he is currently 
+taking large doses of diazepam.  Inpatient detox was an option 
+but there was no availability for ___ days.  Patient preferred 
+to enroll at a later date, and was discharged with no additional 
+prescriptions for narcotics.
+
+#. s/p pancreas transplant.  On admission his serum tacrolimus 
+level was therapeutic at 6.4, and his serum rapamune level was 
+3.4 which was subtherapeutic.  He was given his home doses of 
+tacrolimus 3 mg PO bid and rapamune 4 mg PO daily, and his serum 
+levels of both drugs remained in the therapeutic range for the 
+rest of his hospitalization. Serum and amylase levels were 
+normal throughout this hospitalization.
+ 
+Medications on Admission:
+1. Tacrolimus 1 mg Capsule Sig: Three (3) Capsule PO Q12H (every 
+12 hours).  
+2. Sirolimus 1 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).  
+
+3. Topiramate 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+as needed for headache.  
+4. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+5. Diazepam 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for anxiety.  
+6. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+7. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+8. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO TID (3 
+times a day).  
+9. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three 
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+10. Dronabinol 10 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+11. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+12. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+13. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day) as needed for constipation.  
+14. Metoclopramide 10 mg Tablet Sig: Two (2) Tablet PO QIDACHS 
+(4 times a day (before meals and at bedtime)).  
+
+ 
+Discharge Medications:
+1. Tacrolimus 1 mg Capsule Sig: Three (3) Capsule PO Q12H (every 
+12 hours).  
+2. Sirolimus 1 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).  
+
+3. Topiramate 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+as needed for headache.  
+4. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+5. Diazepam 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for anxiety.    
+7. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+8. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO TID (3 
+times a day).  
+9. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three 
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+10. Dronabinol 10 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+11. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+12. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+13. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day) as needed for constipation.  
+14. Metoclopramide 10 mg Tablet Sig: Two (2) Tablet PO QIDACHS 
+(4 times a day (before meals and at bedtime)).  
+
+NOTE: No prescription was given for any narcotic pain relievers.
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abdominal Pain
+
+Abdominal Pain
+
+ 
+Discharge Condition:
+Stable
+
+Stable
+
+ 
+Discharge Instructions:
+You were admitted with abdominal pain.  Blood was drawn, and all 
+lab tests were normal.  Specifically the level of your 
+immunosupressant medications for your kidney transplant were 
+appropriate, and there was no sign of transplant rejection.
+
+Please continue to take all medications as you have been 
+prescribed. 
+
+ 
+Please keep all outpatient appointments.
+
+ 
+Seek medical advice if you develop fever, chills, difficulty 
+breathing, abdominal pain, confusion, skin breakdown or any 
+other symptoms that are concerning for you. 
+ 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10227511-DS-17 | hadm_id=29913516
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Demerol / Ativan
+ 
+Attending: ___
+ 
+Chief Complaint:
+abdominal pain, nausea, vomitting
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+Patient is a ___ y/o M w/ h/o DM, c/b gastroparesis, s/p 
+pancreatic trasnplant in ___ with multiple recent 
+admissions for abdominal pain, nausea, and vomiting ___ 
+gastroparesis.  Patient presents to the ED now with symptoms of 
+abdominal pain and vomiting x48 hours.  He describes these as 
+entirely similar to his previous episodes.  He says the pain is 
+severe, epigastric discomfort.  It does not radiate to the back. 
+ He denies any fevers, chills, change to his bowel habits, sick 
+contacts, recent travel or other complaints.  He was last able 
+to keep down food and liquid yesterday and says that for two 
+days 
+.
+In the ED, inital VS were T99.4, BP 106/47, HR 82, RR 16, O2 
+100% RA.  Exam notable for diffuse abdominal tenderness without 
+rebound or guarding.  Patient was given 4mg IV dilaudid, 12.5 
+phenergan, zofran x3, valium, and ___ NS and admitted to 
+medicine for management.  Patient seen by transplant surgery in 
+the ED and felt no acute surgical admission.
+.
+On arrival to the floor T 95.9, BP151/91, HR 86, RR 20, 98% RA.
+
+ 
+Past Medical History:
+Pancreatic transplant ___  
+DM2 c/b gastroparesis, peripheral neuropathy  
+Hep C  
+Glaucoma  
+?Seizures  
+Right knee surgery 
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+T 95.9, BP151/91, HR 86, RR 20, 98% RA
+Gen: Calm caucasian man resting comfortably in bed
+HEENT: NCAT, mmm, o/p clear
+Neck: Supple
+Lungs: CTABL
+Heart: RRR, no m/r/g noted
+Abd: soft, + tenderness to palpation in epigastrum, no rebound 
+no guarding, no other focal tenderness, no ecchymoses
+Ext: wwp, no c/c/e
+Neuro: AOx3, appropriate
+Skin: No rashes, multiple tatoos
+
+ 
+Pertinent Results:
+___ 11:50AM BLOOD WBC-6.7 RBC-5.23 Hgb-14.9 Hct-44.9 MCV-86 
+MCH-28.5 MCHC-33.2 RDW-14.1 Plt ___
+___ 05:00AM BLOOD WBC-3.3* RBC-4.05* Hgb-11.8* Hct-35.6* 
+MCV-88 MCH-29.2 MCHC-33.2 RDW-13.8 Plt ___
+___ 11:50AM BLOOD Neuts-88.9* Lymphs-7.5* Monos-2.6 Eos-0.8 
+Baso-0.2
+___ 05:00AM BLOOD ___
+___ 11:50AM BLOOD Glucose-135* UreaN-16 Creat-1.2 Na-140 
+K-5.1 Cl-102 HCO3-17* AnGap-26*
+___ 05:05AM BLOOD Glucose-111* UreaN-11 Creat-0.8 Na-140 
+K-3.7 Cl-106 HCO3-21* AnGap-17
+___ 05:00AM BLOOD Glucose-88 UreaN-3* Creat-0.7 Na-141 
+K-3.6 Cl-106 HCO3-22 AnGap-17
+___ 11:50AM BLOOD ALT-15 AST-36 AlkPhos-132* TotBili-0.5
+___ 05:00AM BLOOD Amylase-38
+___ 11:50AM BLOOD Calcium-10.1 Phos-2.1*# Mg-2.0
+___ 05:00AM BLOOD Calcium-8.5 Phos-3.7 Mg-1.7
+___ 05:00AM BLOOD tacroFK-4.3* rapmycn-2.4*
+___ 10:25PM BLOOD ___ pO2-114* pCO2-36 pH-7.37 
+calTCO2-22 Base XS--3 Comment-___
+___ 11:59AM BLOOD Glucose-124* Lactate-4.1* K-4.2
+___ 10:25PM BLOOD Lactate-1.0
+
+KUB ___: No evidence of obstruction or perforation.
+
+CXR ___: Lungs fully expanded and clear. Heart size is normal. 
+Aortic arch is right-sided. The vasculature is otherwise 
+unremarkable. No pleural 
+abnormality. Tiny metal fragment in the soft tissues of the left 
+anterior 
+chest wall has been present since at least ___. 
+
+ 
+Brief Hospital Course:
+# Abdominal Pain/Nausea: Patient was admitted with 48 hour 
+history of poor PO intake nausea and vomitting associated with 
+abdominal pain.  He was made NPO, started on dilaudid IV and 
+given IV zofran and prochlorperazine.   Surgery was consulted 
+and felt this was gastroparesis exacerbation.  KUB negative for 
+obstruction or perforation.  While NPO he was given maintenance 
+fluids with ___.  NG tube was not required.  Pain improved 
+with dilauid IV within 24 hours.  On second night of admission, 
+patient was tolerating liquids well and was transferred to oral 
+pain medication the morning of discharge.  Diet was advanced to 
+regular prior to discharge and patient was tolerated a full meal 
+with no pain, nausea or vomitting.  Patient was discharged to 
+follow-up with Dr. ___.
+.
+# Pancreatic Transplant: Immunosuppresant levels were monitored 
+during admission and determined to be subtherapeutic - patient 
+had poor PO intake, however stated he was taking prograf 
+sublingualy. Rapamycin level was 2.3 on day of discharge.   
+Tacrolimus was increased to 4mg bid and patient was instructed 
+to follow-up with Dr. ___ in ___ weeks.
+.
+# Acute Renal Failure - Patient admitted in ARF with creatinine 
+1.2 from baseline of 0.7.  Ws given fluids for likely pre-renal 
+state and renal function returned to baseline.
+.
+# Gap Acidosis and Metabolic derrangements: Likely ___ lactic 
+acidosis.  Gap closed with IV fluids.
+ 
+Medications on Admission:
+Tacrolimus 1 mg Capsule Sig: 3mg BID 
+Sirolimus 1 mg Tablet Sig: 3mg daily
+Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One daily
+Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: 90mg daily
+Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO Q8H
+Metoclopramide 10 mg Tablet Sig: Two (2) Tablet PO QIDACHS
+Topiramate 25 mg Tablet Sig: One (1) Tablet PO once a day as 
+needed for headache.  
+Compazine 10 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for nausea.  
+Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+Dronabinol 2.5 mg Capsule Sig: Four (4) Capsule PO TID (3 
+times a day) as needed for nausea.  
+Diazepam 10 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for anxiety.  
+Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q4H (every 
+4 hours) as needed for pain for 14 days.
+Sucralfate 1 gram Tablet Sig: One (1) Tablet PO TID (3 times 
+a day) for 14 days
+Zofran 4 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for nausea.  
+Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+Omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO twice a day for 30 days.
+
+ 
+Discharge Medications:
+1. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three 
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+2. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO TID (3 
+times a day).  
+3. Topamax 25 mg Tablet Sig: One (1) Tablet PO once a day as 
+needed for headache.  
+4. Metoclopramide 10 mg Tablet Sig: Two (2) Tablet PO QIDACHS (4 
+times a day (before meals and at bedtime)).  
+5. Compazine 10 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for nausea.
+Disp:*10 Tablet(s)* Refills:*0*
+6. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+7. Dronabinol 10 mg Capsule Sig: One (1) Capsule PO TID (3 times 
+a day).  
+8. Diazepam 10 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed: do NOT drive while taking this medication as it 
+may cause sedation.  
+9. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO every four 
+(4) hours as needed for pain: do NOT drive while taking this 
+medication as it may cause sedation.
+Disp:*84 Tablet(s)* Refills:*0*
+10. Sirolimus 1 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).
+Disp:*120 Tablet(s)* Refills:*2*
+11. Tacrolimus 1 mg Capsule Sig: Four (4) Capsule PO Q12H (every 
+12 hours).
+Disp:*240 Capsule(s)* Refills:*2*
+12. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+13. Zofran 4 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for nausea: this medication can cause 
+constipation and slow your GI tract.  
+14. Omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO twice a day for 14 days.  
+15. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+16. Tacrolimus 1 mg Capsule Sig: Six (6) Capsule PO at bedtime 
+for 1 doses: at 6pm on ___.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Diabetic Gastroparesis
+Acute Renal Failure
+Abdominal Pain
+
+ 
+Discharge Condition:
+Good, tolerating PO's, pain free, ambulating independently
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for evaluation of abdominal 
+pain, dehydration, and kidney injury.  Your symptoms were 
+consistent with your previous episodes of diabetic 
+gastroparesis, and no other concerning findings were found.  You 
+were given IV fluids, pain control, and anti-nausea medications 
+and your symptoms improved.  It is important that you follow-up 
+with Dr. ___ for further evaluation of your 
+gastroparesis and consideration of additional therapies.  You 
+have been given an appointment for later this week with Dr. 
+___ Nurse Practitioner.  ___ your pain, please try and avoid 
+taking narcotics as these will only make your symptoms worse in 
+the long run.  You should follow-up with your primary care 
+doctor and ___ pain specialist to discuss other modalities for 
+treating your pain.  
+.
+Please return to the hospital if you experience any worsening 
+abdominal pain, chest pain, shortness of breath, severe nausea, 
+fevers, or are unable to tolerate food/drink by mouth.
+.
+The following changes were made to your medications:
+1.  Tacrolimus 4mg PO BID (increased from 3mg BID)
+2.  Sirolimus 4mg daily (increased from 3mg daily)
+3.  When taking sublingual tacrolimus, please take only 3mg per 
+dose (and not 4mg).
+4.  Please take a one time dose of tacrolimus 6mg this evening 
+instead of the usual 4mg dose.
+.
+ 
+Followup Instructions:
+___

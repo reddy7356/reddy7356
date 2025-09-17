@@ -1,0 +1,179 @@
+===== DISCHARGE NOTE =====
+note_id=10234491-DS-17 | hadm_id=24573943
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ yo man without significant past medical history admitted with 
+syncope.  He walked around all day in the heat yesterday looking 
+for a job.  He had nothing to drink.  He felt extremely weak, 
+and laid down on a bench for 2 hours, and felt so weak that he 
+could not get up.  He then vomited several times and had 
+diarrhea.  He also felt cramping and stiffness in his hands.  He 
+eventually walked to a store to buy some orange juice, but then 
+fainted in the store.  He felt lightheaded before the episode.  
+He had no preceding chest pain, palpitations, shortness of 
+breath.  He had no associated bladder or bowel incontinence.  He 
+had no involuntary shaking.  The storeperson called the 
+ambulance.  
+.
+In the ED, on EKG, J point elevation V2-V3.  Discussed with 
+cardiology, recommended admission for rule out.  He received 3L 
+NS, ASA 325.  Vitals on transfer:  T 98  HR 102  BP 130/90  RR 
+23 O2sat 97% RA.  Unclear if he had a fever in the ED - could 
+have been 103.
+.
+He continues to feel somewhat weak and tired at present, without 
+focal weakness or numbness.
+.
+ROS positive for occasional shortness of breath and nasal 
+congestion.  Negative for cough, fevers, dysuria, abdominal 
+pain, other joint pain, weight gain or loss.  Reviewed in 10 
+other systems and negative.  He has no doctor and does not 
+receive regular medical care.  He does not currently have 
+insurance.
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+Multiple family members (mother, maternal grandmother) with 
+diabetes.  No sudden cardiac death.
+ 
+Physical Exam:
+Exam
+ VS  T current  100.1   BP   120/80     HR  92    RR  20  99% RA 
+   O2sat
+ 
+Gen:  In NAD.  
+HEENT:  PERRL, EOMI.  No scleral icterus.  No conjunctival 
+injection.   Mucous membranes moist.  No oral ulcers.
+Neck:  Supple, no LAD, no JVP elevation.
+Lungs: CTA bilaterally, no wheezes, rales, rhonchi.  Normal 
+respiratory effort.
+CV:  RRR, no murmurs, rubs, gallops.
+Abdomen:  soft, NT, ND, NABS, no HSM.
+Extremities:  warm and well perfused, no cyanosis, clubbing, 
+edema.
+Neurological:  alert and oriented X 3, CN II-XII intact. Moves 
+all extremities.  
+Skin:  No rashes or ulcers.  Warm and pink.
+Psychiatric:  Appropriate.
+GU:  deferred.
+ 
+Pertinent Results:
+___ 12:25AM   GLUCOSE-187* UREA N-19 CREAT-1.5* SODIUM-146* 
+POTASSIUM-3.9 CHLORIDE-105 TOTAL CO2-24 ANION GAP-21*
+___ 12:25AM   CK(CPK)-810*
+___ 12:25AM   cTropnT-LESS THAN 
+___ 12:25AM   CK-MB-8
+.
+___ 12:05AM   WBC-9.9 RBC-4.92 HGB-15.4 HCT-43.9 MCV-89 
+MCH-31.2 MCHC-35.0 RDW-13.9
+___ 12:05AM   NEUTS-74* BANDS-22* LYMPHS-1* MONOS-3 EOS-0 
+BASOS-0 ___ MYELOS-0
+___ 12:05AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+___ 12:05AM   PLT SMR-NORMAL PLT COUNT-172
+.
+Repeat CBC  ___ 12:25AM:
+WBC-7.8 RBC-4.81 HGB-14.8 HCT-42.5 MCV-88 MCH-30.7 MCHC-34.7 
+RDW-14.0
+NEUTS-83* BANDS-7* LYMPHS-3* MONOS-3 EOS-3 BASOS-0 ATYPS-0 
+METAS-1* MYELOS-0
+HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-NORMAL 
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL
+.
+UA
+___ 03:39AM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 03:39AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-75 
+GLUCOSE-NEG KETONE-50 BILIRUBIN-SM UROBILNGN-NEG PH-5.0 LEUK-NEG
+___ 03:39AM URINE  RBC-0 ___ BACTERIA-FEW YEAST-NONE 
+___ 03:39AM URINE  ___
+.
+EKG:
+SR 94, V2-V3, ST elevations vs. J point elevations, without 
+reciprocal changes, LAD.  No prior for comparison.
+
+ 
+Brief Hospital Course:
+___ yo man without significant past medical history, here with 
+syncope after walking around in the heat all day, with nausea, 
+vomiting, diarrhea and elevated body temperature, concerning for 
+heat related illness, either heat exhaustion or heat stroke.  He 
+has an abnormal EKG with no prior for comparison, but no chest 
+pain and baseline good exercise tolerance.
+
+# Near Syncopem Heat exhaustion due to dehydration.  
+- With elevated body temperature, nausea, vomiting, weakness, 
+hand cramps and mildly elevated CK.
+- IV fluid resuscitation
+- Felt markedly better with IV Fluids
+
+# Abnormal EKG.
+- ruled out MI.
+
+# Acute renal failure with hypernatremia.
+- Resolved with IV Fluids
+
+#. Hyperglycemia
+- Likely a diabetic, given family history and hyperglycmeia. 
+This will need to be followed up in the outpatient setting. He 
+does not have insurance, so was referred to a ___ 
+___.
+
+ 
+Medications on Admission:
+None.
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Syncope
+Dehydration
+Acute Renal Failure
+Possible Diabetes
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+It is very important that you attempt to keep hydrated. If you 
+are out on hot days, it is important to drink plenty of water. 
+If you are sweating a lot, make sure to consume some salty foods 
+if you are drinking large amounts of water.
+
+It is possible you have diabetes, as your sugar has been high 
+here in the hospital. You also have a family history which 
+placed you at risk. It is very important that you get a primary 
+care doctor, at one of the clinics below.
+ 
+Followup Instructions:
+___

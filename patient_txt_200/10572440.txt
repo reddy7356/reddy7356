@@ -1,0 +1,545 @@
+===== DISCHARGE NOTE =====
+note_id=10572440-DS-6 | hadm_id=27331346
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+PCN, lexapro, lorazepam, sertraline,sulfa
+ 
+Attending: ___.
+ 
+Chief Complaint:
+syncope  
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+ ___ with history of severe basilar artery stenosis, depression 
+with psychotic features, cognitive impairment from dementia, 
+HTN, HLD and gout who presented to the ED today after syncopal 
+episode.  
+
+ This afternoon, she was on the toilet trying to have a bowel 
+movement and acutely passed out. Event was witnessed by staff 
+there and reported that she became cyanotic and possible had no 
+pulse. However, pulse spontaneously returned and she was 
+conversational afterward. Reportedly blood pressure was noted to 
+be "low", although numbers are not documented. IV fluids and 
+oxygen were given and she was sent to the ED for further 
+evaluation. There was no report of trauma. She denies prodromal 
+symptoms, chest pain, dyspnea, palpitations, headache, numbness, 
+tingling or weakness. Denies fevers, coughs or recent colds. 
+Denies abd pain. She denied urinary symptoms.  
+
+ She also slipped and fell in the shower last week and was 
+evaluated at ___. She was diagnosed with low back strain 
+after trauma evaluation was negative and then admitted to ___ 
+___ for rehabilitation. She has had some back pain since then 
+but was progressing with ___. Course was notable for hyperactive 
+delirium and involvement of Palliative Care.  
+
+ Per report, the patient often has syncopal episodes.  
+ In the ED, initial vital signs were: T98.8, HR 67, BP 146/77, 
+RR 20, SpO2 99%RA.  
+ - Exam was WNL  
+ - Labs were notable for: WBC 11.2 (86% PMNs), BUN 33, Cr 1.2, 
+lactate 2.8, troponin 0.1 x2 and UA with 15 RBCs, WBC ___, few 
+bacteria, 30 protein and 1 epi.  
+ - Imaging: C-spine CT negative for acute trauma and head CT 
+negative for acute trauma.  
+ - The patient was given: 1L NS, 650mg PO Tylenol and 1g 
+ceftriaxone for UTI.  
+ - Consults: none  
+
+ Vitals prior to transfer were: T 97.7, HR 90, BP 160/68, RR 20, 
+100% RA.  
+
+ Upon arrival to the floor, the patient had no acute complaints. 
+She was unable to significantly augment the above history.  
+
+ REVIEW OF SYSTEMS: Per HPI. Denies headache, visual changes, 
+pharyngitis, rhinorrhea, nasal congestion, cough, fevers, 
+chills, sweats, weight loss, dyspnea, chest pain, abdominal 
+pain, nausea, vomiting, diarrhea, constipation, hematochezia, 
+dysuria, rash, paresthesias, and weakness.  
+
+ 
+Past Medical History:
+- Basilar artery stenosis  
+ - Depression with psychotic features  
+ - Dementia  
+ - HTN  
+ - HLD  
+ - Gout  
+ - Acute angle glaucoma/macular degenation  
+ - Hard of hearing  
+ - Hypothyroidism  
+ - Cholelithiasis  
+ - Osteoarthritis of the R knee  
+ - Constipation  
+ - Pancreatic Cyst  
+ - Cataracts  
+
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+ADMISSION
+VITALS: T 97.6, BP 127/268 then 174/85 on repeat. Lying: 178/82, 
+Sitting 181/85. HR 67. RR 19. SpO2 98% RA. Weight 125.6kg (bed). 
+ 
+ GENERAL: Pleasant, well-appearing, in no apparent distress. 
+Alert to person, place and time (___).  
+ HEENT - normocephalic, atraumatic, no conjunctival pallor or 
+scleral icterus, OP clear.  right surgical pupil, left 
+constricted
+ NECK: Supple, no LAD, no thyromegaly, JVP flat.  
+ CARDIAC: RRR, normal S1/S2, no murmurs rubs or gallops.  
+ PULMONARY: Clear to auscultation bilaterally, without wheezes 
+or rhonchi.  
+ ABDOMEN: Normal bowel sounds, soft, non-tender, non-distended, 
+no organomegaly.  
+ EXTREMITIES: Warm, well-perfused, no cyanosis, clubbing or 
+edema. Changes and deformities in fingers consistent with 
+osteoarthritis.  
+ SKIN: Without rash.  
+ NEUROLOGIC: A&Ox1, CN II-XII grossly normal, normal sensation, 
+with strength ___ throughout.  
+
+OBJECTIVE:  
+Vitals:  Tm 98.1 Tc 97.9 BP 112-190/54-81, 67-81, ___ O2 98%RA
+GENERAL - Alert, interactive, confused, cooperative in NAD  
+HEENT - L pupil is pinpoint and nonreactive, R pupil appears 
+post-surgical and nonreactive, EOMI, sclerae anicteric, MMM, OP 
+clear,  
+HEART - RRR, nl S1-S2, no MRG  
+LUNGS - CTAB on frontal exam 
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM  
+EXTREMITIES: Warm, well-perfused, no cyanosis, clubbing or 
+edema. Changes and deformities in fingers consistent with 
+osteoarthritis.  
+NEUROLOGIC: A&Ox1, CN II-XII grossly normal, normal sensation, 
+with strength ___ throughout. 
+ 
+Pertinent Results:
+ADMISSION
+___ 04:05PM BLOOD WBC-11.2* RBC-4.34 Hgb-12.4 Hct-39.1 
+MCV-90 MCH-28.6 MCHC-31.7* RDW-14.6 RDWSD-47.7* Plt ___
+___ 04:05PM BLOOD Glucose-152* UreaN-33* Creat-1.2* Na-138 
+K-5.0 Cl-100 HCO3-24 AnGap-19
+___ 04:05PM BLOOD cTropnT-<0.01
+___ 10:40PM BLOOD cTropnT-<0.01
+___ 05:35AM BLOOD Calcium-9.1 Phos-3.0 Mg-1.9
+
+DISCHARGE:
+___ 06:10AM BLOOD WBC-5.8 RBC-4.08 Hgb-11.5 Hct-36.6 MCV-90 
+MCH-28.2 MCHC-31.4* RDW-14.2 RDWSD-46.4* Plt ___
+___ 06:10AM BLOOD Glucose-106* UreaN-24* Creat-0.7 Na-137 
+K-4.1 Cl-102 HCO3-27 AnGap-12
+
+MICRO:
+URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+ 
+___ 5:00 pm Blood Culture, Routine (Pending): No growth to 
+day
+
+Imaging:
+CT C spine ___: No fx, Moderate cervical spondylosis, Minimal 
+anterolisthesis of C3 on C4 and C4 on C5, likely degenerative in 
+etiology.  
+
+CT head ___: No bleed. 1.6x1.4 cm left parietotemporal lobe 
+calcified lesion may represent cavernous malformation, or 
+arterial venous malformation. Aerosolized Secretions in the 
+right maxillary sinus with moderate mucosal thickening 
+suggestion of ongoing sinus inflammation.  
+ 
+
+ 
+Brief Hospital Course:
+Brief Hospital Course:
+___ PMH of severe basilar artery stenosis, depression (w/ 
+psychotic features), cognitive impairment ___ dementia), HTN, 
+vasovagal syncope who p/w syncopal event during ___ thought to be 
+___ recurrent vasovagal syncope, also found to have ___ 
+which improved with treatment, whose hospital course was c/b 
+intermittent sundowning
+
+Investigations/Interventions:
+#Syncope: 
+As per son, patient has history of several vasovagal syncopal 
+events, some even c/b sinus pauses. Since event prior to 
+hospitalization occurred while stooling, thought to be 
+recurrence of vasovagal syncope. EKG with anterior qwaves, but 
+troponins ruled out acute event. No significant arryhtmias on 
+telemetry. Given repeated syncopal events ___ presumed vagal 
+tone, atenolol was discontinued. CT head and neck did not show 
+e/o acute stroke or complication of syncope.  Pt was given 
+gentle IVF as well. 
+
+#UTI: 
+Pt found to have uncomplicated UTI, and culture remained pending 
+on discharge. Leukocytosis resolved with treatment. Pt 
+transitioned from ceftriaxone to Bactrim with plan for ___. Would repeat UA at rehab to ensure that 
+infection has cleared s/p treatment
+
+___: 
+Pt presented with Cr of 1.2 that decreased to 0.7 w/ IV fluids. 
+Most likely prerenal ___ which may have predisposed patient to 
+syncope during presumed vasovagal attack.
+
+#HTN: 
+As above, atenolol was discontinued. SBP following 
+discontinuation were 110-180, with highest pressures in morning. 
+Accordingly, would recommend that amlodipine be given at night 
+before bed so that it is most active during morning when she 
+experience's high BP.
+
+#Hyperactive delirium
+#Dementia
+#Depression (w/ psychotic features)
+Patient was noted to sundown consistent with her recent history 
+and was maintained on nighttime olanzapine to good effect
+
+#Low back Pain/Sprain: 
+___ fall in the shower weeks ago. Given lack of bony injury and 
+fact that weeks have passed from prior event discontinued 
+oxycodone dosing.
+
+Transitional Issues:
+1. 3 day course of Bactrim from ___. Would repeat UA at 
+rehab to ensure that infection has cleared s/p treatment
+2. Would reassess BP at rehab s/p adjusting amlodipine to 
+nighttime dosing
+3. Pt requires significant rehab to restore her prior functional 
+status according to our ___ assessment
+4. Pt found to have isolated elevation in Alk Phos of unknown 
+significance. Would recommend repeat in 1 week as outpatient to 
+assess if continually elevated.
+
+#CONTACT: ___, ___  
+#CODE: DNR/DNR confirmed with son on admission
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 325 mg PO Q8H:PRN pain 
+2. Atenolol 25 mg PO DAILY 
+3. Calcium Carbonate 1250 mg PO QHS 
+4. Vitamin D 1000 UNIT PO DAILY 
+5. Docusate Sodium 100 mg PO DAILY 
+6. Fluticasone Propionate NASAL 1 SPRY NU BID 
+7. Levothyroxine Sodium 100 mcg PO DAILY 
+8. Menthoderm (methyl salicylate-menthol) ___ % topical BID 
+9. OLANZapine 2.5 mg PO QHS 
+10. Omeprazole 20 mg PO DAILY 
+11. Polyethylene Glycol 17 g PO DAILY 
+12. Pravastatin 20 mg PO QPM 
+13. Senna 17.2 mg PO BID 
+14. Ursodiol 300 mg PO BID 
+15. Venlafaxine XR 75 mg PO DAILY 
+16. Amlodipine 2.5 mg PO DAILY 
+17. Restasis 0.05 % Other Q12H 
+18. OxycoDONE (Immediate Release)  2.5 mg PO Q12H 
+19. Bisacodyl 10 mg PR QHS:PRN constipation 
+20. Ibuprofen 200 mg PO Q8H:PRN pain 
+21. Aluminum-Magnesium Hydrox.-Simethicone 15 mL PO QID:PRN GI 
+upset 
+22. Milk of Magnesia 30 mL PO DAILY:PRN constipation 
+23. OxycoDONE (Immediate Release)  2.5 mg PO Q6H:PRN pain 
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg PO Q8H:PRN pain 
+2. Docusate Sodium 100 mg PO DAILY 
+3. Fluticasone Propionate NASAL 1 SPRY NU BID 
+4. Levothyroxine Sodium 100 mcg PO DAILY 
+5. OLANZapine 2.5 mg PO QHS 
+6. Polyethylene Glycol 17 g PO DAILY 
+7. Pravastatin 20 mg PO QPM 
+8. Senna 17.2 mg PO BID 
+9. Ursodiol 300 mg PO BID 
+10. Venlafaxine XR 75 mg PO DAILY 
+11. Vitamin D 1000 UNIT PO DAILY 
+12. Bisacodyl 10 mg PR QHS:PRN constipation 
+13. Amlodipine 2.5 mg PO HS 
+14. Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 2 Days 
+15. Calcium Carbonate 1250 mg PO QHS 
+16. Ibuprofen 200 mg PO Q8H:PRN pain 
+17. Menthoderm (methyl salicylate-menthol) ___ % topical BID 
+18. Milk of Magnesia 30 mL PO DAILY:PRN constipation 
+19. Omeprazole 20 mg PO DAILY 
+20. Restasis 0.05 % Other Q12H 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Urinary Tract Infection
+Acute Kidney Injury
+Vasovagal Syncopal episode
+
+ 
+Discharge Condition:
+Discharge Condition: Stable
+Mental Status: AOx1, baseline
+Ambulatory Status: Rolling walker with significant 1:1 
+assistance (baseline)
+
+ 
+Discharge Instructions:
+Mrs. ___
+
+___ was a pleasure taking care of you at ___. As you know you 
+were admitted after passing out. Fortunately, you did not have 
+any major injuries. You were found to have a urinary tract 
+infection which improved with treatment. You were then 
+discharged back to rehab to continue physical therapy.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10572440-DS-7 | hadm_id=28780865
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+PCN, lexapro, lorazepam, sertraline,sulfa / Sulfa (Sulfonamide 
+Antibiotics) / Penicillins / Ativan / Lexapro / sertraline
+ 
+Attending: ___.
+ 
+Chief Complaint:
+L open distal radius/ulna fracture
+ 
+Major Surgical or Invasive Procedure:
+L distal radius/ulna I&D and ORIF L radius
+
+ 
+History of Present Illness:
+___ with pmhx significant for severe basilar artery stenosis, 
+dementia with cognitive impairment, who presents from ___ 
+___ with an open left distal ulnar fracture and closed 
+distal radius fracture s/p fall. Patient is a poor historian ___ 
+dementia. 
+
+She states that she was ambulating at home today and tripped 
+over her scooter. She typically uses a wheelchair for 
+ambulation.
+
+ 
+Past Medical History:
+- Basilar artery stenosis  
+ - Depression with psychotic features  
+ - Dementia  
+ - HTN  
+ - HLD  
+ - Gout  
+ - Acute angle glaucoma/macular degenation  
+ - Hard of hearing  
+ - Hypothyroidism  
+ - Cholelithiasis  
+ - Osteoarthritis of the R knee  
+ - Constipation  
+ - Pancreatic Cyst  
+ - Cataracts  
+
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+Gen: NAD
+
+Left upper extremity:
+- Skin intact, splint in place L forearm, fingers edematous with 
+ecchymosis.
+- Full, painless AROM/PROM of shoulder, elbow, and digits
+- EPL/FPL/DIO (index) fire
+- SILT axillary/radial/median/ulnar nerve distributions
+- 2s cap refill, fingers WWP
+ 
+Brief Hospital Course:
+Hospitalization Summary (ED Admit)
+The patient presented to the emergency department and was 
+evaluated by the orthopedic surgery team. The patient was found 
+to have an open fracture of her L distal radius and ulna and was 
+admitted to the orthopedic surgery service. The patient was 
+taken to the operating room on ___ for I&D of the L distal 
+radius and ulna and ORIF of the L distal radius fracture, which 
+the patient tolerated well. For full details of the procedure 
+please see the separately dictated operative report. The patient 
+was taken from the OR to the PACU in stable condition and after 
+satisfactory recovery from anesthesia was transferred to the 
+floor. The patient was initially given IV fluids and IV pain 
+medications, and progressed to a regular diet and oral 
+medications by POD#1. The patient was given ___ 
+antibiotics and anticoagulation per routine. The patient's home 
+medications were continued throughout this hospitalization. The 
+patient worked with ___ who determined that discharge to rehab 
+was appropriate. The patient was initially agitated and 
+delirious but improved to her baseline with avoidance of opiate 
+pain medications and recommendations from a geriatric consult. 
+
+At the time of discharge the patient's pain was well controlled 
+with oral medications, incisions were clean/dry/intact, and the 
+patient was voiding/moving bowels spontaneously. The patient is 
+nonweightbearing in the left upper extremity, and will be 
+discharged on Aspirin 325mg daily for 14 days for DVT 
+prophylaxis. The patient will follow up with Dr. ___ 
+routine. A thorough discussion was had with the patient 
+regarding the diagnosis and expected post-discharge course 
+including reasons to call the office or return to the hospital, 
+and all questions were answered. The patient was also given 
+written instructions concerning precautionary instructions and 
+the appropriate follow-up care. The patient expressed readiness 
+for discharge.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Pravastatin 20 mg PO QPM 
+2. Venlafaxine XR 75 mg PO DAILY 
+3. amLODIPine 2.5 mg PO DAILY 
+4. Vitamin D 1000 UNIT PO DAILY 
+5. Fluticasone Propionate NASAL 1 SPRY NS BID congestion 
+6. Levothyroxine Sodium 100 mcg PO DAILY 
+7. OLANZapine 5 mg PO DAILY 
+8. Ursodiol 300 mg PO BID 
+9. Pantoprazole 40 mg PO Q24H 
+
+ 
+Discharge Medications:
+1. amLODIPine 2.5 mg PO DAILY 
+2. Fluticasone Propionate NASAL 1 SPRY NS BID congestion 
+3. Levothyroxine Sodium 100 mcg PO DAILY 
+4. OLANZapine 5 mg PO DAILY 
+5. Pantoprazole 40 mg PO Q24H 
+6. Pravastatin 20 mg PO QPM 
+7. Ursodiol 300 mg PO BID 
+8. Venlafaxine XR 75 mg PO DAILY 
+9. Vitamin D 1000 UNIT PO DAILY 
+10. Acetaminophen 650 mg PO 5X/DAY Pain 
+11. Aspirin 325 mg PO DAILY Duration: 14 Days 
+12. Docusate Sodium 100 mg PO BID 
+13. Senna 17.2 mg PO BID:PRN constipation 
+14. TraMADol 50 mg PO BID 
+15. TraMADol 50 mg PO BID:PRN Pain - Moderate 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+L open distal radius/ulna fracture
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes. (baseline dementia)
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+- ___ were in the hospital for orthopedic surgery. It is normal 
+to feel tired or "washed out" after surgery, and this feeling 
+should improve over the first few days to week. 
+- Resume your regular activities as tolerated, but please follow 
+your weight bearing precautions strictly at all times.
+
+ACTIVITY AND WEIGHT BEARING:
+- Nonweightbearing in the left upper extremity. Remain in splint 
+until follow-up.
+
+MEDICATIONS:
+- Please take all medications as prescribed by your physicians 
+at discharge.
+- Continue all home medications unless specifically instructed 
+to stop by your surgeon.
+- Do not drink alcohol, drive a motor vehicle, or operate 
+machinery while taking narcotic pain relievers.
+- Narcotic pain relievers can cause constipation, so ___ should 
+drink eight 8oz glasses of water daily and take a stool softener 
+(colace) to prevent this side effect.
+
+ANTICOAGULATION:
+- Please take Aspirin 325mg daily for 2 weeks after the 
+procedure.
+
+WOUND CARE:
+- ___ may shower. No baths or swimming for at least 4 weeks.
+- Any stitches or staples that need to be removed will be taken 
+out at your 2-week follow up appointment.
+- No dressing is needed if wound continues to be non-draining.
+- Splint must be left on until follow up appointment unless 
+otherwise instructed
+- Do NOT get splint wet
+
+DANGER SIGNS:
+Please call your PCP or surgeon's office and/or return to the 
+emergency department if ___ experience any of the following:
+- Increasing pain that is not controlled with pain medications
+- Increasing redness, swelling, drainage, or other concerning 
+changes in your incision
+- Persistent or increasing numbness, tingling, or loss of 
+sensation
+- Fever > 101.4
+- Shaking chills
+- Chest pain
+- Shortness of breath
+- Nausea or vomiting with an inability to keep food, liquid, 
+medications down
+- Any other medical concerns
+
+Physical Therapy:
+Right lower extremity: Full weight bearing
+Left lower extremity: Full weight bearing
+Left upper extremity: Non weight bearing
+Encourage turning, deep breathing and coughing qhour when awake.
+
+Treatments Frequency:
+Splint and ace wrap on L forearm/hand to remain in place until 
+follow-up.  
+Care: Monitor for increased swelling, elevate forearm above 
+heart as much as possible to decrease swelling, monitor for any 
+s/s of infection.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,410 @@
+===== DISCHARGE NOTE =====
+note_id=11390427-DS-20 | hadm_id=21426383
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pressure
+ 
+Major Surgical or Invasive Procedure:
+___
+Coronary artery bypass grafting x 1 with the left internal 
+mammary artery to the left anterior descending artery.
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo who has not had any medical care in over 
+___ years.  He began experiencing chest discomfort about 5 days 
+prior to admission. He describes his chest pain as indigestion 
+which occured after eating with
+associated lightheadedness, dizziness and diaphoresis. He 
+treated his symptoms as indigestion until he began experiencing 
+numbness and heaviness of his L arm.  In the ED he had elevated 
+troponins and was positive for NSTEMI.  He underwent cardiac 
+cath which showed 70-80% ___ LAD lesion which was felt to not 
+be amenable to PCI and he was transfered for CABG.  
+
+Cardiac Catheterization: ___     ___
+___ LAD, EF 55% 
+Other diagnostics:CXR at ___ ___
+Fractures of the lateral sixth thru eighth ribs on the Right 
+with
+underlying pleural thickening likely related to hemorrhage
+
+ 
+Past Medical History:
+Polio
+L femur fracture ___
+bicycle accident ___ w/handlebars into ___ medical
+attention
+Past Surgical History
+none
+
+ 
+Social History:
+___
+Family History:
+None
+ 
+Physical Exam:
+Pulse:84 Resp:16  O2 sat:96% RA
+B/P  Right:127/96    Left:
+Height:     Weight:
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs coarse bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++
+[x]
+Extremities: Warm [x], well-perfused [x]  Edema [] none_____
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+DP           Right: 2+  Left:2+
+___           Right:2+   Left:2+
+Radial       Right: 2+  Left:2+
+
+Carotid Bruit        Right:none    Left:none
+
+ 
+Pertinent Results:
+___ 05:03AM BLOOD WBC-8.7 RBC-3.25* Hgb-10.7* Hct-31.3* 
+MCV-96 MCH-32.8* MCHC-34.0 RDW-12.7 Plt ___
+___ 04:25AM BLOOD WBC-10.8 RBC-3.48* Hgb-11.3* Hct-33.4* 
+MCV-96 MCH-32.5* MCHC-33.9 RDW-12.8 Plt ___
+___ 02:02AM BLOOD WBC-13.1* RBC-3.80* Hgb-12.7* Hct-36.4* 
+MCV-96 MCH-33.4* MCHC-34.9 RDW-12.9 Plt ___
+___ 05:03AM BLOOD Glucose-81 UreaN-18 Creat-0.6 Na-137 
+K-4.2 Cl-100 HCO3-27 AnGap-14
+___ 04:25AM BLOOD Glucose-112* UreaN-19 Creat-0.8 Na-136 
+K-4.1 Cl-101 HCO3-29 AnGap-10
+___ 02:02AM BLOOD Glucose-106* UreaN-15 Creat-0.7 Na-133 
+K-4.6 Cl-105 HCO3-24 AnGap-9
+___ 02:45PM BLOOD UreaN-17 Creat-0.8 Na-135 K-4.6 Cl-106 
+HCO3-25 AnGap-9
+___ 07:15AM BLOOD WBC-7.1 RBC-3.54* Hgb-11.7* Hct-33.8* 
+MCV-96 MCH-33.1* MCHC-34.7 RDW-12.6 Plt ___
+___ 07:15AM BLOOD Glucose-106* UreaN-21* Creat-0.7 Na-135 
+K-4.2 Cl-101 HCO3-26 AnGap-12
+
+TTE ___
+Pre-CPB:
+No thrombus is seen in the left atrial appendage. A patent 
+foramen ovale is present. A left-to-right shunt across the 
+interatrial septum is seen at rest. Left ventricular wall 
+thicknesses are normal. Overall left ventricular systolic 
+function is normal (LVEF>55%). Right ventricular chamber size 
+and free wall motion are normal. The ascending aorta is mildly 
+dilated. There are simple atheroma in the aortic arch. No 
+thoracic aortic dissection is seen. The aortic valve leaflets 
+(3) appear structurally normal with good leaflet excursion and 
+no aortic stenosis. There are filamentous strands on the aortic 
+leaflets consistent with Lambl's excresences (normal variant). 
+The mitral valve leaflets are structurally normal. Mild (1+) 
+mitral regurgitation is seen. 
+
+___ 07:15AM BLOOD WBC-7.1 RBC-3.54* Hgb-11.7* Hct-33.8* 
+MCV-96 MCH-33.1* MCHC-34.7 RDW-12.6 Plt ___
+___ 07:15AM BLOOD Glucose-106* UreaN-21* Creat-0.7 Na-135 
+K-4.2 Cl-101 HCO3-26 AnGap-12
+ 
+Brief Hospital Course:
+The patient was admitted to the hospital and brought to the 
+operating room on ___ where the patient underwent coronary 
+artery bypass grafting x 1 with the left
+internal mammary artery to the left anterior descending artery. 
+Overall the patient tolerated the procedure well and 
+post-operatively was transferred to the CVICU in stable 
+condition for recovery and invasive monitoring. POD 1 found the 
+patient extubated, alert and oriented and breathing comfortably. 
+The patient was neurologically intact and hemodynamically stable 
+on no inotropic or vasopressor support. Beta blocker was 
+initiated and the patient was gently diuresed toward the 
+preoperative weight. His beta blockers were titrated up for 
+tachycardia. The patient was transferred to the telemetry floor 
+for further recovery. Chest tubes and pacing wires were 
+discontinued without complication. The patient was evaluated by 
+the physical therapy service for assistance with strength and 
+mobility. By the time of discharge on POD 4 the patient was 
+ambulating freely, the wound was healing and pain was controlled 
+with oral analgesics.  The patient was discharged home with 
+visiting nurse services in good condition with appropriate 
+follow up instructions.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1. Simvastatin 40 mg PO DAILY 
+2. TraMADOL (Ultram) 50 mg PO Q4H:PRN pain 
+3. Pantoprazole 40 mg PO Q24H 
+4. Aspirin EC 81 mg PO DAILY 
+5. Metoprolol Tartrate 75 mg PO TID 
+6. Potassium Chloride 20 mEq PO DAILY 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Coronary artery disease
+Polio
+L femur fracture ___
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal 
+Ambulating with steady gait
+Incisional pain managed with Ultram
+Incisions: 
+Sternal - healing well, no erythema or drainage 
+Trace Edema bilaterally
+ 
+
+ 
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming until cleared by surgeon. Look at 
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions 
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart 
+
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive 
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11390427-DS-21 | hadm_id=25173482
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+word finding difficulties, confusion, left facial
+ 
+Major Surgical or Invasive Procedure:
+___: Right craniotomy for subtotal resection of brain mass
+
+ 
+History of Present Illness:
+___ male with history of CAD s/p CABG and polio as a 
+child with residual RLE weakness presents as transfer from OSH 
+with findings of a new right-sided brain mass with mass effect. 
+Patient presented to ___ earlier today following 
+several days of worsening confusion and word-finding difficulty, 
+per wife patient also began to shuffle his gait. At OSH, he was
+found to have a left facial droop with slurred speech and 
+prominent WFD. CTA head to evaluate for stroke pertinent for a 
+large right frontal brain mass. He was loaded with Decadron 10mg 
+IV and Keppra 500mg IV and transferred to ___ ED for 
+Neurosurgical evaluation. 
+ 
+Past Medical History:
+Polio
+L femur fracture ___
+bicycle accident ___ w/handlebars into ___ medical
+attention
+
+ 
+Social History:
+___
+Family History:
+N/C
+ 
+Physical Exam:
+On Admission:
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: 3-2mm bilaterally briskly reactive
+EOMs: Intact
+Neck: Supple.
+Extrem: Warm and well-perfused.
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, flat
+affect.
+Orientation: Oriented to person, place, and date (___).
+Language: Speech slurred with WFD. Naming intact. 
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3 to
+2mm bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Left facial droop at rest and with activation. 
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: 
+- Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout in BUE. No pronator
+drift. 
+- RLE: IP ___, Q ___, H ___, AT ___, Gas ___
+- LLE: IP ___, Q ___, H ___, AT ___, Gas ___
+
+Sensation: Intact to light touch bilaterally.
+
+==========================================================
+
+On discharge:
+[x]AVSS 
+24 HR Data (last updated ___ @ 735)
+    Temp: 98.9 (Tm 98.9), BP: 132/81 (122-132/64-81), HR: 91
+(91-104), RR: 18 (___), O2 sat: 96% (95-96), O2 delivery: 2 L
+  
+
+Exam:
+Full neurologic exam deferred, because patient is CMO. Patient 
+is
+sleeping comfortably, briefly flickers his eyes open to voice.
+
+
+ 
+Pertinent Results:
+See OMR for pertinent lab and imaging results.
+ 
+Brief Hospital Course:
+#Right Frontal brain lesion
+On ___, Mr. ___ presented to the ED at ___ with confusion 
+and aphasia.  CTA revealed a right frontal brain lesion; he was 
+transferred to ___ for neurosurgical evaluation. He was 
+admitted to the neurosurgery service for OR planning. He was 
+started on dexamethasone and Keppra. He was taken to the OR on 
+___ for a right craniotomy for subtotal resection of the 
+lesion. Frozen pathology consistent with high grade glioma; 
+final pathology was pending at the time of discharge. The case 
+was uncomplicated - please see operative report for further 
+details. He was extubated in the OR. He required haldol for 
+postoperative agitation and was transferred to the ICU for post 
+management. Postop head CT demonstrated multiple areas of 
+hemorrhage within the resection bed. He was started on standing 
+mannitol q6hrs and high dose decadron. MRI on ___ that 
+showed expected residual tumor as well as the known hemorrhage. 
+On ___ he became increasingly altered, disoriented, agitated, 
+and drooling. Repeat head CT showed increased cerebral edema, 
+for which he was given a 20mg dose of decadron followed by 10mg 
+q6hrs, and started on hypertonic saline. A goals of care 
+discussion was had with the family by Neuro ICU staff, and the 
+family elected to transition to comfort measures only. He was 
+transferred out to ___ on ___. Palliative care consult 
+was placed on ___ who recommended continuation of Keppra to 
+prevent seizure and pain/anxiety management as written. 
+Emotional support was provided to family throughout 
+hospitalization. Patient was discharged to ___ facility for 
+further care. 
+ 
+Medications on Admission:
+Aspirin 81mg daily
+Metoprolol tartrate 50mg BID
+Simvastatin 40mg daily
+Enalapril maleate 5mg daily
+Multivitamin
+Vitamin D3 1000u daily
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg IV Q8H:PRN Pain - Mild Duration: 24 
+Hours  
+2.  LevETIRAcetam 1000 mg IV Q12H  
+3.  LORazepam 0.5-2 mg IV Q2H:PRN anxiety  
+4.  Morphine Sulfate ___ mg IV Q15MIN:PRN moderate-severe pain 
+or respiratory distress  
+5.  Ondansetron 4 mg IV Q8H:PRN Nausea/Vomiting - First Line  
+6.  Scopolamine Patch 1 PTCH TD ONCE Duration: 72 Hours  
+7.  Sodium Chloride 0.9%  Flush ___ mL IV Q8H and PRN, line 
+flush  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Brain lesion
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Discharge Instructions: Brain Tumor
+
+Surgery
+• You underwent surgery to debulk a brain lesion from your 
+brain. Ultimately, the decision was made to keep you comfortable 
+and proceed to a ___ facility for ongoing care. 
+
+What You ___ Experience:
+• You may experience headaches and incisional pain. 
+• You may also experience some post-operative swelling around 
+your face and eyes. This is normal after surgery and most 
+noticeable on the second and third day of surgery.  You apply 
+ice or a cool or warm washcloth to your eyes to help with the 
+swelling. The swelling will be its worse in the morning after 
+laying flat from sleeping but decrease when up. 
+• You may experience soreness with chewing. This is normal from 
+the surgery and will improve with time. Softer foods may be 
+easier during this time. 
+• Feeling more tired or restlessness is also common.
+• Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+ 
+Followup Instructions:
+___

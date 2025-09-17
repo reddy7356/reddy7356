@@ -1,0 +1,274 @@
+===== DISCHARGE NOTE =====
+note_id=11820272-DS-9 | hadm_id=29861558
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ace Inhibitors
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Palpitations, chest pain and fatigue
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Dr. ___ is a ___ year-old man with a history of CAD s/p RCA 
+and circumflex stents, hypertension, dyslipidemia, and severe 
+GERD who presents with chest pain.  
+.  
+He was in his USOH until one month ago when he began 
+experiencing vague chest pain symptoms, which he described as 
+"musculoskeletal," often occuring while he exercised or lifted 
+weights but relieved by applying tactile pressure, and 
+"gastrointestinal," with bloating and worsening GERD. He also 
+felt that his heart rate was fater (but regular), usually in the 
+___ at his baseline but more often in the ___ during this 
+period. His symptoms do not worsen with exertion, e.g. when he 
+runs faster on the elliptical machine, his symptoms remain 
+unchanged, but he was concerned that they were cardiac in 
+nature, as his initial presentation with CAD occurred with 
+similarly vague symptoms. He denied fevers, cough, nausea, 
+diaphoresis, and dyspnea. He also reports traveling heavily over 
+the last month, including to ___, and having fatigue related 
+to that. He presented to his cardiologist and had an EKG and 
+ECHO, both of which were normal. He did have an unchanged stress 
+ECHO a several weeks ago.  
+However, during grand rounds on ___ morning, he felt his 
+heart racing at ___nd was worried about a cardaic 
+origin and presented to the ED.  
+In the ED, initial VS: 98.5 96 157/80 20 97. EKG was unchanged 
+and DDimer was elevated but chest CTA was neg for PE; however, 
+it did show RUL infiltrates. He was treated with aspirin and 
+levofloxacin. Per report, his cardiologist recommended admission 
+for stress ECHO tomorrow.  
+.  
+On the floor, he is chest pain free and typing on his laptop.  
+.  
+On review of systems, he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. He denies recent fevers, chills or rigors. 
+He denies exertional buttock or calf pain. All of the other 
+review of systems were negative.  
+Cardiac review of systems is notable for absence of dyspnea on 
+exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, 
+palpitations, syncope or presyncope.  
+
+ 
+Past Medical History:
+Coronary artery disease s/p RCA and circumflex stents  
+Dyslipidemia  
+Hypertension  
+BPH  
+GERD  
+Cholecystectomy ___  
+
+ 
+Social History:
+___
+Family History:
+___
+ 
+Physical Exam:
+Vital signs: Temperature 98 degree F, blood pressure 135/80 
+heart rate 79 respiratory rate 18 oxigen saturation 96% on room 
+air.  
+Gen: WDWN middle aged male in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva were pink, no 
+pallor or cyanosis of the oral mucosa. No xanthalesma.  
+Neck: Supple with no JVD  
+CV: PMI located in ___ intercostal space, midclavicular line. 
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+Abd: Soft, NTND. No HSM or tenderness.  
+Ext: No c/c/e.  
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas
+ 
+Pertinent Results:
+Admission labs:
+___ 04:25PM BLOOD WBC-13.1*# RBC-4.70 Hgb-13.1* Hct-38.7* 
+MCV-82 MCH-27.9 MCHC-33.9 RDW-13.5 Plt ___
+___ 04:25PM BLOOD Neuts-79.9* Lymphs-15.9* Monos-3.4 
+Eos-0.4 Baso-0.4
+___ 04:25PM BLOOD ___ PTT-27.4 ___
+___ 04:25PM BLOOD Glucose-102* UreaN-28* Creat-1.0 Na-141 
+K-3.6 Cl-103 HCO3-29 AnGap-13
+___ 08:32PM BLOOD Lactate-1.3
+___ 05:11PM BLOOD D-Dimer-686*
+___ 07:20AM BLOOD WBC-8.7 RBC-4.60 Hgb-12.8* Hct-38.1* 
+MCV-83 MCH-27.9 MCHC-33.6 RDW-13.6 Plt ___
+___ 07:20AM BLOOD Plt ___
+___ 07:20AM BLOOD Glucose-94 UreaN-32* Creat-1.1 Na-143 
+K-4.0 Cl-105 HCO3-30 AnGap-12
+___ 07:20AM BLOOD CK(CPK)-65
+___ 07:20AM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 07:20AM BLOOD Calcium-9.1 Phos-2.8 Mg-1.7
+.
+Discharge labs:
+___ 07:05AM BLOOD WBC-7.2 RBC-4.58* Hgb-12.9* Hct-37.9* 
+MCV-83 MCH-28.2 MCHC-34.0 RDW-13.2 Plt ___
+___ 07:05AM BLOOD Plt ___
+___ 07:05AM BLOOD Glucose-105* UreaN-21* Creat-1.1 Na-141 
+K-3.9 Cl-106 HCO3-30 AnGap-9
+___ 07:05AM BLOOD Mg-1.8
+___ 07:20AM BLOOD TSH-2.0
+___ 07:05AM BLOOD WBC-7.2 RBC-4.58* Hgb-12.9* Hct-37.9* 
+MCV-83 MCH-28.2 MCHC-34.0 RDW-13.2 Plt ___
+___ 07:05AM BLOOD WBC-7.2 RBC-4.58* Hgb-12.9* Hct-37.9* 
+MCV-83 MCH-28.2 MCHC-34.0 RDW-13.2 Plt ___
+___ 07:05AM BLOOD WBC-7.2 RBC-4.58* Hgb-12.9* Hct-37.9* 
+MCV-83 MCH-28.2 MCHC-34.0 RDW-13.2 Plt ___
+.
+___ CXR:
+IMPRESSION:  
+1. Prominence of the right hilar region likely reflects tortuous 
+ascending 
+aorta. If acute process is suspected such as a dissection, 
+cross-sectional 
+imaging can be obtained. 
+2. Right greater than left bilateral atalectasis. An underlying 
+consolidation cannot be excluded 
+.
+___ CTA:
+1. Patchy areas of ground-glass opacity involving the entire 
+right lung, with upper lobe predominance, is most compatible 
+with an infectious or inflammatory process. 
+2. No pulmonary embolism detected to the subsegmental levels. 
+3. No dissection. 
+.
+___ Stress-test with perfusion imaging:
+INTERPRETATION: ___ yo man was referred to evaluate an atypical 
+chest 
+discomfort. The patient completed 10.25 minutes of ___ 
+protocol 
+representing a very good exercise tolerance; ~ ___ METS. The 
+exercise 
+test was stopped due to fatigue. During exercise, the patient 
+reported a 
+left-sided chest discomfort. Initially, the discomfort was 
+reported 
+only with inspiration. As exercise continued, the discomfort was 
+more 
+constant; ___. At peak exercise, the patient reported a slight 
+decrease in the left-sided discomfort; ___. In recovery, the 
+left-sided chest discomfort would vary between ___, and 
+reportedly 
+improved when the patient pressed in the area. No significant ST 
+
+segment changes were noted with exercise or during recovery. The 
+rhythm 
+was sinus with rare isolated APDs and VPDs noted. The heart rate 
+and 
+blood pressure response with exercise was appropriate. 
+IMPRESSION: Very good functional exercise capacity. Atypical 
+symptoms 
+in the absence of ST segment changes at a high level of 
+exercise. 
+Normal hemodynamic response to exercise. Nuclear report sent 
+separately. 
+.
+Final reading of perfusion imaging pending, a preliminary 
+reading did not show perfusion abnormalities.
+ 
+Brief Hospital Course:
+Dr. ___ is a ___ year-old man with a history of CAD s/p RCA 
+and circumflex stents, hypertension, dyslipidemia, and severe 
+GERD who presents with palpitations and chest pain.  
+.  
+Atypical chest pain: We ruled out acute coronary syndromes with 
+serial negative cardiac enzymes and negative EKG. Pulmonary 
+embolism was excluded with a contrast-enhanced CAT-scan of the 
+chest. Despite ground glass opacity seen on CTA, patient did not 
+have any clinical symptoms of pneumonia and was not treated with 
+antibiotic course. Stress testing showed no perfusion 
+abnormalities and no EKG-changes in a preliminary reading. The 
+final report is pending, to be followed up by your outpatient 
+cardiologist
+.  
+GERD: The patient states that he had recent episodes of reflux 
+with epigastric pain, taste of acid in the mouth and aspiration. 
+We continued PPI and suggest further outpatient follow up with 
+gastroenterology.
+.  
+HTN: We did not see need for adjustment of the patient's 
+hypertensive regimen.
+.  
+BPH: We continued doxazosin.  
+
+ 
+Medications on Admission:
+omeprazole 40 mg bid  
+cardizem 160 mg daily  
+atorvostatin 40 mg daily  
+doxazosin 1 mg daily  
+folic 2 daily  
+vitamin D 1000u daily  
+niacin 500 daily  
+aspirin  
+
+ 
+Discharge Medications:
+1. Niacin 500 mg Capsule, Sustained Release Sig: One (1) 
+Capsule, Sustained Release PO DAILY (Daily).  
+2. Diltiazem HCl 180 mg Capsule, Sustained Release Sig: One (1) 
+Capsule, Sustained Release PO DAILY (Daily).  
+3. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Folic Acid 1 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+5. Doxazosin 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime). 
+ 
+6. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: 2.5 Tablets 
+PO DAILY (Daily).  
+7. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+8. Nitrostat 0.3 mg Tablet, Sublingual Sig: One (1)  Sublingual 
+once a day: Take up to 3 as needed for chest pain, if 3 tabs do 
+not resolve your CP you should go the the ER.
+Disp:*30 tablets* Refills:*2*
+9. Omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO twice a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+- Atypical angina
+- Coronary artery disease status post right coronary artery- and 
+circumflex artery-stents  
+- Dyslipidemia  
+- Hypertension  
+- Benign Prostate Hypertrophy
+- Gastroesophageal reflux disease  
+- Cholecystectomy ___  
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for palpitations and atypical chest pain. We 
+ruled out myocardial infarction and acute ischemia. You had an 
+exercise stress test with perfusion images that was negative for 
+any signs of blockage of the coronary arteries. 
+.
+We have made no changes to your medications
+ 
+Followup Instructions:
+___

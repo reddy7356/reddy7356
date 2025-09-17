@@ -1,0 +1,244 @@
+===== DISCHARGE NOTE =====
+note_id=11016482-DS-2 | hadm_id=22035015
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+ Pt has been complaining of headache x 2 weeks.
+ 
+Major Surgical or Invasive Procedure:
+Left sided burr hole for ___ evacuation
+
+ 
+History of Present Illness:
+HPI:  Pt is a ___ yo female w/ PMHx sig for rheumatic fever s/p
+mitral valve replacement and aortic valve replacement on
+Coumadin, atrial fibrillation, and hypertension transferred from
+OSH with larger L SDH.  Pt has been complaining of headache x 2
+weeks.  Pain is left sided towards the vertex w/ intermittent R
+hand numbness.  She also feels that her R hand has been on/off
+clumsy over the same period of time.  ~ 1.5 weeks ago she had a
+root canal.  She complained of headache to PCP who got an
+outpatient MRI today that showed a large L SDH.  Pt was
+instructed to go to ER at ___ where she received
+10 mg of SC Vit K and IV Keppra.  She was then transferred to
+___ for further management.
+
+ 
+Past Medical History:
+Past Medical History: atrial fibrillation, rheumatic fever s/p
+AVR and MVR w/ St. ___ valve though unclear which one,
+hypertension, hypercholesterolemia, CHF.
+
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+Vitals: T 97.5; BP 130/80; P 70; RR 16; O2 sat 100%
+
+General: lying in bed NAD
+HEENT: NCAT, moist mucous membranes
+Neck: supple
+Extremities: no c/c/e.
+
+Neurological Exam:
+Mental status: A & O x3. Fluent speech with no
+paraphasic or phonemic errors.  Adequate comprehension.  Follows
+simple and multi-step commands.  Repetition intact (no ifs, ands
+or buts.  Able to name low and high frequency objects. 
+
+Cranial Nerves:
+I: Not tested
+II: PERRL, 4-->2mm with light. 
+III, IV, VI: EOMI. no nystagmus.
+V, VII: facial sensation intact, facial strength
+IX, X: Palatal elevation symmetrical.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk. Normal tone. Mild R pronator drift.  Full
+strength throughout.
+
+Sensation: intact to light touch
+
+Reflexes: 3+ on R, 2+ on L
+Toes downgoing bilaterally.
+
+Coordination: FNF intact.
+
+Upon discharge:
+Oriented x 3. PERRL. EOMs intact.
+Full strength throughout.
+Incision well healed. Sutures have been removed. 
+
+ 
+Pertinent Results:
+CT ___ W/O CONTRAST ___ 
+Bilateral subdural hematomas, larger on the left with mixed 
+attenuation consistent with acute-on-chronic subdural hematoma. 
+Mass effect on subjacent sulci and 4 mm rightward shift of 
+normally midline structures not significantly changed from the 
+prior MR. 
+
+___ CT ___ 
+IMPRESSION: 
+1. While there is decrease in size of the left-sided subdural 
+hemorrhage 
+along the convexity, there is persistent dense area of 
+hemorrhage noted 
+anteriorly measuring 3.6 x 0.9 cm. Expected post-surgical 
+changes are noted. 
+2. Right frontal subdural collection, which is iso- to slightly 
+hyperdense, measures 3.2 x 0.8 cm is unchanged. 
+3. Unchanged appearance of the right posterior falcine and right 
+tentorial 
+subdural hemorrhage. 
+
+___ CT ___ 
+IMPRESSION: 
+Stable appearance of the subacute left hemispheric subdural 
+hemorrhage with decrease in size of more acute component 
+superiorly. 
+
+___ CT ___
+Impression (Prelim Read - no final at time of this writing) 
+Small area of acute hemorrhage within the left subdural 
+collection. No increase in size and no significant mass effect.
+
+___ CT ___:
+Left SDH unchanged in size. Stable midline shift. Unchanged 
+right SDH. 
+
+Labs upon discharge:
+___ 06:15AM BLOOD ___ PTT-34.2 ___
+ 
+Brief Hospital Course:
+Mrs. ___ was evaluated in the Emergency department and upon 
+review of her scan and discovery of her left holohemespheric 
+SDH. She was given FFP to reverse her INR. Dr. ___ spoke with 
+the patient's son and a decision was made to take the patient to 
+the OR to perform a burr whole for SDH drainage.
+
+Post operatively patient remains nonfocal. Her post operative 
+___ CT shows good re-expansion. Patient has a history of AVR 
+and MVR and is off her coumadin s/p L burr hole for evacuation 
+of L SDH. Cardiology was consulted for evaluation of St. ___ 
+valve and determination of how long patient can remain off her 
+coumadin. Upon their evaluation, it was determined that the 
+patient can restart heparin drip in 7 days and transition to 
+coumadin. TTE showed LVEF >55%, 3+ tricuspid regurgitation, and 
+slight left ventricular hypertrophy.  A Heparin gtt was started 
+on ___ AM, and Coumadin was initiated ___ ___. On ___, 
+patient's INR was 1.5 and she was given a bolus of coumadin at 
+5mg. In the morning, her INR was 1.9, she then recieved a bolous 
+of 7.5mg coumadin and was found to be theraputic on ___ with an 
+INR of 2.5. She will follow up with her primary care physician 
+and the ___ clinic for further management of her levels. 
+Prior to discharge she was found to have a small amount of acute 
+bleeding on ___ CT. She was kept overnight and CT in the am was 
+stable. She was given 5 mg of coumadin prior to discharge and 
+will follow-up in the coumadin clinin on ___.
+
+On discharge patient continues to be alert and oriented x 3, ___ 
+strength in all extremities. Face is symmetrical and tongue 
+midline. Pupils are equal and reactive. 
+ 
+Medications on Admission:
+Atenolol, Enalapril, Simvastatin, Warfarin,
+Furosemide (does not know doses).
+
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Levetiracetam 750 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).
+Disp:*60 Tablet(s)* Refills:*1*
+3. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Enalapril Maleate 5 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+8. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for for h/a.  
+9. Coumadin 2.5 mg Tablet Sig: Two (2) Tablet PO once a day for 
+3 days.
+Disp:*6 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left hemespheric Subdural Hematoma
+H/o Systolic CHF
+
+ 
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - Independent
+
+ 
+Discharge Instructions:
+General Instructions
+
+•Have a family member check your incision daily for signs of 
+infection.
+•Take your pain medicine as prescribed.
+•Exercise should be limited to walking; no lifting, straining, 
+or excessive bending.
+•You may wash your hair 
+•Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+•Unless directed by your doctor, do not take any 
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and 
+Ibuprofen etc. 
+•You have been discharged on Keppra (Levetiracetam), you will 
+not require blood work monitoring.
+•Clearance to drive and return to work will be addressed at 
+your post-operative office visit.
+•Make sure to continue to use your incentive spirometer while 
+at home, unless you have been instructed not to. 
+• You have been restarted on your coumadin. You need to go to 
+the ___ clinic to have your doses adjusted.
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING
+
+•New onset of tremors or seizures.
+•Any confusion or change in mental status. 
+•Any numbness, tingling, weakness in your extremities.
+•Pain or headache that is continually increasing, or not 
+relieved by pain medication.
+•Any signs of infection at the wound site: redness, swelling, 
+tenderness, or drainage.
+•Fever greater than or equal to 101° F.
+
+ 
+Followup Instructions:
+___

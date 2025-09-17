@@ -1,0 +1,285 @@
+===== DISCHARGE NOTE =====
+note_id=11299687-DS-9 | hadm_id=21154677
+
+ 
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+___: Left heart cath
+
+ 
+History of Present Illness:
+The majority of the history of obtained through the patient's 
+son and chart review as the patient does not speak ___.  
+Mr. ___ is a ___ year old gentleman with history of CAD s/p 
+3v CABG in ___, HTN, HLD, DM type II who presents with chest 
+pain.  
+Substernal chest pain, ___, per patient's son similar to the 
+pain that lead to his CABG started last night associated with 
+palpitations, diaporesis and dyspnea. The severe pain lasted ___ 
+hrs. It improved overnight to ___. He was having difficulty 
+sleeping last night because of the pain. He didn't tell anyone 
+until his son came back home from work today. Today he tried to 
+go down some stairs in his 2 story house and became very 
+dyspenic and felt palpitations.  
+His son took him to ___ where initial vitals were 
+97.3, 76, ___. Significant labs include WBC 13.3. 
+BUN/Cr ___. Trop I 0.160 (ref range ___, BNP 58. CXR 
+there without acute processes. EKG shows LVH but otherwise no 
+evidence of ischemia. He was given ASA 325mg, Nitro SL x 2 and 
+Nitro paste with resolution of symptoms and correction of 
+hypertension. Vital sign prior to transfer to ___ 134/86 64 16 
+100%RA.  
+In the ED intial vitals were: 96.9 70 150/78 18 99% 0  
+Labs: 11.3 WBC with 12.7% eos. BUN/Cr ___.  
+Patient was given: nitro SL x2 with and nitro paste at the OSH 
+and morphine 5mg IV once in the ED. Trop <0.01.  
+Vitals on transfer: 98 72 120/72 16 97% RA  
+On the floor patient currently without chest pain.  
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension  
+2. CARDIAC HISTORY:  
+- CABG: 3v CABG in ___. LIMA graft to the LAD and vein grafts 
+to a circumflex marginal and the distal right coronary artery.  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY:  
+CAD - 3 vessel disease s/p CABG  
+HTN  
+DM type II  
+HLD  
+___ disease  
+Macroscopic hematuria  
+Proteinuria  
+cataracts s/p removal of in ___ c/b enucleated eye  
+urinary incontinence  
+ 
+Social History:
+___
+Family History:
+Father with ?MI at unknown age. Otherwise no known history of 
+arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise 
+non-contributory.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+VS: 97.8 77 176/91 20 100%RA  
+GENERAL: NAD  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  
+
+NECK: Supple with JVP of 8 cm.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominal bruits.  
+EXTREMITIES: No c/c/e. 
+
+ 
+ 
+Pertinent Results:
+Admission Labs
+___ 12:15AM BLOOD WBC-11.3* RBC-4.98 Hgb-13.8* Hct-41.3 
+MCV-83 MCH-27.8 MCHC-33.5 RDW-14.6 Plt ___
+___ 12:15AM BLOOD Neuts-64.1 ___ Monos-3.6 
+Eos-12.7* Baso-0.7
+___ 12:15AM BLOOD ___ PTT-38.8* ___
+___ 12:15AM BLOOD Glucose-146* UreaN-27* Creat-1.4* Na-138 
+K-5.1 Cl-105 HCO3-22 AnGap-16
+___ 12:15AM BLOOD CK(CPK)-98
+___ 12:15AM BLOOD CK-MB-5
+___ 12:15AM BLOOD cTropnT-0.01
+___ 06:00AM BLOOD cTropnT-<0.01
+___ 12:15AM BLOOD Calcium-9.0 Phos-3.1 Mg-2.3
+
+Discharge LAbs: 
+
+Pertinent Studies:
+CT Abd/Pelvis ___
+IMPRESSION: 
+1. Small retroperitoneal hematoma with hemorrhage extending into 
+a right inguinal hernia sac and alongside the right spermatic 
+cord.
+2. Small hiatal hernia.
+3. Calcifications within the pancreas, likely sequela of chronic 
+pancreatitis.
+
+Echo ___:
+The left atrium is normal in size. The estimated right atrial 
+pressure is ___ mmHg. There is mild symmetric left ventricular 
+hypertrophy with normal cavity size and regional/global systolic 
+function (LVEF>55%). Right ventricular chamber size and free 
+wall motion are normal. The diameters of aorta at the sinus, 
+ascending and arch levels are normal. The aortic valve leaflets 
+(3) appear structurally normal with good leaflet excursion and 
+no aortic stenosis or aortic regurgitation. The mitral valve 
+leaflets are mildly thickened. Trivial mitral regurgitation is 
+seen. There is borderline pulmonary artery systolic 
+hypertension. There is no pericardial effusion. 
+
+IMPRESSION: Normal biventricular size and global systolic 
+function. Mild to moderate tricuspid regurgitation.
+
+Compared with the prior study (images reviewed) of ___, 
+the basal inferior wall has normal function on the current 
+study. 
+
+L Heart Cath: 
+Report pending, please see finalized report when available
+ 
+Brief Hospital Course:
+___ w/ hx of CAD s/p CABG in ___ transferred from OSH for chest 
+pain and shortness of breath. 
+
+Active Issues:
+#Chest pain: Negative trops but found to have V5-V6 depression 
+on subsequent EKG, concerning for new ischemia. He was diuresed 
+given his shortness of breath with improvement and taken to cath 
+lab where angiogram showed occluded SVG to OM, appearing chronic 
+in nature. Medically optimized and continued on nitro gtt post 
+procedure for blood pressure control as symptoms had resolved 
+prior to cath. Echo showed Normal biventricular size and global 
+systolic function. Mild to moderate tricuspid regurgitation.
+
+#Hematoma: Patient complained of groin pain at cath site, though 
+no tenderness to palpation or signs of hematoma. He was found to 
+have a small RP hematoma which was not significant in size and 
+therefore was managed expectantly. 
+
+Chronic Issues:
+# CAD. s/p 3V CABG in ___. LIMA graft to the LAD and vein 
+grafts to a circumflex marginal and the distal right coronary 
+artery. Continued on ASA, metoprolol, and  Atorvastatin.  
+
+# CKD. Patient's Cr 1.4 appears to be baseline. Cr 1.3 in ___ 
+and per PCP note, recent admission to ___ Cr was 1.4  
+
+# HTN: continued amlodipine at home dose 2.5 BID
+
+# DM type II: continued on home lantus 40mg QHS, held 70/30 
+whiel inpatient and given ISS with adequate control of blood 
+glucose.  
+
+# HLD: Atorvasatin as above was continued. 
+
+# Esosinophillia. Patient has had chronic esosinophilla. Given 
+country of origin, sent Strongyloides IgG, pending at time of 
+discharge.  
+
+# ___ disease: continued on home dose Carbidopa-Levodopa. 
+ 
+
+Transitional Issues
+#Consider transitioning to metoprolol succinate as an 
+outpatient, and uptitration as needed. Could consider carvedilol 
+for better HTN and rate control
+#Imdur uptitrated to assist with angina, cont as needed as an 
+outpatient
+___ not used given hx of hyperkalemia
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+2. Metoprolol Tartrate 50 mg PO BID 
+3. Aspirin 81 mg PO DAILY 
+4. Docusate Sodium 200 mg PO DAILY 
+5. Senna 17.2 mg PO BID:PRN constipation 
+6. Atorvastatin 40 mg PO QPM 
+7. Amlodipine 2.5 mg PO BID 
+8. Carbidopa-Levodopa (___) 2 TAB PO TID 
+9. 70/30 25 Units Breakfast
+70/30 25 Units Dinner
+Humalog 40 Units Bedtime
+
+ 
+Discharge Medications:
+1. Amlodipine 2.5 mg PO BID 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. Carbidopa-Levodopa (___) 2 TAB PO TID 
+5. Docusate Sodium 200 mg PO DAILY 
+6. 70/30 25 Units Breakfast
+70/30 25 Units Dinner
+Humalog 40 Units Bedtime
+7. Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+RX *isosorbide mononitrate 60 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0
+8. Metoprolol Tartrate 50 mg PO BID 
+9. Senna 17.2 mg PO BID:PRN constipation 
+10. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+RX *nitroglycerin 0.4 mg 1 tablet(s) sublingually q5min:prn Disp 
+#*100 Tablet Refills:*0
+11. Cane
+LENGTH OF NEED: 13 MONTHS
+EQUIPMENT: STANDARD CANE
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Chest pain
+Coronary ARtery Disease
+Secondary Diagnoses:
+Chronic Kidney Disease
+DIabetes Mellitus, Type 2
+Hypertension
+Hyperlipidemia
+___ Disease
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted for chest pain in the presence of complex 
+coronary disease.  You had changes in your EKG which was 
+concerning for new blockage and were taken for a cardiac 
+catherization.  You were found to have a chronically occluded 
+vessel from your previous coronary bypass surgery.  An echo was 
+ordered, but was not obtained to monitor your heart function and 
+should be ordered by your primary cardiologist if desired.  You 
+were having groin pain which kept you in the hospital for one 
+additional night and was controlled.
+
+We have increased your dose of imdur. You should continue your 
+remaining medications.
+
+Please follow up with your PCP/cardiologist next week. Please 
+call your PCP on the next business day to make an appointment.  
+He is aware of your hospitalization.
+
+Please be well.
+
+Your ___ Team
+ 
+Followup Instructions:
+___

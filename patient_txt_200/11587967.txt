@@ -1,0 +1,112 @@
+===== DISCHARGE NOTE =====
+note_id=11587967-DS-16 | hadm_id=24258817
+
+ 
+Name:  ___       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Augmentin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+none
+ 
+Major Surgical or Invasive Procedure:
+primary low transverse cesarean section
+ 
+History of Present Illness:
+___ yo G2P0101 at 35w0d returns after 24h urine protein returns 
+elevated at 340mg. Denies headache, visual changes, RUQ pain. 
+Feels well. No complaints. Has many questions about management 
+of preeclampsia, whether she can be monitored as an outpatient. 
+She denies contractions, leaking of fluid, or vaginal bleeding. 
+Reports active fetal movement.
+ 
+Past Medical History:
+PRENATAL COURSE
+EDC: ___ by LMP c/b 8wk U/S
+Labs: O+/Ab-,RPRnr,RI,HepBsAg-, HIV neg
+U/S: nl FFS, post placenta
+Routine: T___ 1:49, T21 1:3381, nl amnio
+
+PAST OBSTETRIC HISTORY (G2P0101)
+(___) PPROM @31wks, 3#0
+
+PAST GYNECOLOGIC HISTORY
+denies abnl Pap or STIs
+
+PAST MEDICAL HISTORY
+heart murmur
+MVA with head injury without residual issues and pelvic fracture
+
+PAST SURGICAL HISTORY
+hip surgery
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+(on admission)
+VITALS: AF, HR 92, BP 136/92, RR 16
+GENERAL: NAD, anxious
+LUNGS: CTAB
+HEART: RRR
+ABDOMEN: soft, NT, gravid
+LOW EXT: NT/NE bilaterally
+FHT: 130/mod/+accel/-decel
+TOCO: none
+SVE: deferred
+ 
+Pertinent Results:
+___ WBC-12.6 RBC-4.38 Hgb-13.3 Hct-37.8 MCV-87 Plt-285
+___ WBC-12.3 RBC-4.54 Hgb-13.9 Hct-39.6 MCV-87 Plt-269
+___ Creat-0.6 ALT-11 UricAcd-4.5
+___ Creat-0.6 ALT-10 UricAcd-4.3
+___ URINE pH-7 Hrs-24 Vol-1700 Cre-59 TProt-20 Pr/Cr-0.3
+___ URINE 24Creat-1003 24Prot-___ y/o G2P1 admitted at 35w0d with mild preeclampsia.
+.
+Ms ___ had mildly elevated blood pressures on 
+arrival to triage. She was asymptomatic and labs were normal. 
+Fetal testing was reassuring. She was admitted for inpatient 
+expectant management. On hospital day #2, she had an ultrasound 
+and MFM consult. Ultrasound revealed IUGR, with an EFW 
+1817g(<10%). At that time, delivery was recommended since she 
+met criteria for severe preeclampsia with IUGR. The NICU was 
+consulted. She underwent a primary LTCS on ___ at 35+2 weeks 
+gestation. Liveborn male from breech, weighing 1885g, apgars 8 
+and 9. She had an uncomplicated postoperative course. Her blood 
+pressures ranged between 112-128/60-84. She requested an early 
+discharge on POD#2. She will have a blood pressure and incision 
+check in two weeks.
+
+ 
+Medications on Admission:
+prenatal vitamins
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+preeclampsia, IUGR, Breech, Preterm delivery
+baby ___ 4#2oz
+ 
+Discharge Condition:
+good
+ 
+Discharge Instructions:
+No lifting, no intercourse, no tampons for 6 weeks
+No dog walking, no exercising, no swimming for 4 weeks.
+Call if persistent headache, BP > 150/90
+See additional instruction sheet
+ 
+Followup Instructions:
+___

@@ -1,0 +1,335 @@
+===== DISCHARGE NOTE =====
+note_id=11147531-DS-5 | hadm_id=25369832
+
+ 
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypoxia, Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ y.o. woman with a history most notable for COPD on 24h O2 3L 
+NC, Stage II Squamous Cell Carcinoma s/p chemoradiation, Right 
+Breast Invasive Lobular Carcinoma s/p mastecomy presents with 
+dyspnea and worsend hypoxia. The patient saw her PCP on ___ 
+and at time that was found to be hypoxic to O2 70% at rest. The 
+patient had a CXR which was overall unremarkable, however, there 
+was a concern for possible PE and the patient was sent to ___ 
+for further evaluation.  
+
+In the ED, the patient's initial VS were T 98.4 HR 110 BP 151/55 
+SpO2 69% RA. The patient was placed on NRB. Exam was notable for 
+good air movement without any wheezing. Initial labs notable for 
+hemolyzed Chem 7, CBC was normal. VBG notable for pH 7.38 pCO2 
+50 pO2 44 HCO3 31. Lactate was 3.3. UA was grossly normal. CXR 
+was unremarkable for pneumonia although some possible persistent 
+right-sided pleural effusion. CTA was negative for PE. Trop was 
+negative x1. The patient was given Albuterol/Ipratropium nebs, 
+Methylprednisolone 125 mg IV, and Azitromycin 500 mg PO x1. The 
+patient's dyspnea improved with treatment but was found to 
+desaturate to the ___ with ambulation. Decision was made to 
+admit patient for further workup. Transfer VS were T 98.1 HR 107 
+BP 146/69 RR 18 SpO2 99% 3L NC.
+
+On the floor, the patient reported improved dyspnea. She 
+endorsed some orthopnea, but denied any chest pain, 
+palpitations, lightheadedness, ___ edema. 
+
+ 
+Past Medical History:
+1. Chronic Obstructive Pulmonary Disorder (COPD)
+2. Stage II Squamous Cell Carcinoma
+3. Right Breast Invasive Lobular Carcinoma s/p Mastectomy 
+4. Hypertension
+5. Diabetes Mellitus
+
+ 
+Social History:
+___
+Family History:
+Father and brother had COPD.
+
+ 
+Physical Exam:
+ON ADMISSION:
+VS T 97.0 HR 107 BP 145/62 RR 18 SpO2 94% 4 L NC
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: Supple, JVP at 7-8 cm, no LAD  
+CHEST: S/p Right mastectomy 
+CV: RRR, normal S1 + S2, no m,r,g.
+Lungs: Bibasilar inspirtory crackles. No wheezing, but prolonged 
+expiratory phase. No rhonci.
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred.  
+
+ON DISCHARGE:
+VS T 97.2, afebrile overnight HR 101 BP 170/70 RR 18 SpO2 97% on 
+3L  Standing wt: 51.2. Bed Wt 56.4 kg ___ (57.9 kg on ___
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: Supple, JVP not elevated, no LAD  
+CHEST: S/p Right mastectomy 
+CV: RRR, normal S1 + S2, no m,r,g.
+Lungs: Bibasilar inspirtory crackles. No wheezing, but prolonged 
+expiratory phase. No rhonci.
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred.
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 02:35PM BLOOD WBC-10.0 RBC-4.21 Hgb-12.3 Hct-37.6 
+MCV-89 MCH-29.2 MCHC-32.8 RDW-15.2 Plt ___
+___ 02:35PM BLOOD Neuts-81.0* Lymphs-13.1* Monos-4.5 
+Eos-1.0 Baso-0.4
+___ 02:35PM BLOOD Plt ___
+___ 02:35PM BLOOD Glucose-234* UreaN-23* Creat-0.9 Na-134 
+K-8.8* Cl-98 HCO3-24 AnGap-21*
+___ 02:35PM BLOOD cTropnT-<0.01 proBNP-422
+___ 06:35AM BLOOD ALT-29 AST-27 LD(LDH)-210 AlkPhos-67 
+TotBili-0.7
+___ 06:35AM BLOOD Albumin-4.2 Calcium-9.9 Phos-3.4 Mg-2.2
+___ 02:35PM BLOOD ___ pO2-44* pCO2-50* pH-7.38 
+calTCO2-31* Base XS-2
+___ 02:35PM BLOOD Lactate-3.1*
+
+DISCHARGE LABS:
+___ 05:32AM BLOOD WBC-11.0 RBC-4.02* Hgb-11.7* Hct-36.1 
+MCV-90 MCH-29.2 MCHC-32.5 RDW-15.7* Plt ___
+___ 05:32AM BLOOD Plt ___
+___ 05:32AM BLOOD Glucose-102* UreaN-22* Creat-0.7 Na-142 
+K-3.5 Cl-103 HCO___-29 AnGap-14
+
+IMAGING:
+
+CHEST (PORTABLE AP) ___:
+FINDINGS:  
+The cardiac, mediastinal and hilar contours appear stable.  
+There is 
+persistent volume loss in the right hemithorax with band-like 
+opacity in the right lower lung, a fiducial marker, and similar 
+effacement of the right costophrenic sulcus.  However, the 
+appearance is very similar to the prior study.  Although a 
+persistent pleural effusion is difficult to exclude on the 
+right, there is no evidence for one on the left. 
+IMPRESSION:  
+Stable appearance of the chest. 
+
+CTA CHEST W&W/O C&RECON ___:
+IMPRESSION: 
+1. No evidence of pulmonary embolism or acute aortic syndrome. 
+2. Severe emphysema with superimposed mild pulmonary edema. 
+3. Increasing malignant soft tissue thickening encasing the 
+right mainstem 
+bronchus and adjacent structures. 
+4. Diffuse septal thickening in both lungs, especially in upper 
+lungs.  Given 
+diffuse appearance, pulmonary edema is favored as the most 
+likely etiology. 
+
+TRANSTHORACIC ECHOCARDIOGRAM ___:
+IMPRESSION:
+The left atrium is normal in size. No atrial septal defect is 
+seen by 2D or color Doppler. Late saline contrast is seen in 
+left heart suggesting intrapulmonary shunting. The estimated 
+right atrial pressure is ___ mmHg. Left ventricular wall 
+thicknesses are normal. Overall left ventricular systolic 
+function is normal (LVEF = 65%). Tissue Doppler imaging suggests 
+an increased left ventricular filling pressure (PCWP>18mmHg). 
+The right ventricular free wall thickness is normal. Right 
+ventricular chamber size is normal. with normal free wall 
+contractility. The aortic valve leaflets (3) are mildly 
+thickened but aortic stenosis is not present. No aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. Trivial mitral regurgitation is seen. The left 
+ventricular inflow pattern suggests impaired relaxation. The 
+pulmonary artery systolic pressure could not be determined. 
+There is no pericardial effusion. 
+
+MICROBIOLOGY:
+
+___ 5:40 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+Time Taken Not Noted     Log-In Date/Time: ___ 2:35 pm
+      BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+ 
+Brief Hospital Course:
+___ y.o. woman with a history of COPD on 24h O2 3L NC, Stage II 
+Squamous Cell Carcinoma s/p chemoradiation, Right Breast 
+Invasive Lobuar Carcinoma s/p mastecomy presents with dyspnea 
+and worsened hypoxia.
+
+# Hypoxia: The patient was admitted in the setting of 
+desaturating to 70% with minimal activity while already on 3L O2 
+NC.  On admission, the patient's vital signs were VS T 97.0 HR 
+107 BP 145/62 RR 18 SpO2 94% 4 L NC. The patient was initially 
+on NRB in the ED where she received Methylpredisolone, nebs, and 
+Azithromycin given concern for COPD exacerbation. CXR was 
+unchanged from baseline. The patient had a Chest CT/CTA which 
+was unremarkable for PE, but did demonstrate increasing 
+malignant soft tissue thickening encasing the right mainstem 
+bronchus and adjacent structures. The patient also had an TTE 
+which demonstrated LVEF of 65% and late saline contrast is seen 
+in left heart suggesting intrapulmonary shunting. The etiology 
+of the patient's hypoxia was thought to be multifactorial: 
+severe COPD vs possible lymphangitic spread of malignancy vs 
+contribution from pulmonary shunting. The patient's presentation 
+and exam was not convincing for a COPD exacerbation and 
+prednisone and azithromycin were not continued. The patient's O2 
+was increased to 5L NC and she was continued on 
+albuterol/ipratropium nebs with improvement in her symptoms. The 
+patient and her oncologist felt that she would not be a 
+candidate for further interventions with regards to her 
+malignancies and thus no further diagnostic workup 
+(bronchosocopy, biopsies) were pursued during this 
+hospitalization. At the time of discharge, the patient's dyspnea 
+had improved and her oxygen saturation was 93-97% on ___ L NC. 
+
+# Hypernatremia: Towards the end of her hospitalization, Na was 
+found to be 147. Hypernatremia was thought to be due to poor 
+fluid intake and diuresis. The patient's  calculated free H20 
+deficit was 1.3 L. The patient was given D5W at 75 cc/hr for a 
+total 1.3 L. At the time of discharge, Na improved to 142. 
+
+# Goals of Care Discussion: Patient with end state COPD and 
+possible recurrence of pulmonary and breast malignancy. Patient 
+reports that she never had goals of care discussion. There is a 
+possibility patient may need hospice care in the near future. 
+Palliative care was consulted during this hospitalization. The 
+patient expressed interest in outpatient followup with 
+Palliative Care. 
+
+CHRONIC ISSUES:
+
+# Hypertension: The patient was continued on her home Lisinopril 
+40 mg PO QDaily. 
+
+# Diabetes Mellitus: The patient's home Metformin was held and 
+was started on an insulin sliding scale during this 
+hospitalization. The patient's FSGs were well-controlled. 
+
+TRANSITIONAL ISSUES:
+[] Code Status: Full
+[] Patient home O2 increased to ___ L NC continuous
+[] Patient discharged with Albuterol/Ipratropium nebs, nebulizer 
+machine ordered
+[] Blood cultures pending at discharge 
+[] Patient will need Pulmonary followup for likely repeat PFTs, 
+review of CTA for AVMs 
+[] Patient will need Oncology followup
+[] Patient will need Palliative Care outpatient followup
+[] Patient will need post-discharge PCP followup 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 40 mg PO DAILY 
+2. MetFORMIN XR (Glucophage XR) 500 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Furosemide 20 mg PO DAILY 
+5. Albuterol Inhaler 2 PUFF IH Q4H:PRN Wheezing 
+6. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH DAILY 
+7. FoLIC Acid 1 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Supplemental Oxygen ___ L NC
+Titrale O2 sat 88-92%, for COPD ICD9 codes 490, 491, 492
+2. Nebulizer machine
+Nebulizer Machine for Albuterol/Ipratropium use, COPD ICD9 codes 
+490, ___, ___
+3. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN Dyspnea 
+RX *albuterol sulfate 2.5 mg/3 mL (0.083 %) 1 neb INH every six 
+(6) hours PRN Disp #*30 Vial Refills:*1
+4. Ipratropium Bromide Neb 1 NEB IH Q6H:PRN Dyspnea  
+RX *ipratropium bromide [Atrovent HFA] 17 mcg/actuation 1 neb 
+INH every six (6) hours Disp #*30 Inhaler Refills:*1
+5. Aspirin 81 mg PO DAILY 
+6. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH DAILY 
+7. FoLIC Acid 1 mg PO DAILY 
+8. Lisinopril 40 mg PO DAILY 
+9. Furosemide 20 mg PO DAILY 
+10. MetFORMIN XR (Glucophage XR) 500 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Chronic Obstructive Pulmonary Disorder
+Congestive Heart Failure 
+Hypoxia 
+
+ 
+Discharge Condition:
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___,
+
+___ was a pleasure caring for you during your hospitalization at 
+the ___. As you know, you came 
+in with shortness of breath and lower than your normal oxygen 
+levels. We did X-rays and imaging of your chest which did not 
+show any pneumonia or blood clots in your lungs. We treated you 
+with more oxygen, steroids, and nebulizers. We did an ultrasound 
+of your heart which did not show any abnormal findings. Your 
+breathing and low oxygen improved with our treatments. We 
+increased your home oxygen to ___ L 24 hours per day. We also 
+ordered nebulizer machine for you to use with your home 
+medications. 
+
+Please take your medications as instructed. If you develop any 
+worsening shortness of breath, chest pain, or lightheadedness 
+please seek medical attention urgently. Please followup with 
+primary care care doctor and other health providers.
+
+Sincerely, 
+Your ___ Care Team
+Please take your 
+ 
+Followup Instructions:
+___

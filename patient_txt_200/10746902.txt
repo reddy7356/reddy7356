@@ -1,0 +1,440 @@
+===== DISCHARGE NOTE =====
+note_id=10746902-DS-7 | hadm_id=24451228
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Cipro
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left lower quadrant pain 
+ 
+Major Surgical or Invasive Procedure:
+Percutaneous nephrostomy tube replacement ___
+
+ 
+History of Present Illness:
+I have seen and examined the patient and agree with assuming 
+his/her care. For the complete history of present illness and 
+review of symptoms please see the admission note. 
+
+In brief, Ms. ___ is a ___ y/o woman w/ PMH of metastatic 
+uterine cancer s/p multiple cycles of chemotherapy, XRT, and 
+brachytherapy, now with right psoas muscle and one right 
+external iliac node metastases, s/p XRT, and currently 
+undergoing Proton therapy at ___, with left sided obstructive 
+uropathy s/p PCN who presents with one day of no drainage from 
+PCN associated with left sided flank pain.
+
+In ___, she had a left sided nephrostomy tube placed at 
+___ secondary to obstruction from lymphadenopathy vs. radiation 
+fibrosis vs. a combination of both. She underwent routine Stat 
+lock, external drainage bag change and dressing replacement 
+yesterday by the ___. Following the change of hardware for 
+nephrostomy tube, she noted acute worsening left sided flank 
+pain, LLQ abdominal/hip pain, and no output into her external 
+drainage bag. She denies leakage around her nephrostomy tube. 
+She states she feels warm but has not taken her temperature. She 
+endorses nausea x 2 weeks, malaise x 1 week, chills, and 
+significant dry heaves this a.m.
+
+She presented to an OSH where she received one dose of vanco and 
+zosyn, before being transferred here.
+
+Of note, she last received her proton therapy on last ___, 
+___, and ___, completing 16 of 30 proton therapy 
+sessions so far. Last week, she was admitted to ___ for shooting 
+pain across her abdomen, above her navel. Per patient, she was 
+given pain medications and infectious etiologies were ruled out. 
+She says she received multiple blood transfusions because of low 
+hematocrit. The day after discharge, she had nausea and 
+vomiting. 
+
+In the ED, initial vitals were: 98.0 85 147/67 18 99% RA  
+Labs notable for lactate 3.4 (06:29) -> 1.8 (12:22); BUN 24, WBC 
+14.8, 90% Neutrophils
+Patient was given dilaudid 1 mg IV and lorazepam 0.5 mg IV 
+Patient was seen by ___ who recommended nephrostogram and left 
+sided PCN tube exchange.
+Decision was made to admit for ___ examination and PCN exchange.
+Vitals notable for: Afebrile, good O2 saturation on RA, BPs 
+___
+
+On the floor, she is complaining of left flank pain and 
+associated LLQ abdominal/hip pain.
+ 
+10 point ROS is negative except for as mentioned in HPI.
+
+ 
+Past Medical History:
+- Uterine cancer (endometrioid adenocarcinoma, grade I, + LVI) 
+s/p total hysterectomy, bilateral salpingo-oophorectomy, and 
+bilateral pelvic lymphadenectomy (___) and 
+carboplatin/placataxol chemotherapy, carboplatin/gemcitabine 
+chemotherapy, Doxil and Avastin as well as pelvic and periaortic 
+radiation and brachytherapy.
+- Transurethral resection of endometrial cancer invading into 
+the bladder
+- vesicovaginal fistula secondary to extensive prior surgery and 
+radiation therapy for tumor invading the bladder
+- Recurrent uterine cancer involving right psoas muscle and one 
+right external iliac node s/p XRT, Alloderm mesh along right 
+iliopsoas (___), and now receiving Proton Therapy at ___
+- Hydronephrosis s/p PCN placement (___)
+- Anemia, s/p recent blood transfusion
+- Hypertension
+- Polycystic ovarian syndrome
+- Cutaneous abscess of abdominal wall
+- Diabetes Mellitus (HbA1c 6.9, ___
+- Herpes zoster (history of shingles ___
+- Hiatal hernia
+
+ 
+Social History:
+___
+Family History:
+Father with quadruple bypass and diabetes. Mother with aortic 
+aneurysm and HTN. Paternal aunt with breast cancer. Paternal 
+grandmother with ___ lymphoma. Maternal grandfather with 
+stroke. Niece with breast cancer. Sister with thyroid cancer. 3 
+siblings with diabetes.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+==========================
+Vitals: 97.9 146 / 78 67 18 96 RA   
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, systolic ejection 
+murmur, heard loudest at ___. No rubs or gallops.
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Flank: left sided PCN in place. Dressing dry, minimal amount of
+crusted exudate on dressing. PCN drainage bag with no 
+collection.
++CVA tenderness. 
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis. 
+Right leg with non-pitting edema, significantly larger in size 
+than left. Per patient, known issue.  
+Neuro: No focal deficits.
+
+DISCHARGE PHYSICAL EXAM
+=======================
+Vitals: Tc 98.5 Tmax 98.6 114/71 (114-164/67-87) 54 (54-78) 18 
+96 RA 
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, systolic ejection 
+murmur, heard loudest at ___. No rubs or gallops.
+Abdomen: soft, non-distended, bowel sounds present. Mildly 
+tender to palpation. No rebound tenderness or guarding, no 
+organomegaly  
+Flank: Left sided PCN with dressing that is clear, dry, and 
+intact. PCN drainage bag with minimal clear liquid. No left CVA 
+tenderness.
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis. 
+Right leg with non-pitting edema, significantly larger in size 
+than left. Per patient, known issue.  
+Neuro: No focal deficits.
+
+ 
+Pertinent Results:
+LABS ON ADMISSION
+==================
+___ 06:20AM BLOOD WBC-14.8* RBC-4.23 Hgb-11.7 Hct-36.7 
+MCV-87 MCH-27.7 MCHC-31.9* RDW-14.3 RDWSD-45.0 Plt ___
+___ 06:20AM BLOOD Neuts-90.1* Lymphs-2.4* Monos-6.4 
+Eos-0.1* Baso-0.1 Im ___ AbsNeut-13.37* AbsLymp-0.36* 
+AbsMono-0.95* AbsEos-0.01* AbsBaso-0.02
+___ 06:20AM BLOOD Plt ___
+___ 06:20AM BLOOD ___ PTT-25.4 ___
+___ 06:20AM BLOOD Glucose-179* UreaN-24* Creat-1.0 Na-135 
+K-3.9 Cl-102 HCO3-19* AnGap-18
+
+NOTABLE LABS
+============
+___ 05:49AM BLOOD Hapto-374*
+___ 05:49AM BLOOD LD(LDH)-134 TotBili-0.3
+___ 06:29AM BLOOD Lactate-3.4*
+___ 12:22PM BLOOD Lactate-1.8
+___ 05:49AM BLOOD Ret Aut-0.9 Abs Ret-0.03
+___ 06:36AM URINE Color-Straw Appear-Hazy Sp ___
+___ 06:36AM URINE Blood-MOD Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-LG
+___ 06:36AM URINE RBC-92* WBC->182* Bacteri-FEW Yeast-NONE 
+Epi-17 TransE-2
+
+LABS ON DISCHARGE
+=================
+___ 05:49AM BLOOD WBC-9.7 RBC-3.39* Hgb-9.5* Hct-29.5* 
+MCV-87 MCH-28.0 MCHC-32.2 RDW-14.6 RDWSD-46.2 Plt ___
+___ 05:49AM BLOOD Hypochr-NORMAL Anisocy-NORMAL 
+Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+___ 05:49AM BLOOD Plt ___
+___ 05:49AM BLOOD Glucose-144* UreaN-19 Creat-0.9 Na-137 
+K-3.8 Cl-104 HCO3-23 AnGap-14
+
+MICROBIOLOGY
+=============
+__________________________________________________________
+___ 6:36 am URINE      Source: ___. 
+
+   URINE CULTURE (Pending): 
+__________________________________________________________
+___ 8:16 pm BLOOD CULTURE      Source: Line-Port. 
+
+   Blood Culture, Routine (Pending): 
+
+IMAGING
+=======
+CR Chest ___
+Following the discussion of the risks, benefits and 
+alternatives to the procedure, written informed consent was 
+obtained from the 
+patient.The patient was then brought to the angiography suite 
+and placed prone 
+on the exam table. A pre-procedure time-out was performed per 
+___ protocol.  
+The left flank was prepped and draped in the usual sterile 
+fashion. 
+  
+The left nephrostomy tube could not be flushed.  The catheter 
+was cut.  A 
+Glidewire could not be advanced through the proximal portion of 
+the tube.  The 
+back end of the Glidewire was then advanced successfully through 
+the tube.  
+The Glidewire was then removed and then readvanced with the soft 
+portion 
+first.  The Glidewire was advanced into the proximal ureter.  
+The catheter was 
+removed.  A new 8 ___ nephrostomy catheter was flushed and 
+advanced with 
+its plastic stiffener over the wire into appropriate position. 
+The wire and 
+stiffener were removed and the pigtail was formed. Contrast 
+injection 
+confirmed appropriate positioning. The final image was saved. 
+The catheter was 
+then flushed, stay sutures applied and the catheter was secured 
+with a Stat 
+Lock device and sterile dressings.  The catheter was attached to 
+a bag for 
+drainage. 
+  
+The patient tolerated the procedure well and there were no 
+immediate 
+post-procedure complications. 
+  
+FINDINGS: 
+1. Existing left nephrostomy tube was clogged and could not be 
+flushed.  The 
+tube appeared to be in appropriate position on scout image. 
+2. Successful exchange with a new ___ F nephrostomy tube. 
+
+Percutaneous Nephrostomy tube replacement ___
+PROCEDURE: 
+1. Left diagnostic antegrade nephrostogram. 
+2. Left 8 ___ nephrostomy exchange. 
+  
+PROCEDURE DETAILS: Following the discussion of the risks, 
+benefits and 
+alternatives to the procedure, written informed consent was 
+obtained from the 
+patient.The patient was then brought to the angiography suite 
+and placed prone 
+on the exam table. A pre-procedure time-out was performed per 
+___ protocol.  
+The left flank was prepped and draped in the usual sterile 
+fashion. 
+  
+The left nephrostomy tube could not be flushed.  The catheter 
+was cut.  A 
+Glidewire could not be advanced through the proximal portion of 
+the tube.  The 
+back end of the Glidewire was then advanced successfully through 
+the tube.  
+The Glidewire was then removed and then readvanced with the soft 
+portion 
+first.  The Glidewire was advanced into the proximal ureter.  
+The catheter was 
+removed.  A new 8 ___ nephrostomy catheter was flushed and 
+advanced with 
+its plastic stiffener over the wire into appropriate position. 
+The wire and 
+stiffener were removed and the pigtail was formed. Contrast 
+injection 
+confirmed appropriate positioning. The final image was saved. 
+The catheter was 
+then flushed, stay sutures applied and the catheter was secured 
+with a Stat 
+Lock device and sterile dressings.  The catheter was attached to 
+a bag for 
+drainage. 
+  
+The patient tolerated the procedure well and there were no 
+immediate 
+post-procedure complications. 
+  
+FINDINGS: 
+  
+  
+1. Existing left nephrostomy tube was clogged and could not be 
+flushed.  The 
+tube appeared to be in appropriate position on scout image. 
+2. Successful exchange with a new ___ F nephrostomy tube. 
+
+  
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with complicated medical 
+history, including metastatic uterine cancer s/p multiple cycles 
+of chemotherapy, XRT, and brachytherapy then with right psoas 
+muscle metastasis and one right external iliac node currently 
+undergoing Proton therapy at ___, as well as left sided 
+obstructive uropathy s/p PCN in ___ who presented to ___ with 
+one day of no drainage from PCN as well as significant LLQ and 
+left flank pain after routine exchange of bag and stat lock by 
+___ one day prior to admission. 
+
+# Percutaneous nephrostomy block. Patient seen by ___. Bedside 
+flushes unsuccessful. Nephrostogram showed persistent blockage 
+and PCN was then successfully exchanged. Patient had immediate 
+relief of pain and did well for duration of stay. Initially with 
+leukocytosis of 14.7, downtrended to 9.8 overnight. 
+
+# Leukocytosis: Presenting with left flank pain and WBC 14.8 on 
+admission.  Given concern for urosepsis, one dose of zosyn given 
+at OSH. Afebrile. Pressures stable. WBC trending down to 9.7 
+prior to discharge. No signs or symptoms of infection. 
+Preliminary blood cultures with no growth; UA grossly 
+contaminated in setting of vesicovaginal fistula. 
+
+# Anemia. Ms. ___ has a significant history of anemia, 
+thought likely second to marrow suppression from multiple 
+radiation episodes and chemotherapy. Per patient she was last 
+transfused 2 units pRBCs 2 weeks ago, prior to last proton 
+therapy administration. Possibly a component of blood loss; Ms. 
+___ relays a history of vaginal bleeding noticed at her cuff 
+site. H/H today prior to admission 9.5/___.5 down from 11.___.7 
+___. Hemodynamically stable. No signs of bleeding from PCN 
+exchange. Basic hemolysis labs were obtained here as well as 
+reticulocyte count and appeared normal: Haptoglobin 374, LDH 134 
+Absolute reticulocyte count .03 corrected reticulocyte count 0.7 
+reticulocyte index .5. 
+
+# Hypertension: Blood pressure ranging from 123-164/60-87. Held 
+home amlodipine 5 mg
+
+CHRONIC ISSUES: 
+==========================
+# Pain: acetaminophen ___ mg. Continued gabapentin 300 mg, 
+morphine SR (MS ___ 15 mg, and oxycodone 10 mg
+# Overactive bladder: Vesicare not on formulary. Substituted for 
+tolterodine 1 mg BID while in-house and discharged on home 
+vesicare 5 mg.
+
+TRANSITIONAL ISSUES
+====================
+- Maintained on dexamethasone 4 mg daily per recent prescription 
+from primary oncologist for radiation induced lower extremity 
+edema. Will need follow up and guided taper.
+- Consider increasing frequency of PCN tube exchanges from every 
+3 months to every 2 months
+- Holding home amlodipine in setting of low pressures
+- Patient with long history of anemia. Per patient, last 
+received blood transfusion 2 weeks ago. Basic hemolysis labs 
+were obtained here as well as reticulocyte count and appeared 
+normal: Haptoglobin 374, LDH 134 Absolute reticulocyte count .03 
+corrected reticulocyte count 0.7 reticulocyte index .5. Hb and 
+Hct on discharge 9.7 and 29.5. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Dexamethasone 4 mg PO DAILY 
+2. Ondansetron 8 mg PO Q8H:PRN nausea 
+3. OxyCODONE (Immediate Release) 10 mg PO Q4H:PRN BREAKTHROUGH 
+PAIN 
+4. Morphine SR (MS ___ 15 mg PO Q12H:PRN Moderate-severe 
+pain 
+5. Gabapentin 300 mg PO TID 
+6. Vesicare (solifenacin) 5 mg oral DAILY 
+7. amLODIPine 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Dexamethasone 4 mg PO DAILY  
+2.  Gabapentin 300 mg PO TID  
+3.  Morphine SR (MS ___ 15 mg PO Q12H:PRN Moderate-severe 
+pain  
+4.  Ondansetron 8 mg PO Q8H:PRN nausea  
+5.  OxyCODONE (Immediate Release) 10 mg PO Q4H:PRN BREAKTHROUGH 
+PAIN  
+6.  Vesicare (solifenacin) 5 mg oral DAILY  
+7. HELD- amLODIPine 5 mg PO DAILY  This medication was held. Do 
+not restart amLODIPine until discussing with your PCP
+
+ 
+___:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary
+=======
+Mechanical failure left percutaneous nephrostomy tube
+Leukocytosis
+
+Secondary
+========
+Anemia
+Hypertension
+Pain 
+Overactive Bladder
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+It was a pleasure caring for you at ___ 
+___. You came to us with abdominal and back pain and 
+were found to have a blockage in your nephrostomy tube. Our 
+interventional radiologists exchanged your tube and you did 
+well.
+
+Please take all of your medications as described in this 
+discharge summary. If you experience any of the danger signs 
+listed below please contact your primary oncologist or come to 
+the emergency department immediately. 
+
+Best Wishes, 
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

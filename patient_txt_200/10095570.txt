@@ -1,0 +1,432 @@
+===== DISCHARGE NOTE =====
+note_id=10095570-DS-16 | hadm_id=28612694
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cirrhosis, weakness
+
+ 
+Major Surgical or Invasive Procedure:
+ETT Intubation ___
+ 
+History of Present Illness:
+Patient is a ___ male with PMH of hypertension, CHF who 
+presented to the ED with ___ weeks of weakness and jaundice.  An 
+outpatient ultrasound was performed yesterday which revealed 
+cirrhosis and portal vein thrombosis. He denies any history of 
+liver disease, no alcohol use. No fevers, abdominal pain nausea 
+or vomiting. He had 2 episodes of bright red blood per rectum 2 
+weeks ago but this has not recurred. He notes diffuse pruritis 
+which is improved at this time.
+
+In the ED, initial vitals:  99.1 66 122/56 17 97% RA
+Patient was A&Ox3, no asterixis, and jaundiced
+Labs notable for: 
+CBC: 14.3 12.4 40.8 53
+ALT 431 AST 176 AP 372 Tbili 9.3 Alb 3.6 Dbili 7.7 Lip 218
+Chem7 129/7.___/104/1.8/187
+K -> 7.2 --> 7.3 --> 7 --> 6.3
+___ 13.6 PTT 32.1 INR 1.2
+EKG reportedly peaked t waves
+Patient had blood cultures sent, UA/UCx
+2 20G IVs were placed
+Patient had guiac + brown stool
+U/S with trace ascites, no drainable pocket
+
+Recieved 2L NS, insulin 10u x 2, 1g Ca Gluc, albuterol neb, 
+ceftriaxone 1g x 1, lasix 20 IV
+Imaging:  
+CXR: IMPRESSION:  
+No acute findings. Limited exam. 
+Patient was seen by gastroenterology who advised further workup 
+for symptoms.
+Abd u/s:
+IMPRESSION:  
+1. Absent blood flow within the main portal vein consistent with 
+portal venous 
+thrombosis. 
+2. Cirrhotic liver with a small amount of ascites and 
+splenomegaly. 
+EKG showed peaked t waves
+
+On arrival to the FICU, patient is alert and oriented, but only 
+speaks a small amount of ___. He notes his weakness and 
+jaundice started about ___ weeks ago. His abd swelling he said 
+has been progressing for months. His daughter mentioned to the 
+RN that the patient had not been eating much recently.  
+
+ 
+Past Medical History:
+Hypertension
+Diabetes mellitus
+CHF
+
+ 
+Social History:
+___
+Family History:
+Non-Contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+GENERAL: Resting comfortably, in NAD, jaundiced 
+HEENT: icteric sclera, MMM, oropharynx clear  
+NECK: supple
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: Significantly distended, and dull to perfussion. soft, 
+non-tender, bowel sounds present, no rebound tenderness or 
+guarding
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: rash most significant on hands bilaterally but also 
+throughout torso and on upper L back. signs of excoriation 
+throughout  
+NEURO: alert and orietned x3. unable to assess strength as there 
+is a language barrier and patient unable to follow, but appears 
+grossly intact. 
+
+DISCHARGE PHYSICAL EXAM:
+N/A
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 08:40PM BLOOD WBC-14.3*# RBC-5.64 Hgb-12.4* Hct-40.8 
+MCV-72* MCH-21.9* MCHC-30.3* RDW-17.8* Plt Ct-53*#
+___ 08:40PM BLOOD Neuts-85.1* Lymphs-6.8* Monos-6.8 Eos-0.6 
+Baso-0.6
+___ 08:40PM BLOOD Plt Smr-VERY LOW Plt Ct-53*#
+___ 10:21PM BLOOD ___ PTT-32.1 ___
+___ 08:40PM BLOOD Glucose-187* UreaN-104* Creat-1.8* 
+Na-129* K-7.6* Cl-97 HCO3-19* AnGap-21*
+___ 08:40PM BLOOD ALT-431* AST-176* AlkPhos-372* 
+TotBili-9.3* DirBili-7.7* IndBili-1.6
+___ 08:40PM BLOOD Lipase-218*
+___ 08:40PM BLOOD Albumin-3.6
+___ 10:15PM BLOOD K-7.2*
+
+STUDIES/IMAGING:
+RUQ U/S ___: FINDINGS:  
+LIVER: The liver is coarsened and nodular in echotexture. The 
+contour of the liver is nodular, consistent with cirrhosis. 
+There is no focal liver mass although the underlying echotexture 
+of the liver limits sensitivity for detection of small nodules. 
+No appreciable flow can be seen within the main portal vein or 
+splenic vein at the confluence with the SMV by color Doppler, 
+consistent with portal vein thrombosis. There is a small amount 
+of ascites. 
+BILE DUCTS: There is no intrahepatic biliary dilation. The CBD 
+measures 2.7 mm. 
+GALLBLADDER: The gallbladder is decompressed, limiting 
+evaluation. Hyperechoic foci within the gallbladder likely 
+represent small stones or polyps. PANCREAS: Imaged portion of 
+the pancreas appears within normal limits, without masses or 
+pancreatic ductal dilation, with portions of the pancreatic tail 
+obscured by overlying bowel gas. 
+SPLEEN: Normal echogenicity, measuring 15.3 cm. 
+KIDNEYS: The right kidney measures 10.4 cm. The left kidney 
+measures 10.3 cm. Normal cortical echogenicity and 
+corticomedullary differentiation is seen bilaterally. There is 
+no evidence of masses, stones, or hydronephrosis in the kidneys. 
+
+RETROPERITONEUM: Visualized portions of aorta and IVC are within 
+normal 
+limits. 
+IMPRESSION: 
+1. Absent blood flow within the main portal vein consistent with 
+portal venous thrombosis. 
+2. Cirrhotic liver with a small amount of ascites and 
+splenomegaly. 
+
+CXR ___: FINDINGS: AP portable upright view of the chest. 
+  Clips in the soft tissues of the lower neck noted. Lung 
+volumes are low limiting assessment. Allowing for this, the 
+lungs appear clear. Cardiomediastinal silhouette appears grossly 
+normal. Bony structures are intact. No free air below the right 
+hemidiaphragm. 
+IMPRESSION: No acute findings. Limited exam. 
+
+CT ABD/PELVIS ___:
+FINDINGS: Please see the dedicated CT chest report from the same 
+day for detailed evaluation of the chest. 
+LIVER: The nonenhanced appearance of the livershows 
+hepatomegaly.  Noncontrast 
+CT cannot evaluate for focal liver lesions. There is a small 
+amount of 
+perihepatic Send free fluid The gallbladder is nondistended, 
+without 
+pericholecystic fluid or fat stranding.  Faint hyperdensities 
+within the lumen may represent gallstones. 
+SPLEEN: The spleen is homogeneous in attenuation and at the 
+upper limits of normal in size, measuring 12.8 cm. 
+PANCREAS: The pancreas is without focal lesion or peripancreatic 
+stranding or fluid collection. 
+ADRENALS: The adrenal glands are unremarkable. 
+KIDNEYS: The kidneys are symmetric and normal in size, without 
+stone or 
+hydronephrosis. 
+GI:The stomach is decompressed, but there is no obvious 
+intraluminal mass or wall thickening.  Numerous small rounded 
+densities along the lesser curvature may represent 
+lymphadenopathy or varices. The small and large bowel are normal 
+in caliber, without evidence of obstruction.  Evaluation of the 
+bowel wall is limited secondary to underdistention and lack of 
+IV contrast, but there is no obvious area of wall thickening.A 
+normal, air-filled appendix is visualized.  There is a small 
+amount of simple free fluid along the right pericolic gutter and 
+in the lower abdomen. 
+RETROPERITONEUM: The aorta is normal in caliber, with moderate 
+atherosclerotic calcifications.Retroperitoneal lymph nodes are 
+increased in number, but not pathologically enlarged by CT size 
+criteria.  No mesenteric adenopathy is 
+identified. 
+CT PELVIS: The urinary bladder is decompressed by a Foley 
+catheter.No pelvic wall or inguinal lymph node enlargement by CT 
+size criteria is seen.There is a small to moderate amount of 
+pelvic free fluid. 
+OSSEOUS STRUCTURES:No focal lesion suspicious for malignancy 
+present. 
+  
+IMPRESSION: 
+1. Exam limited by lack of IV contrast. Within these 
+limitations, no acute intra-abdominal process to explain the 
+patient's presentation. 
+2. Likely sequela of portal hypertension related to known 
+cirrhosis, including hepatomegaly, mild splenomegaly and 
+ascites.  Cannot assess for focal liver lesions. 
+3. Retroperitoneal lymph nodes increased in number, but not 
+pathologically enlarged by CT size criteria. 
+
+CT CHEST ___:
+FINDINGS: This exam is limited secondary to respiratory motion 
+artifact. There is a 2.7 x 2.8 x 2.6 cm mass in the right upper 
+lobe (4:87, 6:40), which exerts mass effect upon the upper lobe 
+bronchus (4:104, 105). Multiple scattered small opacities (for 
+example, 4:84, 92, 93, 96, 109, 125) could represent nodules 
+versus small foci of nodular opacity consistent 
+withinfection/inflammation. More confluent opacity in the left 
+apex (4:57, 6:44) is likely infectious. There is dependent 
+atelectasis bilaterally. There is no supraclavicular, axillary, 
+or mediastinal lymphadenopathy. Hilar lymphadenopathy is 
+difficult to evaluate without IV contrast, but there does appear 
+to be increased soft tissue within the hila bilaterally, 
+particularly on the right, consistent with enlarged lymph nodes. 
+The pulmonary artery is mildly enlarged, measuring 3.6 cm. This 
+is suggestive, but not diagnostic, of pulmonary hypertension. 
+Cardiac configuration is within normal limits. Coronary artery 
+calcifications are noted. 
+The thyroid gland is within normal limits. There is no 
+concerning focal lytic or sclerotic osseous lesion. Please see 
+the CT abdomen/ pelvis report for detailed evaluation of the 
+infra diaphragmatic structures. 
+IMPRESSION:  
+This exam is limited secondary to respiratory motion artifact. 
+1. Right upper lobe mass, which exerts mass effect upon the 
+upper lobe 
+bronchus. 
+2. Multiple scattered nodular opacities, unclear if metastatic 
+versus 
+infectious/ inflammatory. 
+3. More confluent opacity in the left apex is likely infectious, 
+cannot r/o malignancy (BAC)11. 
+4. Likely right hilar lymphadenopathy, although difficult to 
+evaluate without IV contrast. 
+5. Mildly enlarged pulmonary artery, suggestive but not 
+diagnostic of 
+pulmonary hypertension. 
+  
+
+NOTABLE LABS:
+___ 03:57AM BLOOD ___
+___ 09:13AM BLOOD Glucose-197* UreaN-50* Creat-2.4* Na-128* 
+K-7.4* Cl-98 HCO3-13* AnGap-24*
+___ 03:57AM BLOOD Glucose-313* UreaN-63* Creat-2.5* Na-131* 
+K-6.7* Cl-97 HCO3-10* AnGap-31*
+___ 02:51AM BLOOD Glucose-341* Na-135 K-7.6* Cl-89* 
+HCO3-11* AnGap-43*
+___ 03:57AM BLOOD ALT-5410* ___ 
+CK(CPK)-1614* ___ TotBili-13.6*
+___ 05:09PM BLOOD ALT-2365* AST-6077* LD(LDH)-9580* 
+CK(CPK)-627* AlkPhos-722* TotBili-11.5*
+___ 01:17AM BLOOD ALT-270* AST-225* AlkPhos-313* 
+TotBili-11.8* DirBili-8.5* IndBili-3.3
+___ 04:12AM BLOOD ALT-275* AST-125* LD(LDH)-2590* 
+AlkPhos-400* TotBili-10.0*
+___ 03:57AM BLOOD Lipase-3830*
+___ 10:40AM BLOOD Lipase-1316*
+___ 03:57AM BLOOD CK-MB-150* MB Indx-9.3* cTropnT-0.18*
+___ 09:13AM BLOOD Calcium-11.0* Phos-8.6* Mg-2.6
+___ 03:57AM BLOOD Albumin-3.5 Calcium-10.1 Phos-8.5* 
+Mg-2.9* UricAcd-8.1*
+___ 11:29PM BLOOD Calcium-9.1 Phos-9.5* Mg-3.0*
+___ 05:09PM BLOOD Albumin-3.7 Calcium-8.7 Phos-10.4*# 
+Mg-3.3*
+___ 01:17AM BLOOD Albumin-3.5 Calcium-8.3* Phos-5.7* 
+Mg-2.9* UricAcd-13.0* Iron-92
+___ 01:17AM BLOOD calTIBC-173 Hapto-<5* Ferritn-3034* 
+TRF-133*
+___ 01:17AM BLOOD Triglyc-249*
+___ 09:28AM BLOOD Type-ART Temp-36.1 pO2-66* pCO2-37 
+pH-7.17* calTCO2-14* Base XS--14
+___ 05:46AM BLOOD Type-ART pO2-72* pCO2-32* pH-7.16* 
+calTCO2-12* Base XS--16
+___ 03:04AM BLOOD Type-ART pO2-227* pCO2-28* pH-7.16* 
+calTCO2-11* Base XS--17
+___ 12:27AM BLOOD Type-ART pO2-97 pCO2-32* pH-7.19* 
+calTCO2-13* Base XS--14
+___ 11:07PM BLOOD Type-ART pO2-121* pCO2-28* pH-7.19* 
+calTCO2-11* Base XS--15
+___ 10:33PM BLOOD Type-ART pO2-127* pCO2-29* pH-7.20* 
+calTCO2-12* Base XS--15
+___ 07:36PM BLOOD ___ pO2-74* pCO2-36 pH-7.24* 
+calTCO2-16* Base XS--11
+___ 05:19PM BLOOD Type-ART pO2-121* pCO2-28* pH-7.11* 
+calTCO2-9* Base XS--19
+___ 03:12PM BLOOD ___ Temp-36.1 Rates-/22 FiO2-21 
+pO2-49* pCO2-24* pH-7.16* calTCO2-9* Base XS--18
+___ 03:12PM BLOOD Lactate-11.0*
+___ 05:19PM BLOOD Lactate-12.8*
+___ 07:36PM BLOOD Lactate-13.2* K-6.6*
+___ 12:27AM BLOOD Lactate-12.1* Na-133 K-6.5* Cl-96
+___ 04:07AM BLOOD K-6.5*
+___ 05:46AM BLOOD Lactate-10.7*
+___ 09:28AM BLOOD Lactate-10.3* Na-130* K-7.1* Cl-95*
+___ 09:28AM BLOOD freeCa-0.97*
+___ 05:46AM BLOOD freeCa-0.84*
+___ 03:04AM BLOOD freeCa-0.54*
+___ 12:27AM BLOOD freeCa-0.81*
+
+DISCHARGE LABS;
+N/A
+ 
+Brief Hospital Course:
+>> PATIENT: Mr ___ is a ___ male with PMH of 
+hypertension, CHF who initially presented to ___ with ___ 
+weeks of weakness and jaundice, found to have cirrhosis, portal 
+venous thrombosis, significant hyperkalemia, and ___. 
+.
+>>  BRIEF HOSPITAL COURSE:
+Mr ___ presented initially with hyperkalemia, weakness and an 
+acute kidney injury. He was hyperkalemia was temporized in the 
+ED via standard medical interventions, and he was then admitted 
+to the ICU. His hyperkalemia was treated with kayexalate and 
+furosemide; however, he remained persistently hyperkalemic 
+thoughout his hospital course (without substantive EKG changes). 
+An abdominal ultrasound was performed given elevation in his 
+transaminases on admission, and the U/S identified a possible 
+portal vein thrombosis. Infectious work-up, including diagnostic 
+paracentesis, did not identify a source of patient's symptoms. 
+The increase in transaminases on admission was felt to be due to 
+underlying NASH-related cirrhosis. Viral seroligies were notable 
+for a cleared hepatitis B infection, but otherwise were 
+unrevealing for a cause of elevated transaminases. The 
+Hepatology service was consult for aid in management. Mr. ___ 
+early hospital course was also complicated by atrial flutter 
+with rapid ventricular response, and this was initially 
+controlled with a diltiazem drip and metoprolol, but refractory 
+RVR required him to be given an amiodarone load.
+.
+On ___, Mr. ___ an abrupt clinical decline. He 
+initially had abdominal pain with tense abdomen, but CT of the 
+abdomen and pelvis did not reveal acute causative findgs. He 
+became persistently acidemic and hyperkalemic. He developed 
+marked respiratory distress from his underlying acidemia and was 
+intubated for increased work of breathing, multiorgan system 
+failure, and his overall acutely deteriorating clinical status. 
+He had initially received bicarbonate for correction of severe 
+academia, in concert with the Renal service's recommendations. 
+At the time of his precipitous clinical deterioration on ___, 
+his labratory values were notable for an extreme rise in 
+transaminases from the low 300s on admissions to the 6000s in 
+less than 24 hours. Phosphate and uric acid were noted to be 
+markedly elevated and in conjunction with refractory 
+hyperkalemia and worsening oliguria, so a HD line was emergently 
+placed and he was started on CRRT. Chest CT demonstrated 
+bibasilar consolidations (likely atelectasis) and a dense right 
+upper lobe ___ lung mass. Given the constellation of this 
+new lung mass, diffuse lymphadenopathy,and clinical / laboratory 
+findings consistent with tumor lysis syndrome, the Heme/Onc 
+service was consulted for concern of tumor lysis syndrome. 
+
+In addition, on the evening of ___ Mr ___ had several episodes 
+of bradycardia. Nodal-blocking agents were stopped (they had 
+been provided to this point for the aforementioned difficult to 
+control A flutter with RVR), but his bradycardia persisted, 
+briefly requiring transcutaneous pacing before being maintained 
+on a dopamine drip. His bradycardia and hypotension became 
+increasingly worse, eventually requiring four pressor agents for 
+support. A transvenous pacing wire was placed and with this 
+suport, pressors were initially able to be somewhat and 
+transiently down-titrted.
+.
+However, in the AM of ___, Mr ___ began experiencing 
+___ increasing pressor requirements once again. He 
+began to have an increasing oxygen demand. Labratory values 
+continued to worsen. Discussions with the family were held and 
+given his extremely poor prognosis, the medical team deemed 
+resucitative efforts (such as chest compressions in the event of 
+cardiac arrest) to be not clinically indicated or medically 
+appropriate. Several of Mr ___ remote family members were 
+called in and were able to be with him. Mr ___ developed asystole 
+without pacer capture mid-day on ___ and passed peacefully with 
+family present at bedside. Autopsy was offered by medical staff 
+and family declined; they did, however, express gratitude for 
+the care he had received during his stay at ___ and all of 
+their questions about his clinical circumstances were answered. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. AmLactin (ammonium lactate;<br>ammonium,pot.and sodium 
+lactat) 12 % topical DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Atenolol 50 mg PO DAILY 
+4. Byetta (exenatide) 5mcg/0.02mL  dose subcutaneous uncertain 
+5. Clobetasol Propionate 0.05% Ointment 1 Appl TP BID 
+6. ClonazePAM 2 mg PO QHS:PRN anxiety 
+7. Fenofibrate 200 mg PO DAILY 
+8. HumaLOG (insulin lispro) 100 unit/mL subcutaneous unknown 
+9. Lisinopril 20 mg PO DAILY 
+10. Loratadine 10 mg PO DAILY 
+11. Omeprazole 20 mg PO DAILY 
+12. Sertraline 50 mg PO DAILY 
+13. Simvastatin 40 mg PO DAILY 
+14. Terazosin 1 mg PO DAILY 
+15. Triamcinolone Acetonide 0.1% Cream 1 Appl TP DAILY 
+16. Amiloride HCl 5 mg PO DAILY 
+17. coal tar 2.5 % topical for ___ 
+
+ 
+Discharge Medications:
+N/A
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+N/A
+ 
+Discharge Condition:
+Patient deceased
+ 
+Discharge Instructions:
+N/A
+ 
+Followup Instructions:
+___

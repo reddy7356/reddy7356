@@ -1,0 +1,429 @@
+===== DISCHARGE NOTE =====
+note_id=11143810-DS-3 | hadm_id=28027018
+
+ 
+Name:  ___         ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abd pain
+ 
+Major Surgical or Invasive Procedure:
+RIJ CVL ___
+Intubated for ___ procedure ___
+Extubated post ___ procedure ___
+___ perc chole drain & PTBD drain ___
+ 
+History of Present Illness:
+___ yo M with a history of RNY gastric bypass who is transferred 
+for management of choledocholithiasis and cholecystitis. Pt 
+developed RUQ abdominal pain radiating in a band-like fashion to 
+the back 3 days ago. This pain persisted and worsened over that 
+period of time. It also was particularly worsened with meals, 
+particularly fatty foods. He had associated nausea but no 
+vomiting. No fevers or chills.  He presented to ___ 
+___ where he had a WBC 13, bilirubin of 7. Ultrasound 
+showed cholecystitis and CBD dilatation to 14 mm with likely 
+choledocholithiasis. Pt given 1L NS, unasyn, and transferred to
+___. 
+
+At ___, pt with low grade temp to 100, tachycardia to 118, BP 
+118/63. Lipase was 824. He was given Zosyn and pain meds and 
+admitted for management of likely choledocholithiasis.  
+
+On evaluation on the floor, pt appears to be comfortable but 
+does report some pain in the RUQ wrapping in a bandlike fashion 
+to the back. 
+
+ROS: A 10-point review of systems was negative except as stated
+in HPI.
+
+ 
+Past Medical History:
+# Obesity s/p RNYGB ___
+# HTN/HLD
+# CAD 
+ - LHC (___): completely normal LM, LAD, Cx. 100% occlusion of 
+RCA with Cx to R collaterals. no history of stents/CABG
+ - mod Aortic stenosis
+# GERD
+# s/p appendectomy  
+
+ 
+Social History:
+___
+Family History:
+No family history of biliary disease or malignancy.
+ 
+Physical Exam:
+VS - ___ ___ Temp: 100.0 PO BP: 129/83 HR: 114 RR: 18 O2
+sat: 92% O2 delivery: RA 
+GEN - NAD
+HEENT - NCAT, scleral icterus
+NECK - supple
+CV - tachy, regular, no r/m/g
+RESP - clear b/l
+ABD - soft, tender in RUQ
+EXT - no edema
+SKIN - no rashes
+NEURO - alert and oriented x 3
+PSYCH - calm
+
+DISCHARGE EXAM:
+Vital Signs: 97.7  111/62 85 18 99% RA   I/O 1100/4215 -Total 
+output through chole bag 790 cc/24 hr
+glucose: 
+. 
+GEN: NAD, well-appearing, mod obese, pleasant, interactive
+EYES: PERRL, EOMI, conjunctiva clear, anicteric
+ENT: moist mucous membranes, no exudates 
+NECK: supple 
+CV: RRR s1s2 nl, no m/r/g
+PULM: CTA, no r/r/w 
+GI: normal BS, NT/ND, no HSM, 2 drain in place, c/d/i 
+EXT: warm, no c/c, 3+ edema up to knees bilaterally
+SKIN: no rashes 
+NEURO: alert, oriented x 3, answers ? appropriately, follows 
+commands, non focal
+PSYCH: appropriate
+ACCESS: PIV
+FOLEY: absent
+ 
+Pertinent Results:
+___ 09:45PM 
+WBC: 8.5 RBC: 4.42* Hgb: 12.5* Hct: 37.8*
+MCV: 86 MCH: 28.3 MCHC: 33.1 RDW: 15.0 RDWSD: 47.2* Plt Ct: 200 
+___: 12.8* PTT: 27.9 ___: 1.2* 
+Glucose: 117* UreaN: 13 Creat: 0.6 Na: 136 K: 3.1* Cl: 95* HCO3: 
+21* AnGap: 20* 
+ALT: 70* AST: 76* AlkPhos: 518* TotBili: 6.7* DirBili: 6.0* 
+IndBili: 0.7 
+Lipase: 824* Albumin: 3.3* Calcium: 8.5 Phos: 3.7 Mg: 1.6 
+
+___ Blood cx ___ bottles positive):  
+                            **FINAL REPORT ___
+   Blood Culture, Routine (Final ___: 
+      ESCHERICHIA COLI. 
+         Identification and susceptibility testing performed on 
+culture # 
+         ___ (___). 
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+DISCHARGE LABS:
+
+___ 07:24AM BLOOD WBC-7.8 RBC-4.42* Hgb-12.3* Hct-37.3* 
+MCV-84 MCH-27.8 MCHC-33.0 RDW-15.8* RDWSD-48.3* Plt ___
+Glucose-103* UreaN-9 Creat-0.6 Na-139 K-3.7 Cl-100 HCO3-26 
+AnGap-13
+ALT-31 AST-36 AlkPhos-250* TotBili-2.5*
+
+# RUQ u/s (___):
+1. Abnormal biliary ductal dilation of uncertain etiology. This
+may be due to distal obstructive lesion. 
+2. Gallbladder sludge, gallstones, gallbladder wall thickening, 
+and gallbladder distention. Tenderness over the gallbladder. 
+These findings may reflect acute cholecystitis. 
+3. Splenomegaly 
+
+# Central Line CXR (___): FINDINGS:  Right internal jugular 
+central venous catheter ends at the mid SVC. Moderately enlarged 
+cardiac silhouette.  There is calcification of the aortic knob 
+with tortuosity of the descending thoracic aorta.  There is mild 
+interstitial edema.  Trace bilateral pleural effusions.  No 
+pneumothorax is seen. IMPRESSION: 1. Right internal jugular 
+central venous catheter ends at the mid SVC.  No 
+pneumothorax is seen. 2. Mild interstitial edema with trace 
+bilateral effusions. 
+
+# Cholangiogram ___:  FINDINGS: 1. Transabdominal ultrasound of 
+the liver and gallbladder demonstrates no intrahepatic biliary 
+ductal dilatation.  Evaluation of the gallbladder demonstrates a 
+markedly thickened gallbladder wall, minimal pericholecystic 
+fluid and significant stones, sludge and debris within the 
+gallbladder. 2. Percutaneous transhepatic cholangiogram via 
+access to the right posterior biliary system demonstrates a 
+patent common bile duct and spontaneous flow of contrast through 
+the ampulla into the small bowel.  Mild ampullary stenosis is 
+noted.  Additionally, cholangiogram demonstrates a patent cystic 
+duct. No stones are identified within the common bile duct or 
+intrahepatic bile ducts.  CBD filling defects are attributed to 
+air bubbles. 3. Appropriately placed 10 ___, percutaneous 
+transhepatic biliary catheter via access within the right 
+anterior bile ducts. 4. Appropriately placed 8 ___, 
+percutaneous cholecystostomy tube terminating within the 
+gallbladder. 
+IMPRESSION: 1. No evidence of significant intrahepatic biliary 
+ductal dilatation however the common bile duct shows mild to 
+moderate dilatation and there is evidence of at least mild 
+ampullary stenosis. No stones are identified within the common 
+bile duct or intrahepatic bile ducts. 
+2. Markedly dilated, thick walled gallbladder containing stones
+and sludge.  Minimal pericholecystic fluid. These ultrasound 
+findings are consistent with cholecystitis however fluoroscopic 
+findings demonstrate a patent cystic duct.  This constellation 
+of findings suggests chronic cholecystitis. 3. Appropriately 
+placed 10 ___ percutaneous transhepatic biliary catheter via 
+the right-sided biliary ducts and appropriately placed 8 ___ 
+percutaneous cholecystostomy catheter. Both catheters are 
+attached to bag.  
+
+# Cholangiogram, PTBD Exchange (___): FINDINGS: 1. 
+Appropriately positioned pre-existing 10 ___ right 
+percutaneous transhepatic biliary drainage catheter.  
+Appropriately positioned 8 ___ percutaneous cholecystostomy 
+tube. 2. Cholangiogram showing distal CBD stricture, with 
+associated severe common bile duct dilatation and reflux of 
+contrast into the cystic duct and eventually the gallbladder.  
+There is also associated moderate intrahepatic biliary 
+dilatation. 3. Successful 10 mm balloon cholangioplasty of the 
+distal CBD stricture, with minimal improvement in antegrade flow 
+of contrast through the biliary system. 4. Successful exchange 
+of the pre-existing 10 ___ right percutaneous transhepatic 
+biliary drainage catheter with a new 12 ___ internal external 
+right percutaneous transhepatic biliary drainage catheter.   
+IMPRESSION:  1.  Technically successful 10 mm balloon cholangio 
+plasty of the distal CBD stricture, with minimal improvement in 
+antegrade flow. 2.  Successful exchange of existing percutaneous 
+transhepatic biliary drainage catheter with a new right 12 
+___ internal external percutaneous transhepatic biliary 
+drainage catheter.  This drainage catheter was capped. 3.  The 
+percutaneous cholecystostomy tube was left to bag. 
+  
+
+ 
+Brief Hospital Course:
+HOSPITAL COURSE:
+
+Mr. ___ is a pleasant ___ yo M with prior RNY gastric bypass who 
+was admitted with abd pain with signs/symptoms most c/w 
+cholecystitis with associated choledocholithiasis and 
+cholangitis. He also presented with elevated lipase c/w possible 
+pancreatitis. 
+
+# Septic shock 
+# Cholangitis
+# Cholecystitis 
+# EColi bacteremia  
+Initially presented to ___ with RUQ pain, nausea, 
+vomiting, with RUQ u/s demonstrating abnormal dilation of CBD 
+with gall bladder wall thickening and distention c/f 
+cholecystitis and choledocholithiasis with c/f cholangitis.  He 
+was transferred here to the inpatient floor here at ___ for 
+further mgmt.  His admit labs were notable for mild leukocytosis 
+(WBC 10) and transaminitis: ALT 70 AST 76 AP 518 TBili 6.7 
+Direct 6.0.  In addition, OSH Blood cultures had grew GNRs from 
+BCx obtained ___. 
+   However, he quickly developed hypotension on the floor (night 
+of ___ and was transferred to the MICU. He was temporarily 
+placed on Levophed and given extensive fluid resuscitation along 
+with IV abx (zosyn).  Given the concern for cholangitis, ___ and 
+ERCP teams were consulted.  Due to the hemodynamic instability 
+and the likelihood that ERCP procedure would be complicated and 
+prolonged (pt is s/p Roux-En-Y), the decision was to proceed 
+directly for ___ procedures of 2 procedures: (1) perc chole drain 
+for the cholecystitis, which returned of purulent fluid and (2) 
+PTBD to drain bile from biliary tree through ampulla 
+(hepatojejunal anastomosis).  The PTBD did not reveal any stones 
+in biliary tree.  The drains were placed under temporary 
+intubation - he was extubated after the procedure was done. 
+Levophed was weaned off on ___ and he was continued on zosyn 
+(___).  he was transferred to the inpatient floor on ___. 
+    On the floor, he was treated with IV zosyn - and then 
+transitioned to oral cipro/flagyl on ___ when it was evidently 
+clear that he was clinically stable and the GNR growing from the 
+blood cxs revealed pan-sensitive Ecoli.  The PTBD drain was 
+clamped and the Perc chole tube was kept open to the bag.  He 
+did well on this regimen - and underwent another cholangiogram 
+and PTBD study on ___ to re-eval the CBD anatomy.  The study 
+revealed, again, no stones, but a stricture at the 
+biliary-intestinal anastomotic site.  This area was ballooned 
+and a larger PTBD drain was put in place.  The LFTs have 
+continued to steadily decrease during the course of this 
+hospitalization (with final LFTs listed above).  
+    Throughout the latter hospital stay, Mr. ___ had no 
+abdominal pain; was able to tolerate regular diet; and good PO 
+intake.  His vitals were stable and he did well with the oral 
+antibiotics.
+    He and Ms. ___ expressed desire to drive home and get 
+follow up at ___ where their doctors ___.  ___ was 
+arranged for their temporary stay in ___, however, due 
+to a local tornado, that plan was changed and the Mr and Mrs 
+___ plan on driving down to ___ through the next week.  
+Drain care training was given and extra supplies given.  
+Ultimately, Mr. ___ will need cholecystectomy.  He should 
+follow with ___, surgery and his PCP.  Also prior to the surgery, 
+cardiology eval was recommended for pre-op clearance. 
+     
+
+# Type 2 NSTEMI
+# CAD e/o prior inferior infarct on EKG
+# Peripheral edema 
+Mr. ___ has history of 1v CAD - s/p LHC ___: clean LM/LAD, Cx, 
+100% RCA occlusion with L->R collaterals from L Cx. Patient 
+reported chest discomfort on arrival to ICU but this resolved 
+with morphine. EKG without acute changes from OSH EKG but noted 
+to have inferior q waves c/f old infarct. Currently chest pain 
+free, troponin peaked to 0.30 on ___ and has downtrended since 
+then. He was restarted on ASA and statin. 
+  The suspicion for Type I NSTEMI was low. However, given the 
+NSTEMI, he was informed that it would be best if he would follow 
+up with his cardiologist - particularly pre-operatively - for 
+concern for TTE and possibly stress test.  On transfer to the 
+floor, Mr. ___ was clearly edematous with ___ PE up to 
+knee/thigh bilaterally.  He was given IV Lasix 40mg daily - with 
+brisk response.  On the floor, he had net 13L. His d/c weight 
+was 233.8 lbs. 
+  
+# Pancreatitis 
+Likely in setting of gallstone disease, lipase downtrended. His 
+diet was advanced and he remained pain free.
+
+#Hypoalbuin
+s/p Gastric bypass surgery and may be related to malabsorption 
+though has not had significant recent weight loss. Nutrition was 
+consulted.
+
+# Metabolic acidosis
+Secondary to lactic acidosis iso septic shock. resolved.
+
+=================  
+CHRONIC ISSUES  
+=================  
+
+# HTN
+Held home Triamterene-HCTZ during the stay and will continue to 
+be held given borderline soft BP (SBP 100-110). 
+
+# HLD
+Continued statin as above  
+ 
+# FEN: IVF, replete electrolytes, regular 
+# Prophylaxis: Subcutaneous heparin
+# Access: PIV
+# Communication: HCP Wife ___ ___ 
+ Brother in law ___ MD ___ 
+# Code: Full, confirmed
+# Disposition: Home 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 10 mg PO QPM 
+2. Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY 
+3. Viagra (sildenafil) 100 mg oral DAILY 
+4. Vitamin B Complex 1 CAP PO DAILY 
+5. Multivitamins W/minerals 1 TAB PO DAILY 
+6. Aspirin 81 mg PO DAILY 
+7. Esomeprazole 40 mg Other DAILY 
+8. phentermine 37.5 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Cetirizine 10 mg PO DAILY 
+RX *cetirizine 10 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0 
+2.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth every twelve 
+(12) hours Disp #*28 Tablet Refills:*0 
+3.  Furosemide 40 mg PO DAILY 
+RX *furosemide 40 mg 1 tablet(s) by mouth Daily Disp #*14 Tablet 
+Refills:*0 
+4.  MetroNIDAZOLE 500 mg PO Q8H 
+RX *metronidazole [Flagyl] 500 mg 1 tablet(s) by mouth every 
+eight (8) hours Disp #*42 Tablet Refills:*0 
+5.  Aspirin 81 mg PO DAILY  
+6.  Atorvastatin 10 mg PO QPM  
+7.  Esomeprazole 40 mg Other DAILY  
+8.  Multivitamins W/minerals 1 TAB PO DAILY  
+9.  Vitamin B Complex 1 CAP PO DAILY  
+10. HELD- phentermine 37.5 mg oral DAILY  This medication was 
+held. Do not restart phentermine until seen by your PCP.
+11. HELD- Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY  This 
+medication was held. Do not restart Triamterene-HCTZ (37.5/25) 
+until you have been seen by your primary care doctor.  Your 
+blood pressure has been low and thus would be best to hold off 
+taking this until BP is increased.
+12. HELD- Viagra (sildenafil) 100 mg oral DAILY  This medication 
+was held. Do not restart Viagra until seen by your PCP.
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Cholangitis
+Cholecystitis
+Choledocholithiasis
+EColi bacteremia
+Septic Shock
+Non-ST elevation myocardial infarction
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,
+   
+    It was a real pleasure looking after you.  As you know, you 
+were admitted to our hospital for infection of your gallbladder 
+and bile ducts.  You were found to be "septic" - which occurred 
+as a result of disseminated infection with bacteria (E.Coli) 
+transiently entering into your blood.  You were temporarily 
+housed in our intensive care unit - to ensure you were getting 
+aggressive care of your low blood pressure (which occurs as a 
+result of the sepsis).
+
+   To address the infection, you were given antibiotics and also 
+underwent procedures called cholecystostomy (drain into gall 
+bladder) and PTBD (drain through the liver, the bile duct and 
+into the small intestines).  These drains are needed to help 
+facilitate adequate flow of the biliary system and reduce the 
+burden of infection.  The PTBD drain should be fully clamped 
+(closed), while the cholecystostomy tube (the ony leading to the 
+gallbladder) should be open and draining into the bag.  Please 
+follow the instructions given to you regarding the drain care. 
+
+   You should continue with your antibiotics (ciprofloxacin and 
+flagyl) as instructed.  Furthermore, you should continue to take 
+the Lasix - a diuretic to help rid of the extra, retained fluid. 
+ Ultimately, it would be important to follow up with your 
+primary care doctor at home - and also interventional 
+radiologists (to help manage the drains) and the general 
+surgeons (to plan for gallbladder removal).  Seeing your 
+cardiologist would also be helpful - to help ensure your heart 
+condition is optimized in preparation of the anticipated 
+gallbladder surgery. 
+
+   We wish you safe travels and good health!
+
+Your ___ Team 
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,890 @@
+===== DISCHARGE NOTE =====
+note_id=10561185-DS-9 | hadm_id=22508340
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+PCP: none
+
+CC: shortness of breath; sent from PCP office for HCT of 14
+ 
+Major Surgical or Invasive Procedure:
+EGD
+colonoscopy
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ F with no notable medical history. she last 
+saw a physician ___ ___.
+
+She dates all of her symptoms to the death of her mother 
+approximately ___ years ago. Since that time, she has noted 
+progressive dysponea on exertion where she is no longer able to 
+complete her daily activities. For example, she was able to 
+attend her ___ birthday party in ___ but could not dance. On 
+Labor Day of this year she made it to the beach but could not 
+carry heavy objects without difficulty, and she currently cannot 
+walk across the room without dyspnea.
+
+Over the last 6 months she has also noted a chronic dry mouth, 
+occasional chest pain (substernal, not always with exertion), a 
+chronic cough, occasional wheezes, an intolerance to heat, and 
+___ pillow orthopnea. She has also battled with depression over 
+the past ___ years but no current symptoms. No fevers, chills, 
+night sweats, loss of appetite, abdominal pain, blood in stool, 
+changes in bowel habits, vaginal discharge (menopause at age 
+___, rashes, or joint symptoms. She takes no medications, herbs, 
+or supplements.
+
+Her symptoms seemed to be worse over the last 2 weeks. In 
+addition, she noted puffiness of her eyes, hands, and legs. She 
+thinks she put on 15lbs in 2 weeks.
+
+For the above symptoms she presented to Urgent Care. Her initial 
+labs returned a low HCT and she was referred to the ED.
+
+Vitals on arrival to ___ ED: T 98.7, P 83, BP 170/100, 95% on 
+RA. Her evaluation in the ED was notable for a HCT of 15, guaiac 
+negative stool, and a CXR with a reported LLL infiltrate. In the 
+ED she received levofloxacin and 1 unit of pRBCs.
+
+ROS: included in HPI. Other systems reviewed in detail and 
+otherwise negative.
+ 
+Past Medical History:
+None. She had a home birth for her 1 child.
+ 
+Social History:
+___
+Family History:
+her father died of an MI and her mother died of a stroke.
+ 
+Physical Exam:
+Vital Signs: T 98.6, P 62, BP 148/90, 96% on RA.
+
+Physical examination:
+- Gen: Well-appearing in NAD.
+- HEENT: Conj/sclera/lids normal, PERRL, EOM full, and no 
+nystagmus. Hearing grossly normal bilaterally. Sinuses 
+non-tender. Nasal mucosa and turbinates normal. Oropharynx clear 
+w/out lesions.
+- Neck: Supple.
+- Chest: Normal respirations and breathing comfortably on room 
+air. Lungs clear to auscultation bilaterally.
+- CV: PMI non-palable. Regular rhythm. Normal S1, S2. II/VI HSm 
+at base. Cannot visualize JVP. 
+- Abdomen: Obese. Normal bowel sounds. Nontender. Unable to 
+appreciate any organomegaly.
+- Extremities: ___ ankle edema to above shins.
+- MSK: Joints with no redness, swelling, warmth, tenderness. She 
+has some pain when moving her neck to the left.
+- Skin: No lesions, bruises, rashes.
+- Neuro: Alert, oriented x3. Good fund of knowledge. Able to 
+discuss current events and memory is intact. CN ___ intact. 
+Speech and language are normal. 
+- Psych: Appearance and affect all normal. Her behavior is 
+normal as well other than refusing to shake hands with me as she 
+is a self-described "germ-a-phobe."
+ 
+Pertinent Results:
+Pre-Admission Laboratory Studies:
+ - ___ 05:20PM   UREA N-12 CREAT-0.7 SODIUM-140 
+POTASSIUM-4.3 CHLORIDE-109* TOTAL CO2-25 ANION GAP-10 
+ALT(SGPT)-9 TOT BILI-0.9  TSH-2.4
+ - ___ 05:20PM   CHOLEST-94 TRIGLYCER-47 HDL CHOL-44 
+CHOL/HDL-2.1 LDL(CALC)-41
+ - ___ 05:20PM   %HbA1c-4.8 eAG-91
+ - WBC-5.5 RBC-2.46*# HGB-3.3*# HCT-14.2*# MCV-58*# MCH-13.5*# 
+MCHC-23.4*# RDW-21.4* PLT COUNT-162
+
+Admission Laboratory Studies:
+ - ___ 10:30PM   GLUCOSE-99 UREA N-15 CREAT-0.7 SODIUM-139 
+POTASSIUM-4.2 CHLORIDE-107 TOTAL CO2-22 ANION GAP-14 
+ALT(SGPT)-13 AST(SGOT)-20 ALK PHOS-109* cTropnT-<0.01
+ - ___ 10:30PM   WBC-6.4 (NEUTS-71.6* ___ MONOS-4.5 
+EOS-1.3 BASOS-1.1) RBC-2.55* HGB-3.6* HCT-15.0* MCV-59* 
+MCH-14.0* MCHC-24.0* RDW-21.8* PLT COUNT-208
+ - ___ 10:30PM   ___ PTT-25.2 ___
+ - ___ 01:00AM URINE  COLOR-Yellow APPEAR-SlHazy SP 
+___ BLOOD-TR NITRITE-NEG PROTEIN-30 GLUCOSE-NEG 
+KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-MOD ___ 
+WBC->50 BACTERIA-MOD YEAST-NONE ___ TRANS ___
+.
+___, titer 1:320
+.
+ECG: SR at 91 with normal axis and intervals. No pathologic Q 
+waves. No ECG available for comparison.
+.
+ECHO ___ left atrium is mildly dilated. Left ventricular 
+wall thickness, cavity size, and global systolic function are 
+normal (LVEF>55%). Due to suboptimal technical quality, a focal 
+wall motion abnormality cannot be fully excluded. The estimated 
+cardiac index is normal (>=2.5L/min/m2). Tissue Doppler imaging 
+suggests an increased left ventricular filling pressure 
+(PCWP>18mmHg). The right ventricular cavity is dilated with mild 
+global free wall hypokinesis. The aortic valve leaflets are 
+mildly thickened (?#). There is no aortic valve stenosis. No 
+aortic regurgitation is seen. The mitral valve leaflets are 
+mildly thickened. Physiologic mitral regurgitation is seen 
+(within normal limits). There is moderate to severe pulmonary 
+artery systolic hypertension. There is no pericardial effusion. 
+.
+IMPRESSION: Suboptimal image quality. Moderate to severe 
+pulmonary hypertension. Right ventricular dilation and mild 
+dysfunction. Preserved global left ventricular systolic 
+function. Elevated estimated left ventricular filling pressures.
+.
+cxr-IMPRESSION:   
+Hiatal hernia with possible right hilar lymphadenopathy. This 
+can be compared to prior radiographs, if available, otherwise a 
+chest CT may be obtained for further evaluation 
+.
+ct chest-IMPRESSION: 
+1. No perihilar mass or lymphadenopathy. The radiographic 
+appearance of the 
+hila is due to the configuration of otherwise normal-appearing 
+pulmonary 
+vessels. 
+2. Large hiatal hernia with very tortuous aorta. 
+3. Mild small airways disease. 
+.
+CT neck-FINDINGS: No previous images. C7 is not optimally 
+visualized on the views 
+presented. There is some anterolisthesis of C6 with respect to 
+C7.  
+Intervertebral disc space narrowing is seen at C5-C6 and to a 
+lesser extent, 
+and C6-C7, consistent with degenerative changes at these levels. 
+No evidence 
+of prevertebral soft tissue swelling. 
+.
+shoulder xr-IMPRESSION: 
+1. No fracture or dislocation. 
+2. Bilateral degenerative changes in the acromioclavicular 
+joint, and mild to 
+moderate degenerative changes in the left glenohumeral joint. 
+3. Large hiatal hernia. 
+.
+EGD-Impression: Irregular Z-line with a slight tongue of salmon 
+colored mucosa. Tortuous esophagus noted. (biopsy)
+Gastric antral vascular ectasia noted without active bleeding. 
+(thermal therapy)
+Normal mucosa in the duodenum (biopsy)
+Otherwise normal EGD to third part of the duodenum 
+Recommendations: Potential bleeding source from GAVE noted. S/p 
+APC. Biopsies performed of duodenum. Please awaiy biopsy 
+results. Please take Protonix BID, carafate slurry 1gram BID. 
+Outpatient EGD in ___ weeks for repeat APC with anesthesia. 
+Continue with colonoscopy. 
+Additional notes: The attending was present for the entire 
+procedure. 
+.
+Colonoscopy-Recommendations: Follow-up biopsy results
+Repeat colonoscopy for colon cancer screening in ___ years given 
+fair bowel preparation 
+Additional notes: The procedure was performed by the fellow and 
+the attending. The attending was present for the entire 
+procedure. The patient's reconciled home medication list is 
+appended to this report. The efficiency of colonoscopy in 
+detecting lesions was discussed with the patient and it was 
+pointed out that a small percentage of polyps and other lesions 
+including colon cancer can be missed with the test 
+.
+
+ 
+Brief Hospital Course:
+Assessment/Plan:  
+___ year old woman admitted with reports of DOE, leg swelling, 
+found to have a HCT of 14 with iron deficiency anemia. 
+(transfused 4units prbcs, guaiac negative, EGD showing GAVE. 
+ECHO showing severe Pulm HTN with RV dilation.  
+.  
+# Iron deficiency anemia/GAVE: Ferritin 1.7, iron 8. REtic 3%. 
+Hemolysis labs were negative, TTG negative. Pt was given 4 units 
+of PRBCs. EGD found GAVE and pt was treated with argon beam and 
+started on BID PPI and sucralfate. Pt's HCT has remained stable. 
+Last HCT 27.6 and there were no signs of active bleeding. Pt was 
+guaiac negative. Pt was started on PO iron. Discussed diagnosis 
+and treatment plan with the patient. She will have GI follow up 
+in 2 weeks time with repeat EGD in ___ weeks with repeat Argon 
+beam. A benign appearing polyp was found on colonoscopy and 
+biopsy was taken. Pt will follow up results at ___. 
+Malignancy work up negative thus far. Rheumatology w/u showed 
+___ 1:320 and rheumatology was consulted for possible 
+rheumatologic condition such as system sclerosis that could 
+cause GAVE, Pulm HTN, and arthralgia. See below. Pt should have 
+serial HCt's monitored in the outpatient setting.
+.  
+# Pulmonary hypertension: Cardiology was consulted and feels 
+that that pulm htn is likely secondary to chronic mild hypoxia 
+from anemia and sleep apnea. Cardiology suggested a repeat echo 
+in a few weeks time to eval for changes after treatment for 
+anemia and possible sleep apnea (with sleep study and possible 
+bypap). If findings are persistent pt could have a cardiology 
+follow up arranged. Her Hbaic, lipid panel, LFTs, Rfactor were 
+all negative. Pt did not require any supplement oxygen. Pt 
+should have a sleep study arranged as an outpatient.
+.  
+# acute Congestive systolic Heart Failure, right sided: Pt 
+presented with volume overload and peripheral edema (albumin, 
+TSH, Lfts and renal fxn were normal). Echo showed R.sided heart 
+failure/pulm HTn. This was thought to be related to pulmonary 
+HTN as above. Pt was given IV lasix with good effect. Weight 
+dropped 6lbs and her volume status has improved. Pt was not 
+diuresed in last 2 days prior to discharge. She was not 
+discharged on lasix. She can continue to have her volume status 
+monitored in the outpatient setting.  She was placed on a low 
+sodium diet and asked to continue this in the outpatient 
+setting. Nutrition was consulted for education. 
+.  
+# auto immune process?/Mild arthralgia and stiffness in the neck 
+and shoulders. Plain films ordered and show degenerative 
+changes. CT of the neck shows degenerative change. Pt also 
+reported "Creaky" hips and knees. This was all thought to be 
+related to OA. RF was negative, CK normal, ESR was normal. 
+However, ___ returned positive with titer 1:320 and rheumatology 
+was consulted for further eval as above in the event that pt's 
+current presentation could be related to an autoimmune process 
+(pulm HTN, Gave, arthralgias). Pt was given tylenol for pain 
+control. She will have the remained of her rheumatologic panel 
+followed up as an outpatient. 
+.  
+# Depression: Pt reported significant depression over last ___ 
+years after death of her mother. She denies SI. Pt also had 
+difficulty with anxiety and insomnia this admission. SW was 
+consulted and followed the patient. Discussed treatment options 
+with the patient including therapy and medications. Pt declines 
+medications at this time. She would like to continue social work 
+and therapy in the outpatient setting.
+.  
+# 50 lb weight loss-patient reported that this was intentional 
+over ___ years. CXR, Chest CT negative for malignancy. Abd and 
+Pelvis CT scan were negative for malignancy as was ___. Pt 
+urged and encouraged to continue age appropriate cancer 
+screening such as mammogram, pap smear and pelvic exam in the 
+outpatient setting. She was started on vitamin D and Calcium. 
+.
+#hiatial hernia-Pt noticed the have this on imaging. She does 
+not have symptoms of GERD or any abominal pain or other 
+symptoms. Imaging did not show incarceration. Pt will take a PPI 
+for the above. She can continue to follow up as an outpatient as 
+needed or if symptoms develop.
+.  
+FEN: low sodium, heart healthy. 
+.  
+ 
+Medications on Admission:
+She takes no medications, herbs, or supplements.
+ 
+Discharge Medications:
+1. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO twice a day.
+Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+2. sucralfate 1 gram Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+3. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Calcium 500 With D 500 mg(1,250mg) -400 unit Tablet Sig: One 
+(1) Tablet PO twice a day: do not take at the same time as iron 
+supplement.
+Disp:*60 Tablet(s)* Refills:*2*
+5. Outpatient Physical Therapy
+Range of motion and strengthening of neck, shoulders, knees, 
+hips. 
+6. Outpatient Lab Work
+Please have your blood count checked on ___ with your 
+PCP. Dr. ___. Phone ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+iron deficiency anemia
+pulmonary hypertension
+acute R.sided systolic heart failure
+weight loss
+GAVE (gastic antral vascular ectasia)
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with reports of shortness of breath, leg 
+swelling and weight loss. 
+1.You were also found to have a severe anemia iron deficiency 
+anemia that was treated with blood transfusions. This likely 
+explained your feelings of tiredness and shortness of breath 
+with activity. You were evaluated by the gastroenterology 
+service and had an endoscopy that shows you have abnormal blood 
+vessels in your stomach (GAVE). You had a procedure to attempt 
+and correct these blood vessels. This is likely the cause of 
+your anemia. You were started on a medication to lower stomach 
+acid (omeprazole) to take twice a day and a another 
+medication-sulcralfate to protect your stomach.  You will need 
+to follow up with the gastroenterology service in 2 weeks. In 
+addition, you will need another endoscopy in ___ weeks for 
+repeat treatment. You colonoscopy showed a benign appearing 
+polyp. A biopsy was taken the results are still pending. You 
+should follow up these results at your gastroenterology 
+appointment. You will need to have another colonoscopy in ___ 
+years' time.
+.
+2.You were also found to have high blood pressure in the blood 
+vessels of your lungs and evidence of right sided heart failure. 
+For this, you were evaluated by the cardiology service and had a 
+cardiac echo. These findings were thought to be related to a 
+chronic state of low blood oxygen from your anemia and possibly 
+sleep apnea. 
+A) you will need to have a repeat echo in a few weeks time. This 
+can be arranged by your PCP. Depending on the results, you may 
+need a cardiology follow up.
+B) You will need to have a sleep study arranged to evaluate for 
+possible sleep apnea.
+.
+3.You should continue to work on your feelings of depression and 
+anxiety with your PCP and social workers after you leave the 
+hospital. You declined medication at this time. You may call 
+___ to set up an appointment with a social worker and 
+your PCP can help to arrange for further follow up if needed.
+.
+4)You should be sure to have a mammogram, pap smear and pelvic 
+exam for regular cancer screening. Your PCP can help to arrange 
+this appointments.
+.
+5) Rheumatology will follow up the rest of your labs. If 
+anything turns out positive, one of the rheumatologists will 
+call you to arrange for a follow up appointment.
+.
+6)Your CT scan of the abdomen and pelvis was negative except for 
+showing a large hiatial hernia. You are taking a medication for 
+stomach acid for this. You can further discuss this with your 
+PCP if needed or you develop symptoms.
+.
+7) You reported pain in your neck, shoulders, and knees. Your 
+imaging tests show evidence of osteoarthritis. You may take 
+tylenol for pain related to these joints and may pursue physical 
+therapy for strength training and increased mobility. You were 
+started on calcium and vitamin D for your bones.
+.
+Medication changes:
+1.omeprazole 20mg BID
+2.sucralfate 1gram BID
+3.iron 325mg daily
+4.calcium and vitamin D
+.
+Please follow up with the appointments below and take all of 
+your medications as prescribed.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10561185-DS-11 | hadm_id=27635306
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Synvisc
+ 
+Attending: ___.
+ 
+Chief Complaint:
+epigastric and chest pain
+ 
+Major Surgical or Invasive Procedure:
+___
+Laparoscopic repair of giant paraesophageal hernia with Hill 
+gastropexy
+
+ 
+History of Present Illness:
+Ms ___ is a ___ with Gastric marginal zone lymphoma who
+was evaluated for a giant paraesophageal hernia ___. She is
+now interested in pursuing surgical intervention. She reports
+progressively worsening post prandial epigastric to left upper
+quad abd pain since ___. She also has reflux and had several
+weeks of vomiting after eating due to a "heavy feeling in her
+stomach". She denies nausea, SOB, cough, heartburn, dysphagia.
+There has been a 24# intentional wt loss in 2 months. She has
+been managed by Dr ___ lymphoma has been managed by
+Dr ___. The pt completed whole gastric radiation and rituxan
+treatment. She presents now for surgical repair.
+
+ 
+Past Medical History:
+--GAVE (last endoscopy on ___, without active bleeding)
+--Iron deficiency anemia
+--Lower extremity edema (minimally response to 40 mg furosemide, 
+Echo in ___ with EF>75%)
+--Chronic neck pain extending to knees (began ___ ___ ago after 
+mother's death, currently managed with ___ x3 and tramadol but 
+not well controlled)
+--Sleep apnea
+--Pulmonary HTN (Echo in ___: Moderate to severe pulmonary 
+hypertension. Right ventricular dilation and mild dysfunction)
+--Depression following mother's death ___ ___ ago)
+
+ 
+Social History:
+___
+Family History:
+- Father deceased at ___, history of angina, obesity
+- Mother deceased ___, stroke at ___ & ___, dementia
+- Sister deceased at ___, glioblastoma
+- Two maternal aunts with colon cancer diagnosed in ___
+- Daughter with ulcerative colitis.
+
+ 
+Pertinent Results:
+___ (POD1)
+ 
+9.9 > 8.7/ 29.9 < ___   21
+----------------< 123
+5.0   28    0.8
+
+Calcium-8.6 Phos-5.4*# Mg-2.1
+
+IMAGING:
+
+CXR ___:
+  As compared to the previous radiograph, there is status post 
+hiatal 
+hernia repair.  At the location of the hernia, at the level of 
+the left lower  lung, there is an air-filled structure, might 
+represent a post-surgical air  inclusion.  However, the 
+structure might also present a small remnant hernia.  There 
+currently is no evidence for apical pneumothorax.  For further  
+evaluation, an upright frontal and lateral radiograph would be 
+helpful. 
+
+Esophogram ___: POD1
+IMPRESSION: 
+ No evidence of extraluminal contrast.  No obstruction although 
+barium flowed slowly through a very narrow channel with some 
+pooling and mild dilation of the distal esophagus. 
+
+  
+
+ 
+Brief Hospital Course:
+Please refer to the HPI for patient's initial presentation.
+
+Patient was admitted to the Thoracic Surgery Service on the day 
+of her scheduled surgery ___. She was taken to the 
+operation room and underwent a Laparoscopic reduction of hiatal 
+hernia, closure of diaphragm with pledgets, Hill gastropexy.
+Please refer to the operative note by Dr. ___ details of 
+the procedure. THe operation was without complications and 
+patient tolerated the procedure well. She was extubated 
+immediately after the procedure and was transferred to the 
+hospital in a stable condition. She was kept NPO overnight with 
+IVF. Her pain was well controlled and she remained 
+hemodynamically stable without any acute events. Patient refused 
+her foley catheter removal on the night of her surgery. On POD1, 
+patient underwent an esophogram which did not demonstrate any 
+leaks and she was advanced to a full liquid diet without any 
+difficulty. Patient had difficult pain control on POD1 and after 
+a trial of a few medications, she acheived good control with 
+tylenol, oxycodone and tramadol. Her foley was removed on POD1 
+without event. On POD2, patient was doing well with good pain 
+control, she was tolerating a full liquid diet without any GI 
+problems, she was ambulating without difficulty though she had 
+some difficulty getting in and out of bed. She stayed  in the 
+hospital for additional day to receive additional teaching by 
+physical therapy which assessed her as sufficiently independent 
+for discharge to home with some help required getting in and out 
+of bed. By POD3, patient was fully normalized for discharge to 
+home with minimal pain, adequate bladder and bowel function and 
+abmulating independently. She expressed comfort to continue her 
+recovery at home and was discharged on POD3 to her home with ___ 
+for home safety assessment and home aid. She is to follow up at 
+Thoracic clinic as detailed in her discharge instructions.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. methotrexate sodium 2.5 mg oral q week 
+2. Furosemide 40 mg PO DAILY:PRN lower ext edema 
+3. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+4. meloxicam 15 mg oral daily prn 
+5. Lansoprazole Oral Disintegrating Tab 15 mg PO BID 
+6. Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral BID 
+7. Vitamin B Complex 1 CAP PO BID 
+8. Cyanocobalamin 50 mcg PO DAILY 
+9. FoLIC Acid 1 mg PO DAILY 
+10. Ascorbic Acid ___ mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Ascorbic Acid ___ mg PO DAILY 
+2. Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral BID 
+3. Cyanocobalamin 50 mcg PO DAILY 
+4. FoLIC Acid 1 mg PO DAILY 
+5. Furosemide 40 mg PO DAILY:PRN lower ext edema 
+6. Lansoprazole Oral Disintegrating Tab 15 mg PO BID 
+RX *lansoprazole [Prevacid SoluTab] 15 mg 1 tablet,disintegrat, 
+delay rel(s) by mouth twice a day Disp #*50 Tablet Refills:*0
+7. Vitamin B Complex 1 CAP PO BID 
+8. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+9. Acetaminophen 650 mg PO Q4H:PRN pain 
+RX *acetaminophen [8 HOUR PAIN RELIEVER] 650 mg 1 tablet 
+extended release(s) by mouth Q4-6hrs  prn Disp #*50 Tablet 
+Refills:*0
+10. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*50 Capsule Refills:*0
+11. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth q4-6hrs pain Disp #*50 
+Tablet Refills:*0
+12. meloxicam 15 mg ORAL DAILY PRN arthritic pain 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Giant paraesophageal hernia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Call Dr. ___ ___ if you experience:
+-Fevers > 101 or chills
+-Difficult or painful swallowing
+-Nausea, vomiting. Make sure you take your anti nausea 
+medication
+-Increased shortness of breath
+
+Pain
+-Take stool softners while taking narcotics
+-No driving while taking narcotics
+
+Activity
+-Shower daily. Wash incision with mild soap and water, rinse, 
+pat dry
+-No tub bathing, swimming or hot tubs until incision healed
+-No lotions or creams to incision
+-Walk ___ times a day for ___ minutes increase to a Goal of 30 
+minutes daily
+
+Diet:
+Full liquid diet for ___ days. Increase to soft solids as 
+tolerates
+
+Eat small frequent meals. Sit in chair for all meals. Remain 
+sitting up for ___ minutes after all meals
+
+NO CARBONATED DRINKS
+
+ 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10561185-DS-10 | hadm_id=28392693
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Anemia and palpitations, sent in from PCP's office
+
+ 
+Major Surgical or Invasive Procedure:
+Upper endoscopy
+
+ 
+History of Present Illness:
+ Ms. ___ is a ___ woman with a pmhx. significant for 
+gastric antral vascular ectasia (GAVE or watermelon stomach) 
+with resultant iron deficiency anemia, chronic neck pain, and 
+lower extremity edema who presents from her PCP's office with 
+palpitations, decreased hct, and worsening lower extremity 
+edema.  She was found to have a hct drop of 27 to 24.2, was 
+guiac positive, and was referred to the ED for further 
+evaluation.
+ 
+Ms. ___ presented to ___ on ___ complaining of DOE, 
+fatigue, and palpitations.  She was subsequently found to have a 
+hct of 14.3, and was transfused 4 units of PRBCs.  An endoscopy 
+at that time was significant for GAVE, which was treated with 
+argon coagulation.  Ms. ___ was discharged home feeling 
+better, with a hct in the high ___.  She was also found to be 
+iron deficient, likely due to bleeding from GAVE, and was 
+started on ferrous sulfate.
+
+Ms. ___ states that she has been feeling well since 
+___, though lately her palpiations have increased in 
+frequency.  She is unable to quantify exactly how many 
+palpiations she has per day, but does note that they are not as 
+frequent as they were when she first presented to the hospital 
+in ___.  The patient also endorses increased lower 
+extremity swelling, worsening over the past few days.  She 
+denies chest pain, shortness of breath (at rest or with 
+exertion), change in diet or other lifestyle habits, nausea, 
+vomiting, diarrhea, fevers or chills.  Ms. ___ says she 
+adheres to a strict 2gram/day sodium diet.  She has not noticed 
+any decrease in her exercise tolerance.  She has lost about 3 
+pounds since her last hospital admission.
+
+In the ED, initial vitals were: 99.8,75,168/98, 20, 99% on RA.  
+Patient was given 40mg IV PPI and admitted for further 
+evaluation.  On transfer, vitals were: 98.4, 76, 150/90, 18, 95% 
+on RA.
+  
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denied cough, shortness of breath. Denied chest pain 
+or tightness. Denied nausea, vomiting, diarrhea, constipation or 
+abdominal pain. No recent change in bowel or bladder habits. No 
+dysuria. Denied arthralgias or myalgias. 
+ 
+Past Medical History:
+--GAVE (last endoscopy on ___, without active bleeding)
+--Iron deficiency anemia
+--Lower extremity edema (minimally response to 40 mg furosemide, 
+Echo in ___ with EF>75%)
+--Chronic neck pain extending to knees (began ___ ___ ago after 
+mother's death, currently managed with ___ x3 and tramadol but 
+not well controlled)
+--Sleep apnea
+--Pulmonary HTN (Echo in ___: Moderate to severe pulmonary 
+hypertension. Right ventricular dilation and mild dysfunction)
+--Depression following mother's death ___ ___ ago)
+
+ 
+Social History:
+___
+Family History:
+- Father deceased at ___, history of angina, obesity
+- Mother deceased ___, stroke at ___ & ___, dementia
+- Sister deceased at ___, glioblastoma
+- Two maternal aunts with colon cancer diagnosed in ___
+- Daughter with ulcerative colitis.
+
+ 
+Physical Exam:
+Physical Exam At Admission
+VS: 98.9 97.7 122/64 (110-168/64-98) 70 (39-76) 18 (___) 97%RA
+GA: AOx3, pleasant, obese female, laying stiffly in bed. 
+HEENT: Pale sclerae. PERRLA. MMM. no LAD. no JVD. neck supple. 
+Cards: No RVH. RRR S1/S2 heard. Holosystolic murmur heard best 
+at left sternal border. No gallops/rubs.
+Pulm: CTAB no crackles or wheezes
+Abd: Protuberant. Soft, NT, +BS. no g/rt. neg HSM. neg ___ 
+sign.
+Extremities: WWP, 2+ pitting edema until mid tibia. Radials 2+, 
+DPs 2+.
+Skin: No abnormal lesions noted on limited skin exam.
+
+Physical Exam at Discharge
+VS: Tmx 99.5 Tcur 96.9 142/80 79 18 98%RA
+GA: AOx3, pleasant, obese female
+HEENT: Pale sclerae. PERRLA. MMM. no LAD. no JVD. neck supple. 
+Cards: No RVH. RRR S1/S2 heard. Holosystolic murmur heard best 
+at left sternal border. No gallops/rubs.
+Pulm: CTAB no crackles or wheezes
+Abd: Protuberant. Soft, NT, +BS. no g/rt. neg HSM. neg ___ 
+sign.
+Extremities: WWP, 2+ pitting edema until mid tibia. Radials 2+, 
+DPs 2+.
+Skin: No abnormal lesions noted on limited skin exam
+ 
+Pertinent Results:
+___ 03:49PM BLOOD Glucose-91 UreaN-13 Creat-0.5 Na-139 
+K-3.7 Cl-101 HCO3-28 AnGap-14
+___ 03:49PM BLOOD WBC-7.3 RBC-3.46* Hgb-7.5* Hct-24.2* 
+MCV-70* MCH-21.7* MCHC-31.0 RDW-17.1* Plt ___
+___ 05:28AM BLOOD WBC-5.5 RBC-3.28* Hgb-6.9* Hct-22.9* 
+MCV-70* MCH-21.1* MCHC-30.3* RDW-17.2* Plt ___
+___ 05:28AM BLOOD calTIBC-313 Hapto-286* Ferritn-4.9* 
+TRF-241
+___ 07:00AM BLOOD Hct-28.2*
+.
+___ 03:49PM BLOOD cTropnT-<0.01
+___ 05:28AM BLOOD CK-MB-3 cTropnT-<0.01
+.
+___ 05:28AM BLOOD LD(LDH)-134 CK(CPK)-35
+___ 03:49PM BLOOD ALT-8 AST-12 LD(LDH)-153 AlkPhos-107* 
+TotBili-0.3
+.
+CXR (___): The lungs are well expanded and clear. The 
+cardiomediastinal silhouette shows a hiatal hernia. The hilar 
+contours and 
+pleural surfaces are normal. No pleural effusions or 
+pneumothoraces are 
+present. No acute intrathoracic process. 
+.
+Upper Endoscopy (___):
+1. Normal mucosa in the esophagus.
+2. Multiple angioectasia in a watermelon pattern noted in 
+stomach, consistent with GAVE. Obliterated with APC. 
+3. Normal mucosa in the duodenum.
+Recommendations: Repeat EGD in 2 months
+.
+ 
+Brief Hospital Course:
+TASKS FOR OUTPATIENT ___:
+-- PCP ___
+-- GI ___, recommend EGD in 2 months
+
+ASSESSMENT/PLAN:  This is a ___ woman with a history 
+signficant for gastric antral vascular ectasia (GAVE), lower 
+extremity edema, pulmonary HTN, and chronic neck & back pain who 
+was admitted for anemia, GI bleeding, palpitations, and 
+worsening edema likely due to continued bleeding from vascular 
+ectasia.
+
+# FE DEFICIENCY ANEMIA SECONDARY TO GAVE: The patient's was 
+found to have drop in her baseline Hct (22 on admission), in the 
+setting of palpitations, and guaiac positive stools. Her anemia 
+was presumed to be due continued bleeding from her known 
+vascular ectasia and was verified with upper endoscopy 
+demonstrating multiple angioectasia in a watermelon pattern that 
+were then obliterated with argon plasma coagulation. The patient 
+received 1 unit PRBCs, after which her Hct responded 
+appropriately and she remained hemodynamically stable. Iron 
+studies demonstrated Fe 11, Ferritin 4.9, TIBC 313. She was also 
+started on folic acid and Vitamin B12, and continued on her home 
+dosages of omeprazole and iron supplementation. At discharge, 
+patient had a Hct 28.2, was asymptomatic without complaints of 
+palpitations and had no evidence of blood in her stool. 
+  
+# LOWER EXTREMITY EDEMA: The patient's chronic lower extremity 
+edema is likely due to her known pulmonary HTN. Evidence of 
+dilated RV, hyperdynamic LV function and moderate to severe 
+pulmonary hypertension on ECHO in ___. Cardiac, hepatic and 
+renal etiologies of her edema were unlikely. She had bilateral 
+edema, without evidence of pulmonary congestion on exam or CXR 
+at admission, or an elevated JVP. Her liver transaminases at 
+admission and last serum albumin in ___ were both within 
+normal limits. Additionally, she has not had any evidence of 
+proteinuria in the past. The acute worsening likely due 
+inactivity secondary to her chronic neck and back pain. Patient 
+was continued on home dosage of lasix, maintained on a 2 gm/day 
+sodium diet, and encouraged to keep her legs elevated.
+  
+# CHRONIC PAIN: Stable throughout hospitalization with no acute 
+issues. Patient was continued on her home dosage of toradol.
+ 
+Communication was maintained with the patient and she remained 
+full code throught her hospitalization.
+
+ 
+Medications on Admission:
+1. Vitamin D ___ units weekly
+2. Calcium 500 mg + Vitamin D 400 units BID
+3. Omeprazole 20mg BID
+4. Ferrous sulfate 325 BID
+5. Tramadol 100mg BID
+6. Sucralfate 1gram BID
+7. Furosemide 40mg QD
+
+ 
+Discharge Medications:
+1. tramadol 50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+2. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) 
+Tablet PO BID (2 times a day).  
+4. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. cyanocobalamin (vitamin B-12) 100 mcg Tablet Sig: 0.5 Tablet 
+PO DAILY (Daily).
+Disp:*15 Tablet(s)* Refills:*2*
+6. calcium carbonate 200 mg (500 mg) Tablet, Chewable Sig: One 
+(1) Tablet, Chewable PO twice a day.  
+7. omeprazole 20 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO twice a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Blood Loss Anemia
+Gastric Antral Vascular Ectasia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent
+
+ 
+Discharge Instructions:
+You were admitted to ___ with palpitations and found to have a 
+drop in your blood count likely from GAVE.  You were transfused 
+one unit of blood.  You had an endoscopy which showed bleeding 
+in your stomach from the GAVE and it was treated with argon 
+therapy (the same as last time you were here).  Your blood count 
+increased after the transfusion and stayed stable.
+
+No changes were made to your medication, you should continue all 
+your home medication as previously directed.
+
+Please be sure to keep all your follow up appointments as below. 
+ You do not need the endoscopy schedule on the ___ since you 
+had one here. Dr. ___ has been emailed and will cancel it for 
+you.
+
+It was a pleasure meeting you and participating in your care.
+ 
+Followup Instructions:
+___

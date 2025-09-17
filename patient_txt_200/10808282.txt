@@ -1,0 +1,4107 @@
+===== DISCHARGE NOTE =====
+note_id=10808282-DS-18 | hadm_id=20807119
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amoxicillin / Codeine / Latex / Lactose / Shellfish Derived
+ 
+Attending: ___
+ 
+Chief Complaint:
+Vomiting and Diarrhea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ y/o M h/o ESRD on HD ___, cirrhosis, d/sHF, C.diff x 1, 
+presents with N/V/D x ___ days.  
+.  
+Pt was recently admitted 1 month ago to the ___ for 
+a similar presentation and was treated for gastroenteritis. He 
+was discharged after VS remained stable and the illness resolved 
+on its own without much intervention. Stool Cxs were sent from 
+that admission and were negative.  
+.  
+As far as this episode, as per pt, started ___ days ago as 
+nausea and vomiting. Pt denies any blood in the vomit, and also 
+reports diarrhea yesterday that also did not have any blood. 
+When asked to describe the diarrhea, the pt is vague and can't 
+endorse much in terms of mucus, quality of stool, color, 
+caliber, but does not lack of blood. Per ED report, the diarrhea 
+was reported to be yellow/green. Pt denies any abdominal pain, 
+CP, and feels this is c/w his previous episodes of 
+gastroenteritis. Pt endorses some dehydration/thirst. States 
+hasn't been able to take POs and has no appetite. Doesn't know 
+when stopped taking POs.  
+.  
+In the ED initial VS were: 98.8 81 142/70 16 100%. In the  
+Low blood sugars got one amp of D50, on 50cc/hr NS, sent stool 
+cultures, EKG-prolonged QTc, chest x-ray-?opacity.  
+VS: 83, 112/84, 80, 100% on RA.  
+.  
+ROS was otherwise essentially negative.  
+
+ 
+Past Medical History:
+-ESRD of unknown etiology: s/p HD fistula RUE, on HD ___ 
+at ___ in ___  
+-Anemia ___ esrd  
+-CAD with positive stress test ___  
+-Systolic CHF - EF 20% from ___ TTE; RV systolic  
+dysfunction/global free wall hypokinesis; 1+MR; "significant" 
+PR.  
+-HTN  
+-Psoriasis  
+-L3 burst fracture w/ neurologic compromise and retropulsion  
+onto cauda L2-L4  
+-Status post anterior-posterior spinal fusion of ___ 
+ 
+-MSSA L2-L3 osteo/epidural abscess  
+-MSSA Paraspinal abscess  
+-Hx of MSSA bacteremia - ___  
+-Hypothyroid  
+-H/o sacral decub & groin ulcer  
+-Restless leg syndrome  
+-H/o abdominal fluid collection drained s/p anterior spinal  
+fusion  
+
+ 
+Social History:
+___
+Family History:
+Father died of MI in ___ mother alive and well ___; 8 siblings, 
+one of whom has HTN, one who has a cerebral aneurysm; he has no 
+children.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+Vitals: T 97.9, BP 150/87, HR 82, RR 18, 100/RA  
+GENERAL: Pleasant, cachectic ___ in NAD  
+HEENT: Normocephalic, atraumatic. No conjunctival pallor. No 
+scleral icterus. PERRLA/EOMI. MMM. OP clear. Neck Supple, No 
+LAD, No thyromegaly.  
+CARDIAC: Regular rhythm, normal rate. Normal S1, S2. No murmurs, 
+rubs or ___. JVP= 7 cm  
+LUNGS: CTAB, good air movement biaterally.  
+ABDOMEN: Distended, hypoactive BS, NTTP, difficult to palpate 
+for organomegaly.  
+EXTREMITIES: No edema or calf pain, 2+ distal pulses  
+SKIN: No rashes/lesions, ecchymoses.  
+NEURO: grossly wnl  
+PSYCH: Listens and responds to questions appropriately  
+
+DISCHARGE PHYSICAL EXAM
+Vitals: Tm99.1, Tc96.6, BP 110s-140s/60s-80s, P60s-70s, 18, 
+98/RA  
+GENERAL: Pleasant, cachectic ___ in NAD  
+HEENT: Normocephalic, atraumatic. No conjunctival pallor. No 
+scleral icterus. PERRLA/EOMI. MMM. OP clear. Neck Supple, No 
+LAD, No thyromegaly.  
+CARDIAC: Regular rhythm, normal rate. Normal S1, S2. No murmurs, 
+rubs or ___.  
+LUNGS: CTAB except some coarse BS with expiration, good air 
+movement biaterally.  
+ABDOMEN: Distended, hypoactive BS, NTTP, difficult to palpate 
+for organomegaly.  
+EXTREMITIES: No edema or calf pain, 2+ distal pulses  
+SKIN: No rashes/lesions, ecchymoses.  
+NEURO: grossly wnl  
+PSYCH: Listens and responds to questions appropriately  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+
+___ 03:20PM BLOOD WBC-6.5 RBC-4.07* Hgb-12.4* Hct-39.3* 
+MCV-96 MCH-30.5 MCHC-31.6 RDW-17.6* Plt ___
+___ 03:20PM BLOOD Neuts-79* Bands-1 Lymphs-12* Monos-8 
+Eos-0 Baso-0 ___ Myelos-0
+___ 03:20PM BLOOD Hypochr-NORMAL Anisocy-2+ Poiklo-NORMAL 
+Macrocy-1+ Microcy-NORMAL Polychr-NORMAL
+___ 03:30PM BLOOD ___ PTT-27.3 ___
+___ 03:20PM BLOOD Glucose-68* UreaN-19 Creat-4.9* Na-137 
+K-4.9 Cl-93* HCO3-27 AnGap-22*
+___ 07:45AM BLOOD Albumin-3.6 Calcium-9.3 Phos-5.3* Mg-2.1 
+Iron-39*
+___ 07:45AM BLOOD calTIBC-183* Ferritn-1479* TRF-141*
+
+CXR
+IMPRESSION: Ill-defined opacity within the right lower lobe 
+concerning for an 
+infectious process. Small bilateral pleural effusions. 
+Cardiomegaly without 
+overt evidence for congestive heart failure. 
+
+EKG
+Artifact is present. Sinus rhythm. The Q-T interval is 
+prolonged. Non-specific 
+ST-T wave changes. Compared to the previous tracing of ___ 
+there is no 
+significant change. 
+
+ 
+Brief Hospital Course:
+___ year old man with ESRD on HD, cirrhosis, d/CHF, 
+and C.diff who presented with N/V/D x ___ days.  
+.    
+## N/V/Diarrhea: the ddx is recurrent C-diff, IBD, ischemic 
+colitis, however all of these are less likely given benign 
+abdominal exam, lack of blood, and lack of cramping and pain on 
+exam. Regardless, stool Cxs were sent (C-diff negative, rest of 
+panel pending). Given poor PO intake, rehydrated with 2 L of 
+fluid given slowly.  Of note, he has multiple admissions for the 
+same issue, and we were hesitant to attribute this again to 
+gastroenteritis.  Rather, we sent for a random fecal fat which 
+was pending at time of discharge.  We held off on sending a TTG 
+given that this has been negative multiple times in the past.  
+The pt was also scheduled for GI f/u to continue working on this 
+issue.  We did continue the pt on his PO vanc for C-diff ppx, 
+but agree with recent note from PCP that unclear that this is 
+entirely required given that in our system, has only had Cdiff + 
+x 1 and he continues ___ have diarrhea despite vancomycin 
+treatment.  Pt notably had prolonged QTc, so did not give zofran 
+for nausea, but rather gave compazine.  The pt's VS, WBC, and 
+temp were trended and remained wnl throughout his hospital 
+course.  The patient was kept on clears on th first day and 
+advanced to a full renal diet (with low residue, low lactose) on 
+HD2.  He felt much better after one day and he was discharged 
+after being able to advance his diet to regulars (renal, low 
+residue, lactose controlled).  His diarrhea and vomiting also 
+resolved by that point in time. Of note, he had several organ 
+involvements without clear diagnosis (renal, liver, cardiac, and 
+GI). A unifying diagnosis in this relatively young man is 
+needed. 
+.  
+## ESRD on HD: Pt is on ___ schedule, and given that he 
+missed dialysis x 1, he was dialyzed on ___ instead.  We 
+renally dosed his medications, and avoided nephrotoxins.
+.  
+## ?PNA/opacity on CXR: Seen on prior films, clinically looks 
+well without respiratory si/sxs of PNA.  We followed Mr. ___ 
+clinically, trended his WBC, temperature curve, and did not feel 
+the need to treat with abx given his clinical picture and 
+unchanged CXR.  
+.
+Of note, the opacity seems to possibly have a cavitary section, 
+and we would consider CT Chest with contrast as an outpatient to 
+fully evaluate this lesion.
+.  
+## Anemia/Hct drop: Pt noted to have Hct of 39 at time of 
+admission, on HD2, noted to be 33. Per review of records, 33 
+seems more likely his baseline and 39 may have been spuriously 
+high. Iron studies c/w ACD.  Recheck of Hct was stable at 34.9.  
+We continued to trend his Hct and kept an active t/S.  Guaiac 
+was performed which was negative. 
+.  
+## report of prolonged QTc: EKG in ED showed prolonged QTc 
+(473).  We avoided medications that could potentially increase 
+this (FQ, zofran).  We continued to monitor the pt. 
+.
+## HTN: Continued home medications - lisinopril, Toprol XL  
+.  
+## CAD: Continued lisinopril and ASA and Toprol XL  
+.  
+## Smoking hx: nicotine patch while in house  
+.
+## Depression: Continue fluoxetine  
+.
+## FOLLOW UP ISSUES
+1) Consider CT Chest with contrast to evaluate opacity on CXR 
+that has been present in last few films.  Already discussed with 
+PCP.
+2) Consider d/c of PO vancomycin at later point given lack of 
+evidence of multiple C-diff infections.
+3) Consider decrease in narcotic dosages given somnolence noted 
+in dialysis.
+4) Will be seeing GI. Question of possible bxs to w/u this N/V  
+issue.
+ 
+Medications on Admission:
+1. B complex-vitamin C-folic acid 1 mg - 1 capusle DAILY  
+2. clonazepam 1 mg QHS  
+3. fluoxetine 20 mg DAILY  
+4. gabapentin 300 mg QHD  
+5. hydromorphone 4 mg Q6H as needed for pain.  
+6. levothyroxine 125 mcg DAILY  
+7. lisinopril 5 mg DAILY  
+8. lorazepam 1 mg DAILY  
+9. metoprolol succinate 100 mg DAILY  
+10. ropinirole 0.25 mg QPM  
+11. sevelamer HCl 800 mg 3 TIMES A DAY WITH MEALS  
+12. vancomycin 125 mg once a day  
+13. ascorbic acid ___ mg DAILY  
+14. aspirin 81 mg DAILY  
+
+ 
+Discharge Medications:
+1. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+2. clonazepam 1 mg Tablet Sig: One (1) Tablet PO at bedtime as 
+needed for insomnia.  
+3. fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+4. gabapentin 300 mg Capsule Sig: One (1) Capsule PO QHD (each 
+hemodialysis).  
+5. hydromorphone 4 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for pain.  
+6. levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+8. lorazepam 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+9. metoprolol succinate 100 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+10. ropinirole 0.25 mg Tablet Sig: One (1) Tablet PO QPM (once a 
+day (in the evening)).  
+11. sevelamer HCl 800 mg Tablet Sig: One (1) Tablet PO three 
+times a day: with meals.  
+12. vancomycin 125 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+13. ascorbic acid ___ mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+14. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Nausea, vomiting, Diarrhea
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure to take care of you during your 
+hospitalization.  You were admitted to ___ with nausea, 
+vomiting, and diarrhea.  This seems to be a frequent problem, so 
+we sent some lab tests which showed that you did not C-diff and 
+preliminarily showed no other infection.  You were rehydrated 
+with an IV, and we slowly advanced your diet until you felt 
+better.  We discharged you when you stopped having diarrhea and 
+vomiting.
+
+PLEASE MAKE THE FOLLOWING CHANGES TO YOUR MEDICATIONS
+none
+
+Please follow up with your physicians as indicated below
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10808282-DS-15 | hadm_id=20920366
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amoxicillin / Codeine / Latex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever (99.8), weakness
+ 
+Major Surgical or Invasive Procedure:
+Hemodialysis (___)
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with CKD V on HD, dilated 
+cardiomyopathy, and prior epidural/paraspinal abscess requiring 
+multiple surgeries who was brought in from rehab due to concerns 
+for low-grade temperatures and possible lethargy. The patient 
+denies any symptoms of lethargy, disorientation, or confusion, 
+and he denies feeling febrile or chilled. He reports he was 
+tired the day prior to admission after a 5 hour ___ 
+shopping trip. By report, he was observed to be somewhat 
+disoriented and had a temperature of 99.8 at rehab. Of note, he 
+reports that his G-tube spontaneously fell out several days ago; 
+since this time, he feels as though his diarrhea (which he had 
+been frequently having, and which he attributed to his tube 
+feeds) has improved; he refused replacement of the G-tube 
+initially, but today reports that may be willing if there is a 
+way to prevent the diarrhea associated with tubefeeds. Of note, 
+he denies pain or discharge from the G-tube site. He denies 
+cough, dyspnea, ulcerations, headaches, abdominal pain, skin 
+rashes.  
+.  
+Upon arrival to the ___ ED, he had a temperature of 96.7, BP 
+120/92, HR 122, RR 24, Sat 99% on 4 L/min. He was noted to have 
+a rectal temperature of 99.8. He was weaned to 2 L/min of oxygen 
+with sat's in the high ___. Chest radiograph showed bilateral 
+pleural effusions with no clear infiltrate. He was given 1000 mg 
+of IV vancomycin and 250 mg of IV levofloxacin as well as normal 
+saline at 100 cc/hr.  
+.  
+ROS:  
+Denies fevers, chills, rigors, abdominal pain, headaches, visual 
+changes, chest pain, dyspnea. Reports numbness in his feet.  
+
+ 
+Past Medical History:
+-ESRD of unknown etiology: s/p HD fistula RUE, on HD MWF  
+-Anemia ___ esrd  
+-CAD with positive stress test ___  
+-Systolic CHF - EF 20% from ___ TTE; RV systolic 
+dysfunction/global free wall hypokinesis; 1+MR; "significant" 
+PR.  
+-HTN  
+-Psoriasis  
+-L3 burst fracture w/ neurologic compromise and retropulsion 
+onto cauda L2-L4  
+-Status post anterior-posterior spinal fusion of ___ 
+ 
+-MSSA L2-L3 osteo/epidural abscess  
+-MSSA Paraspinal abscess  
+-Enterobacter wound infection on back ___  
+-Hx of MSSA bacteremia - ___  
+-Hypothyroid  
+-H/o sacral decub & groin ulcer  
+-Restless leg syndrome  
+-H/o abdominal fluid collection drained s/p anterior spinal  
+fusion
+ 
+Social History:
+___
+Family History:
+Father died of MI in ___ mother alive and well ___; 8 siblings, 
+one of whom has HTN, one who has a cerebral aneurysm; he has no 
+children.
+ 
+Physical Exam:
+T 97.8; BP ___ HR 106-108; RR ___ Sat 100% 2L NC 
+(while in room, O2 stopped and patient satting 97% RA)  
+Weight: 58.5 kg  
+General: Cachectic; no distress; comfortable  
+Skin: Approx 2 cm stage I coccygeal ulcer; lower extremities 
+(below shins) bilaterally with erythema and cool to touch  
+HEENT: Oropharynx clear; no scleral icterus  
+Pulm: Clear to auscultation throughout without wheezes, rales, 
+or ronchi  
+CV: RRR, normal s1s2, I/VI SEM at LLSB  
+Back: No spinal/paraspinal tenderness  
+Abdomen: Soft, nontender, nondistended, normal bowel sounds, no 
+HSM/masses; former G-tube site with minimal erythema, no 
+expressable drainage, and nontender to touch; no induration or 
+fluctuance  
+Extremities: Right AV fistula with palpable thrill; radial and 
+DP pulses 2+; lower extremities (distal to shin) cool to touch  
+Neuro: Alert, oriented x3; CN ___ intact; strength ___ in 
+bilateral upper and lower extremities
+ 
+Pertinent Results:
+ADMISSION LABORATORY DATA:
+___ 07:39PM   WBC-11.9* RBC-3.73*# HGB-9.4* HCT-32.5* 
+MCV-87# MCH-25.1*# MCHC-28.9*# RDW-20.2*
+___ 07:39PM   NEUTS-75* BANDS-7* LYMPHS-8* MONOS-5 EOS-2 
+BASOS-2 ___ MYELOS-0 OTHER-1*
+___ 07:39PM   GLUCOSE-93 UREA N-32* CREAT-4.1* SODIUM-140 
+POTASSIUM-5.3* CHLORIDE-98 TOTAL CO2-27 ANION GAP-20
+___ 07:58PM   LACTATE-2.9*
+.
+CXR ___ - FINDINGS: 
+There are large bibasal effusions present along with atelectasis 
+at the lung bases. The heart is enlarged, unchanged from the 
+prior examination. There is stable appearance to the spinal 
+fixators in the upper lumbar spine. CONCLUSION: Cardiomegaly 
+along with large bibasal effusions and atelectasis at the lung 
+bases. Increased retrocardiac opacity likely atelectasis. 
+Followup post- diuresis is recommended. 
+.
+EKG: Sinus tachycardia. Low limb lead voltage. Consider left 
+ventricular 
+hypertrophy by voltage in the precordial leads. ST-T wave 
+abnormalities. 
+Since the previous tracing of ___ the rate is faster. QRS 
+voltage is more promient. ST-T wave abnormalities are more 
+prominent.
+.
+DISCHARGE LABORATORY DATA:
+___ 06:20AM BLOOD WBC-7.1 RBC-3.44* Hgb-8.7* Hct-29.6* 
+MCV-86 MCH-25.3* MCHC-29.4* RDW-20.2* Plt ___
+___:50AM BLOOD Neuts-79* Bands-0 Lymphs-11* Monos-9 
+Eos-0 Baso-1 ___ Myelos-0
+___ 06:20AM BLOOD Glucose-77 UreaN-21* Creat-3.0*# Na-143 
+K-3.9 Cl-99 HCO3-35*
+ 
+Brief Hospital Course:
+___ year old male with CKD Stage V on HD, prior epidural abscess, 
+and recently accidently removed G tube admitted from rehab 
+facility with concern for lethargy, low-grade temperatures, and 
+bandemia. Brief hospital course was as follows:
+
+1. Bandemia/?lethargy:  Throughout hospital course patient 
+emphasized feeling very well. He was tired day prior to 
+admission after a prolonged shopping trip, but has otherwise had 
+no weakness above baseline. Left shift on admission was 
+concerning for evolving infection; WBC count since coming down 
+with resolved bandemia. Suspected sources for possible infection 
+included infection at former PEG tube site, bacteremia, or 
+pneumonia given increased oxygen requirement at presentation. No 
+evidence of abscess or skin infection at former PEG tube site. 
+No growth from blood cultures to date (drawn before antibiotics 
+initiated). No infiltrates that would be consistent with 
+pneumonia seen on chest radiograph. No increase in diarrhea 
+(patient with history of C. difficile). Patient received one 
+dose of levofloxacin in emergency department. Patient was 
+continued on empiric vancomycin per HD protocol - on day of 
+discharge random vancomycin level 20. Patient not to be 
+continued on antibiotics as outpatient. If he has fevers, 
+becomes more lethargic, or has increased erythema concerning for 
+cellulitis at lower extremities, patient may need to be started 
+on vancomycin IV once again. On discharge, feeling well, with 
+normal WBC count, afebrile, and not requiring oxygen 
+supplementation.
+
+2. History of C difficile infection: We spoke to facility on 
+admission; patient on vancomycin long-term given reoccurrence 
+when off of vancomycin in the past. Patient was continued on 
+vancomycin PO daily. No evidence of diarrhea/active infection at 
+this admission.
+
+3. ESRD, Stage 5: Patient is anuric. Continued on home regimen 
+of ___ dialysis. Continued on appropriate renal 
+medications.
+
+4. Elevated troponin: Elevated on admission but in range similar 
+to that in previous admissions. Likely related to renal failure. 
+Patient without symptoms concerning for ACS, and no concerning 
+changes seen on EKG on admission. No concerning arrythmias were 
+noted on telemetry.
+
+5. Hypoxia, now resolved: On presentation required oxygen (99% 
+on 4 L/min) and was noted to have bilateral pleural effusions. 
+Hypoxia was likely secondary to fluid overload on admission, and 
+improved following dialysis. On discharge, patient is satting 
+well on room air.
+
+6. Chronic systolic heart failure: Noted to be fluid overloaded 
+on exam on admission. Patient was continued on home regimen 
+including beta-blocker; ACE inhibitor was temoporarily held 
+given hyperkalemia, but restarted on discharge. Patient should 
+have electrolytes rechecked in ___ days.
+
+7. Cachexia: Chronic by review of patient records. Patient 
+reported he would be willing to have G tube replaced but only as 
+an outpatient. Appointment scheduled for ___ at 
+7:00am. Patient is to be off of aspirin for one week prior to 
+procedure, and should be NPO after midnight morning of 
+procedure.
+
+8. ?Peripheral vascular disease: Patient with cool lower 
+extremities on admission, concerning for PVD. Patient should 
+have ABI studies done to assess for PVD if not done within past 
+6 months.
+ 
+Medications on Admission:
+- hydromorphone 2 mg PO q4h prn leg pain  
+- levothyroxine 125 mcg daily  
+- nephrocaps  
+- pancrealipase two tablets tid with meals  
+- sevelamer 1600 mg tid with meals  
+- gabapentin 200 mg qam, 100 mg qhs  
+- ropinirole 0.25 mg qhs  
+- omeprazole 20 mg daily  
+- docusate 100 mg daily  
+- aspirin 325 mg daily  
+- erythropoeitin ___ units TIW at dialysis  
+- lisinopril 5 mg daily  
+- Questran 4 grams daily  
+- metoprolol tartrate 37.5 mg tid  
+- vancomycin 125 mg PO daily (? undergoing taper)  
+- Vitamin B complex  
+- Vitamin C  
+- Heparin with dialysis  
+- Ambien 5mg PO QHS prn insomnia  
+- Lorazepam 1mg PO Q6 hours prn anxiety  
+
+ 
+Discharge Medications:
+1. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO every four 
+(4) hours as needed for leg pain.  
+2. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+4. Amylase-Lipase-Protease 20,000-4,500- 25,000 unit Capsule, 
+Delayed Release(E.C.) Sig: Two (2) Cap PO TID W/MEALS (3 TIMES A 
+DAY WITH MEALS).  
+5. Sevelamer HCl 800 mg Tablet Sig: Two (2) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+6. Ropinirole 0.25 mg Tablet Sig: One (1) Tablet PO QPM (once a 
+day (in the evening)).  
+7. Gabapentin 100 mg Capsule Sig: Two (2) Capsule PO QAM (once a 
+day (in the morning)).  
+8. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO HS (at 
+bedtime).  
+9. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+10. Colace 100 mg Capsule Sig: One (1) Capsule PO once a day.  
+11. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): 
+Please hold for 7 days prior to G tube placement.  
+12. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+13. Cholestyramine-Sucrose 4 gram Packet Sig: One (1) Packet PO 
+DAILY (Daily).  
+14. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3 
+times a day).  
+15. Vancomycin 125 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+16. B Complex Vitamins     Capsule Sig: One (1) Cap PO DAILY 
+(Daily).  
+17. Ascorbic Acid ___ mg Tablet Sig: 0.5 Tablet PO DAILY 
+(Daily).  
+18. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed for Insomnia.  
+19. Epoetin Alfa 2,000 unit/mL Solution Sig: One (1)  Injection 
+at dialysis.
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+- Weakness, now resolved
+- Chronic renal failure, stage 5 on hemodialysis
+- Cachexia/malnutrition
+
+Secondary:
+- Likely peripheral vascular disease
+- History of C difficile infection
+- Chronic systolic heart failure
+
+ 
+Discharge Condition:
+Hemodynamically stable.
+
+ 
+Discharge Instructions:
+You were admitted on ___ because of a concern for 
+weakness and for a low-grade fever. In the emergency department, 
+you were started on antibiotics and these were continued during 
+your hospital stay. You were not found to have any clear source 
+of infection, and you did not have a fever or evidence of an 
+active infection based on your bloodwork. You were also 
+continued on your normal dialysis regimen and did very well.
+
+You will have your G tube replaced on ___. Please 
+arrive at the ___ day care ___ at 
+7:00am. Please do not eat or drink anything after midnight. You 
+must also stop taking aspirin on ___.
+
+Your medical care will now be assumed by the facility to which 
+you are going.
+
+Please call your physician (either at the facility or your 
+primary care physician) if you have any fevers, rashes, severe 
+weakness, or for any other concerns.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10808282-DS-11 | hadm_id=21588487
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amoxicillin / Codeine / Latex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Back Pain
+ 
+Major Surgical or Invasive Procedure:
+Anterior/posterior spinal L2-4 fusion
+Intubation
+Thoracentesis
+Chest tube placement and removal
+___ guided percutaneous abdominal fluid collect drainage
+Central venous line placement
+___ guided hemodialysis line placement
+___ guided AV fistula dilation
+ 
+History of Present Illness:
+Mr. ___ is a ___ y/o man with ESRD on HD who presented initially 
+on ___ with increasing low back pain since MVC in ___. He has had a complicated complicated hospital course since 
+then, which I will summarize briefly here. He initially had an 
+outpatient MRI which showed question of paraspinal abscess. He 
+had been told to come to the ED right away, but did not do so 
+until several days later. The back pain at that time was 
+centered in his low back with radiation down the anterior 
+bilateral thighs (R>L). He denied fevers. Spine CT showed 
+findings concerning for a destructive infectious process. OSH 
+MRI showed L3 burst fx and retropulsion onto cauda, as well as 
+paraspinal abscess. He was admitted to medicine for further 
+evaluation, with ortho spine service consulting. He was 
+initially started on vanc/gent, and then changed to 
+nafcillin/gent. Blood cultures grew MSSA.  
+.  
+Of note, he was seen in the ED in ___ with anemia, at which 
+time he spiked a temp to 101 and blood cultures were obtained. 
+The patient left AMA from that ED visit, and cultures ultimately 
+grew MSSA. He was treated for MSSA with cefazolin at HD from 
+___ to ___, but it is unclear if this course was optimal given 
+patient's history of missing HD sessions.  
+.  
+The patient was treated with antibiotics on the medical service 
+until ___, when the patient was taken to the OR for L2-L4 
+anterior fusion, following which he remained intubated and on 
+pressors in the SICU. On ___ he had a posterior fusion. He 
+initially did well and was weaned off pressors. He was extubated 
+on ___, but on ___ his respiratory status worsened and he 
+became more hypoxic. He had a thoracentesis followed by a L 
+chest tube placement for pneumothorax. He was reintubated that 
+day. A CT scan of his torso on ___ also showed a large left 
+sided abdominal fluid collection. On ___ a drain was placed by 
+___, producing 800 cc bloody fluid not noted to be purulent (no 
+growth to date on culture). Around that time the patient 
+developed a new pressor requirement.  
+.  
+On ___ he was extubated. On ___ he was taken back to the OR for 
+a posterior wound dehiscence. I&D was performed, and a VAC 
+device was applied. He has now been off pressors since the 
+morning of ___. He was extubated again on ___ and passed a 
+speech and swallow evaluation on ___. His chest tube was taken 
+out today, as was the intra-abdominal drain.  
+.  
+Currently, he states that his pain is well controlled with 
+medications, but he does feel anxious. He denies other 
+complaints.  
+ 
+Past Medical History:
+1. Esrd of unknown etiology: s/p HD fistula LUE
+2. HTN
+3. CAD with positive stress test ___. restless leg syndrome
+5. Psoriasis 
+6. Anemia ___ esrd
+ 
+Social History:
+___
+Family History:
+Father died of MI in ___ mother alive and well ___; 8 siblings, 
+one of whom has HTN, one who has a cerebral aneurysm; he has no 
+children.
+ 
+Physical Exam:
+T: 97.7 BP: 110/74 HR: 100 RR: 14 O2 99% on 2L nc  
+Gen: Cachectic male in NAD  
+HEENT: PERRL, anicteric. MMM. OP clear.  
+NECK: No lymphadenopathy, no JVD.  
+CV: RRR, no m/r/g.  
+LUNGS: CTAB.  
+ABD: +BS, soft, NT/ND.  
+EXT: Thin extremities, ___ pitting edema b/l.  
+NEURO: A&Ox3. Appropriate.  
+
+ 
+Pertinent Results:
+___ 04:30PM BLOOD WBC-13.6* RBC-4.03*# Hgb-12.7*# Hct-43.6# 
+MCV-108*# MCH-31.6 MCHC-29.2* RDW-16.9* Plt ___
+___ 11:47PM BLOOD WBC-34.4*# RBC-2.47*# Hgb-7.8*# Hct-23.8* 
+MCV-96# MCH-31.6 MCHC-32.8 RDW-18.7* Plt ___
+___ 01:43AM BLOOD WBC-10.6 RBC-2.50* Hgb-7.6* Hct-21.0* 
+MCV-84 MCH-30.4 MCHC-36.1* RDW-18.7* Plt ___
+___ 01:18AM BLOOD WBC-10.8 RBC-3.09* Hgb-9.4* Hct-26.9* 
+MCV-87 MCH-30.3 MCHC-34.7 RDW-19.0* Plt ___
+___ 01:43AM BLOOD WBC-10.0 RBC-2.73* Hgb-7.9* Hct-24.8* 
+MCV-91 MCH-28.7 MCHC-31.7 RDW-17.8* Plt ___
+___ 06:15AM BLOOD WBC-8.5 RBC-2.89* Hgb-8.7* Hct-26.6* 
+MCV-92 MCH-30.2 MCHC-32.9 RDW-20.1* Plt ___
+___ 04:30PM BLOOD Plt ___
+___ 04:45PM BLOOD ___ PTT-43.3* ___
+___ 06:08AM BLOOD ___ PTT-38.6* ___
+___ 08:11PM BLOOD ___ PTT-36.8* ___
+___ 07:22AM BLOOD ___ PTT-44.6* ___
+___ 09:16PM BLOOD Plt ___
+___ 01:43AM BLOOD ___ PTT-35.1* ___
+___ 05:55AM BLOOD ___ PTT-37.9* ___
+___ 11:22PM BLOOD ___ 10:36AM BLOOD Ret Aut-2.1
+___ 04:30PM BLOOD ESR-2
+___ 06:30AM BLOOD Glucose-91 UreaN-23* Creat-2.1* Na-139 
+K-4.0 Cl-99 HCO3-33* AnGap-11
+___ 11:30AM BLOOD Glucose-91 UreaN-24* Creat-5.6* Na-143 
+K-3.9 Cl-96 HCO3-18* AnGap-33*
+___ 04:35AM BLOOD ALT-13 AST-19 LD(LDH)-375* AlkPhos-142* 
+Amylase-43 TotBili-0.8
+___ 06:17AM BLOOD ALT-25 AST-38 CK(CPK)-44 AlkPhos-373* 
+TotBili-0.7
+___ 04:45PM BLOOD ALT-52* AST-112* LD(LDH)-302* 
+AlkPhos-344* Amylase-31 TotBili-0.3
+___ 04:35AM BLOOD Lipase-25
+___ 06:17AM BLOOD GGT-198*
+___ 04:45PM BLOOD Lipase-15
+___ 06:17AM BLOOD CK-MB-6 cTropnT-0.21*
+___ 11:47PM BLOOD cTropnT-0.09*
+___ 10:02AM BLOOD CK-MB-3 cTropnT-0.10*
+___ 06:15AM BLOOD Calcium-7.8* Phos-3.9 Mg-1.9
+___ 03:22AM BLOOD Calcium-8.0* Phos-4.4 Mg-2.5
+___ 03:10AM BLOOD Albumin-1.8* Calcium-8.8 Phos-2.8 Mg-2.1
+___ 04:35AM BLOOD Albumin-1.6* Calcium-7.5* Phos-3.8 Mg-2.1
+___ 08:15AM BLOOD calTIBC-81* Ferritn-888* TRF-62*
+___ 04:19AM BLOOD TSH-6.4*
+___ 04:35AM BLOOD Cortsol-12.7
+___ 01:53AM BLOOD Cortsol-47.0*
+___ 04:45PM BLOOD CRP-87.0*
+___ 05:56AM BLOOD Vanco-16.4
+___ 02:48PM BLOOD Genta-0.3*
+___ 06:17AM BLOOD Vanco-22.3*
+___ 12:32AM BLOOD Type-ART pO2-111* pCO2-34* pH-7.46* 
+calTCO2-25 Base XS-0
+___ 03:54PM BLOOD pO2-58* pCO2-58* pH-7.30* calTCO2-30 Base 
+XS-0
+___ 11:47AM BLOOD Glucose-41* Lactate-0.6 Na-134* K-3.9 
+Cl-102
+___ 04:38PM BLOOD Glucose-96 Lactate-1.4 Na-131* K-3.2* 
+Cl-102
+___ 11:47AM BLOOD freeCa-1.07*
+___ 03:17PM BLOOD freeCa-1.12
+___ 08:59AM BLOOD freeCa-0.94*
+___ 03:54PM BLOOD freeCa-0.97*
+___ 04:38PM BLOOD freeCa-0.88*
+___ 04:38PM BLOOD freeCa-0.88*
+
+VITAMIN B1, BLOOD             115                 87-280 NMOL/L
+
+CT Spine ___:
+CT lumbar spine without contrast.
+
+FINDINGS: There is extensive destructive process, centered at 
+L2-3 disc space, which is obliterated, with extensive 
+irregularity of end-plates and significant loss of height of 
+vertebral body of L3 and marked irregularity of L2 inferior 
+endplate and retropulsion of the bony fragments. The canal 
+measures only 9 mm (AP) at this level. Additionally, there is 
+high- attenuation material in the epidural space, adjacent to 
+the largest retropulsed fragment, which may represent hemorrhage 
+but is also concerning for infection. There is associated 
+kyphotic angulation at L2-3 level.
+
+Calcification of the abdominal aorta is noted. Paraspinal soft 
+tissues are not well evaluated in this non-contrast 
+non-dedicated study.
+
+IMPRESSION: Extensive destructive process at L2-3 level, with 
+significant retropulsion of bony fragments, narrowing the spinal 
+canal and compressing the thecal sac at this level. This 
+constellation of findings, including significant osseous 
+destruction, disc and endplate involvement and adjacent density 
+in the epidural space, are concerning for infection, perhaps 
+complicated by recent trauma. However, occasionally, the chronic 
+spondyloarthropathy associated with ESRD can mimic the 
+diskitis/vertebral osteomyelitis complex. For this reason, 
+review of the prompting OSH MR, and comparison to any prior 
+studies would be most helpful.
+
+TTE ___:
+The left atrium is moderately dilated. There is mild symmetric 
+left ventricular hypertrophy with normal cavity size. There is 
+severe global left ventricular hypokinesis (LVEF = ___, 
+without regional wall motion abnormalities (c/w a diffuse 
+process, such as toxic, metabolic, sepsis, etc). Right 
+ventricular cavity size and systolic function are normal. The 
+aortic valve leaflets (3) appear structurally normal with good 
+leaflet excursion and no aortic regurgitation. No masses or 
+vegetations are seen on the aortic valve. The mitral valve 
+appears structurally normal with trivial mitral regurgitation. 
+There is no mitral valve prolapse. No mass or vegetation is seen 
+on the mitral valve. Mild (1+) mitral regurgitation is seen. The 
+pulmonary artery systolic pressure could not be determined. 
+There is a trivial/physiologic pericardial effusion.
+
+CT Chest ___:
+CT CHEST WITHOUT CONTRAST: There is overall evidence of volume 
+overload with a moderate right pleural effusion and 
+small-to-moderate left pleural effusion with associated passive 
+atelectasis. There is body wall edema consistent with anasarca 
+and the partially visualized upper abdomen demonstrates ascites. 
+Septal thickening in this case in a predominantly bibasilar 
+distribution, is consistent with hydrostatic edema. It is 
+indeterminent whether thickening of the peribroncovascular 
+bundles is secondary to hydrostatic edema or attributable to 
+infection.
+
+A nodular opacity with irregular margins is present at the 
+periphery of the right upper lobe (3:7) in segment 1 measuring 
+1.7 x 1.3 cm. A second nodular opacity in a peribronchovascular 
+distribution is present in the right upper lobe measuring 9 x 8 
+mm. Focal regions of peribronchiolar nodules are present within 
+the lungs for example in the left upper lobe (3:10) suggesting 
+bronchiolar infection. Focal bulla is stable in the left lower 
+lobe. A left PICC line and left double-lumen dialysis catheter 
+present with tips residing within the distal SVC.
+
+OSSEOUS STRUCTURES: No suspicious lytic or sclerotic lesions are 
+identified.
+
+IMPRESSION:
+1. Diffuse volume overload with moderate effusions, anasarca and 
+ascites.
+
+2. Mild widespread bronchiolar infectious process. Given that 
+several opacities have a nodular configuration, followup CT 
+chest without contrast is recommended in three months to ensure 
+resolution. In a patient with paraspinal abscess, septic emboli 
+should also be considered as a cause for nodules although the 
+appearance and distribution of these opacities are not typical 
+of this condition.
+
+MIBI:
+Resting perfusion images were obtained with Tc-99m sestamibi. 
+Tracer was
+injected approximately 45 minutes prior to obtaining the resting 
+images. 
+
+Following resting images and two minutes following intravenous 
+dipyridamole,
+approximately three times the resting dose of Tc-99m sestamibi 
+was administered
+intravenously. Stress images were obtained approximately 45 
+minutes following
+tracer injection. 
+
+Imaging protocol: Gated SPECT. 
+This study was interpreted using the 17-segment myocardial 
+perfusion model. 
+
+INTERPRETATION: 
+The image quality is adequate. 
+Left ventricular cavity size is marked dilated at stress and 
+rest. 
+
+Rest and stress perfusion images reveal uniform tracer uptake 
+throughout the 
+left ventricular myocardium. No reversible defects. 
+
+Gated images reveal global hypokinesia. 
+The calculated left ventricular ejection fraction is 16%. 
+
+IMPRESSION: 1) Severe dilated cardiomyopathy; LVEF 16%. New from 
+study of
+___. 2) No reversible perfusion defects. 
+
+L4 Disc biopsy:
+Intervertebral disc L3-4:
+
+ 
+
+Acute osteomyelitis with osteonecrosis. See note.
+
+ 
+
+Note:  
+
+Sections of bone show fibrosis of the marrow space with chronic 
+inflammatory cells.  This finding may represent changes due to 
+trauma or chronic osteomyelitis. In addition, there are small 
+aggregates of neutrophils, some admixed with fibrinous exudate, 
+adjacent to bone and within bony lacunae.  This finding is 
+consistent with an on-going acute osteomyelitis. Slides B and C 
+reviewed with Dr. ___.
+
+ 
+
+Dr. ___ notified of diagnosis ___ at 3:30 ___.
+
+RUQ U/S:
+1. Large right pleural effusion and moderate ascites, new since 
+___.
+
+2. Normal-appearing gallbladder without evidence of acute 
+cholecystitis.
+
+3. Bright linear echogenic regions in the expected region of the 
+ductal confluence of uncertain etiology. Diagnostic 
+possibilities include air and stones within the central biliary 
+tree, more likely than interposed loops of bowel within the 
+porta hepatis. These findings may be expected if patient has had 
+endoscopic sphincterotomy or similar procedure; however, reports 
+in CareWeb do not reflect this. Further evaluation may be 
+obtained with CT or MRI as indicated.
+
+CT-GUIDED DRAINAGE PROCEDURE 
+The patient's sister and medical proxy, ___, was contacted. 
+Discussion of risks and benefits including specific risks of 
+bleeding, infection, injury to abdominal organs and bowel, and 
+need for additional surgery, was discussed. Informed consent was 
+obtained over the telephone and witnessed. The patient was 
+placed on the CT examination table in the supine position. The 
+left lower abdomen was marked. The skin was prepped and draped 
+in the usual sterile fashion. Local anesthesia was administered 
+with 1% lidocaine. A 10 ___ all-purpose drainage catheter was 
+then introduced into a large heterogeneous fluid collection 
+containing both high-density foci and air consistent with clot 
+and abscess. Approximately 800 cc of hemorrhagic fluid was 
+aspirated. The fluid was sent for microbiology. The drain was 
+secured in place. A sterile dressing was applied. The patient 
+tolerated the procedure well and was returned to the intensive 
+care unit for additional monitoring.
+
+Dr. ___ was present and available throughout the entire 
+procedure. Sedation was administered by the ICU nurse.
+
+IMPRESSION: Technically successful placement of a 10 ___ 
+all-purpose drainage catheter into a large intra-abdominal 
+abscess. 800 cc of hemorrhagic fluid aspirated.
+
+CXR ___:
+There has been interval removal of left-sided central venous 
+catheter. Left-sided chest tube and right-sided central venous 
+catheter are in unchanged position. Previously seen left apical 
+pneumothorax not identified on current study. Cardiac and 
+mediastinal contours appear unchanged. Bilateral pleural 
+effusions are again seen, not significantly changed allowing for 
+positional differences. Spinal fusion hardware again noted.
+
+IMPRESSION: Interval removal of left-sided central venous line. 
+No definite pneumothorax identified.
+
+PICC Placement:
+Using sterile technique and local anesthesia, the left brachial 
+vein was punctured under direct ultrasound guidance using a 
+micropuncture set. Hard copies of the ultrasound images were 
+obtained before and immediately after establishing intravenous 
+access. A peel-away sheath was then placed over the guidewire 
+and a single lumen PIC line measuring 37 cm in length was placed 
+through the peel-away sheath with its tip positioned in the SVC 
+under fluoroscopic guidance. Position of the catheter was 
+confirmed by fluoroscopic spot film of the chest. The peel-away 
+sheath and guidewire were then removed. The catheter was then 
+secured to the skin, flushed, and sterile dressing applied. The 
+patient tolerated the procedure well. There were no immediate 
+complications.
+
+IMPRESSION: Uncomplicated ultrasound and fluoroscopically guided 
+single lumen PICC line placement via the left brachial vein 
+approach. Final internal length is 37 cm with the tip positioned 
+in the SVC. The line is ready to use.
+
+AVF evaluation and dilation:
+PROCEDURE AND FINDINGS: After explaining the risks and benefits 
+of the procedure, written informed consent was obtained from the 
+patient. The patient was placed supine on the angiographic table 
+and the right upper arm was prepped and draped in standard 
+sterile fashion. A preprocedure timeout was performed.
+
+After injection of local anesthesia, access was gained into the 
+proximal cephalic vein of the right upper extremity AV 
+fistulogram with a 21-gauge micropuncture needle. A 0.018 
+guidewire was advanced through the needle into the upper 
+cephalic vein and a needle was exchanged for a 4.5 ___ 
+micropuncture sheath. Venogram was performed with injection of 
+contrast through the micropuncture sheath to evaluate from the 
+cephalic vein to the central vein, ___ demonstrated no area of 
+stenosis. Inflation of blood pressure cuff at the right upper 
+arm, another venogram was performed with injection of the 
+contrast through the sheath to evaluate the arterior anastomosis 
+site of AV fistula. Venogram demonstrated about 2 cm tight 
+stenosis at proximal cephalic vein with multiple collateral 
+veins and venous dilatation of cephalic vein proximal to the 
+stenotic portion. Based on the diagnostic findings, it was 
+decided that the patient would benefit from and was a good 
+candidate for angioplasty. The micropuncture sheath had to be 
+removed because stenotic portion is too near the puncture site. 
+Thus we decided to get another access into the upper cephalic 
+vein. Using ultrasound guidance and palpatory technique, after 
+several attempts, retrograde access was gained into the upper 
+cephalic vein with a 21- gauge micropuncture needle. A 0.018 
+guidewire was advanced through the needle into the proximal 
+cephalic portion under fluoroscopic guidance and the needle was 
+exchanged for a 4.5 ___ micropuncture sheath. The 
+micropuncture sheath was exchanged for a 6 ___ ___ tip 
+sheath. Another venogram was performed with a 5 ___ straight 
+multisided-holed catheter, which demonstrated about 2 cm 
+stenotic portion at the proximal cephalic vein. Stenotic portion 
+of the proximal cephalic vein was dilated with 6 mm x 4 cm and 8 
+mm x 4 cm balloons. A followup venogram demonstrated widely 
+patent stenotic portion at proximal cephalic vein and multiple 
+collateral veins disappeared. After balloon dilatation, venous 
+bulging proximal to the stenotic portion also decreased.
+
+Vascular sheath was removed and manual compression was held for 
+15 minutes until hemostasis was achieved. A v-pad was applied at 
+the puncture site of upper cephalic vein to prevent the bleeding 
+at the puncture site. The patient tolerated the procedure well 
+and there were no immediate complications.
+
+Sedation was provided by administering divided doses of fentanyl 
+and Versed throughout the total intraservice time of 105 minutes 
+during which the patient's hemodynamic parameters were 
+continuously monitored.
+
+IMPRESSION: Fistulogram demonstrated about 2 cm tight stenosis 
+at the proximal cephalic vein of right UE AV fistula with 
+multiple collateral veins. Balloon dilatation was performed with 
+6 and 8 mm x 4 cm balloons and with good angiographic results.
+
+HD line placement:
+PROCEDURE AND FINDINGS: Details of the procedure and possible 
+complications were explained and informed consent was obtained.
+A preprocedure timeout was performed. The patient was placed 
+supine on the angiographic table and the indwelling catheter and 
+left upper chest were prepped and draped in standard sterile 
+fashion. An initial fluoroscopic image demonstrated a temporary 
+catheter with tip in the ___/right atrium junction.
+
+10 cc of 1% lidocaine with epinephrine were used to anesthetize 
+the skin and subcutaneous tissues. Following a small skin 
+incision, the subcutaneous tunnel was created by blunt 
+dissection and the line was tunneled through the subcutaneous 
+tissue. After aspirating each lumen, a 0.035 guidewire was 
+advanced through the catheter to the inferior vena cava under 
+fluoroscopic guidance. Catheter was then exchanged for a 
+peel-away sheath. The wire and the inner dilator of the 
+peel-away were then removed and the line was advanced through 
+the peel-away sheath and positioned with its tip at the level of 
+the SVC/right atrium junction. The peel-away sheath was removed.
+
+The line was flushed, heplocked and secured to the skin with 0 
+silk sutures. The venous access site incision was closed with 
+Dermabond and ___ Vicryl sutures. A sterile dressing was 
+applied. Final fluoroscopic image demonstrated tip of the 
+catheter to be located in the ___/right atrium junction.
+
+Moderate sedation was provided by administering Fentanyl and 
+Versed in divided doses
+
+The patient tolerated the procedure well. There were no 
+immediate complications.
+
+IMPRESSION: Successful conversion of temporary line to a 
+tunneled 27-cm tip to cuff double lumen line for dialysis via 
+the left subclavian vein with tip in the SVC/right atrium. The 
+line is ready for use.
+
+ 
+Brief Hospital Course:
+Please see HPI for a summary of events prior to his transfer 
+from the SICU to the floor. After transfer to the floor the 
+events are as follows:
+
+.
+.
+# Low back pain, paraspinal abscess, s/p s/p L2-L4 anterior ___ 
+followed by posterior fusion ___: Now s/p anterior and 
+posterior fusion by ortho spine surgery. Most recently had wound 
+dehiscence and I+D done on ___. The patient was started on and 
+should continue on IV nafcillin and rifampin for at least 8 
+weeks after the dates of his surgery for treatment of his MSSA 
+bacteremia and paraspinal abscess. A PICC line is in place for 
+continued IV antibiotics. Furthermore, enterobacter was cultured 
+from tissue taken from the wound dehiscence on ___ which was 
+treated with ciprofloxacin and should be continued until his 
+follow up appointment with the ID fellow, ___. Originally he 
+had a vacuum dressing in place on his anterior fixation wound 
+but that was removed on ___. An occlusive dressing should be 
+maintained with daily changes. He should be in his TLSO brace 
+when he is out of bed. His pain was controlled with methadone 
+and percocet with good effect. He will follow up with the 
+orthopedic surgeons as well. 
+.
+# Hypoglycemia: The patient developed episodes of hypoglycemia 
+towards the endo of his SICU course, treated with a D10 drip. 
+These episodes continued on transfer to the floor, worst first 
+thing in the morning. Endocrine was consulted and felt that 
+these episodes were likely due to poor oral intake of protein 
+and complex carbohydrates C-peptide, betahydroxybutyrate and 
+insulin levels sent at the time of a hypoglycemic event were 
+normal, making a hyperinsulinemic cause much less likely. He was 
+encouraged to increase his intake which improved his blood 
+sugars. It should be ensured that the patient receives a high 
+protein snack such as peanut butter and crackers just before bed 
+to lessen am hypoglycemia. The patient should be encouraged to 
+eat calorie dense, high protein food. 
+.
+# Diarrhea: The patient began having diarrhea towards the end of 
+his SICU course, requiring a rectal tube. C.difficile was 
+checked x3 as well as a cytotoxin B, which were all negative. 
+Diarrhea was felt to be a combination of antibiotic effect, low 
+albumin (1.6) and a mild intolerance to lactose. He was started 
+on loperamide, lomotil and a lactose free diet with improvement 
+of his diarrhea.
+.
+# Right arm swelling: The patient developed swelling of his 
+right arm superior to his fistula. A fistulogram confirmed a 
+stenosis which was dilated by intervential radiology. However, 
+the nephrology team did not feel his fistula was ready for use 
+immediately after and it may take a week or two to recover. A 
+tunnelled left IJ HD line was place to be used in the interim.
+.
+# Anemia: Post-op, likely related to blood loss, plus component 
+of anemia from ESRD. Epogen at HD. Monitor hct.
+.
+# Pleural effusions: He had bilateral effusions- could be due to 
+CHF, given EF 15%. L effusion was tapped, but unfortunately TP 
+and LDH were not sent so not certain if transudate vs. exudate. 
+Fluid culture and cytology were negative. Respiratory status 
+remained stable and he was on room air at the time of discharge. 
+Unless his respiratory status worsens, these should be followed 
+by his PCP. 
+.
+# Cardiomyopathy/Depressed EF: The patient developed an 
+apparently new cardiomyopathy with an EF of ___ on this 
+admission, down from 45-50% in ___. Pre-op stress MIBI showed 
+no reversible perfusion defects making ischemia less likely. He 
+was started on metoprolol and low dose lisinopril. His fluid 
+status was managed via hemodialysis. 
+.
+# ESRD on HD: On ___ need continued renal follow up. 
+Continued nephrocaps, phoslo and epogen with HD.
+.
+# FEN: Very poor nutritional status (INR has been elevated, 
+albumin 1.6 on admission to the floor). Regular lactose free 
+diet, with pudding and shake supplements. He should be encourage 
+to eat as much as possible. If further improvements in 
+nutritional intake are not met, TPN, NG, or PEG tube feedings 
+may be considered.
+.
+# PPx: HSC. Bowel meds prn. H2-blocker
+.
+# Access: L PICC line
+.
+# CODE: full
+.
+ 
+Medications on Admission:
+MEDS at home:  
+allopurinol ___ mg daily (pt unsure of dosing)  
+toprol XL 50 mg daily (pt unsure of dosing)  
+phosrenol (per patient), dose unknown  
+renal vitamin  
+dilaudid 4 mg PO TID  
+.  
+MEDS on Transfer:  
+Insulin Sliding Scale  
+D10W Continuous at 20 ml/hr  
+Ipratropium Bromide MDI 6 PUFF IH QID  
+Artificial Tear Ointment 1 Appl BOTH EYES PRN  
+Lorazepam 0.5 mg IV Q8H:PRN agitation  
+Bisacodyl 10 mg PO DAILY:PRN  
+Lorazepam 1 mg PO HS:PRN  
+Calcium Gluconate IV Sliding Scale  
+Magnesium Sulfate IV Sliding Scale  
+Calcium Acetate 667 mg PO TID W/MEALS  
+Methadone 5 mg PO TID  
+Cepacol (Menthol) 1 LOZ PO PRN  
+Metoprolol Tartrate 25 mg PO TID  
+Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID  
+Nafcillin 2 gm IV Q4H  
+Ciprofloxacin 200 mg IV Q12H  
+Nephrocaps 1 CAP PO DAILY  
+Dextrose 50% 12.5 gm IV PRN  
+Ondansetron 4 mg IV Q8H:PRN  
+Docusate Sodium (Liquid) 100 mg PO BID  
+OxycoDONE-Acetaminophen Elixir ___ mL PO Q4H:PRN  
+Famotidine 20 mg PO BID  
+Potassium Chloride IV Sliding Scale  
+HYDROmorphone (Dilaudid) 0.5-2 mg IV Q2-4H:PRN pain with 
+movement  
+Promethazine 6.25 mg IV Q6H:PRN  
+Heparin 5000 UNIT SC BID  
+Psyllium 1 PKT PO TID:PRN  
+Rifampin 600 mg PO Q24H Order date: ___ @ 1133  
+ 
+Discharge Medications:
+1. Outpatient Lab Work
+please have the following labs drawn weekly:
+cbc, diff, chem7, LFTs, ESR, CRP. 
+
+please fax to ___, care of dr. ___
+
+2. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+3. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) mL 
+Injection BID (2 times a day).  
+4. Rifampin 300 mg Capsule Sig: Two (2) Capsule PO Q24H (every 
+24 hours) for 6 weeks.  
+5. Methadone 5 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day).  
+6. Menthol-Cetylpyridinium 3 mg Lozenge Sig: One (1) Lozenge 
+Mucous membrane PRN (as needed).  
+7. Psyllium     Packet Sig: One (1) Packet PO TID (3 times a 
+day) as needed.  
+8. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+9. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed.  
+10. Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+11. Oxycodone 5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 
+hours) as needed.  
+12. Famotidine 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+13. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+14. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours) for 6 weeks.  
+15. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3 
+times a day).  
+16. Loperamide 2 mg Capsule Sig: Two (2) Capsule PO TID (3 times 
+a day) as needed.  
+17. Ondansetron 4 mg IV Q8H:PRN 
+18. Nafcillin in D2.4W 2 gram/100 mL Piggyback Sig: Two (2) 
+grams Intravenous Q4H (every 4 hours) for 6 weeks.  
+19. Heparin Flush (10 units/ml) 1 mL IV PRN line flush 
+Temporary Central Access-Floor:    Flush with 10 mL Normal 
+Saline followed by Heparin as above daily and PRN. 
+20. Heparin Flush (10 units/ml) 2 mL IV PRN line flush 
+PICC, heparin dependent: Flush with 10mL Normal Saline followed 
+by Heparin as above daily and PRN per lumen. 
+21. Diphenoxylate-Atropine 2.5-0.025 mg Tablet Sig: One (1) 
+Tablet PO Q6H (every 6 hours) as needed.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+MSSA paraspinal abscess and bacteremia
+Enterobacter wound infection
+AV fistula stenosis
+Malabsorptive diarrhea
+Bilateral pleural effusions
+End Stage Renal Disease on hemodialysis
+
+ 
+Discharge Condition:
+All vital signs stable, afebrile
+
+ 
+Discharge Instructions:
+You were admitted with an infection in your spinal cord. This 
+was treated with IV antibiotics and surgery to clean out the 
+infection. You will continue the IV antibiotics while you are at 
+the rehab facility and you will follow up with the infectious 
+disease doctor for further management of your antibiotics. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10808282-DS-16 | hadm_id=22633867
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amoxicillin / Codeine / Latex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left foot pain/ulcer
+ 
+Major Surgical or Invasive Procedure:
+Left toe debridement
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo man with ESRD on HD (___), CHF with EF 
+of 20%, multiple MSSA infections including paraspinal abscess 
+and osteomyelitis who presents with ___ days of L foot pain and 
+necrotic ulcer on L ___ toe. He first noted the lesion ___ days 
+ago as a blister which his ___ put a bandaid over and instructed 
+he and his family to take care of this.  He noted progressive 
+worsening of the pain and went to see his PCP who undid the 
+bandage and sent him over to the ED.
+.
+In the ED his vital were 97.4, 100, 111/77, 17, 100% on RA.  He 
+was given 1 gm of Vanc and Podietry debrided the ulcer.  Foot 
+films show "No evidence of acute fracture or subcutaneous gas".  
+He was admitted for 
+.
+Review of systems: No fevers, chills HA, chest pain, SOB, 
+N/V/Diarrhea.  He endorses pain and erythema of L foot. ROS 
+otherwise negative
+.
+
+ 
+Past Medical History:
+-ESRD of unknown etiology: s/p HD fistula RUE, on HD ___ 
+at ___ in ___ 
+-Anemia ___ esrd  
+-CAD with positive stress test ___  
+-Systolic CHF - EF 20% from ___ TTE; RV systolic 
+dysfunction/global free wall hypokinesis; 1+MR; "significant" 
+PR.  
+-HTN  
+-Psoriasis  
+-L3 burst fracture w/ neurologic compromise and retropulsion 
+onto cauda L2-L4  
+-Status post anterior-posterior spinal fusion of ___ 
+
+-MSSA L2-L3 osteo/epidural abscess  
+-MSSA Paraspinal abscess  
+-Hx of MSSA bacteremia - ___  
+-Hypothyroid  
+-H/o sacral decub & groin ulcer  
+-Restless leg syndrome  
+-H/o abdominal fluid collection drained s/p anterior spinal  
+fusion
+
+ 
+Social History:
+___
+Family History:
+Father died of MI in ___ mother alive and well ___; 8 siblings, 
+one of whom has HTN, one who has a cerebral aneurysm; he has no 
+children.
+ 
+Physical Exam:
+T=98.4 BP= HR=98 RR=16 O2= 95% RA
+PHYSICAL EXAM
+GENERAL: Pleasant, cachectic man in NAD
+HEENT: Normocephalic, atraumatic.  No conjunctival pallor. No 
+scleral icterus. PERRLA/EOMI. MMM. OP clear.  Neck Supple, No 
+LAD, No thyromegaly. 
+CARDIAC: Regular rhythm, normal rate. S4 gallop. no murmur 
+appreciated
+LUNGS: CTAB, good air movement biaterally.
+ABDOMEN: NABS. Soft, NT, + distention.  No HSM
+EXTREMITIES: 3+ edema at ankles.  L toe with unroofed and 
+debrided ulceration and medial aspect of ___ metatarsal
+.
+
+ 
+Pertinent Results:
+___ 01:29PM   WBC-6.8 RBC-4.16* HGB-11.4*# HCT-38.2*# 
+MCV-92 MCH-27.5 MCHC-29.9* RDW-17.7*
+___ 01:29PM   NEUTS-76* BANDS-2 LYMPHS-10* MONOS-7 EOS-5* 
+BASOS-0 ___ MYELOS-0
+___ 01:29PM   PLT SMR-NORMAL PLT COUNT-228
+.
+___ 01:29PM   GLUCOSE-86 UREA N-21* CREAT-4.0* SODIUM-144 
+POTASSIUM-4.5 CHLORIDE-100 TOTAL CO2-28 ANION GAP-21*
+___ 01:35PM   LACTATE-1.9
+.
+___
+Foot Plain films
+IMPRESSION: No evidence of acute fracture or subcutaneous gas. 
+Please note 
+that MRI or triple phase bone scan is more sensitive in 
+detection of acute 
+osteomyelitis. 
+
+ 
+Brief Hospital Course:
+___ yo man with ESRD on HD, CHF (EF 20%), Multiple MSSA 
+infections in past presents with L foot ulcer and cellulitis.
+.
+#. Cellulitis: Podiatry debrided in ED, plain films without 
+evidence of osteomylitis.  Significant erythema of L foot 
+surrounding toes.  He received Vanc in ED and was started on 
+Cipro/Flagyl for broad coverage.  He remained afebrile without a 
+white count and with instructions to f/u with podietry.
+.
+#. ESRD on HD: unclear etiology for renal failure, but on HD 
+___.  He recieved dialysis on ___
+- continued sevelamir, nephrocaps, and Epogen
+.
+#. Systolic CHF: Last ECHO showed EF of 20%.  Currently on RA.
+- continue metoprolol, lisinopril, and ASA
+.
+#. History of C diff: Per prior d/c summary - patient on 
+vancomycin long-term given reoccurrence when off of vancomycin 
+in the past.
+- continued oral Vanc Qday
+.
+#. Anemia: Has been chronically low at ~ 30. He arrived 
+hemoconcentrated, but stablized thereafter.  
+- continue epogen
+.
+#. Restless legs: Possible component of leg pain
+- continue dilaudid, gabapentin, and roperinole
+.
+
+ 
+Medications on Admission:
+- hydromorphone 2 mg PO q4h prn leg pain  
+- levothyroxine 125 mcg daily  
+- nephrocaps daily 
+- pancrealipase two tablets tid with meals  
+- sevelamer 1600 mg tid with meals  
+- gabapentin 200 mg qam, 100 mg qhs  
+- ropinirole 0.25 mg qhs  
+- omeprazole 20 mg daily  
+- docusate 100 mg daily  
+- aspirin 325 mg daily  
+- erythropoeitin ___ units TIW at dialysis  
+- lisinopril 5 mg daily  
+- Questran 4 grams daily  
+- metoprolol tartrate 37.5 mg tid  
+- vancomycin 125 mg PO daily (Per prior d/c summary - patient on 
+vancomycin long-term given reoccurrence when off of vancomycin 
+in the past.)  
+- Vitamin B complex  
+- Vitamin C  
+- Ambien 5mg PO QHS prn insomnia  
+.
+
+ 
+Discharge Medications:
+1. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for pain: Do not drive while taking this 
+medication.
+Disp:*20 Tablet(s)* Refills:*0*
+2. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+4. Amylase-Lipase-Protease 20,000-4,500- 25,000 unit Capsule, 
+Delayed Release(E.C.) Sig: Two (2) Cap PO TID W/MEALS (3 TIMES A 
+DAY WITH MEALS).  
+5. Sevelamer Carbonate 800 mg Tablet Sig: Two (2) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+6. Ropinirole 0.25 mg Tablet Sig: One (1) Tablet PO QPM (once a 
+day (in the evening)).  
+7. Gabapentin 100 mg Capsule Sig: Two (2) Capsule PO QAM (once a 
+day (in the morning)).  
+8. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO QPM (once a 
+day (in the evening)).  
+9. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+11. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+12. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+13. Cholestyramine-Sucrose 4 gram Packet Sig: One (1) Packet PO 
+DAILY (Daily).  
+14. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3 
+times a day).  
+15. Vancomycin 125 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily) for 28 days.
+Disp:*21 Capsule(s)* Refills:*0*
+16. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed for insomnia.  
+17. Epoetin Alfa 10,000 unit/mL Solution Sig: ___ units 
+Injection ASDIR (AS DIRECTED): with dialysis.  
+18. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours) for 12 days: Please take full 14 day course 
+until ___.
+Disp:*12 Tablet(s)* Refills:*0*
+19. Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: 1000 
+(1000) mg Intravenous HD PROTOCOL for 10 days: Please take full 
+14 day course until ___.
+Disp:*QS * Refills:*0*
+20. Flagyl 500 mg Tablet Sig: One (1) Tablet PO every eight (8) 
+hours for 12 days: Please take full 14 day course until ___.
+Disp:*36 Tablet(s)* Refills:*0*
+21. Outpatient Lab Work
+Vancomycin level to be drawn and sent to patient's nephrologist 
+each HD session.
+22. Senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day: Do 
+not take if moving bowels > 2 times per day.
+Disp:*60 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Left toe cellulitis
+.
+Secondary:
+End stage renal disease on Hemodialysis
+
+ 
+Discharge Condition:
+good, VSS, on room air, tolerating dialysis
+
+ 
+Discharge Instructions:
+You came to the hospital for an infected ulcer on your L toe.  
+Podiatry debrided it and an X-ray shows no evidence of a 
+fracture or deep infection.  You were given IV and oral 
+antibiotics with good improvement. 
+.
+Medication changes:
+Please take the full course of antibiotics.
+Please take your other medications as prescribed.
+.
+We also discussed the recommendations that were provided to you 
+by the physical therapist and while you understand that a brief 
+period in rehab would be in your best interest to prevent any 
+further complications of your toe wound, your preference would 
+be to return home.  We do recommend limiting the amount of 
+weight bearing you do on your left foot as it will help with the 
+healing of your ulcer.
+.
+Call your doctor or return to the ED if you have fevers, chills, 
+increasing redness, drainage or pus around the wound, chest 
+pain, shortness of breath, nausea, vomiting, diarrhea or any new 
+or concerning symptoms.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10808282-DS-14 | hadm_id=22639282
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amoxicillin / Codeine / Latex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hypercarbic respiratory failure
+ 
+Major Surgical or Invasive Procedure:
+Chest Tube Placement done at ___, pulled at ___
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year-old chronically ill man with ESRD on HD, 
+CHF (EF20%), L3 burst fx complicated by MRSA paraspinal abscess, 
+multiple hospitalizations over the 6 months, who is transferred 
+from ___ upon request of his family after 
+he presented there with hypercarbic respiratory failure.  
+.  
+Mr. ___ recent relevant history is detailed below:  
+.  
+-___: admitted to ___ for 5 weeks with paraspinal 
+abscess. That hospital stay is notable for anterior/posterior 
+spinal L2-4 fusion to treat L3 burst fracture. He was on the 
+vent for about 14days post-op, during which time he underwent a 
+thoracentesis complicated by pneumothorax for which a L chest 
+tube was placed. He required repeat visit to the OR w/ wound 
+dehiscence, which grew enterobacter (treated with 
+ciprofloxacin). He was eventually discharged to ___ 
+___.  
+- ___: admitted to ___ ___ w/ ?LGIB. GI 
+evaluated the patient and deferred endoscopy as an  
+inpatient given the bleeding stabilized w/ minimal transfusion. 
+Pt had a PEG tube placed b/c of poor nutritional status: pt was 
+severely cachectic with diffuse muscle wasting. He was 
+discharged to ___.  
+-___: He presented to ___ on ___ with altered mental  
+status, hypotension, respiratory failure, bilateral pleural 
+effusions, as well as fever and leukocytosis. He was intubated 
+from admission through ___. He underwent b/l thoracentesis, 
+which wer transudative. Fever workup was unrevealing for source. 
+He was discharged to ___ on ___.  
+- ___ (con't): Mr. ___ was admitted to ___ 
+Hospital ___ to ___ with respiratory failure & volume 
+overload. He was intubated and underwent bilateral 
+thoracentesis. He was extubated and discharged back to ___ 
+Rehab.  
+- Current presentation: pt presented from ___ to ___ on 
+___ with hypotension, diarrhea (acute on chronic), 
+hypercarbic respiratory failure (7.___). He was started on 
+vanc/imipenenem + PO vanc & IV flagyl for broad coverage. ___ 
+came back + for Cdiff. His hypotension resolved. Cause of his 
+resp failure thought to be ___ CHF. His chronic, bilateral pl 
+effusions were noted to sill be present. His R effussion was 
+tapped on ___ and the fluid was exudative (pH 7.47, ___ RBCs, 
+Fluid TP 3.2, Fluid LDH 126; Serum TP 5.7, Serum LDH 122). Gram 
+stain showed no WBCs & no organisms. However, his cx grew out 
+rare MRSA, rare enterococcus. He was extubated on ___ & a chest 
+tube was placed on ___. He was not started on antibiotics. A 
+family meeting was held with pt, sister, and mother--they 
+reportedly reviewed the patient's prognosis. Following the 
+meeting, the family requested transfer to ___ for further 
+care.  
+.  
+On arrival to ___, pt is comfortable except for occasional pain 
+at chest tube site. He is requesting something to eat.  
+.  
+ROS: no fever/chills. + weight loss of ___ over last 
+~6months. No nausea, vomitting, or constipation. Regular loose 
+stool. No recent melena, BRBPR. No palpitations, dizziness or 
+lightheadedness change in vision, hearing, currently, hematuria, 
+dysuria. Occasional ___ swelling & tingling. Of note, pt has been 
+documented as having occasional episodes of hypoglycemia during 
+recent hospital stays.  
+.  
+
+ 
+Past Medical History:
+-ESRD of unknown etiology: s/p HD fistula RUE, on HD MWF  
+-Anemia ___ esrd  
+-CAD with positive stress test ___  
+-Systolic CHF - EF 20% from ___ TTE; RV systolic 
+dysfunction/global free wall hypokinesis; 1+MR; "significant" 
+PR.  
+-HTN  
+-Psoriasis  
+-L3 burst fracture w/ neurologic compromise and retropulsion 
+onto cauda L2-L4  
+-Status post anterior-posterior spinal fusion of ___ 
+ 
+-MSSA L2-L3 osteo/epidural abscess  
+-MSSA Paraspinal abscess  
+-Enterobacter wound infection on back ___  
+-Hx of MSSA bacteremia - ___  
+-Hypothyroid  
+-H/o sacral decub & groin ulcer  
+-Restless leg syndrome  
+-H/o abdominal fluid collection drained s/p anterior spinal  
+fusion  
+
+ 
+Social History:
+___
+Family History:
+Father died of MI in ___ mother alive and well ___; 8 siblings, 
+one of whom has HTN, one who has a cerebral aneurysm; he has no 
+children.
+ 
+Physical Exam:
+General Appearance: Cachectic  
+Eyes / Conjunctiva: PERRL, Conjunctiva pale  
+Cardiovascular: (S1: Normal (S2: Normal) ? S3, (Murmur: Systolic 
+& Diastolic)  
+Respiratory / Chest: (Percussion: Dullness : bilat bases), 
+(Breath Sounds: Diminished: on R)  
+Abdominal: Soft, Non-tender, Bowel sounds present, PEG in place  
+
+Extremities: Right: Trace, Left: Trace  
+Musculoskeletal: Muscle wasting  
+Skin: Not assessed, Rash: sacral erythema; erythema over 
+surgical spinal wound  
+Neurologic: Attentive, Follows simple commands, Responds to: 
+Verbal stimuli, Oriented x3, Movement: Purposeful, Tone: Not 
+assessed  
+
+ 
+Pertinent Results:
+CBC: 
+___ WBC-8.4 RBC-2.89* Hgb-9.1* Hct-28.1* Plt ___
+___ Glucose-99 UreaN-55 Creat-3.4 Na-139 K-5.0 Cl-99 
+HCO3-29 AnGap-16
+___ Albumin-2.5* Calcium-8.8 Phos-2.5*
+.
+Cultures:
+___: CATHETER TIP-IV WOUND CULTURE-FINAL INPATIENT: No 
+growth.
+. 
+___: PLEURAL FLUID GRAM STAIN-FINAL: Multiple PMNs, No 
+organisms, FLUID CULTURE-FINAL: No growth,  ANAEROBIC CULTURE: 
+No growth.  
+.
+Chest X-Ray:
+Cardiomediastinal contours are normal. Still small right 
+pneumothorax has 
+increased. Small right and moderate left pleural effusions are 
+unchanged.  
+Left perihilar consolidation is persistent. Bibasilar 
+atelectases are 
+unchanged. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ chronically ill man w/ ESRD on HD, severe 
+systolic HF (EF 20%), h/o MRSA paraspinal abscess, numerous 
+hospitalizations over the last 5months, who is transferred from 
+___ with possible infected R pleural effusion.  A chest tube was 
+placed at ___.  He was initially transferred to the ICU.  His 
+chest tube stopped draining fluid.  He was on Linezolid 
+initially for emperic treatment of his pleural fluid.  He was 
+stable in the ICU and transferred to a general medical floor.  
+He continued on his schedule of dialysis.  His antibiotics were 
+stopped as he was afebrile and his fluid cultures were negative. 
+ His chest tube was pulled and his pulmonary effusions remained 
+stable.  He was discharged to Kindred on ___.
+.
+Medication changes: Lisinopril 5 mg started. Flagyl for c. diff 
+14 day course to be completed on ___. Calcium acetate held 
+secondary to low phosphate. 
+.  
+Problems:
+Right pleural effusion: Rare MRSA & enterococcus in fluid cx. 
+Unclear if true infection or contaminent. The pt was febrile on 
+admission to OSH, which could have been from pleural fluid 
+infection or c. diff.  Pleural fluid cultures were negative. 
+Chest tube was pulled.  Patient will follow up with 
+interventional pulmonology as outpatient for persistent 
+effusion.  
+.
+Cardiomyopathy/Chronic Systolic Heart Failure: EF of 20% (based 
+on echo ___. Pt seems to be relatively well compensated at 
+present.  Dialysis continued as scheduled. Beta blocker 
+continued. He was started on a low dose of lisinopril.   
+.
+C. Diff: ___, started on 14 day course of flagyl, to be 
+completed ___.  
+.
+ESRD on HD: MWF schedule.  Calcium acetate held secondary to low 
+phosphate.  Check phosphate before restarting.  
+.  
+Diarrhea: acute on chronic. Pt reportedly passing loose stools 
+since initation on tube feeds.  
+.  
+Paraspinal Abscess/Spinal fusion: appears stable/inactive. Wound 
+slightly erythematous.  Pt will follow up with Dr. ___ as 
+outpatient. 
+.
+Decubitus ulcer on buttocks: wound care consulted.  continue 
+wound care recs. 
+.  
+Anemia: chronic, thought to be likely secondary to his ESRD. 
+Currently at baseline of mid to high ___.  Continue epogen 
+injections with dialysis. 
+. 
+Hypothyroid: continue levothyroxine  
+ 
+Medications on Admission:
+-Levothyroxine 125 mcg Tablet Sig: 0.5 Tablet PO DAILY  
+-Gabapentin 100 mg Capsule Sig: One (1) Capsule PO HS  
+-Heparin (Porcine) 5,000 unit/mL units BID  
+-Acetaminophen 325 mg PO Q6H as needed for pain.  
+-Calcium Acetate 667 mg TID w/ meals  
+-B-Complex with Vitamin C Daily  
+-Metoprolol Tartrate 25 mg BID  
+-Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+-Amylase-Lipase-Protease One Cap PO TID W/MEALS  
+-Pantoprazole 40 mg PO twice a day.  
+-Miconazole Nitrate 2 % Powder Appl Topical BID  
+-EPO w/ HD  
+-Trazodone 50 mg 0.5 Tablet PO HS as needed.  
+-Oxycodone 5mg q4hr  
+
+ 
+Discharge Medications:
+1. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO Q24H (every 
+24 hours).  
+3. Amylase-Lipase-Protease 33,200-10,000- 37,500 unit Capsule, 
+Delayed Release(E.C.) Sig: One (1) Cap PO TID W/MEALS (3 TIMES A 
+DAY WITH MEALS).  
+4. B-Complex with Vitamin C     Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+6. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+7. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+8. Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed.  
+9. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q 8H 
+(Every 8 Hours) for 4 days: Course to be completed on ___.  
+10. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+11. Hydromorphone (PF) 1 mg/mL Syringe Sig: One (1)  Injection 
+Q4H (every 4 hours) as needed.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Pleural Effusions
+CHF
+ESRD
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You were transferred from ___ for 
+evaluation of your pleural effusion (fluid outside the lung).  
+We stopped your antibiotics, as there was not strong evidence 
+that the pleural fluid was infected. Your chest tube was pulled. 
+ You did have persistent fluid in your lungs on chest X-ray, 
+however it remained stable.  You will need to follow up with the 
+lung doctors (___) as an outpatient. 
+.
+Dialysis was continued per your regular schedule. 
+.
+You were started on Flagyl for a bacteria found in your stool. 
+The course of antibiotics will be done on ___.  
+ 
+                             ___ MD ___
+ 
+Completed by: ___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10808282-DS-19 | hadm_id=23137241
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Amoxicillin / Codeine / Latex / Lactose / Shellfish Derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+RUE fistula revision and aneurysm repair 
+ 
+Major Surgical or Invasive Procedure:
+RUE fistula revision and aneurysm repair 
+ 
+History of Present Illness:
+___. male anuric ESRD on HD per right upper arm AV fistula on
+___ presented to ED on ___ with spontaneous bleed 
+from fistula.  He was in the bathroom when fistula began 
+bleeding and he was brought by
+EMS.  He has been undergoing hemodialysis through the fistula
+without difficulty, at that time most recently on ___ 
+(___). The
+fistula is aneurysmal and was last revised ___ by Dr. 
+___ two large aneurysmal segments. At that time 
+recommended that pt be admitted for fistula revision. Pt refused 
+admission and was scheduled to follow up in clinic with Dr. 
+___. He is admitted now elective fistula revision and 
+aneurysm repair.  
+
+Otherwise in USOH. Denies fever, chills, nausea, vomiting, 
+diarrhea, pain, SOB, and dyspnea.  Denies numbness/tingling or 
+paresthesias.  
+ 
+Past Medical History:
+ESRD on HD ___, anemia, CAD, hypertension, systolic CHF,
+hypothyroidism, psoriasis, restless leg syndrome, h/o L3 burst
+fracture, s/p spinal fusion L2-4 ___, h/o MSSA osteomyelitis,
+h/o MSSA epidural abscess, h/o MSSA paraspinal abscess, h/o MSSA
+bacteremia.
+
+ 
+Social History:
+___
+Family History:
+Father died of MI in ___ mother alive and well ___; 8 siblings, 
+one of whom has HTN, one who has a cerebral aneurysm; he has no 
+children.
+ 
+Physical Exam:
+Discharge physical
+T 98.5 HR 74 BP 134/72 RR 16 O2sat 96RA
+NAD, AAOx3
+no murmurs
+ctab
+adb soft nt nd no rebound or guarding
+no ___ edema
+RUE incision closed with nylon sutures, c/d/i. +thrill. 2 
+aneurysmal segments inferiorly with some skin breakdown over the 
+aneursyms.
+R +radial pulse, R hand warm and well perfused 
+ 
+Brief Hospital Course:
+Pt was admitted for elective RUE fistula revision and aneurysm 
+repair. Procedure was uncomplicated. See operative dictation for 
+full report. Pt was admitted to the hospital for overnight 
+observation. Diet was advanced to regular, tolerated well. Pain 
+well controlled on oral pain medications. Pt and staff felt 
+staff to discharge pt home. Pt will get HD at his outpt center 
+the afternoon of discharge. Will follow up in clinic with Dr. 
+___.
+ 
+Discharge Medications:
+1. gabapentin 300 mg Capsule Sig: Two (2) Capsule PO BID (2 
+times a day).  
+2. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed for sleep.  
+3. gabapentin 400 mg Capsule Sig: Two (2) Capsule PO HS (at 
+bedtime).  
+4. bupropion HCl 150 mg Tablet Extended Release 24 hr Sig: One 
+(1) Tablet Extended Release 24 hr PO DAILY (Daily).  
+5. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+6. ropinirole 0.25 mg Tablet Sig: One (1) Tablet PO QPM (once a 
+day (in the evening)).  
+7. sevelamer carbonate 800 mg Tablet Sig: Three (3) Tablet PO 
+TID W/MEALS (3 TIMES A DAY WITH MEALS).  
+8. metoprolol succinate 100 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).  
+9. levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+10. hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q4H (every 
+4 hours) as needed for pain.
+Disp:*20 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+RUE fistula aneurysm 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+-___ shower tommorow. Pat incision dry.
+-Return or call if discharge from incision, opening of incision, 
+hand becomes cold or numb, fever, chills, bleeding or anything 
+else that concerns you.
+-Resume all home medications.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10808282-DS-20 | hadm_id=23959622
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Amoxicillin / Codeine / Latex / Lactose / Shellfish Derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+AV Fistula ulceration and recurrent bleeding
+ 
+Major Surgical or Invasive Procedure:
+AV Fistula Sutured
+Placement of Tunneled IJ Catheter
+ 
+History of Present Illness:
+___ hx anuric HTN-ESRD on HD via RUE AVF since ___ notable for 
+revisions x5 for thrombus, stenosis, aneurysmal dilation most 
+recently with excision of infected segment fistula/subsequent 
+revision, last on ___. He last presented to ___ ED ___ 
+with concern for bleeding, was stable, and discharged from ED. 
+Now presenting from outpatient dialysis after full cycle of HD 
+with new opening of surgical incision without active bleeding 
+and concern for inadequate soft tissue coverage. Denies 
+paresthesias, pain, tingling in R hand.
+Denies pain, fevers chills, night sweats, unexplained weight 
+loss, changes in appetite, trouble with sleep, weakness, 
+paresthesias, nausea, vomiting, hematemesis, bloating, cramping, 
+melena, BRBPR, dysphagia, chest pain, shortness of breath, 
+cough, edema, urinary frequency, urgency
+
+ 
+Past Medical History:
+ESRD on HD ___, anemia, CAD, hypertension, systolic CHF,
+hypothyroidism, psoriasis, restless leg syndrome, h/o L3 burst
+fracture, s/p spinal fusion L2-4 ___, h/o MSSA osteomyelitis,
+h/o MSSA epidural abscess, h/o MSSA paraspinal abscess, h/o MSSA
+bacteremia.
+
+ 
+Social History:
+___
+Family History:
+Father died of MI in ___ mother alive and well ___; 8 siblings, 
+one of whom has HTN, one who has a cerebral aneurysm; he has no 
+children.
+ 
+Physical Exam:
+Weight: 53 kg
+VS: T 96.8, HR 80, BP 126/78, RR 18, SaO2 100ra
+GEN: A/Ox3, NAD
+HEENT: PERRL, MMM
+CV: RRR, No M/G/R, nl s1s2
+PULM: CTAB, No W/R/R
+ABD: Soft, nondistended, nontender, no rebound or guarding
+Ext: No ___ edema, ___ warm and well perfused. 
+Right arm with large AV fistula with aneurysm. Proximal fistula
+site with 2.5cm soft tissue defect, superior pole with fibrinous
+exudate, inferior pole with minimal clot. No signs of active
+bleeding or purulent drainage. Distal fistula site multiple 
+scabs
+without stigmata of recent bleeding.
+
+ 
+Pertinent Results:
+On Admission: ___ 
+WBC-4.8 RBC-3.52* Hgb-10.3* Hct-33.8* MCV-96 MCH-29.1 MCHC-30.3* 
+RDW-16.8* Plt ___ PTT-30.5 ___
+Glucose-71 UreaN-14 Creat-2.8*# Na-141 K-4.6 Cl-99 HCO3-30 
+AnGap-17
+Calcium-8.7 Phos-4.0 Mg-1.9
+.
+___ 05:15PM Hct-24.9*
+.
+___ 05:15AM Hct-30.3*
+___ ___ PTT-32.7 ___
+___ Gluc-71 UreaN-24* Creat-4.6* Na-141 K-4.8 Cl-99 HCO3-29 
+AnGap-18
+Calcium-9.1 Phos-5.1* Mg-2.___ y/o male with significant dialysis access history, most 
+recent revision was ___. He presented to the ED following 
+HD with concern for bleeding from the aneurysmal fistula.
+The patient was found to have significant bleeding once admitted 
+through the ED, and despite pressure placed to access, the 
+fistula continued to bleed. Hct dropped from
+33.8 on admission to 24.9. The access was sutured by Dr ___ 
+___ with resultant hemostasis. The access continued to have a 
+positive bruit and thrill.
+He received one unit of packed RBCs with post transfusion hct of 
+ 30.3 ___.
+The patient was taken to interventional radiology for placement 
+of a tunneled dialysis catheter to be able to facilitate rest 
+for the access. A right IJ was placed with tip in the right 
+atrium.  Hemodialysis was done on ___. On ___, avf 
+dressing was clean and dry. 
+
+___ evaluated him and recommended home ___. ___ services were 
+arranged. He was discharged to home with instructions to receive 
+HD at ___ on ___. 
+ 
+Medications on Admission:
+metoprolol succinate ER 100 mg daily, lisinopril 5 mg daily,  
+synthroid ___ mcg daily, ropinirole 0.25 mg QHS, aspirin 81 mg  
+daily, clonazepam 1 mg daily PRN, hydromorphone 8 mg BID,  
+trazodone 50 mg QHS PRN insomnia, gabapentin 300-600 mg BID and  
+
+900 mg QHS, betamethasone dipropionate 0.05 % topical cream to  
+affected areas, bupropion HCl SR 150 mg daily, betametasone 
+0.05%  
+cream, renvela 2.4 gram TID with meals, renal caps 1 mg daily, B 
+complex vitamins daily, buproprion 150'.  
+ 
+Discharge Medications:
+1. gabapentin 300 mg Capsule Sig: Two (2) Capsule PO BID (2 
+times a day).  
+2. sevelamer carbonate 800 mg Tablet Sig: Three (3) Tablet PO 
+TID W/MEALS (3 TIMES A DAY WITH MEALS).  
+3. bupropion HCl 75 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+4. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+5. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+One (1) Puff Inhalation Q4H (every 4 hours) as needed for 
+SOB/wheezing.  
+6. betamethasone dipropionate 0.05 % Cream Sig: One (1) Appl 
+Topical DAILY (Daily).  
+7. clonazepam 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+as needed for anxiety.  
+8. levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+10. ropinirole 0.25 mg Tablet Sig: One (1) Tablet PO QPM (once a 
+day (in the evening)).  
+11. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig: 
+One (1) Cap Inhalation DAILY (Daily).  
+12. metoprolol succinate 100 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).  
+13. Tylenol ___ mg Tablet Sig: Two (2) Tablet PO prn: every 8 
+hours as needed for pain.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+rue aneurysmal avf
+esrd
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Please call the access clinic at ___ for fever, chills, 
+increased pain in the right arm, redness, drainage or bleeding. 
+Please place pressure to any site that bleeds if this occurs 
+again, and call ___ if the bleeding does not stop.
+Continue all home medication
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10808282-DS-12 | hadm_id=25140479
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amoxicillin / Codeine / Latex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+GI bleed
+.
+ 
+Major Surgical or Invasive Procedure:
+Hemodialysis
+Percutaneous endoscopic gastrostomy tube placement
+.
+ 
+History of Present Illness:
+___ yo male with ESRD on ___ HD, cardiomyopathy (EF ___, 
+osteomyelitis who is transferred from ___ with 
+guiac-positive stools, hematocrit 20.6 today down from baseline 
+26 at end of ___.  
+.  
+Recent discharged from ___ on ___ after complicated 
+admission notable for:  
+1. MSSA paraspinal abscess, bacteremia, and L3-4 osteomyelitis 
+now s/p L2-4 anterior/posterior spinal L2-4 fusion by Dr. 
+___ currently on nafcillin followed by Dr. ___ ID, 
+rifampin stopped ___ due to rising LFTs  
+2. Enterobacter wound infection receiving ciprofloxacin  
+3. AV fistula stenosis s/p dilatation and s/p ___ guided HD line 
+placement  
+4. Bilateral pleural effusions s/p thoracentesis and chest tube 
+- ?due to CHF  
+5. S/p ___ guided percutaneous abdominal fluid collect drainage - 
+800cc bloody, cultures negative  
+5. Malabsorptive diarrhea  
+For additional details, please see ___ discharge summary.  
+.  
+Regarding his current presentation, the patient reports one 
+episode of maroon-covered emesis yesterday, but none 
+subsequently. Also noted to have black stools. No prior h/o 
+bleeding. He recently had an NGT for nutritional supplementation 
+that was removed last week. Also notes increased frequency of 
+loose stools requiring rectal bag but no frank blood. Since 
+rectal bag placement he has had no further BM.  
+.  
+In the ED, HD stable. NG lavage was negative and rectal exam w/ 
+hemmorrhoids, brown stool that was guaiac positive. Attempted 
+PIV but no access, has PICC in place. Transfused 1 unit pRBC. GI 
+contacted and rec EGD in am, with plan for later c-scope as not 
+sufficient time to prep and more likely upper source.  
+.  
+ROS: Denies abd pain, CP, SOB. Poor PO intake. Denies fevers, 
+chills, sweats. No current back pain. +Insomnia.  
+.  
+
+ 
+Past Medical History:
+1. ESRD of unknown etiology: s/p HD fistula LUE  
+2. HTN  
+3. CAD with positive stress test ___. Restless leg syndrome  
+5. Psoriasis  
+6. Anemia ___ ESRD  
+7. Malabsorptive diarrhea
+8. recent MSSA paraspinal abscess, bacteremia, and L3-4 
+osteomyelitis now s/p L2-4 anterior/posterior spinal L2-4 
+fusion, on nafcillin
+9. Enterobacter wound infection, on cipro
+.  
+
+ 
+Social History:
+___
+Family History:
+Father died of MI in ___ mother alive and well ___; 8 siblings, 
+one of whom has HTN, one who has a cerebral aneurysm; he has no 
+children.
+.
+ 
+Physical Exam:
+T 98.1 HR 110/74 BP 96 RR 20 SaO2 100% RA  
+General: malnurished male, NAD, breathing comfortably on RA  
+HEENT: PERRL, EOMi, anicteric sclera  
+Neck: supple, trachea midline, no thyromegaly or masses, no LAD  
+
+Cardiac: RRR, s1s2 normal, no m/r/g, no JVD  
+Pulmonary: CTAB anteriorally  
+Abdomen: +BS, soft, nontender, scaphoid, no HSM, well-healed LLQ 
+scar  
+Extremities: warm, thin, no edema  
+Back: redness over sacrum, well-healing surgical site on lumbar 
+spine with sutures intact  
+Neuro: A&Ox3, speech clear and logical, CNII-XII intact, moves 
+all extremities but ___ weak bilaterally unchanged from prior per 
+patient  
+.  
+
+ 
+Pertinent Results:
+PERTINENT LABS:
+___ 07:00PM BLOOD WBC-4.9 RBC-2.44* Hgb-7.7* Hct-23.7* 
+MCV-97 MCH-31.6 MCHC-32.5 RDW-24.0* Plt ___
+___ 05:45AM BLOOD WBC-5.2 RBC-2.83* Hgb-8.9* Hct-28.0* 
+MCV-99* MCH-31.3 MCHC-31.7 RDW-23.8* Plt ___
+___ 07:00PM BLOOD Neuts-72* Bands-0 ___ Monos-5 Eos-4 
+Baso-1 ___ Myelos-0
+___ 07:00PM BLOOD ___ PTT-44.9* ___
+___ 04:00AM BLOOD ___
+___ 05:45AM BLOOD ___
+___ 07:00PM BLOOD Glucose-70 UreaN-38* Creat-2.5* Na-144 
+K-4.3 Cl-109* HCO3-26 AnGap-13
+___ 05:44AM BLOOD ALT-23 AST-39 LD(LDH)-353* AlkPhos-97 
+TotBili-1.3
+___ 05:44AM BLOOD Albumin-2.9* Calcium-9.0 Phos-3.5# Mg-2.0
+___ 04:27AM BLOOD VitB12-1164*
+___ 04:27AM BLOOD TSH-8.4*
+___ 04:27AM BLOOD Free T4-0.51*
+.
+MICRO DATA:
+STOOL C DIFF (___): negative
+.
+CXR (___): 
+1) No change in the position of the left subclavian PICC line 
+still terminating at the brachiocephalic/SVC after placement of 
+a double-lumen left subclavian line. 
+2) Stable moderate to severe bilateral pleural effusions. 
+.  
+
+ 
+Brief Hospital Course:
+___ man with ESRD on HD, cardiomyopathy (EF ___, 
+recent spine osteomyelitis currently on nafcillin presents with 
+GI bleeding.  
+.  
+# Acute blood loss anemia: Likely upper source given black 
+stools and maroon emesis. Possible etiology was NGT mechanical 
+irritation. Two prior negative EGDs (last ___. No current 
+active bleeding once he arrived at ___. Has chronic anemia ___ 
+ESRD. Transfused 2 units early on during his hospitalization. 
+Hct on admission was 23.7 and remained stable at 28 after being 
+transfused. Had intermittently guaiac positive stools but no 
+further hematemesis or melena. He was maintained on a PPI BID. 
+GI evaluated the patient and deferred colonoscopy or EGD as an 
+inpatient given the bleeding had stabilized. He will follow-up 
+with GI as an outpatient.     
+.  
+# Poor nutritional status: Pt is severely cachectic with diffuse 
+muscle wasting. Was getting TFs at rehab via NGT. Alb 1.9-->2.9 
+from his previous admission to this admission. Nutrition was 
+consulted and calorie counts revealed he was not meeting his 
+goal caloric intake. PEG tube was placed and tube feeds 
+initiated without incident.
+.
+# Hypoglycemia: Likely ___ low glycogen stores with decreased PO 
+intake. Followed with q4 finger sticks and encouraged PO intake. 
+Also made sure the patient took in complex carbs ___ 
+crackers and peanut butter) every night to prevent nocturnal 
+hypoglycemia. Fingersticks improved when tube feeds were 
+initiated.
+.
+# ___ numbness/pain: Pt complained of numbness and tingling in 
+his bilateral lower extremities. Likely peripheral neuropathy. 
+DDx would also include hypothyroidism (TSH was 8) or due to his 
+chronic illness. B12 was wnl. He was started on gabapentin 300mg 
+qHS. This can be up-titrated as needed as an outpatient.
+.
+# MSSA paraspinal abscess, bacteremia, and L3-4 osteomyelitis 
+now s/p L2-4 anterior/posterior spinal L2-4 fusion: MSSA at 
+L2-4. Do not appear to be any new issues. Continue nafcillin for 
+8 wk course per ID, followed by Dr. ___. Rifampin d/c'd on ___ 
+due to increasing LFTs. Incision draining serosanguinous fluid 
+but no evidence of infection. Continued TLSO brace when he is 
+out of bed. Pain control with methadone and percocet. Seen by 
+ortho spine while in house. Scheduled to follow-up with Dr. 
+___ on ___ and sutures will be removed at that time.  
+.  
+# Diarrhea: H/o malabsorptive diarrhea, possibly lactose 
+intolerance, currently has rectal tube. C. diff neg ___ 
+yesterday. Once infectious cause was ruled out, he was 
+re-started on loperamide. Continued lactose-free diet.   
+.  
+# Cardiomyopathy/Depressed EF: No active issues. Relatively new 
+cardiomyopathy with an EF of ___ recently discovered, of 
+unclear etiology. On last admission, pre-op stress MIBI showed 
+no reversible perfusion defects making ischemia less likely and 
+he was started on metoprolol and low dose lisinopril. Metoprolol 
+and lisinopril were held initially in the setting of GI bleed 
+and relatively low blood pressure. BB and ACEI were added back 
+slowly as his BP tolerated. Lisinopril can be increased to his 
+previous dose of 5mg daily as his BP allows. Fluid status was 
+managed via HD.  
+.  
+# ESRD on HD: On MWF schedule, followed by Dr. ___. 
+Continued nephrocaps, phoslo and epogen with HD. Continued on 
+regular HD schedule. During this admission he was successfully 
+dialyzed through his AV fistula using a small gauge needles (16 
+gg). Should have tunneled HD catheter removed by ___ in one week 
+if access via fistula is stable.   
+.  
+# CODE: FULL (confirmed)   
+.  
+
+ 
+Medications on Admission:
+lactinex tab daily  
+vitamin c 500mg daily  
+25% albumin QHD  
+phoslo 667mg tid  
+cipro 250mg dialy (stop date ___  
+darbepoetin 200mcg QHD  
+heparin sc bid  
+lisinopril 5mg daily  
+loperamide 2mg tid  
+metamucil daily  
+methadone 5mg tid  
+lopressor 37.5mg tid  
+miracle cream  
+mirtazapine 15mg qhs  
+nafcillin 2mg q4h  
+opium tincture 7 drops bid  
+k-dur 40meq daily  
+benprotein 1 scoop tid  
+zantac 150mg daily  
+tylenol prn  
+albuterol nebs prn  
+asprin 325 mg prn  
+bisacodyl prn  
+cepacol prn  
+dilaudid ___ q4h prn  
+loperamide 2mg q2h prn  
+ativan 0.5mg q8h prn  
+MOM 30ml daily prn  
+nitro sl 0.4mg prn  
+zofran 4mg iv prn  
+.  
+
+ 
+Discharge Medications:
+1. Ascorbic Acid ___ mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. PhosLo 667 mg Capsule Sig: One (1) Capsule PO once a day.  
+3. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours): stop date ___.  
+4. Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+5. Loperamide 2 mg Capsule Sig: One (1) Capsule PO TID (3 times 
+a day) as needed.  
+6. Lactinex     Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO twice a day.  
+7. Methadone 5 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day).  
+8. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3 
+times a day).  
+9. miracle cream  Sig: One (1)   once a day: apply once daily to 
+sacral area.  
+10. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+11. Nafcillin in D2.4W 2 gram/100 mL Piggyback Sig: One (1)  
+Intravenous Q4H (every 4 hours).  
+12. Opium Tincture 10 mg/mL Tincture Sig: Seven (7) drops PO 
+twice a day.  
+13. K-Dur 20 mEq Tab Sust.Rel. Particle/Crystal Sig: Two (2) Tab 
+Sust.Rel. Particle/Crystal PO once a day.  
+14. benprotein  Sig: One (1) scoop  three times a day.  
+15. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).  
+16. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed.  
+17. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as 
+needed.  
+18. Hydromorphone 2 mg Tablet Sig: ___ Tablet PO Q4H (every 4 
+hours) as needed for pain.  
+19. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours) as needed for anxiety.  
+20. Ondansetron HCl (PF) 4 mg/2 mL Solution Sig: One (1)  
+Injection Q8H (every 8 hours) as needed for nausea.  
+21. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO HS (at 
+bedtime).  
+22. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+23. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+.
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: Lower GI bleed
+.
+Secondary:
+ESRD on HD
+Hypertension
+CAD
+Psoriasis
+Anemia ___ ESRD
+.
+ 
+Discharge Condition:
+Vitals stable. Hematocrit stable.
+.
+ 
+Discharge Instructions:
+You were admitted to the hospital for evaluation of lower GI 
+bleeding and drop in your blood count. This bleeding stopped on 
+its own. You continue to have diarrhea, which is a chronic 
+problem for you and will require further outpatient evaluation. 
+In addition, you had a feeding tube placed, called a "PEG" tube, 
+which will give you extra nutrition to strengthen  your body.
+.
+Follow-up as below.
+.
+Take all medications as prescribed. No changes have been made to 
+your medication regimen while in the hospital.
+.
+If you notice bright red blood from your rectum, vomiting of 
+blood or coffee grounds like material, fevers > 101, difficulty 
+with your feeding tube, or other symptoms that are concerning to 
+you, you should call your doctor or go to the nearest emergency 
+room.
+.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10808282-DS-21 | hadm_id=27115454
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amoxicillin / Codeine / Latex / Lactose / Shellfish Derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Weakness
+ 
+Major Surgical or Invasive Procedure:
+Hemodialysis
+
+ 
+History of Present Illness:
+History of Present Illness:  ___ year-old male with history of 
+ESRD on HD, CAD, ___ with resultant cardiac liver chirrosis, 
+RUE fistula s/p multiple revisions presenting today with 
+generalized weakness. The patient is on ___ dialysis 
+sessions.
+.
+Per the patient's report he has been in usual state of health 
+for the past several weeks no significant complaints, fevers or 
+otherwise.  On ___ the patient decided that he had had enough 
+with dialysis and refused to go.  His family asked that a social 
+worker see him at the house, but he was adimant that he would 
+not go to dialysis.  On ___ the patient continued to feel fine 
+with no complaints.  Late ___ night and into ___ morning 
+the patient developed several episodes of loose stool without 
+abdominal pian, nausea or vomitting.  On the morning of 
+admission patient states he "felt terrible", was unable to walk 
+or stand, felt that his legs were going to buckle underneath 
+him.  Also felt that he was tremors and unable to hold a cup of 
+tea.  He denies any fevers, chills, pain, swelling in his arms 
+or legs, increased abdominal distention or abdominal pain.  His 
+mother called and ambulance and he was brought to the ED.
+.  
+In the ED, initial vs were: 97.9 86 142/86 18 98% RA. Patient 
+was noted to have chronic ulcerations on bilateral knees, over 
+chronic venous stasis.  Patient was admitted for dialysis prior 
+to arrival on the floor.  HD was uneventful by report.
+.  
+On the floor, patient's vitals were 97.8, 135/85, 86, 20, 96RA.  
+And he was reporting improvement in his tremor as well as 
+jerking in his legs.  He denied any pain or current abdominal 
+symptoms.  
+.  
+Review of sytems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denied cough, shortness of breath. Denied chest pain 
+or tightness, palpitations. Denied nausea, vomiting, 
+constipation or abdominal pain. No recent change in bladder 
+habits. No dysuria. Denied arthralgias or myalgias.  
+
+ 
+Past Medical History:
+ESRD on HD ___, anemia, CAD, hypertension, systolic CHF,
+hypothyroidism, psoriasis, restless leg syndrome, h/o L3 burst
+fracture, s/p spinal fusion L2-4 ___, h/o MSSA osteomyelitis,
+h/o MSSA epidural abscess, h/o MSSA paraspinal abscess, h/o MSSA
+bacteremia.
+
+ 
+Social History:
+___
+Family History:
+Father died of MI in ___ mother alive and well ___; 8 siblings, 
+one of whom has HTN, one who has a cerebral aneurysm; he has no 
+children.
+ 
+Physical Exam:
+ADMISSION EXAM:
+Vitals:  97.8, 135/85, 86, 20, 96RA 
+General: very caxcectic man, appears very anxious, Alert, 
+oriented, no acute distress, with a flat yet worried affect 
+appears mildly disheveled. 
+HEENT: Sclera mildly icteric, MMM, oropharynx clear, eczemathous 
+plaque on left ear lobe. 
+Neck: very little supperficial tissue, easily palpable 
+lymphnodes that do not appear enlarged, easily palpable thyroid 
+w/o masses.  Lungs: Clear to auscultation bilaterally, no 
+wheezes, rales, ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, faint ___ systolic 
+murmur in the precoridum and apex no rubs, gallops  
+Abdomen:  grossly distented with easily visulaized epigastric 
+veins, positive fluid wave and distention of the flanks 
+bilaterally.  pingpong ball sized errythematous mass in the LUQ 
+with small scar below.  + bowel sounds, non-tender.
+GU: no foley, some errythematous plaques in inguinal area, 
+easily to palpate, non-tender, mobile lymphnodes.  No lesions on 
+glans or testees.   
+Ext: very wasted w/ little muscle mass.  large protruberent 
+fistula on RUE, Right tunneled line inplace w/o errythema, 
+scaling errythematous plaques on plams, arms bilaterally, 
+chronic venous chagnes in feet and lower extremities with thick 
+finger and toe nails. 
+Neuro: CNs2-12 intact, motor function grossly normal w/ 4+ 
+strenght in all extremities, not able to illict DTRs, no 
+flapping ___, but occasional whole body myoclonic 
+jerking.  + rhomberg, pt unwilling to atempt gait testing.  No 
+sensory defects noticed, normal FNF.  
+.
+DISCHARGE EXAM:
+Vitals:  98, 132/84, 73, 18, 97 RA
+General: very caxcectic man, NAD, though anxious affect is 
+remarkable
+HEENT: Sclera mildly icteric, MMM, oropharynx clear, eczemathous 
+plaque on left ear lobe. 
+Neck: very little supperficial tissue, easily palpable 
+lymphnodes that do not appear enlarged, easily palpable thyroid 
+w/o masses.  Lungs: Clear to auscultation bilaterally, no 
+wheezes, rales, ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, faint ___ systolic 
+murmur in the precoridum and apex no rubs, gallops  
+Abdomen:  grossly distented with easily visulaized epigastric 
+veins, positive fluid wave and distention of the flanks 
+bilaterally.  pingpong ball sized errythematous mass in the LUQ 
+with small scar below.  + bowel sounds, non-tender.   
+Ext: very wasted w/ little muscle mass.  large protruberent 
+fistula on RUE, Right tunneled line inplace w/o errythema, 
+scaling errythematous plaques on plams, arms bilaterally, 
+chronic venous chagnes in feet and lower extremities with thick 
+finger and toe nails.
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 02:00PM BLOOD WBC-6.7 RBC-3.96* Hgb-11.8* Hct-37.0* 
+MCV-93 MCH-29.7 MCHC-31.8 RDW-16.4* Plt ___
+___ 02:00PM BLOOD ___ PTT-36.7* ___
+___ 02:00PM BLOOD Glucose-54* UreaN-34* Creat-5.0* Na-134 
+K-6.8* Cl-94* HCO3-23 AnGap-24*
+___ 07:20AM BLOOD ALT-14 AST-29 CK(CPK)-57 AlkPhos-213* 
+TotBili-0.4
+___ 07:20AM BLOOD Albumin-3.2* Calcium-8.9 Phos-5.5* Mg-2.1
+___ 06:40AM BLOOD TSH-3.2
+
+DISCHARGE LABS:
+___ 06:33AM BLOOD WBC-5.9 RBC-3.68* Hgb-10.5* Hct-33.9* 
+MCV-92 MCH-28.5 MCHC-30.9* RDW-15.9* Plt ___
+___ 06:33AM BLOOD Glucose-105* UreaN-31* Creat-5.4*# Na-138 
+K-4.9 Cl-94* HCO3-38* AnGap-11
+
+IMAGING:
+CXR:  FINDINGS: Bilateral pleural effusions persist and are 
+likely increased slightly. Heart size is again noted to be 
+enlarged. Pulmonary vascular engorgement persists and is 
+similar. Lung volumes are low. Linear opacities at the right 
+base appear similar compared to prior and likely represent 
+atelectasis or scarring. Lumbar spine hardware is incompletely 
+imaged.  Right-sided dialysis catheter is poorly evaluated on 
+this study, but likely terminates in the low right atrium. Right 
+subclavian stent is again noted. 
+  
+IMPRESSION: Stable cardiomegaly, pulmonary vascular prominence, 
+and bilateral pleural effusions, probably increased somewhat. 
+
+MICROBIOLOGY:
+Blood Cultures:  Pending
+ 
+Brief Hospital Course:
+Assessment and Plan:  ___ yo male with end stage renal, liver, 
+heart and lung disease along with overlaying depression who was 
+admitted with weakness after missing a dialysis appointment two 
+days prior to admission.  Patient recieved dialysis with 
+improvement in his symptoms.  Patient was screened by ___ and 
+determined to need short term rehab.
+
+#WEAKNESS:  PER PCP this is indeed the complaints a man with 
+multiorgan failure and progressive decline over several months.  
+Patient had some improvement in his symptoms with dialysis 
+though there was a singificant contribution of his symptoms by 
+decondidtioning.  Patient was seen by physical therapy who 
+recommended that he receive short term rehabilitation to improve 
+his endurance and balance.  There were no major metabolic, 
+infectious or hemodynamic causes of his weakness uncovered and 
+the patient was discharged to rehab.  Depression and poor coping 
+were felt to play a major contribution to his symptoms and a 
+palliative care consult was placed to discuss long term goals of 
+care.  It was determiend that the patient would go to rehab and 
+if continued to have progressive decline a move towards comfort 
+focus care would be made.
+.
+#ESRD:  Patient missed his scheduled dialysis due to 
+non-compliance per his family's report.  He was dialysised 
+according to his normal schedule while and inpatient and had a 
+mild improvement in his symptoms of weakness.  Patient continued 
+to recieve all his usual renal medications.
+.
+#Systolic CHF:  patient has a EF of ___ on last ECHO from 
+___ and stable cardiac exam.  Patient continued onaspirin, 
+lisinopril, metoprolol while in house.
+.
+#CHIRRHOSIS:  patient with history of cardiac induced cirrhosis 
+from chronic hepatic congestion.  Has had infectious as well as 
+autoimmune workup for chirrohsis in the past which were 
+negative.  No derangements in his liver function was observed 
+and the patient recieved lactulose to treat any enchilitis that 
+may have been contributing to his depression.
+.
+#CHRONIC PAIN: From compression fractures s/p fusion.  Will 
+continue home dilaudid at 8 mg BID.
+.
+#RESTLESS LEG SYNDROME:  Stable, continued home gabapentin and 
+ropinirole.  
+.
+#HTN:  Good systolic pressures at this time, will continue 
+lisinopril.  
+.
+#HYPOTHYROID:  will continue synthroid per home dosing as TSH 
+was not elevated.
+.
+#COPD:  Lungs clear on exam and CXR w/o no respiratory 
+complaints, will continue titropium and albuterol.
+.
+#DEPRESSION:  Patient's depression was identified as a major 
+barrier to his longterm care needs, he was continued on his home 
+buproprion and clonazepam.  Activating medications including 
+ritalin were entertained, but felt that his underlying cardiac 
+and liver disease percluded its use.
+.
+TRANSITIONAL ISSUES: 
+-Primary nephrologist raised issue of future neuro-cognative 
+testing
+-patient is a full code, but should be reassed as his chronic 
+issues continue to evolve
+-Palliative care consultation was placed to address future, 
+needs patient still wishes to persue treatment of chronic issues 
+at this time
+-patinet's blood cultures were pending, but no growth at the 
+time of discharge.  
+
+ 
+Medications on Admission:
+- albuterol 90mcg ___ puffs Q4hrs
+- Renal Caps 1mg daily
+- Betamethasone dipropionate 0.05% Cream daily
+- bupropion Hcl 150mg daily
+- clonazepam 1mg daily PRN
+- Gabapentin 900mg QHS
+- Hydromorphone 8mg BID
+- levothyroxine 125mcg daily
+- lisinopril 5mg daily
+- metoprolol succinate 100mg daily
+- mometasone 0.1% lotion BID
+- ropinirole 0.25mg QHS
+- sevelamer 2400mg TID
+- tiotropium 18mcg 2 puffs daily
+- trazodone 50mg QHS
+- Vit C 500mg daily
+- ASA 81mg daily
+
+ 
+Discharge Medications:
+1. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+One (1) Puff Inhalation Q4H (every 4 hours).  
+2. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+3. betamethasone dipropionate 0.05 % Cream Sig: One (1) Appl 
+Topical BID (2 times a day).  
+4. bupropion HCl 150 mg Tablet Extended Release Sig: One (1) 
+Tablet Extended Release PO QAM (once a day (in the morning)).  
+5. clonazepam 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+as needed for anxiety.  
+6. gabapentin 300 mg Capsule Sig: Three (3) Capsule PO HS (at 
+bedtime).  
+7. hydromorphone 2 mg Tablet Sig: Four (4) Tablet PO BID (2 
+times a day).  
+8. levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+10. metoprolol succinate 100 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO once a day.  
+11. mometasone 0.1 % Cream Sig: One (1)  Topical BID (2 times a 
+day).  
+12. ropinirole 0.25 mg Tablet Sig: One (1) Tablet PO QHS (once a 
+day (at bedtime)).  
+13. sevelamer carbonate 800 mg Tablet Sig: Three (3) Tablet PO 
+TID W/MEALS (3 TIMES A DAY WITH MEALS).  
+14. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig: 
+One (1) Cap Inhalation DAILY (Daily).  
+15. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+16. ascorbic acid ___ mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+17. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+18. ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO Q8H (every 8 hours) as needed for nausea.  
+19. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3 
+times a day).  
+20. nicotine 7 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr 
+Transdermal DAILY (Daily).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY
+- End Stage Renal Disease on a TuThSa dialysis schedule
+
+SECONDARY
+- Systolic heart failure
+- Anemia
+- Chronic ascites and cirrhosis from congestive hepatopathy
+- Compression fractures, s/p L2-4 fusion causing chronic pain
+- Hypertension
+- hypothyroidism
+- restless leg syndrome
+- psoriasis
+- Chronic Obstructive Pulmonary Disease
+- Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you while you were in the 
+hospital.  You were admitted for evaluation of your weakness and 
+difficulty standing.  This was felt to be related to missing 
+your dialysis session and a result of your chronic liver, lung, 
+heart and kidney diseases.  You were seen by our physical 
+therapists who felt that you would benefit from rehab, Dr. 
+___ Dr. ___ agreed as did your family.  
+
+The following changes were made to your medications:
+-Start Lactulose 30 mL three times a day
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10808282-DS-17 | hadm_id=27783113
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amoxicillin / Codeine / Latex / Lactose / Shellfish Derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+diarrhea, nausea, vomitting
+ 
+Major Surgical or Invasive Procedure:
+hemodialysis
+
+ 
+History of Present Illness:
+___ with history of ESRD on HD, history of C. diff, cirrhosis, 
+systolic and diastolic HF, chronic Pain, Hypothyroidism, and 
+restless Leg Syndrome, who presents with nausea, diarrhea x few 
+days and chills.  No fevers.  He has a history of C diff for 
+which he takes PO vancomycin.
+.
+He missed dialysis yesterday because he felt unwell (usually 
+tues thurs sat).  In the ED, he got calcium gluconate for 
+elevated K+ although sample was hemolyzed and repeat K was 
+normal.  He also got d50 for hypoglycemia.  CXR was concerning 
+for right pleural effusion.  He is admitted for hemodialysis as 
+an inpatient.
+.  
+Currently, he reports some nausea and thirst.  He denies pain 
+and difficulty breathing.
+
+ 
+Past Medical History:
+-ESRD of unknown etiology: s/p HD fistula RUE, on HD ___ 
+at ___ in ___  
+-Anemia ___ esrd  
+-CAD with positive stress test ___  
+-Systolic CHF - EF 20% from ___ TTE; RV systolic  
+dysfunction/global free wall hypokinesis; 1+MR; "significant" 
+PR.  
+-HTN  
+-Psoriasis  
+-L3 burst fracture w/ neurologic compromise and retropulsion  
+onto cauda L2-L4  
+-Status post anterior-posterior spinal fusion of ___ 
+ 
+-MSSA L2-L3 osteo/epidural abscess  
+-MSSA Paraspinal abscess  
+-Hx of MSSA bacteremia - ___  
+-Hypothyroid  
+-H/o sacral decub & groin ulcer  
+-Restless leg syndrome  
+-H/o abdominal fluid collection drained s/p anterior spinal  
+fusion  
+
+ 
+Social History:
+___
+Family History:
+Father died of MI in ___ mother alive and well ___; 8 siblings, 
+one of whom has HTN, one who has a cerebral aneurysm; he has no 
+children.
+ 
+Physical Exam:
+VS: 98.1 67 141/77 20 100% 
+GEN: NAD, alert and oriented
+HEENT: sclera anictierc, oropharynx clear, MMM, dried blood on 
+cheek,
+Lungs: limited inspiratory effort, rhonchi present at right 
+base, no wheezes, no labored breathing or use of accessory 
+muscles
+CV: RRR, no r/m/g
+Abd: soft, NT, slight distension, no masses/organomegaly
+Ext: wwp, no edema, dry skin
+
+ 
+Pertinent Results:
+___ 02:42PM   COMMENTS-GREEN TOP
+___ 02:42PM   K+-4.3
+___ 02:35PM   GLUCOSE-180* UREA N-21* CREAT-5.2* SODIUM-138 
+POTASSIUM-4.4 CHLORIDE-93* TOTAL CO2-24 ANION GAP-25*
+___ 02:35PM   ALT(SGPT)-24 AST(SGOT)-43* ALK PHOS-238* TOT 
+BILI-0.7
+___ 02:35PM   LIPASE-22
+___ 02:35PM   CALCIUM-10.0 PHOSPHATE-5.2* MAGNESIUM-2.0
+___ 01:14PM   COMMENTS-K ADDED AT
+___ 01:14PM   LACTATE-2.0 K+-7.6*
+___ 01:00PM   GLUCOSE-61* UREA N-22* CREAT-5.1* SODIUM-134 
+POTASSIUM-8.3* CHLORIDE-92* TOTAL CO2-25 ANION GAP-25*
+___ 01:00PM   estGFR-Using this
+___ 01:00PM   CALCIUM-9.5 PHOSPHATE-6.0* MAGNESIUM-2.2
+___ 01:00PM   WBC-8.1 RBC-3.53* HGB-11.4* HCT-35.1* MCV-99* 
+MCH-32.4*# MCHC-32.6 RDW-18.3*
+___ 01:00PM   NEUTS-83* BANDS-1 LYMPHS-11* MONOS-4 EOS-1 
+BASOS-0 ___ MYELOS-0
+___ 01:00PM   HYPOCHROM-NORMAL ANISOCYT-2+ POIKILOCY-NORMAL 
+MACROCYT-OCCASIONAL MICROCYT-NORMAL POLYCHROM-NORMAL
+___ 01:00PM   PLT SMR-NORMAL PLT COUNT-___ with history of ESRD on HD, history of C. diff, cirrhosis, 
+systolic and diastolic HF, chronic Pain, Hypothyroidism, and 
+restless Leg Syndrome, who presents with nausea, diarrhea x few 
+days and chills, admitted for dialysis.
+.
+#Diarrhea/n/v: likely gastroenteritis with sx improving and VSS. 
+ He has a history of c diff for which his home dose of po vanc 
+was continued. LFTs at baseline.  Stool studies pending at time 
+of discharge.  Patient able to tolerate POs at time of 
+discharge.  Patient able to walk with walker, at baseline, prior 
+to discahrge.  Will notify PCP of admission and pending studies.
+.
+#Chronic kidney disease: Patient missed most recent dialysis 
+appointment and may have missed his ___ appointment as well. 
+ He normally gets dialysis tues thurs sat.  On admission to the 
+ED, his K was elevated but this was a hemolyzed specimen and 
+repeat K was normal (checked after he was given calcium 
+gluconate).  He had some evidence of volume overload in CXR/lung 
+exam.  He underwent dialysis on ___.  Per renal 
+fellow, he should proceed with routinely scheduled dialysis on 
+___.  His home medications and supplements were continued.
+.
+#psychiatric history: history of depression/anxiety.  No SI 
+during hospital stay.  Home medications were continued.
+.
+#hypothyroidism: continued home dose of synthroid
+.
+#h/o HF: continued home medications
+.
+#h/o chronic pain: continue home medications.  Per recent pcp 
+note, is on narcotic contract and is compliant with no concern 
+for substance abuse
+
+ 
+Medications on Admission:
+B complex-vitamin C-folic acid [Renal Caps] 
+1 mg Capsule 
+1 Capsule(s) by mouth once a day  ___
+Renewed ___,
+ ___ 30 Capsule 6 (Six) ___ MD  
+nr clonazepam 
+1 mg Tablet 
+1 Tablet(s) by mouth at bedtime  ___
+Renewed ___,
+ ___ 30 Tablet 6 (Six)    
+  fluoxetine 
+20 mg Tablet 
+one Tablet(s) by mouth every day.  ___
+Modified ___,
+ ___ 30 Tablet 3 (Three) ___  
+  gabapentin 
+300 mg Capsule 
+2 Capsule(s) by mouth 1 or 2 tabs bid and 3 tabs at HS  
+___
+Renewed ___,
+ ___ 150 Capsule 6 (Six) ___ MD  
+nr hydromorphone 
+4 mg Tablet 
+1 Tablet(s) by mouth q 6 hours for pain  ___
+Renewed ___,
+ ___ 112 Tablet 0 (Zero)   Allergy Alert  
+  levothyroxine [Synthroid] 
+125 mcg Tablet 
+1 Tablet(s) by mouth once a day  ___
+Renewed ___,
+ ___ 30 Tablet 6 (Six) ___ MD  
+  lisinopril 
+5 mg Tablet 
+1 Tablet(s) by mouth once daily  ___
+Modified ___,
+ ___ 30 Tablet 6 (Six) ___ MD  
+nr lorazepam 
+1 mg Tablet 
+1 Tablet(s) by mouth once a day  ___
+Renewed ___,
+ ___ 30 Tablet 6 (Six)    
+  metoprolol succinate 
+100 mg Tablet Sustained Release 24 hr 
+1 Tablet(s) by mouth once a day  ___
+Renewed ___,
+ ___ 30 Tablet 12 (Twelve) ___  
+  ropinirole 
+0.25 mg Tablet 
+1 Tablet(s) by mouth HS  ___
+Renewed
+Start date: ___ ___,
+ ___ 90 Tablet 3 (Three) ___  
+  sevelamer HCl [Renagel] 
+800 mg Tablet 
+1 Tablet(s) by mouth three times a day  ___
+Renewed ___,
+ ___ 90 Tablet 6 (Six) ___ MD  
+nr vancomycin 
+125 mg (2.5 ml) once a day mixed as a 14 day supply  ___
+Renewed ___,
+ ___ 35 ml 6    
+nr vit c 
+500 mg once daily (Prescribed by Other Provider)  ___
+Recorded Only ___,
+ ___.        
+  * OTCs *             
+  aspirin 
+81 mg Tablet, Chewable 
+1 Tablet(s) by mouth once a day (OTC)  ___
+Recorded Only ___,
+ ___ EX        
+  B complex vitamins 
+Capsule 
+1 Capsule(s) by mouth once a day (Prescribed by Other Provider; 
+med rec)  ___
+Recorded Only ___,
+ ___        
+  lactobacillus acidoph & bulgar [Lactinex] 
+1 million cell Tablet, Chewable 
+1 tab Tablet(s) by mouth twice daily Pt. has no recollection of 
+taking this medication (Prescribed by Other Provider) 
+ 
+Discharge Medications:
+1. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+2. clonazepam 1 mg Tablet Sig: One (1) Tablet PO QHS (once a day 
+(at bedtime)).  
+3. fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+4. gabapentin 300 mg Capsule Sig: One (1) Capsule PO QHD (each 
+hemodialysis).  
+5. hydromorphone 4 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for pain.  
+6. levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+8. lorazepam 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+9. metoprolol succinate 100 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+10. ropinirole 0.25 mg Tablet Sig: One (1) Tablet PO QPM (once a 
+day (in the evening)).  
+11. sevelamer HCl 400 mg Tablet Sig: Two (2) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+12. vancomycin 125 mg Capsule Sig: One (1) Capsule PO once a 
+day.  
+13. ascorbic acid ___ mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+14. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+15. Vitamin B Complex     Capsule Oral
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+diarrhea/nausea, likely gastroenteritis, self-resolved
+chronic end stage kidney disease on HD
+
+hypothyroidism
+depression
+chronic pain on narcotic contract
+CAD
+systolic CHF
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Mr ___,
+It was a pleasure participating in your health care.  You were 
+admitted to ___ with diarrhea, 
+nausea, and vomitting which improved with supportive care.  You 
+missed a dialysis appointment and you received dialysis while 
+you were in the hospital.
+
+No changes were made to your medications.  Please continue your 
+home medications.  Please continue dialysis on ___, 
+___, and ___.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10808282-DS-13 | hadm_id=28507625
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amoxicillin / Codeine / Latex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered mental status and respitatory distress
+ 
+Major Surgical or Invasive Procedure:
+R femoral line placement
+Bilateral thoracentesis
+ 
+History of Present Illness:
+___ y/o male chronic ill with systolic CHF (EF ___, HTN, CAD, 
+ESRD on HD, MSSA osteomyelitis with paraspinal abscess on 
+nafcillin living at ___ of ___ who presents with 
+lethargy *2 days of worsening somnulence/responsiveness. ___ 
+___ and family noted nausea ___ patient noted to have 
+temp 101.4 with question of aspiration as patient vomited *2. 
+Also noted intermittently having shortness of breath which was 
+worse this am. CXR per ___ showed increasing right 
+pleural effusion and worsening congestive heart failure. The 
+patient was transferred from ___ due to worsening 
+shortness of breath and worsening AMS.  
+.  
+In ED temp:99.8 HR:105 BP:83/49 RR20 high 93% on 3LNC. Patient 
+in ED unable to answer questions, but did localize to pain. 
+Patient was intubated for airway protection as patient was 
+snoring respirations/ gagging on tongue. CXR bilateral pleural 
+effusions worse from prior.  
+Started levophed BP 108/88, HR 95, access left EJ by EMS, PICC 
+-double lumen. Patient given in ED levaquin/cefepime/ 
+vancomycin. Patient admitted to MICU due to intubation, 
+congestive heart failure, and leukocytosis.  
+.  
+Patient unable to give history.  
+
+ 
+Past Medical History:
+Past medical:
+Depression  
+ESRD of unknown etiology: s/p HD fistula RUE, on HD MWF
+HTN  
+CAD with positive stress test ___  
+Restless leg syndrome  
+Psoriasis  
+Anemia ___ esrd  
+Hypothyroid  
+MSSA bacteremia ___ (unclear if fully treated as patient 
+missing HD sessions so may also have missed taking Abx)
+h/o abdominal fluid collection drained s/p anterior spinal 
+fusion
+
+<br> Past surgical:
+L2-L4 anterior and posterior fusion ___ s/p MVA ___ and for 
+paraspinal abscess  
+ 
+
+ 
+Social History:
+___
+Family History:
+Father died of MI in ___ mother alive and well ___; 8 siblings, 
+one of whom has HTN, one who has a cerebral aneurysm; he has no 
+children.
+ 
+Physical Exam:
+Vitals: T:100.8 BP: 103/71 P: 99 RR:20 AC 70% ___ O2Sat: 95%  
+Gen: alert, non verbal, in mild distress  
+HEENT: Clear OP, MMM, dry skin around mouth.  
+NECK: Supple, No LAD, JVP to neck  
+CV: RR, NL rate. NL S1, S2. No murmurs, rubs. S4+  
+LUNGS: crackles/rales throughout lung fields.  
+ABD: distended, mildly tender throughout, no rebound/guarding. + 
+BS.  
+EXT: gross 3+ whole body anasarca. 2+ DP pulses ___  
+SKIN: Stage II pressure ulcer on buttock, dehised back wound 
+from spinal surgery healing by secondary intention oozing serous 
+fluid  
+NEURO: opens eyes on command, unable to squeeze hands on 
+command, but moving all extremities. 
+
+ 
+Pertinent Results:
+___ 02:42AM BLOOD WBC-10.6 RBC-2.95* Hgb-9.3* Hct-30.0* 
+MCV-102* MCH-31.3 MCHC-30.9* RDW-21.6* Plt ___
+___ 03:27AM BLOOD WBC-9.3 RBC-2.82* Hgb-8.9* Hct-28.6* 
+MCV-101* MCH-31.6 MCHC-31.2 RDW-22.6* Plt ___
+___ 04:35AM BLOOD WBC-12.8* RBC-3.05* Hgb-9.7* Hct-30.5* 
+MCV-100* MCH-31.8 MCHC-31.8 RDW-22.9* Plt ___
+___ 03:35PM BLOOD Hct-32.8*
+___ 04:22AM BLOOD WBC-19.8* RBC-3.48* Hgb-11.0* Hct-35.2* 
+MCV-101* MCH-31.6 MCHC-31.3 RDW-22.2* Plt ___
+___ 03:42PM BLOOD WBC-18.1* RBC-3.28* Hgb-10.5* Hct-33.7* 
+MCV-103* MCH-32.0 MCHC-31.1 RDW-22.7* Plt ___
+___ 11:15AM BLOOD WBC-14.5*# RBC-3.08* Hgb-9.6* Hct-32.2* 
+MCV-105* MCH-31.1 MCHC-29.7* RDW-22.0* Plt ___
+___ 03:42PM BLOOD Neuts-76* Bands-7* Lymphs-4* Monos-12* 
+Eos-0 Baso-0 Atyps-1* ___ Myelos-0
+___ 11:15AM BLOOD Neuts-78* Bands-1 Lymphs-10* Monos-11 
+Eos-0 Baso-0 ___ Myelos-0
+___ 03:27AM BLOOD ___ PTT-38.5* ___
+___ 04:35AM BLOOD ___ PTT-40.5* ___
+___ 04:22AM BLOOD ___ PTT-38.9* ___
+___ 03:42PM BLOOD ___ PTT-36.4* ___
+___ 11:15AM BLOOD ___ PTT-150* ___
+___ 02:42AM BLOOD Glucose-106* UreaN-27* Creat-1.9* Na-145 
+K-3.7 Cl-110* HCO3-27 AnGap-12
+___ 03:27AM BLOOD Glucose-101 UreaN-40* Creat-2.4* Na-145 
+K-3.6 Cl-110* HCO3-26 AnGap-13
+___ 04:35AM BLOOD Glucose-93 UreaN-35* Creat-2.1* Na-146* 
+K-3.7 Cl-108 HCO3-26 AnGap-16
+___ 04:22AM BLOOD Glucose-67* UreaN-56* Creat-2.8* Na-141 
+K-4.2 Cl-104 HCO3-22 AnGap-19
+___ 03:42PM BLOOD Glucose-101 UreaN-53* Creat-2.6* Na-139 
+K-4.1 Cl-102 HCO3-24 AnGap-17
+___ 11:15AM BLOOD Glucose-82 UreaN-48* Creat-2.3* Na-143 
+K-3.8 Cl-110* HCO3-24 AnGap-13
+___ 04:35AM BLOOD ALT-7 AST-16 Amylase-31
+___ 04:22AM BLOOD ALT-8 AST-21 CK(CPK)-39 AlkPhos-82 
+TotBili-0.6
+___ 03:42PM BLOOD ALT-10 AST-18 CK(CPK)-50 AlkPhos-82 
+Amylase-42 TotBili-0.5
+___ 06:10AM BLOOD cTropnT-0.48*
+___ 04:22AM BLOOD CK-MB-NotDone cTropnT-0.51*
+___ 03:42PM BLOOD CK-MB-NotDone cTropnT-0.48*
+___ 11:15AM BLOOD cTropnT-0.4*
+___ 02:42AM BLOOD Phos-3.8 Mg-1.8
+___ 03:27AM BLOOD Phos-5.1* Mg-1.9
+___ 04:35AM BLOOD Albumin-2.1* Calcium-8.2* Phos-4.4# 
+Mg-1.9
+___ 06:23PM BLOOD Mg-2.1
+___ 04:22AM BLOOD Phos-6.0* Mg-2.2
+___ 03:42PM BLOOD Albumin-2.3* Calcium-8.4 Phos-6.1* Mg-2.2
+___ 11:15AM BLOOD Calcium-7.4* Phos-6.4*# Mg-2.1
+___ 06:10AM BLOOD Vanco-18.1
+___ 05:12PM BLOOD Vanco-5.7*
+___ 02:58AM BLOOD Type-ART Temp-37.6 ___ Tidal V-500 
+PEEP-8 FiO2-40 pO2-114* pCO2-41 pH-7.44 calTCO2-29 Base XS-3 
+-ASSIST/CON Intubat-INTUBATED
+___ 11:05AM BLOOD Type-ART Temp-35.6 ___ Tidal V-500 
+PEEP-8 FiO2-50 pO2-174* pCO2-37 pH-7.43 calTCO2-25 Base XS-1 
+-ASSIST/CON Intubat-INTUBATED
+___ 07:07PM BLOOD Type-ART Temp-36.9 Rates-16/ Tidal V-500 
+PEEP-8 FiO2-50 pO2-148* pCO2-38 pH-7.43 calTCO2-26 Base XS-1 
+-ASSIST/CON Intubat-INTUBATED
+___ 05:46AM BLOOD Type-ART Temp-37.0 Tidal V-550 PEEP-10 
+FiO2-50 pO2-123* pCO2-35 pH-7.49* calTCO2-27 Base XS-4 
+-ASSIST/CON Intubat-INTUBATED
+___ 03:46PM BLOOD Type-ART Temp-37.2 Rates-20/ Tidal V-550 
+PEEP-10 FiO2-60 pO2-139* pCO2-38 pH-7.46* calTCO2-28 Base XS-3
+___ 09:09AM BLOOD Type-ART Temp-37.2 Rates-20/ Tidal V-550 
+PEEP-10 FiO2-60 pO2-127* pCO2-31* pH-7.43 calTCO2-21 Base XS--2 
+-ASSIST/CON Intubat-INTUBATED
+
+ECHO ___: The left atrium is mildly dilated. There is mild 
+symmetric left ventricular hypertrophy with normal cavity size. 
+There is severe global left ventricular hypokinesis (LVEF = 20 
+%). The right ventricular cavity is moderately dilated with 
+moderate global free wall hypokinesis. The aortic valve leaflets 
+(3) are mildly thickened but aortic stenosis is not present. No 
+aortic regurgitation is seen. The mitral valve leaflets are 
+mildly thickened. There is no mitral valve prolapse. Mild (1+) 
+mitral regurgitation is seen. The tricuspid valve leaflets are 
+mildly thickened. The pulmonic valve leaflets are thickened with 
+restricted leaflet motion or systolic doming. No pulmonic 
+stenosis is appreciated. Significant pulmonic regurgitation is 
+seen. There is a trivial/physiologic pericardial effusion. 
+Compared with the prior study (images reviewed) of ___, 
+the right ventricle now appears dilated and hypokinetic. The 
+other findings are similar.  
+
+CT ABD/PELVIS ___:  1. Limited study demonstrates diffuse and 
+extensive anasarca, ascites. 2. Large bilateral pleural 
+effusions, with associated atelectasis. 3. Interval decrease in 
+left-sided retroperitoneal fluid collection, without visible 
+internal loculations or gas. No definite focal, circumscribed 
+fluid collection separate from this to suggest abscess. 4. No 
+gross bony destruction to suggest osteomyelitis. 5. Possible 
+decubitus ulcer. 
+
+ 
+Brief Hospital Course:
+OVERALL SUMMARY OF STAY:
+<br> Mr. ___ presented to ___ on ___ with altered mental 
+status, hypotension, and respiratory failure as well as fever 
+and leukocytosis.  He was grossly fluid overloaded at 
+presentation with whole-body anasarca and large bilateral 
+pleural effusions.  The source of his infection was not clear as 
+he had multiple possible sources for infection including 
+previous MSSA paraspinous abscess, a PICC line which had been in 
+place for several weeks, a known intraabdominal fluid collection 
+and recent diarrheal illness.  However, scans did not reveal any 
+paraspinous abscess, blood cultures from the PICC were negative, 
+C. diff labs were negative, and scans showed that the abdominal 
+fluid collection had decreased in size; therefore the source of 
+the infection was not clear though it resolved rather quickly 
+after hospitalization and antibiotics.
+He was treated with vancomycin/cefipime(changed to 
+ceftazidime)and briefly needed to be on pressors for 
+hypotension.  He was intubated from presentation until ___fter extubation without significant further 
+respiratory distress.  His fever and leukocytosis resolved with 
+antibiotics.  He received dialysis by HD, CVVH with UF, then HD 
+again and this greatly improved his anasarca; he also received 
+bilateral thoracentesis which were transudative.  After 
+extubation he did well from a respiratory and hemodynamic 
+standpoint.  He was in the MICU until ___ at which point he was 
+stable and discharged to the floor. On the floor, pt has been 
+stable and tolerating HD MWF well.  Pt will finish 14 day course 
+of Vancomycin and Ceftazidime on ___ just prior to discharge 
+to rehab.  
+
+<br> HOSPITAL COURSE BY PROBLEM:
+<br> Respiratory failure: Patient presented with decreased 
+breathing and was intubated from ___ until ___.  The most 
+likely etiology of his respiratory failure was thought to be 
+both his septic picture and infection at presentation 
+(fever/leukocytosis) as well as his acute on chronic heart 
+failure (baseline L heart failure with new R heart failure at 
+presentation) leading to fluid overload and pulmonary edema.  
+His significant pleural effusions at presentation which likely 
+contributed heavily to his respiratory difficulty.  As he was 
+diuresed and dialyzed, fluid status improved and his respiratory 
+status also improved.  He was extubated on ___ and did well 
+from a respiratory standpoint; he was weaned to NC by ___.  He 
+had a brief episode of desaturation to high 80's while on HD on 
+___ and was given non-rebreather and came back to 100%; was 
+then able to be weaned back to NC.  Lower extremity US were 
+performed to assess for DVT ___ and these results were 
+negative.  On floor, pt was weaned to RA and was discharged with 
+O2 sat 92% on RA. 
+
+<br> Fever and leukocytosis: Patient presented febrile and with 
+high WBC count as well as hypotension, c/w a septic picture.  
+There were multiple possible sources for infection including his 
+old PICC line, his known paraspinal abscess, his history of 
+recent intraabdominal fluid collection, and recent diarrhea.  He 
+came to the hospital on nafcillin and this was switched to 
+vancomycin given the possibility that he had MRSA not covered by 
+previous outpatient regimen.  He was also started on 
+ciprofloxacin and zosyn given the possibility of anaerobic 
+infection ___ abdominal source; this was changed to vancomycin 
+and cefipime per ID recs. Flagyl was started given the 
+possibility of C. diff or other gut flora as evidenced by his 
+diarrhea; this was D/C when 3X C. diff were negative.  The 
+patient was kept on a 2-week of vancomycin and cefipime 
+(cefipime switched to ceftazidime on ___.  Cultures obtained 
+from the HD catheter and the PICC were negative.  A femoral 
+arterial line was placed on ___ and central line placement was 
+attempted on ___, however this placement was not successful.  
+Because of this, his PICC was left in place until he was 
+hemodynamically stable.  Femoral A-line was pulled on ___ and 
+PICC was pulled on ___.  MRI of T and C spine was obtained per 
+ortho to search for any other possible areas of spinal 
+osteomyelitis, and though MRIs were not ideal because of 
+movement artifact, they showed no new paraspinous abscess or 
+fluid collection.  CTs of the T and L spine also showed no 
+paraspinous abscess or fluid collection.  Overall after his 
+initial presentation with fever and leukocytosis, his WBC 
+trended downward and he had no significant fevers.  He completed 
+a 14 day course of ceftazidime and vancomycin on ___. 
+
+<br> Pleural effusions: Patient has a history of pleural 
+effusions but CXR read at presentation showed worsened effusions 
+compared to prior.  He had daily CXRs to monitor and was 
+dialyzed as BP tolerated. Though he did not spike further fevers 
+and WBC were stable, his pleural effusions persisted throughout 
+his MICU stay despite HD and ultrafiltration.  On ___ the 
+possibility of therapeutic bilateral thoracentesis was 
+considered with the patient and his family.  R thoracentesis on 
+___ was traumatic and appeared exudative with eosinophilia.  L 
+thoracentesis on ___ was non-traumatic and transudative; it was 
+thought that the R ___ showed false values due to ?tap 
+technique and possible old blood in R pleura.  Gram stain and 
+culture of both the R and L pleural fluid was negative.  The 
+most likely etiology of the effusions was still thought to be 
+volume overload (confirmed by physical exam and CXR as well as 
+the second ___ results).
+
+<br> Cardiomyopathy/Acute on Chronic Systolic Heart Failure: 
+Patient had a known EF of ___ (based on echo ___ at 
+presentation, and a BNP was >70,000.  There was no prior BNP for 
+comparison.  He also had a troponin of 0.48 at presentation 
+which increased slightly to 0.51 on ___.  These were thought to 
+be primarily due to demand ischemia given his probable 
+infection.  There were no concerning EKG changes.  Troponins 
+were measured and trended down (repeat troponin on ___ was 
+0.48).  He had an echo on ___ which showed new RV dilation and 
+hypokinesis not seen on the ___ Echo, as well as other 
+findings consistent with his ___ echo including mild left 
+atrial enlargement, mild symmetric LVH, severe LV hypokinesis 
+and an EF ~20% as well as mild MR, significant pulmonic 
+regurgitation and trivial pericardial effusion.  This new R 
+heart failure could be either a result of his known L heart 
+systolic failure or the result of new R heart strain.  CTA was 
+performed to rule out PE and this showed no evidence of PE but 
+did confirm large bilateral pleural effusions.  Fluid was 
+removed as BP tolerated during his ___ hemodialysis.  Patient 
+was started on captopril 6.25 TID on ___ for further management 
+of heart failure (rather than metoprolol because he was still 
+hypotensive at this point). He had a history of HTN at home 
+treated with 50mg metoprolol TID.  His metoprolol was restarted 
+at 12.5mg TID on ___ when pressures came back up.  Since his 
+pressure and heart rate were still high on ___, this was 
+increased to 25mg TID and he remained on this for the rest of 
+his hospital stay.  
+
+<br> ESRD on HD: Patient was very volume overloaded at 
+presentation, and extremely edematous.  This was thought to be 
+the likely source of his respiratory compromise.  He was 
+maintained on ___ hemodialysis.  After receiving HD on ___ and 
+___ the renal team felt that ultrafiltration would be useful to 
+take more fluid off in the setting of his hypotension on HD but 
+his persistent fluid-overloaded state.  He was placed on CVVH 
+from ___ and this was successful at removing large 
+quantities of fluid.  Patient appeared much less anasarcic after 
+CVVH.  This was switched to HD with ultrafiltration on ___ (his 
+regular ___ schedule) since his pressures had stabilized and his 
+clinical exam had improved. 
+
+<br> Tachycardia: Patient was persistently in sinus tachycardia 
+to the 110s-120s during the latter part of his MICU stay.  This 
+was thought to be due to heart failure placing him on the 
+descending limb of the Starling curve so that his fluid overload 
+put strain on his heart and cardiac output was low, leading to 
+tachycardia.  He also was anemic which could have contributed.  
+He had a history of hypothyroidism treated with synthroid and 
+TSH was checked for the possibility that renal failure and fluid 
+shifts led to increased levels of synthroid causing a 
+hyperthyroid picture; however TSH was slightly elevated c/w mild 
+hypothyroidism.  His tachycardia persisted but at lower levels 
+(low 100s)on ___. 
+
+<br> Altered Mental Status: Paient presented with decreased 
+mentation from his baseline.  It was thought that his altered 
+mental status was primarily ___ infection given his leukocytosis 
+and fever.  He did also have a known history of hypoglycemia in 
+the setting of being hospitalized.  A glucose at presentation 
+was 59 and he was given ___ amp D50 with an improvement in 
+mental status.  Finger sticks were normal through the rest of 
+his hospital stay, and infection was treated as per above.  
+Patient's mental status improved significantly after extubation 
+and weaning of sedation.
+
+<br> Paraspinal Abscess: Patient presented with known paraspinal 
+abscess.  Initial plan when this abscess was discovered was to 
+have an 8-week course of nafcillin.  he had initially been on 
+rifampin as well, but this was stopped on ___ given his 
+worsening LFTs.  At the time of admission, patient was put on 
+the antibiotic regimen described above, i.e. switched from 
+nafcillin to vancomycin given signs of infection (fever and 
+leukocytosis) in the setting of already being on nafcillin.  
+Leukocytosis and fevers improved as per above.
+
+<br> Diarrhea: Patient had a history of loose stools at a 
+previous admission which were attributed to his bowel regimen 
+and his low albumin.  At the time of this admission, he was 
+cultured for C. diff X3 and all cultures were negative. He was 
+started on flagyl at the time of initial admission, and this was 
+continued until ___ when the ___ C. diff culture returned 
+negative.  His home loperamide was held.
+
+<br> Decubitus ulcer on buttocks: Patient had state II decub 
+ulcers on buttocks and a healing wound from recent spinal 
+surgery.  He had flexiseal dressings placed to protect, and 
+wound care consult saw him.
+
+<br> Anemia: Thought to be likely ___ his ESRD.  Iron studies 
+were repeated and he received epogen at HD.  He did have a Hct 
+drop on ___ from 29.9 to 26.0 and repeat Hcts during the next 
+few days showed Hct persistently low in the ___ range.  Iron 
+studies were repeated and showed low iron and high TIBC c/w iron 
+deficiency anemia. On ___, pt had Hct  20.9 and was given 1 
+unit PRBCs with rise in HCt to 24.2. HCT is 25.3 at time of 
+discharge.
+
+<br> Pain: Patient was on methadone as a home regimen.  This was 
+decreased at presentation to 5mg TID given his altered mental 
+status.  He did complain of abdominal pain during his stay, and 
+amylase and lipase were checked on ___ these were normal. Per 
+previous records this abdominal pain has been a longstanding 
+issue.  Patient was culture for C. diff as per above.  By ___ 
+the patient was no longer complaining of abdominal pain.
+
+<br> HTN: patient has a history of HTN was on home metoprolol.  
+This was held in the setting of his septic picture with hypoTN 
+requiring pressors, and he was monitored for reflex tachycardia. 
+ Levophed was started at admission and was able to be weaned and 
+turned off by ___.  Captopril was started on ___ as per above 
+(for his cardiac failure rather than for hyperTN as he was still 
+hypotensive at this point).  His home metoprolol was restarted 
+on ___ and titrated up as tolerated because his pressures had 
+slowly increased to the 120s and he was tachycardic to the 
+100s-110s. He remained slightly tachycardic for the rest of his 
+stay but his pressures were in the normal range and he was not 
+hypertensive.   
+
+<br> CAD with positive stress test ___: Patient was maintained 
+on ASA 325mg daily, plan was to restart metoprolol when his BP 
+would tolerate.  Echo was repeated as per above. Captopril and 
+metoprolol started as per above.
+
+<br> Restless leg syndrome: Patient's home mirtazipine was held 
+given his altered mental status at presentation.
+
+<br> Psoriasis: treated with sarna lotion PRN
+
+<br> Hypothyroid: Patient's home synthroid was increased to 62.5 
+mcg from 50 this hospital stay after TSH slightly elevated at 
+5.4 (ULN 4.2) with a free T4 of 0.8.  Pt's TSH should be 
+rechecked in ___ wks to ensure appropriate dosing.  
+
+<br> FEN: Patient was kept NPO until ___ at which point his tube 
+feeds were restarted per nutrition recommendations.  Lytes were 
+repleted PRN.  He was started back on a PO diet on ___ and 
+advanced as tolerated per speech and swallow recs (no gag reflex 
+on initial assessment, but was able to be advanced with no signs 
+of choking).
+
+<br> PPX: Heparin SC, bowel regimen
+
+<br> Code: FULL CODE.  This was readdressed and confirmed at a 
+family meeting on ___.
+
+ 
+Medications on Admission:
+(per ___ record)  
+Antibiotics started on last admission  
+Ciprofloxacin 500mg daily PO/via tube day 1 ___  
+Nafcillin 2gm q4hr day 1 ___  
+.  
+Metoprolol Tartate 50 mg q6hr  
+Mirtazapine 15 mg QHS  
+Methadone 10 mg TID (per medical record)  
+Loperamide 2mg BID  
+Pantoprazole 40 mg BID  
+Levothyroxine 50 mcg daily  
+Gabapentin 300 mg QHS  
+Amylase/lipase/protease Creon 20, 3 capsules TID  
+Lactobacillus 2 tab TID  
+Lanthanum carbonate 500 mg BID ___, 2200)-phos binder  
+Vitamin B complex 1 tab daily  
+Heparin SC 5000 BID  
+Tylenol ___ mg q6hr prn  
+Zofran 4mg q8hr prn  
+Betamethasone 0.1% lotion to perineum, buttocks BID  
+Zinc Oxide 20% ointment apply daily  
+
+ 
+Discharge Medications:
+1. Methadone 5 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day).  
+2. Levothyroxine 125 mcg Tablet Sig: 0.5 Tablet PO DAILY 
+(Daily).  
+3. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO HS (at 
+bedtime).  
+4. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) 
+units Injection BID (2 times a day).  
+5. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours) as needed for pain.  
+6. Ondansetron HCl (PF) 4 mg/2 mL Solution Sig: Four (4) mg 
+Injection Q8H (every 8 hours) as needed for nausea.  
+7. Lanthanum 500 mg Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO BID (2 times a day).  
+8. Betamethasone Valerate 0.1 % Cream Sig: One (1) Appl Topical 
+BID (2 times a day) as needed for buttocks, perineum.  
+9. B-Complex with Vitamin C     Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+10. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID 
+(3 times a day).  
+11. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+12. Amylase-Lipase-Protease 33,200-10,000- 37,500 unit Capsule, 
+Delayed Release(E.C.) Sig: One (1) Cap PO TID W/MEALS (3 TIMES A 
+DAY WITH MEALS).  
+13. Captopril 12.5 mg Tablet Sig: 0.5 Tablet PO TID (3 times a 
+day).  
+14. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO twice a day.  
+15. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical BID 
+(2 times a day) as needed for groin infxn.  
+16. White Petrolatum-Mineral Oil     Cream Sig: One (1) Appl 
+Topical QID (4 times a day) as needed.  
+17. Lactobacillus Acidophilus     Tablet Sig: Two (2) Tablet PO 
+three times a day.  
+18. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as 
+needed.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Sepsis from probable line infection
+Secondary Diagnoses:
+Respiratory Failure
+Pleural Effusions
+ESRD on HD
+Acute on Chronic systolic CHF
+Anemia
+Depression
+Hypothyroidism
+
+ 
+Discharge Condition:
+Stable- 92% O2 sat on room air
+
+ 
+Discharge Instructions:
+You were admitted with low blood pressure and and respiratory 
+failure after you got an infection in your blood stream.  Here, 
+you were treated for 14 days with antibiotics for this 
+infection.  Now, you are being transferred back to a nursing 
+home.  You will continue to get dialysis there on your normal 
+___ schedule.
+
+Please call your doctor or return to the ED if you get chest 
+pain, shortness of breath, increasing abdominal pain, dizziness, 
+or any other concerning symptoms. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10808282-DS-22 | hadm_id=28762887
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amoxicillin / Codeine / Latex / Lactose / Shellfish Derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+vegetation seen on outpatient TTE  
+
+ 
+Major Surgical or Invasive Procedure:
+transesophageal echocardiogram
+ 
+History of Present Illness:
+Mr. ___ is a ___ gentleman with ESRD on HD, CAD, ___ with 
+resultant cardiac liver chirrosis, h/o MSSA bacteremia, RUE 
+fistula s/p multiple revisions presenting with concern for 
+endocarditis. He had an outpatient TTE on ___ due to new 
+diastolic murmur and he was called and told to come to the ED 
+because of new pulmonic valve vegetation and new pulmonaric 
+valve regurg.  
+.  
+In the ED, initial VS were 97.2 73 110/69 18 99%. He was noted 
+to be chronically ill-appearing but not acutely ill. CXR not 
+very concerning. He has a PCN allergy. Received vancomycin and 
+gentamycin. Admitted for further workup.  
+.  
+Upon arrival to the floor, he is extremely somnolent but is 
+arousable and answers questions. Pt denies current f/c, n/v/d, 
+abd pain, CP/SOB/cough, focal n/t/w, dysuria. He repeats, "I 
+don't want to be sick, and I don't want to get sicker. This is 
+not fair."  
+
+ 
+Past Medical History:
+ESRD on HD ___, anemia, CAD, hypertension, systolic CHF,
+hypothyroidism, psoriasis, restless leg syndrome, h/o L3 burst
+fracture, s/p spinal fusion L2-4 ___, h/o MSSA osteomyelitis,
+h/o MSSA epidural abscess, h/o MSSA paraspinal abscess, h/o MSSA
+bacteremia.
+
+ 
+Social History:
+___
+Family History:
+Father died of MI in ___ mother alive and well ___; 8 siblings, 
+one of whom has HTN, one who has a cerebral aneurysm; he has no 
+children.
+ 
+Physical Exam:
+admission exam 
+VS - Temp 97.4F, BP 122/82, HR 64, R 18, O2-sat 100% 3L NC  
+GENERAL - cachectic, chronically ill-appearing man with muscle 
+wasting  
+HEENT - MMM, OP clear  
+NECK - no thyromegaly, no JVD, no carotid bruits  
+HEART - faint diastolic murmur at right and left sternal border; 
+no rubs, no extra heart sounds  
+LUNGS - no crackles, no wheezes  
+ABDOMEN - protuberant abdomen, (+) fluid wave, no tenderness, 
+liver edge palpable 1-2cm below costal angle  
+EXTREMITIES - thin, 2+ DP pulses  
+LYMPH - no cervical LAD  
+NEURO - very somnolent, but arousable and does answer questions 
+appropriately; was oriented to hospital name and year  
+. 
+discharge exam 
+VS: 97.4 109/77 (109/77-138/86) 77 (74-81) 18 100% RA
+GENERAL - cachectic, chronically ill-appearing man with muscle 
+wasting  
+HEENT - MMM, OP clear  
+HEART - faint diastolic murmur at right and left sternal border; 
+no rubs, no extra heart sounds  
+LUNGS - decreased breath sounds at bases but otherwise clear 
+ABDOMEN - distended with bulging flanks, (+) fluid wave, no 
+tenderness, liver edge palpable 1-2cm below costal angle  
+EXTREMITIES - thin, 2+ DP pulses  
+NEURO -awake, A&Ox3. moving all extremities 
+
+ 
+Pertinent Results:
+admission labs 
+___ 09:05PM BLOOD WBC-5.2 RBC-3.49* Hgb-10.1* Hct-32.1* 
+MCV-92 MCH-28.9 MCHC-31.5 RDW-18.3* Plt ___
+___ 09:05PM BLOOD Neuts-64 Bands-0 Lymphs-17* Monos-12* 
+Eos-2 Baso-0 Atyps-5* ___ Myelos-0
+___ 09:05PM BLOOD Hypochr-2+ Anisocy-2+ Poiklo-NORMAL 
+Macrocy-1+ Microcy-OCCASIONAL Polychr-NORMAL
+___ 09:05PM BLOOD ___ PTT-37.2* ___
+___ 09:05PM BLOOD Glucose-79 UreaN-19 Creat-3.0* Na-136 
+K-5.2* Cl-96 HCO3-30 AnGap-15
+___ 09:05PM BLOOD ALT-14 AST-42* AlkPhos-129 TotBili-0.4
+___ 09:05PM BLOOD Albumin-3.0*
+___ 09:19PM BLOOD Lactate-2.1*
+___ 10:40PM URINE Color-Straw Appear-Clear Sp ___
+___ 10:40PM URINE Blood-LG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-SM
+___ 10:40PM URINE RBC-42* WBC-28* Bacteri-FEW Yeast-NONE 
+Epi-<1 TransE-1
+___ 10:40PM URINE WBC Clm-FEW Mucous-RARE
+.
+urine culture - no growth 
+blood culture ___ - NGTD
+. 
+studies:
+admission ECG: 
+Normal sinus rhythm. Prominent voltage in the precordial leads 
+consistent with
+left ventricular hypertrophy with secondary ST-T wave 
+abnormalities. Left
+atrial abnormality. Compared to the previous tracing of ___ 
+no diagnostic
+interval change.
+. 
+admission CXR: 
+FINDINGS: As compared to the prior examination, small bilateral 
+pleural
+effusions are not substantially changed. There is some 
+loculation on the
+right. Scattered areas of atelectasis are present. No definite 
+consolidation
+suggestive of pneumonia is seen. There is moderately 
+cardiomegaly, unchanged.
+There are calcifications of the aortic arch. A right-sided 
+vascular stent is
+unchanged. There is partially imaged lumbar spinal fusion 
+hardware.
+.
+TEE ___
+No spontaneous echo contrast or thrombus is seen in the body of 
+the left atrium/left atrial appendage or the body of the right 
+atrium/right atrial appendage. Right atrial appendage ejection 
+velocity is good (>20 cm/s). No atrial septal defect is seen by 
+2D or color Doppler. There is severe global left ventricular 
+hypokinesis (LVEF = ___ %). Right ventricular free wall motion 
+is depressed. There are simple atheroma in the descending 
+thoracic aorta to 30 cm from the incisors. The main pulmonary 
+artery is mildly dilated. The aortic valve leaflets (3) are 
+mildly thickened. No masses or vegetations are seen on the 
+aortic valve. Trace aortic regurgitation is seen. The mitral 
+valve leaflets appear structurally normal. There is no mitral 
+valve prolapse. No mass or vegetation is seen on the mitral 
+valve. Mild to moderate (___) mitral regurgitation is seen. The 
+pulmonic valve leaflets are mildly thickened. No vegetation/mass 
+is seen on the pulmonic valve. There is trivial/physiologic 
+pulmonic regurgitation. The tricuspid valve leaflets appear 
+structurally normal. There is mild-moderate tricuspid 
+regurgitation. There is a very small pericardial effusion. 
+
+IMPRESSION: Mild aortic leaflet thickening without discrete 
+vegetation. Mild pulmonic leaflet thickening without discrete 
+vegetation. Trace aortic regurgitation. Mild-moderate mitral 
+regurgitation. Mild-moderate tricuspid regurgitation. 
+Biventricular hypokinesis. 
+. 
+CXR ___
+Bilateral lower lung opacification in the setting of improved 
+right pleural effusion and absence of pulmonary vasculature 
+engorgement concerning for multifocal pneumonia.
+.
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ gentleman with ESRD on HD, ___ with 
+resultant cardiac liver cirrhosis, h/o MSSA bacteremia, RUE 
+fistula s/p multiple revisions presented with concern for 
+endocarditis found to have negative TEE. However, during 
+hospital course developed worsening cough and found to have 
+multifocal pneumonia. 
+.  
+#. Possible Endocarditis - Patient was found to have a new 
+pulmonic valve vegetation on outpatient TTE on ___ concerning 
+for endocarditis vs fibrin deposit on valve and was referred to 
+the ED for evaluation. Patient was initially started on 
+vancomycin and gentamycin for possible endocarditis. His 
+antibiotics were then narrowed to vancomycin only. He underwent 
+a TEE on ___ which showed no evidence of vegetations. Daily 
+blood cultures from ___ to ___ had no growth. 
+.  
+# pneumonia: During TEE, patient noted to vomit with possible 
+aspiration. The following evening he was noted to have worsening 
+cough and new oxygen requirement. He had a chest xray which was 
+concerning for multifocal pneumonia. His white count increased 
+from 7 to 22. Given cough, new oxygen requirement, leukocytosis 
+and evidence of multifocal pneumonia on CXR patient was started 
+initially on zosyn in addition to his vancomycin. This was 
+subsequently changed to ceftazidime and po flagyl. Patient was 
+discharged with plans to complete an 8 day course for hospital 
+acquired/aspiration pneumonia. He should receive both vanc and 
+ceftazidime at his dialysis sessions on ___ and 
+___. He should continue po flagyl until ___. 
+.
+# ESRD: Patient continued on his regular dialysis schedule of 
+___. He was dosed with vancomycin during dialysis. He should 
+receive both vanc and ceftazidime at his dialysis sessions on 
+___ and ___. Patient continued on his 
+renvela, nephrocaps during admission.  
+.
+#. Chronic illness: Patient has very poor functional status. 
+Heart failure, ESRD on HD, malnourished.  Patient seen by 
+palliative care and appears to have some understanding of 
+severity of his diseases, however, is somewhat avoidant in 
+direct disscussions of these issues or planning for the future. 
+He would like to continue to receive current treatment and is 
+hopeful that he will get stronger with rehab. 
+.  
+Inactive issues:  
+.
+#. Cirrhosis: MELD on admission 23. Patient had ascites on exam 
+but did not appear symptomatic from it. Patient has history of 
+hepatic encephalopathy and has taken lactulose in the past, 
+however did not require any during admission. 
+.
+#. Anemia: Hct at baseline. Likely from chronic disease and Epo 
+deficiency. HCT remained stable during admission. 
+.  
+#. Systolic CHF: continued ACE, beta ___ 
+.  
+#. COPD: stable. Continued Spiriva, Proair  
+.
+#. Hypothyroidism: stable, continued synthroid
+.  
+#. Chronic pain:  continued gabapentin, hydromorphone
+.  
+#. Malnutrition: B Complex Vitamins Cap, Renal Caps 1 mg daily, 
+nutrition c/s  
+.  
+# depression/anxiety: continued bupropion and clonazepam 
+. 
+# restless leg syndrome: continued ropinirole  
+.
+transitional issues: 
+- final blood cultures pending at time of discharge 
+- patient should have vancomycin and ceftazidime dosed at 
+dialysis sessions on ___ and on ___. 
+- patient should continue flagyl until ___
+- patient should have electrolytes monitored with dialysis
+- patient was full code on this admission 
+- contact: ___ (sister) ___  
+
+ 
+Medications on Admission:
+ropinirole 0.25 mg QHS  
+Spiriva with HandiHaler 18 mcg 2 puffs(s) once a day  
+Renvela 800 mg Tab: 3 Tablet(s) by mouth three times a day  
+Aspirin 81 mg daily  
+clonazepam 1 mg qd prn  
+ProAir HFA 90 mcg ___ puffs(s) INH every four (4) hours as 
+needed for shortness of breath or wheezing  
+lisinopril 5 mg daily  
+hydromorphone 8 mg BID  
+Advil 200 mg PRN  
+carbamide peroxide 6.5 %: 2 drops in the ear twice a day For 7 
+days or until appointment for early cleaning  
+Synthroid ___ mcg daily  
+trazodone 50 mg QHS PRN  
+gabapentin 300mg-600mg Cap BID and 900mg QHS  
+B Complex Vitamins Cap  
+bupropion HCl SR 150 mg Tab daily  
+metoprolol succinate ER 100 mg daily  
+Renal Caps 1 mg daily 
+ 
+Discharge Medications:
+1. bupropion HCl 150 mg Tablet Extended Release Sig: One (1) 
+Tablet Extended Release PO QAM (once a day (in the morning)).  
+2. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+3. metoprolol succinate 100 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO once a day.  
+4. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig: 
+Two (2) Puff Inhalation Q4H (every 4 hours) as needed for 
+SOB/wheeze.  
+5. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+6. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+7. folic acid 1 mg Tablet Sig: One (1) Tablet PO once a day.  
+8. levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. nicotine 7 mg/24 hr Patch 24 hr Sig: One (1) patch 
+Transdermal once a day.  
+10. cholestyramine (with sugar) 4 gram Packet Sig: One (1) 
+Packet PO BID (2 times a day).  
+11. sevelamer carbonate 800 mg Tablet Sig: Three (3) Tablet PO 
+TID W/MEALS (3 TIMES A DAY WITH MEALS).  
+12. ropinirole 0.25 mg Tablet Sig: One (1) Tablet PO QHS (once a 
+day (at bedtime)).  
+13. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig: 
+One (1) Cap Inhalation DAILY (Daily).  
+14. ascorbic acid ___ mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+15. clonazepam 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+as needed for anxiety.  
+16. hydromorphone 2 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day) as needed for pain.  
+17. gabapentin 100 mg Capsule Sig: Two (2) Capsule PO Q24H 
+(every 24 hours).  
+18. metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H 
+(every 8 hours) for 7 days.  
+19. vancomycin 1,000 mg Recon Soln Sig: dose per HD protocol mg 
+Intravenous qHD for 7 days: please give per HD protocol at 
+dialysis sessions on ___ and ___ .  
+20. ceftazidime 1 gram Recon Soln Sig: One (1) gram Intravenous 
+QHD for 7 days: please give at HD sessions on ___ and ___.  
+21. polyvinyl alcohol 1.4 % Drops Sig: ___ Drops Ophthalmic PRN 
+(as needed) as needed for dry eye.  
+22. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+23. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+aspiration pneumonia 
+
+Secondary:
+End stage renal disease on dialysis
+Cirrhosis
+Systolic congestive heart failure
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+. 
+It was a pleasure caring for you while you were admitted to 
+___. You were admitted because you were found to have an 
+abnormality on your recent heart study that was concerning for 
+an infection. You underwent a TEE which showed no evidence of 
+infection on your heart valves. After your procedure you 
+developed a cough and had blood work and a chest xray concerning 
+for infection. You were started on antibiotics to treat your 
+pneumonia and you clinically improved. 
+.
+The following changes have been made to you medication regimen
+Please START
+- flagyl (take as prescribed until ___
+- vancomycin and ceftazidime (dose in dialysis on ___ and ___ 
+
+- Artificial tears as needed for dry eye
+- Colace as needed for constipation
+- Senna as needed for constipation
+.
+Please CHANGE
+- dilaudid to 4 mg by mouth twice daily as needed for pain
+- gabapentin to 200 mg by mouth daily 
+. 
+Please STOP 
+- trazodone 
+. 
+Please take the rest of your medications as prescribed and 
+follow up with your doctors as ___. 
+.
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+ 
+Followup Instructions:
+___

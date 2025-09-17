@@ -1,0 +1,840 @@
+===== DISCHARGE NOTE =====
+note_id=11680008-DS-16 | hadm_id=21265461
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+disequlibrium and L leg heaviness
+ 
+Major Surgical or Invasive Procedure:
+na
+ 
+History of Present Illness:
+The patient is a ___ year old man with a history of HTN, HLD,
+NSTEMI, pre-DM, depression, presenting with an episode of
+disequlibrium and L leg heaviness which is now resolved.
+
+The patient was in his normal state of health until 4 AM when he
+woke up to go to the bathroom (which he commonly does several
+times per night). Lying in bed after waking up he experienced a
+rocking type sensation of movement. When he stood up he felt 
+very
+unsteady and off balance. Denied frank vertigo or presyncope. He
+had to hold onto the walls and the furniture while walking to 
+the
+bathroom, and held onto the sink to sit down onto the toilet. He
+felt nausous but did not vomit. He used the bathroom and was 
+able
+to walk back to bed with difficulty and went back to sleep. He
+woke up again around 9 AM and went downstairs for breakfast.
+Walking down the stairs, he noted a feeling of heaviness in his 
+L
+leg. He did not trip or fall or notice frank weakness, but did
+have this sensation of heaviness. He still had some persistant
+disequlibrium (had to hold onto the railing for support) and
+nausea but this was not as severe as previously. He got
+downstairs and took a sip of tea but was not hungry enough to 
+eat
+more breakfast. He told his family he was feelign off and his
+brother (a doctor) came over to check him out, taking an EKG and
+vitals signs, and recommended he go to the ED. He did not feel
+well enough to drive himself so his daughter drove him to the ED
+around 11:30. His symptoms continued to improve during this time
+and by the time of my evaluation (3:30 ___ these were completely
+resolved. 
+
+The patient has had some achy posterior L shoulder pain several
+inches below the base of his L neck, just above his scapula. 
+This
+is an achy nagging pain. No injury to his neck or shoulder
+recently or atypical physical activity is reported.
+ 
+Past Medical History:
+- HTN
+- HLD
+- h/o NSTEMI ___ s/o balloon angioplasty
+- OSA w/ intermittent use of CPAP (not using at this time due to
+uncomfortale mask)
+- pre-DM A1C 6.3
+- depression 
+- memory difficulty, referred to neuropsych eval outpatient for
+difficulty remembering the names of ___ x ___ months
+- peripheral edema
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death;  Mother had a stent placed when she was 
+___.  
+
+ 
+Physical Exam:
+Admission exam:
+***************
+VS 97.5 70 130/77 18 98% RA
+General: NAD, lying in bed comfortably. 
+Head: NC/AT, no conjunctival icterus, no oropharyngeal lesions 
+Neck: Supple, no nuchal rigidity, no meningismus
+
+Bedside swallow eval - passed
+
+Neurologic Examination:
+
+- Mental Status - 
+Awake, alert, oriented x 3. Attention to examiner easily 
+attained
+and maintained. Concentration maintained when recalling months
+backwards. Recalls a coherent history. Structure of speech
+demonstrates fluency with full sentences, intact repetition, and
+intact verbal comprehension. Content of speech demonstrates
+intact naming (although unabel to name hammock, can name cactus
+and stethoscope) and no paraphasias. Normal prosody. No
+dysarthria. Verbal registration and recall ___. No evidence of
+hemineglect. No left-right agnosia.
+
+- Cranial Nerves -
+I. not tested
+II. Equal and reactive pupils (3mm to 2mm). Visual acuity fields
+were full to finger counting.  
+III, IV, VI. smooth and full extraocular movements without
+diplopia or nystagmus.  
+V. facial sensation was intact, muscles of mastication with full
+strength
+VII. face was symmetric with full strength of facial muscles
+VIII. hearing was intact to finger rub bilaterally.  
+IX, X. symmetric palate elevation and symmetric tongue 
+protrusion
+with full movement.
+XI. SCM and trapezius were of normal strength and volume.
+
+- Motor -
+Muscule bulk and tone were normal. No pronation, no drift. No
+tremor or asterixis.
+  Delt   Bic  Tri ECR Fext Fflx IP   Quad   Ham   TA   Gas
+L  5      5    ___    5    5      5     5    5     5
+R  5      5    ___    5    5      5     5    5     5
+
+- Sensation -
+Intact to light touch, cold, and proprioception throughout.  
+
+- DTRs -
+ Bic    Tri   ___   Quad   Gastroc
+L 2      1      2      2        2
+R 2      1      2      2        2
+Plantar response flexor bilaterally.
+
+- Cerebellar -
+No dysmetria with finger to nose testing bilaterally. Good speed
+and intact cadence with rapid alternating movements. Negative
+head impulse test.
+
+- Gait -
+Normal initiation. Narrow base. Normal stride length and arm
+swing. Stable without sway. No Romberg. Negative ___
+test. Mild difficulty with tandem gait.
+
+***************
+Discharge exam: 
+***************
+Exam significant for subtle findings of clumsiness on the left 
+side ___ with RAM. very mild left dysmetria. remainder of exam 
+is wnl. 
+ 
+Pertinent Results:
+___ 11:44AM BLOOD WBC-5.9 RBC-5.06 Hgb-15.5 Hct-45.5 MCV-90 
+MCH-30.6 MCHC-34.0 RDW-13.0 Plt ___
+___ 11:44AM BLOOD Neuts-72.8* Lymphs-17.1* Monos-6.2 
+Eos-3.4 Baso-0.5
+___ 11:44AM BLOOD ___ PTT-31.2 ___
+___ 11:44AM BLOOD Glucose-107* UreaN-19 Creat-1.0 Na-135 
+K-6.4* Cl-102 HCO3-25 AnGap-14
+___ 11:44AM BLOOD ALT-25 AST-49* AlkPhos-48 TotBili-0.5
+___ 05:28AM BLOOD CK(CPK)-157
+___ 05:28AM BLOOD Calcium-9.1 Phos-4.0 Mg-2.0 Cholest-132
+___ 11:44AM BLOOD Albumin-4.4
+___ 05:28AM BLOOD %HbA1c-6.3* eAG-134*
+___ 05:28AM BLOOD Triglyc-127 HDL-43 CHOL/HD-3.1 LDLcalc-64 
+LDLmeas-70
+___ 05:28AM BLOOD TSH-1.7
+___ 05:21PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 12:51PM BLOOD K-4.9
+
+NCHCT & CTA head and neck: ___
+1.  No steno-occlusive disease of the intracranial or cervical 
+carotid 
+arterial system. 
+2.  Mild atherosclerotic disease at the origin of the left 
+vertebral artery. 
+3.  No intracranial hemorrhage or evidence of infarct. 
+
+MRI brain ___:
+1.  No evidence of acute intracranial process. No evidence of 
+posterior 
+circulation infarction. 
+  
+2.  Arachnoid cyst or asymmetric ___ cisterna magna in the 
+posterior fossa, more onto the left side, unchanged since ___ with indentation on the adjacent cerebellar hemispheres, 
+the clinical significance of which is uncertain. 
+
+ 
+Brief Hospital Course:
+Mr ___ is a ___ yo man with a history of HTN, HLD, NSTEMI, 
+pre-DM and depression who presented with disequlibrium and L leg 
+heaviness which resolved by the time of neurologic evaluation. 
+Neuro exam was notable for subtle left side clumsiness in upper 
+and lower extr and mild left sided dysmetria. MRI is without 
+evidence of infarct. CTA head and neck with ~40% stenosis at the 
+origin of the left vertebral artery. Given that his exam is 
+still subtly abnormal this is most likely an MRI negative 
+stroke, cerebellar vs brainstem. Given multiple stroke risk 
+factors we will assume this is a stroke. We have increased his 
+aspirin to 325mg daily. No other changes were made. He had a 
+recent ECHO so this was not repeated. Cause of his stroke may 
+have been related to his stenosis of the vertebral artery vs 
+small vessel disease. 
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+
+1. Dysphagia screening before any PO intake? (x) Yes [performed 
+and documented by admitting resident] 
+
+2. DVT Prophylaxis administered by the end of hospital day 2? 
+(x) Yes - () No
+
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No
+
+4. LDL documented (required for all patients)? (x) Yes (LDL = 
+70) - () No
+
+5. Intensive statin therapy administered? () Yes - (x) No [if 
+LDL >= 100, reason not given: ____ ]
+
+6. Smoking cessation counseling given? () Yes - (x) No [if no, 
+reason: (x) non-smoker - () unable to participate]
+
+7. Stroke education given (written form in the discharge 
+worksheet)? (x) Yes - () No
+(stroke education = personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup)
+
+8. Assessment for rehabilitation or rehab services considered? 
+() Yes - (x) No [if no, reason not assessed: no limitation to 
+function]
+
+9. Discharged on statin therapy? (x) Yes - () No 
+
+10. Discharged on antithrombotic therapy? (x) Yes [Type: (x) 
+Antiplatelet - () Anticoagulation] - () No
+
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No [if no, reason not 
+discharge on anticoagulation: ____ ] - (x) N/A
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 2.5 mg PO DAILY 
+2. Metoprolol Succinate XL 25 mg PO DAILY 
+3. Simvastatin 40 mg PO QPM 
+4. Aspirin 81 mg PO DAILY 
+5. Cyanocobalamin ___ mcg PO DAILY 
+6. Vitamin D ___ UNIT PO DAILY 
+7. CoQ-10 (coenzyme Q10) 100 mg oral Daily 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+2. Simvastatin 40 mg PO QPM 
+3. CoQ-10 (coenzyme Q10) 100 mg oral Daily 
+4. Cyanocobalamin ___ mcg PO DAILY 
+5. Lisinopril 2.5 mg PO DAILY 
+6. Metoprolol Succinate XL 25 mg PO DAILY 
+7. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Cerebral embolism without infarction.
+2.Transient unsteady gait with left leg heaviness concerning for 
+TIA/ ISCHEMIC INFARCTION.
+3. History of chronic hypertension.
+4. History of hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+The patient is afebrile, awake, alert oriented x3, no abnormal 
+finding in the cranial nerve exam, no focal weakness, no sensory 
+abnormality was found in the exam.
+Subtle abnormal cerebellar exam, on the left side.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+You were hospitalized due to symptoms of disequlibrium and left 
+leg heaviness resulting from an ACUTE ISCHEMIC STROKE, a 
+condition in which a blood vessel providing oxygen and nutrients 
+to the brain is blocked by a clot. The brain is the part of your 
+body that controls and directs all the other parts of your body, 
+so damage to the brain from being deprived of its blood supply 
+can result in a variety of symptoms.
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+pre-diabetes 
+high cholesterol 
+
+We are changing your medications as follows:
+increasing your aspirin to 325mg daily 
+
+Please take your other medications as prescribed.
+Please followup with Neurology and your primary care physician 
+as listed below.
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- sudden partial or complete loss of vision
+- sudden loss of the ability to speak words from your mouth
+- sudden loss of the ability to understand others speaking to 
+you
+- sudden weakness of one side of the body
+- sudden drooping of one side of the face
+- sudden loss of sensation of one side of the body
+- sudden difficulty pronouncing words (slurring of speech)
+- sudden blurring or doubling of vision
+- sudden onset of vertigo (sensation of your environment 
+spinning around you)
+- sudden clumsiness of the arm and leg on one side or sudden 
+tendency to fall to one side (left or right)
+- sudden severe headache accompanied by the inability to stay 
+awake
+It was a pleasure providing you with care during this 
+hospitalization.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11680008-DS-15 | hadm_id=25864538
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+cardiac catherization
+
+ 
+History of Present Illness:
+___ with HTN, HL, glucose intolerance, OSA w/ intermittent use 
+of CPAP w/ left sided chest pain ___ since last night that 
+radiated to the left arm and neck while taking a walk. He had 
+this pain intermittently for several days prior but it quickly 
+went away with rest. Prior to these episodes he had never had 
+this kind of pain beforehand. He described it as better when he 
+lay flat, but does no increase with palpation or deep breathing. 
+He denies SOB, diaphoresis or recent illness. He does endorse 
+chronic bilateral lower ext edema.  
+.  
+In the ED, initial vitals were 97.6 82 159/80 16 99% RA  
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: +Diabetes (prediabetes with A1c 6.3%, 
++Dyslipidemia, +Hypertension (on nifedipine)  
+2. CARDIAC HISTORY:  
+-CABG: none  
+-PERCUTANEOUS CORONARY INTERVENTIONS: none  
+-PACING/ICD: none  
+3. OTHER PAST MEDICAL HISTORY:  
+
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death;  
+.Mother had a stent placed when she was ___.  
+
+ 
+Physical Exam:
+VS: T=97.5 131/79 65 18 98%RA
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple with no JVP elevation
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: No c/c/e, trace pitting edema bilaterally. No 
+femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+ 
+Pertinent Results:
+Labs on admission:
+
+___ 10:15AM   ___ PTT-28.3 ___
+___ 10:15AM   PLT COUNT-233
+___ 10:15AM   NEUTS-56.2 ___ MONOS-4.0 EOS-15.3* 
+BASOS-0.8
+___ 10:15AM   WBC-5.6 RBC-4.65 HGB-14.7 HCT-41.3 MCV-89 
+MCH-31.6 MCHC-35.5* RDW-12.7
+___ 10:15AM   cTropnT-<0.01
+___ 10:15AM   CK(CPK)-152
+___ 10:15AM   estGFR-Using this
+___ 10:15AM   GLUCOSE-136* UREA N-18 CREAT-1.0 SODIUM-141 
+POTASSIUM-3.7 CHLORIDE-103 TOTAL CO2-26 ANION GAP-16
+___ 08:49PM   CK-MB-15* MB INDX-7.4* cTropnT-0.07*
+___ 08:49PM   CK(CPK)-204
+.
+.
+.
+.
+Labs at discharge:
+
+___ 06:35AM BLOOD WBC-6.6 RBC-4.55* Hgb-14.1 Hct-40.8 
+MCV-90 MCH-31.0 MCHC-34.6 RDW-12.7 Plt ___
+___ 06:35AM BLOOD Plt ___
+___ 06:35AM BLOOD
+___ 06:35AM BLOOD Glucose-105* UreaN-14 Creat-1.0 Na-136 
+K-3.9 Cl-101 HCO3-28 AnGap-11
+___ 06:35AM BLOOD CK-MB-9
+___ 09:30PM BLOOD CK-MB-7
+___ 04:45AM BLOOD CK-MB-14* MB Indx-6.1* cTropnT-0.15*
+___ 02:15AM BLOOD CK-MB-15* MB Indx-6.5* cTropnT-0.13*
+___ 08:49PM BLOOD CK-MB-15* MB Indx-7.4* cTropnT-0.07*
+___ 10:15AM BLOOD cTropnT-<0.01
+
+.
+.
+.
+.
+Imaging Studies:
+ECHO
+The left atrium is elongated. No atrial septal defect is seen by 
+2D or color Doppler. Left ventricular wall thicknesses are 
+normal. The left ventricular cavity size is normal. Due to 
+suboptimal technical quality, a focal wall motion abnormality 
+cannot be fully excluded. Overall left ventricular systolic 
+function is normal (LVEF>55%). There is no ventricular septal 
+defect. Right ventricular chamber size and free wall motion are 
+normal. The diameters of aorta at the sinus, ascending and arch 
+levels are normal. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+stenosis or aortic regurgitation. The mitral valve appears 
+structurally normal with trivial mitral regurgitation. There is 
+no mitral valve prolapse. The estimated pulmonary artery 
+systolic pressure is normal. There is no pericardial effusion. 
+.
+.
+CATH
+(report pending)
+.
+.
+.
+CTA 
+Impression: 
+1. Normal left ventricular cavity size with normal regional left 
+ventricular 
+systolic function. The LVEF was normal at 57%.  
+2. Mild to moderate left atrial enlargement. 
+3. Normal coronary artery origins with no evidence of anomalous 
+coronary 
+arteries. Diffuse calcified, non-calcified and mixed coronary 
+artery plaque 
+with probable severe stenosis of the LAD and LCx and possible 
+severe stenosis 
+of the LCx. 
+
+ 
+Brief Hospital Course:
+___ yoM with HL, HTN, OSA and prediabetes presents with chest 
+pain and found to have CTA coronaries with severe stenoses noted 
+in LAD and Circ. 
+.  
+# CORONARIES:  by CTA appears to have significant stenoses in 
+LAD and CIRC, although no EKG changes on admission consistent 
+with ischemia. ___ set of troponins negative. Trop, CKMB 
+elevated overnight and heparin started. EKG done at time did not 
+show ST changes. He underwent Cardiac cath with balloon 
+angioplasty without stent placement and discharged on aspirin, 
+metoprolol, atorvastatin and plavix for 12 mos. 
+.  
+# PUMP:  EF calculate to be normal on last ECHO ___ (60-70%) 
+with calculated LVEF of 57% by CTA. No signs/symptoms of volume 
+overload.Repeat ECHO on this admit showed EF >55%.
+.  
+# RHYTHM:  in normal sinus rhythm, no arrythmias noted on this 
+admission.
+.  
+#  HL: patient on dietary/lifestyle modifications. CHOL 209, HLD 
+43, LDL 132, Triglyceride 170. Started Atorvastatin 80mg daily 
+which was to continue as outpatient.
+.  
+#  DM: patient prediabetic with A1C 6.3%, not taking medications 
+to control diabetes as outpatient. Maintained on ___ QACHS with 
+SS humalog. Not discharged on any diabetes medications.
+.
+.
+############################
+.
+Transitional issues:
+1. Prediabetes: monitoring A1c for and starting 
+metformin/sulfonylurea if elevated for overall risk reduction.
+2. Ensuring complicance with asa/plavix.
+.  
+ 
+Medications on Admission:
+NIFEDIPINE - 30 mg Tablet Extended Rel 24 hr - 1 Tablet(s) by
+mouth once a day
+TADALAFIL [CIALIS] -  (Prescribed by Other Provider) - Dosage
+uncertain
+TESTOSTERONE ENANTHATE -  (Prescribed by Other Provider) - 
+Dosage
+uncertain
+ 
+Discharge Medications:
+1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+4. fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+5. Plavix 75 mg Tablet Sig: One (1) Tablet PO once a day: please 
+take every day for 12 months.
+Disp:*30 Tablet(s)* Refills:*12*
+6. lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+-non ST elevation myocardial infarction
+.
+Secondary:
+- Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+ 
+You were admitted to the ___ for 
+evaluation of chest pain. Based on blood work, it became 
+apparent that your pain was coming from blocked cardiac 
+arteries. You underwent a cardiac catherization the morning 
+after admission that showed that you had a narrowed coronary 
+artery. A balloon was placed to open up the artery. This 
+procedure restored better flow to your artery. You were observed 
+for 24 hours and were deemed stable for discharge home. 
+.
+You should not do any heavy lifting or vigorous exercise for 1 
+week.
+.
+During your hospitalization, some of your medications changed. 
+Please START taking the following:
+- aspirin 325mg daily
+- plavix 75mg daily**** Take this medication every day until 
+advised otherwise*** 
+- atorvastatin 80mg daily
+- metoprolol 25mg BID
+
+Please STOP:
+- Nifedipine (as this may lower your blood pressure too much 
+while taking metoprolol, please discuss restarting this 
+medication with your doctors)
+
+It is important that you take these medications every day. It is 
+especially important that you do not stop taking plavix as this 
+may cause another blocked artery in your cardiac vessels. 
+
+You should follow up with your cardiologist. 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11680008-DS-17 | hadm_id=29755438
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+___ nuclear stress test
+
+ 
+History of Present Illness:
+Mr. ___ presents with chest pain that occurred at rest and 
+was relieved with ntg.  He called EMS and was taken to ___ 
+___ where a chest CTA revealed no PE.  He was transferred 
+here for further care.  He was free of pain at time of 
+admission.  He was at ___ the week prior to admission for TIA 
+for which he was medically optimized.
+ 
+Past Medical History:
+- HTN
+- HLD
+- h/o NSTEMI ___ s/o balloon angioplasty
+- OSA w/ intermittent use of CPAP (not using at this time due to
+uncomfortale mask)
+- pre-DM A1C 6.3
+- depression 
+- memory difficulty, referred to neuropsych eval outpatient for
+difficulty remembering the names of ___ x ___ months
+- peripheral edema
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death;  Mother had a stent placed when she was 
+___.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: afebrile, 122-130/80-84, 54-68, 18, 98 on RA
+GENERAL: WDWN male in NAD, appears fatigued
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.
+NECK: Supple with JVP of 8 cm.
+CARDIAC: normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. normoactive BS
+NEURO: NFD, CNs II-XII intact
+EXTREMITIES: No c/c. 1+ pitting edema to the calves b/l. 
+
+DISCHARGE PHYSICAL EXAM: 
+Vitals: 97.7 118-128/77-84, 50-64, 18, 97 on RA
+Tele: nil
+Last 24 hours I/O: ___ for greater out than in over 24 hours
+GENERAL: WDWN male in NAD appears fatigued
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.
+NECK: Supple with JVP of 7 cm.
+CARDIAC: normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. normoactive BS
+NEURO: NFD, CNs II-XII intact
+EXTREMITIES: No c/c. 1+ pitting edema to the calves b/l 
+improved. 
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 11:30AM BLOOD WBC-5.5 RBC-5.30 Hgb-16.1 Hct-46.4 MCV-88 
+MCH-30.3 MCHC-34.7 RDW-12.9 Plt ___
+___ 11:30AM BLOOD Neuts-52.0 ___ Monos-7.0 Eos-4.2* 
+Baso-0.2
+___ 11:30AM BLOOD Plt ___
+___ 11:30AM BLOOD Glucose-103* UreaN-12 Creat-1.1 Na-141 
+K-4.6 Cl-103 HCO3-31 AnGap-12
+___ 11:30AM BLOOD CK(CPK)-127
+___ 11:30AM BLOOD CK-MB-2
+___ 11:30AM BLOOD cTropnT-<0.01
+___ 11:30AM BLOOD Calcium-9.3 Phos-3.0 Mg-2.2
+
+STUDIES
+___ 
+IMPRESSION: 
+1. Normal myocardial perfusion.
+2. Normal left ventricular cavity size and systolic function.
+
+DISCHARGE LABS
+___ 04:30AM BLOOD WBC-5.0 RBC-4.93 Hgb-14.7 Hct-43.2 MCV-88 
+MCH-29.8 MCHC-34.1 RDW-13.1 Plt ___
+___ 04:30AM BLOOD Plt ___
+___ 04:30AM BLOOD ___ PTT-31.0 ___
+___ 04:30AM BLOOD Glucose-103* UreaN-15 Creat-1.1 Na-137 
+K-4.0 Cl-100 HCO3-28 AnGap-13
+___ 04:30AM BLOOD CK(CPK)-93
+___ 04:30AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 04:30AM BLOOD Calcium-9.3 Phos-3.8 Mg-2.___ ___ male with recent acute stroke one week ago p/w 
+chest pain relieved by nitro, no changes on EKG, and neg trops. 
+Given h/o NSTEMI in ___, abnormal ex EKG changes in ___, 
+co-morbidities, and recent stroke in ___, evaluating 
+for myocardial perfusion deficits with nuclear stress test that 
+was within normal limits c/w diagnosis of angina.
+
+# CORONARIES: Chest pain concerning of unstable angina given 
+onset at rest, requiring nitro for relief. Has hx of NSTEMI with 
+ballon angioplasy in ___ have micovascualr disease since 
+no overt changes on EKG and no trop leaked. R/o for ACS with 1 
+neg set of trops here and 1 set at ___ r/o dissection as 
+etiology. GI causes inlcuding GERD, esophageal spasm may also be 
+considered, although pt doesn't report GERD sx or sx of 
+dyspahgia.
+- Nuclear stress test in the AM ___ - WNL
+- Continue metoprolol - will give tartrate while in house
+- On simvastatin at home; was previously on Crestor however 
+co-pay was too expensive. Atorva caused sore muscles so simva at 
+home. Crestor for now and can revert to simva if necessary until 
+sees outpatient cardiologist
+- Cont full dose ASA
+- Lisinopril 2.5 mg PO QD
+
+# PUMP: Pt has Normal biventricular regional/global systolic 
+function last echo ___.
+- Lisinopril 2.5 mg PO QD
+- Lasix 10 mg IV ONCE
+- Monitor I/Os strictly
+- Consideration for outpatient diuretic usage given PE in b/l 
+___.
+
+# RHYTHM: Normal sinus.
+
+# OSA: H/o.
+- Continued home CPAP.
+
+# PRE-DIABETES: H/o.
+- Diabetic diet
+
+# HTN - H/o.
+- Continue with lisinopril and fractionated metoprolol.
+
+# HYPERLIPIDEMIA - Continue and maximize statin therapy while in 
+house but has had intolerance to atorvastatin.
+- Crestor 40 mg PO QD
+
+# FEN: no IVF prn / Replete Lytes prn / Heart-Healthy and 
+diabetic diet
+# ACCESS: PIV's
+# PROPHYLAXIS:
+- DVT ppx with Heparin
+# CODE: FULL (confirmed)
+# CONTACT: Patient, wife ___ ___ ( cell) 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 325 mg PO DAILY 
+2. Simvastatin 40 mg PO QPM 
+3. Cyanocobalamin ___ mcg PO DAILY 
+4. Lisinopril 2.5 mg PO DAILY 
+5. Metoprolol Succinate XL 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+2. Cyanocobalamin ___ mcg PO DAILY 
+3. Lisinopril 2.5 mg PO DAILY 
+4. Rosuvastatin Calcium 40 mg PO QPM 
+If you are unable to obtain this medication you may continue 
+taking simvastatin until you follow up 
+RX *rosuvastatin [Crestor] 40 mg 1 tablet(s) by mouth qpm Disp 
+#*30 Tablet Refills:*0
+5. Metoprolol Succinate XL 25 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Angina
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+It was a pleasure caring for you during your recent admission to 
+the ___.  You were admitted 
+with chest pain and we were concerned that your heart may have 
+been injured.  We performed tests to evalaute the blood supply 
+to your heart and to assess your heart function and these tests 
+were all normal.  We treated you with medications to optimize 
+your heart function.  You should continue to take all 
+medications as prescribed. 
+
+Be Well,
+Your ___ Doctors 
+ 
+___ Instructions:
+___

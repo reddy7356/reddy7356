@@ -1,0 +1,753 @@
+===== DISCHARGE NOTE =====
+note_id=10150567-DS-21 | hadm_id=21017979
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Phenobarbital / Valium / Haldol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Nausea/Vomiting 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ male with past medical history of seizure disorder, 
+mental retardation (nonverbal at baseline), chronic constipation 
+and incontinence, blindness, Ehlers-Danlos Syndrome, and 
+hypertension presenting with nausea and vomiting since morning 
+of ___. History was primarily gleaned from his mother who 
+stated he had been well until ___ when he had to come 
+home early from his day program due to vomiting. This quickly 
+resolved over the weekend. Patient remained at him baseline 
+until the morning of admission when patient began vomiting again 
+and his mother noted that all he wanted to do was lie around. At 
+this point she brought him to the ED.
+
+Per ED report, the vomitus was nonbloody nonbilious and 
+accompanied by diarrhea.
+ 
+In the ED patient noted to hypotensive with SBP in ___. Blood 
+pressures remained soft with systolics in the ___ despite 4L 
+of IVF. In addition, he was given:
+
+- IV Ondansetron 4 mg 
+- Lorazepam 2 mg 
+- IV CefePIME 2 g   
+- OLANZapine 10 mg   
+- IVF 1000 mL NS 1000 mL   
+- IV Vancomycin 1000 mg  
+- IVF 1000 mL NS 1000 mL 
+ 
+In the ED, initial vitals: 97.1, 85/69, 16, RA  
+ 
+On transfer, vitals were: 98.1, 85, 96/54, 16, RA 
+ 
+On arrival to the MICU, patient is awake and alert but not 
+obviously in distress. 
+
+Review of systems:  
+(+) Per HPI  
+History gained from patient's mother who is limited by memory 
+problems. 
+ 
+
+ 
+Past Medical History:
+Hypertension.  
+Hypercholesterolemia.  
+Onychomycosis.  
+Seizure disorders.  
+Seasonal allergies.  
+Left and right ulnar fractures.  
+Mental Retardation  
+Esophagitis  
+Chronic constipation  
+Iron deficiency Anemia  
+
+ 
+Social History:
+___
+Family History:
+- Alzheimer's (mother)
+- Stomach cancer (maternal GF)
+- Breast cancer
+- DM
+- No hx of IBD 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+GENERAL: Awake, but nonverbal, not following commands 
+(consistent with baseline per mother). NAD.
+HEENT: MMM. Poor cooperation with exam.  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: Soft. Mildly tender with minimal voluntary guarding, 
+especially in lower abdomen. Non-distended. Minimal bowel 
+sounds. No rebound tenderness. No organomegaly  
+EXT: Warm, well perfused. No clubbing, cyanosis or edema. 
+NEURO: Blind, nonverbal. Can hear and understand ___ and is 
+sometimes interactive
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 02:13PM BLOOD WBC-20.9*# RBC-3.72* Hgb-11.7* Hct-37.0* 
+MCV-100* MCH-31.5 MCHC-31.6* RDW-14.6 RDWSD-53.7* Plt ___
+___ 02:13PM BLOOD Neuts-80.0* Lymphs-7.3* Monos-11.7 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-16.69* AbsLymp-1.52 
+AbsMono-2.45* AbsEos-0.01* AbsBaso-0.04
+___ 02:13PM BLOOD ___ PTT-28.8 ___
+___ 02:13PM BLOOD Glucose-129* UreaN-15 Creat-1.4* Na-143 
+K-4.5 Cl-106 HCO3-24 AnGap-18
+___ 02:13PM BLOOD ALT-14 AST-25 AlkPhos-90 TotBili-0.2
+___ 01:30AM BLOOD Calcium-8.1* Phos-2.4* Mg-2.0
+___ 02:13PM BLOOD Albumin-4.4
+
+Pertinent Results:
+___ 02:17PM BLOOD Lactate-2.1*
+___ 01:57AM BLOOD Lactate-0.7
+
+Microbiology:
+C.diff negative
+urine culture negative
+Blood culture pending
+
+Imaging:
+========
+___ CT Abdomen and Pelvis 
+1. Large fecal loading of the colon with significant impaction 
+of stool in the 
+rectosigmoid.  Chronic thickening of the distal colon. 
+2. Nonvisualized appendix though no secondary signs of 
+appendicitis. 
+3. Limited exam due to motion and suboptimal patient positioning 
+
+
+ 
+Brief Hospital Course:
+___ with MR, blindness, EDS, hypertension, and chronic 
+constipation p/w nausea and vomiting, loose stools, and 
+leukocytosis with radiographic evidence of large stool burden 
+and chronic colitis, found to be hypotensive on presentation.
+
+HOSPITALIZATION COURSE:
+==============
+# Hypotension: Patient presented initially with SBP ___, 
+which were initially not fluid responsive with 4L, thus was sent 
+to the MICU. Differential was hypovolemia in the setting of 
+vomiting and diarrhea vs. sepsis given leukocytosis and GI 
+symptoms in the setting of large stool burden. He may also have 
+had a vagal response from abdominal distention and constipation. 
+He improved with IV fluid resuscitation, with SBPs of 100-120 
+when transferred from ICU. He was empirically covered for 
+infection with ceftriaxone and flagyl. Patient transferred to 
+floors with SBP at 108 and stable. At time of discharge, pt was 
+deemed stable. Hypotension etiology is dehydration vs. 
+superimposed sepsis given elevated WBC (although pt remained 
+afebrile, regular rate). 
+
+#Leukocytosis: WBC count was high to 20.4 with 80% PMNs. This 
+may have been reactive from constipation and colitis vs. C. diff 
+or infectious gastroenteritis. CXR was without evidence of 
+pneumonia. His c.diff assay was negative. He was initially 
+covered broadly with vancomycin/cefepime/flagyl, then 
+transitioned to ceftriaxone and flagyl for broad abdominal 
+organism coverage, given improvement of leukocytosis on 
+antibiotics. Pt's WBC was 6.9 at time of discharge.
+
+# Constipation with chronic colitis: Acute on chronic with 
+evidence of impaction on CT. He had a large bowel movement with 
+enema and was disimpacted. Pt improved symptomatically. Pt also 
+was started on a senna/Colace/miralax regimen which helped. 
+Patient is to continue these bowel regimens to ensure 2 regular 
+bowel movements a day.
+
+# ___: Cr at admission up to 1.4 from baseline of 1.1-1.2. This 
+was likely hypovolemic as improved with fluid resuscitation. 
+
+# Hypertension: Held home enalapril in setting of hypotension. A 
+message was left for pt's PCP ___ whether 
+enalapril would be restarted. For the time being, instructions 
+to HOLD the enalapril was given to the group home where patient 
+stays given that he has been Hypotensive on current and previous 
+admission.s.
+
+# Anemia: Baseline ___, Macrocytic. His CBC downtrended 
+likely due to fluid resuscitation, was stable on transfer out of 
+ICU and continued to be stable on the floors.
+
+TRANSITIONAL ISSUES
+====================
+-Pt should continue 6 more days of ciprofloxacin and flagyl for 
+possible GI infection 
+-Patient's blood pressure medication (enalapril) was held during 
+hospitalization and on discharge, and he remained normotensive. 
+This medication should be held until PCP ___ appointment 
+- Iron supplementation was held on discharge until ___ 
+with PCP, as this can cause constipation. 
+- Please ensure that patient has ___ soft bowel movements a day. 
+He should be on senna and Colace daily, with Miralax as needed 
+to remain regular, and Fleets Enema or rectal bisacodyl if he 
+becomes constipated. Please call Dr. ___ 
+___ if he has not had a bowel movement in 48 hours. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Enalapril Maleate 5 mg PO DAILY 
+2. Hydrocortisone Cream 1% 1 Appl TP BID itching 
+3. Omeprazole 20 mg PO BID 
+4. Polyethylene Glycol 17 g PO DAILY 
+5. Docusate Sodium 200 mg PO BID 
+6. Ferrous Sulfate 47.5 mg PO DAILY 
+7. Loratadine 10 mg PO DAILY:PRN allergies 
+8. Psyllium Powder 1 PKT PO DAILY 
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+severe constipation
+
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+baseline mental retardation and blindness
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted for your nausea and vomiting, found to have 
+severe constipation on imaging here at ___. You had the stool 
+taken out and placed on antibiotics for a possible infection. No 
+infection was found but your blood chemistry was abnormal. At 
+the time of your discharge, your symptoms improved and your 
+blood chemistry normalized.
+
+If you have worsening abdominal pain, nausea, vomiting, fevers 
+please return to the hospital immediately for further 
+evaluation. It was a pleasure taking care of you!
+
+Your ___ Team
+ 
+                             ___ MD ___
+ 
+Completed by: ___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10150567-DS-20 | hadm_id=24904661
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Phenobarbital / Valium / Haldol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+BRBPR
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ y/o male with a past medical history of 
+seizure disorder and MR who presents with BRBPR. Patient is 
+nonverbal and unable to provide history. Patient's mother 
+reports that he has been having maroon stools requiring diaper 
+change q30min-1h. She states that he has never had GI bleeding 
+like this in the past. Patient has undergone multiple 
+colonoscopies in the past but has had poor prep.  
+ 
+In the ED, initial vitals were: T 98.1, HR 109, BP 114/71, RR 
+16, 100% RA.  
+- Labs were significant for Hb 11.8 --> 11.2 (baseline Hb 
+___.  
+- GI was consulted and recommended admission for monitoring and 
+will discuss colonoscopy. Also recommended obtaining a CTA and 
+___ intervention if brisk bleed.  
+- The patient was given pantoprazole 40 mg IV x1.  
+Vitals prior to transfer were: HR 87, BP 105/69, RR 20, 99% RA.  
+
+Upon arrival to the floor, T 98.3, BP 113/71, HR 92, RR 18, 95% 
+RA, 60 kg. Patient was resting in bed, nonverbal and curled up. 
+Two loose bowel movements this AM which per report were maroon 
+in appearance but none since.  
+
+ 
+Past Medical History:
+Hypertension.  
+Hypercholesterolemia.  
+Onychomycosis.  
+Seizure disorders.  
+Seasonal allergies.  
+Left and right ulnar fractures.  
+Mental Retardation  
+Esophagitis  
+Chronic constipation  
+Iron deficiency Anemia  
+
+ 
+Social History:
+___
+Family History:
+No history of IBD
+ 
+Physical Exam:
+Vitals: T 98.3, BP 113/71, HR 92, RR 18, 95% RA, 60 kg  
+General: sleeping but arousable, curled up in bed, nonverbal, 
+thumb in mouth  
+HEENT: able to track with eyes, sclera anicteric, thumb in 
+mouth, dry mucus membranes  
+Heart: only able to auscultate in RUSB, RRR, normal S1 and S2, 
+no murmurs  
+Lungs: poor effort however clear w/o w/r/r  
+Abdomen: thin, soft, nontender to palpation, normal bowel sounds 
+ 
+Genitourinary: wearing a diaper, no stool in diaper  
+Extremities: no peripheral edema, no cyanosis or clubbing, warm  
+
+Neurological: unable to follow exam, however no gross cranial 
+nervice deficits, moving arms/legs spontaneously  
+
+Dishcarge:
+Vitals: 97.4 100/64 73 20 97% RA
+General: nonverbal 
+HEENT: able to track with eyes, sclera anicteric, thumb in 
+mouth,   
+Heart:  normal S1 and S2, no murmurs  
+Lungs: poor effort however clear w/o w/r/r  
+Abdomen: nontender to palpation, normal bowel sounds  
+Genitourinary: wearing a diaper
+Extremities: no peripheral edema, no cyanosis or clubbing, warm  
+
+Neurological: unable to follow exam, however no gross cranial 
+nervice deficits, moving arms/legs spontaneously  
+
+ 
+Pertinent Results:
+Admission:
+
+___ 07:25PM   WBC-9.3 RBC-3.56* HGB-11.2* HCT-32.6* MCV-92 
+MCH-31.4 MCHC-34.3 RDW-16.1*
+___ 07:25PM   PLT COUNT-156
+___ 05:02PM   ___ COMMENTS-GREEN TOP
+___ 05:02PM   LACTATE-1.6
+___ 04:41PM   GLUCOSE-93 UREA N-28* CREAT-1.1 SODIUM-138 
+POTASSIUM-4.3 CHLORIDE-101 TOTAL CO2-26 ANION GAP-15
+___ 04:41PM   estGFR-Using this
+___ 04:41PM   ALT(SGPT)-15 AST(SGOT)-21 ALK PHOS-93 TOT 
+BILI-0.3
+___ 04:41PM   LIPASE-44
+___ 04:41PM   ALBUMIN-4.6
+___ 04:41PM   WBC-10.6 RBC-3.80* HGB-11.8* HCT-34.7* MCV-91 
+MCH-31.1 MCHC-34.1 RDW-16.0*
+___ 04:41PM   NEUTS-64.4 ___ MONOS-8.7 EOS-1.3 
+BASOS-0.4
+___ 04:41PM   PLT COUNT-187
+___ 04:41PM   ___ PTT-32.6 ___
+
+Discharge:
+
+___ 05:30AM BLOOD WBC-5.3 RBC-3.62* Hgb-11.6* Hct-36.6* 
+MCV-101*# MCH-32.0 MCHC-31.6 RDW-15.9* Plt ___
+___ 05:30AM BLOOD Plt ___
+___ 05:30AM BLOOD Glucose-80 UreaN-15 Creat-1.2 Na-145 
+K-4.7 Cl-105 HCO3-27 AnGap-18
+___ 05:30AM BLOOD Calcium-9.3 Phos-2.9 Mg-2.4
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ y/o male with a past medical history of 
+seizure disorder and MR who presents with BRBPR
+
+# BRBPR: likely lower GI bleed, possibly diverticular given 
+history of chornic constipation; however, it is impossible to 
+say the exact etiology.  He remained hemodynamically stable with 
+a stable Hct. He has had prior colonoscopy attempts, but without 
+good prep and given his Fe Def anemia of unknown etiology, it 
+would be prudent to get a good bowel prep and look for an occult 
+source of bloos loss. After consulting GI, we attempted such 
+with  2 days of prep with MoviPrep, Lactulose, Mag Citrate, 2 
+tap water enemas and multiple oral medications; however, we were 
+still unable to get a good prep. KUB not concerning for 
+obstruction. After dicussing with the family, they elected not 
+to continue with another day of prep, but instead to employ 
+watchful waiting and bring him back should he have another GI 
+bleed. 
+We maintained TxS, PIV access, trended his H&H, and monitored 
+his vitals. 
+
+He will be discharged with GI and PCP ___.  
+
+TRANSITIONAL ISSUES:
+-Monitor CBC at follow up appointment. 
+-Adjust bowel regimen as needed for constipation
+-Consider outpt colonoscopy 
+-BP med held ___ to GI bleed on admission and he remined 110s 
+throughout admission, thus ACEi held at discharge. Restart as 
+needed per PCP. 
+
+Billing: Greater than 30 minutes were spent coordinating Mr 
+___ discharge from the hospital.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ferrous Sulfate 140 mg PO DAILY 
+2. Loratadine 10 mg PO DAILY:PRN allergies 
+3. Omeprazole 20 mg PO BID 
+4. Polyethylene Glycol 17 g PO DAILY 
+5. DiphenhydrAMINE 25 mg PO QHS:PRN insomnia 
+6. Enalapril Maleate 5 mg PO DAILY 
+7. Hydrocortisone Cream 1% 1 Appl TP BID:PRN itching 
+8. Ketoconazole 2%  1 Appl TP BID PRN 
+9. Senna 8.6 mg PO DAILY:PRN constipation 
+
+ 
+Discharge Medications:
+1. DiphenhydrAMINE 25 mg PO QHS:PRN insomnia 
+2. Ferrous Sulfate 140 mg PO DAILY 
+3. Hydrocortisone Cream 1% 1 Appl TP BID:PRN itching 
+4. Polyethylene Glycol 17 g PO DAILY 
+5. Docusate Sodium 200 mg PO BID 
+6. Senna 17.2 mg PO BID 
+7. Loratadine 10 mg PO DAILY:PRN allergies 
+8. Omeprazole 20 mg PO BID 
+9. Ketoconazole 2%  1 Appl TP BID PRN 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Lower GI Bleed
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,
+
+You came to us with bright red bleeding from your bottom. Here 
+you were stable and your blood levels were only slightly low, 
+which stabilized and began to rise within 24 hours of admission. 
+Our GI doctors  saw ___ and decided a colonoscopy would be best, 
+however, we were unable to get a good bowel prep. You decided 
+that since you had no additional bleeds, that your blood levels 
+arestable, and that your vital signs remained stable, a 
+colonoscopy is not emergently needed; however, we still do not 
+know the reason you had a bleed and one reason could be a polyp 
+or a cancer. You will follow up in GI clinic and with your PCP 
+for further care. Should this happen again, please come to the 
+ER immediately. 
+
+We wish you all the best,
+Your ___ Team. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10150567-DS-19 | hadm_id=26022296
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Phenobarbital / Valium / Haldol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ with history of seizure disorder and mental retardation who 
+presents with complaints of polyuria and fever. Pt's mother 
+called primary care doctor's office to report that for the past 
+few days pt has had increased urinary frequency. She also noted 
+that pt had a fever 100.4 two days ago. Pt has had no fever 
+since then. Denies dysuria or foul odor. He has not had any 
+cough or sputum production. Per his mother, he has not had any 
+episodes of emesis, abd pain, or diarrhea. No night sweats or 
+recent weight loss. No new changes in medications. The only 
+other complaint the patient's mother notes is two episodes of 
+facial swelling, the most recent that occured one week ago and 
+resolved with ibuprofen. No oral abscesses on mother's 
+examination of mouth. No evidence of skin breakdown or rashes. 
+Pt lives in group home but mother denies any sick contacts.  
+In the ED initial vitals were:  
+- Labs were significant for wbc ct 15.9, lactate 1.7 and bland 
+UA. Exam was notable for area of light blanching erythema around 
+groin.  
+- Patient was given CTX, 1L LR and 4 mg ativan for agitation.  
+Vitals prior to transfer were: 98.1 96 120/56 18 99% RA  
+On the floor, pt is nonverbal and laying calmly in bed. He is 
+minimally responsive to commands and appears in no acute 
+distress.  
+
+ 
+Past Medical History:
+Hypertension.  
+Hypercholesterolemia.  
+Onychomycosis.  
+Seizure disorders.  
+Seasonal allergies.  
+Left and right ulnar fractures.  
+Mental Retardation  
+Esophagitis  
+Chronic constipation  
+Iron deficiency Anemia  
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+ADMISSION PE:
+
+Vitals - 98.1, 95, 97/52, 20, 98% on RA  
+GENERAL: NAD, thin nonverbal male laying curled up in bed, does 
+not participate in exam  
+HEENT: MMM, sucking on thumb, anicteric sclera, no facial edema, 
+unable to examine mouth ___ limited participation but no oral 
+ulcers per mother  
+CARDIAC: ___, no murmurs, gallops, or rubs  
+LUNG: decreased inspiratory effort but no audible wheezes, 
+crackles or rhonchi  
+ABDOMEN: nondistended, nontender, no rebound or guarding  
+EXTREMITIES: no cyanosis, clubbing or edema, moves all 
+extremities  
+SKIN: warm and well perfused, no visable areas of skin breakdown 
+ 
+
+DISCHARGE PE:
+
+Vitals: 98.1; 104/65; 77; 18; 98RA 
+General: sleeping in contained bed
+HEENT: Sclera anicteric, moist mucous membranes, oropharynx 
+clear  
+Neck: Supple, JVP not elevated, no tonsillar or cervical 
+lymphadenopathy  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro:  non-verbal at baseline. A&Ox0
+
+ 
+Pertinent Results:
+RELEVENT LABS:
+
+___ 04:35PM BLOOD WBC-15.9*# RBC-3.31* Hgb-10.2* Hct-30.2* 
+MCV-91 MCH-30.9 MCHC-33.9 RDW-15.2 Plt ___
+___ 07:45AM BLOOD WBC-9.2 RBC-3.13* Hgb-9.3* Hct-28.2* 
+MCV-90 MCH-29.6 MCHC-32.8 RDW-15.3 Plt ___
+___ 04:35PM BLOOD Neuts-82.8* Lymphs-11.0* Monos-5.6 
+Eos-0.2 Baso-0.4
+___ 07:45AM BLOOD Glucose-91 UreaN-27* Creat-1.2 Na-138 
+K-4.1 Cl-100 HCO3-27 AnGap-15
+___ 07:45AM BLOOD Calcium-9.3 Phos-3.5 Mg-1.9
+___ 04:47PM BLOOD Lactate-1.7
+___ 04:30PM URINE Color-Yellow Appear-Clear Sp ___
+___ 04:30PM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 04:30PM URINE RBC-<1 WBC-1 Bacteri-NONE Yeast-NONE 
+Epi-0
+.
+___ 4:30 pm URINE     Site: NOT SPECIFIED      CHEM S# 
+___. 
+
+MICRO: Blood Cx, Urine Cx pending at discharge
+
+STUDIES/IMAGING: None
+ 
+Brief Hospital Course:
+___ with history of seizure disorder and mental retardation who 
+presents with complaints of fever.    
+
+#Fever - patient had fever 2 days prior to admission however 
+remained without fever on admission and no localizing signs of 
+infection. CXR was deferred at request of patiets mother/HCP as 
+no symptoms/signs of respiratory infection and felt would 
+aggitate patient further. If patient continues to spike fever, 
+then informed patient's mother to make another follow up 
+appointment with PCP to determine if patient has developed any 
+localizing signs of infection.  It is likely that patient's 
+fever was secondary to viral syndrome which resolved without any 
+intervention. 
+
+#Hypotension - patient with systolic blood pressures in the ___ 
+on admission which improved to SBP of 104 at the time of 
+discharge with IVF.  We discontinued patient's blood pressure 
+medication Enalapril and HCTZ.  These medications may be 
+retarted as outpatient if needed. We encouraged patient's mother 
+to have him drink plenty of fluid to keep him hydrated.  His 
+mother will make a follow up appointment with ___ for blood 
+pressure check either this week or next week. 
+
+#Leukocytosis: Pt with wbc ct of 15.9 on admission, no bands or 
+atypicals on diff. Completed workup for infection as above. 
+Trended down to WNL at time of discharge.
+
+___: Cr 1.2 on admission from normal baseline. Likely pre-renal 
+in setting of decreased PO intake from ? infection above. 
+Received 1L IVF in ED. As above, encouraged further PO intake as 
+outpatient. Also held HCTZ and ACE-Inhibitor.
+
+CHRONIC MEDICAL ISSUES:  
+
+#Seizure d/o: currently not on any anti-epileptics. Has not had 
+seizure in long period per mother. 
+
+#Mental retardion: pt non-verbal at baseline and became agitated 
+in the ED. Given Ativan and eventually calmed down when reached 
+medicine floor. 
+
+#Chronic constipaton: continued home regimen of miralax, senna 
+and docusate  
+
+#HTN: held HCTZ and enalapril given mild ___ and hypotension. 
+Not restarted at D/C as patient was normotensive. Will need to 
+continue to monitor BPs and follow up with PCP to determine if 
+can restart HCTZ and ACE-Inhibitor. 
+
+#Seasonal allergies: continued home loratadine  
+
+#GERD: continued home omeprazole  
+
+#Iron deficiency anemia: h/h on admission 10.2/30.2, which is 
+less than most recent values however close to baseline from 
+___. Pt has been seen by Dr. ___ in ___ clinic. There 
+has been a discussion about need for colonoscopy in future to 
+assess ___. No evidence of weight loss per mother or change in 
+bowel habits immediately concerning for malignancy. Continued 
+iron supplements this admission.
+
+TRANSITIONAL ISSUES:
+
+#Fever - patient had fever 2 days prior to admission, however 
+remained without fever on admission and no localizing signs of 
+infection. CXR was deferred at request of patiets mother/HCP as 
+no symptoms/signs of respiratory infection and felt would 
+aggitate patient further. If patient continues to spike fever, 
+consider good oral exam given hx of swelling/edema of cheek 1 
+week prior to admission and consider empiric treatment for 
+possible pneumonia. 
+
+#BP - patient with systolic blood pressures in the ___ this 
+admission that resolved with IVF to 100s systolic, but stable HR 
+and per mother patient appears at his baseline. Encouraged PO 
+intake of fluids. Also asked patient to hold home ACE-Inhibitor 
+and HCTZ at discharge. These can be restarted by PCP if needed.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Enalapril Maleate 5 mg PO DAILY 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+3. Hydrocortisone Oint 1% 1 Appl TP BID:PRN itching 
+4. Ketoconazole 2%  1 Appl TP BID:PRN itching 
+5. Polyethylene Glycol 17 g PO DAILY 
+6. Senna 25.8 mg PO HS 
+7. DiphenhydrAMINE ___ mg PO HS:PRN insomnia 
+8. Ferrous Sulfate 140 mg PO DAILY 
+9. Omeprazole 20 mg PO BID 
+10. Loratadine 10 mg PO DAILY:PRN allergies 
+
+ 
+Discharge Medications:
+1. Ferrous Sulfate 140 mg PO DAILY 
+2. Loratadine 10 mg PO DAILY:PRN allergies 
+3. Omeprazole 20 mg PO BID 
+4. Polyethylene Glycol 17 g PO DAILY 
+5. Senna 25.8 mg PO HS 
+6. DiphenhydrAMINE ___ mg PO HS:PRN insomnia 
+7. Hydrocortisone Oint 1% 1 Appl TP BID:PRN itching 
+8. Ketoconazole 2%  1 Appl TP BID:PRN itching 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+- Fever
+
+Secondary Diagnosis:
+- Siezure Disorder
+- Hypertension
+- Gastroesophogeal Reflux Disease
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you during your hospitalization. 
+You were admitted for a fever and increased urination. You also 
+had an elevated white blood cell count. You did not have any 
+further fevers this admission, your white blood cell count 
+recovered and you did not show any further signs of infection. 
+You were not given further antibiotics given that lack of signs 
+of infection.  Please call your PCP if you develop any worsening 
+cough, shortness of breath or chest pain or continued ongoing 
+fevers.
+
+Sincerely,
+
+Your ___ Team
+ 
+Followup Instructions:
+___

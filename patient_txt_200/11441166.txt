@@ -1,0 +1,625 @@
+===== DISCHARGE NOTE =====
+note_id=11441166-DS-20 | hadm_id=24715419
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+Chief Complaint:
+inability to respond to questions
+ 
+Major Surgical or Invasive Procedure:
+(IV tPA administration at OSH)
+PEG placement on ___
+
+ 
+History of Present Illness:
+The pt is a ___ year old right-handed female history of a.fib
+off coumadin, and HTN, who presents from an outside hospital 
+with
+a likely MCA stroke after being given tPA at ___ and
+transferred here for possible intra-arterial intervention.
+
+The patient was at home with her husband returning from a
+___ dinner.  They went to bed at 21:30.  At around 
+22:15
+the husband was ___ by a gurgling sound coming from his wife. 
+
+He looked over and asked her questions but she was unable to
+respond.  Her daughter came over and noted that her face was
+asymmetric, but could not remember which side.  She also noted
+that the patient did not appear to comprehend.  EMS arrived on
+22:50, and she was taken to ___.  She had a CT, 
+which
+was reportedly read as normal (but on our read here has a
+hyperdense MCA) and she was noted to have global aphasia, right
+sided weakness and left gaze deviation.  He put the ___ scale at
+least 16 but he was not able to do a full scale secondary to
+aphasia.  She was bolused with tpA at 23:50 and started on the
+infusion.  She had finished the infusion by the time she arrived
+at ___.
+
+On arrival the patient was initial not responsive to voice and
+commands per ED team.  On arrival the patient was able to open
+her eye to sternal rub, was spontaneously moving the left arm 
+and
+had a leftward gaze deviation.  The patient was globally 
+aphasic,
+with no comprehension, and was not following commands.  She was
+intubated for airway protection.  She then had a CTA/P, and it
+was noted that there were new hemorrhages on the CT, and any
+further intervention was deferred.
+  
+
+___ Stroke Scale score was 32:  
+1a. Level of Consciousness: 2  
+1b. LOC Question: 2  
+1c. LOC Commands: 2  
+2. Best gaze: 2 
+3. Visual fields: 2  
+4. Facial palsy: 2  
+5a. Motor arm, left: 3  
+5b. Motor arm, right: 3  
+6a. Motor leg, left: 3  
+6b. Motor leg, right: 3  
+7. Limb Ataxia: 0  
+8. Sensory: 1  
+9. Language: 3  
+10. Dysarthria: 2  
+11. Extinction and Neglect: 2
+ 
+On neuro ROS, per family the patient had not complained of a
+headache.  They noted that she had an episode of right leg
+weakness 3 days prior which seemed to resolve on its own.  She
+had chronic back pain, and had some mild difficult walking at
+baseline.   No  No bowel or bladder incontinence or retention.
+ 
+On general review of systems, the family did not believe there
+were any recent fever or chills, or infectious symptoms.  No
+cough/SOB, chest pain.  No N/V.
+ 
+
+ 
+Past Medical History:
+- Atrial Fib, was on coumadin for 2 weeks ~ ___ year prior but per
+family cardiologist stopped it for unknown reason
+- HTN
+- Sciatica
+
+ 
+Social History:
+___
+Family History:
+Multiple members of family with stroke and CAD.  
+ 
+
+ 
+Physical Exam:
+Exam on admission:
+
+Physical Exam: (done pre-intubation)
+Vitals: T:98.3  P:134  R: 16  BP:114/112  SaO2:100% 
+General: Opens eyes to nox stim, does not follow commands
+HEENT: NC/AT, no scleral icterus noted,
+Neck: Supple, 
+Pulmonary: Lungs CTA bilaterally without R/R/W 
+Cardiac: ___ and ___, slight flow murmur heard
+Abdomen: soft, NT/ND, normoactive bowel sounds 
+Extremities: No C/C/E bilaterally,  
+Skin: no rashes, mild bruising on legs bilaterally 
+ 
+Neurologic: 
+-Mental Status: Will open eyes to loud voice and nox 
+stimulation.
+Completely mute, does not follow commands.  Does not appear to
+attend to R side
+
+-Cranial Nerves: 
+I: Olfaction not tested.  
+II: PERRL 3 to 2.5mm and brisk.  Appears to have right field cut 
+
+III, IV, VI: Left ward gaze deviation, eyes do not cross midline
+to right
+V: did not test
+VII: R facial droop, 
+VIII: Not tested  
+IX, X: Gag intact  
+XI: not tested  
+XII: not tested
+ 
+-Motor: Normal bulk, slight decreased tone on right.  Patient 
+was
+moving left arm and leg spontaneously, not moving right.  Small
+amount of movement on right leg elicited with nox stim, trace
+movement on right arm with nox stim
+
+-Sensory: Sensation to pain intact at all 4 extremities
+ 
+-DTRs: 
+  Bi Tri ___ Pat Ach 
+L  3  3    2    3   2 
+R  3  3    2    3   3 
+Toes, upgoing bilaterally, more on R
+
+Did not test coordination and gait.
+ 
+
+ 
+Pertinent Results:
+Labs on admission:
+
+___ 01:20AM BLOOD WBC-12.7* RBC-4.41 Hgb-13.7 Hct-39.7 
+MCV-90 MCH-31.1 MCHC-34.5 RDW-14.8 Plt ___
+___ 02:18AM BLOOD WBC-10.9 RBC-4.12* Hgb-12.8 Hct-38.0 
+MCV-92 MCH-31.0 MCHC-33.6 RDW-14.5 Plt ___
+
+___ 01:20AM BLOOD ___ PTT-31.9 ___
+
+___ 01:20AM BLOOD Glucose-152* UreaN-28* Creat-0.8 Na-143 
+K-4.3 Cl-
+107 HCO3-24 AnGap-16
+
+___ 07:25AM BLOOD Na-139
+
+___ 01:47AM BLOOD Glucose-121* UreaN-19 Creat-0.8 Na-139 
+K-3.8 Cl-105 HCO3-27 AnGap-11
+
+___ 02:18AM BLOOD Calcium-7.6* Phos-2.3* Mg-1.7
+___ 04:48PM BLOOD Calcium-8.6 Phos-2.6* Mg-2.3
+
+___ 06:22PM BLOOD Osmolal-296
+___ 07:11AM BLOOD Osmolal-294
+___ 09:13AM BLOOD Osmolal-300
+___ 07:25AM BLOOD Osmolal-304
+
+Imaging:
+
+CTA/P of head ___:
+
+IMPRESSION: 
+  
+1. Findings consistent with an acute left MCA infarct, with loss 
+of gray- 
+white matter differentiation in the left middle cerebral artery 
+territory, 
+including the insular region and left basal ganglia. There is 
+thrombus in the supraclinoid segment of the left internal 
+carotid artery extending into the bifurcation and into the left 
+middle cerebral artery. There is marked asymmetry in the flow of 
+the left middle cerebral artery territory, with corresponding 
+perfusion abnormalities as detailed above. 
+  
+2. Curvilinear hypodensity within the carotid bulb on the left, 
+which may 
+represent atherosclerotic disease versus an artifact. A 
+dissection flap is 
+considered less likely given that curvilinear hypodensity is 
+localized to the carotid bulb. 
+  
+3. There is subarachnoid hemorrhage in the left hemisphere, new 
+since the 
+outside head CT from ___ done only a short time prior to the 
+current 
+study.  
+  
+4. Endotracheal tube in position. Orogastric tube incompletely 
+visualized. 
+  
+5. Old right temporal infarct with encephalomalacia. 
+
+CTP: Image quality is degraded by poor signal to noise. There is 
+
+suggestion of asymmetric decreased cerebral blood volume and 
+blood flow, 
+without definite asymmetry on the mean transit time. This 
+correlates with the asymmetry on the CTA images in terms of the 
+enhancement, with the left 
+decreased compared to the right. 
+
+CTH ___
+
+IMPRESSION: 
+Unchanged acute ischemia in the left MCA territory and foci of 
+subarachnoid and subdural hemorrhage 
+
+CTH ___
+IMPRESSION: 
+1. Evolving left MCA distribution infarct with stable mass 
+effect on the left lateral ventricle. 
+2. Stable multifocal subarachnoid hemorrhage, with no new foci 
+of acute 
+hemorrhage. 
+
+CTH ___:
+Again seen is a large area of hypodensity within the left MCA 
+territory, consistent with expected evolution of infarct. The 
+degree of mass effect on the left lateral ventricle and 
+overlying sulcal effacement remains unchanged. The hyperdense 
+left MCA is again noted. Foci of subarachnoid hemorrhage are 
+also stable in extent and resolving. No new areas of hemorrhage 
+are seen. The ventricles remain stable in size. 
+  
+IMPRESSION: Little change since prior study with evolving left 
+MCA 
+distribution infarct with stable mass effect. Stable extent of 
+multifocal 
+subarachnoid hemorrhage with no new areas of acute hemorrhage. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+
+___ KUB xray:
+The colon is gas-filled. There are no dilated loops of small 
+bowel. There is no evidence of obstruction. The side port of the 
+endogastric tube is within the stomach. There is no obvious 
+pneumoperitoneum, although the lack of a decubitus view limits 
+assessment of pneumoperitoneum.  Degenerative changes are noted 
+throughout the spine. 
+  
+IMPRESSION: No evidence of obstruction. 
+
+ 
+Brief Hospital Course:
+___ year old LEFT-handed woman with atrial fibrillation (off 
+Coumadin) and HTN who presented from OSH with an MCA stroke and 
+after receiving IV tPA was transferred to ___ for question of 
+an intra-arterial intervention.   On initial examination she was 
+noted to be globally aphasic with R sided weakness and 
+hemianopia, and L
+gaze deviation.  She appeared to not have improved significantly 
+after IV tPA and in the ED and became drowsy, with minimal eye 
+opening to voice and sternal rub. She was eventually intubated 
+for airway protection.  
+
+On follow up CTA/P she was noted to have SAH in the cortical 
+left frontal and left parietal lobes, felt to be due to tPA as 
+well as a thrombus in the supraclinoid segment of the left ICA 
+extending into the bifurcation and into the left MCA.  CT 
+imaging here showed a dense MCA sign, along with a CTP showing L 
+decreased BV and BF.  Due to new SAH, she was not a candidate 
+for intraarterial tPA and was admitted to Neuro-ICU to complete 
+post CVA care. 
+
+NEURO. Patient's BP was maintained < 180, goal of -500 cc I/O, 
+ASA and all anticoagulation were held due to concern for SAH, 
+which was confirmed on a subsequent CT.  CT on ___ also showed 
+mass effect due to increasing edema at the frontal horn of the 
+left lateral ventricle due to evolving infarct.  At this time, 
+she was started on mannitol, HOB elevation and fluid restriction 
+w/ goal of -500 cc/day.  With this treatment she slowly became 
+more alert and was extubated. Serial head CTs showed stable SAH 
+and evolving left MCA distribution infarcts with mass effect on 
+the left lateral ventricle without herniation.  
+
+Mannitol was weaned starting on ___.  She was transferred to 
+the floor an completely weaned off the mannitol.  Given the size 
+of the infarct it was decided not to start her an a heparin 
+drip.  Coumadin was restarted on ___ and she will be titrated 
+for a goal INR of ___.  Here LDL was noted to be 111 and she was 
+started on a statin at a low dose. Her blood sugar tests were 
+normal.
+
+She will be discharged to a rehab facility to continue working 
+on her weakness and speech deficits.
+
+CV. Patient remained in atrial fibrillation and had an episode 
+of afib with RVR to 170s.  She was treated with diltiazem gtt 
+and started on PO diltiazem in addition to atenolol (she did not 
+respond to IV metoprolol).  Her final dosage of diltiazem was 
+90mg QID.  She has been scheduled for outpatient cardiology 
+follow up to help determine a suitable treatment for her atrial 
+fibrillation.
+
+PULM.  Patient was extubated on HD#3 without complications.  
+
+RENAL. No issues.
+
+GI. She was treated with famotidine and TFs.  She was noted to 
+aspirate with all consistencies of nutrition thus was maintained 
+on NGT and TFs.  She repeatedly failed speech and swallow 
+evaluations and required the placement of a PEG feeding tube.  
+This was placed on ___ without complications and tube feeds 
+were started the next morning. Adjust PEG bumper in ___ days, 
+with care not to over-tighten, as fat necrosis can occur 
+
+ 
+Medications on Admission:
+- Atenolol 50 BID
+- Simvastatin 20mg QD stopped taking a few weeks prior as she
+heard it can cause weakness
+- Tylenol/Codiene PRN
+
+ 
+Discharge Medications:
+1. Atenolol 25 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+2. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2 
+times a day).  
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+4. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal 
+HS (at bedtime) as needed for constipation.  
+5. Diltiazem HCl 90 mg Tablet Sig: One (1) Tablet PO QID (4 
+times a day).  
+6. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+7. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical TID 
+(3 times a day) as needed for apply between skin fold for yeast 
+infection.  
+8. Miconazole Nitrate 2 % Cream Sig: One (1) Appl Vaginal HS (at 
+bedtime) for 4 days.  
+9. Oxycodone-Acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q6H (every 6 hours) as needed for pain.  
+10. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+11. Ipratropium Bromide 0.02 % Solution Sig: One (1) nebs 
+Inhalation Q6H (every 6 hours) as needed for shortness of breath 
+or wheezing.  
+12. Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime): 
+check INR for goal of ___.  
+13. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO every six 
+(6) hours as needed for fever, pain.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___ 
+___
+ 
+Discharge Diagnosis:
+Left Middle Cerebral Artery Stroke - ___
+
+ 
+Discharge Condition:
+MS: Globally aphasic, does not follow commands, will mimic some 
+actions,
+CN: R facial droop, EOM nearly intact, does not fully abbdict to 
+the right, will attend to both sides but has a right sided gaze 
+preference.
+Motor: No spontaneous movement of R hemibody, withdraws very 
+slightly at RLE, Left upper and lower extremity move 
+spontaneously and do not appear to be impaired.
+Sensory: grimaces to pain at all 4 ext
+Gait: deferred
+Coordination: could not evaluate
+
+ 
+Discharge Instructions:
+You were admitted as a transfer from an outside hospital for a 
+large stroke of the left side of your brain.  You were initially 
+seen at an outside hospital were it was determined that you had 
+a large stroke of a blood vessel in your brain called the left 
+middle cerebral artery.  You could not move your right side and 
+could not speak or understand language.  You were given a clot 
+busting agent called tPa.  You were not noted to improve 
+significantly and were transferred to ___ to see if there were 
+any other interventions that could be done.  At ___ a follow 
+up CT scan of your brain showed that there was some small amount 
+of bleeding and it was determined that it was not safe to give 
+any other interventions, which could increase the bleeding.
+
+You were transferred to the ICU, and were started on mannitol 
+because of concern of swelling of your brain.  This was slowly 
+weaned off and you were transfered to the floor.  You were 
+weaned of the mannitol.  On the floor your exam has remained 
+largely unchanged but you have occasionally been able to make an 
+occasional sound.  Physical therapy was able to have you bear 
+weight on your right leg.
+
+As you were not able to swallow a PEG feeding tube has been 
+placed and your were started on tube feeds.  You will be 
+transfered to a rehab facility to continue to work on improving 
+your strength.
+
+Please take all medications as prescribed, please make all 
+follow up appointments.  If you experience any of the symptoms 
+listed below please call your doctor or return to the nearest 
+emergency room.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11441166-DS-21 | hadm_id=25501451
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+DVT
+ 
+Major Surgical or Invasive Procedure:
+IVC filter placement
+
+ 
+History of Present Illness:
+___ s/p L MCA stroke and atrial fibrillation, now on
+coumadin since ___.  Over a period of five days she has
+noted pain and swelling of the RLE, and after a physical
+therapist noted the swelling today, the patient presented the
+___ for further evaluation.  SHe is found on 
+ultrasound
+of the right lower extremity to have a DVT that was initially
+read as SFV+Popliteal vein.  However, the patient has been
+therapeutic, and in this case, supratherapeutic on coumadin with
+an INR of 3.9.  She has no evidence of shortness of breath, CP,
+doe, inreased oxygen requirment, tachycardia, or other symptoms
+of pulmonary embolus
+
+ 
+Past Medical History:
+- Atrial Fib, was on coumadin for 2 weeks ~ ___ year prior but per
+family cardiologist stopped it for unknown reason
+- HTN
+- Sciatica
+
+ 
+Social History:
+___
+Family History:
+Multiple members of family with stroke and CAD.  
+ 
+
+ 
+Physical Exam:
+PE:
+Temp:98.1 HR:61 BP:143/86 Resp:18 O(2)Sat:99 
+A+O x 3, notably with residual expressive aphasia
+CTAB
+___ nl S1 S2
+S NT ND no hsm + BS
+RLE > LLE minimally swollen and more erythematous
+palpable pulses in bilateral lower extremities
+no palpable cords
+
+ 
+Pertinent Results:
+___ 06:20AM BLOOD 
+
+WBC-6.9 RBC-4.08* Hgb-12.7 Hct-37.8 MCV-93 MCH-31.2 MCHC-33.6 
+RDW-14.5 Plt ___
+
+___ 06:20AM BLOOD 
+
+___ PTT-31.9 ___
+
+___ 06:20AM BLOOD 
+
+Glucose-120* UreaN-12 Creat-0.7 Na-138 K-4.3 Cl-102 HCO3-25 
+AnGap-15
+
+___ 06:20AM BLOOD 
+
+Glucose-120* UreaN-12 Creat-0.7 Na-138 K-4.3 Cl-102 HCO3-25 
+AnGap-15
+ 
+Brief Hospital Course:
+Pt was admitted to the hospital with concern for repeat 
+thrombosis despite anticoagulation. Her coumadin was held and an 
+IVC filter was placed without complication. Her previous 
+anticoagulation records were obtained and her INR had been 
+therapeutic. She was seen by the hematology service and was 
+determined to have failed coumadin anticoagulation. Because of 
+this she was instructed to start lovenox as her primary 
+anticoagulation once her INR was below 2.0. This was ordered and 
+she was discharged. During her stay she also underwent carotid 
+ultrasound which showed no significant plaque. She was 
+hemodynamically stable and her neurologic exam as well as her 
+oxygen saturations were stable throughout her admission. 
+
+ 
+Medications on Admission:
+at rehab:
+baclofen 10mg tid
+litiazem 60mg tid
+pepcid 20mg bid
+atenolol 100mg bid
+colace 100mg bid
+mvi 5ml qd
+senna 5ml qd
+zocor 10mg qd
+celexa 40mg qd
+coumadin 4mg qd
+ 
+Discharge Medications:
+1. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2 
+times a day) as needed for constipation.  
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+3. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+4. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours).  
+6. Diltiazem HCl 30 mg Tablet Sig: Two (2) Tablet PO TID (3 
+times a day): this is current dose per rehab. 60mg tid.  
+7. Atenolol 50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day): current dose per rehab.  
+8. Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily): 
+current med per rehab.  
+9. Baclofen 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day): current med per rehab.  
+10. Therapeutic Multivitamin     Liquid Sig: Five (5) ML PO 
+DAILY (Daily).  
+11. Lovenox ___ mg/mL Syringe Sig: One (1)  Subcutaneous twice a 
+day.
+Disp:*60 * Refills:*6*
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Deep Venous Thrombosis
+Failure of coumadin therapy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory with assistance (baseline)
+
+ 
+Discharge Instructions:
+You were transfered to ___ because you had a deep venous 
+thrombosis (a blood clot in the deep vein of your leg) despite 
+having a therapeutic INR.  We placed an Inferior Vena Cava 
+filter ( a filter in the large blood vessel that returns blood 
+to your heart). This will capture any clot from your venous 
+system and prevent it from traveling to your heart and being 
+pumped into your arterial system)
+
+  Please report any of the following to your facility provider 
+___ your vascular or neurology physicial:
+  Dizziness or lightheadedness
+  Numbness or tingling
+  Change in vision
+  Confusion
+  Headache unrelieved by otc medications
+  Weakness in arm, leg, or face
+  Increased difficulty walking
+  Increased difficulty talking
+  Increased difficulty with balance
+  Incontinence of urine or stool
+
+It is very important that you keep your follow up appointments 
+with specialists at ___.  Please be sure to keep all follow up 
+appointments as scheduled below.  Your family can transport you 
+to these appointments, or you can arrange for a chair transport 
+with the help ___. 
+
+YOU WILL NOT TAKE COUMADIN, YOU HAVE A HIGHT INR. WHEN YOUR INR 
+IS LESS THEN ___ YOU WILL BEGIN LOVENOX INJECTIONS. THIS WILL BE 
+DONE TWICE A DAY.
+ 
+Followup Instructions:
+___

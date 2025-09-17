@@ -1,0 +1,4031 @@
+===== DISCHARGE NOTE =====
+note_id=10818124-DS-27 | hadm_id=20130957
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline / Norvasc
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypotension.
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ PMH CAD, AFIB, DM2, recent LLL PNA p/w hypotension. The 
+patient's caretaker took his blood pressure the day of admission 
+and noted a systolic in the ___ the patient states he was 
+asymptomatic. He denies any localizing signs or symptoms of 
+infection other than one loose stool the day of admission. 
+Denies chest pain, shortness of breath. Denies melena, 
+hematochezia, or other bleeding. Of note, the patient was 
+recently admitted ___ with LLL pneumonia and 
+discharged on cefpodoxime. During this admission he was noted to 
+be in atrial fibrillation with rapid ventricular rate and 
+subsuquently his dose of diltiazem was doubled.  
+.  
+In the ED, initial VS 97.5 83/53 85 18 98%RA. BP improved to 
+systolic 110s after 1L NS. Bedside US negative. EKG NSR rate 52, 
+no ischemic changes. Chest x-ray showed infiltrate at the left 
+lung base suggestive of infection. CT head performed for recent 
+fall from seated position. The patient was given levaquin 750 mg 
+IV, flagyl 500 mg PO, and 2L NS.  
+.  
+The patient has no complaints on arrival to the floor.  
+.  
+REVIEW OF SYSTEMS: Denies fever, chills, night sweats, headache, 
+vision changes, rhinorrhea, congestion, sore throat, cough, 
+shortness of breath, chest pain, abdominal pain, nausea, 
+vomiting, dysuria, hematuria.
+ 
+Past Medical History:
+# CAD s/p PCI x 2 with a history of MI and angioplasty ___ years 
+ago. His most recent cardiac catheterization was in ___ at ___ which revealed non-flow 
+limiting three-vessel disease and no intervention was performed 
+at that time  
+# Atrial flutter/atrial tachycardia status post ablation in 
+___ with breakthrough atrial tachycardia and atrial 
+flutter  
+# DM type II c/b neuropathy  
+# PVD followed by Dr. ___  
+# Colon Ca -- s/p partial colectomy ___, no radiation or 
+chemotherapy  
+# Neuropathy -- progressing to R arm now; legs unchanged, uses 
+wheelchair  
+# Spinal stenosis -- MRI performed ___, no emergent issues, 
+but  
+some retrolisthesis of L4-5  
+# Concern for alcohol abuse  
+ 
+Social History:
+___
+Family History:
+No history of premature cardiac disease. Both parents died at ___ 
+of "old age."
+ 
+Physical Exam:
+VS: 98.1 122/70 80 20  95% RA
+. 
+GEN: Middle-aged man in NAD, awake, alert  
+HEENT: EOMI, PERRL, sclera anicteric, conjunctivae clear, OP 
+moist and without lesion  
+NECK: Supple, JVD to jaw  
+CV: RRR, normal S1, S2, no m/r/g  
+CHEST: Crackles ___ both lungs b/l  
+ABD: Soft, NT, ND, no HSM  
+EXT: No c/c/e  
+SKIN: No rash
+ 
+Pertinent Results:
+On Admission:
+___ 08:15PM   WBC-9.4 RBC-3.55* HGB-10.2* HCT-30.0* MCV-84 
+MCH-28.7 MCHC-34.0 RDW-16.8*
+___ 08:15PM   NEUTS-57.4 ___ MONOS-8.1 EOS-1.9 
+BASOS-0.4
+___ 08:15PM   PLT COUNT-490*
+___ 08:15PM   ___ PTT-28.2 ___
+___ 08:15PM   GLUCOSE-73 UREA N-13 CREAT-0.7 SODIUM-135 
+POTASSIUM-4.2 CHLORIDE-99 TOTAL CO2-22 ANION GAP-18
+___ 08:15PM   CALCIUM-9.2 PHOSPHATE-3.7 MAGNESIUM-1.8
+___ 08:15PM   CK-MB-NotDone
+___ 08:15PM   cTropnT-<0.01
+___ 08:15PM   CK(CPK)-49
+___ 08:28PM   LACTATE-3.0*
+___ 09:51PM   LACTATE-2.9*
+.
+CXR ___: Bibasal effusions with an infiltrate at the left 
+lung base suggestive of infection. Please ensure followup to 
+clearance.
+.
+CT head ___:
+There is no intracranial hemorrhage, shift of normally midline 
+structures, or evidence of acute major vascular territorial 
+infarction. Moderate periventricular and subcortical white 
+matter hypodensities consistent with chronic small vessel 
+ischemic changes. Moderate prominence of ventricles and sulci is 
+unchanged. There is no fracture. Mild bilateral maxillary sinus 
+and ethmoid air cell mucosal thickening is noted. The mastoid 
+air cells are well aerated. 
+IMPRESSION: No intracranial hemorrhage or fracture.
+
+ 
+Brief Hospital Course:
+___ PMH CAD, AFIB, DM2, recent LLL PNA p/w hypotension.  
+.  
+# Hypotension: Resolved upon admission to the floor after fluids 
+and holding medication. The most likely cause was diltiazem and 
+metoprolol doses. His medications were held and progressively 
+re-started. Patient was discharged on metoprolol 100 mg PO QID.
+.  
+# Relative hypoxia: Patient comfortable on room air upon arrival 
+to the floor. Unclear etiology, but most likely due to 
+hypotension and poor flow. 
+.
+# Pneumonia: Patient with community acquired pneumonia 2 weeks 
+ago and now comes with alveolar infiltrates on chest x-ray, but 
+asymptomatic. There is no fever, chills, rigors, cough, 
+shortness of breath. He will need CXR follow up in ~4 weeks as 
+outpatient to document clear lungs and rule out masses.
+.  
+# Chronic diastolic heart failure: Stable throughout 
+hospitalizaiton.
+.  
+# Alcohol abuse: No history of withdrawal seizures or DT. Last 
+drink the day of admission. Pt was put on valium CIWA scale, but 
+had no requirements.
+.  
+# Anemia: Baseline high-20s. Normocytic, iron deficient on prior 
+admission. No signs or symptoms of bleeding.  
+.  
+# Atrial fibrillation: Not rate controlled adequately. 
+Increasing one single agent to max: metoprolol 400 mg Daily (100 
+QID). Can start diltiazem if not rate controlled.  
+.  
+# Coronary artery disease: No EKG changes, negative enzymes. 
+Continued aspirin, plavix, statin.
+.  
+# Type 2 diabetes: On ISS.
+.  
+# Tobacco abuse: Pre-contemplative. He was on Nicotine patch 
+while in the hospital, but had no interest in stopping smoking. 
+Large conversations to encourage quit smoking were held 
+throughout hospitalization.
+.  
+# FEN: Diabetic/cardiac - nectar prethickened liquids previous 
+admission.
+.
+# DVT prophylaxis: Heparin SC.
+.
+# Code: DNR but okay to intubated per patient wishes
+.
+# Disposition: Home.
+ 
+Medications on Admission:
+Aspirin 325 mg PO DAILY  
+Clopidogrel 75 mg PO DAILY  
+Atorvastatin 40 mg PO DAILY  
+Gabapentin 300 mg PO TID  
+Folic Acid 1 mg PO DAILY  
+Multivitamin Tablet PO DAILY  
+Ferrous Sulfate 325 mg PO DAILY  
+Furosemide 20 mg PO DAILY  
+Diltiazem HCl 240 mg PO DAILY  
+Metoprolol Succinate 100 mg PO DAILY  
+Duloxetine 30 mg PO DAILY  
+Thiamine HCl 100 mg PO DAILY  
+Ipratropium Bromide two puffs INH Q6H:PRN SOB or wheezing  
+Lantus 25 units SC QAM  
+Novolog sliding scale  
+Cefpodoxime 200 mg PO Q12H - completed ___
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours).  
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+6. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+7. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+8. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+9. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+10. Ipratropium Bromide 0.02 % Solution Sig: One (1) Neb 
+Inhalation Q6H (every 6 hours) as needed for SOB, wheeze.  
+11. Insulin
+Please resume your insulin as before.
+
+12. Metoprolol Tartrate 100 mg Tablet Sig: One (1) Tablet PO 
+four times a day.
+Disp:*120 Tablet(s)* Refills:*2*
+13. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Atrial Flutter with hypotension
+
+Secondary Diagnosis:
+Alcohol abuse
+Coronary artery disease
+Diabetes Mellitus
+Peripheral vascular disease
+Diabetic neuropathy
+
+ 
+Discharge Condition:
+Stable, tolerating diet, stable blood pressure and heart rate 
+controlled.
+
+ 
+Discharge Instructions:
+You were seen at the ___ for low blood pressure. You received 
+fluids and your blood pressure improved. Your heart rate was 
+slower than normal, which can be explained by the medications 
+you are taking for your atrial flutter. You had serial ECGs and 
+blood tests (cardiac enzymes) that ruled out the possibility of 
+a heart attack. Your diltiazem was stopped and once your blood 
+pressure was better your medications for your atrial Flutter 
+were slowly increased.
+
+If you keep drinking, most likely this episodes of rapid heart 
+beats will be repeated and will only be controlled with very 
+high doses of medications that can affect your blood pressure. 
+We repeatedly encouraged you to quit drinking alcohol throughout 
+the hospitalization. We kept you on a tight observation to make 
+sure you did not withdraw.
+
+You also had infiltrates in your lungs, which most likely are 
+due to the pneumonia you had a couple of weeks ago. You will 
+need a repeat chest x-ray in ~4 weeks to make sure everything 
+cleared out.
+
+Your medications were changed as follows:
+Stop taking diltiazem.
+Take metoprolol tartrate 100 mg four times daily. 
+You should otherwise continue to take your medications as 
+indicated.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10818124-DS-32 | hadm_id=21532070
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline / Norvasc
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain, lethargy 
+ 
+Major Surgical or Invasive Procedure:
+CVL (___)
+ 
+History of Present Illness:
+___ yo M with a past medical history of CAD, SVT, DM, CRC 
+presents to the ED with lethargy. According the patient, he has 
+been feeling fine and is unsure why he was brought to the 
+hospital. Per HCP and patient caretaker ___, patient 
+has had poor po intake for many months, and has episodes of 
+chest "shaking" but no frank chest pain over the last several 
+days. He was ___ to bed last night and he was noted to have 
+an episode of sensation of "air in the chest", which may have 
+been indigestion. Also noted to have cough productive of sputum 
+for weeks to months. Patient denies any fevers, or chills. 
+Patient also denies dysuria, diarrhea, headache and neck pain. 
+Also denies recent travel, new pets and recent long car rides of 
+airplane flights.  
+.  
+In the ED, he was noted to be hypotensive to systolics in the 
+___ to ___. He received 3 L of IVF and pressures only improved 
+to 100s. He reported no chest pain. Labs were noteable for an 
+elevated lactate of 3.9 and a positive UA. CXR noted a focal RLL 
+and ? RML opacity. He was treated with Cipro 400 mg IVx1, 
+Ceftriaxone 1 g IV x1, and azithromycin 500 mg IV x1. A right IJ 
+was placed. EKG was unremarkable except for low voltage. Prior 
+to transfer, VS were 97.3, 74, 96/56, 94 % 4l.  
+.  
+In the ICU, patient denies chest pain, and reports feeling at 
+baseline. He denies letheragy, but does continue to have a 
+cough.  
+
+ 
+Past Medical History:
+# CAD s/p PCI x 2 with a history of MI and angioplasty ___ years 
+ago. His most recent cardiac catheterization was in ___ at ___ which revealed non-flow 
+limiting three-vessel disease and no intervention was performed 
+at that time  
+# Atrial flutter/atrial tachycardia status post ablation in 
+___ with breakthrough atrial tachycardia and atrial 
+flutter  
+# Type 2 diabetes on insulin-followed by Dr. ___- ___ 
+visit
+A1C 7.5
+# PVD followed by Dr. ___  
+# Colon Ca -- s/p partial colectomy ___, no radiation or 
+chemotherapy  
+# Neuropathy -- progressing to R arm now; legs unchanged, uses 
+wheelchair  
+# Spinal stenosis -- MRI performed ___, no emergent issues, 
+but some retrolisthesis of L4-5, status post laminectomy at 
+L4-L5.  
+# Alcohol abuse  
+# History of mechanical falls.
+ 
+Social History:
+___
+Family History:
+No history of premature cardiac disease.
+ 
+Physical Exam:
+Vitals: T: 97.5 BP: 100/54 P: 78 R: 18 O2: 96% 4L NC   
+General: Alert, orientedx3, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: crackles right base, quiet breath sounds  
+CV: irreglar rate, normal S1 + S2, no murmurs, rubs, gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: foley clear urine 
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+ 
+Pertinent Results:
+___ 06:26PM   LACTATE-2.9*
+___ 07:06AM   LACTATE-3.7*
+___ 07:06AM   O2 SAT-82
+___ 06:23AM   GLUCOSE-93 UREA N-9 CREAT-0.4* SODIUM-133 
+POTASSIUM-3.3 CHLORIDE-105 TOTAL CO2-19* ANION GAP-12
+___ 06:23AM   CK(CPK)-24*
+___ 06:23AM   CK-MB-2 cTropnT-<0.01
+___ 06:23AM   CALCIUM-6.9* PHOSPHATE-2.7 MAGNESIUM-1.2*
+___ 06:23AM   WBC-5.4 RBC-3.17* HGB-10.5* HCT-31.4* MCV-99* 
+MCH-33.3* MCHC-33.6 RDW-15.1
+___ 06:23AM   NEUTS-71* BANDS-8* ___ MONOS-2 EOS-1 
+BASOS-0 ___ MYELOS-0
+___ 06:23AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+___ 06:23AM   PLT SMR-NORMAL PLT COUNT-292
+___ 06:23AM   ___ PTT-34.4 ___
+___ 02:04AM   LACTATE-3.9*
+___ 01:32AM   ___ PTT-32.9 ___
+___ 12:45AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 12:45AM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 12:45AM URINE  BLOOD-LG NITRITE-POS PROTEIN-NEG 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-SM
+___ 12:45AM URINE  RBC-0 ___ BACTERIA-OCC YEAST-NONE 
+EPI-<1
+___ 12:01AM   GLUCOSE-93 UREA N-12 CREAT-0.5 SODIUM-130* 
+POTASSIUM-3.6 CHLORIDE-99 TOTAL CO2-19* ANION GAP-16
+___ 12:01AM   ALT(SGPT)-5 AST(SGOT)-13 LD(LDH)-166 ALK 
+PHOS-103 TOT BILI-0.3
+___ 12:01AM   LIPASE-14
+___ 12:01AM   cTropnT-<0.01
+___ 12:01AM   ALBUMIN-2.2* CALCIUM-8.0* PHOSPHATE-2.7
+___ 12:01AM   DIGOXIN-0.6*
+___ 12:01AM   ASA-NEG ___ ACETMNPHN-28 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 12:01AM   WBC-5.5 RBC-3.85* HGB-12.4* HCT-36.8* MCV-96 
+MCH-32.2* MCHC-33.7 RDW-14.9
+___ 12:01AM   NEUTS-66.3 BANDS-0 ___ MONOS-1.5* 
+EOS-1.0 BASOS-0.8
+___ 12:01AM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL 
+MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-NORMAL
+___ 12:01AM   PLT SMR-NORMAL PLT COUNT-336
+
+___ CXR:
+The lungs are hyperinflated, consisted with COPD. There is mild 
+cardiomegaly.
+Mediastinal and hilar contours are unchanged. There is 
+calcification of the
+tortuous aorta. The hila are prominent, with atapered 
+appearance, suggesting pulmonary hypertension.
+ 
+There is ill- defined opacification in the right lower base. 
+There is also
+patchy opacity at the left base. No chf, effusion or ptx.
+ 
+IMPRESSION:
+ 
+1) Large opacity at right base -- most likely ddx is pneumonia 
+or aspiration.
+Recommend follow-up image to confirm resolution and exclude an 
+underlying
+chronic process.
+ 
+2) Patchy opacity at left base, smaller but with similar ddx.
+ 
+3) Cardiomegaly and COPD with possible pumonary hypertension.
+ 
+Blood culture ___ pending
+
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML.. 
+         PRESUMPTIVE IDENTIFICATION. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+EKG ___
+Sinus rhythm. Occasional premature atrial contractions. Low 
+voltage.
+Compared to the previous tracing of ___ no definite change.
+
+ 
+Brief Hospital Course:
+___ yo M with a past medical history of CAD, SVT, DM, CRC 
+presents to the ED with lethargy, and found to have pneumonia, 
+and possible early sepsis. 
+.
+# Hypotension, possible sepsis likely ___ 
+consolidation/pneumonia seen on CXR. The patient was initially 
+admitted to the MICU and treated with CTX, levofloxacin and 
+flagyl for CAP and possible aspiration PNA. He was volume 
+resuscitated with IVFs with improvement in his SBPs. Blood and 
+urine cultures were drawn. Cultures had no growth prior to 
+discharge.  His antibiotics were switched to Levofloxacin and 
+Flagyl prior to discharge to complete a ___s he was 
+no longer febrile or hypotensive.
+.
+# UTI: Patient was found to have a e-coli UTI not sensitive to 
+Cipro and only mildly sensitive to Macrobid (which he has been 
+on for prophylaxis).  For this reason, he was discharged on 7 
+days of Ampicillin for a complicated UTI and Macrobid was 
+stopped as this may be breading resistance.
+.
+# EtOh abuse: No history of DTs or seizures. Started on a CIWA 
+but did not require any benzodiazepines.  Previous hospice nurse 
+and PCP corroborated with history of heavy alcohol use.
+.
+# CAD: Plavix and asa were continued and CEs were negative 
+.
+# SVT: The patient is not anticoagulated. His digoxin was 
+continued. His metoprolol was held in the setting of initial 
+hypotension and then restarted.
+.
+# DM2: Glucose managed with Lantus and ISS. Neurontin was 
+continued. 
+.
+# Exam and imaging c/w COPD: Long smoking history and exam c/w 
+COPD although no documented diagnosis. Albuterol and ipratropium 
+nebs were used. The patient should have outpatient spirometry. 
+.
+# Poor po intake: Albumin less than 3. INR 1.3. Nutrition 
+consult was done as was speech and swallow consult.  Patient 
+elected for aspiration diet.
+.
+# Code Status/Goals of care: DNR/DNI (confirmed with patient).  
+Patient elected for ICU level of care with intravenous 
+antibiotics and rehabilitation, which seemed counter to his 
+hospice level of care.  Discussed with PCP, ___ 
+explained that patient is on hospice due to physical decline 
+secondary to diabetic neuropathy and alcoholic myopathy.  He was 
+in agreement that patient could remove himself from hospice 
+services (which he has been on for approx ___ year) and go to 
+rehab if that was within his personal goals.  Patient elected to 
+go home with ___ services, however discharged with ___ services 
+as hospice did not feel that he was an appropriate candidate any 
+longer.
+
+ 
+Medications on Admission:
+# Mirtazapine 30 mg Qhs
+# Flomax 0.4 mg 24 hr Cap
+# Plavix 75 mg Tab
+# Calcarb 600 With Vitamin D 600 mg-400 unit BID
+# Humulin 70/30 100 unit/mL (70-30) Susp, Sub-Q Inj
+# Salmon Oil-1000 1,000 mg-200 mg daily
+# Aspirin 325 mg daily
+# Multivitamin daily
+# Omega-3 Fatty Acids 1,000 mg daily
+# Cod Liver Oil daily
+# Digoxin 125 mcg daily
+# Metoprolol Tartrate 75 mg TID 
+# Macrodantin 100 mg BID
+# Ferrous Sulfate 325 mg (65 mg Iron) BID 
+# Gabapentin 300 mg QID
+# B Complex Vitamins daily
+# Amino Acid Cap daily
+# Lecithin 1,200 mg daily
+# Folate 1 mg daily
+# Flonase 50 mcg nasal 2 sprays each nostril twice daily
+# Flaxseed Oil 1,000 mg daily 
+ 
+Discharge Medications:
+1. Mirtazapine 30 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+2. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO HS (at bedtime).  
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Calcium Carbonate-Vitamin D3 600 mg(1,500mg) -200 unit Tablet 
+Sig: One (1) Tablet PO twice a day.  
+5. Salmon Oil-Omega-3 Fatty Acids 1,000-200 mg Capsule Sig: One 
+(1) Capsule PO once a day.  
+6. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+7. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+8. Omega-3 Fatty Acids 1,000 mg Capsule Sig: One (1) Capsule PO 
+once a day.  
+9. Cod Liver Oil  Oral
+10. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+11. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO 
+three times a day.  
+12. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) 
+Tablet PO BID (2 times a day).  
+13. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO QID (4 
+times a day).  
+14. B Complex Vitamins     Tablet Sig: One (1) Tablet PO once a 
+day.  
+15. Amino Acid     Capsule Sig: One (1) Capsule PO once a day.  
+16. Lecithin 1,200 mg Capsule Sig: One (1) Capsule PO once a 
+day.  
+17. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+18. Flonase 50 mcg/Actuation Spray, Suspension Sig: Two (2) 
+sprays Nasal twice a day: to each nostril.  
+19. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for Constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+20. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice 
+a day.
+Disp:*60 Capsule(s)* Refills:*2*
+21. Combivent ___ mcg/Actuation Aerosol Sig: Two (2) puffs 
+Inhalation every ___ hours as needed for shortness of breath or 
+wheezing.
+Disp:*1 cannister* Refills:*1*
+22. Nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr 
+Transdermal DAILY (Daily).
+Disp:*7 Patch 24 hr(s)* Refills:*0*
+23. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) mL 
+Injection BID (2 times a day).
+Disp:*60 mL* Refills:*2*
+24. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain.  
+25. Phytonadione 5 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily) for 2 doses.
+Disp:*2 Tablet(s)* Refills:*0*
+26. Levofloxacin 750 mg Tablet Sig: One (1) Tablet PO once a day 
+for 7 doses.
+Disp:*7 Tablet(s)* Refills:*0*
+27. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H 
+(every 8 hours) for 22 doses.
+Disp:*22 Tablet(s)* Refills:*0*
+28. Insulin
+Continue your home insulin regimen of Humulin 70-30, 8 Units 
+with supper.
+Check your fingersticks once a day
+29. Ampicillin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every 
+6 hours) for 9 days.
+Disp:*36 Capsule(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+-community acquired and aspiration pneumonia
+
+Secondary:
+-CAD
+-SVT
+-COPD
+-alcohol use
+-DM
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive. (slow speech)
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+___ were admitted to ___ 
+because of lethargy and chest pain. While ___ were here ___ had 
+labs and EKGs which showed that ___ were not having a heart 
+attack.  ___ were found to have a pneumonia on chest x-ray and 
+___ were treated with antibiotics. ___ also had a urine 
+infection which was treated with different antibiotics.
+
+While ___ were here, some of your medications were changed.
+___ should START taking:
+Flagyl through ___
+Levaquin through ___
+Ampicillin through ___
+Colace
+Senna
+Combivent inhalers as needed
+Thiamine for 2 more days
+Nicotine patch (if ___ restart smoking, ___ must stop this 
+patch)
+___ should continue Heparin injections while ___ are bedbound
+
+STOP taking
+Macrobid
+
+Congratulations on quitting smoking!
+
+Continue to take all other medications as prescribed by your 
+doctors.
+
+___ should follow-up with your doctors as below.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10818124-DS-24 | hadm_id=22288162
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline / Norvasc
+ 
+Attending: ___
+ 
+Chief Complaint:
+Tachycardia
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ is a ___ y.o male with h.o afib, ETOH abuse, CAD, DM, s/p 
+___ cancer, recently admitted for afib RVR, who presents to 
+the ED today with "fibrillations". Pt stated he was at home in 
+his USOH when his HCP found that he was in "fibrillations" and 
+called EMS. Reportedly, HCP found BP in 60's, EMS found SBP in 
+the 90's, HR reportedly "sinus". Pt states he is never 
+symptomatic from afib, including LH/dizziness/palp/CP, 
+n/diaphoresis.  
+.  
+In the ED, Pt in sinus intil IV placed, then pt went into afib 
+with RVR to the 140's. Pt rate controlled with 5mg IV lopressor, 
+SBP then to 80's for which pt was given 4L IVF (also b/c lactate 
+2.4). Pt given a total of 20mg IV dilt, then placed on a dilt 
+gtt b/c "the IV dilt lowered the heart rate". Pt given calcium 
+gluconate so the "dilt wouldn't lower the BP too much". Pt also 
+got a dose of levoflox for unclear reasons. K was repleted.  
+Last set of vitals. afeb, BP 107/58, hR 76, RR 15 sat 100% on 
+RA.  
+.  
+On review of systems, he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. He denies recent fevers, chills or rigors. 
+S/he denies exertional buttock or calf pain. All of the other 
+review of systems were negative.  
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope or presyncope.  
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS:: +Diabetes, +Dyslipidemia, 
++Hypertension  
+2. CARDIAC HISTORY: CAD s/p MI x 4 (per pt 3 in 1 week)  
+-CABG: n/a  
+-PERCUTANEOUS CORONARY INTERVENTIONS:2. Coronary artery disease 
+status post PCI x 2 in the past with a history of MI and 
+angioplasty ___ years ago. His most recent cardiac 
+catheterization was in ___ at ___ 
+___ which revealed non-flow limiting three-vessel disease 
+and no intervention was performed at that time.  
+-PACING/ICD: Cardiac aflutter/a tach :1. SVT, specifically 
+atrial tachycardia status post ablation in ___ with 
+breakthrough atrial tachycardia and atrial flutter  
+3. OTHER PAST MEDICAL HISTORY:  
+DM ("type 1.5" per pt)  
+ICH  
+Diabetes - w/neuropathy; uses wheelchair mostly, attempts  
+transfer with walker but has fallen more recently  
+PVD -- sees Dr. ___  
+___ Ca -- s/p partial colectomy ___, no rad or chemo; on ___  
+yr follow-up schedule now -- due ___.  
+Neuropathy -- progressing to R arm now; legs unchanged, uses  
+Wt Loss -- ___ years  
+Spinal Stenosis -- MRI done ___, no emergent issues, but  
+some retrolisthesis of L4-5.
+ 
+Social History:
+___
+Family History:
+no family hx of heart disease. Both parents died at ___ of "old 
+age."
+ 
+Physical Exam:
+Gen: lying in bed, sleeping with blankets over his head, then 
+NAD, awake, cooperative.  
+vitals-T 97, BP 123/71, HR 72, RR 18, sat 97% on RA  
+HEENT-Perrla, EOMI, anicteric, MMM  
+neck-no JVP, no LAD  
+chest-b/l ae no w/c/r  
+heart-s1s2 irregular, no m/r/g  
+abd-+bs, soft, NT, ND  
+ext-No c/c/e 2+pulses  
+
+ 
+Pertinent Results:
+___ CXR (PORTABLE AP)
+COMPARISON: ___. 
+Heart is normal in size. The aorta is mildly tortuous. Aside 
+from minimal 
+bibasilar atelectasis, the lungs are clear without consolidation 
+or pulmonary edema. There is no pleural effusion or 
+pneumothorax.  
+IMPRESSION: No acute cardiopulmonary process.
+
+SELECTED LAB VALUES:
+___ 11:05PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+___ 11:05PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG mthdone-NEG
+___ 09:40PM BLOOD ___
+___ 09:35AM BLOOD WBC-6.6 RBC-3.46* Hgb-11.3* Hct-33.1* 
+MCV-96 MCH-32.8* MCHC-34.3 RDW-14.9 Plt ___
+___ 09:35AM BLOOD Glucose-253* UreaN-4* Creat-0.5 Na-131* 
+K-4.2 Cl-100 HCO3-23 AnGap-___ yo M with history of atrial tachycardia s/p ablation, atrial 
+fibrillation, EtOH abuse, CAD, DM, and recent admission for 
+atrial fibrillation with RVR, presented with EtOH intoxication 
+and heart rate to the 140s.  
+
+# Afib with RVR
+Pt with history of atrial tachycardia s/p ablation in ___ with 
+frequent breakthrough tachycardia. Pt present with "afib with 
+RVR" in ED s/p IV lopressor, IV dilt, sent up on diltiazem drip. 
+On morning of admission, patient was tachycardic to the 160s 
+despite a maximal diltiazem drip. He denied denied chest pain, 
+palpitations, shortness of breath, pre-syncope EKG at that time 
+was found to be atrial tachycardia. After several doses of IV 
+lopressor, the patient spontaneously converted to a sinus rhythm 
+with rate around 70. The diltiazem drip was discontinue and the 
+patient was manage on Toprol-XL in the morning and diltiazem 30 
+mg PO four times daily. He remained in sinus rhythm until the 
+morning of ___, when he again returned to an atrial 
+fibrillation with rate to the 160s while patient was still 
+sleeping. Was woken and again denied chest pain, palpitations, 
+shortness of breath, pre-syncope. He had a stable BP with 
+systolic in the 120s at that time. He was given two doses of IV 
+lopressor and after approximately 30 minutes again returned to 
+sinus rhythm with a rate in the ___ - 70s. We made a decision 
+that given his alcohol abuse and fall risk that anticoagulation 
+was not the best option for this patient. He was discharged on 
+Toprol-XL 100 mg in the morning and Diltiazem extended release 
+180 mg at night for his rate control.
+
+# CORONARIES:  
+Coronary artery disease status post PCI x 2 in the past with a 
+history of MI and angioplasty ___ years ago. His most recent 
+cardiac catheterization was in ___ at ___ 
+___ which revealed non-flow limiting three-vessel 
+disease and no intervention was performed at that time. He 
+denied chest pain during this hospitalization and was continued 
+on his home medications of aspirin, metoprolol, plavix, and a 
+statin.
+
+#ETOH abuse:  
+History in OMR, pt admits to ___ drinks of scotch daily. CIWA 
+scale initiated at admission, but patient did not have 
+withdrawal symptomatology and thus did not trigger the need for 
+benzos. On morning of admission he was given a "banana bag" 
+containing IV folate, thiamine, and multivitamin.
+ 
+Medications on Admission:
+Metoprolol Tartrate 50 mg BID  
+Aspirin 325 mg  
+Clopidogrel 75 mg daily  
+Duloxetine 30 mg Capsule, EC daily  
+Atorvastatin 40 mg Tablet daily
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+3. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+4. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO once a day.
+6. Diltiazem HCl 180 mg Capsule, Sustained Release Sig: One (1) 
+Capsule, Sustained Release PO Every evening.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Atrial fibrillation with rapid ventricular response
+Ethanol abuse
+Tobacco Abuse
+
+ 
+Discharge Condition:
+stable, heart rate controlled.  chest pain free
+
+ 
+Discharge Instructions:
+You were admitted for atrial fibrillation.  You had a very rapid 
+heart rate.  You were given medications to control your heart 
+rate.  At the time of discharge, your heart rate was much better 
+controlled.  
+
+Please take all medications as prescribed.  Please take your 
+Metoprolol in the morning, and your diltiazem in the evening.  
+
+You were not started on an anticoagulation medication because of 
+the risks of fall.  
+
+If you develop any of the following concerning symptoms, please 
+call your PCP or go to the ED: chest pains, shortness of breath, 
+palpitations, fevers or chills. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10818124-DS-25 | hadm_id=23237026
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline / Norvasc
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Atrial fibrillation  
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Pt is a ___ y.o male with history of paroxysmal atrial 
+fibrillation, ETOH abuse, CAD, HTN, type II DM, s/p ___ 
+cancer, with several recent admissions for pAF, most recent 
+hospitalization on ___ to ___, who was BIBA after his HCP 
+called EMS as pt was intoxicated and confused. In the ED, pt 
+initially with SBP 80/50 with HR 74, given 1 L NS. Subsequently 
+with BP 119/65 and atrial fibrillation with rates in 120s. Given 
+another 1L fluids and IV diltiazem ordered, but not given as pt 
+self-converted to sinus rhythm with SBP 95/54.  
+.  
+Despite being in sinus rhythm and stable vitals, pt is being 
+admitted for further management of his chronic paroxysmal atrial 
+fibrillation.  
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope or presyncope.  
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY: Per review of OMR  
+1. CARDIAC RISK FACTORS:: +Diabetes, +Dyslipidemia, 
++Hypertension  
+2. CARDIAC HISTORY: CAD s/p MI x 4 (per pt 3 in 1 week)  
+-CABG: n/a  
+-PERCUTANEOUS CORONARY INTERVENTIONS: Coronary artery disease 
+status post PCI x 2 in the past with a history of MI and 
+angioplasty ___ years ago. His most recent cardiac 
+catheterization was in ___ at ___ 
+___ which revealed non-flow limiting three-vessel disease 
+and no intervention was performed at that time.  
+-PACING/ICD: Cardiac aflutter/a tach : SVT, specifically atrial 
+tachycardia status post ablation in ___ with 
+breakthrough atrial tachycardia and atrial flutter  
+3. OTHER PAST MEDICAL HISTORY:  
+DM type II c/b neuropathy  
+PVD -- sees Dr. ___  
+___ Ca -- s/p partial colectomy ___, no rad or chemo; on ___  
+yr follow-up schedule now -- due ___.  
+Neuropathy -- progressing to R arm now; legs unchanged, uses  
+Spinal Stenosis -- MRI done ___, no emergent issues, but  
+some retrolisthesis of L4-5.  
+ 
+Social History:
+___
+Family History:
+no family hx of heart disease. Both parents died at ___ of "old 
+age."
+ 
+Physical Exam:
+Per admission note:
+VS T 97.9 BP 112/67 HR 60 RR 18 94% RA  
+Gen: Sleeping with blankets over his head, arousable, 
+dishevelled  
+HEENT-PERRLA, EOMI, anicteric, MMM  
+neck-no JVP, no LAD  
+chest-CTA b/l  
+heart-Normal s1, s2, irregular, no m/r/g  
+abd- +BS, soft, NT, ND  
+Ext-No c/c/e 2+pulses  
+.  
+
+ 
+Pertinent Results:
+___ 11:41PM   WBC-7.3 RBC-3.27* HGB-11.0* HCT-31.4* MCV-96 
+MCH-33.5* MCHC-34.9 RDW-14.9
+___ 11:41PM   NEUTS-41* BANDS-0 LYMPHS-49* MONOS-4 EOS-2 
+BASOS-0 ATYPS-4* ___ MYELOS-0
+___ 11:41PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+.
+___ 11:41PM   GLUCOSE-101 UREA N-12 CREAT-0.6 SODIUM-134 
+POTASSIUM-3.3 CHLORIDE-99 TOTAL CO2-23 ANION GAP-15
+.
+___ 01:35AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG\
+.
+___ 11:41PM   ASA-NEG ___ ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+.
+ 
+Brief Hospital Course:
+This is a ___ year old male with a history of ETOH abuse, pAF, 
+CAD, HTN, type II DM who presents intoxicated in atrial 
+fibrillation.  
+.  
+# RHYTHM: Patient was admitted for paroxysmal a-fib which seems 
+to occur primarily when he is intoxicated.  On the floor he was 
+NSR with occasional PACs.  Patient does not have palpitations 
+with a-fib. We continued home regimen of Toprolol XL and 
+Diltiazem long acting, and we encourage ETOH cessation  
+.  
+# CORONARIES: Coronary artery disease status post PCI x 2 in the 
+past with a history of MI and angioplasty ___ years ago. His most 
+recent cardiac catheterization was in ___ at ___ 
+___ which revealed non-flow limiting 
+three-vessel disease and no intervention was performed at that 
+time.  Patient remained chest pain free while in house.  Cont 
+ASA, BB, plavix,statin  
+.  
+# PUMP: Preserved EF per records. Euvolemic by exam.  No issues 
+while in house. 
+.  
+#ETOH abuse: Appears long-standing per review of OMR and no 
+history of withdrawl.  Patient was given thiamine and folate.  
+No benzos needed and patient was AOx3 and not acting intoxicated 
+when discharged.    
+.  
+#DM: Patient confirms that he take 70/30 14 AM and 4 ___ units .  
+Cont home insulin. 
+.  
+# Neuropathy: Continue Cymbalta
+.
+FEN: cardiac, diabetic diet  
+ 
+Medications on Admission:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY  
+(Daily).  
+3. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr  
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+4. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1)  
+
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO once a day.  
+6. Diltiazem HCl 180 mg Capsule, Sustained Release Sig: One (1)  
+
+Capsule, Sustained Release PO Every evening  
+7. Insulin 70/30 14 and 4  
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Diltiazem HCl 180 mg Capsule, Sustained Release Sig: One (1) 
+Capsule, Sustained Release PO DAILY (Daily).  
+3. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+4. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Insulin NPH & Regular Human 100 unit/mL (70-30) Cartridge 
+Sig: Fourteen (14) units Subcutaneous QAM.  
+8. Insulin NPH & Regular Human 100 unit/mL (70-30) Cartridge 
+Sig: Four (4) units Subcutaneous QPM.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Atrial fibrillation
+
+Secondary:
+EtOH abuse
+Diabetes
+Dyslipidemia
+Hypertension  
+
+ 
+Discharge Condition:
+good, VSS, on room air
+
+ 
+Discharge Instructions:
+Please stop smoking. Information was given to you on admission 
+regarding smoking cessation. Please reduce your alcohol intake - 
+you can call your doctor for help with this.
+
+You came to the hospital for a fast and irregular heart rate 
+called atrial fibrillation.  We monitored your heart rate and it 
+converted back to a normal rhythm and rate.
+
+Continue to take your medications as prescribed. You should stop 
+drinking alcohol. It is likely the cause of your rapid heart 
+rate.
+
+Call your doctor or return to the ED for chest pain, shortness 
+of breath, palpitations, dizzyness or lightheadedness, 
+fevers/chills, nausea, vomitting, diarrhea, or other concerns.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10818124-DS-28 | hadm_id=25465346
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline / Norvasc
+ 
+Attending: ___
+ 
+Chief Complaint:
+altered mental status
+ 
+Major Surgical or Invasive Procedure:
+CT head
+ 
+History of Present Illness:
+  ___ yo M w PMHx of CAD, T2DM, Neuropathy-wheelchair bound, Hx 
+of Afib/flutter sp ablation in ___ w recurrence, PVD, Hx of 
+colon ca presents with low blood pressure, ? altered mental 
+status. According to pts' caregiver/friend, Mr. ___, 
+pt's SBP was noted to be in 90's this AM w HR of 105. Pt was 
+asymptomatic and Mr ___ gave him his metoprolol, sbp check 
+later was in ___ but slowly improved to ___ w HR in ___. At 
+around 8pm; however, Mr ___ could not get any bp readings and 
+noted that pulse was very irregular, he called PCP's office who 
+advised him to call ___. Pt was mentating throughout. Pt's 
+insulin was also recently changed to lantus along w novolog 
+sliding scale. Mr ___ gave pt 10 units of Novolog in eve for BS 
+of >400 ___id not eat much in eve and BS was 63 on arrival 
+to ED.
+  Pt was also noted to have high ETOH level and according to 
+both pt and friend, he recently has acutally cut down his 
+drinking from drinking half a bottle of vodka daily to about 2 
+mixed drinks a day. 
+  Pt denies fevers, chills, chest pain, sob, abd pain, nausea, 
+vomiting, diarrhea, urinary symptoms, bleeding.
+  In ED, vitals were 97.8, 93/53, 65, 16, 98%RA. pt underwent 
+Head CT as EMS had reported AMS and it was neg. Pt was noted to 
+have lactic acid of 2.5 and given empiric doses of Vanc/Ceftaz. 
+CXR was neg (pt had recent pneumonia but changes have cleared), 
+UA neg. Pt was also given 3L of NS. 
+
+ROS:
+-Constitutional: []WNL []Weight loss [x]Fatigue/Malaise []Fever 
+[]Chills/Rigors []Nightweats []Anorexia
+-Eyes: [x]WNL []Blurry Vision []Diplopia []Loss of Vision 
+[]Photophobia
+-ENT: [x]WNL []Dry Mouth []Oral ulcers []Bleeding gums/nose 
+[]Tinnitus []Sinus pain []Sore throat
+-Cardiac: [x]WNL []Chest pain []Palpitations ___ edema 
+[]Orthopnea/PND []DOE
+-Respiratory: [x]WNL []SOB []Pleuritic pain []Hemoptysis []Cough
+-Gastrointestinal: [x]WNL []Nausea []Vomiting []Abdominal pain 
+[]Abdominal Swelling []Diarrhea []Constipation []Hematemesis 
+[]Hematochezia []Melena
+-Heme/Lymph: [x]WNL []Bleeding []Bruising []Lymphadenopathy
+-GU: [x]WNL []Incontinence/Retention []Dysuria []Hematuria 
+[]DIscharge []Menorrhagia
+-Skin: [x]WNL []Rash []Pruritus
+-Endocrine: [x]WNL []Change in skin/hair []Loss of energy 
+[]Heat/Cold intolerance
+-Musculoskeletal: []WNL []Myalgias []Arthralgias []Back pain
+-Neurological: [] WNL [x]Numbness of extremities - old 
+[x]Weakness of extremities - old[]Parasthesias 
+[]Dizziness/Lightheaded []Vertigo []Confusion []Headache
+-Psychiatric: [x]WNL []Depression []Suicidal Ideation
+-Allergy/Immunological: [x] WNL []Seasonal Allergies
+
+ 
+Past Medical History:
+# CAD s/p PCI x 2 with a history of MI and angioplasty ___ years 
+ago. His most recent cardiac catheterization was in ___ at ___ which revealed non-flow 
+limiting three-vessel disease and no intervention was performed 
+at that time  
+# Atrial flutter/atrial tachycardia status post ablation in 
+___ with breakthrough atrial tachycardia and atrial 
+flutter  
+# DM type II c/b neuropathy  
+# PVD followed by Dr. ___  
+# Colon Ca -- s/p partial colectomy ___, no radiation or 
+chemotherapy  
+# Neuropathy -- progressing to R arm now; legs unchanged, uses 
+wheelchair  
+# Spinal stenosis -- MRI performed ___, no emergent issues, 
+but  
+some retrolisthesis of L4-5  
+# Concern for alcohol abuse  
+ 
+Social History:
+___
+Family History:
+No history of premature cardiac disease. Both parents died at ___ 
+of "old age."
+ 
+Physical Exam:
+.
+Physical Exam:
+Appearance: NAD
+Vitals:  T:97.3  BP:126/74 HR:74 RR: 20 O2: 97 % 2 liters O2
+Eyes: EOMI, PERRL, noninjected, anicteric
+ENT: Moist
+Neck: No JVD, no LAD, 
+Cardiovascular: RRR, nl S1/S2, II/VI SEM best at LLSB
+Respiratory: CTA anteriorly
+Gastrointestinal: soft, non-tender, non-distended,  normal bowel 
+sounds
+Musculoskeletal/Extremities: thin, cachectic, no edema in the 
+bilateral extremities
+Neurological: sleepy but arousable and oriented x3, fluent 
+speech, sensation WNL, CNII-XII intact
+Integument: warm, no rash, no ulcer
+Psychiatric: appropriate, pleasant
+Hematological/Lymphatic: No cervical, supraclavicular 
+lymphadenopathy
+GU: no CVAT
+
+ 
+Pertinent Results:
+___ 09:14PM   WBC-6.6 RBC-3.34* HGB-9.6* HCT-28.3* MCV-85 
+MCH-28.9 MCHC-34.1 RDW-16.9*
+___ 09:14PM   NEUTS-47.4* ___ MONOS-7.5 EOS-2.5 
+BASOS-0.7
+___ 09:14PM   PLT COUNT-364
+___ 09:14PM   ___ PTT-33.3 ___
+___ 09:14PM   ASA-NEG ___ ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 09:14PM   CALCIUM-8.4 PHOSPHATE-3.1 MAGNESIUM-1.8
+___ 09:14PM   CK-MB-NotDone
+___ 09:14PM   cTropnT-<0.01
+___ 09:14PM   ALT(SGPT)-10 AST(SGOT)-18 LD(LDH)-148 
+CK(CPK)-25* ALK PHOS-78 TOT BILI-0.2
+___ 09:14PM   GLUCOSE-63* UREA N-15 CREAT-0.7 SODIUM-133 
+POTASSIUM-3.7 CHLORIDE-101 TOTAL CO2-20* ANION GAP-16
+___ 09:21PM   GLUCOSE-63* LACTATE-2.7* NA+-132* K+-3.6 
+CL--97* TCO2-21
+___ 11:00PM   LACTATE-1.8
+___ 11:37PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+___ 11:37PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+
+CXR:  No acute cardiopulmonary process.
+
+CT head: prelim read - no acute abn
+ 
+Brief Hospital Course:
+___ year old man with CAD, type 2 DM, wheelchair bound from 
+polyneuropathy ___ DM and alcohol, and history of Afib/flutter 
+after ablation presents with hypotension.
+
+1. Afib/flutter: He had ablation once in ___ but had 
+recurrences of afib/flutter thereafter. He is completely 
+asymptomatic despite episodes of hypotension and or rapid 
+ventricular rate because of paroxysmal Afib/flutter. Over last 
+few months, he has been tried on several combinations of 
+diltiazem and metoprolol. Most recent admission was for 
+hypotension as well. He was on diltiazem 240 mg QD and 
+Metoprolol 100 mg BID (increased prior to that ___ afib with 
+rapid ventricular rate). During that admission, he was switched 
+to only metoprolol 100 mg QID. During this admission, we 
+decreased metoprolol to 100 mg TID and added Digoxin. We 
+consulted the EP service and contacted his cardiologist. Despite 
+frequent episodes of Afib/flutter with HR of 120, he was 
+completely asymptomatic. He will be discharge on both Digoxin 
+and metoprolol to 100 mg TID. The latter will be decreased to 
+100 mg BID on ___. This will allow Digoxin to work prior to 
+reducing the dose of Metoprolol. Metoprolol can be further 
+weaned off by his PCP/Cardiologist. Per EP recommendations 
+Digoxin level should be check post discharge and dose be 
+adjusted accordingly. He was not on Coumadin because of 
+continued alcohol use and H/O CNS Hemorrhage. On the floor, he 
+had no evidence of altered mental status. His head CT was 
+negative. His UA/CXR/WBC were also negative. He had no evidence 
+of infection. His continued alcohol drinking can trigger his 
+arrhythmia. We will arrange a close follow up with 
+PCP/Cardiologist for the above adjustments ( ___ with 
+his cardiologist).
+
+2. Lactic acidosis - likely ___ ischemia from hypotension. This 
+resolved with Fluids. He was given Vanc/Ceftaz in ED for lactic 
+acidosis; however, he is afebrile, oriented, with negative 
+UA/CXR and no symptoms of infection.
+
+3. Hypotension - Likely ___ high doses of metoprolol and/or 
+paroxysmal Afib with RVR despite taking metoprolol. 
+
+4. Iron deficiency anemia: The iron deficiency noted on labs on 
+___ with ferritin of 18. We advised out-patient colonoscopy 
+given HX of colon cancer. He had none for the last ___ years.
+
+5. Alcohol use/abuse: This concern was raised before by other 
+providers. Per patient and caregiver, he has cut down on 
+drinking but not interested in quitting altogether. He does not 
+want to quit smoking too.
+
+Total discharge time 56 minutes
+
+ 
+Medications on Admission:
+From the list sent over by caregiver 
+1. ASA 325mg qD
+2. Plavix 75mg QD
+3. Lipitor 40mg QD
+4. Gabapentin 100mg TID
+5. Folic acid 1mg QD
+6. MVI tab QD
+7. Ferrous sulfate 325mg QD
+8. Duloxetine EC 30mg QD
+9. Thiamine 100mg QD
+10. Metoprolol 100mg QID
+11. lasix 20mg QD
+12. Lantus 14 units QAM
+13. Novolog sliding scale
+14. Calcium w Vit D
+15. B complex vitamin
+16. Flaxeed
+ 
+Discharge Medications:
+1. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+5. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours).  
+6. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+7. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+8. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+10. Nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr 
+Transdermal DAILY (Daily).  
+11. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+for 1 months.
+Disp:*30 Tablet(s)* Refills:*0*
+12. Metoprolol Tartrate 100 mg Tablet Sig: One (1) Tablet PO 
+twice a day for 1 months: start on ___.
+Disp:*60 Tablet(s)* Refills:*0*
+13. Metoprolol Tartrate 100 mg Tablet Sig: One (1) Tablet PO 
+three times a day for 3 days: Change to 2 time a day on 
+___. .  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Paroxismal Atrial Fibrillation.
+
+ 
+Discharge Condition:
+Excellent
+
+ 
+Discharge Instructions:
+We changed your medications. We added Digoxin to control your 
+heart rhythm. You will get appointment with your Cardiologist to 
+check the Digoxin level to further adjust the dose. You will 
+leave on Metoprolol 100 mg three times a day but this dose 
+should be reduced to twice a day on ___. This time will 
+allow the digoxin to work. Please call your PCP if you get 
+palpitation, lightheadedness, dizziness, or any concerning 
+symptom. You need to have Colonoscopy as you have anemia and 
+history of colon cancer. Please have your PCP arrange for this. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10818124-DS-22 | hadm_id=25687171
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline / Norvasc
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Failure to thrive
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ yoM w/MMP including PAF with RVR (s/p recent admit for RVR 
+___, not anticoagulated due to h/o ongoing EtOH abuse s/p 
+numerous falls c/b SDH, who is now referred to the ED by home 
+caretaker for EtOH abuse and inability to take care of pt. The 
+pt fell today, although the caretaker was able to catch him, 
+resulting on only a knee abrasion. Caretaker then called EMS.  
+.  
+In the E.D., VS: 98.7 61 110/61 99%RA. Exam unremarkable other 
+than MS slightly altered, reportedly at baseline. Labs showed 
+new hyponatremia to 125. EKG revealed sinus arrhythmia with 
+frequent PACs, but not in fib. CXR was without infiltrate. U/A 
+was clean; urine tox screen was negative, serum tox screen was + 
+for EtOH (259). Given h/o SDH, a CT head was performed, which 
+was negative for bleeding. He was admitted to medicine for FTT, 
+caregiver inability to provide adequate support at home.  
+.  
+Currently, the patient is drunk but alert and cooperative. 
+States he is in his USOH, can't remember falling today. Endorses 
+drinking his usual vodka and gingerale. No F/C/N/V/D. No pain 
+anywhere, no SOB.  
+At baseline due to his neuropathy he is able to walk 1 block at 
+most prior to sitting down.  
+ 
+Past Medical History:
+.  
+PMH:  
+HTN  
+CAD s/p MI x 4 (per pt 3 in 1 week)  
+DM  
+Hypercholesterolemia  
+ICH  
+Diabetes - w/neuropathy; uses wheelchair mostly, attempts 
+transfer with walker but has fallen more recently  
+PVD -- sees Dr. ___  
+___ aflutter/a tach  
+Colon Ca -- s/p partial colectomy ___, no rad or chemo; on ___  
+yr follow-up schedule now -- due ___.  
+Neuropathy -- progressing to R arm now; legs unchanged, uses  
+Wt Loss -- ___ years  
+Spinal Stenosis -- MRI done ___, no emergent issues, but  
+some retrolisthesis of L4-5.  
+
+ALL:  
+amytriptyline  
+"appetite stimulant"  
+
+ 
+Social History:
+___
+Family History:
+No hx of CAD or DM
+sister with ___ 
+ 
+Physical Exam:
+PE:  
+VITALS: 96.5 127/63 73 20 98%RA  
+GEN: middle aged disheveled white male, A+Ox3, NAD  
+HEENT: PERRL, EOMI, no nystagmus, OP clear, MM slightly dry  
+CV: normal rate, regular rhythm with ectopy, no m/r/g  
+PULM: CTAB  
+ABD: Soft, NT, ND, +BS  
+EXT: frail, wasted, no peripheral edema  
+
+ 
+Pertinent Results:
+=====ADMISSION LABS=====
+___ 06:00AM   GLUCOSE-91 UREA N-4* CREAT-0.4* SODIUM-133 
+POTASSIUM-4.2 CHLORIDE-97 TOTAL CO2-24 ANION GAP-16
+___ 06:00AM   CALCIUM-8.3* PHOSPHATE-3.5 MAGNESIUM-1.9
+___ 06:00AM   WBC-4.6 RBC-3.31* HGB-10.6* HCT-30.4* MCV-92 
+MCH-32.0 MCHC-34.8 RDW-16.9*
+___ 06:00AM   PLT COUNT-233
+___ 11:30PM   GLUCOSE-108* UREA N-6 CREAT-0.5 SODIUM-125* 
+POTASSIUM-4.2 CHLORIDE-90* TOTAL CO2-22 ANION GAP-17
+___ 11:30PM   ASA-NEG ___ ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 11:30PM   WBC-5.5 RBC-3.38* HGB-10.8* HCT-30.8* MCV-91 
+MCH-32.0 MCHC-35.1* RDW-16.7*
+___ 11:30PM   PLT COUNT-232
+___ 11:30PM   ___ PTT-26.3 ___
+___ 10:50PM URINE  HOURS-RANDOM CREAT-35 SODIUM-37
+___ 10:50PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 10:50PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 10:50PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-15 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+
+CT HEAD
+___
+IMPRESSION: No acute intracranial process.
+
+CXR
+___
+FINDINGS: In comparison with the study of ___, there is little 
+change.  
+Specifically, no evidence of focal pneumonia or pulmonary edema. 
+ 
+Hyperexpansion of the lungs persists. 
+  
+The left costophrenic angle has been excluded from the image. 
+
+ 
+Brief Hospital Course:
+___ yo man with multiple medical problems, including paryxosmal 
+atrial fibrillation, not on anticoagulation because of ETOH 
+abuse and frequent falls, hx subdural hematoma, presented with a 
+near fall and failure to thrive. His care-taker stated that he 
+was unable to care for him any more.   
+.  
+# Hyponatremia - Per history and exam, the patient appeared 
+clinically hypovolemic. Na on admission was 125, and a 
+calculated FeNa was 0.4%. Patient was hydrated with 1L NS via 
+Banana bag overnight, and then PO intake was encouraged without 
+difficulty. Repeat Na showed a return toward baseline (133.) 
+Patient will need to follow-up with his PCP ___ 1 week to 
+re-check his Na level.
+.  
+# Failure to thrive - per history, the patient has had a history 
+of weight loss for more than ___ years. After reviewing OMR notes, 
+the patient appears to be at his baseline functional status. 
+Patient was assessed by Physical/Occupational therapy and 
+recommended a home safety evaluation, which patient refused. 
+Patient was also seen by the Addictions specialist, who 
+confirmed patient's continued refusal to consider rehab. 
+.  
+# CAD - Pt has had a history of multiple myocardial infarctions. 
+However, pt has had no chest pain, diaphoresis, shortness of 
+breath, or any other systems consistent with an ischemic event.  
+Pt was continued on his home doses of ASA, Clopidogrel, Toprol 
+XL, and Atorvastatin.
+.  
+# Hx of paroxysmal atrial fibrillation, atrial tachycardia: 
+Recent holter prior to admission confirms PAF and predominant 
+sinus arrhythmia/atrial tachycardia, but pt has been 
+asymptomatic throughout his stay. He was not on Warfarin at 
+admission secondary to his history of subdural hematoma, falls, 
+and ETOH abuse. Toprol XL was continued for rate control, and pt 
+was monitored on telemetry.  
+.  
+# ETOH abuse: Pt was admitted in an intoxicated state. Only ETOH 
+was positive on serum toxicology and urine screen. Pt denied a 
+history of withdrawal, and did not exhibit any signs/symptoms of 
+withdrawal during his stay. No valium was required, and CIWAS 
+have remained negative. Pt was given 1L NS via banana bag, and 
+started on PO Thiamine/Folate/Multivitamin afterwards. The 
+Addictions specialist confirmed patient's refusal to pursue 
+alcohol cessation/rehab, and was familiar with the patient's 
+case from prior admissions.  The pt was encouraged to consider 
+ETOH cessation, and will need to follow up further with his PCP.
+.  
+# DM - Pt has a long history of diabetes mellitus with 
+neuropathy in his extremities. He attributes his progressive 
+inability to transfer to the neuropathy in his lower 
+extremities. He did not know his insulin dose, and was placed 
+for the time being on Humalog insulin sliding scale. He was 
+placed on qid finger sticks, and was maintained on a 
+diabetic/heart healthy diet. His blood sugar levels remained 
+stable and within normal limits during his stay. He will need to 
+follow-up with his PCP to monitor his diabetes and neuropathy.
+.  
+# Depression: the patient was stable during admission. He was 
+continued on his home Wellbutrin.  
+.  
+ 
+Medications on Admission:
+Clopidogrel 75mg PO daily
+Aspirin 325 mg PO daily
+Atorvastatin 40mg PO daily
+Toprol XL 200mg PO daily
+Wellbutrin 75mg PO daily
+Multivitamin 1 tablet PO daily
+Folate 1mg PO daily
+Insulin: unclear dose, administered by HCP
+
+ 
+Discharge Medications:
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr 
+Sig: Two (2) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+5. Bupropion 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+6. Insulin: Continue to administer as directed by your PCP.
+7. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+8. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+9. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Hyponatremia
+Alcohol abuse
+Seconary:
+Atrial fibrillation with RVR
+Coronary artery disease
+Hypercholesterolemia
+Diabetes mellitus 
+Diabetic neuropathy
+Peripheral vascular disease
+
+ 
+Discharge Condition:
+Pt was hemodynamically stable. Pt continued to be free of 
+palpitations, tremors, or diaphoresis. He was tolerating PO 
+intake, and was alert and oriented x 3. The pt uses a wheelchair 
+and walker to transfer at baseline.
+
+ 
+Discharge Instructions:
+You were admitted for management of hyponatremia and alcohol 
+abuse. Your hyponatremia has resolved, and was most likely 
+related to dehyration. You were offered support services for 
+your alcohol abuse, but you were not interested. If you are ever 
+interested in the future, please do not hesitate to return to 
+the hospital for support services..
+
+Please continue to take your medications as prescribed.
+
+If you experience any tremors, palpitations, sweating, seizures, 
+visual hallucinations, or have any other concerns please call 
+your MD or return to the ED. This may be a sign that you are 
+withdrawing from alcohol.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10818124-DS-21 | hadm_id=26228410
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline
+ 
+Attending: ___
+ 
+Chief Complaint:
+Atrial fibrillation with RVR  
+
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ yoM w/ a h/o PAF presenting with atrial fibrillation with 
+rapid ventricular response. Numerous falls in the past due to 
+alcoholism and head bleed in past so not anticoagulated. He went 
+to his PCP's office and was completely asymptomatic but was 
+found to be in atrial fibrillation with RVR to a rate of 150s.  
+.  
+He was going to his PCPs office for a routine physical, no 
+symptoms at all. No palpitations, SOB, CP, DOE, Orthopnea or 
+PND. At baseline due to his neuropathy he is able to walk 1 
+block at most prior to sitting down. He states he is limited by 
+his significant lower extremity neuropathy.  
+.  
+On toprol 100mg daily at home and has been taking this.  
+.  
+Of note patient falls 3 x per week due to his neuropathy and 
+uses a walker, he has been discussing a wheelchair with his PCP. 
+ 
+.  
+In the E.D. HR initially 150s lopressor 5mg IV x 3 HR to 100 
+then back to 150 (not given PO lopressor). Then given 50mg po 
+loressor x 1 then given 5mg IV x 2 lopressor and HR back to 100. 
+HR ranging from 60-120 with BP in ED prior to transfer to floor 
+of 124/60 98% RA RR 16.  
+
+ 
+Past Medical History:
+.  
+PMH:  
+HTN  
+CAD s/p MI x 4 (per pt 3 in 1 week)  
+DM  
+Hypercholesterolemia  
+ICH  
+Diabetes - w/neuropathy; uses a cane  
+PVD -- sees Dr. ___  
+___ aflutter/a tach  
+Colon Ca -- s/p partial colectomy ___, no rad or chemo; on ___  
+yr follow-up schedule now -- due ___.  
+Neuropathy -- progressing to R arm now; legs unchanged, uses  
+Wt Loss -- ___ years  
+Spinal Stenosis -- MRI done ___, no emergent issues, but  
+some retrolisthesis of L4-5.  
+
+ 
+Social History:
+___
+Family History:
+No hx of CAD or DM
+sister with ___ 
+ 
+Physical Exam:
+VITAL: T 98.6 BP 127/73 HR 136 RR 18 O2 96% RA  
+GEN: A+Ox3, NAD  
+HEENT: PERRL, EOMI, OP clear, MMM  
+CV: irregularly irregular, tachycardic, no m/r/g  
+PULM: CTAB  
+ABD: Soft, NT, ND, +BS  
+EXT: No peripheral edema  
+
+ 
+Pertinent Results:
+___ 05:06PM   WBC-5.1 RBC-4.07* HGB-12.4* HCT-37.5* MCV-92# 
+MCH-30.4# MCHC-33.0 RDW-16.5*
+___ 05:06PM   NEUTS-54.8 ___ MONOS-5.4 EOS-0.4 
+BASOS-0.7
+___ 05:06PM   PLT COUNT-211
+___ 05:06PM   CK(CPK)-81
+___ 05:06PM   CK-MB-NotDone cTropnT-<0.01
+___ 05:06PM   CALCIUM-9.7 PHOSPHATE-3.9 MAGNESIUM-1.7
+___ 05:06PM   GLUCOSE-226* UREA N-7 CREAT-0.8 SODIUM-137 
+POTASSIUM-4.2 CHLORIDE-99 TOTAL CO2-25 ANION GAP-17
+___ 07:55PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-15 BILIRUBIN-NEG UROBILNGN-4* PH-8.0 LEUK-TR
+___ 07:55PM URINE  ___ BACTERIA-OCC YEAST-NONE 
+EPI-0
+___ 05:06PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+
+EKG: ___ atrial fibrillation with RVR at a rate of 166.  
+___ a.m. wandering atrial pacemaker, rate of 80.  
+.  
+ECHO: ___: The left atrium is normal in size. Left ventricular 
+wall thickness, cavity size and regional/global systolic 
+function are normal (LVEF >55%) Transmitral Doppler and tissue 
+velocity imaging are consistent with normal LV diastolic 
+function. Right ventricular chamber size and free wall motion 
+are normal. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion and no aortic regurgitation. 
+The mitral valve appears structurally normal with trivial mitral 
+regurgitation. There is borderline pulmonary artery systolic 
+hypertension. There is no pericardial effusion.  
+.  
+CXR ___: my read. Large lung volumes, lungs clear.  
+
+ 
+Brief Hospital Course:
+___ yo male with hx of PAF presents with atrial fibrillation with 
+RVR, admitted for rate control.    
+.  
+# CAD: The patient has a past history of multipe MI's.  While 
+admitted he had no chest pain and his EKG was without signs of 
+ischemia.  
+.
+# Rhythm: The patient presented with an irregular narrow complex 
+tachycardia. While admitted his HR varied between the 50's to 
+the 150's.  While he was in atrial fibrillation, his HR was 
+greatly elevated and once he broke out of atrial fibrillation, 
+he had multiple early atrial beats with different p-wave 
+morphologies, likely a wandering atrial pacemaker.  During the 
+morning he cycled several times between WAP and atrial 
+fibrillation, but once we increased his metoprolol dose to 75 
+tid, he mostly remained in WAP.
+.
+The patient has a history of atrial tachycardia, s/p ablation in 
+___ which has failed and he has had breakthrough tachycardia / 
+flutter which is paroxysmal.  He was on toprol 100mg daily at 
+home, so we increased his metoprolol dose while admitted to rate 
+control him.  He was being controlled with 75 mg metoprolol tid, 
+so we discharged him on 200 mg Toprol.  While admitted, his BP 
+remained stable, even #when his HR increased to the 150's. As 
+his Mg was 1.7, we repleted him with 4g PO.  We also sent a TSH 
+which came back normal at 1.4.  He also had an echo from ___ 
+which was essentially normal, including normal LA size.  We 
+discharged him with the increased dose of metoprolol, a Holter 
+monitor to monitor him for the first 24 hours post discharge on 
+the new dose, and we made him a follow up appointment with Dr. 
+___.
+.  
+# DM: While admitted we kept him on SSI with qid finger sticks 
+since he couldn't remember which type of insulin he takes at 
+home. 
+.
+# Hypertension: The patient's blood pressures where under good 
+control while admitted.
+.
+# Hypercholesterolemia: We continued the patient's atorvastatin.
+.  
+# ETOH abuse: Patient has no history of withdrawal and was at 
+low risk given negative serum ETOH screen. As the patient has a 
+history of moderate alcohol intake we put him on thiamine, 
+folate, and a multivitamin.  He had no signs of withdrawal 
+during his stay. 
+
+ 
+Medications on Admission:
+Clopidogrel 75 mg daily  
+Aspirin 325 mg daily  
+Atorvastatin 40 mg daily  
+folate 1mg daily  
+Hexavitamin daily  
+Novalog sliding scale and ?70:30 (unsure if 70:30 but takes a 
+"mixed" insulin, 12u daily at around noon).  
+Toprol 100mg daily  
+Wellbutrin 75mg daily  
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Bupropion 75 mg Tablet Sig: One (1) Tablet PO QAM (once a day 
+(in the morning)).  
+3. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+4. Multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).  
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+7. Toprol XL 200 mg Tablet Sustained Release 24 hr Sig: One (1) 
+Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+8. Insulin Glargine  Subcutaneous
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary -
+Atrial fibrillation with rapid ventricular response
+
+Secondary - 
+Coronary artery disease
+Hypertension
+Diabetes
+Hypercholesterolemia
+
+ 
+Discharge Condition:
+Stable in sinus rhythm.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital due to atrial fibrillation 
+with rapid ventricular response (rapid heart rate).
+
+We increased your metoprol from 100 mg daily to 200 mg daily.  
+Otherwise continue to take your outpatient medications as 
+prescribed.
+You will need to wear a Holter monitor for 24 hours.
+
+Please go to the emergency room if you experience acute 
+shortness of breath, chest pain, or dizziness.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10818124-DS-29 | hadm_id=26418654
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline / Norvasc
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hypoglycemia and hyponatremia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with CAD, afib, dm2, wheelchair from polyneuropathy presents 
+with hypoglycemia. He states that "my caretaker detected that 
+something was wrong". He was noted to have a ___ in the ___ and 
+EMS was called. He was given oral glucose with an improvement in 
+the sugars and in the ED at ___, sugars remained above 100. He 
+denies f/c, nausea or vomiting. He denies dizziness or 
+lightheadedness. CXR was negative. Labs were remarkable for 
+hyponatremia with sodium 122. He was admitted to hospitalist 
+service
+.
+ROS otherwise negative
+ 
+Past Medical History:
+# CAD s/p PCI x 2 with a history of MI and angioplasty ___ years 
+ago. His most recent cardiac catheterization was in ___ at ___ which revealed non-flow 
+limiting three-vessel disease and no intervention was performed 
+at that time  
+# Atrial flutter/atrial tachycardia status post ablation in 
+___ with breakthrough atrial tachycardia and atrial 
+flutter  
+# DM type II c/b neuropathy  
+# PVD followed by Dr. ___  
+# Colon Ca -- s/p partial colectomy ___, no radiation or 
+chemotherapy  
+# Neuropathy -- progressing to R arm now; legs unchanged, uses 
+wheelchair  
+# Spinal stenosis -- MRI performed ___, no emergent issues, 
+but  
+some retrolisthesis of L4-5  
+# Concern for alcohol abuse  
+.
+
+ 
+Social History:
+___
+Family History:
+No history of premature cardiac disease. Both parents died at ___ 
+of "old age."
+ 
+Physical Exam:
+VS: Temp: 98.3  BP: 119/78  HR: 90  RR: 18  O2sat: 95 RA  
+.  
+Gen: In NAD.  
+HEENT: PERRL, EOMI. No scleral icterus. No conjunctival 
+injection. Mucous membranes moist. No oral ulcers.  
+Neck: Supple, no LAD, no JVP elevation.  
+Lungs: CTA bilaterally, no wheezes, rales, rhonchi. Normal 
+respiratory effort.  
+CV: RRR, no murmurs, rubs, gallops.  
+Abdomen: soft, NT, ND, NABS  
+Extremities: warm and well perfused, no cyanosis, clubbing, 
+edema.  
+Neurological: alert and oriented X 3, CN II-XII intact. Muscle 
+strength is full throughout. Sensation to light touch is intact 
+throughout. Reflexes are equal and normal. There is no pronator 
+drift.  
+No dysmetria on finger to nose.  
+Skin: No rashes or ulcers.  
+Psychiatric: Appropriate.  
+ 
+Pertinent Results:
+___ 10:35PM URINE  HOURS-RANDOM
+___ 10:35PM URINE  GR HOLD-HOLD
+___ 10:35PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 10:35PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-1000 KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+___ 06:17PM   GLUCOSE-116* UREA N-12 CREAT-0.7 SODIUM-122* 
+POTASSIUM-4.6 CHLORIDE-87* TOTAL CO2-28 ANION GAP-12
+___ 06:17PM   estGFR-Using this
+___ 06:17PM   WBC-5.9 RBC-4.10* HGB-12.1* HCT-34.3* MCV-84 
+MCH-29.4 MCHC-35.2* RDW-17.2*
+___ 06:17PM   NEUTS-59.5 ___ MONOS-6.3 EOS-3.9 
+BASOS-0.7
+___ 06:17PM   PLT COUNT-308
+.
+CHEST (PORTABLE AP)
+IMPRESSION: No acute cardiopulmonary process. Specifically, no 
+evidence of 
+effusions or consolidation. 
+.
+EKG:
+Sinus rhythm with atrial premature complexes 
+Leftward axis 
+Low limb lead QRS voltages 
+Findings are nonspecific 
+Since previous tracing of ___, atrial fibrillation absent 
+Rate PR QRS QT/QTc P QRS T 62 ___ 100 -41 ___/P:  
+___ with CAD, afib, dm2, wheelchair from polyneuropathy presents 
+with hypoglycemia
+.  
+1. Hypoglycemia:
+Hypoglycemia is likely ___ insulin and poor PO intake. This 
+resolved after arrival in the ED. No fever or leukocytosis to 
+suggest infection. UA and CXR neg.
+- during last hospital stay was on lantus 14 qAM. Initially 
+lantus dose was decreased to 8 units, with subsequent blood 
+sugars as high as 402 (on sliding scale coverage). lantus dose 
+increased to 12 units starting ___ in AM. Will follow up with 
+his ___ physicians after discharge.
+. 
+# Hyponatremia
+Previous record of hyponatremia, likely lasix is contributing. 
+Hypovolemia may be contributing as well. Na at admission was 
+122, where it is usually in 130s. lasix held. IVF administered. 
+On ___ sodium was up to 125. Patient was given more IVF. lasix 
+dose changed to 20 mg q other day.  Patient should have it 
+recheck by PCP at his next appointment.
+.
+# CAD:
+no symptoms of ischemia. asa, plavix, statin, BB continued. 
+.
+# Afib:
+Now in SR. on asa rather than coumadin because not a good 
+anticoagulation with falls. Also on metoprolol, digoxin.
+.
+# Peripheral neuropathy: cymblata and gabapentin were continued.
+
+ 
+Medications on Admission:
+albuterol 2 puffs oral q4-6 hrs prn
+lipitor 40'
+asa 325'
+plavix 75'
+metoprolol 50"
+lasix 20'
+digoxin 125'
+ferrous sulfate 325'
+cymbalta EC 30' 
+gabapentin 300 TID
+folate 1'
+ativan 0.5 HS:PRN
+Lantus
+Novolog
+ 
+Discharge Medications:
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+2. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+6. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+7. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+8. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours).  
+9. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+10. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q OTHER DAY 
+().  
+11. Albuterol 90 mcg/Actuation Aerosol Sig: ___ puffs Inhalation 
+every ___ hours as needed for shortness of breath or wheezing.  
+12. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO once a day.  
+13. Insulin Glargine 100 unit/mL Solution Sig: Twelve (12) units 
+Subcutaneous at breakfast.  
+14. Novolog 100 unit/mL Solution Sig: AS DIR  Subcutaneous AS 
+DIR: AS PER HOME SLIDING SCALE.  
+15. Ativan 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime as 
+needed for insomnia.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Hypoglycemia
+Hyponatremia - likely secondary to diuretics
+Diabetes mellitus, type II, uncontrolled, with neurologic 
+complications
+Severe diabetic peripheral neuropathy
+CAD
+A.Fib
+HTN
+Hyperlipidemia
+PVD
+Colon CA
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+You were admitted for low blood sugar and low sodium. Your 
+insulin and furosemide were adjusted accordingly. Continue to 
+check your blood sugar before each meal and at bedtime and take 
+sliding scale insulin as prescribed by ___ clinic MD. ___ 
+___ or your primary care physician if you have symptoms of 
+low blood sugar, blood sugar is less than 70 or more than 400.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10818124-DS-33 | hadm_id=27680906
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline / Norvasc
+ 
+Attending: ___
+ 
+Chief Complaint:
+lethargy x ___ days
+ 
+Major Surgical or Invasive Procedure:
+- Intubation ___
+- Extubation ___
+- PICC placement ___
+- PICC removal ___
+
+ 
+History of Present Illness:
+___ y/oM with PMH CAD, afib, DM, spinal cord atrophy who 
+presented to the ED with lethargy x ___ days and was found to be 
+hypoxic with presumed multifocal PNA and afib in RVR.
+
+For the past ___ days, patient has been complaining of fatigue 
+with decreased PO intake.  Also developed wet cough productive 
+of clear sputum.  On the day prior to admission, his caregiver 
+found him unable to get off the commode and tilting to the left. 
+ Today, he was too tired to get out of bed so his partner ___ 
+him to the ED.
+  
+In the ED, initial VS: 13 98.8 104 139/98 32 86% 4L NC.  He 
+triggered for hypoxia and was placed on 100%NRB with sats rising 
+to 100%.  CXR revealed multiple patchy opacities in left lung, 
+blood and urine cultures were drawn and patient was given dose 
+of vancomycin/ levofloxacin.  Neurology was consulted given 
+trunchal ataxia on exam and did not feel that presentation was 
+consistant with an acute intracranial event, recommending 
+treating underlying illness.  ED course c/b development of afib 
+with RVR with HR in the 160-180s.  Despite 50mg total of 
+diltiazem IV, HR did not improve significantly.  Given 
+hemodynamic instability, patient admitted to the ICU for further 
+monitoring.
+
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats. Denies headache, sinus 
+tenderness. Denies chest pain, chest pressure, palpitations. 
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, 
+or changes in bowel habits. Denies dysuria, frequency, or 
+urgency. Denies arthralgias or myalgias. Denies rashes or skin 
+changes.  
+ 
+Past Medical History:
+# CAD s/p PCI x 2 with a history of MI and angioplasty ___ years 
+ago. His most recent cardiac catheterization was in ___ at ___ which revealed non-flow 
+limiting three-vessel disease and no intervention was performed 
+at that time  
+# Atrial flutter/atrial tachycardia status post ablation in 
+___ with breakthrough atrial tachycardia and atrial 
+flutter  
+# Type 2 diabetes on insulin-followed by Dr. ___- ___ 
+visit
+A1C 7.5
+# PVD followed by Dr. ___  
+# Colon Ca -- s/p partial colectomy ___, no radiation or 
+chemotherapy  
+# Neuropathy -- progressing to R arm now; legs unchanged, uses 
+wheelchair  
+# Spinal stenosis -- MRI performed ___, no emergent issues, 
+but some retrolisthesis of L4-5, status post laminectomy at 
+L4-L5.  
+# Alcohol abuse  
+# History of mechanical falls.
+ 
+Social History:
+___
+Family History:
+No history of premature cardiac disease.
+ 
+Physical Exam:
+Physical Exam 
+Vitals: T: 96.5  BP: 78/61  P: 135  R: 23  O2: 95% on 100% NRB  
+General: cachextic elderly male; drowsy, oriented  
+HEENT: Sclera anicteric, dry oral mucosa, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: tachycardia, irregular 
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: foley in place  
+Ext: 2+ pulses, no clubbing, cyanosis or edema
+Neuro: difficult to assess given mental status, moving all 
+extremities. Decreased sensation in ___ b/l  
+
+Physical Exam on Discharge:
+VS: HR 80, RR 20, 92% on 2L
+General: well-appearing, NAD, comfortable
+HEENT: sclera anicteric, pale conjunctivae, mucous membrane dry
+Neck: supple
+Lung: CTAB in anteriorly but crackles posteriorly up to mid-lung 
+field
+CV: irregularly irreguar, non-tachycardic, no m/r/g
+Abd: soft, NT, ND, no guarding, BS present
+Extremities: no cyanosis or edema, 2+ dorsalis pedis pulses 
+bilaterally
+GU: mild edematous only on posterior aspect of distal shaft and 
+non-erythematous foreskin, glans appear well-perfused and 
+non-cyanotic, minimal pain with palpation, no catheter, no rash
+Neuro: awake, alert and oriented to place (___), time (___), person (president ___)
+Skin: small 1x1cm ulcer on the left buttock, clean without 
+drainage or erythema around
+ 
+Pertinent Results:
+Admission Labs
+___ 04:00PM BLOOD WBC-5.3# RBC-4.61# Hgb-14.9# Hct-43.3# 
+MCV-94 MCH-32.2* MCHC-34.3 RDW-13.1 Plt ___
+___ 04:00PM BLOOD Neuts-62 Bands-5 ___ Monos-5 Eos-0 
+Baso-0 Atyps-4* Metas-2* Myelos-0
+___ 04:00PM BLOOD ___ PTT-24.0 ___
+___ 04:00PM BLOOD Glucose-272* UreaN-21* Creat-0.8 Na-130* 
+K-4.4 Cl-95* HCO3-22 AnGap-17
+___ 04:00PM BLOOD ALT-6 AST-11 CK(CPK)-22* AlkPhos-88 
+TotBili-0.8
+.
+Pertinent Labs
+___ 04:00PM BLOOD CK-MB-2
+___ 04:00PM BLOOD cTropnT-<0.01
+___ 03:43AM BLOOD cTropnT-<0.01
+___ 12:02AM BLOOD TSH-1.1
+___ 04:00PM BLOOD Cortsol-55.9*
+___ 03:43AM BLOOD Cortsol-19.5
+___ 04:00PM BLOOD Digoxin-0.7*
+___ 06:17PM BLOOD Lactate-1.7
+.
+___ 04:30PM URINE ___ WBC-0 Bacteri-OCC Yeast-NONE 
+___ 04:30PM URINE Blood-SM Nitrite-NEG Protein-75 
+Glucose-250 Ketone-15 Bilirub-SM Urobiln-1 pH-5.0 Leuks-NEG
+___ 04:54PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG mthdone-NEG
+
+Microbiology
+___ Urine culture: negative
+___ Blood culture x2: negative
+___ MRSA screen: negative
+___ Urine legionella antigen: negative
+___ Influenza A and B antigens: negative
+___ Sputum culture: contaminated.  Legionella culture 
+negative
+___ Sputum culture: >25 PMNs and <10 epithelial cells/100X 
+field.  No microorganisms seen. Commensal flora absent.  2 
+morphologies of yeast. 
+
+Imagings
+CXR (___): Markedly limited study. There is suggestion of a 
+dense 
+consolidation of the left lower and mid lung zones. This may 
+represent 
+pneumonia. If clinically feasible, consider PA and lateral views 
+in the 
+radiology suite for better characterization. 
+
+CT Head (___): 
+1. Prominent ventricles, ___ represent normal 
+pressure 
+hydrocephalus in the appropriate clinical setting. Clinical 
+correlation 
+recommended. 
+2. No other acute intracranial process identified. 
+
+TTE (___): Mild symmetric LVH with normal regional and 
+global biventricular systolic function. Moderate tricuspid 
+regurgitation. Mild pulmonary artery systolic hypertension.
+
+CXR (___): Worsening right upper lobe and left mid and 
+lower lung opacities, consistent with worsening pneumonia. 
+
+CXR (___): As compared to the previous radiograph, there is 
+minimal
+improvement of the pre-existing mainly perihilar and left 
+lateral parenchymal opacities. The extent of the retrocardiac 
+atelectasis, potentially combined with a small pleural effusion, 
+is unchanged.  On the right, the parenchymal opacities have 
+apparently decreased in extent.  No evidence of newly appeared 
+parenchymal opacities. Unchanged size of the cardiac silhouette. 
+Unchanged position of the endotracheal tube and the nasogastric 
+tube.
+ 
+Brief Hospital Course:
+___ year old male with coronary artery disease s/p PCI, atrial 
+tachycardia s/p failed ablation, diabetes mellitus type II 
+complicated by neuropathy leading to spinal cord atrophy who 
+presented to the ED with lethargy x ___ days and was found to be 
+hypoxic with presumed multifocal PNA and atrial 
+fibrillation/tachycardia with RVR.
+
+# Hypotension, resolved: BP on arrival to ICU was 70/50 in the 
+setting of likely multifocal pneumonia seen on CXR and volume 
+depletion in the setting of poor oral intake.  Bedside echo 
+showing hyperdynamic ventricles and respiratory variation in IVC 
+filling pressures on admission consitent with hypovolemia.  He 
+was aggressively fluid resuscitated by early goal directed 
+protocol with MAP > 65. He was started on Levaquin for community 
+acquired pneumonia and cefepime for Gram negative coverage in 
+setting of chronic aspiration.  He was ruled out for ACS with 
+three sets of enzymes.  Random and am cortisol showed 
+appropriate adrenal function.  His hypotension resolved with 
+fluid resuscitation and never needed pressors.  He was 
+normotensive off medications.  
+
+# Hypoxia, resolved: Persistent hypoxia to mid-80s on RA in the 
+ED, likely ___ underlying multifocal PNA which is visualized on 
+CXR.  Hx of recurrent PNA suggestive of repeat aspiration 
+events.  Alternatively, patient with risk factors, peripheral 
+neuropathy and multiple bacterial infections is also at risk of 
+HIV which was sent.  He was started on levaquin for CAP and 
+cefepime for gram negative coverage in setting of chronic 
+aspiration.  Pt improved and was called out to the floor on ___. 
+ On the floor he maintained his blood pressure and heart rate 
+but required continued oxygen with saturations in the low to mid 
+90's on 3L NC. On ___, he triggered for mental status changes 
+with orientation to self.  He had significant rhonchi on exam at 
+that time and respiratory was called; deep suction removed large 
+amounts of mucous which were sent for culture. Later that 
+evening, the patient was noted to have worsnening oxygen 
+requirement with 93% oxygen on 5 liters and 97% on a 
+nonrebreather.  Deep suction was attempted but the patient had 
+desaturation in this context.  Received zydis 2.5 mg for 
+agitation and paranoia. ABG ___. Transferred back to MICU 
+for respiratory evaluation. On ___, he continued to require deep 
+suctioning for large amount of secretions.  He continued to get 
+chest physical therapy with deep suctioning for large amount of 
+secretions on ___ as well.  On ___, he was noted to have 
+increased requirement in his ___ mask from 50% to 100% with 
+whiteout of left lung bases concerning for mucous plug.  He was 
+intubated for respiratory distress on ___.  He was 
+extubated on ___ when goals of care were changed to comfort 
+measures only (see below). Since then, he has been on minimal 
+oxygen and morphine intermittently for comfort and maintaining 
+O2 saturation in mid 90% on RA.
+
+# Leukocytosis: His WBC increased on ___ and continued to rise 
+on ___.  He was started on vancomycin/flagyl while levaquin 
+and cefepime were continued as he was clinically getting worse.  
+IV Vancomycin/flagyl/levaquin and cefepime were discontinued on 
+___ when he was made CMO
+
+# Delirium.  Resolving.  He was noted to be agitated and 
+paranoid while being transferred back to the MICU.  Likely 
+secondary to hypoxia, improved with deep suctioning and 
+respirator stabilization.  His agitation has been managed by 
+olanzepine rapid disintegrating tab.  He has not had episodes of 
+agitation since being on olanzepine.  Upon discharge, he is 
+oriented to person, place, and time.
+
+# Atrial fibrillation with RVR: on initial arrival to ICU, HR in 
+150-160s and irregular.  Underlying process of pneumonia is 
+likely the driving force for it.  Patient was on anticoagulation 
+alone with aspirin and plavix given history of multiple falls.  
+He was started on amiodarone and over the next few days was 
+weaned off metoprolol and digoxin. TTE was performed which 
+showed LVH and no clots. Amiodarone IV changed to PO on ___, 
+and then changed to home metoprolol. He remained stable in AFib 
+without RVR.  He was noted to have RVR on ___ and was 
+restarted on amiodarone while metoprolol was discontinued.  On 
+___, he continued to be in RVR with rates in 120s so 
+metoprolol was added for rate control with amiodarone.  However, 
+because he was made CMO, his AFib medications were discontinued. 
+ His HR has been mostly < 100 per minute off of medications.  
+
+# Truncal ataxia: per ED evaluation, patient persistently 
+leaning towards left.  CT head was negative.  Per neurology, 
+there was no acute process.
+
+# H/o CAD: He denied angina.  EKG was without acute ST changes. 
+Cardiac enzymes were negative x 3.  Initially, he was continued 
+on aspirin, Plavix, and metoprolol as mentioned above.  However, 
+after he was made CMO, these medications were held. 
+
+# H/o ETOH abuse.  There was no h/o withdrawal seizures.  He did 
+not have evidence of active withdrawal while in the hospital.
+
+# Type II DM: No evidence of DKA by labs.  Patient was managed 
+by insulin sliding scale.  However, with CMO status, finger 
+stick and insulin administration were held.
+
+# Malnutrition: Albumin of 2.1.  Per speech and swallow, NPO 
+with crushed meds in apple sauce with concern for chronic 
+aspiration and will need to be reevaluted once off of face mask 
+for oxygen.  NG tube placed on ___ and tube feeds started 
+with nutritions help.  Tube feeds held on ___ in the setting of 
+desaturation and copious secretions, due to concern for 
+aspiration.  Restarted ___ as it seemed that secretions were 
+mucous and not gastric contents.  However, with CMO status, 
+patient resumed regular diet per his preference and nutritional 
+supplement was added.
+
+# Left buttock ulcer.  1 cm x 1 cm.  Area does not appear to be 
+infected.  This should continue to be monitored with regular 
+repositioning every 2 hours and daily wound care.
+
+# Comfort measures only: On ___ after extensive discussion 
+with his health care proxy, it was decided to make the patient 
+comfort measures only and was extubated on ___.  
+Antibiotics were discontinued.  He was transitioned to narcotics 
+as needed for shortness of breath and pain.  He was discharged 
+on oral morphine solution as his Foley catheter and PICC were 
+removed on ___ and ___ respectively.  He will be 
+followed by hospice.  It will be important to continue the 
+discussion of Do Not Hospitalize with patient and his health 
+care proxy.
+ 
+Medications on Admission:
+levothyroxine 25 mcg daily
+amlodipine 5 mg daily
+metoprolol succinate 50 mg daily
+bupropion 150 mg daily
+lisinopril 10 mg daily
+ipratropium-albuterol (duoneb) BID
+allopurinol ___ mg BID
+advair 250-50 q12h
+tylenol ___ mg BID
+simethicone 1 tablet BID
+gabapentin 300 mg TID
+ASA 81 mg daily
+fluticason 2 sprays each nostril daily
+artificial tears at bedtime
+docusate 200 mg qhs
+miralax 17 g qhs prn
+senna 2 tabs qhs
+ 
+Discharge Medications:
+1. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: One (1) neb Inhalation every ___ hours as 
+needed for shortness of breath or wheezing.
+Disp:*30 neb* Refills:*0*
+2. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain or fever.  
+3. bisacodyl 5 mg Tablet Sig: Two (2) Tablet, Delayed Release 
+(E.C.) PO DAILY (Daily) as needed for constipation.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+5. ipratropium bromide 0.02 % Solution Sig: One (1) neb 
+Inhalation every ___ hours as needed for shortness of breath or 
+wheezing.
+Disp:*30 neb* Refills:*0*
+6. olanzapine 5 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO once a day.
+Disp:*30 Tablet, Rapid Dissolve(s)* Refills:*0*
+7. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) 
+packet PO DAILY (Daily) as needed for constipation.
+Disp:*30 packet* Refills:*0*
+8. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+9. morphine 10 mg/5 mL Solution Sig: Five (5) mL PO Q1-2 hour as 
+needed for pain or shortness of breath.
+Disp:*1000 mL* Refills:*2*
+10. nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr 
+Transdermal DAILY (Daily) for 3 weeks: Continue for another two 
+weeks before tapering to 14 mg/24 hour patch.
+Disp:*21 Patch 24 hr(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnoses:
+- Multifocal pneumonia
+- Atrial fibrillation with rapid ventricular rate
+
+Secondary diagnoses:
+- Delirium 
+- spinal atrophy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure to take care of you at ___ 
+___.
+
+You were admitted to the hospital for pneumonia and fast 
+irregular heart rate.  You were treated with antibiotics for the 
+pneumonia as well as medications to help controlling your heart. 
+ 
+
+Because of your worsening breathing, you were on a ventilator (a 
+machine that help to breath for you) for a short period of time. 
+ After a discussion between your health care proxy and your 
+intensive care team, it was decided that you would prefer to 
+live with dignity and would prefer not to have invasive 
+procedures done such as a PEG tube (feeding tube) or a 
+tracheostomy (more permanent breathing tube).  You did very well 
+after they remove the ventilator and required minimal oxygen.
+
+The medical team discussed with you about hospice.  You and your 
+health care proxy both decided that you want to ultimately be 
+home with hospice.  Hospice nurse and social workers came and 
+explored with you regarding your options and necessary support 
+that you may need.  While resources at home get set up, it is 
+thought that you can go to inpatient hospice for a period of 
+time.  
+
+Please note the following changes in your medications:
+- Please START Tylenol ___ mg tab, ___ tabs, every 6 hours as 
+needed for pain or fever
+- Please START albuterol nebulizer, 1 neb, every ___ hours as 
+needed for shortness of breath or wheeze
+- Please START bisacodyl 10 mg, 1 tab, by mouth, once a day as 
+needed for constipation
+- Please START docusate 100 mg, 1 tab, by mouth, twice a day to 
+soften your stool
+- Please START ipratropium neb, 1 neb, every ___ hours as needed 
+for shortness of breath or wheeze
+- Please START Miralax, 1 packet, by mouth, once a day as needed 
+for constipation
+- Please START morphine 10mg/5mL, 5mL, by mouth, every ___ hours 
+as needed for pain or shortness of breath.
+- Please START olanzapine zydus 5 mg, 1 tab, by mouth, once a 
+day in the evening.
+- Please START senna, 1 tab, by mouth, once a day as needed for 
+constipation
+- Please DISCONTINUE mirtazipine 30 mg at night prior to bed 
+time
+- Please DISCONTINUE Flomax 0.4 mg once a day
+- Please DISCONTINUE Plavix 75 mg once a day
+- Please DISCONTINUE calcium carbonate with vitamin D 600 mg-400 
+units
+- Please DISCONTINUE Humulin 70/30 insulin
+- Please DISCONTINUE Aspirin 325 mg once a day
+- Please DISCONTINUE digoxin 125 mcg once a day
+- Please DISCONTINUE Megace 20 mL once a day
+- Please DISCONTINUE metoprolol 75 mg three times a day
+- Please DISCONTINUE macrodantin 100 mg twice a day
+- Please DISCONTINUE flunase 50 mcg 2 sprays twice a day
+- Please DISCONTINUE gabapentin 300 mg 4 times a day
+- Please DISCONTINUE multivitamin once a day
+- Please DISCONTINUE folic acid once a day
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10818124-DS-31 | hadm_id=28012587
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline / Norvasc
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypotension, tachycardia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with CAD, s/p stenting, 
+paroxysmal atrial flutter, DM2, and PVD, recently admitted for 
+failure to thrive, who was found  to be tachycardiac and 
+hypotensive, reportedly 90/p.  He was given his usual dose of 
+metoprolol prior to presenting to the ED.  
+   
+In the emergency department triage vitals were T 97.8, BP 
+128/61, HR 144, RR 16, O2 sat 98% on room air.  Evaluation was 
+remarkable for a negative CXR, positive UA, ___ EKG with likely 
+atrial flutter, repeat EKG NSR with PACs, unchanged from prior, 
+Troponin 0.02.  The patient received 1L NS, insulin regular 8 
+units sc, and cipro 400mg IV for a UTI.  
+  
+On arrival to the floor the patient states that he does not know 
+why he has a foley catheter in place and is somewhat distressed 
+to be back in the hospital.  He states that the foley bag became 
+disconnected several times at home.  He has tried to increase 
+his PO intake and states that his caretaker has been 
+consistently on his case about this and has also been adding a 
+small amount of salt to his no salt ___, making it more 
+palatable.  He is concerned that his caretaker may be feeling 
+overwhelmed with the task of caring for him.  He has had ___ 
+visit his home, but has only done a set of chair-based exercises 
+once since then. 
+  
+Regarding specific symptoms, he endorses constipation and states 
+that he has not had a BM since leaving the hospital.  Otherwise, 
+he denies any other symptoms, including no fevers, chills, 
+nausea, vomiting, cough, chest pain, shortness of breath, 
+abdominal pain, flank pain, or diarrhea.  The remainder of the 
+ROS is otherwise negative.
+  
+ 
+Past Medical History:
+# CAD s/p PCI x 2 with a history of MI and angioplasty ___ years 
+ago. His most recent cardiac catheterization was in ___ at ___ which revealed non-flow 
+limiting three-vessel disease and no intervention was performed 
+at that time  
+# Atrial flutter/atrial tachycardia status post ablation in 
+___ with breakthrough atrial tachycardia and atrial 
+flutter  
+# DM type II c/b neuropathy  
+# PVD followed by Dr. ___  
+# Colon Ca -- s/p partial colectomy ___, no radiation or 
+chemotherapy  
+# Neuropathy -- progressing to R arm now; legs unchanged, uses 
+wheelchair  
+# Spinal stenosis -- MRI performed ___, no emergent issues, 
+but  
+some retrolisthesis of L4-5, status post laminectomy at L4-L5.  
+# Alcohol abuse  
+ 
+Social History:
+___
+Family History:
+No history of premature cardiac disease. 
+ 
+Physical Exam:
+VITAL SIGNS: T 99.2 BP 130/80 HR 61 RR 18 O2 sat 100% 2L NC, ___ 
+309  
+GENERAL: cahchectic, appears older than stated age, pleasant, 
+alert, in NAD  
+HEENT: Normocephalic, atraumatic. No conjunctival pallor. No 
+scleral icterus. PERRLA/EOMI. MMM. OP clear. Neck Supple, No 
+LAD, No thyromegaly.  
+CARDIAC: Regular rate, irregular rhythm (likely PACs). Normal 
+S1, S2. No murmurs, rubs or ___. JVP flat  
+LUNGS: CTAB, no wheezes, rales, or rhonchi
+ABDOMEN: NABS. Soft, NT, ND. No HSM  
+EXTREMITIES: No edema, muscle atrophy present, 2+ dorsalis 
+pedis pulses bilaterally.  Special shoe on left foot.
+SKIN: No rashes  
+NEURO: A&Ox3. Does not recall some information discussed on 
+prior admission.  CN ___ grossly intact. Decreased sensation in 
+lower extremities.  4+/5 strength throughout.  Reflexes 1+ 
+throughout.
+ 
+Pertinent Results:
+Admission Labs:
+___ 12:00PM BLOOD WBC-11.6* RBC-4.21* Hgb-12.3* Hct-36.6* 
+MCV-87 MCH-29.2 MCHC-33.5 RDW-16.8* Plt ___
+___ 12:00PM BLOOD Neuts-74.0* ___ Monos-2.7 Eos-1.9 
+Baso-0.3
+___ 12:00PM BLOOD Glucose-361* UreaN-16 Creat-0.6 Na-134 
+K-4.0 Cl-99 HCO3-25 AnGap-14
+___ 12:00PM BLOOD CK(CPK)-27*
+___ 12:00PM BLOOD CK-MB-NotDone cTropnT-0.02*
+___ 12:00PM BLOOD Calcium-8.4 Phos-3.6 Mg-1.8
+___ 12:00PM BLOOD Digoxin-0.6*
+___ 04:12PM BLOOD Lactate-1.3
+___ 02:10PM URINE Color-Amber Appear-Cloudy Sp ___
+___ 02:10PM URINE Blood-LG Nitrite-POS Protein-30 
+Glucose-1000 Ketone-15 Bilirub-NEG Urobiln-1 pH-5.0 Leuks-SM
+___ 02:10PM URINE RBC->50 WBC->50 Bacteri-MANY Yeast-NONE 
+___ 02:10PM URINE CaOxalX-OCC
+   
+Studies:
+___ ECG - Probable atrial flutter. Left axis deviation may 
+be due to left anterior fascicular block. Non-specific ST-T wave 
+abnormalities. Since the previous tracing of ___ probable 
+atrial flutter is now present. 
+   
+___ ECG - Sinus rhythm with atrial premature beats. Low limb 
+lead QRS voltage. Borderline left axis deviation. Modest ST-T 
+wave changes. Findings are non-specific. Since the previous 
+tracing of ___ probable atrial flutter is now absent.  
+  
+___ CXR - SINGLE FRONTAL VIEW OF THE CHEST: The lungs are 
+clear without focal consolidation, pleural effusion, or 
+pneumothorax. There is no pulmonary edema. The heart size is 
+normal. Minimal calcification is noted in the aortic arch. 
+  
+IMPRESSION: No acute cardiopulmonary process. 
+  
+___ CXR PA & LAT - FINDINGS: In comparison with the study of 
+___, there is no interval change.  Hyperexpansion of the lungs 
+is consistent with chronic pulmonary disease, though there is no 
+evidence of acute focal pneumonia. No vascular congestion or 
+pleural effusion. 
+  
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with a history of CAD, s/p 
+stenting, paroxysmal atrial flutter, DM2, and PVD, recently 
+admitted for failure to thrive, who was brought to the ED for 
+hypotension and tachycardia, and found to have a UTI.
+   
+#. Urinary Tract Infection: The patient's UA was suggestive of a 
+UTI, likely related to an indwelling foley placed because of 
+urinary retension on the patient's prior admission.  Based on 
+history from the patient, it likely became infected at home.  
+Foley catheter was removed when the patient arrived on the 
+floor.  He was empirically treated with ciprofloxacin with a 
+plan for a 7 day course of therapy.  
+  
+#. Atrial flutter with RVR: The patient's tachycardia and 
+hypotension at home was most likely the result of atrial flutter 
+with RVR.  He was reported given his usual metoprolol dose 
+without resolution of the tachycardia, but he was normotensive 
+on arrival to the ED.  The patient was monitored on telemetry 
+and triggered on the floor the morning following admission for 
+another episode of RVR that resolved within an hour of his 
+receiving metoprolol.  The patient is usually assymptomatic with 
+these episodes, but did report feeling palpitations with his 
+morning episode in the hospital.  The patient's cardiologist, 
+Dr. ___ was contacted and the patient's regimen was 
+discussed.  He advised not changing the patient's digoxin and 
+metoprolol regimen at this time.  If the patient develops atrial 
+flutter at home, he should take his metoprolol early and if his 
+heart rate does not decrease within an hour of taking the 
+medication, or if he becomes markedly symptomatic, he should 
+come to the ED.
+   
+#. Urinary retention: The patient was started on tamsulosin for 
+urinary retention.  The foley catheter was removed and he 
+successfully voided.  He was advised to keep his urology 
+___ appointment so that they could determine whether he 
+needs to continue taking this medication and to further evaluate 
+the patient for hematuria which was noted during his prior 
+hospitalization.  The patient was also given medications to 
+prevent constipation as he had been constipated prior to 
+entering the hospital and constipation can exacerbate urinary 
+retention.  
+      
+#. Dementia: The patient likely has some underlying dementia 
+given his inability to remember extensive discussions regarding 
+the foley catheter on his prior admission.  Work-up on last 
+admission showed atrophy of medulla and upper cervical spine, 
+thought to be secondary to chronic alcohol use.  He has 
+behavioral neurology ___ as an outpatient in ___.
+    
+#. Depression: The patient appeared notably depressed the 
+morning following admission.  It was unclear to what extent this 
+was triggered by poor sleep the night before versus being an 
+ongoing problem for this gentleman.  Of note, his duloxetine was 
+stopped on his previous admission as it may have contributed to 
+his hyponatremia.  His PCP may wish to consider starting the 
+patient on mirtazepine or another medication that is both an 
+anti-depressant and appetite stimulant.
+   
+#. Left foot fractures: The patient was found to have ___ 
+through ___ metatarsal fractures on his prior admission.  His 
+caregiver reported an incident at home in which the patient had 
+tried to walk.  The patient was reminded not to place weight on 
+his foot to allow it to heal.  He was continued on calcium and 
+vitamin D supplementation. 
+  
+#. Diabetes, type 2: The patient's blood sugar was elevated on 
+admission.  This may be due to increased PO intake.  Glargine 
+was left at prior home dose due to concern for hypoglycemia at 
+home.  He was given a diabetic diet.
+    
+#. Anemia: Labs during the patient's prior hospitalizations 
+suggested that this was related to iron deficiency.  B12 and 
+folate were normal.  The patient was continued on iron sulfate 
+BID and given a bowel regimen to help prevent constipation.
+  
+#. Coronary artery disease: Stable. The patient had non-flow 
+limiting 3VD on cath in ___.  He was ___ on this admission.  
+He was continued on aspirin, atorvastatin, plavix, and 
+metoprolol.
+    
+#. History of hyponatremia: Notably, the patient's sodium level 
+was normal on this admission.
+  
+#. Neuropathy: The patient was continued on gabapentin.  
+  
+FEN: Cardiac, diabetic diet, honey thickened liquids, sugar free 
+shakes TID with meals; folic acid, B-vitamin, multivitamin 
+supplements
+  
+DISPOSITION: Home.  This was discussed at length with the 
+patient and his caregiver.  The patient emphatically desired to 
+return to home.  As it was only a vital sign abnormality due to 
+ongoing atrial flutter with RVR that brought him into the 
+hospital, and not further failure to thrive, it was decided to 
+honor his wishes.  
+
+ 
+Medications on Admission:
+1. Atorvastatin 40 mg daily
+2. Aspirin 325 mg daily
+3. Clopidogrel 75 daily
+4. Digoxin 125 mcg daily
+5. Gabapentin 300 mg PO Q8H
+6. Folic Acid 1 mg daily
+7. Albuterol 90 mcg IH Q6H prn
+8. Ferrous Sulfate 325 mg PO BID
+9. B Complete 1 tab daily
+10. Calcium 500 With D 500 mg(1,250mg) -400 unit, 1 tab BID
+11. Insulin Glargine 6 units QAM
+12. Insulin Lispro 100 QIDACHS: as per sliding scale.  
+13. Multivitamin 1 tablet daily
+14. Metoprolol Tartrate 75 mg Q8H 
+ 
+Discharge Medications:
+1. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 6 days.
+Disp:*12 Tablet(s)* Refills:*0*
+2. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+6. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours).  
+7. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+8. Albuterol 90 mcg/Actuation Aerosol Sig: ___  Inhalation every 
+six (6) hours as needed for shortness of breath or wheezing.  
+9. B Complex Vitamins     Capsule Sig: One (1) Cap PO DAILY 
+(Daily).  
+10. Calcium Carbonate 500 mg Tablet, Chewable Sig: Two (2) 
+Tablet, Chewable PO BID (2 times a day).  
+11. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+12. Insulin Glargine 100 unit/mL Solution Sig: Six (6) units 
+Subcutaneous QAM.  
+13. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO BID (2 times a day).  
+14. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+Disp:*30 Capsule, Sust. Release 24 hr(s)* Refills:*2*
+15. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+16. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+17. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO Q 
+8H (Every 8 Hours).  
+18. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+1. Atrial flutter with rapid ventricular rate
+2. Urinary Tract Infection
+  
+Secondary Diagnoses:
+1. Failure to thrive
+2. Coronary artery disease
+3. Diabetes mellitus, type 2
+
+ 
+Discharge Condition:
+Vital signs stable, afebrile, heart rate in the ___.
+
+ 
+Discharge Instructions:
+You were brought to the hospital because of a fast heart rate.  
+Your heart rate improved with medication.  You were also found 
+to have a urinary tract infection that is now being treated with 
+the antibiotic ciprofloxacin.  It is important that you finish 
+taking all of this medication to treat the infection.  
+  
+You were also started on a new medication, tamsulosin (flomax), 
+to help you urinate.  Please ___ with the urologist as 
+previously scheduled to determine if you still need to take this 
+medication.
+  
+You have also been given prescriptions for medications to help 
+prevent constipation.
+  
+The following changes were made to your medications:
+1. Please take ciprofloxacin 500 mg every 12 hours for the next 
+6 days.
+2. Please take tamsulosin 0.4 mg at bedtime to help with 
+urination.
+3. Docusate (colace) 100 mg twice a day to soften stools.
+4. Senna 1 tablet up to twice a day as needed for constipation.
+ 
+Please call your physician if you have another episode of a fast 
+heart rate that does not improve an hour after taking your 
+metoprolol.
+  
+Please call your physician or return to the hospital if you have 
+chest pain, lightheadedness, shortness of breath, low back pain, 
+or other concerning symptoms.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10818124-DS-23 | hadm_id=28274416
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline / Norvasc
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall ___ secondary to neuropathic pain
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+This is a ___ year old man with multiple medical problems 
+including afib with RVR, diabetes complicated by neuropathy 
+requiring wheelchair for mobility, and long-standing alcohol 
+abuse, who comes in with afib with RVR recently s/p fall. He 
+fell in the bathroom while trying to transfer from his 
+wheelchair. He says that his right hand and his left leg, which 
+are affected by this neuropathy, gave way on him. He denies LOC 
+or head impact. Pt denies concurrent illness. 
+
+He reports that he has had 3 drinks in last 24 hrs which is 
+typical for him. He was brought in by ambulance, and had a 
+systolic BP in the ___ in the setting of afib w RVR; after 
+getting 400 cc NS in the field, he was not hypotensive once 
+arriving in the emergency department.  
+.  
+In the ED, initial vs were: 97.1, 84, 96/64, 16, 98%RA. However 
+his rate was in the 140s for much of the time he was initially 
+in the ED, and eventually received 15 mg of IV diltiazem and his 
+rate converted to sinus rhythm per report; BP was recorded as 
+142/98 at time of infusion of dilt. He got a 500 NS bolus and 
+ultimately 2L NS w a total of 1000cc of urine output in the ED. 
+Thiamine, MVI and folate were given.  
+.  
+Because of a concern of ?pneumonia on his CXR, he received 
+levofloxacin 750 mg IV in the ED as well. Of note he had a 
+lactate of 3.0.  
+.  
+On arrival to the floor, initial vs were: 99.8 122/68 80 18 98%. 
+The patient felt well and did not complain of palpitations,CP, 
+SOB, abd pain.   
+.  
+ROS: he denies any recent illness, fever, chills, shakes, 
+nausea, vomiting, diarrhea, SOB, chest pain, palpitations  
+.  
+
+ 
+Past Medical History:
+HTN  
+CAD s/p MI x 4 (per pt 3 in 1 week)  
+DM  
+Hypercholesterolemia  
+ICH  
+Diabetes - w/neuropathy; uses wheelchair mostly, attempts 
+transfer with walker but has fallen more recently  
+PVD -- sees Dr. ___  
+___ aflutter/a tach  
+Colon Ca -- s/p partial colectomy ___, no rad or chemo; on ___  
+yr follow-up schedule now -- due ___.  
+Neuropathy -- progressing to R arm now; legs unchanged, uses  
+Wt Loss -- ___ years  
+Spinal Stenosis -- MRI done ___, no emergent issues, but  
+some retrolisthesis of L4-5.  
+
+ 
+Social History:
+___
+Family History:
+no family hx of heart disease. Both parents died at ___ of "old 
+age."  
+ 
+Physical Exam:
+VS: 99.8 122/68 80 18 98%  
+GEN: Blanket drawn up around his neck, speaking slowly w slight 
+slurring, faint smell of EtOH  
+HEENT: PERRLA. EOMI. MM dry. No scleral icterus.  
+Cor: irreg irreg w no m/r/g  
+Pulm: CTAB no egophony  
+Abd: soft, nt, nd  
+Extrem: wwp, no edema  
+Skin: no angiomas or varicosities, no other lesions in limited 
+exam  
+Neuro: A&Ox3. Attentive and appropriate on interview. 
+ 
+Pertinent Results:
+___ 08:15PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 05:38PM   LACTATE-3.0* K+-3.6
+___ 05:20PM   GLUCOSE-140* UREA N-6 CREAT-0.6 SODIUM-133 
+POTASSIUM-3.7 CHLORIDE-98 TOTAL CO2-23 ANION GAP-16
+___ 05:20PM   CK(CPK)-34*
+___ 05:20PM   cTropnT-<0.01
+___ 05:20PM   CK-MB-NotDone
+___ 05:20PM   CALCIUM-8.7 PHOSPHATE-3.8 MAGNESIUM-1.7
+___ 05:20PM   ___
+___ 05:20PM   WBC-5.0 RBC-3.59* HGB-11.6* HCT-33.7* MCV-94 
+MCH-32.4* MCHC-34.5 RDW-15.2
+___ 05:20PM   NEUTS-56.7 ___ MONOS-4.9 EOS-0.9 
+BASOS-0.4
+.
+___ 03:40PM   UREA N-8 CREAT-0.6 SODIUM-133 POTASSIUM-4.2 
+CHLORIDE-95* TOTAL CO2-23 ANION GAP-19
+___ 03:40PM   TOT PROT-6.5 IRON-57
+___ 03:40PM   VIT B12-494 FOLATE-GREATER TH HAPTOGLOB-150 
+FERRITIN-25*
+___ 03:40PM   WBC-5.3 RBC-3.90* HGB-12.7* HCT-37.2* MCV-95 
+MCH-32.5* MCHC-34.0 RDW-14.9
+___ 03:40PM   NEUTS-59.1 ___ MONOS-6.5 EOS-1.1 
+BASOS-0.8
+___ 03:40PM   PLT COUNT-308
+___ 03:40PM   SED RATE-9
+.
+On discharge:
+WBC 5.9
+HCT 30.8
+Plt 228
+.
+Studies:
+CXR (___): Hazy opacity in the left lung base likely due to 
+atelectasis 
+given low lung volumes and elevation of left hemidiaphragm 
+however an early developing pneumonia cannot be entirely 
+excluded. 
+.
+CXR (___): Compared to the prior study there is improved 
+aeration in the left lower lobe but there continues to be a 
+small patchy area of increased hazy opacity that could represent 
+an area of atelectasis versus a very early infiltrate. This has 
+an improved appearance compared to the earlier study. A small 
+area of scarring versus atelectasis is seen in the left apex. 
+ 
+Brief Hospital Course:
+A/P: Pt is a ___ year old man with a history of multiple medical 
+problems including a variety of superventricular tachycardias 
+including afib/flutter as well as atrial tach, s/p ablation in 
+___ and diabetes; as well as alcohol abuse; who presents after 
+a fall with known mechanism with afib, RVR and hypotension in 
+the field, as well as a lactate of 3.0 and an ambiguous opacity 
+on CXR.  
+.  
+1) Tachycardia: On transfer to this hospital and in the ED, 
+patient was in A fib with RVR with rates in the 140s on arrival. 
+A total of 15 mg of IV diltiazem was given in the ED, with quick 
+return to sinus rhythm and HR 70'-80s. During his admisison, 
+telemetry showed predominantly a sinus rhythm with HR 60-80's, 
+with some intermittent irregularity.  He had one self-limited 
+episode of tachycardia to the 140s prior to getting his morning 
+BB dose.  The resolved spontaneously and he remained stable 
+throughout.  Etiology of original episode was felt to be likely 
+ETOH & dehydration.  There was no evidence of infection on CXR 
+and blood cx were NGTD.  
+.  
+2) Hypotension: On tranfer to this hospital and in the ED, 
+patient had a systolic BP in the 60's. This was felt to be in 
+the setting of RVR and poor forward flow.  He repsonded rapidly 
+to fluid resusictation and conversion to NSR. Lactate in the ED 
+was elevated to 3.0 which was concerning for infection, however 
+there were no focal signs of infection. WBC was 6.6, UA 
+negative, CXR x2 was negative.  CXR in the ED was read as 
+concern for pneumonia and he received 750mg IV Levo.  On the 
+floor his exam was not consistent with pneumonia and antibiotics 
+were discontinued. He remained afebrile throughout his stay.  
+.  
+3) CAD: We continued his home meds: lip___ 40 ___, metoprolol 50 
+PO bid, plavix 75 ___ 325 ___.  He was ruled out for MI by 
+serial CE which were all negative.
+.
+4) Alcohol abuse: BAL on arrival >200. Patient was maintained on 
+the CIWA scale, but no benzodiazapine were required as CIWA were 
+always <10 and there was no other evidence of withdrawal. 
+Alcohol cessation was discussed.  He was maintained on thiamine, 
+folate while in the hospital.
+. 
+5) Endocrine: Patient has a long history of diabetes. Had some 
+borderline low FSBG (54) when he first arrived on the floor.  
+This responded to PO intake and they remained stable thereafter. 
+ He was continued on his home regimen of novolog mix 70/30 and 
+sliding scale.
+.    
+6)Psych: Home SSRI (duloxetine 30 mg ___ was continued without 
+issues.
+.
+7)Disposition: Patient was seen by physical therapy who 
+concluded that a likely cause of his repeated falls is the 
+inability of his wheelchair to transverse his bathroom door 
+requiring him to take several steps to the toilet. A new 
+wheelchair with removable arms was given to the patient while in 
+house. This should allow him to enter his bathroom, and transfer 
+from the chair directly to the toilet. 
+
+.  
+
+ 
+Medications on Admission:
+ATORVASTATIN [LIPITOR] - 40 mg Tablet - 1 Tablet(s) by mouth 
+once a day  
+CLOPIDOGREL [PLAVIX] - 75 mg Tablet - 1 Tablet(s) by mouth once 
+a day  
+DULOXETINE [CYMBALTA] - - 30 mg Capsule, Delayed Release(E.C.) - 
+1 Capsule(s) by mouth once a day  
+FOLIC ACID - 1 mg Tablet - 1 Tablet(s) by mouth once a day  
+INSULIN ASP PRT-INSULIN ASPART [NOVOLOG MIX 70-30] - 100 unit/mL 
+(70-30) Solution - 14 units in a.m., 4 units in evening  
+METOPROLOL SUCCINATE [TOPROL XL] - 100 mg Tablet Sustained 
+Release 24 hr - 1 Tablet(s) by mouth twice a day  
+
+ 
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+5. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Medical equipment
+Wheelchair with removable armrests
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Fall (mechanical)
+Atrial fibrillation with rapid ventricular response
+Hypotension
+
+ 
+Discharge Condition:
+Stable. 
+
+ 
+Discharge Instructions:
+You were admitted to this hopsital because of a fall that was 
+likley due to weakness from longstanding peripheral neuropathy. 
+While here, you were noted to have atrial fibrillation with a 
+rapid heart rate, which was treated with IV and oral medications 
+known as beta blokers. You also had a low blood pressure which 
+was corrected by giving you fluids.
+
+If you experience fevers, chills, shakes, nausea, vomiting, 
+diarrhea, chest pain, shortness of breath, or abdominal pain 
+please call your doctor or return to the emergency room.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10818124-DS-30 | hadm_id=28589793
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline / Norvasc
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Decreased PO intake, failure to thrive
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with a history of CAD s/p 
+PCI, atrial flutter, DM, PVD and EtOH use who presented with 
+lethargy. He was brought in by his caretaker for decreased PO 
+intake over the last few weeks. Per the caretaker he has been 
+hoarding his food and placing it in the trash as well as old 
+cigarette boxes instead of eating it himself. He has also been 
+more weak and his physical therapist noted that he was no longer 
+able to get himself into the tub. He has not been drinking much 
+fluid either. The patient denied recent fever, chills, nausea, 
+vomiting, SOB, cough or CP. He denied decreased PO intake.  
+  
+Of note, the patient has had recurrent hyponatremia over the 
+last month with Na ranging 120-125 during this time. He was 
+admitted to ___ from ___ for hyponatremia and Na was 122 
+at that time. It was attributed to both hypovolemia and his 
+lasix. He was given IVF and lasix was held and Na improved to 
+125. He was sent home on ___. dose of lasix of 20mg every other 
+day. He was then seen in cardiology clinic on ___ and Na was 
+again low at 120 and lasix was stopped.  
+ 
+In the ED initial vitals were T 97.4 BP 151/77 HR 76 RR 18 98% 
+RA. CXR was performed and showed no acute process. He was given 
+2 units regular insulin for ___ 263. He received 1L NS. Labs 
+remarkable for Na 123. On arrival to the floor, the patient was 
+questioning why he is here. He denies any pain, cough, SOB.  
+
+ 
+Past Medical History:
+# CAD s/p PCI x 2 with a history of MI and angioplasty ___ years 
+ago. His most recent cardiac catheterization was in ___ at ___ which revealed non-flow 
+limiting three-vessel disease and no intervention was performed 
+at that time  
+# Atrial flutter/atrial tachycardia status post ablation in 
+___ with breakthrough atrial tachycardia and atrial 
+flutter  
+# DM type II c/b neuropathy  
+# PVD followed by Dr. ___  
+# Colon Ca -- s/p partial colectomy ___, no radiation or 
+chemotherapy  
+# Neuropathy -- progressing to R arm now; legs unchanged, uses 
+wheelchair  
+# Spinal stenosis -- MRI performed ___, no emergent issues, 
+but  
+some retrolisthesis of L4-5, status post laminectomy at L4-L5.  
+# Alcohol abuse  
+
+ 
+Social History:
+___
+Family History:
+No history of premature cardiac disease. 
+ 
+Physical Exam:
+VITAL SIGNS: T 97.4 BP 137/65 HR 70 RR 18 O2 sat 93% RA  
+GENERAL: cahchectic, appears older than stated age, pleasant, 
+alert, responds appropriately, in NAD  
+HEENT: Normocephalic, atraumatic. No conjunctival pallor. No 
+scleral icterus. PERRLA/EOMI. MMM. OP clear. Neck Supple, No 
+LAD, No thyromegaly.  
+CARDIAC: Regular rhythm, normal rate. Normal S1, S2. No murmurs, 
+rubs or ___. JVP flat  
+LUNGS: crackles at left base, otherwise CTA, no wheezes  
+ABDOMEN: NABS. Soft, NT, ND. No HSM  
+EXTREMITIES: No edema, muscle atrophy present, 2+ dorsalis 
+pedis/ posterior tibial pulses.  
+SKIN: No rashes  
+NEURO: A&Ox3. Appropriate. CN ___ grossly intact. Preserved 
+sensation throughout. 4+/5 strength throughout.  
+
+ 
+Pertinent Results:
+Admission Labs:
+___ 05:20PM BLOOD WBC-7.0 RBC-4.49* Hgb-13.3* Hct-38.3* 
+MCV-85 MCH-29.7 MCHC-34.9 RDW-17.0* Plt ___
+___ 05:20PM BLOOD Neuts-62.1 ___ Monos-5.7 Eos-4.5* 
+Baso-0.7
+___ 05:20PM BLOOD Glucose-250* UreaN-11 Creat-0.6 Na-123* 
+K-4.3 Cl-89* HCO3-27 AnGap-11
+___ 05:20PM BLOOD ALT-10 AST-14 AlkPhos-90 TotBili-0.6
+___ 05:20PM BLOOD Calcium-9.3 Phos-4.5 Mg-1.7
+___ 05:20PM BLOOD Digoxin-0.7*
+___ 05:20PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 10:37PM URINE Color-Yellow Appear-Clear Sp ___
+___ 10:37PM URINE Blood-NEG Nitrite-NEG Protein-30 
+Glucose-150 Ketone-TR Bilirub-NEG Urobiln-4* pH-6.0 Leuks-NEG
+___ 10:37PM URINE RBC-35* WBC-3 Bacteri-FEW Yeast-NONE 
+Epi-<1
+___ 10:37PM URINE CastHy-3*
+___ 10:37PM URINE Hours-RANDOM Creat-125 Na-135 K-36 Cl-146
+___ 10:37PM URINE Osmolal-625
+   
+Additional Labs:
+___ 08:00AM BLOOD VitB12-523 Folate-GREATER TH
+___ 08:00AM BLOOD TSH-1.2
+___ 07:50AM BLOOD Cortsol-30.6*
+___ 07:35AM BLOOD Cortsol-10.2
+___ 07:40AM BLOOD CEA-1.6
+___ 07:40AM BLOOD HIV Ab-NEGATIVE
+   
+Discharge Labs:
+___ 07:40AM BLOOD WBC-8.1 RBC-3.75* Hgb-11.5* Hct-32.0* 
+MCV-85 MCH-30.6 MCHC-35.8* RDW-17.2* Plt ___
+___ 07:40AM BLOOD Glucose-163* UreaN-15 Creat-0.5 Na-135 
+K-4.2 Cl-97 HCO3-30 
+___ 07:40AM BLOOD Calcium-9.4 Phos-4.2 Mg-2.1  
+   
+   
+Microbiology:
+___ 10:37 pm URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+   
+___ 4:08 pm SEROLOGY/BLOOD
+      ADDED RPR TO ___ @1644 ON ___. 
+
+                            **FINAL REPORT ___
+
+   RAPID PLASMA REAGIN TEST (Final ___: 
+      NONREACTIVE. 
+      Reference Range: Non-Reactive. 
+    
+___ 3:52 pm SWAB      Source: left hallux. 
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   WOUND CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+   
+   
+Studies:
+___ Sinus rhythm with frequent atrial premature beats versus 
+wandering atrial pacemaker. Diffuse non-specific ST-T wave 
+abnormalities. Low voltage in the limb leads. Compared to the 
+previous tracing of ___ atrial premature beats are more 
+frequent. Clinical correlation and repeat tracing are suggested. 
+
+  
+___ CXR PA & LAT - FINDINGS: 
+The lungs are over-inflated, suggesting COAD. The 
+cardiomediastinal 
+silhouette is stable. There is no focal pulmonary consolidation. 
+
+CONCLUSION: No acute cardiopulmonary process. 
+    
+___ MRI HEAD without contrast - FINDINGS: There is no 
+evidence of hemorrhage, edema, masses, mass effect, or recent 
+infarction. There is extensive periventricular white matter 
+hyperintensity on the FLAIR images. The significance of this is 
+uncertain.  It is often attributed to chronic small vessel 
+ischemia. The most striking observation is profound atrophy of 
+the medulla and upper cervical spinal cord. Views of the spinal 
+cord are limited to motion degraded images on the sagittal 
+views. However, this suggests it may be worthwhile to perform MR 
+imaging of the cervical spine. There have been no significant 
+changes since the head CT of ___. There is no evidence 
+of hydrocephalus.   
+There is a tiny focus of hypointensity on the gradient-echo 
+images in the 
+right cerebral peduncle that may represent an area of old 
+hemorrhage. 
+CONCLUSION: No evidence of hydrocephalus, recent infarction, or 
+hemorrhage.   
+Striking atrophy of the medulla and upper cervical spinal cord. 
+   
+___ Foot AP, Lat, obl x-ray - IMPRESSION: 
+1. Fractures of the distal left second, third, and fourth 
+metatarsals, which are of indeterminate acuity, ? subacute. 
+2. Old healed distal fibular fracture seen at periphery of film. 
+See comment. 
+3. Severe osteopenia, which limits detection for fractures. 
+Allowing for 
+this, no other fractures and no dislocation detected.  
+  
+___ Atrial flutter suggested but may be "coarse" atrial 
+fibrillation
+Modest nonspecific ST-T wave changes Since previous tracing of 
+the same date, probably no significant change.
+  
+___ Probable atrial flutter with rapid ventricular response
+Modest nonspecific ST-T wave changes. Since previous tracing of 
+___, tachyarrhythmia now present.
+  
+___ Sinus rhythm with premature atrial contractions. 
+Non-specific intraventricular conduction delay. Non-specific 
+ST-T wave changes. Compared to the previous tracing of ___ 
+the atrial fibrillation is absent and sinus rhythm and premature 
+atrial contractions are now present.
+  
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with a history of CAD, DM, 
+aflutter, PVD, EtOH use who presented with decreased PO intake, 
+lethargy, and unusual hoarding behavior.  
+   
+#. Failure to thrive / Depression / Dementia: The patient has 
+had a progressive decline with a recent increase in the rate per 
+Dr. ___ knows the patient well.  Geriatrics/geripsych was 
+consulted to assist with evaluating the patient.  TSH, B12, and 
+folate normal were normal. RPR was negative.  HIV test was 
+negative.  MRI head showed prominent atrophy of the medulla and 
+upper cervical cord.  Neurology was consulted to comment on 
+these findings and to evaluate the patient.  They felt the MRI 
+findings were related to chronic alcohol use.  Occult malignancy 
+was also considered within the differential.  Chest x-ray showed 
+no evidence of tumors.  CEA was checked based on the patient's 
+history of colon cancer and was also negative.  The patient had 
+poor PO intake in the hospital based on nutrition service 
+calorie counts.  The medical team spoke with the patient and his 
+caregiver at length regarding the importance of sufficient PO 
+intake for both calories and to prevent dehydration.  The team 
+also stressed the importance of avoiding alcohol.  Ultimately, 
+the patient insisted that he wanted to return home instead of 
+going to rehab.  Per neurology recommendation, outpatient 
+behavioral neurology follow-up was sceduled.  The patient should 
+undergo routine age-appropriate cancer screening as an 
+outpatient.  Assistance at home with multiple caregivers, 
+including ___, OT, & ___ was arranged.  The patient's recently 
+started duloxetine was held in the hospital as explained below.  
+If anti-depressant therapy is warranted for this patient in the 
+future, consideration should be given to using agents other than 
+SSRIs or SNRIs that can induce hyponatremia.  Mirtazepine may be 
+an option to consider, particularly given its appetite 
+stimulating side-effect.  
+    
+#. Hyponatremia: Hyponatremia has been an ongoing problem for 
+the patient over the past month.  His sodium was 123 on 
+admission, and improved to 128 with normal saline fluid 
+resuscitation (the patient was dehydrated on admission as well). 
+ The etiology for his hyponatremia is not entirely clear.  He 
+had not been on lasix.  His TSH was normal.  He does not have a 
+history of CHF or liver diseas.  He had a PPD placed that was 
+also negative and an appropriate cortisol stimulation response.  
+His urine osm was > 600 on admission, suggesting he may have 
+SIADH.  As mentioned above, no evidence of malignancy was found 
+and age-appropriate cancer screening is recommended as an 
+outpatient.  The patient's sodium eventually normalized to 135 
+on the day of discharge despite receiving no further IV fluids.  
+It is hypothesized that his sodium normalized as a result of 
+some combination of increased PO intake in the hospital, absence 
+of alcohol intake in the hospital ("beer potomania?") and 
+cessation of duloxetine (an SNRI) which can induce hyponatremia. 
+ 
+    
+#. Urinary retention: The patient was unable to urinate after 
+foley removal with PVRs in the 300-600+ range.  It was unclear 
+if his urinary retention was chronic or acute and whether it is 
+related to neurological issues vs. BPH. vs. other.  Prostate was 
+not markedly enlarged on exam, though foley was difficult to 
+place per nursing.  The patient was discharged home with a foley 
+and scheduled with outpatient urology follow-up for a voiding 
+trial and consideration of medications if appropriate.  
+   
+#. Hematuria: A small number of red blood cells were noted on 
+the patient's inital urine analysis that was likely obtained 
+after foley placement in the ED.  The patient could not void on 
+his own after foley removal, so a second foley was eventually 
+placed after several straight caths.  A second UA obtained on 
+discharge almomst 48 hours after the second foley was placed 
+continued to show hematuria, in fact, worse that what was seen 
+on the initial UA.  Given his smoking history, the patient needs 
+further evaluation to determine whether hematuria is secondary 
+to traumatic foley placement vs. bladder tumor.
+   
+#. Left foot fractures: The patient was noted to have 
+circumferential ecchymoses on his left big toe on admission.  
+Foot x-ray was obtained and showed multiple fractures ___ 
+through ___ metatarsals).  Podiatry was consulted and 
+recommended that the patient be non-weight bearing on his left 
+foot and be be given a special shoe.  They also trimmed the 
+patient's toe nails.  The patient was continued on calcium and 
+vitamin D and home ___ was arranged for the patient as well as 
+podiatry follow-up after discharge.
+   
+#. Atrial fibrillation/flutter with RVR: The patient had nearly 
+daily episodes of rapid ventricular rate, often occuring near 
+the time of medication administration, but not always.  He 
+occasionally required additional PO and IV metoprolol to 
+normalize his rate.  He is not on coumadin due to his fall risk. 
+ He was continued on digoxin and toward the end of his hospital 
+stay his metoprolol was changed from 100mg bid to 75 mg TID to 
+try to minimize RVR episodes.
+    
+#. Diabetes, type 2: The patient's ___ were elevated with 
+improved PO intake in the hospital.  Per the patient's friend 
+and caretaker his BS have been better controlled at home.  This 
+difference seems to be related to both the quantity and type of 
+foods being eaten.  The patient's basal rate of glargin 6 units 
+QAM was not changed because of concern for hypoglycemia at home 
+if the patient's PO intake decreases again on discharge.  He was 
+advised to follow-up with his ___ provider.  He was 
+given a diabetic diet while in house.
+  
+#. Anemia: Labs during the patient's prior hospitalization 
+suggested that this was related to iron deficiency.  B12 and 
+folate were normal.  The patient's iron supplementation was 
+doubled.  
+  
+#. Coronary artery disease: The patient had non-flow limiting 
+3VD on cath in ___.  He was continued on aspirin, his statin, 
+plavix, and metoprolol.
+   
+# Alcohol abuse: The patient was placed on a CIWA scale while 
+hospitalized, but benzodiazepines were not needed as there was 
+no evidence of withdrawal.  He was continued on B-vitamins and a 
+multivitamin.  Alcohol intake was discussed at length with the 
+patient and his caretaker by multiple members of the medical 
+team.  
+   
+#. Neuropathy: The patient was continued on gabapentin.  
+  
+ 
+Medications on Admission:
+Atorvastatin 40 mg daily  
+Aspirin 325 mg daily  
+Clopidogrel 75 mg daily  
+Metoprolol Tartrate 100 mg bid  
+Digoxin 125 mcg daily  
+Gabapentin 300 mg PO Q8H  
+Folic Acid 1 mg daily  
+Albuterol MDI  
+Ferrous Sulfate 325 mg daily  
+Insulin Glargine 6 units Subcutaneous at breakfast.  
+Novolog SS  
+Folic acid  
+Ca/Vit D  
+B complex vitamins  
+
+ 
+Discharge Medications:
+1. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+5. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours).  
+6. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+7. Albuterol 90 mcg/Actuation Aerosol Sig: One (1)  Inhalation 
+every six (6) hours as needed for shortness of breath or 
+wheezing.  
+8. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO twice a day.  
+9. B Complete     Tablet Sig: One (1) Tablet PO once a day.  
+10. Calcium 500 With D 500 mg(1,250mg) -400 unit Tablet Sig: One 
+(1) Tablet PO twice a day.  
+11. Insulin Glargine 100 unit/mL Solution Sig: Six (6) units 
+Subcutaneous QAM.  
+12. Insulin Lispro 100 unit/mL Solution Sig: as directed  
+Subcutaneous QIDACHS: as per sliding scale.  
+13. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+14. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO 
+Q8H (every 8 hours).
+Disp:*90 Tablet(s)* Refills:*2*
+15. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO BID (2 times a day).  
+16. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+1. Failure to thrive
+2. Left second, third, and fourth metatarsal fractures
+3. Atrial fibrillation with rapid ventricular rate
+4. Urinary retention
+5. Hyponatremia
+
+Secondary Diagnoses:
+1. Coronary artery disease
+2. Diabetes mellitus, type 2 with neuropathy
+3. Alcohol abuse
+
+ 
+Discharge Condition:
+Vital signs stable.  Improved oral intake.  Hyponatremia 
+improved.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for evaluation of dehydration 
+and deconditioning.  You were given IV fluids and had multiple 
+tests.  You had an MRI scan that showed some atrophy in an area 
+of your brain known as the medulla.  This finding is likely 
+related to long-term alcohol intake.  You are advised to stop 
+drinking alcohol to prevent further damage to your brain.  In 
+addition, we recommend that you follow-up with the behavioral 
+neurologists.
+ 
+It is also important that you eat more food and drink more 
+nutrient shakes to get enough calories to support your body and 
+not get dehydrated.  
+  
+You were also found to have fractures in your left foot.  The 
+podiatrists saw you and recommended that you wear a boot and not 
+put any weight on your left foot.  You have a follow-up 
+appointment scheduled with them.
+ 
+The following changes have been made to your medications.  
+Change your metoprolol tartrate to 75 mg every 8 hours (three 
+times per day).
+Please take your iron supplement twice a day.
+Please stop taking Lasix (furosemide), Cymbalta (duloxetine), 
+and Ativan (lorazepam).
+  
+Please call your physician or return to the hospital if you have 
+chest pain, shortness of breath, fevers, or other concerning 
+symptoms.  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10818124-DS-26 | hadm_id=28737891
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline / Norvasc
+ 
+Attending: ___
+ 
+Chief Complaint:
+Cough and shortness of breath 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ y/o M with PMHx of CAD s/p stenting, Afib/flutter, DM with 
+neuropathy and tobacco dependance who presents with productive 
+cough and SOB for 3 days. Pt reports upper respiratory 
+congestion and cough with yellow sputum but denies fever & 
+chills.  Pt describes PND, orthopnea and new nocturia but has 
+minimal exertion capacity and denies DOE.  He also reports 
+approx 1 wk of difficulty swallowing, coughing with thin liquids 
+though no prior history of aspiration.  Pt has poor dentition 
+and difficulty chewing solid foods. He initially presented to 
+his PCP on ___ morning and was discharged with prescription 
+of Azithro and plan for outpt CXR.  However, his shortness of 
+breath worsened overnight and he presented to the ED early 
+___ morning.
+.
+VS on arrival to the ED were: T 97.6 BP 148/104 HR 122 RR 28 
+Sats 100% on RA.  CXR revealed LLL infiltrate and pt received 
+Ceftriaxone 1gram, Azithromycin 500mg, Prednisone 60mg, Duonebs 
+and 3L of NS IVF. Pt was given diltiazem 20mg IV for HR of 130 
+and was noted to have increasing O2 requirement.  Pt was unable 
+to wean from NRB and was started on diltiazem gtt for rate 
+control.  Repeat CXR showed worsening pulm edema and LLL 
+consolidation.
+.
+On arrival to CCU, pt was feeling better, still c/o cough and 
+mild SOB.  Denies any fevers/chills, CP/palpitations, abd pain, 
+nausea/vomiting or diarrhea.
+ 
+Past Medical History:
+# CAD s/p PCI x 2 with a history of MI and angioplasty ___ years 
+ago. His most recent cardiac catheterization was in ___ at ___ which revealed non-flow 
+limiting three-vessel disease and no intervention was performed 
+at that time.  
+# Atrial flutter/atrial tachycardia status post ablation in 
+___ with breakthrough atrial tachycardia and atrial 
+flutter  
+# Atrial fibrillation- baseline HR 100-120 outpatient  
+# DM type II - on NPH, recent A1C 6.6  
+# ___ DMII wheelchair bound w/ caregiver  
+# PVD followed by Dr. ___  
+# Colon Ca -- s/p partial colectomy ___, no radiation or chemo  
+
+# Neuropathy -- progressing to R arm now; legs unchanged, uses  
+# Spinal Stenosis -- MRI done ___, no emergent issues, but  
+some retrolisthesis of L4-5.  
+# Anemia--Longstanding normocytic, unclear etiology  
+# Alcoholism- Likely Active  
+# Retinopathy-  
+# Intracranial ___- fainted after dose of Amytripile 
+and had intracranial bleed by rt inner ear.  
+
+ 
+Social History:
+___
+Family History:
+no family hx of heart disease. Both parents died at ___ of "old 
+age."
+ 
+Physical Exam:
+Vitals: T: 97.5 BP: 127/82 P: 127 R: 24 O2: 93% on NRB  
+General: Alert, oriented, no acute distress 
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP elevated approx 3cm below angle of the jaw
+Lungs: No appreciable wheezes, occaisional rhonchi and 
+inspiratory crackles at L>R base, clear with coughing.  
+CV: Irreg/Irreg & tachycardic, diff to apprec murmurs, rubs, 
+gallops
+Abdomen:  soft, non-tender, non-distended, bowel sounds present, 
+no rebound or guarding
+Ext: Warm, 2+ pulses, no edema
+ 
+Pertinent Results:
+___ 07:56AM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 07:56AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+___ 07:56AM URINE  RBC-5* WBC-1 BACTERIA-FEW YEAST-NONE 
+EPI-<1
+___ 07:56AM URINE  MUCOUS-RARE
+___ 04:56AM   LACTATE-1.7
+___ 04:15AM   GLUCOSE-81 UREA N-13 CREAT-0.4* SODIUM-138 
+POTASSIUM-3.3 CHLORIDE-105 TOTAL CO2-24 ANION GAP-12
+___ 04:15AM   estGFR-Using this
+___ 04:15AM   WBC-7.3 RBC-3.64* HGB-10.4* HCT-30.8* MCV-85 
+MCH-28.7 MCHC-33.8 RDW-16.1*
+___ 04:15AM   NEUTS-57.0 ___ MONOS-4.8 EOS-2.2 
+BASOS-0.8
+___ 04:15AM   PLT ___ ECHO
+
+The left atrium is mildly dilated. Left ventricular wall 
+thicknesses are normal. The left ventricular cavity size is top 
+normal/borderline dilated. Overall left ventricular systolic 
+function is low normal (LVEF 50-55%). The right ventricular 
+cavity is dilated with depressed free wall contractility. The 
+aortic root is mildly dilated at the sinus level. The ascending 
+aorta is mildly dilated. The aortic valve leaflets (3) are 
+mildly thickened. There is no aortic valve stenosis. No aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. Mild to moderate (___) mitral regurgitation is seen. 
+Moderate [2+] tricuspid regurgitation is seen. There is moderate 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion. 
+
+Compared with the prior study (images reviewed) of ___, 
+tricuspid regurgittaion is now more prominent and estimated 
+pulmonary artery systolic pressure is now higher. Left 
+ventricular and right ventricular systolic function is less 
+vigorous.  
+
+___ CXR
+
+COMPARISON: Chest radiograph from ___ obtained of 
+04:16 a.m. and chest radiograph from ___. 
+  
+The left lower lobe consolidation accompanied by pleural 
+effusion is 
+unchanged but there is overall progression of perihilar vascular 
+engorgement continuing towards the right lower lung with small 
+right pleural effusion present. The radiological picture is 
+consistent with mild-to-moderate pulmonary edema with the 
+abnormality at the left lung being either a separate entity such 
+as a pneumonia and parapneumonic effusion or potentially can be 
+due to asymmetric pulmonary edema. There is no pneumothorax. The 
+cardiomediastinal silhouette is unchanged. 
+  
+ADDENDUM: Findings were discussed with Dr. ___ over the 
+phone by Dr. ___ at 8:55 a.m. on ___. 
+
+___ CXR
+
+1. Increase in consolidation at the left lung base with slight 
+increase in pleural effusion is concerning for pneumonia. 
+
+2. CHF with new mild-to-moderate pulmonary edema is unchanged. 
+
+ 
+Brief Hospital Course:
+___ year-old male with coronary artery disease, atrial 
+fibrillation, diabetes mellitus type with neuropathy and tobacco 
+dependance admitted ___ with productive cough and SOB for 3 
+days. Patient was initially admitted to MICU, then medicine 
+service, and finally to cardiology service prior to discharge. 
+Hospital course was as follows.
+
+1. Hypoxia:  Etiology likely multifactorial. On initial 
+presentation, patient was with adequate O2 saturation on RA and 
+became progressively hypoxic with IVF resuscitation and Afib 
+with RVR.  Lobar pneumonia treated with good response with 
+ceftriaxone (ten day course with 3 days of cefpodoxime 
+prescribed at discharge) and azithromycin (5 day course).  Pt 
+became fluid overloaded intermittently with shortness of breath, 
+which responded well to 20mg IV furosemide.  Pt also experienced 
+great symptomatic relief with brochodilators suggesting a 
+brochospasm component to his dyspnea.  After several days of 
+gentle diuresis, antibiotics and nebulizer treatments, patient 
+was saturating 95% on room and breathing comfortably.  
+Discharged on continued antibiotics, furosemide, and albuterol.
+
+2. Chronic diastolic heart failure:  TTE on ___ revealed EF 
+50-55% with minimal decrease in systolic function from prior 
+TTE.  Evidence of pulmonary hypertension. On cardiology service, 
+patient experienced tachypnea at night which appeared consistent 
+with PND. He was given Lasix with good response.
+
+3. Atrial fibrillation with RVR:  Patient has known atrial 
+fibrillation and is status-post failed ablation. Suspect current 
+worsening precipitated by CAP, hypoxia & long standing smoking 
+history. Patient not anti-coagulated per Dr. ___ 
+history of IVH from multiple falls.  He was treated with 
+increased doses of metoprolol and continued to enter A-Fib with 
+RVR to the 140's.  For a short time his Toprol XL dose was 
+doubled. On discharge, his heart rate was well-controlled with 
+diltiazem SR 240mg PO daily and metoprolol succinate 100mg PO 
+daily.
+
+4. Coronary artery disease:  Patient was without chest pain 
+during episodes of atrial fibrillation with RVR. EKGs 
+essentially unchanged though low voltage in limb leads. He was 
+continued on aspirin, Plavix, beta-blocker, and statin per his 
+home regimen.
+
+5. Diabetes mellitus, type II:  Blood sugars poorly controlled, 
+in the 300-400 despite excellent outpatient control with A1C of 
+6.6. This was likely due to prednisone treatment in the ED and 
+the stress of his illness. ___ was involved in management and 
+guided daily insulin regimen changes. Patient's diabetes 
+mellitus is complicated by neuropathy; he was continued on 
+gabapentin 300mg PO TID per home regimen.
+
+6. Alcohol use:  Patient has been known to have significant 
+alcohol intake. His alcohol level was elevated on admission. He 
+was counseled on alcohol cessation. He was monitored on CIWA 
+protocol and showed no signs of withdrawal. He was also started 
+on a MVI, folic acid, and thiamine.
+
+7. Hypertension:  Well-controlled throughout hospitalization 
+with metoprolol and diltiazem as above.
+
+8. Anemia:  Hematocrit remained at baseline (~30). Normocytic 
+with labs consistent with iron deficiency. Patient with known 
+history of colon cancer s/p partial colectomy. Continued iron 
+325mg PO daily, and recommend to patient that he have a repeat 
+colonoscopy as an outpatient.
+
+9. ?COPD:  No PFTs in our system. Unclear where how this 
+diagnosis came about. Continued ipratropium prn, and 
+discontinued albuterol given episodes of tachycardia.
+
+10. Pulmonary hypertension:  Moderate based on recent TTE. 
+Source unclear, but may be related to left heart failure +/- 
+acute illness. Patient recommended to have pulmonary follow-up 
+as an outpatient.
+
+11. Nutrition:  He was evaluated by speech and swallow given 
+presumed aspiration pneumonia, as described as above.He was 
+recommended for a nectar prethickened liquid diet.
+
+**Communication: ___, ___ ___
+ 
+Medications on Admission:
+Lipitor 40mg daily
+Plavix 75mg daily
+Novolog 70/30 14units qam and 4units qpm
+Cymbalta 30mg daily
+Aspirin 325mg daily
+MIV daily
+Diltiazem SR 120mg daily
+Albuterol inhaler q4hr prn
+Azithromycin 500mg x 1, 250mg x 4  (started ___
+Gabapentin 300mg TID 
+Folic Acid 1mg daily
+Toprol XL 100mg daily
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Atorvastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+4. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+6. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+7. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Diltiazem HCl 240 mg Capsule, Sustained Release Sig: One (1) 
+Capsule, Sustained Release PO DAILY (Daily).
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*
+10. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+11. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+12. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+13. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2) 
+inhalations Inhalation every six (6) hours as needed for 
+shortness of breath or wheezing.
+Disp:*1 month supply* Refills:*0*
+14. Cefpodoxime 200 mg Tablet Sig: One (1) Tablet PO every 
+twelve (12) hours for 3 days.
+Disp:*5 Tablet(s)* Refills:*0*
+15. Lantus 100 unit/mL Solution Sig: ___ (25) units 
+Subcutaneous In the morning.
+Disp:*30 day supply* Refills:*2*
+16. Novolog 100 unit/mL Solution Sig: As per attached sliding 
+scale algorithm  Subcutaneous four times a day.  
+17. Insulin Syringes (Disposable) 1 mL   Syringe Sig: As per 
+Lantus prescription  Miscellaneous once a day.
+Disp:*10 syringes* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+- Lobar Pneumonia, community acquired pneumonia vs. aspiration 
+pneumonia
+- Atrial fibrillation with rapid ventricular rate
+- Acute on chronic systolic heart failure
+
+Secondary:
+- Diabetes mellitus type II complicated by retinopathy and 
+neuropathy
+- History of colon cancer
+- Iron-deficient anemia
+
+ 
+Discharge Condition:
+Hemodynamically stable. Uses wheelchair for mobility (baseline).
+
+ 
+Discharge Instructions:
+You were admitted to the hospital because of difficulties 
+breathing and a fast heart rate.  You were found to have 
+pneumonia and extra fluid in your lungs which was making it hard 
+to breath.  During your hospital stay, you were given 
+antibiotics for your pneumonia and your heart rate was 
+controlled by increasing some of your medications. We also gave 
+you a medication to keep fluid off of your lungs. We also 
+discovered you had a low blood count due to an iron deficiency.  
+This may mean you have another problem in your colon, and it may 
+be necessary to have another colonoscopy in the future.  Please 
+discuss this with your doctor.
+
+Your medication regimen has changed. Please review your 
+medication list closely.
+
+Please attend all the follow up appointments indicated below.
+
+If you have any of the following problems or any symptoms that 
+are concerning to you, please return to the emergency department 
+or call your physician:
+- ___ breathing,
+- Fever,
+- Fast heart rate,
+- Confusion,
+- Inability to eat, or
+- Pain or pressure in your chest.
+ 
+Followup Instructions:
+___

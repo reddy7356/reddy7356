@@ -1,0 +1,948 @@
+===== DISCHARGE NOTE =====
+note_id=10199560-DS-15 | hadm_id=20334314
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+-Attempted Ventricular Tachycardia Ablation
+-Endotracheal Intubation
+ 
+History of Present Illness:
+This is a ___ y.o. male with past medical history of MI in ___ 
+s/p PTCA at ___ as well as aplastic anemia, DM, and PVD who 
+presented on the day of admission with approximately one hour of 
+chest pain.  This pain did not start with exertion as the 
+patient was just walking around his house when he noticed some 
+pain under his sternum.  At first, he thought this was most 
+likely heartburn so he took a couple of TUMs and then went to 
+lay down for a while.  Unfortunately, after about an hour he was 
+continuing to have this pain, which continued at a five out of 
+ten level and was beginning to radiate into his right shoulder.  
+He was not diaphoretic or short of breath at rest.  He described 
+this pain as very similar to his previous cardiac pain but less 
+severe.  When the pain did not go away after rest he became 
+concerned for a heart problem and called the ambulance to take 
+him to this hospital.  
+
+In the ED initial vital signs were 75, 145/84, RR 15, O2 Sat of 
+96% on 4L.  He had an EKG which showed possible ST segment 
+elevations and T wave inversions in V3-V5 that remained stable 
+during his time in the ED.  Initial cardiac enzymes revealed a 
+troponin of 0.74 and CPK of 155 and MB of 6.  Other remarkable 
+lab values at the time included a Cr of 2.2 (up from his 
+baseline of 1.7) and a Platelet count of 101.  He was given 
+aspirin, clopidogrel, and started on NTG and heparin gtt.  His 
+pain resolved early in his ED course and did not recur.  The 
+cardiology fellow was consulted and felt though the patient was 
+most likely having an NSTEMI that he did not need urgent cath so 
+Mr. ___ was admitted to the ___ service for management with 
+early cathterization and revascularization planned in the next 
+___ hrs.  Epifibatide was initially held due to concern about 
+his thrombocytopenia and bleeding risk.     
+ 
+Past Medical History:
+1. Diabetes Mellitus type 2
+2. Hypertension
+3. Coronary Artery Disease s/p balloon angioplasty in ___
+4. Peripheral Vascular Disease s/p R fem-pop bypass in ___
+5. s/p right Carotid Endarterectomy in ___ left carotid 
+artery completely occluded but asymptomatic
+6. s/p right ___ toe amputation in ___
+
+ 
+Social History:
+___
+Family History:
+His mother and sister have diabetes mellitus type two.  Many 
+members of his family have hyptertension.
+ 
+Physical Exam:
+On admission:
+VS: T 97.4, BP 144/87, HR 75, RR 22, O2 Sat 100% on 4L
+Gen: This is a chronically ill appearing elderly male in NAD
+HEENT: Sclerae anicteric, PERRL, oropharynx benign without 
+petechiae or bleeding
+Neck: Supple, JVP at 1 cm above the clavicle, carotid bruit on 
+right side
+CV: RRR, no M/R/G appreciated, nl S1 and S2
+Pulm: CTAB w/ few crackles at the bases; no wheezes, rhonchi, or 
+rales
+Abdomen: Soft, NT, ND, BS+, no masses or hepatosplenomegaly 
+appreciated
+Extremities: Cold but not cyanotic with with trace edema 
+bilaterally
+Pulses: dopplerable DP and ___ pulses bilaterally, 1- radial 
+pulses, no palpable carotid pulses
+Neuro: A&O *3, responds appropriately to queries, CNII-XII 
+grossly intact, strength ___ in all extremities
+
+On discharge, exam not significantly changed from admission 
+except for in the following ways.  At discharge all vital signs 
+stable with oxygen saturation greater than 93% on room air.  No 
+JVD was appreciated.  Lung exam without crackles, wheezes, 
+rhonchi, or rales on auscultation.  No edema noted.    
+
+ 
+Pertinent Results:
+<b><u>LABORATORY RESULTS</B></U>
+On Admission:
+WBC-4.8 RBC-2.53* Hgb-9.2* Hct-27.1* MCV-107* Plt ___
+----------Neuts-40.7* Lymphs-54.1* Monos-3.1 Eos-1.9 Baso-0.3
+___ PTT-28.8 ___
+Glucose-226* UreaN-34* Creat-2.2* Na-132* K-3.9 Cl-95* HCO3-20* 
+AnGap-21*
+
+On Discharge:
+WBC-3.2* RBC-2.60* Hgb-8.8* Hct-25.9* MCV-100* Plt ___ PTT-35.3* ___
+Glucose-96 UreaN-33* Creat-1.9* Na-137 K-4.2 Cl-105 HCO3-22 
+AnGap-14
+
+Cardiac Enzymes (CK-MB-TropT)
+___ 06:55PM 155-6-0.75
+___ 01:18AM 158-9.7- 0.98
+___ 06:35AM ___ 11:57AM 158-7-1.19
+___ 06:32AM ___
+
+<b><u>OTHER STUDIES</b></u>
+EKG on ___:
+Sinus rhythm with Q waves in leads II, III and aVF consistent 
+with inferior
+myocardial infarction of indeterminate age. ST segment coving in 
+leads V3- with associated T wave inversions consistent with 
+evolving anterior injury
+pattern. Multiple ventricular premature beats. No previous 
+tracing available for comparison.
+
+CXR on ___:
+IMPRESSION: There is diffuse pulmonary edema. There is likely a 
+right
+pleural effusion possibly a small left pleural effusion. A more 
+consolidative process in the right lung base cannot be excluded. 
+The heart appears relatively enlarged even accounting for 
+patient and technical factors which would represent an acute 
+change. Repeat radiography following appropriate diuresis is 
+recommended to assess for underlying infection.
+
+Echocardiogram on ___:
+Conclusions
+The left atrium is mildly dilated. There is mild symmetric left 
+ventricular hypertrophy. The left ventricular cavity is 
+moderately dilated. There is an inferolateral basal left 
+ventricular aneurysm. There is severe regional left ventricular 
+systolic dysfunction with akinesis of the mid to distal anterior 
+septum, basal inferior and inferolateral segments, severe 
+hypokinesis of the remaining segments with sparing of the basal 
+septum. Overall left ventricular systolic function is severely 
+depressed (LVEF= ___ %). Right ventricular chamber size is 
+normal. with depressed free wall contractility. The aortic root 
+is mildly dilated at the sinus level. The aortic valve leaflets 
+(3) are mildly thickened but aortic stenosis is not present. No 
+aortic regurgitation is seen. The mitral valve leaflets are 
+mildly thickened. Mild (1+) mitral regurgitation is seen. There 
+is an anterior space which most likely represents a fat pad.
+
+IMPRESSION: Moderately dilated left ventricle with severe 
+regional dysfunction consistent with ischemic heart disease 
+(multivessel).  
+
+ 
+Brief Hospital Course:
+___ year old gentleman with history of coronary artery disease 
+s/p MI as well as diabetes mellitus, peripheral vascular 
+disease, and aplastic anemia presenting with chest pain.  
+
+1) NSTEMI/CAD: Given the patient's multiple risk factors and EKG 
+changes he was diagnosed with presumptive ACS on arrival to the 
+ED and thus was almost immediately given aspirin and beta 
+blocker and started on nitroglycerine.  His pain resolved after 
+receiving NTG and never recurred.  He was also started on 
+heparin.  After his first set of cardiac enzymes returned 
+positive the on-call cardiology fellow was contacted and made 
+aware of the patient.  S/he recommended against epifibatide 
+given the patient's thrombocytopenia and indicated that the 
+patient did not need urgent cathterization.  The patient was 
+admitted to the cardiology service with plan for cardiac 
+catheterization in the next ___ hours. The patient was then 
+transferred to CCU for sustained VT (see below).  Repeat cardiac 
+enzymes continued to show flat CK's and echo showed significant 
+wall motion abnormalities suggesting this was a subacute 
+presentation of a myocardial infarction.  This indicated less 
+benefit from immediate catheterization and given development of 
+decompensated heart failure and need for intubation (see below) 
+as well as acute renal failure the decision was made to postpone 
+catheterization until after kidney function had normalized.  The 
+patient will also have stress perfusion study prior to 
+catheterization as echocardiogram findings are consistent with 
+diffuse CAD and this testing could suggest minimal benefit from 
+PTCA and drive management toward a surgical strategy.  The 
+___ medical regimen for CAD was optimized during this 
+hospitalization with addition of aspirin, clopidogrel, and 
+statin.  The dose of statin was modified for concurrent 
+cyclosporine use.  He will follow up with Dr. ___ in 
+cardiology clinic.     
+
+2) Dysrrthymia:  During his first night in the hospital the 
+patient had a run of sustained ventricular tachycardia while 
+resting comfortably and being monitored on telemetery.  His 
+blood pressure decreased from SBP's in the 140's to SBP's in the 
+110's, but Mr ___ remained completely asymptomatic during 
+this episode.  Given concern this was possibly ischemia related 
+VT, he was started on a lidocaine drip with resolution of his VT 
+to NSR in a matter of one to two minutes.  He was then 
+transferred to the CCU for further management.  In the CCU the 
+patient was monitored on telemetry and stayed primarily in NSR 
+with occasional incidents of NSVT that decreased in frequency 
+over the course of his hospital stay.  He was seen by EP, who 
+thought given this was monomorphic VT with history of MI and 
+hypo/akinetic apex this was most likely scar mediated VT.  The 
+plan was made to do a VT ablation at the same time of cardiac 
+catheterization for revascularization.  Cardiac cathterization 
+was canceled for the reasons described above but the 
+electrophysiology service decided to proceed with the ablation 
+and took the patient to the cath lab.  Unfortunately, during 
+this procedure after receiving blood products and put in a 
+supine position he became quite short of breath and hypoxic and 
+was electively intubated for respiratory ditress.  The VT 
+ablation was unsuccessful and the patient was managed medically 
+from that point forward.  Given the decreased incidence of NSVT 
+over the course of his hospitalization the electrophysiology 
+service did not recommend continuing anti-arrythmic therapy with 
+anything but beta blocker.  
+
+3) Acute Systolic Heart Failure: At the time of presentation the 
+patient had crackles to auscultation of his lung bases 
+bilaterally and an oxygen requirement. Given presumption of MI 
+it was assumed he was in some degree of acute, decompensated 
+heart failure and he had a brisk diuresis to a single dose of 
+furosemide.  Early in the morning following admission the 
+patient had an echocardiogram showing severe LV dysfunction with 
+an EF of ___. Despite this, the patient had a stable 
+respiratory status over the following day.  He received one unit 
+of blood with furosemide given at the same time and continued to 
+have good oxygen saturations on a few liters of oxygen by nasal 
+cannula.  Unfortunately, the following day after receiving two 
+liters of blood in the cath lab and being put in a recumbent 
+position the patient had an acutely worsened respiratory status 
+and had to be intubated due to respiratory compromise.  He also 
+became hypotensive briefly and returned to the CCU from the cath 
+lab on small doses of dopamine, which were weaned off over the 
+following hours without recurrence of hypotension.  While he was 
+intubated he was diuresed approximately two liters, which 
+required a furosemide drip after an inadequate response to bolus 
+furosemide doses.  After this diuresis he was s extubated 
+without incident and continued to self diurese another liter 
+without further diuretic therapy.  He maintained approximate 
+euvolemia after this without further need for diuretics.  
+Regarding chronic medical management of his heart failure, the 
+patient was continued on his beta blocker.  ACE inhibitor 
+therapy was considered but held due to the patient's acute renal 
+failure.  He was started on Hydralazine and Isosorbide as a 
+substitute regimen for afterload reduction with plan to start 
+ACE inhibitor as an outpatient after renal function has improved 
+to baseline.  On discharge the patient has chronic heart failure 
+given known reduced EF but was compensated without clinical 
+signs of volume overload.          
+
+4) Acute renal failure on Chronic Kidney Disease: On 
+presentation the patient's Cr was elevated to 2.2 from baseline 
+of 1.6.  Consideration was given to ATN versus poor perfusion 
+due to acute decompensated heart failure versus cyclosporine 
+toxicity.  Cyclosporine level was found to be undetectable, but 
+the first two diagnostic possibilities remained under 
+consideration particularly as kidney function did not improve 
+with initial heart failure management.  Thus, the nephrology 
+service was consulted.  They examined the urinary sediment and 
+found no granular casts suggesting ATN.  This led to a 
+presumptive diagnosis of prerenal failure due to poor systolic 
+function and inadequate perfusion.  As the patient's heart 
+failure improved his Cr improved as well and after peaking at 
+2.6 it had fallen back to 1.9 at discharge.   
+
+5) Aplastic Anemia: On presentation the patient's hematocrit was 
+approximately 27, which is his baseline.  Over the next day, 
+however, he fell to 25 and was given three units of blood in the 
+hospital due to concern for anemia in the context of inadequate 
+coronary perfusion.  After these transfusions his hematocrit 
+increased appropriately to 29 but then began to fall to around 
+his baseline value of 26 at the time of discharge.  The patient 
+was also thrombocytopenic with relatively stable platelet counts 
+of 70 to 100 during his hospitalization.  His cyclosporine was 
+held in the hospital due to concerns over his acute renal 
+failure but restarted at the time of discharge.  He will follow 
+up with his regular hematologist, Dr. ___.     
+
+6) Diabetes Mellitus: The patient was maintained on sliding 
+scale insulin in the hospital with reasonable control of his 
+blood glucose.
+
+7) Peripheral Vascular Disease: The patient is status post 
+multiple peripheral vascular interventions with multiple bruits 
+appreciated on physical exam. Following his attempted 
+percutaneous VT ablation he was found to have a cold, pulseless 
+left foot that became mottled during the period there was a 
+sheath in place.  This exam improved with better color following 
+sheath removal but pulses could still not be found with doppler. 
+ Vascular surgery was consulted and chose to monitor given no 
+signs of active ischemia and over the next day pulse returned 
+and at discharge patient's foot at baseline with dopplerable but 
+not palpable pulses.  During this hospitalization Mr. ___ was 
+started on aspirin, clopidogrel, and statin therapy for his CAD, 
+but these medical measures should also help manage his PVD.  
+
+Mr. ___ was fed a cardiac, heart healthy diet in the 
+hospital.  He was kept on subcutaneous heparin for DVT 
+prophylaxis.  He was full code.  
+ 
+Medications on Admission:
+Folic Acid 1 mg PO daily
+Metoprolol Tartrate 50 mg PO BID
+Neooral 50 mg PO QAM and 25 mg PO QPM
+Nifedipine ER 30 mg PO daily
+ 
+Discharge Medications:
+1. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Isosorbide Dinitrate 20 mg Tablet Sig: Three (3) Tablet PO 
+TID (3 times a day).
+Disp:*270 Tablet(s)* Refills:*2*
+6. Hydralazine 25 mg Tablet Sig: One (1) Tablet PO every eight 
+(8) hours.
+Disp:*90 Tablet(s)* Refills:*2*
+7. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO BID (2 
+times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+8. Neoral 25 mg Capsule Sig: Three (3) Capsule PO once a day: 
+Please take two tablets each morning and one tablet each 
+afternoon. .
+Disp:*90 Capsule(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute Systolic Congestive Heart Failure
+Acute Kidney Injury on Chronic Kidney Disease
+Hypertension
+Ventricular tachycardia
+Aplastic Anemia
+
+ 
+Discharge Condition:
+Good, pain free, adequate O2 Sats on room air
+
+ 
+Discharge Instructions:
+You had strain on your heart and an irregular heart rhythm 
+called ventricular tachycardia. You had a procedure to try to 
+prevent the ventricular tachycardia but had an acute episode of 
+congestive heart failure during the procedure. You were 
+intubated and on a ventilator to help you breathe. Your kidneys 
+were not working well because of your heart but now are getting 
+better. Your heart is weak and not pumping as well as it should. 
+Please weigh yourself every day in the morning before eating and 
+call Dr. ___ is you have a weight gain of more than 3 pounds 
+in 1 day or 6 pounds in 3 days. Please also avoid salt in your 
+diet, you should not eat more than 2000mg per day.
+.
+You need to have a stress test in 2 weeks and see Dr. ___ in 6 
+weeks.  The ___ clinic will call you about setting up 
+this appointment with Dr. ___.  You also should have cardiac 
+rehabilitation that will help your heart be as strong as it can 
+be. 
+.
+Please stop smoking. Information was given to you on admission 
+regarding smoking cessation. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10199560-DS-16 | hadm_id=22434262
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+___ Complaint:
+SOB and CP
+ 
+Major Surgical or Invasive Procedure:
+Stress MIBI
+
+ 
+History of Present Illness:
+___ y.o. male with past medical history of CAD, MI in ___ s/p 
+PTCA at ___ as well as aplastic anemia, DM, HTN and severe PVD 
+which recent admission ___ for chest pain and found to 
+be in vtach (thought to be ___ scar), NSTEMI, and acute 
+decompensated CHF on the CCU service readmitted from home for 
+episode of sudden severe SSCP with dyspnea.
+.
+During his prior admission, he developed respiratory distress in 
+setting of fluid and blood, positioning in preparation for VT 
+ablation which was not successful. He had decreased episodes of 
+VT throughout his hospitalization.
+.
+Pt states he was feeling well since his last discharge with no 
+SOB or chest pain. The patient reports developing substernal 
+chest pain (not as bad as episode in ___ and SOB this AM at 
+approx 5am he got out of bed put on his clothes and sat in a 
+chair with worsening symptoms. The SOB was the main reason he 
+called his lifeline and was taken to the ED by EMS. He had 
+emesis x1 on the way to the ED. He denied arm pain, jaw pain, 
+nausea, and sweatiness.
+.
+IN ED, initial vitals were T98, HR81, 170/104, 30, 89% on 2L. 
+His SSCP resolved with 1 SL nitro in the ambulance. He was 89% 
+on 2L, given ___, lasix 40IV -> 1500ml fluid output. Started on 
+nitro gtt, put on CPAP, then titrated down to 99% on 2.5L. Trop 
+0.04. On transfer up to floor, the patient was on NTG drip at 
+.3mcg/kg/min. He was admitted for further monitoring.
+.
+On arrival to the ___ floor he is chest pain free and only SOB 
+when moving positions. 
+ 
+Past Medical History:
+1. Diabetes Mellitus type 2
+2. Hypertension
+3. Coronary Artery Disease s/p balloon angioplasty in ___
+4. Peripheral Vascular Disease s/p R fem-pop bypass in ___
+5. s/p right Carotid Endarterectomy in ___ left carotid
+artery completely occluded but asymptomatic
+6. s/p right ___ toe amputation in ___ 
+ 
+Social History:
+___
+Family History:
+There is no family history of premature coronary artery disease 
+or sudden death. 
+His mother and sister have diabetes mellitus type two. Many 
+members of his family have hyptertension. 
+
+ 
+Physical Exam:
+Physical exam on admission:
+Gen: WDWN middle aged male in NAD. Oriented x3. Mood, affect 
+appropriate.
+HEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva were pink, no 
+pallor or cyanosis of the oral mucosa. No xanthalesma.
+Neck: No JVD.
+CV: PMI located in ___ intercostal space, midclavicular line. 
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. + decreased breath 
+sounds at bases and mild crackles at lung bases L > R.
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by 
+palpation. No abdominial bruits.
+Ext: Cold. Right ___ toe amputation. Black on base of ___ toe on 
+the left. No c/c/e. + right femoral bruit.
+Skin: No stasis dermatitis, ulcers, or scars.
+Neuro: A & O x3, CN II-XII intact, UE reflexes +2, strength UE & 
+___ ___, sensation intact 
+ 
+Pertinent Results:
+Labs on admission ___:
+WBC-3.0* RBC-2.80* Hgb-9.7* Hct-27.9* MCV-100* MCH-34.6* 
+MCHC-34.8 RDW-19.0* Plt ___
+Glucose-304* UreaN-24* Creat-1.9* Na-126* K-4.8 Cl-94* HCO3-18* 
+AnGap-19
+Calcium-9.5 Phos-3.8 Mg-2.0
+Neuts-47.3* Lymphs-45.6* Monos-3.9 Eos-2.5 Baso-0.8
+___ PTT-27.0 ___
+.
+Cardiac labs:
+___ 05:35AM BLOOD CK(CPK)-61
+___ 05:10PM BLOOD CK(CPK)-95
+___ 06:08AM BLOOD CK(CPK)-70
+___ 06:20AM BLOOD CK(CPK)-38
+___ 05:35AM BLOOD cTropnT-0.04*
+___ 05:10PM BLOOD CK-MB-NotDone cTropnT-0.31* ___
+___ 06:08AM BLOOD CK-MB-NotDone cTropnT-0.34*
+___ 06:20AM BLOOD CK-MB-3 cTropnT-0.24*
+.
+Labs on discharge ___:
+WBC-3.4* RBC-2.56* Hgb-8.9* Hct-25.6* MCV-100* MCH-34.7* 
+MCHC-34.7 RDW-18.8* Plt ___
+Glucose-102 UreaN-40* Creat-1.8* Na-135 K-4.3 Cl-100 HCO3-23 
+AnGap-16
+Calcium-9.3 Phos-3.9 Mg-2.2
+.
+Cardiac Perfusion Persantine ___:
+INTERPRETATION:
+The image quality is adequate. There is mild soft tissue 
+attenuation.
+Left ventricular cavity size is markedly enlarged. The EDV is 
+299 ml. There is increased ventricular cavity size at stress 
+when compared to rest suggesting TID.
+Rest and stress perfusion images reveal a fixed severe reduction 
+in perfusion of the entire inferior wall. There is a fixed 
+moderate reduction in perfusion of the mid and basal segments of 
+the inferolateral and lateral walls. There is a mild reversible 
+reduction in perfusion of the mid and distal anterior septal 
+wall.
+Gated images reveal global hypokinesis.
+The calculated left ventricular ejection fraction is 20%.
+IMPRESSION: 1) Severe, moderate sized fixed defect of the 
+inferior wall. 2)
+Moderate, large fixed defect of the inferolateral and lateral 
+walls. 3) Mild, small reversible defect of the mid and distal 
+anterior septum. 4) Global hypokinesis. The ejection fraction is 
+20%. 5) TID suggesting multivessel disease. 
+.
+Stress ___:
+INTERPRETATION: This ___ year old type 2 IDDM man with a history 
+of
+CAD and LVEF of ___ was referred to the lab for evaluation 
+following
+recent NSTEMI and acute CHF. The patient was referred for a 
+functional
+study but due to his extremely limited physical ability it was 
+converted
+to a pharmacologic stress test. He was infused with 0.142 
+mg/kg/min of
+dipyridamole over 4 minutes. No arm, neck, back or chest 
+discomfort was
+reported by the patient throughout the study. There were no 
+significant
+ST segment changes from the baseline abnormalities during the 
+infusion
+or in recovery. The rhythm was sinus with occasional isolated
+polymorphic vpbs. Appropriate hemodynamic response to the 
+infusion.
+The dipyridamole was reversed with 125 mg of aminophylline IV.
+IMPRESSION: No anginal type symptoms or significant ST segment 
+changes.
+Nuclear report sent separately.
+.
+CXR ___:
+FINDINGS: Interval withdrawal of endotracheal tube and NG tube. 
+The cardiac
+silhouette is enlarged. Low lung volumes. Engorgement of the 
+pulmonary
+vasculature with bilateral pleural effusions and increased 
+interstitial
+opacity consistent with moderate pulmonary edema. There is no 
+pneumothorax.
+Retrocardiac opacity may represent a combination of atelectasis 
+and pleural
+effusions. A repeat study after appropriate treatment is 
+recommended to
+exclude pneumonia.
+.
+EKG on arrival to floor 14:29 demonstrated: Rate 61 rhythm 
+sinus, axis normal, QRS 4 boxes same as prior EKG, T wave 
+inversions in v1-v6 but more flat in v5-v6 than prior, more 
+biphasinin v1 & v2 and QRS morphology different than prior, no 
+ST elevations or depression.
+.
+Repeat EKG 16:09: deeper T waves in v2, v3 and downward Ts in 
+v1(were uprightin v1, v2 in ED department) but more consistent 
+with T waves from old EKG in ___ when pt had NSTEMI
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN:
+Patient is a ___ yo male with PMH CAD, MI in ___ s/p PTCA, 
+NSTEMI a few weeks ago, Vtach, aplastic anemia, DM, HTN, severe 
+PVD, systolic HF, admitted for SSCP and dyspnea. The pt was 
+found to have volume overload on CXR consistent with acute on 
+chronic systolic CHF.
+.
+#. CAD- The patient arrived on the floor with a nitro drip and 
+chest pain free.  He was chest pain free for the remained of his 
+admission.  He was easily weaned from the nitro drip. His EKGs 
+showed no ST elevations or depression.  He did have T wave 
+changes in the ED that were inconsistent with his most recent 
+EKGs but these reverted back to their previous morphology.  He 
+was continued on ___, b-blocker, and atorvastatin.  His 
+isosorbide dinitrate was held while on the nitro drip and was 
+then restarted. His cardiac enzymes were cycled and his 
+troponins were positive peaking at 0.34 but his CK and CKMB were 
+negative. He was not considered to have ruled in on the basis of 
+these troponins alone.  The patient has severe CAD based on his 
+echo and MIBI. His stress test showed no anginal type symptoms 
+and no significant ST segment changes.  
+His MIBI showed: 
+1) a Severe, moderate sized fixed defect of the inferior wall. 
+2) Moderate, large fixed defect of the inferolateral and lateral 
+walls. 
+3) Mild, small reversible defect of the mid and distal anterior 
+septum. 
+4) Global hypokinesis. His EF was 20%. 5) TID suggesting 
+multivessel disease. 
+.
+He was discharged with close follow up with Dr. ___.  
+.
+#. Pump - The patient had acute on chronic systolic CHF on 
+admission.  His BNP was 58396.  He was diuresed and responded 
+well to lasix 40 IV.  His EF was ___ on last admission and 
+his stress MIBI during this admission showed an EF of 20%. He 
+had no crackles on exam on admission. He was discharged home on 
+lasix 20mg PO daily, his home dose of b-blocker, daily weights, 
+and a low salt diet.
+.
+#. Rhythm: He had many episodes of VT at previous admission 
+likely secondary to previous myocardial scaring. He had only one 
+short run of 4 beats of Vtach on telemetry during this 
+admission.  He received substrate modification at his previous 
+admission and is not an ICD candidate based on his aplastic 
+anemia.
+.
+# Hyponatremia- His hyponatremia improved slowly during his 
+admission 126->129->131->131->135 and was resolved on discharge. 
+ His hyponatremia was likely due to hypervolemia and improved 
+with diuresis.
+.
+# Aplastic anemia: He has a history of aplastic anemia with a 
+baseline HCT of 27. His HCT was 25.6 on discharge.  He was 
+continued on his home dose of cyclosporine. 
+.
+CRF: He had an increased creatinine during his last admission 
+and it was 1.9 at the time of his last discharge.  His 
+creatinine was up to 2.3 on admission and was 1.8 on the day of 
+discharge.  Due to his acute on chronic renal failure he was not 
+started on lisinopril during this admission.
+.
+#. FEN: His lytes were aggressively repleted to K>4 and Mg>2 
+given his history of Vtach.  He was maintained on a 
+cardiac/heart healthy diet and was fluid restricted to 1.5 
+liters.
+.
+#. PPx: He was on heparin sc TID for DVT prophylaxis and placed 
+on a bowel regimen.
+.
+#. Dipso: He was seen by ___ prior to discharge due to concern 
+for deconditioning and he did not require home ___. 
+ 
+Medications on Admission:
+Folic acid 1mg daily
+Clopidogrel 75 PO daily
+___ 325 daily
+Atorvastatin 10mg PO daily
+Isosorbide Dinitrate 60mg PO TID
+Hydralazine 25mg PO q8hrs
+Metoprolol Tartrate 50mg (1.5 tab) PO BID
+Neoral 25mg (3 caps) PO daily
+Insacin (depending on when eat) 
+ 
+Discharge Medications:
+1. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Isosorbide Dinitrate 20 mg Tablet Sig: Three (3) Tablet PO 
+TID (3 times a day).  
+6. Hydralazine 25 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours).  
+7. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID 
+(2 times a day).  
+8. Cyclosporine Modified 25 mg Capsule Sig: Two (2) Capsule PO 
+QAM (once a day (in the morning)).  
+9. Cyclosporine Modified 25 mg Capsule Sig: One (1) Capsule PO 
+Q5PM ().  
+10. Insacin
+as per previous home regimen
+11. insacin
+as per previous home regimen
+12. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Acute on chronic systolic heart failure
+Acute Kidney Injury on Chronic Kidney Disease
+Hypertension
+Ventricular tachycardia
+Aplastic Anemia
+
+ 
+Discharge Condition:
+Stable no chest pain or shortness of breath.
+ 
+
+ 
+Discharge Instructions:
+You were admitted in congestive heart failure.   You were 
+diuresed with lasix.  You will be discharged on lasix.  You also 
+had chest pain but did not have a heart attack during this 
+admission.  You were sent for a stress MIBI test which showed 
+some areas of scar and one area of a small reversible defect.
+.
+New medications:
+Lasix 20mg PO daily.
+.
+All other home medications are the same.
+.
+For your heart failure:
+Weigh yourself every morning, call MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 1.5L
+Take your laxix every day
+.
+Please stop smoking. Information was given to you on admission 
+regarding smoking cessation. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10199560-DS-17 | hadm_id=24622638
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypoxia
+ 
+Major Surgical or Invasive Procedure:
+Central Venous Line x2
+Arterial Line
+ 
+History of Present Illness:
+This is a ___ with CAD, CHF, PVD, aplastic anemia (last 
+transfusion ___, and DM2, who presented to the ED after his 
+family called EMS for agonal breathing. He was intubated in the 
+field and brought to the ED. As he is intubated and sedated, 
+history is obtained from the ___ medical record and family.  
+
+In the ED, he was fighting the vent; he had poor peripheral 
+access, so a groin line was placed. While placing the groin 
+line, no femoral pulse was present and the rhythm on the bedside 
+monitor was wide complex. Epinephrine was given via ETT and once 
+venous access was obtained, CaCl2, bicarb, and insulin were 
+administered. He never received chest compressions, as 
+spontaneous circulation returned quickly (<45 seconds, according 
+to ED resident). He received kayexalate via OG tube. He is 
+receiving 2 units of PRBCs for Hct of 21. Vital signs at the 
+time of transfer were afebrile, pulse 120s, SBP 130s-140s, 
+vented with good O2 saturation.  
+
+ROS: Unable to obtain  
+
+ 
+Past Medical History:
+# Diabetes Mellitus type 2  
+# Hypertension  
+# Chronic Kidney Disease, Cr 1.6-1.9  
+# Coronary Artery Disease s/p balloon angioplasty in ___ & 
+NSTEMI in ___  
+# scar-mediated VT, s/p failed ablation  
+# aplastic anemia/MDS, Hct ___ & transfusion dependent (most 
+recent was ___ for Hct of 22.1); platelets usually 70-130k; 
+WBC usually 3.0-4.0k.  
+# Peripheral Vascular Disease s/p R fem-pop bypass in ___  
+# s/p right Carotid Endarterectomy in ___ left carotid 
+artery completely occluded but asymptomatic  
+# s/p right ___ toe amputation in ___  
+
+ 
+Social History:
+___
+Family History:
+His mother and sister have diabetes mellitus type two. Many 
+members of his family have hyptertension. 
+
+ 
+Physical Exam:
+On Presentation:
+
+Vitals: T:92.6 BP:133/83 HR:65 Vent: AC 600x14(24), 5 PEEP, 40% 
+FiO2 O2Sat: 99%  
+GEN: thin elderly male intubated, nonresponsive, after receiving 
+versed in the ED  
+HEENT: EOMI, PERRL 4-2mm and brisk, sclera anicteric, no 
+epistaxis or rhinorrhea, MMM, OP Clear  
+NECK: No JVD, carotid pulses brisk, no bruits, no cervical 
+lymphadenopathy, trachea midline  
+COR: RRR, no M/G/R, normal S1 S2, radial pulses doppler on R, 1+ 
+on Left, where there is a large hematoma  
+PULM: Lungs CTAB, no W/R/R  
+ABD: Soft, NT, ND, +BS, no HSM, no masses  
+EXT: No C/C/E, no palpable cords  
+NEURO: + gag, + corneals, but no withdrawal to pain/noxious 
+stimuli  
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses. 
+No petechiae  
+
+ 
+Pertinent Results:
+IMAGING:
+CT A/P: Prelim read:
+Limited noncontrast evaluation. Bilateral moderate pleural 
+effusions and 
+bibasilar consolidations likely representing aspiration in the 
+setting of 
+recent cardiac/respiratory arrest. Mild free abdominal fluid and 
+anasarca. 
+Large gallstone. No definite evidence for acute intra-abdominal 
+process.
+
+HEAD CT:
+No evidence of hemorrhage. Multifocal areas of cortical and 
+subcortical hypodensity represent chronic infarct, though 
+further evaluation with MRI may be pursued to evaluate for acute 
+or subacute components. 
+ 
+ECHo: 
+The left atrium is normal in size. No atrial septal defect is 
+seen by 2D or color Doppler. The estimated right atrial pressure 
+is ___. There is mild symmetric left ventricular 
+hypertrophy. The left ventricular cavity is moderately dilated. 
+No masses or thrombi are seen in the left ventricle. Overall 
+left ventricular systolic function is severely depressed (LVEF= 
+20 %) with akinesis of the inferior, infero-lateral, distal 
+LV/apical segments. Tissue Doppler imaging suggests an increased 
+left ventricular filling pressure (PCWP>18mmHg). The right 
+ventricular cavity is mildly dilated with moderate global free 
+wall hypokinesis. The aortic root is mildly dilated at the sinus 
+level. The ascending aorta is mildly dilated. The aortic arch is 
+mildly dilated. The aortic valve leaflets (3) are mildly 
+thickened but aortic stenosis is not present. No aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. Moderate to severe (3+) mitral regurgitation is seen. 
+The tricuspid valve leaflets are mildly thickened. The pulmonary 
+artery systolic pressure could not be determined. There is no 
+pericardial effusion. 
+
+ADMISSION LABS:
+-___ BLOOD WBC-3.2* RBC-1.83* Hgb-6.8* Hct-21.0* MCV-116* 
+MCH-37.1* MCHC-32.1 RDW-20.9* Plt Ct-28*#
+-___ BLOOD ___ PTT-90.5* ___
+-___ BLOOD FDP->1280*
+-___ BLOOD Glucose-235* UreaN-120* Creat-4.7* Na-142 K-5.7* 
+Cl-107 HCO3-10* AnGap-31*
+-___ BLOOD ALT-1592* AST-1808* LD(LDH)-2890* CK(CPK)-9394* 
+AlkPhos-147* TotBili-4.3* DirBili-2.6* IndBili-1.7
+-___ BLOOD CK-MB-60* MB Indx-0.6 cTropnT-1.14*
+-___ BLOOD Albumin-3.6 Calcium-10.2 Phos-10.6*# Mg-3.5*
+-___ BLOOD Hapto-<20*
+-___ BLOOD D-Dimer-8754*
+-___ BLOOD Cortsol-158.6*
+-___ BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG 
+Barbitr-NEG Tricycl-NEG
+-___ BLOOD pO2-502* pCO2-23* pH-7.05* calTCO2-7* Base 
+XS--___ BLOOD Glucose-GREATER TH Lactate-12.5* Na-134* K-6.3* 
+Cl-106 calHCO3-9*
+ 
+Brief Hospital Course:
+___ with multiple medical problems including DM2, CAD, CHF, 
+aplastic anemia, CKD, who presented to the ICU s/p respiratory 
+and cardiac arrests with hyperkalemia, acute on chronic renal 
+failure, and DIC. The exact nature of these events is unclear, 
+but he has had worsening renal function over the past week, 
+leading to electrolyte disturbances and possibly an 
+arrhythmogenic cardiac arrest with spontaneous return of 
+circulation prior to the arrival of EMS. On admission, patient 
+was intubated, unresponsive, in acute renal failure, liver 
+failure and had cardiac damage as evidenced by elevated cardiac 
+biomarkers. He was aggressively fluid recussitated, started on 
+broad spectrum antibiotics for presumed sepsis, transfused RBC's 
+and started on pressors for blood pressure support.  Heme/onc 
+was consulted and patient was determined to be in DIC.  Renal 
+was consulted and it was determined that renal replacement 
+therapy was not indicated.  
+
+Patient was maintained on vent, antibiotics and pressors but 
+continued to deteriorate with worsening renal function, no 
+improvement in respiratory status, and decreasing blood pressure 
+to systolics of 30 in spite of pressor support.  The decision 
+was made by his family to make patient comfort measures only.  
+He was started on a morphine drip for comfort, extubated and all 
+non-comfort medications were discontinued.  He expired on ___ 
+at 12:10pm. 
+
+ 
+Medications on Admission:
+Folic Acid 2 mg daily  
+Clopidogrel 75 mg daily  
+Aspirin 325 mg daily  
+pravastatin 10 mg daily  
+Isosorbide Dinitrate 60mg tid  
+Hydralazine 25 mg tid  
+Metoprolol Tartrate 75mg bid  
+furosemide 20mg daily  
+Neoral 50mg QAM and 25 mg QPM -- HELD for elevated Cr since 
+___  
+Procrit everyother week, started ___  
+novolin 70/30 insulin, unknown dose  
+
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+none
+
+ 
+Discharge Condition:
+Expired.
+ 
+Discharge Instructions:
+none
+ 
+Followup Instructions:
+___

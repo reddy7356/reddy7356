@@ -1,0 +1,307 @@
+===== DISCHARGE NOTE =====
+note_id=10936290-DS-10 | hadm_id=22666447
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Penicillins / Bactrim / Novocain / tomatoes / Peanut
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Lumbar stenosis
+ 
+Major Surgical or Invasive Procedure:
+Laminectomy L2-3
+
+ 
+History of Present Illness:
+see admit H&P
+ 
+Past Medical History:
+Osteoarthritis.
+Anxiety/depression with posttraumatic stress disorder (PTSD).
+Detached retina in ___.
+Atrial arrhythmia.
+Cataract surgery in ___.
+Carpal tunnel syndrome in ___.
+Squamous cell carcinoma, right upper lobe.
+Calcified granuloma in ___ treated with INH x 9 months.
+
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+see admit H&P
+ 
+Pertinent Results:
+___ 03:45PM   WBC-6.4 RBC-4.22 HGB-13.2 HCT-38.6 MCV-92 
+MCH-31.3 MCHC-34.2 RDW-13.5
+___ 03:45PM   PLT COUNT-216
+ 
+Brief Hospital Course:
+Patient underwent above mentioned procedure, tolerating it well. 
+ Post-op, pain was controlled with IV followed by Po meds.  ___ 
+was consulted for assistance with her care.  IV ABX were 
+continued for 24 hours post-op.  Diet was slowly advanced, and 
+Foley was discontinued as patient mobilized.
+
+Once pain was adequately controlled, and once stable medically, 
+she was deemed appropriate for transfer to rehab.
+ 
+Medications on Admission:
+see admit H&P
+ 
+Discharge Medications:
+1. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for fever, pain.  
+2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+3. diazepam 2 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for spasm.  
+4. diltiazem HCl 60 mg Capsule,Extended Release 12 hr Sig: One 
+(1) Capsule,Extended Release 12 hr PO DAILY (Daily) as needed 
+for SVT.  
+5. tramadol 50 mg Tablet Sig: ___ Tablets PO Q6H (every 6 hours) 
+as needed for pain.  
+6. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___ 
+___
+ 
+Discharge Diagnosis:
+Lumbar stenosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+1. Keep incision clean and dry.
+2. ___ shower, keep incision covered, then change dressing 
+afterwards
+3. No baths
+4. continue to ambulate as tolerated
+5. No bending, twisting, lifting > 10lbs
+Physical Therapy:
+No bending, twisting, lifting > 10 lbs.  Ambulate as tolerated.
+Treatments Frequency:
+Keep incision clean and dry.  ___ shower, keep incision covered, 
+change dressing afterwards.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10936290-DS-9 | hadm_id=25270617
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Penicillins / Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right middle lobe nodule.
+
+ 
+Major Surgical or Invasive Procedure:
+___: Video-assisted thoracoscopic right middle lobectomy 
+and mediastinal lymph node dissection.
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old, former smoker, who in ___ 
+had a small right lung nodule identified on a CXR  taken for an 
+acute URI. She had a Chest CT which demonstrated a 8-mm 
+ground-glass opacity in the anterior segment of the right upper 
+lobe - a CT scan in ___ showed no change in the size of
+the nodule and it was felt that this was possibly 
+bronchoalveolar carcinoma with indolent growth. Several interval 
+CT scans have been performed showing minimal interval growth of 
+the RML ground-glass solid lesion, with increase in the soft 
+tissue component, possibly BAC. In ___, she had another 
+repeat CT
+scan which showed no new nodules, the triangular mixed 
+ground-glass and semi-solid nodule in the RML measured 16 x 11 
+mm, compared to 15 x 10 mm in ___ and 11 x 9 mm in the 
+original study in ___. She was admitted for Right VATS wedge 
+resection with possible right middle lobectomy for the lesion. 
+ 
+Past Medical History:
+Osteoarthritis.
+Anxiety/depression with posttraumatic stress disorder (PTSD).
+Detached retina in ___.
+Atrial arrhythmia.
+Cataract surgery in ___.
+Carpal tunnel syndrome in ___.
+Squamous cell carcinoma, right upper lobe.
+Calcified granuloma in ___ treated with INH x 9 months.
+
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+VS: T: 99.2  HR: 76 SR  BP 116/74 Sats: 94% RA
+General: ___ year-old female in no apparent distress
+HEENT: normocephalic, mucus membranes moist
+Neck: supple no lymphadenopathy
+Card: RRR normal S1,S2, no murmur/gallop
+Resp: decreased breath sounds right faint crackles at base, left 
+clear
+GI: benign
+Extr: warm no edema
+Incision: Right VATs clean, dry, intact
+Neuro: non-focal
+ 
+Pertinent Results:
+___ WBC-11.0# RBC-4.21 Hgb-13.0 Hct-37.9 Plt ___
+___ Glucose-135* UreaN-26* Creat-0.8 Na-140 K-3.6 Cl-106 
+HCO3-23 
+___ Calcium-9.6 Phos-4.3 Mg-1.9
+
+CXR:
+IMPRESSION:  
+___
+1. Slight improvement in postoperative atelectasis in right mid 
+and lower 
+lung regions. No new opacities to suggest a new site of 
+infection. 
+2. Unchanged right apical pneumothorax and loculated right 
+pleural effusion.  
+___: Similar size to the right pneumothorax after removal 
+of chest 
+tube. 
+___: decrease in volume in the right lung consistent with 
+recent operative procedure. Right chest tube is still present 
+and there may be a tiny apical pneumothorax. The left base is 
+clear, consistent with improving effusion and atelectasis. Some 
+residual gas is seen in the subcutaneous tissues along the lower 
+lateral chest wall on the right. 
+___:
+There is decrease in right lung volume which along with surgical 
+
+sutures noted in that mid lung represents surgical changes. 
+There is a chest tube present in the right lung. There is a 
+small apical pneumothorax on the right. Bilateral small pleural 
+effusions along with compressive atelectasis are present. 
+Cardiomediastinal silhouette remains unchanged. 
+
+ 
+Brief Hospital Course:
+Ms. ___ was admitted following Video-assisted 
+thoracoscopic right middle
+lobectomy and mediastinal lymph node dissection. She was 
+extubated in the operating room, monitored in the PACU prior 
+transfer to the floor.
+
+Respiratory: incentive spirometer, ambulation she titrated off 
+oxygen with supplemental with oxygen saturations 94% on room air
+
+Chest tube: Right ___ drain to suction while in PACU, 
+water-seal on floor with small amount of serosanguinous 
+drainage.  The ___ was removed on ___ with residual small 
+right apical pneumothorax.
+
+Chest-film: serial chest films showed right lung volume loss 
+consistent with surgery, resolving left effusion and 
+atelectasis. 
+
+Card: immediate postoperative she was in sinus rhythm.  On POD2 
+she had a brief episode of atrial fibrillation which responded 
+to beta-blockers.
+
+GI: bowel regime and PPI 
+
+Nutrition: tolerated a regular diet
+
+Renal: normal renal function with good urine output
+
+Pain; Dilaudid PCA transition to PO pain medication with good 
+control
+
+Neuro: non-focal
+
+Disposition: ambulated in the halls continue to make steady 
+progress and was discharged to home on ___ on 
+beta-blockers.  She will follow-up with Dr. ___ as an 
+outpatient.
+
+ 
+Medications on Admission:
+FLUTICASONE - 50 mcg Spray BID
+ 
+Discharge Medications:
+1. Fluticasone 50 mcg/Actuation Disk with Device Sig: One (1)  
+Inhalation twice a day.  
+2. Oxycodone 5 mg Tablet Sig: ___ Tablets PO every ___ hours as 
+needed for pain for 2 weeks.
+Disp:*45 Tablet(s)* Refills:*0*
+3. Toprol XL 50 mg Tablet Sustained Release 24 hr Sig: One (1) 
+Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+4. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO every six 
+(6) hours as needed for pain.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Right middle lobe nodule.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Call Dr. ___ ___ if you experience:
+-Fever > 101 or chills
+-Increased shortness of breath, cough or sputum productin
+-Chest pain
+-Incision develops drainage
+-You may shower. No tub bathing or swimming until incision 
+healed.
+-Walk ___ times a day for ___ minutes to a goal of 30 minutes 
+daily.
+
+ 
+Followup Instructions:
+___

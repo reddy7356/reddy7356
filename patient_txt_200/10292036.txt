@@ -1,0 +1,408 @@
+===== DISCHARGE NOTE =====
+note_id=10292036-DS-14 | hadm_id=24930990
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right sided abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none 
+ 
+History of Present Illness:
+Patient is ___ year old female, otherwise healthy who fell off a 
+horse and was trampled underfoot. Patient was taken to an OSH 
+where she was found to have a grade ___ liver laceration and rib 
+fractures. She was hypotensive at the OSH. She was given 2 units 
+of PRBCs en route and transferred to ___. At ___ she had a 
+positive FAST. Her cervical spine and head CT were negative. She 
+was admitted to trauma icu for observation. 
+ 
+Past Medical History:
+PMH
+none
+
+PSH
+S/P ORIF right fenur post MVC ___
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+Temp:97 HR:81 ___ Resp:30 O(2)Sat:100% on 2 L nasal
+cannula Normal
+ 
+Constitutional: Anxious, uncomfortable boarded and collared
+HEENT: Normocephalic, atraumatic, Pupils equal, round and
+reactive to light, Extraocular muscles intact
+c-collar in place
+Chest: Clear to auscultation multiple abrasions over right
+anterior chest and abdomen
+Cardiovascular: Regular Rate and Rhythm, Normal first and
+second heart sounds
+Abdominal: To palpation in the right upper quadrant
+positive bowel sounds
+Rectal: Heme Negative normal rectal tone
+GU/Flank: No costovertebral angle tenderness
+Extr/Back: No cyanosis, clubbing or edema no step-offs or
+deformities no gross deformities moves all extremities
+Skin: No rash
+Neuro: Speech fluent GCS of 15
+Psych: Anxious
+ 
+
+ 
+Pertinent Results:
+___ 03:33PM BLOOD WBC-18.0* RBC-3.62* Hgb-11.1* Hct-30.8* 
+MCV-85 MCH-30.8 MCHC-36.2* RDW-13.8 Plt ___
+___ 07:58PM BLOOD WBC-20.8* RBC-3.92* Hgb-11.8* Hct-33.5* 
+MCV-86 MCH-30.2 MCHC-35.3* RDW-14.1 Plt ___
+___ 12:27AM BLOOD Hct-32.1*
+___ 02:09AM BLOOD WBC-16.8* RBC-3.80* Hgb-11.5* Hct-32.5* 
+MCV-86 MCH-30.4 MCHC-35.5* RDW-14.6 Plt ___
+___ 10:37AM BLOOD WBC-13.1* RBC-3.56* Hgb-10.7* Hct-30.6* 
+MCV-86 MCH-30.2 MCHC-35.1* RDW-14.8 Plt ___
+___ 04:07PM BLOOD WBC-12.2* RBC-3.12* Hgb-9.5* Hct-27.5* 
+MCV-87 MCH-30.5 MCHC-35.0 RDW-14.5 Plt ___
+___ 10:13PM BLOOD Hct-25.9*
+___ 03:28AM BLOOD WBC-14.4* RBC-3.02* Hgb-9.3* Hct-25.5* 
+MCV-85 MCH-30.8 MCHC-36.4* RDW-14.7 Plt ___
+___ 03:33PM BLOOD ___ PTT-25.9 ___
+___ 07:58PM BLOOD ___ PTT-23.8 ___
+___ 02:09AM BLOOD ___ PTT-23.2 ___
+___ 03:28AM BLOOD ___ PTT-23.3 ___
+___ 03:33PM BLOOD UreaN-13 Creat-0.8
+___ 07:58PM BLOOD Glucose-141* UreaN-12 Creat-0.7 Na-141 
+K-4.4 Cl-112* HCO3-24 AnGap-9
+___ 02:09AM BLOOD Glucose-128* UreaN-11 Creat-0.8 Na-141 
+K-4.4 Cl-111* HCO3-24 AnGap-10
+___ 04:38PM BLOOD Glucose-104* UreaN-10 Creat-0.6 Na-139 
+K-4.1 Cl-110* HCO3-24 AnGap-9
+___ 03:28AM BLOOD Glucose-93 UreaN-8 Creat-0.5 Na-132* 
+K-3.7 Cl-104 HCO3-23 AnGap-9
+___ 07:58PM BLOOD Calcium-7.3* Phos-4.3 Mg-1.8
+___ 02:09AM BLOOD Calcium-7.9* Phos-4.6* Mg-2.5
+___ 04:38PM BLOOD Calcium-7.5* Phos-1.8*# Mg-1.6
+___ 03:28AM BLOOD Calcium-7.5* Phos-1.5* Mg-1.7
+
+imaging:
+___ CT a/p  
+1. Grade V liver laceration involving the majority of the right 
+lobe with 
+sparing of the left lobe without evidence for active 
+extravasation. 
+2. Perihepatic and perisplenic hemorrhagic fluid tracking down 
+bilateral 
+paracolic gutters and compressing the intrahepatic inferior vena 
+cava.  
+3. Right basilar lung lacerations and contusions with multiple 
+tiny foci of pneumothorax and hemopneumothorax. 
+4. Nondisplaced T8 and T10 right rib fractures. 
+
+___ CT c-spine 
+No evidence for acute fracture or malalignment.
+
+___ CT head 
+Left frontal arachnoid cyst without evidence for acute 
+intracranial process. 
+
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to the ___ for observation, serial 
+hematocrits and abdominal exams.  Her hematocrit on admission 
+was 30 and remained in the ___ range.  She was made NPO, 
+hydrated with IV fluids and followed closely as operative 
+intervention was a strong possibility. She was maintained on 
+bedrest and remained hemodynamically stable.  Her abdominal pain 
+was due to hemoperitoneum as opposed to active bleeding. 
+
+Her pain control was initially with a Dilaudid PCA which was 
+generally effective.  The pain from her rib fractures precluded 
+her from using her incentive spirometry and deep breathing.  As 
+her hematocrit remained stable , her diet was advanced and 
+eventually oral pain medication was more effective.
+
+After three days in the Trauma ICU she transferred to the Trauma 
+floor for additional pulmonary toilet and to increase her 
+ambulation.  With the addition of Ultram and Tylenol to oral 
+Dilaudid, her pain was better controlled and she was able to do 
+more including use her incentive spirometer and ambulate.
+
+As she was gradually improving daily, she was discharged to home 
+on HOD #8 with a hematocrit of 29 and ambulating safely.
+ 
+Medications on Admission:
+OCP
+ 
+Discharge Medications:
+1. tramadol 50 mg Tablet Sig: One (1) Tablet PO QID (4 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. hydromorphone 2 mg Tablet Sig: ___ Tablets PO Q3H (every 3 
+hours) as needed for pain.
+Disp:*80 Tablet(s)* Refills:*0*
+3. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO at bedtime as needed for constipation.  
+4. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day: 
+hold for loose stool.  
+5. senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+S/P Fall off a horse and subsequently trampling
+1. Grade V liver laceration
+2. Hemoperitoneum
+3. Right lung laceration and contusion
+4. Right rib fractures 8 and 10
+5. Small right pneumothorax
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+* You were admitted to the hospital with multiple injuries after 
+being trampled by a horse. You sustained a severe liver 
+laceration along with a lung laceration with bruising and rib 
+fractures.
+
+* Your blood count was monitored closely and has been stable 
+since your transfer.  You required 2 blood transfusions prior to 
+your arrival here.  You still have abdominal pain probably from 
+the fluid which has collected in your abdomen as opposed to 
+active bleeding.
+
+*  Your injury caused right rib fractures 8 and 10 which can 
+cause severe pain and subsequently cause you to take shallow 
+breaths because of the pain.
+ 
+*  You should take your pain medication as directed to stay 
+ahead of the pain otherwise you won't be able to take deep 
+breaths. If the pain medication is too sedating take half the 
+dose and notify your physician.
+ 
+*  Pneumonia is a complication of rib fractures.  In order to 
+decrease your risk you must use your incentive spirometer 4 
+times every hour while awake.  This will help expand the small 
+airways in your lungs and assist in coughing up secretions that 
+pool in the lungs.
+ 
+*  You will be more comfortable if you use a cough pillow to 
+hold against your chest and guard your rib cage while coughing 
+and deep breathing.
+ 
+*  Symptomatic relief with ice packs or heating pads for short 
+periods may ease the pain.
+ 
+*  Narcotic pain medication can cause constipation therefore you 
+should take a stool softener twice daily and increase your fluid 
+and fiber intake if possible.
+ 
+*  Do NOT smoke
+ 
+*  If your doctor allows, non steroidal antiinflammatory drugs 
+are very effective in controlling pain ( ie, Ibuprofen, Motrin, 
+Advil, Aleve, Naprosyn) but they have their own set of side 
+effects so make sure your doctor approves.
+ 
+*  Return to the Emergency Room right away for any acute 
+shortness of breath, increased pain or crackling sensation 
+around your ribs ( crepitus ), increased abdominal pain, 
+dizziness, increased fatigue or any other symptoms that concern 
+you.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10292036-DS-15 | hadm_id=27100682
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right pleuritic chest pain and thrombocytosis
+ 
+Major Surgical or Invasive Procedure:
+___
+Right pleural pigtail catheter placement
+
+ 
+History of Present Illness:
+The patient is a ___ y/o F who was recently hospitalised at ___
+after fall from a horse on ___ with grade v liver lac and
+T8-T10 rib fractures.The patient was followed conservatively and
+discharged home on the ___.
+The patient was doing well in the interim and on ___, she
+visited her pcp who ___ her to go to the ER as she had
+an elevated platelet count.She underwent a chest xray and ct 
+scan
+in the ED at an OSH which showed some fluid in her right lung,
+according to the patient.She was then transferred to the ___
+for further evaluation.
+The patient says she continues to have pain over her Right lower
+rib cage. She denies any fever, chills, shortness of breath, or
+cough.
+ 
+
+ 
+Past Medical History:
+PMH
+1. Traumaticfall ___ with Grade V liver laceration and rib 
+fractures.
+
+PSH
+1. S/P ORIF right femur post MVC ___
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+Temp 99.6  HR 108  BP 124/80  RR 18  O2 sat 95% RA
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM:decreased breath sounds with crackles on RLL.
+ABD: Soft, nondistended, nontender, no rebound or guarding,
+normoactive bowel sounds, no palpable masses
+DRE: normal tone, no gross or occult blood
+Ext: No ___ edema, ___ warm and well perfused
+
+ 
+Pertinent Results:
+___ CXR :
+Comparison is made to previous study from ___. 
+  
+There is a marked increase in the right-sided pleural effusion 
+which extends 
+to the superior apex. Small amount of aerated lung is seen 
+within the right 
+upper lobe. This may represent pleural fluid or hemorrhage given 
+the clinical 
+history. The left lung appears grossly clear. 
+  
+___ Chest CT :
+Status post placement of a pigtail catheter at the right lung 
+base with trace residual pleural effusion. Associated peripheral 
+patchy 
+opacity could be related to re-expansion edema, hemorrhage or 
+infection. 
+  
+___ 9:22 am PLEURAL FLUID      PLEURAL FLUID. 
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Preliminary):    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+
+ 
+Brief Hospital Course:
+Ms. ___ was evaluated by the Trauma team in the Emergency Room 
+and based on her Chest Xray and thrombocytosis she was admitted 
+to the hospital for further evaluation.  Her WBC was 11K and her 
+platelet count was 1712.  She was made NPO and hydrated with IV 
+fluids.
+
+On ___ a pigtail catheter was placed in the right chest by 
+Interventional Radiology and 2 liters of bilious fluid was 
+removed.  The Thoracic service was also consulted in case 
+further surgical treatment was indicated.  The initial large 
+volume of fluid tapered off immediately and over the next ___ 
+hours the drainage was scant.  A repeat chest CT showed 
+resolution of the effusion and minimal right lower lobe 
+atelectasis. He chest tube was removed on ___ after 48 hours 
+of minimal output ___ cc). Patient was discharged home with 
+plans to follow up with ACS and her PCP. She understood that 
+there is a small possibility of recurrence in the future. 
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*1*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Bilothorax
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+* you were admitted to the hospital after your primary care 
+doctor noted am elevated platelet count which could be 
+indicative of infection.  you also had persistent right sided 
+pleuritic pain.
+* A chest CT documented a fluid collection which needed to be 
+drained.
+The drainage consisted of bile likely from your recent liver 
+laceration..
+* The drainage has been scant therefore the chest tube was 
+removed.  As discussed with Dr. ___, there is a chance that the 
+fluid could reaccumulate which would require placement of 
+another chest tube but we are hoping that will not be the case.
+* You should continue to eat a regular diet and stay well 
+hydrated.
+* Take your temperature twice daily for the next week.  If it is 
+greater than ___ you should return to the Emergency Room.  If 
+you have any increased pain, shortness of breath, fevers, chills 
+or anything that concerns you please call your doctor or return 
+to the Emergency Room.
+* You will take one baby aspirin daily until your follow up 
+appointment then further treatment will be discussed.
+ 
+Followup Instructions:
+___

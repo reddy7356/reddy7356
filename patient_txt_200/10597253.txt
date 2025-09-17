@@ -1,0 +1,142 @@
+===== DISCHARGE NOTE =====
+note_id=10597253-DS-9 | hadm_id=26837795
+
+ 
+Name:  ___                        Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+loss of fluid
+ 
+Major Surgical or Invasive Procedure:
+s/p postpartum hysterectomy, s/p massive blood transfusion
+
+ 
+History of Present Illness:
+___ yo G2P1 @ 41w3d with prior LTCS presents after clear LOF at 
+0200. She denies
+VB. She has irregular contractions. +FM.  Desires trial of 
+labor.
+
+ 
+Past Medical History:
+POBHx: G2P1
+- G1 LTCS ___ at 36w4d 5#3oz for breech, oligo, IUGR c/b
+intra-op hemorrhage from uterine atony requiring B-Lynch stitch. 
+pod#2 hct 34, no transfusions. Possible arcuate uterus per 
+operative note.
+- G2 current
+PGynHx: Denies STDs or abnl paps
+PMH: none
+PSH: LTCS
+
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+PE: 97.7 105/68 87 18
+Gen: NAD
+Abd: soft, gravid, NT, 7.5# EFW by ___
+SVE: 1-2/80/-2 ___ at 11:20 am
+FHT: 140, mod var, +accels, no decels
+Toco: q8 min
+
+ 
+Pertinent Results:
+___ 08:50AM   WBC-9.5 RBC-4.63 HGB-13.3 HCT-40.1 MCV-87# 
+MCH-28.7 MCHC-33.2 RDW-13.1 RDWSD-40.8
+___ 08:50AM   PLT COUNT-117*
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ G2P2 who presented with clear SROM, early 
+labor, GBS positive, and desire for trial of labor.  She 
+underwent pitocin and had successful VBAC that was complicated 
+by postpartum hemorrhage and DIC requiring hysterectomy. A 
+hysterectomy was required due to persistent hemorrhage despite 
+uterotonics, D&C, bakri balloon, B-lynch, and box stitch. 
+Massive transfusion protocol was required.  She had also 
+developed hives intraoperatively, which was thought to either be 
+due to a reaction to products received or possible AFE.  EBL was 
+4000mL.  Intraoperatively, total products received were 8 units 
+pRBCs (of which 1 unit was interrupted due to possible 
+transfusion reaction), ___ FFP, 3 platelets and 2 cryoprecipitate. 
+Please see operative note for full details.  
+
+She was admitted to the FICU postoperatively where she continued 
+to be monitored:
+- For the postpartum hemorrhage/DIC/hemorrhagic shock/blood loss 
+anemia, she received short course of pressors and additional 2 
+units of pRBCs.  Fibrinogen nadired to 82 and normalized later 
+pod#0.  After transfusion, hct remained stable at ___ without 
+any evidence of ongoing bleeding. In total over hospitalization, 
+pt received 9 to 10 units of PRBCs, 3 Platelets, 2 
+Cryoprecipitate, ___ FFP.
+- Presumed sepsis was managed with IV vancomycin and zosyn until 
+over 24hours afebrile. No source was identified while in the 
+hospital. Urine and blood cultures were all negative and WBC 
+normalized.
+
+Patient was extubated on pod#1 and transferred to the normal 
+postpartum floor on pod#2. By pod#2 patient was ambulating, 
+voiding spontaneously and had bowel movement.  She tolerated 
+POs, was encouraged to breastfeed and breastpump, and had 
+satisfactory pain control.  
+
+She was discharged on pod#6 in stable condition. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Prenatal Vitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Acetaminophen 1000 mg PO Q6H:PRN fever 
+2. Prenatal Vitamins 1 TAB PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice daily 
+Disp #*60 Capsule Refills:*2
+4. Ibuprofen 600 mg PO Q6H:PRN pain 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*50 Tablet Refills:*2
+5. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 4 hours Disp #*30 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+s/p vaginal birth after cesarean ___ 
+liveborn baby boy ___ 
+s/p postpartum hemorrhage/DIC/hemorrhagic shock, s/p 
+hysterectomy, s/p massive blood transfusion 
+blood loss anemia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+see nursing sheet
+no heavy lifting for 6 weeks
+
+ 
+Followup Instructions:
+___

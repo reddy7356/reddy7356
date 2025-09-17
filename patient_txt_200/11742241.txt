@@ -1,0 +1,3511 @@
+===== DISCHARGE NOTE =====
+note_id=11742241-DS-15 | hadm_id=20055259
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+unresponsiveness
+ 
+Major Surgical or Invasive Procedure:
+- intubation and extubation
+- fistulogram with balloon angioplasty and stenting of L arm 
+dialysis fistula
+- hemodialysis
+
+ 
+History of Present Illness:
+___ with T2DM, ESRD on HD, and HTN brought in by EMS for 
+unresponsiveness since ~1700. 
+
+EMS report indicates that per family pt has been sick for few 
+days with N/V. Was talking/at baseline this morning until at 
+least ~1700 hours. Initial vitals by EMS reported: ___ 94, SPO2 
+90% RA, HR 44. GCS 3. Pupils pinpoint. Skin Pink/hot/dry.
+- 12 Lead ECG reported as Sinus brady to 47 with 1st degree AV 
+block. No STE.
+- In ambulance BP 60/P, HR 44, SPO2 100% NRB, ETCO2 30, RR 28, 
+- OPA unsuccessful at first with gag reflex. Noticed decrease in 
+Resps and were then able to pass OPA.  
+- ___ intubation unsuccessful so gave etomidate/succinylcholine 
+and intubated on second try,
+- Gave Narcan 1mg to no affect
+- 2 PIVs 
+    
+In the ED, initial vitals were: HR42, BP 191/78. As per Nursing 
+Documentation, "dopa" stopped at ___ after this BP. ___ 17.
+Vitals at ___ show 93/66 p48.
+ 
+Initial EKG: Sinus brady w/ prolonged intervals QRS 106, QTC 530
+
+Exam Notable for: guaiac positive stool and OGT aspirate. 
+
+Labs notable for: 
+WBC 11.2, BUN/Cr 44/9.9. 
+CK negative. Trop 0.03
+Serum Tox negative
+ABG 7.40/50/132/32 BE 5
+Blood cultures x2 sent
+
+Imaging:
+CXR #1 Wet Read: R mainstem intubation with left lung white out. 
+
+CXR #2 
+1.  Low position of ET tube positioned 1.4 cm above the carina.  
+Please retract by at least 1 cm for more optimal positioning.   
+2.  NG tube tip just beyond the GE junction and can be advanced 
+for more optimal positioning.   
+3.  Aerated lungs post retraction of ET tube 
+
+CT-Head: No acute intracranial process
+
+Patient given:
+- 2 amps D50 and 5mg glucagon with improvement in mental status 
+- Vanc/Zosyn given because initially hypotensive
+- Initially on fentanyl/versed for sedation as pt tried to pull 
+out ET tube. Later switched to propofol. 
+
+Vitals on transfer were HR 45 BPs 180/90
+ 
+On arrival to the floor, patient intubated and on propofol. On 
+FiO2 80%, PEEP 5, Vt 420, Rate 14.
+ 
+REVIEW OF SYSTEMS: Complete ROS not possible but pt able to 
+indicate throat pain and nod No to CP, SOB, other pain.  
+
+Patient had recent admission ___ to ___ for 
+hypoglycemia in setting of possible resp. illness and poor PO 
+intake. Admission was complicated by intermittent, asymptomatic 
+hypoxia on room air despite HD: workup negative for PE, 
+pulmonary edema, pneumonia. found to have TBM on CT chest. 
+Treated for COPD exacerbation. Pulm was consulted and 
+recommended: outpatient PFTs, sleep study, Dynamic 9 inhalation 
+/ exhalation airway CT scan as outpatient, and pH study to 
+assess for GERD.
+
+ 
+Past Medical History:
+IDDM2 (dx ___ yrs ago), mult admissions for uncontrolled DM  
+ESRD on hemodialysis (M, W, F)  
+HTN  
+Hypercholestolemia  
+PSH:  
+Jump graft revision with thrombectomy of right  
+upper extremity AV graft ___  
+___ RUE AVG revision
+
+ 
+Social History:
+___
+Family History:
+father died of etoh-induced cirrhosis ___ y/o  
+mother died of pna at ___ y/o  
+grandmother had DM  
+5 siblings w/o DM  
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+GENERAL: Obese female awake and responding to verbal stimuli 
+intubated.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink.
+CARDIAC: S1, S2 distant with bradycardia. No m/r/g. No thrills, 
+lifts. No S3 or S4.  
+LUNGS: No chest wall deformities. Course breath sounds 
+anteriorly but B/L air entry 
+ABDOMEN: Soft, NTND. No masses palpable.
+EXTREMITIES: No c/c/e. No femoral bruits over R ABG stick. 
+Significant Left ankle deformity and poor hygeine to feet.
+PULSES:  Dopplerable x 4 extremities.
+NEURO: Mild drowsiness but follows basic commands. Comprehension 
+intact and answers yes/no questions with gestures appropriately. 
+Sensation and motor intact. Passed CAM assessment
+
+DISCHARGE EXAM:
+VS: 98.2 184/palp 62 ___ ___ 163 this AM (was 242 last night) 
+GENERAL: NAD, comfortable
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink. No elevation in JVP appreciated.  
+CARDIAC: S1, S2 distant with bradycardia in the ___. No m/r/g. 
+No thrills, lifts. No S3 or S4.  
+LUNGS: No chest wall deformities. b/l basilar crackles
+ABDOMEN: Soft, NTND. No masses palpable.  
+EXTREMITIES: No c/c/e. fistula L upper arm, s/p baloon opening 
+and stenting, with overlying ulcer at the site, now s/p duoderm 
+from transplant surgery. Significant Left charcot ankle 
+deformity and poor hygeine to feet with overgrown toenails R > 
+L.  
+NEURO: A+O x 3, able to do days of the week backwards
+ 
+Pertinent Results:
+___ 07:17PM BLOOD WBC-11.2* RBC-4.81 Hgb-11.7* Hct-39.8 
+MCV-83 MCH-24.3* MCHC-29.3* RDW-19.2* Plt ___
+___ 04:22AM BLOOD WBC-11.4* RBC-4.22 Hgb-10.2* Hct-34.8* 
+MCV-83 MCH-24.2* MCHC-29.3* RDW-19.5* Plt ___
+___ 04:22AM BLOOD Calcium-8.7 Phos-4.2 Mg-2.2
+___ 07:17PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 07:16PM BLOOD pO2-132* pCO2-50* pH-7.40 calTCO2-32* 
+Base XS-5
+___ 07:16PM BLOOD Glucose-300* Lactate-0.7 Na-136 K-6.2* 
+Cl-94* calHCO3-30
+
+BCx x 2 - no growth, final
+
+CT HEAD: FINDINGS:  There is no evidence of intracranial 
+hemorrhage, edema, shift of normally midline structures, 
+hydrocephalus, or infarction.  Mild prominence of the ventricles 
+and sulci are consistent with age-related involutional change.  
+Periventricular and subcortical white matter hypodensities are a 
+nonspecific finding that can be seen in the setting of chronic 
+small vessel ischemic disease.  Calcifications are noted of the 
+bilateral cavernous carotid arteries.  Mucosal thickening is 
+seen throughout multiple bilateral ethmoidal air cells as well 
+as within the maxillary sinuses, right greater than left.  
+Aerosolized secretions are also seen within the right maxillary 
+sinus.  There are fluid levels within both sphenoid sinuses.  
+Note is made of bilateral frontal sinus aplasia.  The mastoid 
+air cells are well aerated.  No suspicious 
+lytic or blastic lesions are identified. 
+IMPRESSION:  No acute intracranial process. 
+
+CXR IN ED: 1.  Low position of ET tube positioned 1.4 cm above 
+the carina.  Please retract by at least 1 cm for more optimal 
+positioning.   
+2.  NG tube tip just beyond the GE junction and can be advanced 
+for more 
+optimal positioning. 3.  Aerated lungs post retraction of ET 
+tube. 
+
+FISTULOGRAM, with ___ guided intervention  ___
+1. RUE graft aneurysm near the arterial anastomosis and into 2 
+smaller graft aneurysms near the venous anastomosis. 
+2. Complete occlusion of the right subclavian vein with 
+extensive collateralization, treated with angioplasty and 
+eventual stenting from a ___ approach. 
+3. Multiple intra-graft and right axillary stenoses treated with 
+balloon angioplasty 
+IMPRESSION: 
+High-grade central subclavian stenosis/occlusion  status post 
+successful stenting with a 14 mm x 80 mm stent. Multiple 
+intra-graft and axillary stenosis were successfully dilated with 
+angioplasty. The graft had a palpable following the procedure. 
+
+DISCHARGE LABS
+___ 06:21AM BLOOD WBC-8.0 RBC-3.46* Hgb-8.5* Hct-28.0* 
+MCV-81* MCH-24.5* MCHC-30.2* RDW-19.1* Plt ___
+___ 06:21AM BLOOD Glucose-119* UreaN-34* Creat-6.6*# 
+Na-132* K-4.9 Cl-93* HCO3-29 AnGap-15
+___ 06:21AM BLOOD Calcium-8.0* Phos-4.7* Mg-2.___ with IDDM2, HTN and ESRD on HD who presented with 
+unresponsiveness and hypoglycemia to 17. Intubated in the field 
+for concern of decreasing respirations and initially admitted to 
+the MICU.
+
+# Hypoglycemia/IDDM2: The patient gives a history of low PO 
+intake and nausea/vomiting the day of presentation (___). 
+Also, she has a history of poor understanding of insulin (recent 
+admission with severe hypoglycemia 1 month ago), and only recent 
+acquired a glucometer. She says she took her insulin in the 
+morning on ___ and then was not able to eat due to n/v. 
+Hypoglycemia to 17 likely the cause of AMS at presentation. 
+Hypoglycemia improved after glucose administration. The patient 
+was initially intubated in the field, but was quickly extuabed 
+in the MICU with return of normal mental status. Insulin regmin 
+was changed from home doses (70/30) to a regimin of long and 
+short acting insulin (lantus and humalog) at very low doses. She 
+was followed by ___ in house. She was seen by the ___ 
+teaching nurse as well as the PACT program in house. The 
+patient's daughter, who manages her insulin, was taught the new 
+insulin regimin extensively. The patient was arranged to set up 
+care with a PCP (she has no established care outpatient at this 
+time), who will manage her insulin outpatient. She was also set 
+to follow up with podiatry given poor nail hygeine. PACT program 
+will continue to follow this patient upon discharge.
+
+# L arm Fistula: On presentation the patient's L arm fistula was 
+noted to be very pulsitile, with abscence of a thrill. She got a 
+fistulogram and ___ guided balloon and stenting procedure on ___. 
+Got dialysis in house on a MWF schedule. Transplant surgery 
+evaluated an ulcer overlying the fistula and feels that 
+non-emergent surgical intervention will likely be required since 
+this area is an increased risk of bleeding. Duoderm placed over 
+the site, and the patient is to follow up with Transplant 
+surgery in 2 weeks..
+- Continue HD per schedule, avoid placing needles or silk tape 
+over the area of ulceration
+- Follow up in outpatient Access clinic in 1 week
+
+# Sinus Bradycardia: Rates down to ___ on admission, improved to 
+___ after extubation. Unclear if secondary to over beta-blockade 
+(as metoprolol was increased last admission), increased vagal 
+tone ___ hypertension, intrinsic SA node problem. However, 
+talking to the daughter it turned out the patient was not taking 
+metoprolol or clonodine at home, so these were held in the 
+hospital and not restarted at discharge given persistent 
+bradycardia to the ___.
+
+# Hypertension: Chronic and poorly controlled. Medications were 
+uptitrated last admission. Geting HD today, BP prior to AM meds 
+was elevated. Cont lisinopril, amlodipine. Held metoprolol and 
+clonidine for bradycardia and since patient was not taking them 
+at home. 
+- ___ need further BP control outpatient
+
+# ESRD on HD MWF: dialysis MWF. got dialysis in house
+- Continue sevelamer, vitamins, nephrocaps, Doxercalciferol 
+- cont Epo 6000 Units qHD 
+- the patient was counseled about the importance of not missing 
+HD sessions outpatient
+
+# Guaiac Positive Stools/OGT aspirate: No evidence of clinically 
+significant bleeding. H/H is above baseline, no bright red 
+blood, no melena, no longer hypotensive.  
+- Continue Famotidine for GERD and monitor for evidence of 
+bleeding
+- likely needs outpatient colonoscopy
+ 
+# Episodes of hypoxia last admission: Unclear etiology. Not 
+currently an active issue. Patient satting well on RA. CTA 
+negative for PE last admission but motion limited study. Stable 
+for now so will continue to monitor.
+
+# Mediastinal lymphadenopathy on CT scan 
+-should be followed by surveillance CT in 6 months. 
+
+# HLD: continue pravastatin, ASA
+
+# PPX: heparin
+
+# CODE: Full code 
+ 
+# CONTACT: ___ ___, ___ (granddaughter), 
+___ (uncle) 
+
+TRANSITIONAL ISSUES
+- It is very important for this patient to establish care with a 
+PCP who can manage her HTN and insulin
+- Continue HD per schedule, avoid placing needles or silk tape 
+over the area of ulceration on fistula
+- Follow up in outpatient Access clinic in 1 week
+- F/U with podiatry for diabetic foot care
+- Mediastinal lymphadenopathy on CT scan should be followed by 
+surveillance CT in 6 months. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 10 mg PO DAILY 
+Hold for SBP <100 
+2. Aspirin 81 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. Famotidine 20 mg PO DAILY 
+5. FoLIC Acid 1 mg PO DAILY 
+6. Pravastatin 20 mg PO DAILY 
+7. sevelamer CARBONATE 1600 mg PO TID W/MEALS 
+8. Vitamin B Complex 1 CAP PO DAILY 
+9. Nephrocaps 1 CAP PO DAILY 
+10. Lisinopril 10 mg PO DAILY 
+11. 70/30 20 Units Breakfast
+70/30 10 Units Dinner
+12. Clonidine Patch 0.2 mg/24 hr 1 PTCH TD QTUES 
+13. Metoprolol Succinate XL 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Glucose Tab ___ TAB PO PRN hypoglycemia 
+please give if the patient has a ___ glucose < 80 and/or has 
+symptoms of hypoglycemia 
+RX *dextrose  take ___ tablets by mouth as needed Disp #*16 
+Tablet Refills:*0
+2. Amlodipine 10 mg PO DAILY 
+Hold for SBP <100 
+3. Aspirin 81 mg PO DAILY 
+4. Docusate Sodium 100 mg PO BID 
+5. Famotidine 20 mg PO DAILY 
+6. FoLIC Acid 1 mg PO DAILY 
+7. Lisinopril 10 mg PO DAILY 
+8. Nephrocaps 1 CAP PO DAILY 
+RX *B complex-vitamin C-folic acid [Nephrocaps] 1 mg 1 
+capsule(s) by mouth daily Disp #*30 Capsule Refills:*0
+9. Pravastatin 20 mg PO DAILY 
+10. sevelamer CARBONATE 1600 mg PO TID W/MEALS 
+11. Vitamin B Complex 1 CAP PO DAILY 
+RX *B complex vitamins [B-Complex]   1 tablet(s) by mouth daily 
+Disp #*30 Tablet Refills:*0
+12. Glargine 1 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+RX *blood sugar diagnostic   use to check blood sugar four times 
+a day, before each meal and at bedtime Disp #*1 Box Refills:*0
+RX *insulin glargine [Lantus] 100 unit/mL use for long acting 
+insulin ___ Units before BED; Disp #*1 Vial Refills:*0
+RX *insulin lispro [Humalog] 100 unit/mL per sliding scale prior 
+to each meal Disp #*1 Vial Refills:*0
+RX *lancets   use to check blood sugar four times a day: before 
+each meal and prior to bedtime Disp #*1 Box Refills:*0
+RX *insulin syringe-needle U-100 [Insulin Syringe] 30 gauge x 
+___ use to give insulin as directed prior to each meal and 
+bedtime Disp #*90 Syringe Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Hypoglycemia
+Diabetes, type 2
+End stage renal disease on hemodialysis
+Arteriovenous Fistula Thrombosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you at ___ 
+___. You were admitted for low blood sugar and 
+unresponsiveness. You were intubated and admitted to the 
+intensive care unit, but improved and could be extubated. Your 
+blood sugar responded to glucose administration. Your insulin 
+regimen was changed to a more gentle regimen. It is important 
+that you stop using the insulin pen and the 70/30 insulin which 
+you were previously using before, and only use the new insulin 
+which we will prescribe at discharge (with long acting Lantus 
+and short acting Humalog). We will also send you home with 
+glucose pills in case your sugar is to become dangerously low 
+again.
+
+It is important that you take all medications as prescribed, and 
+keep all follow up appointments.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11742241-DS-21 | hadm_id=21908392
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cough, shortness of breath 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year old woman with history of
+paroxysmal atrial fibrillation on coumadin, prior bilateral
+centrum semiovale strokes with residual dysarthria and 
+completely
+dependent on others for ADLs, ESRD on HD (___),
+prior lisinopril-induced angioedema and HTN initially presenting
+to ___ with hypoglycemia (BG 36 in the field). ___ RN note, EMS was called to the patient's residence and 
+patient
+was subsequently found to be hypoglycemic and given dextrose 
+with
+repeat BS 120. However, EMS noticed patient O2 sat 87% on RA and
+she was subsequently placed on supplemental O2 (does not wear O2
+normally). Patient transferred to ___ for further management.
+
+Spoke with ___ over the phone about the events leading up
+to patient's hospitalization. Patient lives with other family
+members but per ___, patient had reduced po intake over the
+past week and had not been taking her pills (usually 
+administered
+by a ___ or family however she was refusing them). Patient also
+noted to be coughing and had been feeling her head with her hand
+though no temperature was taken. She reportedly had vomiting and
+diarrhea for the past week and given her overall malaise and
+weakness, family decided to call EMS.
+
+In the ___, initial VS were:  97.9 97 127/78 22 100% RA 
+Labs showed: WBC 14.6 Hgb 9.8 (MCV 71), Cr 2.9 (on HD), lactate
+1.8, Flu negative 
+Imaging showed:
+CT CHEST (___):  
+1. Complete occlusion of the left mainstem bronchus with near
+complete collapse of the left upper lobe due to filling of the
+bronchus with soft tissue density material, possibly reflective
+of mucous plugging, though a neoplastic lesion cannot be
+completely excluded on this noncontrast exam.  Correlation with
+bronchoscopy is recommended. 
+2. Small apical predominant left pleural effusion, suggesting
+loculation. 
+3. Subpleural solid nodules within the right lung measuring up 
+to
+6 mm, new from the prior exam.  See recommendations section 
+below
+regarding need for follow-up chest CT imaging. 
+4. Ground-glass centrilobular nodular opacities in the right
+lower lobe suggests small airways disease, either infectious or
+inflammatory in etiology. 
+5. Numerous enlarged mediastinal lymph nodes, which may be
+reactive. 
+6. Wedge-shaped hypodensity within the spleen, which may be due
+to prior infarction. 
+Consults: None 
+Patient received: 1 L NS, Vancomyin 1000 mg, Cefepime 2 g,
+Ketorolac 15 mg 
+Transfer VS were: HR 89 BP 136/61 RR 25 O2Sat 100% 2L NC  
+
+On arrival to the floor, patient reports having a cough for
+several weeks. She denies shortness of breath and does not use
+supplemental O2 at home. She denies fevers, chest pain,
+palpitations, abdominal pain, nausea, vomiting, or diarrhea. She
+does not make urine
+ 
+REVIEW OF SYSTEMS: 10 point ROS reviewed and negative except as
+per HPI  
+ 
+ 
+Past Medical History:
+IDDM2 (dx ___ yrs ago), multiple admissions for uncontrolled DM  
+
+ ESRD on hemodialysis (M, W, F)  
+ HTN  
+ Hypercholestolemia  
+ PSH:  
+ Jump graft revision with thrombectomy of right  
+ upper extremity AV graft ___  
+ ___ RUE AVG revision  
+
+ 
+Social History:
+___
+Family History:
+father died of etoh-induced cirrhosis ___ y/o  
+mother died of pna at ___ y/o  
+grandmother had DM  
+5 siblings w/o DM  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS: 97.7PO 98 / 49 92 20 100 2lnc  
+GENERAL: NAD, oriented to town, president, and hospital, not to
+month or year 
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM  
+NECK: supple
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: Decreased breath sounds in left lung field on anterior
+lung exam, no wheezing, rale, or rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose. ___ hand
+grip b/l; able to wiggle toes; sensation grossly intact
+bilaterally; dysarthric and difficult to understand; answer
+questions appropriately 
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+ 
+Pertinent Results:
+ADMISSION LABORATORY STUDIES
+===============================
+___ 08:05PM BLOOD WBC-14.6* RBC-4.59 Hgb-9.8* Hct-32.5* 
+MCV-71* MCH-21.4* MCHC-30.2* RDW-25.2* RDWSD-58.6* Plt ___
+___ 08:05PM BLOOD Neuts-91.3* Lymphs-4.8* Monos-3.2* 
+Eos-0.1* Baso-0.1 NRBC-0.2* Im ___ AbsNeut-13.32* 
+AbsLymp-0.70* AbsMono-0.46 AbsEos-0.01* AbsBaso-0.02
+___ 12:40AM BLOOD ___ PTT-32.9 ___
+___ 08:05PM BLOOD Glucose-93 UreaN-12 Creat-2.9*# Na-141 
+K-4.4 Cl-100 HCO3-30 AnGap-11
+___ 08:05PM BLOOD ALT-14 AST-16 AlkPhos-92 TotBili-0.5
+___ 08:05PM BLOOD Lipase-7
+___ 08:05PM BLOOD Albumin-1.8*
+___ 06:30AM BLOOD Calcium-7.3* Phos-1.8* Mg-1.7
+___ 06:30AM BLOOD %HbA1c-4.6 eAG-85
+___ 08:13PM BLOOD Lactate-1.8
+
+IMAGING/REPORTS
+===============================
+CXR:
+IMPRESSION:
+In comparison with the study of ___, there has been 
+total collapse of
+the left lung with displacement of mediastinal structures to 
+this side.  The
+right lung remains essentially clear.
+ 
+CT CHEST
+IMPRESSION:
+1. Complete occlusion of the left mainstem bronchus with near 
+complete
+collapse of the left upper lobe due to filling of the bronchus 
+with soft
+tissue density material, possibly reflective of mucous plugging, 
+though a
+neoplastic lesion cannot be completely excluded on this 
+noncontrast exam. 
+Correlation with bronchoscopy is recommended.
+2. Small apical predominant left pleural effusion, suggesting 
+loculation.
+3. Subpleural solid nodules within the right lung measuring up 
+to 6 mm, new
+from the prior exam.  See recommendations section below 
+regarding need for
+follow-up chest CT imaging.
+4. Ground-glass centrilobular nodular opacities in the right 
+lower lobe
+suggests small airways disease, either infectious or 
+inflammatory in etiology.
+5. Numerous enlarged mediastinal lymph nodes, which may be 
+reactive.
+6. Wedge-shaped hypodensity within the spleen, which may be due 
+to prior
+infarction.
+RECOMMENDATION(S):
+1. Bronchoscopy is recommended for further assessment of the 
+endobronchial
+soft tissue density.
+2. For incidentally detected multiple solid pulmonary nodules 
+measuring 6 to 8
+mm, a CT follow-up in 3 to 6 months is recommended in a low-risk 
+patient, with
+an optional CT follow-up in 18 to 24 months. In a high-risk 
+patient, both a CT
+follow-up in 3 to 6 months and in 18 to 24 months is 
+recommended.See the ___
+___ Guidelines for the Management of Pulmonary 
+Nodules
+Incidentally Detected on CT" for comments and reference:
+___
+ 
+Brief Hospital Course:
+Mrs. ___ was a ___ woman with a history of paroxysmal 
+atrial fibrillation, prior strokes with residual dysarthria, 
+dependent for ADLs, end-stage renal disease on dialysis who was 
+transferred from ___ with hypoglycemia and found 
+to be hypoxemic with near complete collapse of left upper lung.  
+
+
+Workup was notable for complete occlusion of the left mainstem 
+bronchus with near complete collapse of the left upper lobe due 
+to filling of the bronchus with soft tissue density that was 
+thought to be due to mucous plugging.  Her clinical status was 
+initially very reassuring.  She was asymptomatic with good 
+oxygen saturation on room air.  The case was discussed with 
+interventional pulmonology service.  After discussion with the 
+family regarding the potential treatment options, the patient 
+and family opted to pursue conservative measures with mucinex, 
+acapella valve, chest physical therapy, and treatment for 
+community-acquired pneumonia.  
+
+The following morning, the patient developed coughing after 
+taking her morning medications and then became unresponsive 
+without a pulse.  Attempts were made to perform the Heimlich 
+maneuver and the oropharnyx was examined for foreign body.  
+Despite these attempts, the patient passed away on ___ at 
+8:17AM (please see death note in OMR).  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. Atorvastatin 80 mg PO QPM 
+3. Clonidine Patch 0.1 mg/24 hr 1 PTCH TD QMON 
+4. HydrALAZINE 50 mg PO Q8H 
+5. Losartan Potassium 100 mg PO DAILY 
+6. Warfarin 3 mg PO DAILY16 
+7. Pantoprazole 20 mg PO Q24H 
+
+ 
+Discharge Medications:
+Deceased
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Deceased
+ 
+Discharge Condition:
+Deceased
+ 
+Discharge Instructions:
+Deceased
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11742241-DS-12 | hadm_id=22090526
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+AV fistula eval 
+ 
+Major Surgical or Invasive Procedure:
+Hemodialysis 
+
+ 
+History of Present Illness:
+___ y.o woman with DM, ESRD here for eval of AV fistula from 
+___ clinic due to scab on fistula. Currently not safe to 
+access for dialysis, last dialysis ___.  
+.  
+Pt from ___ (dialysis) in ___. Has had scab developing 
+over cath site for 3 weeks. Was sick on ___, missed dialysis 
+(misses at least once a week), went today, gave pt her heparin, 
+attached pt to dialysis machine and then decided that the scab 
+warranted further eval. Pt did not receive dialysis.  
+.  
+In the ED, initial VS were: 97.9 72 203/66 18 94. Labs sig for 
+BUN/Cr 48/11.4, WBC 6.8 82%N. Transplant surgery was consulted 
+and fistula cleared for use by Dr ___. No studies performed. 
+Pt admitted for nonurgent dialysis.  
+Vitals on transfer were 97.7, 173/77, 66, 18, 98% RA.  
+.  
+On the floor, pt feeling well, has no complaints. Does report 
+recent cold with cough, white sputum, no fevers.  
+
+ 
+Past Medical History:
+IDDM2 (dx ___ yrs ago), mult admissions for uncontrolled DM  
+ESRD on hemodialysis (M, W, F)  
+HTN  
+Hypercholestolemia  
+PSH:  
+Jump graft revision with thrombectomy of right  
+upper extremity AV graft ___  
+
+ 
+Social History:
+___
+Family History:
+father died of etoh-induced cirrhosis ___ y/o  
+mother died of pna at ___ y/o  
+grandmother had DM  
+5 siblings w/o DM  
+
+ 
+Physical Exam:
+Vitals: 96.2, 174/80, 67, 22, 92% RA  
+General: Alert, oriented, no acute distress, eating, 
+intermittent cough  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Left lower lobe crackles  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema, fistula on right with old appearing scab, no oozing.  
+Neuro: A+ox 3, answers question and follows directions 
+appropriately  
+ 
+Pertinent Results:
+On admission:
+___ 08:30PM BLOOD WBC-6.8 RBC-5.31 Hgb-12.4 Hct-43.8 MCV-83 
+MCH-23.4* MCHC-28.4* RDW-19.7* Plt ___
+___ 08:30PM BLOOD Plt ___
+___ 08:30PM BLOOD Glucose-110* UreaN-48* Creat-11.2*# 
+Na-142 K-5.0 Cl-99 HCO3-28 AnGap-20
+.
+On discharge:
+___ 07:00AM BLOOD WBC-7.0 RBC-4.95 Hgb-11.6* Hct-40.4 
+MCV-82 MCH-23.4* MCHC-28.7* RDW-19.3* Plt ___
+___ 07:00AM BLOOD Plt ___
+___ 07:00AM BLOOD Glucose-102* UreaN-52* Creat-11.9* Na-142 
+K-5.5* Cl-102 HCO3-25 AnGap-21
+___ 07:00AM BLOOD Calcium-8.2* Phos-5.3*# Mg-2.3
+ 
+Brief Hospital Course:
+Ms. ___ is a pleasant ___ yo F with DM, ESRD, who was sent to 
+the ___ ED after missing several sessions of HD due to 
+noncompliance and requiring fistula eval. She was admitted on 
+___, and discharged on ___. Her brief hospital course 
+was notable for:  
+.  
+# ESRD: Pt had not received HD since ___ (4 days) and was not 
+be able to receive as outpt until ___ given long ___ 
+___. At the time of admission, there was no urgent 
+indication for HD, but she needed to be dialysed as inpt. At the 
+time of presentation there was concern about the status of her 
+AV fistula, as it appeared to have some scarring over it, and 
+there was uncertainty regarding whether or not it could be used. 
+The fistula was evaluated by transplant surgery who felt that it 
+was safe for use. She underwent hemodialysis as an inpatient 
+which was tolerated well. The Pt was discharged to continue her 
+regular HD schedule. No changes were made to her outpatient 
+medication regimen.
+.
+# Dislocated foot: Pt was noted to have a foot that appeared 
+dislocated, which she reports was not painful and had been that 
+way for many years. Since this was not considered an acute 
+issue, she was given information about the outpatient ___ 
+clinic and encouraged to follow-up with them for evaluation
+.
+All other chronic medical issues for this patient were stable 
+during this hospitlization. She was discharged to home in good 
+condition, in a wheelchair, with stable vital signs, s/p 
+hemodialysis.
+
+ 
+Medications on Admission:
+ASA 81  
+Ca Carb 1 tab TID with meals  
+Clonidine 0.2mg ___  
+Colace 200mg qd  
+Folic acid 1mg daily  
+NPH 20U qAM  
+Meotprolol 50mg BID  
+Amlodipine 10mg daily  
+Famotidine 20mg daily  
+Pravachol 20mg daily  
+Renagel 1600mg with meals  
+Vit B complex daily  
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. Calcium Carbonate 500 mg Tablet, Chewable Sig: Two (2) 
+Tablet, Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).  
+3. Docusate Sodium 100 mg Capsule Sig: Two (2) Capsule PO DAILY 
+(Daily).  
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+5. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+6. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+7. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 
+hours).  
+8. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. B Complex Vitamins     Capsule Sig: One (1) Cap PO DAILY 
+(Daily).  
+10. Clonidine 0.2 mg/24 hr Patch Weekly Sig: One (1) Patch 
+Weekly Transdermal QWED (every ___.  
+11. Sevelamer Carbonate 800 mg Tablet Sig: Two (2) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+12. Humulin N 100 unit/mL Suspension Sig: Twenty (20) units 
+Subcutaneous qAM.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: AV fistula evaluation, need for hemodialysis
+Secondary: Diabetes Mellitus, end stage renal disease, 
+hypertension, hypercholesterolemia
+
+ 
+Discharge Condition:
+AOX3, wheelchair bound, alert, no acute distress, 
+hemodynamically stable vital signs, afebrile
+
+ 
+Discharge Instructions:
+You were admitted to the ___ on 
+___ after you were sent for evaluation of your AV fistula 
+from your ___ clinic. Your AV fistula was evaluated and was 
+determined to be safe to use. You received hemodialysis today 
+and tolerated it well. You are now being discharged to home in 
+good condition on ___. It was a pleasure participating in 
+your medical care.
+.
+We are not making any changes to your outpatient medication 
+regimen. Please continue to take all outpatient medications as 
+you had been prior to this admission.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11742241-DS-10 | hadm_id=22297243
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+Chief Complaint:
+fever
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ yo F w/ DM, ESRD on HD (___), presents with acute onset F/C 
+with T > 102 at dialysis yesterday. Patient was recently 
+discharged with fever ___ right ___ cellulitis and discharged to 
+be on both Ceftaz and Vanc, both to be dosed at HD.  
+.  
+She reports that she still isn't feeling well since her DC in 
+___. She continues to have intermittent chills, without 
+fevers and also continues to have nausea and daily vomiting, 
+initially attributed to gastroenteritis. She also reports that 
+she's been having nonbloody diarrhea for the past 2 days 
+associated with preceeding cramping, that is then relieved with 
+a BM. With regards to her RLE cellulitis, she reports that it's 
+gotten better and has decreased in size. She reports that it's 
+nontender. She denies any CP or SOB associated with her RLE 
+swelling. She is currently smoking.  
+.  
+Of note she was recently admitted ___ and noted to 
+have fevers and cellulitis requiring MICU stay. Patient was 
+initially treated with vanc ans zozyn, and then discharged to be 
+given vanc and ceftaz at HD.  
+.  
+In the ED, here Temp was initially 103 and after Tylenol and 
+flagyl is was 100.4. She was also given a dose of vancomycin for 
+a subtherapeutic level (13.9) prior to arrival to the floor.  
+.  
+On the floor, the patient is afebrile and continues to have 
+diahrrea.  
+
+ 
+Past Medical History:
+IDDM2 (dx ___ yrs ago), mult admissions for uncontrolled DM  
+ESRD on hemodialysis (M, W, F)  
+HTN  
+Hypercholestolemia  
+ 
+Social History:
+___
+Family History:
+father died of etoh-induced cirrhosis ___ y/o  
+mother died of pna at ___ y/o  
+grandmother had DM  
+5 siblings w/o DM  
+
+ 
+Physical Exam:
+Vitals - T:100.7 98.0 150/78 82 20 98%2L ___ 135  
+GENERAL: laying in bed, NAD  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+HEENT: AT/NC, EOMI, PERRLA, anicteric sclera, pale conjunctiva, 
+patent nares, dry MM, good dentition, supple neck, no LAD, no 
+JVD  
+CARDIAC: RRR, S1/S2, no mrg  
+LUNG: CTAB  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+M/S: obvious old fracture of L ankle, R>L swelling w/ 
+right-sided slight erythema and healing scaled on RLE, 1+ 
+pitting edema in RLE, nontender to palpation in either ___, 1+ 
+bipedal edema, moving all extremities well  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact  
+
+ 
+Pertinent Results:
+___ 06:30PM BLOOD WBC-13.2*# RBC-3.74* Hgb-9.1* Hct-29.4* 
+MCV-79* MCH-24.4* MCHC-31.1 RDW-17.6* Plt ___
+___ 04:35AM BLOOD WBC-8.1 RBC-3.15* Hgb-7.4* Hct-24.3* 
+MCV-77* MCH-23.5* MCHC-30.6* RDW-18.2* Plt ___
+___ 06:30PM BLOOD Neuts-81* Bands-3 Lymphs-14* Monos-2 
+Eos-0 Baso-0 ___ Myelos-0
+___ 05:35AM BLOOD ___ PTT-28.5 ___
+___ 06:30PM BLOOD Glucose-64* UreaN-7 Creat-2.6*# Na-133 
+K-7.5* Cl-93* HCO3-32 AnGap-16
+___ 04:35AM BLOOD Glucose-85 UreaN-15 Creat-4.6*# Na-135 
+K-3.8 Cl-97 HCO3-30 AnGap-12
+___ 05:35AM BLOOD Calcium-7.5* Phos-2.4* Mg-1.7
+___ 04:25AM BLOOD calTIBC-117* Ferritn-1128* TRF-90*
+___ 04:25AM BLOOD Albumin-2.3* Calcium-8.1* Phos-3.6 Mg-1.8 
+Iron-29*
+.
+___ 12:19 am STOOL     CONSISTENCY: SOFT
+
+                            **FINAL REPORT ___
+
+   CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Final ___: 
+      REPORTED BY PHONE TO ___ ON ___ AT 0730. 
+      CLOSTRIDIUM DIFFICILE. 
+         FECES POSITIVE FOR C. DIFFICILE TOXIN BY EIA. 
+           (Reference Range-Negative). 
+         A positive result in a recently treated patient is of 
+uncertain
+         significance unless the patient is currently 
+symptomatic
+         (relapse). 
+
+.
+UNILAT LOWER EXT VEINS RIGHT  ___ 7:51 AM
+
+UNILAT LOWER EXT VEINS RIGHT
+
+Reason: assess for DVT 
+
+UNDERLYING MEDICAL CONDITION:
+___ year old woman with ___ swelling and fevers 
+REASON FOR THIS EXAMINATION:
+assess for DVT 
+HISTORY: ___ female with lower extremity swelling and 
+fevers. Please assess for DVT.
+
+FINDINGS: Grayscale, color and pulse wave Doppler sonograms were 
+performed on the right common femoral, superficial femoral, and 
+popliteal veins. Normal flow, compressibility, waveforms and 
+augmentation is demonstrated. No intraluminal thrombus is 
+identified. Prominent lymph nodes are again identified within 
+the right groin, not significantly changed from prior ultrasound 
+of ___.
+
+IMPRESSION: No evidence of DVT in the right lower extremity. 
+Unchanged right inguinal lymph nodes.
+.
+CHEST (PORTABLE AP)  ___ 7:57 ___
+
+CHEST (PORTABLE AP)
+
+Reason: ___ year old woman with fever; please evaluate for PNA. 
+
+UNDERLYING MEDICAL CONDITION:
+___ year old woman with fever; please evaluate for PNA. 
+REASON FOR THIS EXAMINATION:
+___ year old woman with fever; please evaluate for PNA. 
+INDICATION: ___ woman with fever. Please evaluate for 
+pneumonia.
+
+Comparison is made to the prior study of ___.
+
+AP UPRIGHT RADIOGRAPH OF THE CHEST: There are low lung volumes 
+bilaterally and there is elevated right hemidiaphragm. The 
+cardiac silhouette is moderately enlarged and the pulmonary 
+vascular congestion is unchanged. No focal consolidation, 
+pleural effusion or pneumothorax is visualized. The osseous 
+structures of the thorax appear normal.
+
+IMPRESSION: No acute intrathoracic pathology including no 
+pneumonia.
+
+ 
+Brief Hospital Course:
+___ ESRD on HD, recently discharged and currently taking 
+Vancomycin +/- Ceftazidime for RLE cellulitis, sent from HD with 
+fevers & chills, c.diff positive stool.  
+.   
+#:Fevers:Patient has been on antibiotics for cellulitis for over 
+two weeks. She developed recent onset of diahhrea which was 
+found to be C.Diff +. She was started on flagyl and her fever 
+resolved by the following morning.  her diahrrea resolved within 
+two days. She was instructed to continue flagyl for a week after 
+her vancomycin and ceftazidime were discontinued.
+.  
+#. Cellulitis: The patient's leg was still erythemetous, 
+swollen, and warm. The patient reported her leg is much improved 
+after two weeks of vancomycin and ceftazidime. DVT was not 
+detected on LENIS.  She was discharged with instructions to 
+continue antibiotics for one more week, and to follow-up with 
+her PCP later in the week.  
+.  
+#. ESRD: The patient underwent her scheduled hemodialysis 
+sessions. her antibiotics were dosed at hemodialysis.  
+Nephrocaps were added.   
+
+ 
+Medications on Admission:
+Insulin NPH 30 Units qAM  
+Amlodipine 10mg PO DAILY  
+Clonidine 0.2 mg/24 hr Patch ___  
+Metoprolol 25 qd  
+Pravastatin 20 mg PO DAILY  
+Aspirin 325 mg PO DAILY  
+Sevelamer 800 mg PO TID  
+B-Complex with Vitamin C 1 tab po qday  
+Folic Acid 1 mg PO DAILY  
+Sodium Bicarbonate 650 mg PO DAILY  
+Ascorbic Acid ___ mg PO DAILY  
+Famotidine 20mg PO DAILY PRN  
+Docusate Sodium 100 mg po bid  
+
+ 
+Discharge Medications:
+1. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 3 weeks: To be continued for 2 weeks after last 
+antibiotic is discontinued.
+Disp:*90 Tablet(s)* Refills:*0*
+2. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+3. Clonidine 0.2 mg/24 hr Patch Weekly Sig: One (1) Patch Weekly 
+Transdermal QMON (every ___.  
+4. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+5. Pravastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+6. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+7. Ascorbic Acid ___ mg Tablet, Chewable Sig: Two (2) Tablet, 
+Chewable PO DAILY (Daily).  
+8. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+9. Famotidine 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice 
+a day.  
+11. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily) for 1 months.
+Disp:*30 Cap(s)* Refills:*0*
+12. Vancomycin
+per level, to be dosed at dialysis, for 1 additional week
+13. Ceftazidime
+1g IV at dialysis for 1 additional week
+14. Insulin
+NPH 30 units qam, in addition to sliding scale.
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+C.Difficile Colitis
+.
+Secondary
+Cellulitis
+ESRD
+
+ 
+Discharge Condition:
+Good
+98.6 132/68 132/65  65 20 96%RA
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with fever. You were found to 
+have an infection of your colon, which is believed to be causing 
+your fever. You will be sent home on a course of antibiotics to 
+treat this infection. 
+.
+please start taking Flagyl. You should continue taking this 
+medication  until two weeks after discontinuation of vancomycin 
+and ceftazidime. Please follow up with your PCP this week to 
+decide when to discontinue these two antibiotics.
+.
+Please return to the hospital or call your doctor if you 
+experience chest pain, shortness of breath, bleeding, worsening 
+diahrrea, or fever
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11742241-DS-17 | hadm_id=22316570
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Clotted AV Fistula
+ 
+Major Surgical or Invasive Procedure:
+___, fistulagram, stent placement, balloon 
+angioplasty of RUE brachiocephalic AV fistula
+
+ 
+History of Present Illness:
+___ female w/ ESRD, on HD TTSa, DM, HTN, HLD, afib (not on 
+AC), and recent stroke ___ who presents from HD w/ recurrence 
+of thrombosed RUE graft. Last HD ___ while admitted for 
+thrombosed graft at OSH (___), did not go to her 
+HD session this past ___, showed upto HD today. No chest 
+pain or palpitations. No SOB. Call in to ED does note 
+nonadherance, pt only comes to HD for ___ txs/week. Pt also 
+reports productive cough since she got her flu shot, maybe a 
+month ago, white sputum, no f/c, no SOB. No n/v, no abd pain, no 
+diarrhea. Does not make urine. Saw PCP 1 month ago.  
+In the ED, initial vitals were: 98.1 72 169/84 18 99%  
+-Pt was given insulin/dextrose, keyexelate.  
+-Labs notable for Cr 9.7, K 6.o now s/p treatment.  
+-Exam notable for a lack of palpable thrill at graft site.  
+-EKG: afib @ 70, na/ni, no peaked t waves, unchanged from prior  
+
+-No imaging and no micro.  
+-Plan per multiple specialities while in ED, thrombectomy 
+tomorrow, manage K medically.  
+On transfer, VS were: 98 58 118/63 16 100% RA  
+
+ 
+Past Medical History:
+IDDM2 (dx ___ yrs ago), multiple admissions for uncontrolled DM  
+
+ESRD on hemodialysis (M, W, F)  
+HTN  
+Hypercholestolemia  
+PSH:  
+Jump graft revision with thrombectomy of right  
+upper extremity AV graft ___  
+___ RUE AVG revision
+
+ 
+Social History:
+___
+Family History:
+father died of etoh-induced cirrhosis ___ y/o  
+mother died of pna at ___ y/o  
+grandmother had DM  
+5 siblings w/o DM  
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+VS - 99.1 179/75 60 18 93% on RA
+General: NAD, AAOx3, hunched over to left side lying in bed, 
+coughing intermittently
+HEENT: EOMI, anicteric sclerae 
+Neck: trachea midline 
+CV: S1, S2, RRR, no m/r/g 
+Lungs: Decreased BS R lung base compared with left,  
+Abdomen: Soft, NT/ND  
+GU: Deferred 
+Ext: RUE brachiocephalic fistula with no thrill, non-tender, L 
+ankle fracture malunion several years ago, non-tender, DP pulse 
+palpable, no cyanosis, clubbing, or edema 
+Neuro: MAE's antigravity, slurred speech, left sided facial 
+droop appreciated 
+Skin: No rashes noted  
+
+DISCHARGE EXAM:
+VS: 97.8 117/82 68 18 92% on RA
+General: NAD, AAOx3
+HEENT: EOMI, anicteric sclerae 
+Neck: trachea midline 
+CV: S1, S2, RRR, no m/r/g 
+Lungs: Decreased BS B/L lung bases 
+Abdomen: Soft, NT/ND  
+GU: Deferred 
+Ext: RUE brachiocephalic fistula with palpable thrill, 
+non-tender, L ankle fracture malunion several years ago, 
+non-tender, DP pulse palpable, no cyanosis, clubbing, or edema 
+Neuro: MAE's antigravity, slurred speech, left sided facial 
+droop appreciated 
+Skin: No rashes noted  
+
+ 
+Pertinent Results:
+ON ADMISSION:
+
+___ 01:58PM   K+-6.0*
+___ 01:55PM   GLUCOSE-91 UREA N-63* CREAT-9.7*# SODIUM-130* 
+POTASSIUM-7.8* CHLORIDE-97 TOTAL CO2-18* ANION GAP-23*
+___ 01:55PM   WBC-7.5 RBC-3.67* HGB-8.8* HCT-29.6* MCV-81* 
+MCH-23.8* MCHC-29.6* RDW-22.2*
+___ 04:38AM BLOOD WBC-5.9 RBC-2.56* Hgb-6.0* Hct-20.1* 
+MCV-78* MCH-23.6* MCHC-30.1* RDW-21.9* Plt ___
+
+ON DISCHARGE:
+
+___ 04:38AM BLOOD Glucose-73 UreaN-32* Creat-5.3*# Na-136 
+K-4.1 Cl-99 HCO3-24 AnGap-17
+___ 04:38AM BLOOD Calcium-8.1* Phos-3.2# Mg-2.1
+___ 01:55PM   NEUTS-83.3* LYMPHS-10.0* MONOS-4.1 EOS-2.3 
+BASOS-0.___ woman with ESRD on HD who presents to ED with clotted 
+graft, c/b hyperkalemia.  
+
+# ESRD c/b Hyperkalemia: AV graft clotted, seen by transplant, 
+renal, and ___ who recommended attempted thrombectomy with plans 
+for tunneled line placement if unsucessful. The patient received 
+medical management of her hyperkalemia including insulin, 
+dextrose, kayexcelate with minimal improvement in her 
+hyperkalemia. She then had a thrombectomy, fistulagram, stenting 
+and balloon angioplasty of her fistula which resulted in patency 
+of her graft. She then had HD ___ with resolution of her 
+hyperkalemia. She received a low K, low phos diet and her 
+sevelemer and nephrocaps were continued. Her lisinopril and 
+losartan were held for hyperkalemia and her lisinopril was 
+re-started after HD. 
+
+# Productive cough: The patient had bibasilar decreased breath 
+sounds and a productive cough on exam which she states is her 
+baseline. These findings are likely due to underlying COPD given 
+her history of smoking. She remained afebrile and WBC count was 
+normal throughout hospitalization so there was no concern for 
+pneumonia. Her oxygen saturation was stable in the low 90's 
+while hospitalized.
+
+# DM: Taken off insulin recently. Her blood sugars were stable 
+while hospitalized. 
+ 
+# HTN: Poorly controlled, on admission hypertensive to 
+180's-190's. Her home medications of hydralazine and amlodipine 
+were continued but lisinopril and losartan were held for 
+hyperkalemia on admission. Her hydralazine was up-titrated to 50 
+TID for 25 TID, but her blood pressures remained in the 170's 
+until she received HD as volume overload was likely a 
+contributing factor. After her first dialysis session, her blood 
+pressure was under much better control. Her lisinopril was 
+re-started once her hyperkalemia resolved, and her losartan was 
+discontinued to prevent future episodes of hyperkalemia.
+
+# Anemia: Likely due to ESRD. Her H/H trended down from 
+admission when it was ___ to the second hospital day when it 
+was ___ after her interventional radiology procedure. This 
+acute decrease was attributed to blood loss during her 
+procedure. She received 2U PRBC's and her post-transfusion H/H 
+increased appropriately to 8.7/28.
+
+# GERD: Stable, continued home pantoprazole while hospitalized.
+
+# H/o CVA: Baseline slurred speech, mild L facial droop. Her 
+home aspirin was continued while hospitalized.
+
+# AFib: Diagnosed in ___, CHADS2VASC of 6. Per records patient 
+not on anti-coagulation as she has declined coumadin in the 
+past. Her heart rates were stable in the ___ with no rate 
+control medications.
+
+Transitional Issues:
+
+# HTN-Please assess BP control as an outpatient on her new 
+anti-hypertensive regimen.
+
+# Compliance-The patient has missed dialysis frequently as an 
+outpatient and has poor compliance with physician ___. 
+SW consulted to provide resources as an outpatient. 
+
+# Anemia-Patient's anemia attributed to ESRD and blood loss 
+following procedure. Please check her H/H as an outpatient and 
+assess need for epo/iron supplementation during HD.
+
+# A fib with CHADS2VASC score of 6 with an annual stroke risk of 
+___ medical record patient has previously declined coumadin 
+therapy. Please assess patient's readiness/expected compliance 
+with anti-coagulation to prevent strokes in the future.
+
+# Hyperlipidema with history of CVA ___ medical history and 
+records patient has a history of hyperlipidemia but is not 
+currently on a statin. Please consider appropriateness of 
+starting statin medication.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 5 mg PO DAILY 
+2. Nephrocaps 1 CAP PO DAILY 
+3. Aspirin 325 mg PO DAILY 
+4. Lisinopril 20 mg PO DAILY 
+5. sevelamer CARBONATE 1600 mg PO TID W/MEALS 
+6. Losartan Potassium 50 mg PO QHS 
+7. HydrALAzine 25 mg PO TID 
+8. Pantoprazole 20 mg PO Q24H 
+
+ 
+Discharge Medications:
+1. Amlodipine 5 mg PO DAILY 
+2. Aspirin 325 mg PO DAILY 
+3. HydrALAzine 50 mg PO TID 
+4. Lisinopril 20 mg PO DAILY 
+5. Nephrocaps 1 CAP PO DAILY 
+6. Pantoprazole 20 mg PO Q24H 
+7. sevelamer CARBONATE 1600 mg PO TID W/MEALS 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: End stage renal diasease on hemodialysis, 
+clotted right upper extremity brachiocephalic fistula, 
+hyperkalemia
+
+Secondary Diagnosis: Hypertension, chronic obstructive pulmonary 
+disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you at ___. You were admitted 
+because you were unable to get dialysis due to a clot in your 
+fistula. Your potassium levels were dangerously high because of 
+your inability get dialysis. We treated your high potassium and 
+monitored it frequently while you were admitted to make sure it 
+was not too high. To evaluate your fistula, you underwent a 
+fistulagram with interventional radiology and had a procedure to 
+remove the clot from the fistula. You received dialysis while 
+you were with us and this corrected your abnormally high 
+potassium. We also heard that you often miss dialysis which is 
+very dangerous. You met with a social worker to ensure that you 
+have all the resources at home to make your dialysis and other 
+doctor appointments. We noted you to be taking one medication 
+for your blood pressure (losartan) which we feel is unecessary.  
+We would like you to stop taking it. We also increased another 
+blood pressure medication (hydralazine) to keep your blood 
+pressure in the normal range. You can see these changes as well 
+as your complete medication list in the medication 
+reconciliation attached. We wish you all the best in your 
+continued recovery.
+
+Sincerely,
+
+Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11742241-DS-16 | hadm_id=24691666
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+dysarthria
+ 
+Major Surgical or Invasive Procedure:
+Dialysis was done ___ and ___
+
+ 
+History of Present Illness:
+The patient is a ___ right-handed woman with HTN, HLD,
+DM, and ESRD on HD who presents with two weeks of dysarthria and
+mild facial droop. These were first noted immediately after
+dialysis two weeks ago, but today her niece brought her to the
+emergency room against the patient's protestations. The
+dysarthria has been persistent since first noted. The facial
+droop is denied by the patient but at some point became apparent
+to family members.
+
+In retrospect, Ms. ___ had similar dysarthria about a month 
+ago
+lasting several hours, but it resolved so she did not present to
+medical attention. Otherwise she has had no similar episodes and
+no other new concerns. She reports her blood sugar and blood
+pressure have been "okay" but she does not check them herself.
+She is not taking her insulin.
+ 
+On neuro ROS, the pt denies headache, loss of vision, blurred
+vision worse than baseline, diplopia, dysphagia, 
+lightheadedness,
+vertigo, tinnitus or hearing difficulty. Denies difficulties
+producing or comprehending speech. Denies focal weakness,
+numbness, parasthesiae. No bowel or bladder incontinence or
+retention. Non-ambulatory at baseline.  
+ 
+On general review of systems, the pt denies recent fever or
+chills. No night sweats or recent weight loss or gain. Denies
+cough, shortness of breath. Denies chest pain or tightness,
+palpitations. Denies nausea, vomiting, diarrhea, constipation or
+abdominal pain. No recent change in bowel or bladder habits. No
+dysuria. Denies arthralgias or myalgias. Denies rash. 
+ 
+Past Medical History:
+IDDM2 (dx ___ yrs ago), multiple admissions for uncontrolled DM  
+
+ESRD on hemodialysis (M, W, F)  
+HTN  
+Hypercholestolemia  
+PSH:  
+Jump graft revision with thrombectomy of right  
+upper extremity AV graft ___  
+___ RUE AVG revision
+
+ 
+Social History:
+___
+Family History:
+father died of etoh-induced cirrhosis ___ y/o  
+mother died of pna at ___ y/o  
+grandmother had DM  
+5 siblings w/o DM  
+
+ 
+Physical Exam:
+Physical Exam:  
+Vitals: T:97.8 P:73 R:18 BP:106/57 SaO2:96% RA  
+General: Awake, cooperative, NAD.  
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx  
+Neck: Supple. No nuchal rigidity. Full range of motion 
+Pulmonary: Breathing comfortably on room air.
+Skin: no rashes or lesions noted.  
+ 
+Neurological examination:  
+___ Stroke Scale score was 7  
+1a. Level of Consciousness: 0  
+1b. LOC Question: 0  
+1c. LOC Commands: 0  
+2. Best gaze: 0  
+3. Visual fields: 3  [unable to see well enough to assess]
+4. Facial palsy: 1
+5a. Motor arm, left: 0  
+5b. Motor arm, right: 0  
+6a. Motor leg, left: 1  
+6b. Motor leg, right: 1  
+7. Limb Ataxia: 0  
+8. Sensory: 0  
+9. Language: 0  [no visual stimuli testable]
+10. Dysarthria: 1
+11. Extinction and Neglect: 0  
+- Mental Status:  
+ORIENTATION - Alert, oriented x 3 
+SPEECH  
+Able to relate history without difficulty.  
+Language is fluent with intact repetition and comprehension.  
+Normal prosody. There were no paraphasic errors.  
+Speech was significantly dysarthric.  
+NAMING, READING - Unable to assess. Was able to understand and
+follow commands such as "point to the thing that makes the room
+bright", point to exit, etc
+CALCULATION - Unable to report 7 quarters in $1.75 
+ATTENTION - Attentive, able to name ___ backward without
+difficulty.  
+REGISTRATION and RECALL  
+Pt. was able to register 3 objects and recall ___ at 5 minutes
+with prompting.  
+COMPREHENSION  
+Able to follow both midline and appendicular commands  
+There was no evidence of apraxia or neglect  
+ 
+- Cranial Nerves:  
+I: Olfaction not tested.  
+II: PERRL 2.5 to 2mm and brisk. Funduscopic exam provided 
+limited
+glimpse of left disk only which was flat.  
+III, IV, VI: EOMI without nystagmus. 
+V: Facial sensation intact to light touch and pinprick
+VII: Slight decreased activation of the left, facial musculature
+asymmetric. Eye closure and brow raise symmetric. 
+VIII: Hearing intact to voice.  
+IX, X: Palate elevates symmetrically.  
+XI: ___ strength in trapezii and SCM bilaterally.  
+XII: Tongue protrudes in midline with normal velocity movements. 
+
+
+ 
+- Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.  No adventitious movements other than mild postural
+tremor L>R noted. No asterixis noted.  
+SAb ElF ElE WrE FFl FE IO HipF HipE KnF KnE AnkD ___  
+L 4+ 5  5    ___   4  5    5    5   5   unable------  
+R ___    ___   4  5    5    ___    5    5  
+ 
+- Sensory: No deficits to light touch, pinprick. Decreased joint
+position sense versus does not understand the test. No 
+extinction
+to DSS.  
+ 
+- DTRs:  
+  BJ SJ TJ KJ AJ  
+L ___  1  -
+R ___  1  1  
+Plantar response was withdrawal on the right, could not be
+assessed on the left.
+- Coordination: No intention tremor, normal finger tapping. No
+dysmetria on FNF bilaterally.  
+ 
+- Gait: Unable at baseline.
+
+Discharge Exam: unchanged
+ 
+Pertinent Results:
+___ 06:12AM BLOOD WBC-8.3 RBC-4.30 Hgb-10.4* Hct-33.9* 
+MCV-79* MCH-24.3* MCHC-30.8* RDW-15.3 Plt ___
+___ 10:20AM BLOOD WBC-6.7 RBC-4.63 Hgb-11.2* Hct-37.3 
+MCV-81* MCH-24.1* MCHC-29.9* RDW-15.4 Plt ___
+___ 05:35AM BLOOD WBC-9.5 RBC-4.70 Hgb-11.5* Hct-37.8 
+MCV-81* MCH-24.5* MCHC-30.4* RDW-15.7* Plt Ct-93*
+___ 05:50PM BLOOD WBC-9.2 RBC-5.05# Hgb-12.3# Hct-41.0# 
+MCV-81* MCH-24.4* MCHC-30.1* RDW-15.6* Plt ___
+___ 06:12AM BLOOD Plt ___
+___ 05:50PM BLOOD ___ PTT-25.3 ___
+___ 06:12AM BLOOD Glucose-148* UreaN-46* Creat-5.1*# 
+Na-128* K-5.0 Cl-89* HCO3-28 AnGap-16
+___ 10:20AM BLOOD Glucose-240* UreaN-28* Creat-3.9*# 
+Na-132* K-4.5 Cl-93* HCO3-32 AnGap-12
+___ 05:35AM BLOOD Glucose-185* UreaN-50* Creat-6.5* Na-140 
+K-5.1 Cl-100 HCO3-24 AnGap-21*
+___ 05:50PM BLOOD Glucose-379* UreaN-42* Creat-5.7* Na-140 
+K-5.5* Cl-98 HCO3-29 AnGap-19
+___ 04:50PM BLOOD CK(CPK)-24*
+___ 05:35AM BLOOD CK(CPK)-22*
+___ 05:50PM BLOOD ALT-14 AST-17 AlkPhos-92 TotBili-0.1
+___ 06:12AM BLOOD Calcium-8.1* Phos-6.4*# Mg-2.2
+___ 05:35AM BLOOD %HbA1c-9.2* eAG-217*
+___ 05:35AM BLOOD Triglyc-199* HDL-35 CHOL/HD-4.8 
+LDLcalc-92
+___ 05:35AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 05:35AM BLOOD TSH-1.7
+
+CT: Negative
+MRI brain:   
+1. Multiple subacute infarcts, the distribution of which 
+suggests a central embolic source. 
+2. Multiple foci of infratentorial and supratentorial 
+susceptibility with a 
+nonspecific pattern.  Differential includes chronic hypertension 
+and amyloid 
+angiopathy. 
+3. Suboptimal head and neck MRA secondary to patient motion 
+artifact.  There 
+appears to be mild narrowing of both intracranial internal 
+carotid arteries, 
+and the left posterior cerebral artery. The neck arteries are 
+grossly patent. 
+
+U/S of fistula: Widely patent AV fistula, evidence of stenosis 
+at the arterial-graft anastomosis and at the graft -venous 
+anastomosis. 
+
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to the ___ Stroke service due to a 
+stroke. Her stroke was likely due to a combination of factors 
+including smoking, uncontrolled diabetes, and new onset 
+paroxysmal atrial fibrillation picked up on telemetry. We have 
+increased her aspirin to prevent further strokes. She underwent 
+routine dialysis while in the hospital. Despite refusing insulin 
+several times we suggested that she regularly check her blood 
+sugar and follow up with her primary provider to discuss 
+restarting insulin, she required 14 units of insulin one day and 
+6 units the following day. She did not want to go back to 
+___ management. We have discussed the 
+risks and ___ of anticoagulation due to Afib, and she 
+declined starting anticoagulation medication. In addition, we 
+suggested that she go to ___ rehab, however she also 
+declined this recommendation as well. We therefore suggested 
+home physical, speech, and occupational therapy. We suggested 
+she get an outpatient echo to r/o clot or other function 
+deficits, although she would likely refuse anticoagulation at 
+this time as well.
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+
+1. Dysphagia screening before any PO intake? (X) Yes [performed 
+and documented by admitting resident] – () No
+
+2. DVT Prophylaxis administered by the end of hospital day 2? 
+(X) Yes - () No
+
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(X) Yes - () No
+
+4. LDL documented (required for all patients)? () Yes (LDL = 92) 
+- (X) No
+
+5. Intensive statin therapy administered? () Yes - (X) No [if 
+LDL >= 100, reason not given: ____ ]
+(intensive statin therapy = simvastatin 80mg, simvastatin 
+80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, rosuvastatin 
+20mg or 40mg, for LDL >= 100)
+
+6. Smoking cessation counseling given? (X) Yes - () No [if no, 
+reason: () non-smoker - () unable to participate]
+
+7. Stroke education given (written form in the discharge 
+worksheet)? (X) Yes - () No
+(stroke education = personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup)
+
+8. Assessment for rehabilitation or rehab services considered? 
+(X) Yes - () No [if no, reason not assessed: ____ ]
+
+9. Discharged on statin therapy? () Yes - (X) No [if LDL >= 100 
+or on a statin prior to hospitalization, reason not discharged 
+on statin: ____ ]
+
+10. Discharged on antithrombotic therapy? (X) Yes [Type: (X) 
+Antiplatelet - () Anticoagulation] - () No
+
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No [if no, reason not 
+discharge on anticoagulation: ____ ] - (X) N/A
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 10 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Lisinopril 10 mg PO DAILY 
+4. Nephrocaps 1 CAP PO DAILY 
+
+ 
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*3
+2. Nephrocaps 1 CAP PO DAILY 
+RX *B complex-vitamin C-folic acid [Nephrocaps] 1 mg 1 
+capsule(s) by mouth daily Disp #*30 Capsule Refills:*3
+3. Aspirin 325 mg PO DAILY 
+4. Lisinopril 10 mg PO DAILY 
+RX *lisinopril 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*3
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Stroke
+Uncontrolled diabetes
+
+ 
+Discharge Condition:
+Mental Status: Coherent but dysarthric
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to the ___ Stroke service due to a stroke. 
+We believe that your stroke was due to a combination of factors 
+including smoking, uncontrolled diabetes, and an abnormal heart 
+rhythm called Atrial Fibrillation. We have increased your 
+aspirin to prevent further strokes. You have gotten your routine 
+dialysis while in the hospital. You need to regularly check your 
+blood sugar and follow up with your primary provider to discuss 
+restarting insulin. We have discussed with you the risks and 
+___ of anticoagulation due to Afib, you have decline 
+starting anticoagulation medication. In addition, we suggested 
+that you go to ___ rehab, however you have declined this 
+recommendation as well. Please allow the home physical, speech, 
+and occupational therapy to help you with recovery. Please 
+continue with your regular medications as well. To check for 
+blood clots and heart function, we have set you up with an 
+outpatient echocardiogram here at ___ at the time below.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11742241-DS-14 | hadm_id=26385927
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hypoglycemia
+ 
+Major Surgical or Invasive Procedure:
+Hemodialysis MWF
+
+ 
+History of Present Illness:
+___ with T2DM, ESRD on HD, and HTN who presents with 
+hypoglycemia. Blood sugar was 32 at home and patient was 
+somnolent/obtunded, EMS was called. She was also seen in the ED 
+___ with a blood sugar of 26 and was discharged home. She has 
+not felt well for the past few days with congestion and cough 
+productive of white phlegm. As a result, she has not been taking 
+good PO and missed 2 HD sessions last week (only went on 
+___, normally MWF at ___). Prior to the day 
+of admission, she reports blood sugars of 90-150.  
+In the ED, initial VS were: 97.1 54 164/64 18 96% RA. Initial 
+glucose was 71 after receiving glucose in the field. She 
+required a femoral stick for labs and when lying flat 
+afterwards, became hypoxic to 75% on RA. Family and the patient 
+report that she appeared fine during this supposed hypoxic 
+event, she denies SOB. Labs notable for Cr 10, WBC 12.2, nl 
+electrolytes. CXR notable for mild pulm edema, but largely 
+unchanged from prior in ___.  
+ 
+On arrival to the floor, patient has no complaints. She does not 
+know why she continued to take her insulin despite not eating 
+much food. Denies SOB.  
+
+ 
+Past Medical History:
+IDDM2 (dx ___ yrs ago), mult admissions for uncontrolled DM  
+ESRD on hemodialysis (M, W, F)  
+HTN  
+Hypercholestolemia  
+PSH:  
+Jump graft revision with thrombectomy of right  
+upper extremity AV graft ___  
+___ RUE AVG revision
+
+ 
+Social History:
+___
+Family History:
+father died of etoh-induced cirrhosis ___ y/o  
+mother died of pna at ___ y/o  
+grandmother had DM  
+5 siblings w/o DM  
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+VS - Temp ___ BP 144/74 HR 55 RR 22 ___  
+GENERAL - well-appearing woman in NAD, comfortable, appropriate  
+
+HEENT - NC/AT, PERRLA, MMM  
+NECK - supple, JVD hard to assess given habitus  
+LUNGS - Coarse breath sounds in the left lung fields and 
+diminished BS at the bases bilat  
+HEART - RRR, no MRG, nl S1-S2  
+ABDOMEN - NABS, obese/soft/NT  
+EXTREMITIES - WWP, 1+ non-pitting edema of the LEs, marked 
+tissue swelling around feet which appears chronic  
+SKIN - no rashes or lesions  
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout, gait 
+deferred  
+LABS: Please see attached  
+
+DISCHARGE EXAM:
+VS - 97.8, 162/D, 60, 16, 98% on RA
+___ 283, 183, 475, 168
+GENERAL - obese middle aged female. alert, oriented
+HEENT - NC/AT, PERRLA, MMM
+NECK - supple, JVD hard to assess given habitus
+LUNGS -CTAB, no w/r/r, no tachypnea or accessory muscle use
+HEART - rrr, no MRG, nl S1-S2
+ABDOMEN - NABS, obese/soft/NT
+EXTREMITIES - WWP, no e/c/c. left ankle deformity is chronic
+SKIN - no rashes or lesions
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout, gait 
+deferred
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 09:40PM BLOOD WBC-12.2* RBC-4.62# Hgb-11.5*# Hct-37.2# 
+MCV-80* MCH-24.8* MCHC-30.8* RDW-18.3* Plt ___
+___ 09:40PM BLOOD Neuts-75* Bands-5 Lymphs-11* Monos-7 
+Eos-1 Baso-0 ___ Metas-1* Myelos-0
+___ 06:00AM BLOOD ___ PTT-35.2 ___
+___ 09:40PM BLOOD Glucose-75 UreaN-42* Creat-10.3*# Na-138 
+K-5.1 Cl-97 HCO3-22 AnGap-24*
+___ 09:40PM BLOOD Calcium-8.4 Phos-6.2*# Mg-2.2
+___ 09:54PM BLOOD ___ pO2-45* pCO2-49* pH-7.34* 
+calTCO2-28 Base XS-0 Comment-GREEN TOP 
+___ 09:54PM BLOOD Glucose-74 Lactate-0.8 Na-135 K-5.3* 
+Cl-99 calHCO3-26
+
+DISCHARGE LABS:
+
+___ 06:26AM BLOOD WBC-13.7* RBC-4.51 Hgb-10.7* Hct-35.8* 
+MCV-79* MCH-23.7* MCHC-29.9* RDW-18.9* Plt ___
+___ 06:26AM BLOOD Glucose-321* UreaN-60* Creat-8.2*# Na-133 
+K-5.2* Cl-90* HCO3-25 AnGap-23*
+___ 06:26AM BLOOD Calcium-8.5 Phos-4.1 Mg-2.4
+
+PERTINENT MICRO/PATH:
+NONE
+
+PERTINENT IMAGING:
+
+CXR: AP and lateral views of the chest are compared to previous 
+exams 
+from ___ and ___.  Again seen are 
+indistinct 
+pulmonary vascular markings.  There is no effusion.  Cardiac 
+silhouette is enlarged but unchanged.  No acute osseous 
+abnormality is detected. 
+IMPRESSION:  Mild pulmonary edema without superimposed acute 
+consolidation. 
+
+CTPA:
+1.  There is no central PE; however, because of motion artifact, 
+the exam is
+non-conclusive distally.  There is no acute aortic syndrome.
+2.  Possible elevated right heart pressure with reflux of 
+contrast in inferior
+vena cava and hepatic veins.
+3.  Mildly enlarged central lymph nodes are of unknown 
+chronicity.
+4.  Possible tracheobronchomalacia.
+5.  No significant lung process.
+
+LUNG SCAN:
+Prominent cardiac silhouette and elevated right hemidiaphragm. 
+Scattered
+non-segmental perfusion defects are matched on ventilation 
+images. There is no
+evidence of right lung abnormality. 
+ 
+Chest x-ray shows mild to moderate pulmonary edema and 
+cardiomegaly. No focal
+opacities. 
+ 
+IMPRESSION: Low likelihood ratio for acute pulmonary embolism.
+
+ 
+Brief Hospital Course:
+___ with T2DM, ESRD on HD and HTN who presents with hypoglycemia 
+and developed hypoxia in the ED. 
+ 
+#Hypoxia: Pt had one episode of desat in the ED which was 
+initially thought to be due to pulmonary edema given the 
+patient's missed HD two times over the previous week. However, 
+after dialysis and 4L taken off, pt continued to have hypoxia on 
+room air. Of note, she would be asymptomatic and breathing 
+normally during these times. ABG and CXR were unrevealing. Her 
+exam was notable for wheezing bilaterally, so she was treated 
+with a steroid burst and azithromycin for likely RAD (recent URI 
+symptoms in addition to smoking history). Her wheezing improved, 
+however she continued to have episodes of hypoxia on room air. 
+CTPA was performed to rule out PE, and this was inconclusive due 
+to motion artifact. A lung scan revealed low probability PE. The 
+only notable finding on her CT was intermittent collapse of the 
+trachea likely due to tracheobronchomalacia. Interventional 
+pulmonology was consulted, who felt this was unlikely causing 
+her hypoxia and would not require treatment if she was not 
+symptomatic. Over the next ___ days, no further hypoxic episodes 
+were observed. She breathed comfortably on room air. She was 
+discharge with recommendations to have outpatient sleep studies 
+and pulmonary function tests. 
+
+#T2DM and Hypoglycemia: Likely due to poor PO intake in the 
+setting of URI symptoms and continuing her long acting insulin. 
+Last A1c was 5.9% in ___. She appears to have a poor 
+understanding of managing her chronic illnesses. Has also missed 
+recent outpatient appts at HCA. She had minimal requirements on 
+ISSH, suggesting either her insulin dose at home was too high or 
+she has been eating less here at the hospital. Once pt was 
+started on steroids for respiratory problems, her blood sugars 
+increased. ___ was consulted due to her poor diabetic 
+control, and they recommended an outpatient regimen of 70/30 - 
+20 units with breakfast and 10 units with dinner. The patient 
+was counseled heavily on her insulin regimen and given 
+contingency instructions for when her sugars remain too low. 
+
+#HTN: Initially felt to be due to missed HD appointments, fluid 
+overload, and poor medication compliance. She was continued on 
+home amlodipine, metoprolol, and clonidine patch with continued 
+poor control. Lisinopril was added and uptitrated to 10mg daily. 
+This can be further uptitrated as an outpatient.
+
+#ESRD on HD: Missed last 2 sessions due to illness. No urgent 
+infications for HD at admission. Continued MWF HD with daily 
+chem-10 to monitor electrolytes. Continued sevelamer, folic 
+acid, and vit B complex. 
+ 
+#HLD: continued pravastatin, ASA
+
+#GERD: contined pepcid 
+
+Transitional issues:
+#Recommended for further workup of hypoxia: outpatient sleep 
+study and PFTs, dedicated imaging of the trachea for diagnosis 
+of TBM
+#HTN: uptitrate lisinopril as needed
+#Hypoglycmia: titrate new 70/30 regimen as needed to avoid lows 
+and/or highs
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 10 mg PO DAILY 
+2. Clonidine Patch 0.2 mg/24 hr 1 PTCH TD Frequency is Unknown 
+3. Famotidine 20 mg PO DAILY 
+4. FoLIC Acid 1 mg PO DAILY 
+5. Metoprolol Tartrate 50 mg PO BID 
+6. Pravastatin 20 mg PO DAILY 
+7. sevelamer CARBONATE 1600 mg PO TID W/MEALS 
+8. Aspirin 81 mg PO DAILY 
+9. Vitamin B Complex 1 CAP PO DAILY 
+10. Docusate Sodium 100 mg PO BID 
+11. NPH insulin human recomb *NF* 30 units Subcutaneous qAM 
+
+ 
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+2. Aspirin 81 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. Famotidine 20 mg PO DAILY 
+5. FoLIC Acid 1 mg PO DAILY 
+6. Pravastatin 20 mg PO DAILY 
+7. sevelamer CARBONATE 1600 mg PO TID W/MEALS 
+8. Vitamin B Complex 1 CAP PO DAILY 
+9. Azithromycin 250 mg PO Q24H Duration: 2 Days 
+last day ___ 
+RX *azithromycin 250 mg 1 tablet(s) by mouth daily Disp #*1 
+Tablet Refills:*0
+10. Nephrocaps 1 CAP PO DAILY 
+RX *B complex-vitamin C-folic acid [Nephrocaps] 1 mg 1 
+capsule(s) by mouth daily Disp #*30 Capsule Refills:*0
+11. Lisinopril 10 mg PO DAILY 
+RX *lisinopril 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+12. PredniSONE 40 mg PO DAILY Duration: 2 Days 
+last day ___ 
+RX *prednisone 20 mg 2 tablet(s) by mouth daily Disp #*2 Tablet 
+Refills:*0
+13. 70/30 20 Units Breakfast
+70/30 10 Units Dinner
+RX *insulin NPH & regular human [Humulin 70/30 Pen] 100 unit/mL 
+(70-30) inject subcutaneously twice a day Disp #*20 Unit 
+Refills:*0
+14. Clonidine Patch 0.2 mg/24 hr 1 PTCH TD QTUES 
+15. Metoprolol Succinate XL 100 mg PO DAILY 
+RX *metoprolol succinate 100 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Hypoglycemia
+End stage renal disease
+Type 2 diabetes mellitus
+Chronic obstructive pulmonary disease
+Tracheobronchomalacia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ for low blood sugars. You were seen 
+by diabetes specialists, who recommended you use the following 
+regimen at home: 20 units of insulin 70/30 with breakfast and 10 
+units of insulin 70/30 with dinner. Please call your PCP or the 
+diabetes doctor if your finger sticks are repeatedly less than 
+90 or more than 150. If you skip a meal, please cut the doses of 
+insulin in half for that meal.
+
+While you were here, your oxygen levels were periodically low. 
+You were given steroids and azithromycin to help with wheezing. 
+You had multiple studies done which eventually showed a collapse 
+of your upper airway while breathing, called 
+tracheobronchomalacia. For further workup of this problem, we 
+recommend some outpatient studies, including pulmonary function 
+test, sleep study, and others. Your primary care physician can 
+order these for after you have left the hospital.
+
+Please be sure to go to dialysis every time, even if you do not 
+feel well. Lastly, you were started on a medicine called 
+lisinopril for your high blood pressures.
+
+We made the following changes to your medications:
+STOP NPH insulin
+START insulin 70/30
+START prednisone daily through ___
+START azithromycin daily through ___
+START albuterol inhaler as needed for shortness of breath
+START lisinopril 
+START nephrocaps
+CHANGE metoprolol tartrate 50mg twice a day to metoprolol 
+succinate XL 100mg daily
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11742241-DS-19 | hadm_id=26414691
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Outside hospital transfer for lip and tongue swelling. 
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ woman w/PMHx HTN, ESRD on HD (T/TH), hx of lung, cervical 
+CA, DVD GERD admitted to referring hospital on ___ with 
+angioedema thought ___ lisinopril transferred by patient request 
+for continuity of care.  
+
+Per report, patient has been on lisinopril for a long time. On 
+___ developed lip and tongue swelling and was admitted to 
+referring hospital on ___. Never needed the ICU, was only on 
+the ward. Got IV famotidine, Benadryl, solumedrol initially at 
+OSH. Angioedema very slow to improve at OSH but stable. Started 
+NPO at OSH and diet slowly advanced to thick nectars, under 
+advisement of S+S at OSH. Got dialysis on ___. Since stopping 
+lisinopril SBPs 180s, so started amlodipine, SBP went to 170s.
+
+ In the OSH, initial vitals were:  
+ - OSH Exam notable for: 98.4 67 180/54 20 90%RA  
+ - OSH Labs notable for:  
+ WBC 7.0 H+H 9.4/31.5 Plt 161  
+ Chem 137/4.___/4.5 Glu 118  
+ Cal 9.2  
+ TBili 0.3 AST/ALT ___  
+ Alk phos 82  
+ Alb 3.9  
+ TSH 1.27  
+ - Imaging at OSH:  
+ CXR on admission: no acute cardiopulmonary process  
+
+Decision was made to transfer for further work-up / treatment of 
+angioedema.
+
+On the floor, patient reports continued but improved tongue 
+swelling. Has definite difficulty articulating but answers Y/N 
+questions well. Denies current pain / difficulty breathing. 
+Denies N/V/F/C.  
+
+ 
+Past Medical History:
+IDDM2 (dx ___ yrs ago), multiple admissions for uncontrolled DM  
+
+ ESRD on hemodialysis (___, F)  
+ HTN  
+ Hypercholestolemia  
+ PSH:  
+ Jump graft revision with thrombectomy of right  
+ upper extremity AV graft ___  
+ ___ RUE AVG revision  
+ PREADMISSION MEDICATIONS:  
+ 
+Social History:
+___
+Family History:
+father died of etoh-induced cirrhosis ___ y/o  
+mother died of pna at ___ y/o  
+grandmother had DM  
+5 siblings w/o DM  
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+==============
+Vital Signs: 98.5 PO 183 / 61 60 14 96 RA  
+ General: Alert, oriented, no acute distress and happy. 
+Difficulty articulating words.  
+ HEENT: Grossly enlarged tongue, but no e/o lip/facial swelling. 
+No e/o stridor. Sclera anicteric, MMM, EOMI, PERRL, neck supple, 
+JVP not elevated, no LAD  
+ CV: Regular rate and rhythm, normal S1 + S2  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+ GU: No foley  
+ Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred.  
+
+DISCHARGE EXAM:
+===============
+VS - 98.0-97.9 | 142/61-170/50 | 65-54 | ___ | 97-96% RA
+ General: Alert, oriented, no acute distress. Difficulty 
+articulating words.  
+ HEENT: Grossly enlarged tongue with white plaque, but no e/o 
+lip/facial swelling. Sclera anicteric, MMM, EOMI, PERRL, neck 
+supple, JVP not elevated, no LAD  
+ CV: Regular rate and rhythm, normal S1 + S2  
+ Lungs: Clear to auscultation
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+ GU: No foley  
+ Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. AV fistula of R arm, pulsatile.   
+ Neuro: Pt is oriented x3. Speech is improved from previously; 
+patient more intelligible although remains dysarthric.
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 08:50AM BLOOD WBC-6.2 RBC-4.80 Hgb-10.9* Hct-34.8 
+MCV-73* MCH-22.7* MCHC-31.3* RDW-21.5* RDWSD-52.8* Plt ___
+___ 08:50AM BLOOD ___ PTT-27.9 ___
+___ 08:50AM BLOOD Glucose-307* UreaN-50* Creat-5.7*# 
+Na-131* K-4.6 Cl-90* HCO3-24 AnGap-22*
+___ 08:50AM BLOOD Calcium-8.6 Phos-3.3 Mg-2.4
+___ 08:50AM BLOOD C4-25
+___ 08:50AM BLOOD CRP-2.8
+___ 04:56AM BLOOD %HbA1c-5.6 eAG-114
+___ 08:50AM BLOOD SED RATE-Test  
+
+DISCHARGE LABS:
+===============    
+___ 07:02AM BLOOD WBC-7.8 RBC-4.27 Hgb-9.8* Hct-32.4* 
+MCV-76* MCH-23.0* MCHC-30.2* RDW-22.8* RDWSD-59.0* Plt ___
+___ 01:10PM BLOOD ___ PTT-46.6* ___
+___ 07:02AM BLOOD Glucose-100 UreaN-28* Creat-5.4*# Na-140 
+K-4.4 Cl-98 HCO3-28 AnGap-18
+___ 07:02AM BLOOD Calcium-8.6 Phos-2.9 Mg-2.3
+
+IMAGING:
+========
+___ Imaging CHEST (PORTABLE AP) 
+IMPRESSION:  
+In comparison with the study of ___, patient has taken a 
+better inspiration.  Again there is enlargement of the cardiac 
+silhouette with some elevation in pulmonary venous pressure.  No 
+evidence of acute focal pneumonia. Vascular stenting is seen in 
+the right upper zone. 
+
+___ Imaging MRI & MRA BRAIN 
+IMPRESSION:  
+Severe acute subcortical infarct in the left centrum semiovale 
+and possible late subacute infarct in the right centrum 
+semiovale.  Several colonic infarcts are seen with T2 shine 
+through in the centrum semiovale.  Extensive changes of small 
+vessel disease and brain atrophy seen.  Chronic micro 
+hemorrhages as before.  Normal MRA of the head. 
+
+___ Imaging MRA NECK W/O CONTRAST 
+IMPRESSION: 
+1. Similar appearance of the bilateral vertebral and internal 
+carotid 
+arteries, compared to the prior exam from ___, however please 
+note that this study is limited secondary to mild motion 
+artifact. 
+2. Attenuated appearance of the origins of the bilateral 
+external carotid arteries appear similar to the prior exam and 
+may be artifactual, however a focal stenosis cannot be excluded. 
+ A CTA of the neck may be helpful for further evaluation. 
+
+___
+CONCLUSIONS: The left atrium is mildly dilated. No left atrial 
+mass/thrombus seen (best excluded by transesophageal 
+echocardiography). No atrial septal defect is seen by 2D or 
+color Doppler. Left ventricular wall thickness, cavity size and 
+regional/global systolic function are normal (LVEF >55%). The 
+estimated cardiac index is normal (>=2.5L/min/m2). Tissue 
+Doppler imaging suggests an increased left ventricular filling 
+pressure (PCWP>18mmHg). There is no ventricular septal defect. 
+Right ventricular chamber size and free wall motion are normal. 
+The aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. There is no mitral 
+valve prolapse. Trivial mitral regurgitation is seen. The 
+estimated pulmonary artery systolic pressure is normal. There is 
+no pericardial effusion. 
+
+IMPRESSION: Normal biventricular cavity sizes with preserved 
+regional and global biventricular systolic function. No 
+pathologic flow identified. Increased PCWP. (Left Ventricle - 
+Ratio E/E': *22. No PFO or atrial thrombus found.)
+ 
+Brief Hospital Course:
+___ w/PMHx HTN, paroxysmal afib, ESRD on HD (T/TH), and stroke 
+admitted to referring hospital on ___ with lip/tongue 
+angioedema and found to have acute strokes during hospital 
+work-up for persistent dysarthria, thought to be secondary to 
+atrial fibrillation and patient was started on Warfarin.
+
+#Angioedema
+Swelling of lip and tongue evaluated by ___ allergy and 
+determined to be most likely secondary to ACEi-associated 
+angioedema (given lack of improvement with 
+antihistamines/steroids, prolonged time course, and lack of 
+urticarial/pruritis/bronchospasm). Lisinopril was discontinued 
+and added to allergy list. Patient was initially treated with 
+methylpred 80 mg IV q8, famotidine 20 mg IV, and fexofenadine. 
+Patient's lip and tongue swelling improved. 
+
+#Acute cardioembolic stroke 
+Despite improvement of angioedema throughout hospital course, 
+patient's dysarthria did not improve, prompting neurologic 
+workup. MRI showed severe acute subcortical infarct in the left 
+centrum semiovale and possible late subacute infarct in the 
+right centrum semiovale. Strokes most likely cardioembolic in 
+nature, given evidence of atrial fibrillation on EKG and 
+telemetry. Per neurology recommendations, patient was started on 
+anticoagulation. She was discharged on Warfarin 5mg with Aspirin 
+325mg bridge that will need to be continued after patient 
+therapeutic on warfarin for 48 hours (Aspirin can be 
+discontinued if INR therapeutic on ___. 
+
+#Atrial Fibrillation
+Tele and EKG with evidence of intermittent atrial fibrillation, 
+which was diagnosed in ___ following first stroke. Refused 
+Patietn has been started on warfarin. Patient has appropriate 
+rate and does not require pharmacologic rate control. Received 
+TTE with bubble study; no evidence of PFO. 
+
+#HTN  
+Discontinued Lisinopril and added to allergy list. Patient 
+started on Losartan and maintained on home Amlodipine 10mg and 
+Hydralazine 50mg q8 hours for blood pressure control. Patient 
+may require uptitration of hypertension regimen with Labetolol. 
+
+#AV graft aneurysm/ESRD 
+Patient has 5cm area in AV graft concerning for chronic 
+psuedoaneurysm. Patient was evaluated by transplant surgery, who 
+did not recommend any acute surgical intervention. Dialysis on 
+___ schedule.
+
+#Type II Diabetes Mellitus  
+Patient has history of DM, but not taken any meds or insulin at 
+home. A1c taken ___ is 5.61%. FBGs ranged in 300s on ___ and 
+___, most likely in the setting of steroids. Her blood glucose 
+has remained under 200 after steroids were stopped. Patient has 
+not required insulin and was not discharged on medication for 
+DM. 
+
+#Microcytic anemia
+Most likely secondary to kidney failure. Initiated 
+erythropoietin with dialysis. ___ also have component of anemia 
+of chronic disease, given elevated ferritin levels (although 
+last measured in ___. 
+
+#GERD  
+Continue home Pantoprazole.
+ 
+
+TRANSITIONAL ISSUES:
+====================
+- New allergy: LISINOPRIL (angioedema)
+- Discharged on Warfarin 5mg with Aspirin 325mg bridge that will 
+need to be continued after patient therapeutic on warfarin for 
+48 hours (Aspirin 325 mg can be discontinued if INR therapeutic 
+[goal INR ___ on ___.  
+- Once INR therapeutic and full-strength ASA is stopped, please 
+START Aspirin 81 mg daily.
+- When patient discharged from rehab INR can be monitored by 
+___ clinic. 
+- Sevelamer was held. When PO intake improves, consider 
+restarting.
+- Statin changed to atorvastatin 80 mg daily.
+- Monitor chronic pseudoaneurysm in AV graft
+- Discharged on amlodipine 10 mg daily, losartan 100 mg daily, 
+hydralazine 50mg q8 hours. Please monitor blood pressure and 
+uptitrate as needed. Consider adding Labetolol if needed.
+- Initiate speech therapy.
+- Patient discharged on pureed, nectar prethickened liquid diet 
+per speech and swallow recommendations. Recommend maintaining 
+this diet until evaluated by speech and swallow. 
+- Patient with transient elevations in blood glucose levels 
+following steroids for angioedema, which has now resolved. HbA1c 
+was 5.6% on ___, so patient was not discharged on any 
+treatment for DM. Please monitor blood glucose. 
+
+# CODE: FULL (presumed)
+# CONTACT: ___ (HCP/daughter) ___, ___ 
+(daughter) ___ , ___ (daughter) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 20 mg PO DAILY 
+2. amLODIPine 10 mg PO DAILY 
+3. HydrALAZINE 50 mg PO Q8H 
+4. Multivitamins 1 TAB PO DAILY 
+5. Pantoprazole 20 mg PO Q24H 
+6. sevelamer HYDROCHLORIDE 800 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 325 mg PO DAILY 
+Stop when INR has been therapeutic for 48 hours (therapeutic on 
+___, then START ASA 81 mg daily.   
+2.  Atorvastatin 80 mg PO QPM  
+3.  Losartan Potassium 100 mg PO DAILY  
+4.  Warfarin 5 mg PO DAILY16  
+5.  amLODIPine 10 mg PO DAILY  
+6.  HydrALAZINE 50 mg PO Q8H  
+7.  Multivitamins 1 TAB PO DAILY  
+8.  Pantoprazole 20 mg PO Q24H  
+9. HELD- sevelamer HYDROCHLORIDE 800 mg oral DAILY  This 
+medication was held. Do not restart sevelamer HYDROCHLORIDE 
+until held sevelamer PO due to low PO. restart when phos and 
+oral intake improves 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___ 
+ 
+___ Diagnosis:
+Primary diagnoses: 
+Angiotensin converting enzyme-inhibitor induced angioedema
+Acute cardioembolic stroke
+
+Secondary diagnosis:
+End stage renal disease, dialysis dependent
+Paroxysmal atrial fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were hospitalized at ___ because you had swelling of your 
+lips and tongue. We think that your tongue and lips swelled up 
+because of an allergic reaction to the blood pressure medication 
+that you were previously taking (lisinopril). While you were 
+here, we stopped the offending blood pressure medication and put 
+you on some medications to help with the swelling. Your swelling 
+has resolved.
+
+We also noticed that you had some difficulty speaking, even when 
+your tongue swelling went down. We obtained an image of your 
+brain called an MRI, which showed that you had new strokes. We 
+think that you had additional strokes because of a heart 
+condition that you have called atrial fibrillation which can 
+lead to clots that can travel to the brain. 
+
+We started you on a blood thinner called warfarin, which 
+prevents clots from forming. When you go home, you will take 
+warfarin, but you need to get frequent blood tests to make sure 
+that the medication is at the right level in your body. 
+Additionally, we discontinued the blood pressure medication 
+(lisinopril) that caused your lip and tongue to swell. We 
+started you on a new blood pressure medication (losartan) to 
+replace the old blood pressure medication that we stopped.
+
+Your appointments and medications are below.
+
+It was a pleasure taking care of you!
+Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11742241-DS-18 | hadm_id=26771728
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Missed dialysis, soft stool, slurred speech
+ 
+Major Surgical or Invasive Procedure:
+Dialysis
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ w/ PMH of DM2, ESRD on HD (TuThSa), Hx of 
+CVA, HTN and other issues who presented to the ED with acute 
+diarrhea and slurred speech.  
+ Pt reports loose watery stool x 2 weeks. about ___ times per 
+day. no f/c. no brbpr or melena. no n/v. no recent travel. no 
+sick contacts. no abd pain. no change in stool/urine color. + 
+intermittent lightheadedness and dizziness at home in the past 
+week. reports still tolerating PO.  
+ Pt has history of non-HD compliance. missed her HD on sat.  
+ Family also thought that her slurred speech was slightly worse 
+since yesterday. However, on arrival to floor, pt reports that 
+she has been having slurred speech since stroke last year. She 
+denies that her speech pattern is different from baseline. 
+family not available for interview at time of admission.  
+ In the ED, initial vitals were: 97.9 64 169/70 16 100% RA.  
+ Labs were significant for WBC 8.1 w/ 83% PMNs, Hgb 10.9, Na 
+131, K 6.1, HCO3 21, anion gap 20, glucose 303, Phos 8.3, VBG 
+notable for pH 7.46 / 42 / 31. ECG notable for QTc 498, with no 
+peaked T waves. Due to concern for slurred speech, a stat CT 
+head was performed, which showed no evidence of acute process.  
+ Nephrology was consulted and the patient underwent hemodialysis 
+(HD only, no ultrafiltration was performed). While the patient 
+was in the ED, her BP rose to 220 systolic, during which time 
+she complained of headache. She was given Hydralazine 10 mg IV 
+x1 and her BP came back down to the 150s-160s systolic.  
+ Vitals prior to transfer were: 98.4 61 150/87 16 97% RA.  
+ 
+Past Medical History:
+IDDM2 (dx ___ yrs ago), multiple admissions for uncontrolled DM  
+
+ESRD on hemodialysis (M, W, F)  
+HTN  
+Hypercholestolemia  
+PSH:  
+Jump graft revision with thrombectomy of right  
+upper extremity AV graft ___  
+___ RUE AVG revision
+
+ 
+Social History:
+___
+Family History:
+father died of etoh-induced cirrhosis ___ y/o  
+mother died of pna at ___ y/o  
+grandmother had DM  
+5 siblings w/o DM  
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+ Vitals: 97.6 160/90 69 18 96RA  
+ General: Alert, oriented x 2  
+ HEENT: Sclera anicteric, dry MM, oropharynx clear, EOMI, PERRL  
+
+ Neck: Supple, JVP not elevated, no LAD  
+ CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+ GU: No foley  
+ Ext: Warm, well perfused, 2+ pulses, trace edema  
+ Neuro: CNII-XII - pupils wide, slurred speech noted, otherwise 
+grossly normal, ___ strength upper/lower extremities, grossly 
+normal sensation, 2+ reflexes bilaterally, gait deferred.  
+
+DISCHARGE EXAM:
+ Vitals: 98.8 122-172/52-80 HR52-68 18 99RA  
+ General: Alert, oriented x 3 
+ HEENT: Sclera anicteric, EOMI
+ Neck: Supple  
+ CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+ GU: No foley  
+ Ext: Warm, well perfused, 2+ pulses,  no edema or cyanosis, 
+orthopedic deformity at ankle joint secondary to old fracture
+ Neuro: CNII-XII - slurred speech noted similar to last 
+evaluation, still intelligable, otherwise grossly normal.
+ 
+Pertinent Results:
+ADMISSION LABS:;
+___ 11:40AM BLOOD WBC-8.1# RBC-4.90# Hgb-10.9*# Hct-35.4# 
+MCV-72*# MCH-22.2*# MCHC-30.8* RDW-18.9* RDWSD-46.0 Plt ___
+___ 11:40AM BLOOD Neuts-82.9* Lymphs-9.5* Monos-5.5 Eos-1.1 
+Baso-0.6 Im ___ AbsNeut-6.75* AbsLymp-0.77* AbsMono-0.45 
+AbsEos-0.09 AbsBaso-0.05
+___ 11:40AM BLOOD Glucose-303* UreaN-107* Creat-9.6*# 
+Na-131* K-6.1* Cl-90* HCO3-21* AnGap-26*
+___ 11:40AM BLOOD Calcium-8.0* Phos-8.3*# Mg-3.1*
+___ 07:45AM BLOOD %HbA1c-7.6* eAG-171*
+
+DISCHARGE LABS:
+___ 06:04AM BLOOD WBC-6.6 RBC-4.45 Hgb-9.7* Hct-31.6* 
+MCV-71* MCH-21.8* MCHC-30.7* RDW-18.5* RDWSD-45.5 Plt ___
+___ 06:04AM BLOOD Glucose-118* UreaN-70* Creat-7.7*# 
+Na-131* K-5.3* Cl-89* HCO3-26 AnGap-21*
+
+IMAGING/REPORTS:
+There is no intra-axial or extra-axial hemorrhage, mass, midline 
+shift, or
+acute major vascular territorial infarct. Gray-white matter 
+differentiation is
+preserved.  Periventricular and subcortical white matter 
+hypodensities are
+likely sequela of chronic small vessel disease.  This is grossly 
+unchanged
+from prior.  Ventricles and sulci and unremarkable.  Basilar 
+cisterns are
+patent.  Dense atherosclerotic calcifications noted within the 
+intracranial
+ICAs bilaterally.
+ 
+There is thickening of the sphenoid sinus and right maxillary 
+sinus walls
+suggesting prior chronic inflammation with minimal mucosal 
+thickening present
+in the right maxillary sinus.  Remaining paranasal sinuses are 
+clear noting
+poor pneumatization of the frontal sinuses.
+ 
+IMPRESSION: 
+ 
+No acute intracranial process, no hemorrhage.  White matter 
+changes which are
+likely sequela of chronic small vessel disease.
+ 
+Brief Hospital Course:
+Ms ___ is a ___ lady with DM2, ESRD on HD (TuThSa), Hx of CVA 
+with residual dysarthria, and HTN admitted after missing HD with 
+family concern over soft stool and speech but found to be at 
+baseline. On further questioning, it seemed that patient was at 
+baseline and only worsens with missing  not taking medications 
+and possibly missing HD.
+
+# Dysarthria, intermittent - due to old stroke. Stable per pt 
+and prior notes. Neuro exam w/o additional acute findings. CT 
+head on admission w/o acute processes. Daughter ___ reports 
+that patient has intermittent worsening of her speech at home 
+when she does not take her medications or go to HD possibly from 
+hypertension or metabolic derangements. ___ agrees that 
+speech has been intermittently slurred several times per week 
+since her original stroke. Encouraged patient to continue HD and 
+control blood pressure. Out patient neurology visit arranged.
+
+# Soft frequent stools: no signs of invasive infection. Patient 
+and daughter report her frequency has been increasing over the 
+last month. She has been incontinent of stool since her CVA and 
+uses adult diapers at home. Her daughter is frustrated with 
+increasing number of changes required. Soft bowel movements ___ 
+daily can still be within the normal range of GI function. There 
+is no leukocytosis. Abd exam benign. Patient without sick 
+contacts or other infectious symptoms. Likely secondary to diet.
+#Diabetes: Patient not on oral hypoglycemic or insulin at home, 
+states that a doctor told her she no longer needed it. A1C 7.6 
+on ___. Not on medications possibly due to liberalized A1C 
+target of 8. Can re-evaluate need for control with PMD.
+#Functional status: Patient is incontinent and bedbound. MOCA 
+___ suggesting dementia. Daughter appears unable to provide 
+enough personal care assistance due to arm injury and burden of 
+care. Connecting family with ___, and ___. Prescribed 
+electric bed, hoyer lift, and wheelchair. Unfortunately patient 
+got a walker in ___ but no longer able to ambulate so insurance 
+denied wheelchair. 
+
+=====================
+TRANSITIONAL ISSUES
+=====================
+#DM: Not on insulin or oral meds. A1C 7.6. Consider starting 
+meds
+#Prescribe electric wheelchair when eligible for durable medical 
+equipment coverage
+#HTN: consider increasing lisinopril to target BP <140 though 
+unclear if liberalized for other reasons
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 10 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. HydrALAzine 50 mg PO TID 
+4. Lisinopril 10 mg PO DAILY 
+5. Nephrocaps 1 CAP PO DAILY 
+6. sevelamer CARBONATE 1600 mg PO TID W/MEALS 
+7. Pravastatin 20 mg PO QPM 
+
+ 
+Discharge Medications:
+1. Wheelchair
+Standards wheelchair with removable arm rest and leg rest 
+Length of need : 13 months 
+___ 
+ICD10: R26.2, ICD9: 781.2
+2. Amlodipine 10 mg PO DAILY 
+3. Aspirin 325 mg PO DAILY 
+4. Lisinopril 10 mg PO DAILY 
+5. DME/ELECTRIC HOSPITAL BED
+Patient with trunkal instability and poor functional bed 
+mobility requiring an electric hospital bed.
+ICD-10 M62.81 (PROXIMAL MUSCLE WEAKNESS)
+
+6. ___ Lift
+___ lift required due to patient immobility from foot 
+deformity and truncal instability.
+ICD-10 M62.81 (PROXIMAL MUSCLE WEAKNESS)
+
+7. sevelamer CARBONATE 1600 mg PO TID W/MEALS 
+8. Nephrocaps 1 CAP PO DAILY 
+9. Pravastatin 20 mg PO QPM 
+10. HydrALAzine 50 mg PO TID 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Metabolic abnormalities from missing dialysis
+Worse dysarthria with history of stroke
+Soft Bowel Movements
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+___, 
+You came in because you felt unwell after missing dialysis and 
+your family was concerned that your speech was worse than usual. 
+Your speech improved slightly after dialysis. On further 
+questioning, it seems that your speech occasionally improves and 
+worsens when you miss dialysis or don't take your home blood 
+pressure medications. We encourage you to do both. 
+You also were concerned about ___ soft bowel movements per day. 
+This is normal. It is normal to have between ___ soft bowel 
+movements per day. 
+Given your multiple medical conditions, we thought you could 
+benefit from some help at home. We set you up with a visiting 
+nurse, home health aide, physical therapy, and elder services. 
+We wish you the best of luck and thank you for the opportunity 
+to participate in your care. 
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11742241-DS-13 | hadm_id=27717599
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Bleeding AVG
+ 
+Major Surgical or Invasive Procedure:
+___ right arm AVG revision for hole
+
+ 
+History of Present Illness:
+___ with brachial axillary graft ___ revised with jump
+graft in ___ s/p thrombectomy and angioplasty of subclavian and
+venous stenosis, and last seen in ED ___ for evaluation of scab
+over her graft presents with frank ___ L bleeding from UE AVG. 
+Patient was at home about to have breakfast when she had
+significant bleeding >500 cc from the former scabbed area of her
+graft.  EMS was called and estimated ___ L EBL before an
+occlusive pressure dressing was secured to RUE.  ___ vitals in ED
+SBP 100s, good mentation with out bleeding through pressure
+dressing.  Patient complaining of right hand numbness and
+weakness since application of dressing. ___ missed HD yesterday. 
+Upon Stitch of open AVG with precipitous bleeding pt dropped BP
+sbp to 80 with mild nausea, with recovery within 5 minutes to BP
+130s, HR ___. BS 250s in ED. ___ states she had a previous HD 
+line
+on the left at the time of HD initiation, per records also a 
+left
+PICC. HD is M, W, F although pt missed yesterday's session due 
+to
+snow storm. She denies chest pain, bleeding problems, <4mets
+baseline activity.
+
+ 
+Past Medical History:
+IDDM2 (dx ___ yrs ago), mult admissions for uncontrolled DM  
+ESRD on hemodialysis (M, W, F)  
+HTN  
+Hypercholestolemia  
+PSH:  
+Jump graft revision with thrombectomy of right  
+upper extremity AV graft ___  
+___ RUE AVG revision
+
+ 
+Social History:
+___
+Family History:
+father died of etoh-induced cirrhosis ___ y/o  
+mother died of pna at ___ y/o  
+grandmother had DM  
+5 siblings w/o DM  
+
+ 
+Physical Exam:
+PE: T  HR:  Bp: 105/60> 70/50> 130/80  RR:18  O2 sat: 
+GEN: NAD, A&O answering all questions appropriately
+___: RRR
+Abd: S/NT/ND
+Ext: Upon initial evaluation pressure dressing around arm with
+inability to palpate radial pulse on the right with decreased
+sensation and motor function. Upon removal of pressure dressing
+frank precipitous bleeding from opening in skin with graft
+palpated directly beneath (not visualized because of bleeding). 
+Control stick applied with control of blood loss, no expanding
+hematoma, and increased motor and sensory of right hand with
+return of radial pulse.
+
+6.9 >----< 208 
+     22.0   N:63.7 L:28.1 M:5.0 E:2.6 Bas:0.6
+
+141  100  36    AGap=22 
+-------------<253
+5.7  25  9.8 
+Comments: K: Hemolyzed
+
+ 
+Pertinent Results:
+___ 11:15AM BLOOD WBC-6.9 RBC-2.74*# Hgb-6.5*# Hct-22.0*# 
+MCV-80* MCH-23.8* MCHC-29.7* RDW-18.3* Plt ___
+___ 05:25AM BLOOD Glucose-155* UreaN-32* Creat-8.1*# Na-139 
+K-5.0 Cl-96 HCO3-35* AnGap-13
+___ 05:25AM BLOOD Glucose-155* UreaN-32* Creat-8.1*# Na-139 
+K-5.0 Cl-96 HCO3-35* AnGap-13
+___ 05:25AM BLOOD Albumin-2.7* Calcium-7.5* Phos-4.1 Mg-2.0
+___ 05:25AM BLOOD Vanco-PND
+ 
+Brief Hospital Course:
+___ with RUE brachial-axillary AVG with jump present with 
+bleeding form RUE. She 
+transfused with PRBC for hct of 22 and taken to OR for graft 
+revision. Surgeon was Dr. ___. A hole was found in the 
+graft. A segment of the graft was excised and replaced with a 
+new graft segment. Post procedure she was dialyzed for 0.6 
+liters. Overnight, she was stable. Pain was treated with 
+oxycodone. 
+
+On ___, hemodialysis was done using the AVG sticking below the 
+incisions. She tolerated dialysis with 2.0L removed. Flows were 
+on the low side concerning for outflow stenosis. 
+
+The plan was to give IV Vancomycin while at ___ for 4 weeks given 
+preop exposed graft. An appointment at ___ was to be 
+arranged for ___ weeks to do a fistulagram to assess for central 
+stenosis.
+
+At the time of discharge, patient was tolerating a regular diet 
+with pain well controlled and family present to see her home.  
+
+ 
+Medications on Admission:
+ASA 81  
+Ca Carb 1 tab TID with meals  
+Clonidine 0.2mg ___  
+Colace 200mg qd  
+Folic acid 1mg daily  
+NPH 20U qAM  
+Meotprolol 50mg BID  
+Amlodipine 10mg daily  
+Famotidine 20mg daily  
+Pravachol 20mg daily  
+Renagel 1600mg with meals  
+Vit B complex daily  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+ESRD
+bleeding AVG
+DM
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Please call Dr. ___ office ___ if you have 
+any of the following: 
+fever, chills, right arm graft incisions have 
+redness/drainage/bleeding, right arm feels cold/numb or appears 
+dusky or more swollen. 
+Keep dressing on for 2 days then remove. Keep arm incisions 
+clean and dry. 
+Resume your usual dialysis schedule
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11742241-DS-11 | hadm_id=29364168
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+clotted right upper arm av graft
+ 
+Major Surgical or Invasive Procedure:
+___: thrombectomy with interventional radiology
+
+ 
+History of Present Illness:
+___ patient of Dr. ___ this evening was noted to have a
+thrombosed AVG.  Team aware of her situation and she was advised
+to come in to AV Care, but patient refused.  Now presenting with
+said problem with AVG.  No difficulty breathing.  Attempted HD
+yesterday failed.  Last HD ___.
+
+Review of systems: denies chest pain, denies shortness of 
+breath,
+denies headaches, all other systems WNL
+
+ 
+Past Medical History:
+IDDM2 (dx ___ yrs ago), mult admissions for uncontrolled DM  
+ESRD on hemodialysis (M, W, F)  
+HTN  
+Hypercholestolemia  
+PSH:
+Jump graft revision with thrombectomy of right
+upper extremity AV graft ___
+
+Insertion  of right internal jugular perma-cath and placement
+of  a  right  upper  arm  brachial  artery  to  axillary vein
+fistula ___
+
+ 
+Social History:
+___
+Family History:
+father died of etoh-induced cirrhosis ___ y/o  
+mother died of pna at ___ y/o  
+grandmother had DM  
+5 siblings w/o DM  
+
+ 
+Physical Exam:
+Vitals- T 96.6, HR 75, BP 214/97, RR 18, O2sat 96% RA
+Gen- NAD, alert
+Head and neck- AT, NC, soft, supple, no masses
+Heart- RRR, no murmurs
+Lungs- CTAB, no rhonchi, no crackles
+Abd- soft, NT, ND
+Rectal- deferred
+Ext- RUE AV graft with no thrill or bruit, palp pulse over
+brachial artery, arm warm and well perfused
+
+Labs:
+WBC 10.6, Hct 42.6, plt 164
+PMN 82.9
+
+Na 135 Cl 91 BUN 41 glu 204
+K 5.4 HCO3 19 creat 10.7
+AGap=30 
+
+ 
+Pertinent Results:
+___ 12:19PM   GLUCOSE-196* NA+-137 K+-6.2* CL--92* TCO2-25
+___ 12:19PM   HGB-14.3 calcHCT-43
+___ 12:40PM   WBC-10.6 RBC-5.37# HGB-13.8# HCT-42.6# 
+MCV-79* MCH-25.7* MCHC-32.4 RDW-17.4*
+___ 12:09AM BLOOD Hct-33.8*
+___ 08:30AM BLOOD Glucose-114* UreaN-76* Creat-14.1*# 
+Na-131* K-6.0* Cl-90* HCO3-20* AnGap-27*
+ 
+Brief Hospital Course:
+Upon admission she was treated with kayexalate for hyperkalemia. 
+EKG revealed a sinus arrhythmia that resolved with treatment of 
+hyperkalemia. Cardiology was consulted and there were no 
+interventions recommended.
+
+On ___, she underwent ___ thrombectomy of the RUE AVG for a high 
+grade central subclavian stenosis and high grade venous 
+anastomosis that was dilated. A thrombectomy was done on the 
+venous limb. Post procedure she had a hematoma at the medial 
+aspect of her upper arm that was monitored. This was stable. A 
+bruit and thrill were present. Hct was stable. She was dialyzed 
+successfully on ___VG without incident. 
+
+She will be discharged to f/u in her usual dialysis center. A 
+follow up appointment was to be arranged as an outpatient. 
+
+At time of discharge, VS were stable. The RUE had ecchymosis at 
+more proximal-medial aspect of arm with firmness. Radial pulse 
+was 2+. She had good capillary refill and the hand was warm. 
+
+Renalgel dose was increased to 1600mg tid with meals for a phos 
+of 10. 
+ 
+Medications on Admission:
+Sevelamer 800''', SSI, Pravachol 20', Aspirin 81', 
+Catapres-TTS-2 0.2 mg/24 hr Transderm Patch qweek, Pepcid 20' 
+prn, Metoprolol 50'', Colace 100'', Amlodipine 10', Vitamin B 
+Complex Cap', Folic Acid 1'  
+.  
+
+ 
+Discharge Medications:
+1. Sevelamer Carbonate 800 mg Tablet Sig: Two (2) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+2. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+4. Clonidine 0.2 mg/24 hr Patch Weekly Sig: One (1) Patch Weekly 
+Transdermal QMON (every ___.  
+5. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+7. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+8. B Complex Vitamins     Capsule Sig: One (1) Cap PO DAILY 
+(Daily).  
+9. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+10. Tylenol ___ mg Tablet Sig: ___ Tablets PO prn: q 4 hours: 
+for pain.  
+11. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Thirty 
+(30) units Subcutaneous once a day.  
+12. Insulin Regular Human 100 unit/mL Solution Sig: follow 
+sliding scale  Injection four times a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+clotted AV graft s/p thrombectomy
+ESRD
+hyperkalemia
+
+ 
+Discharge Condition:
+Stable/good
+
+ 
+Discharge Instructions:
+Please call the access clinic at ___ for fever > 101, 
+chills, increased pain, swelling or bruising on the right arm. 
+Call if you develop numbness, tingling, cold or blue fingers on 
+your right hand.
+Check your arm daily for the "thrill" or buzzing at your graft 
+site. Call the access clinic if this is not able to be felt, do 
+not wait until your dialysis appointment to report a 
+non-functioning graft.
+Continue your dialysis at your outpatient clinic per your 
+routine schedule.
+Continue medications, food and fluid restrictions per your 
+kidney doctors ___
+ 
+___ Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11742241-DS-20 | hadm_id=29788011
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ___
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+tongue swelling, drooling, AMS
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+___ year old woman with history of paroxysmal atrial fibrillation 
+on coumadin, prior bilateral centrum semiovale strokes with 
+residual dysarthria and completely dependent on others for ADLs, 
+ESRD on HD (___), prior lisinopril-induced 
+angioedema and HTN who is brought to the emergency department 
+due to the acute development of drooling, tongue protrusion, and 
+decreased arousal while at dialysis.  
+ Per discussion with the patient's daughters, the patient has 
+been generally bedbound since her last stroke sometime in ___. 
+Several days ago, she began having vomiting and upper 
+respiratory infection type symptoms (cough, productive of mucus; 
+chest pain with cough) for which she reported to ___ 
+___. It is unclear exactly what the diagnosis was 
+there, or what treatments she was offered; daughter states that 
+"the doctors told ___ the best treatment was for her mother to go 
+home." In discussing with the patient's daughter ___, who is 
+primary caregiver, it appears that the patient has been having 
+somewhat decreased appetite has been intermittently refusing all 
+medicines over the past week.  
+ Patient was at her dialysis session on ___, was noted by 
+staff to be more dysarthric, drooling, and to have "an enlarged 
+tongue." They were concerned that she was having another stroke, 
+so they transferred her to ___ for further 
+evaluation after completion of her dialysis session.  
+ Per ___ clinic, Pt was drooling and had her tongue 
+"swollen up." She was unable to answer questions. Daughter says 
+that Pt is presently talking more slowly, drooling. Last night 
+grandson said that she "didn't seem right." Presently she is 
+talking slower, not answering questions. Doesn't talk since her 
+last stroke (___). Reportedly had a cough for a few days, 
+bringing up mucus. No fevers. Complaining of chest pain during 
+coughing. Decreased appetite (didn't eat dinner).  
+ Per family report, no falls or trauma noted. Primary healthcare 
+proxy, ___, says that her mother "still does not look right" 
+compared to how she usually is. She is less interactive, does 
+not know the year (which he usually does), and still slurring 
+her words more.  
+ In the ED, initial VS were: T 97.7 BP 156/58 HR 97 RR 18 O2 96% 
+on RA  
+ Exam notable for: Macroglossia, drooling, large brown tongue.  
+ EKG:  
+ Compared to EKG dated ___. Difficult to discern P waves, 
+but appears generally sinus. Left axis deviation. Normal 
+intervals.  
+ Labs showed: Troponin 0 0.1-0.11, with flat MB; creatinine 2.1, 
+potassium 4.4; phosphorus 2, mag 2.1; serum tox negative.  
+ Imaging showed:  
+ CT HEAD W/O CONTRAST (___):  
+ 1. No acute intracranial abnormality.  
+ 2. Sequela of chronic microvascular infarction and atrophy. 
+Please note that  
+ MRI would be more sensitive for detection of acute infarction.  
+
+ CXR PA AND LATERAL (___):  
+ Low lung volumes with bibasilar atelectasis.  
+ Consults:  
+ Neurology:  
+ "-Please obtain ___ records  
+ -Defer to ED re: further evaluation for macroglossia and  
+ drooling. Would keep strict NPO in the meantime. Likely would  
+ require ___ admission +/- ENT evaluation, with close  
+ monitoring of airway.  
+ -Please start heparin drip without bolus for goal PTT 50-70  
+ -It would be helpful to obtain additional history regarding how 
+ 
+ specifically her anticoagulation is managed (family cannot  
+ provide this information) so we can have an idea of how her 
+INRs  
+ have been running recently  
+ -Once admitted we will follow along on consult service and will 
+ 
+ consider MRI brain to evaluate for stroke burden."  
+ Patient received:  
+ Heparin GTT  
+ 
+ Transfer VS were: T1 100.1 BP 150/76 HR 86 RR 16 O2 92% on RA  
+ On arrival to the floor, patient is attentive to my interview. 
+She is able to say her year of birth, and that she is in the 
+city of ___ some she does not answer when asked about the 
+year, and is generally difficult to understand speech otherwise. 
+She denies any chest pain, abdominal pain, 
+nausea/vomiting/diarrhea, dysuria, hematuria. Her breathing 
+feels okay at the moment. As I complete my interview, she has a 
+loud hacking cough brings up a moderate amount of yellow 
+nonbloody sputum.  
+ 
+
+ 
+Past Medical History:
+IDDM2 (dx ___ yrs ago), multiple admissions for uncontrolled DM  
+
+ ESRD on hemodialysis (M, W, F)  
+ HTN  
+ Hypercholestolemia  
+ PSH:  
+ Jump graft revision with thrombectomy of right  
+ upper extremity AV graft ___  
+ ___ RUE AVG revision  
+ PREADMISSION MEDICATIONS:  
+ 
+Social History:
+___
+Family History:
+father died of etoh-induced cirrhosis ___ y/o  
+mother died of pna at ___ y/o  
+grandmother had DM  
+5 siblings w/o DM  
+
+ 
+Physical Exam:
+ADMISSION EXAM
+VS: ___ 0122 Temp: 100.1 PO BP: 150/76 HR: 86 RR: 16 O2 
+sat: 92% O2 delivery: Ra  
+ GENERAL: ___ female, lying on her left side in 
+bed. Attentive to my exam. Shakes my hand. Alert and oriented to 
+place and self; does not answer when asked the current year.  
+ HEENT: Pupils pinpoint, but equally round and reactive to 
+light. Mucous membranes moist. Large tongue noted, with brown 
+discoloration on the anterior surface. No drooling noted during 
+my interview.  
+ NECK: No frank JVD  
+ HEART: RRR, S1/S2, fistula thrill best auscultated at the right 
+upper sternal border. No gallops or rubs.  
+ LUNGS: Lungs clear to auscultation anteriorly and laterally.  
+ ABDOMEN: Abdomen is soft, nondistended, nontender in all 
+quadrants, no rebound/guarding.  
+ EXTREMITIES: no cyanosis, clubbing, or edema. Right upper 
+extremity with visible fistula, warm with palpable thrill.  
+ PULSES: 2+ DP pulses bilaterally  
+ NEURO: A&Ox2, moving all 4 extremities with purpose. Does not 
+cooperate fully with cranial nerve exam. She is able to wiggle 
+her toes and squeeze my fingers on command. Speech very 
+difficult to discern, but is unclear how much of this is 
+different from the patient's baseline.  
+ SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+
+DISCHARGE PHYSICAL: 
+GENERAL: lying in bed, appears comfortable, smiling
+HEENT: PERRLA, no chemosis; MMM, clear OP
+HEART: RRR, S1/S2, fistula thrill best auscultated at the right
+upper sternal border.  No gallops or rubs.
+LUNGS: Lungs clear to auscultation b/l, no adventitious sounds
+ABDOMEN: soft, nondistended, nontender no rebound/guarding,
+normoactive BS 
+NEURO: A&O to person and place, moves all extremities equally,
+___ hand grip b/l; minimal spontaneous speech, dysarthric 
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 11:43PM   CK(CPK)-22*
+___ 11:43PM   CK-MB-1 cTropnT-0.11*
+___ 05:00PM   GLUCOSE-74 UREA N-6 CREAT-2.1* SODIUM-138 
+POTASSIUM-4.4 CHLORIDE-94* TOTAL CO2-28 ANION GAP-16
+___ 05:00PM   estGFR-Using this
+___ 05:00PM   ALT(SGPT)-9 AST(SGOT)-42* CK(CPK)-40 ALK 
+PHOS-96 TOT BILI-0.5
+___ 05:00PM   CK-MB-2 cTropnT-0.10*
+___ 05:00PM   ALBUMIN-3.2* CALCIUM-8.5 PHOSPHATE-2.0* 
+MAGNESIUM-2.1
+___ 05:00PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 05:00PM   WBC-7.3 RBC-4.98 HGB-11.0* HCT-36.0 MCV-72* 
+MCH-22.1* MCHC-30.6* RDW-23.8* RDWSD-56.6*
+___ 05:00PM   NEUTS-66.8 LYMPHS-15.9* MONOS-16.0* EOS-0.4* 
+BASOS-0.4 NUC RBCS-0.3* IM ___ AbsNeut-4.87 AbsLymp-1.16* 
+AbsMono-1.17* AbsEos-0.03* AbsBaso-0.03
+___ 05:00PM   PLT COUNT-154
+___ 05:00PM   ___ PTT-29.9 ___
+
+IMAGING
+cxr ___
+IMPRESSION:  
+  
+Low lung volumes with bibasilar atelectasis. 
+
+CT head w/o contrast ___
+IMPRESSION: 
+  
+1. No acute intracranial abnormality. 
+2. Sequela of chronic microvascular infarction and atrophy.  
+Please note that 
+MRI would be more sensitive for detection of acute infarction. 
+
+DISCHARGE LABS:
+___ 05:35AM BLOOD WBC-7.0 RBC-4.53 Hgb-9.9* Hct-32.0* 
+MCV-71* MCH-21.9* MCHC-30.9* RDW-22.8* RDWSD-54.2* Plt ___
+___ 05:35AM BLOOD ___ PTT-46.5* ___
+___ 05:35AM BLOOD Plt ___
+___ 05:35AM BLOOD Glucose-56* UreaN-29* Creat-5.0* Na-134* 
+K-4.8 Cl-95* HCO3-26 AnGap-13
+___ 05:35AM BLOOD Calcium-8.2* Phos-3.8 Mg-2.___ year old woman with history of paroxysmal atrial fibrillation 
+on coumadin, prior bilateral centrum semiovale strokes with 
+residual dysarthria and completely dependent on others for ADLs, 
+ESRD on HD (___), prior lisinopril-induced 
+angioedema and HTN who is brought to the emergency department 
+due to new onset dysarthria, drooling, tongue protrusion, as 
+well as large tongue concerning for acute stroke vs. angioedema 
+but likely related to medication reaction and resolving without 
+complication. Noted to have subtherapeutic INR and bridged with 
+heparin. 
+
+# Altered mental status 
+# Slurred speech
+# Macroglossia: Given high stroke risk (CHADSVASC 8) and history 
+of multiple prior CVAs, neurology consulted though did not 
+suspect her presentation was consistent with a neurological 
+process and did not recommend further imaging. Suspect enlarged
+tongue with associated drooling was associated a possible drug 
+reaction though the family denied administering any new drugs. 
+No signs or symptoms of infection. Maintained airway and 
+secretions without any issues. Resolved back to baseline without 
+any issues. Evaluated by speech and swallow and recommended 
+modified baseline diet (see discharge diet). 
+
+# Paroxysmal atrial fibrillation:
+She is on warfarin at home, though with an INR of 1.1 at 
+admission. Through discussion with daughter/caretaker it appears 
+she is not followed by an ___ clinic and her dose 
+has not been adjusted in some time. Suboptimal dosing and 
+difficulty taking medication likely contributing. Given prior 
+history of strokes and high vascular risk (CHADS VASC 8), 
+neurology recommended bridging the patient with a heparin drip. 
+Completed heparin gtt with bridge to Coumadin with goal INR ___. 
+Discharge INR supratherapeutic at 3.7 without e/o bleeding. 
+Discharge warfarin dose 3 mg with patient requiring close 
+follow-up for does adjustment. On-call physician for PCP 
+practice, Dr. ___ leave notification for PCP who will 
+manage INR from ___ and refer to ___ clinic thereafter.
+
+# Diarrhea: 
+Patient with loose stools prior to discharge, which was held up 
+for C. diff testing. C. diff negative ___ and patient remained 
+without abdominal discomfort or distention and with no 
+leukocytosis. 
+
+# ESRD (dialysis ___ and ___:
+Continued HD on T/Th schedule. Somnolence noted at dialysis on 
+___ but mental status improved during admission. Close 
+monitoring of symptoms during HD recommended, with hypotension 
+or fluid shifts possibly contributing to AMS. Her 
+antihypertensive regimen may need adjustment surrounding HD. 
+Held home sevelamer at discharge due to low phos, continued on 
+renal diet.
+
+# Diabetes: 
+Most recent hemoglobin A1c in our system of 5.6%. She has had 
+values as high as 9.2% back in ___. She is not currently on any 
+insulin or antihyperglycemic agents.
+
+# Hypertension:
+Patient mildly hypertensive on arrival to systolic 150s. She is 
+on a number of antihypertensive agents, though it is unclear how 
+many of these she has exactly been taking. Neither daughter 
+knows exactly what her medicines are that she is taking; just 
+that she has been spitting them out fairly frequently. Confirmed 
+meds with pharmacy. Continued home meds while here with good 
+blood pressure control at discharge. Recommend close follow-up 
+with PCP ___ for med management. 
+
+# Hyperlipidemia: 
+Continued home atorvastatin
+
+# Stroke (___):
+Bedridden and dependent others for all activities of daily 
+living. Patient not likely to benefit from rehab per ___ which is 
+in alignment with the family's understanding. 
+
+TRANSITIONAL ISSUES: 
+-increase warfarin to 3mg daily
+-recheck INR ___ at HD and likely ___, results to PCP for 
+management (confirmed with practice on-call physician), 
+discharged with outpatient lab order
+-discontinue sevelemer
+-cont HD T/Th
+-monitor for AMS during dialysis and consider adjustment of 
+antihypertensive regimen surrounding HD
+
+---------------
+Ms. ___ is clinically stable for discharge today. The total 
+time spent today on discharge planning, counseling and 
+coordination of care was greater than 30 minutes.
+
+___, ___
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. sevelamer CARBONATE 800 mg PO TID W/MEALS 
+2. Losartan Potassium 100 mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. Pantoprazole 20 mg PO Q24H 
+5. Warfarin 2.5 mg PO DAILY16 
+6. HydrALAZINE 50 mg PO Q8H 
+7. amLODIPine 10 mg PO DAILY 
+8. Clonidine Patch 0.1 mg/24 hr 1 PTCH TD QMON 
+
+ 
+Discharge Medications:
+1.  Warfarin 3 mg PO DAILY16 
+RX *warfarin [Coumadin] 3 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+2.  amLODIPine 10 mg PO DAILY  
+3.  Atorvastatin 80 mg PO QPM  
+4.  Clonidine Patch 0.1 mg/24 hr 1 PTCH TD QMON  
+5.  HydrALAZINE 50 mg PO Q8H  
+6.  Losartan Potassium 100 mg PO DAILY  
+7.  Pantoprazole 20 mg PO Q24H  
+8.Outpatient Lab Work
+V58.61, ___ on ___ and ___ for monitoring of long 
+term warfarin therapy
+
+___ MD 
+Location: ___ PRIMARY CARE -___ 
+Address: ___, ___ 
+Phone: ___ 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Toxic metabolic encephalopathy
+Macroglossia
+
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - sometimes.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ with swollen tongue, drooling and 
+confusion after dialysis. This resolved while you were here 
+without intervention. We are unsure of what was causing this. 
+Our neurologists did not suspect you to have another stroke. 
+While you were here we found your INR (blood test that we 
+monitor on Coumadin) to be 1.1 (it should be ___. Because of 
+your history of prior strokes, we started you on an IV blood 
+thinner and transitioned you back to your Coumadin at a higher 
+dose. You will require frequent blood testing to make sure the 
+Coumadin is at the right level. It is now safe for you to go 
+home. It was a pleasure caring for you. 
+
+Wishing you the best,
+
+Your ___ Team
+ 
+Followup Instructions:
+___

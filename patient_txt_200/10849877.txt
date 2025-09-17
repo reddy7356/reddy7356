@@ -1,0 +1,119 @@
+===== DISCHARGE NOTE =====
+note_id=10849877-DS-10 | hadm_id=24706573
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: PSYCHIATRY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+Chief Complaint:
+"I am losing control"
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Pt is a ___ yo female ___ senior with reported h/o 
+ADHD and depression, SIB via cutting and, more recently, daily 
+binge drinking, admitted from ED for further assessment and 
+stabilization after attempting to OD on Paxil in the context of 
+arguing with her BF.  Pt reports theirs is a volatile 
+relationship in which she has suffered physical, mental and 
+emotional abuse (including a broken nose a few weeks ago).  She 
+states she has been in the process of ending the relationship 
+for weeks and attributes much of her functional decline and 
+increased SIB to this.  Denies manic and psychotic sx.  Endorses 
+neuroveg.sx of impaired sleep,low energy, low self esteem.   
+ 
+Past Medical History:
+recently fractured nose, followed as outpt by plastics at ___
+ 
+Social History:
+___
+Family History:
+maternal aunts with depression.  No family suicide.
+ 
+Pertinent Results:
+___ 06:10AM   ALT(SGPT)-17 AST(SGOT)-21 ALK PHOS-66 TOT 
+BILI-0.2
+___ 06:10AM   CALCIUM-8.6 PHOSPHATE-4.7* MAGNESIUM-2.0
+___ 06:10AM   HCG-<5
+___ 07:15PM   GLUCOSE-94 UREA N-16 CREAT-1.0 SODIUM-140 
+POTASSIUM-4.0 CHLORIDE-102 TOTAL CO2-31 ANION GAP-11
+___ 07:15PM   estGFR-Using this
+___ 07:15PM   TSH-0.61
+___ 07:15PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 07:15PM URINE  HOURS-RANDOM
+___ 07:15PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 07:15PM   WBC-9.6 RBC-4.24 HGB-11.7* HCT-35.0* MCV-83 
+MCH-27.7 MCHC-33.6 RDW-13.3
+___ 07:15PM   NEUTS-59.4 ___ MONOS-3.5 EOS-1.6 
+BASOS-0.7
+___ 07:15PM   NEUTS-59.4 ___ MONOS-3.5 EOS-1.6 
+BASOS-0.7
+___ 07:15PM   PLT COUNT-483*#
+ 
+Brief Hospital Course:
+Pt admitted to Deac 4 on conditional voluntary basis.  She 
+remained in behavioral control throughout her hospital stay and 
+participated in treatment.  No medication changes were made, as 
+pt was in the process of tapering off Paxil and desired further 
+psychopharm evaluation by new outpt psychiatrist (to which she 
+was referred by time of discharge). She was placed on MVI, 
+thiamine, folate and a CIWA, but required no benzodiazepins for 
+detox. Individual and group therapy focused on improving coping 
+skills, which pt found helpful, with a decrease in urges for SIB 
+(be it cutting or binge drinking). 
+ 
+Medications on Admission:
+Paxil 40 mg daily
+Xanax 0.5 mg daily prn anxiety
+BCPs
+ 
+Discharge Medications:
+1. Paroxetine HCl 20 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+2. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+5. Alprazolam 0.25 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily) as needed.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Axis I  - Alcohol Abuse; Substance Induced Mood Disorder
+Axis II  - deferred
+Axis III - none active
+
+ 
+Discharge Condition:
+MSE - Appropriately groomed. Speech fluent. Mood "good" Affect 
+reactive. No SI/HI.  TP linear.  No AVH, IOR.  I/J improved.  At 
+no apparent acute risk of harm to self/others and appropriate 
+for dc home.
+
+ 
+Discharge Instructions:
+Please follow up with out patient providers.  
+Please go to nearest ED should you feel unsafe.
+ 
+Followup Instructions:
+___

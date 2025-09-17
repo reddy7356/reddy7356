@@ -1,0 +1,294 @@
+===== DISCHARGE NOTE =====
+note_id=11660821-DS-6 | hadm_id=21590513
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Erythromycin Base
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Neck Pain
+ 
+Major Surgical or Invasive Procedure:
+Fine needle aspiration of neck cyst
+
+ 
+History of Present Illness:
+___ from ___ with htn and a recent diagnosis of multinodular 
+goiter in ___, now presents with neck swelling.  
+Pt reports 5 days of increasing neck swelling, discomfort. The 
+swelling peaked on the morning of admission and pt noted pain on 
+swallowing, but no dysphagia, no difficulty breathing. Pt also 
+noted sinus pain on her forehead the past few days, that has 
+since improved.  
+- recent URI sx, - otitis media, - h/o head and neck cancer, - 
+trauma, denies immunodeficiency (HIV, steroids or diabetes), - 
+fever, - post nasal drip, - rhinorrhea, - night sweats, - weight 
+loss, -hoarseness. ROS otherwise negative.  
+She was seen at ___ where a CT scan was done which 
+showed evidence of a 6cm large cystic R neck mass below the 
+level of the vocal cords compressing against the trachea and 
+esophagus with tracheal deviation. She was given IV antibiotics 
+and was transfered to  
+___ for further management.  
+In ED, initial vitals were T99.9 HR90 BP 146/83 RR16 Pox96%RA  
+Pt was seen by ENT and thoracic surgery in the ED, and was given 
+dexamethasone 10mg IV once as well as unasyn 3g IV once.  
+Upon arrival to floor, she reports vast improvement in swelling 
+and dysphagia. Denies difficulty breathing.  
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies cough, shortness of breath, or wheezing. 
+Denies chest pain, chest pressure, palpitations, or weakness. 
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, 
+or changes in bowel habits. Denies dysuria, frequency, or 
+urgency. Denies arthralgias or myalgias. Denies rashes or skin 
+changes.  
+
+ 
+Past Medical History:
+hypertension  
+multinodular goiter  
+
+ 
+Social History:
+___
+Family History:
+Htn  
+father w MI at age ___  
+sister and grandfather with goiters  
+
+ 
+Physical Exam:
+Admission exam:
+Vitals: T98.5 HR 90 BP 118/75 RR23 Pox96%  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, R 4x3cm mobile mass, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+
+Discharge exam:
+Vitals: T98 HR 81 BP 116/72 RR18 Pox98%RA  
+General: Well appearing female sitting up in bed, no acute 
+distress  
+HEENT: PERRL, sclera anicteric, conjunctivae noninjected, MMM, 
+oropharynx clear  
+Neck: Mild erythema and fullness in right neck with small 
+healing puncture present, palpable firmness on left neck, no 
+distinct mass, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+Neuro: AAOx3, motor and sensory exam  grossly intact  
+
+ 
+Pertinent Results:
+___ 09:40PM BLOOD WBC-8.6 RBC-4.56 Hgb-11.9* Hct-36.8 
+MCV-81* MCH-26.2* MCHC-32.4 RDW-12.8 Plt ___
+___ 09:40PM BLOOD Neuts-74.8* ___ Monos-5.9 Eos-0.3 
+Baso-0.3
+___ 09:40PM BLOOD ___ PTT-32.1 ___
+___ 09:40PM BLOOD Glucose-102* UreaN-10 Creat-0.6 Na-138 
+K-3.4 Cl-97 HCO3-27 AnGap-17
+___ 09:40PM BLOOD Calcium-8.8 Phos-3.4 Mg-2.2
+___ 09:40PM BLOOD T4-7.5 T3-103 Free T4-1.3
+___ 09:40PM BLOOD TSH-2.9
+___ 09:51PM BLOOD Lactate-1.1
+
+MICRO
+___ FLUID,OTHER GRAM STAIN-FINAL; FLUID 
+CULTURE-PRELIMINARY; ANAEROBIC CULTURE-PRELIMINARY INPATIENT
+ 
+___ Blood (EBV) ___ VIRUS VCA-IgG AB-PENDING; 
+___ VIRUS EBNA IgG AB-PENDING; ___ VIRUS 
+VCA-IgM AB-PENDING INPATIENT 
+
+___ MRSA SCREEN MRSA SCREEN-PENDING INPATIENT 
+___ BLOOD CULTURE Routine-PENDING EMERGENCY WARD 
+___ BLOOD CULTURE Routine-PENDING EMERGENCY WARD 
+
+IMAGING:
+CT Neck ___
+IMPRESSION: 4.2 x 3.6 x and 4.6 cm cystic structure which 
+appears to arise 
+Preliminary Reportfrom the inferior portion of the right lobe of 
+the thyroid gland causing 
+Preliminary Reportleftward deviation and mass effect on the 
+trachea and esophagus. Differential 
+Preliminary Reportdiagnosis includes fourth branchial cleft cyst 
+and/or thryoglossal duct cyst, 
+Preliminary Reportalthough less likely. Superinfection however 
+cannot be excluded. 
+
+Ultrasound Thyroid
+IMPRESSION: 
+1.  Large heterogeneous cyst in the right thyroid lobe with 
+internal echoes, compatible with blood clot.  This was targeted 
+for ultrasound guided 
+aspiration.  
+2.  Left upper pole 1.4 cm peripherally calcified nodule.  
+Correlation with outside hospital prior imaging is recommended 
+to document stability. 
+
+Ultrasound Thyroid Post FNA
+IMPRESSION: 
+Preliminary ReportSuccessful aspiration of the right thyroid 
+hemorrhagic cyst yielding, Preliminary Reportcompatible with a 
+hemorrhagic cyst. A sample was sent for culture and Gram 
+Preliminary Reportstain.  
+  
+
+ 
+Brief Hospital Course:
+___ yo F w/ hx of HTN and multinodular goiter p/w rapidly growing 
+R-sided neck mass found to be cystic and hemorrhagic. 
+
+#Neck mass: 
+-Patient was on vacation to ___ and began to notice 
+swelling on the right side of neck which increased over the 
+course of 5 days, especially during the two days prior to 
+admission. She decided to seek medical care after noting pain on 
+swallowing, but had no dysphagia or difficulty breathing. She 
+was seen at ___ where a CT scan showed 6cm large 
+cystic R neck mass compressing the trachea and esophagus with 
+tracheal deviation. She received IV antibiotics prior to 
+transfer to ___. Pt was seen by ENT, thoracic surgery, and 
+endocrinology; started IV dexamethasone and 
+ampicillin-sulbactam; and admitted to the medical intensive care 
+unit out of concern for possible airway compromise. Given prior 
+history of multinodular goiter and time scale of swelling, most 
+likely hemorrhagic vs. infectious with aspirate and imaging 
+consistent with hemorrhage. Differential diagnosis also includes 
+ectopic thyroid, degenerating thyroid adenoma, thyroglossal duct 
+cyst, branchial cleft cyst. Malignancy is less likely as mass is 
+completely cystic and drainage nonserous though this is a 
+possibility. TSH was normal. Swelling and discomfort improved 
+with abx and steroids. She had mass drained by interventional 
+radiology while in MICU with 35cc bloody drainage and has been 
+stable. She denies any other sx such as fever/chills, n/v/d, 
+difficulty breathing during development of cyst or currently.  
+___ virus studies, blood cultures and fluid 
+cultures/cell count/hematocrit were pending as of discharge. 
+Gram stain of fluid was negative for polymorphonuclear 
+leukocytes or microorganisms. Patient was converted to 
+amoxicillin-clavulanate on arrival to floor for ___nd 
+discharged with above abx in addition to 2 day course of oral 
+prednisone to help protect against further swelling during 
+travel back to ___. 
+
+#Hyperglycemia
+-Patient has no history of elevated blood sugar but has had 
+fingerstick blood glucos to the 200s after steroid 
+administration. She was treated with insulin sliding scale while 
+in house.  
+
+#HTN
+-Stable during admission while home bendroflumethiazide was 
+held. She should restart this medication when she returns home. 
+
+Transitional Issues:
+-Patient has had elevated blood sugars after steroids during 
+this admission. This should be followed up on return to ___ 
+with GP. 
+-Patient has another cyst/nodule on left side of neck. Imaging 
+should be compared to prior imaging to see if this nodule is 
+stable. 
+-Patient will require workup of the nodule to determine its 
+etiology. She is being discharged with her records from this 
+admission. We have taken her contact information, that of her 
+GP, and have registered her for ___ Patientsite so that she 
+can find her lab studies and imaging reports online. She was 
+also provided with the business card and email address of the 
+internal medicine intern managing her care.  
+-studies on the fluid drained from the cyst are still pending at 
+the time of discharge. Pt signed up for web access to our system 
+and her email address is in our system to give her the results. 
+Also her GP's information was obtained
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Bendroflumethiazide dose unknown
+ 
+Discharge Medications:
+1. Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tablet(s) by 
+mouth every twelve (12) hours Disp #*8 Tablet Refills:*0
+2. PredniSONE 20 mg PO DAILY Duration: 2 Days 
+RX *prednisone 20 mg 1 tablet(s) by mouth daily Disp #*2 Tablet 
+Refills:*0
+3. Bendroflumethiazide dose unknown
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Neck cyst
+
+Secondary: Hypertension, multinodular goiter
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___, 
+
+___ were admitted to ___ with a 
+neck mass which was found to be cystic and filled with blood. 
+During this admission ___ had an ultrasound of your thyroid 
+which confirmed the cystic nature of the mass. ___ also had 
+fluid removed from the cyst, which will be sent for cell and 
+chemistry studies to help determine what caused it to form. ___ 
+were treated with steroids and antibiotics and showed 
+improvement in your symptoms. ___ were originally in the Medical 
+Intensive Care Unit but were quickly transferred to the general 
+medicine floor as ___ were deemed stable. 
+___ were discharged with 4 more days of antibiotics to treat 
+possible infection. ___ will be discharged with oral prednisone, 
+a steroid, for two more days until ___ get home after your 
+flight. 
+
+___ should follow up with your primary care physician as soon as 
+___ return to ___. We will arrange follow up of your 
+laboratory studies and your receipt of your medical records. 
+Please make sure that your GP follows up on your blood sugar. 
+Please make sure that your GP also compares imaging of your neck 
+to prior imaging as ___ also have a nodule on the left side of 
+your neck. They should consider further workup for causes of the 
+cystic mass on the right. 
+
+It has been a pleasure caring for ___, 
+
+Your ___ Doctors 
+ 
+___ Instructions:
+___

@@ -1,0 +1,261 @@
+===== DISCHARGE NOTE =====
+note_id=10951230-DS-8 | hadm_id=28073444
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zithromax
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dysphagia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old gentleman with hx of diffuse large 
+B cell lymphoma (s/p 6 cycles R-CHOP) and MGUS (IgG Kappa, SPEP 
+6%) who initially presented to ___ on ___ after a 
+foreign body became lodged in his esophagus. He was eating steak 
+at around 4.30pm that day and suddenly developed difficulty 
+swallowing. He also reports that he started coughing shortly 
+after, and produced somewhere between a teaspoon - tablespoon of 
+blood. The patient has had ___ years of dysphagia, including 
+multiple esophageal foreign bodies in the past and is s/p 2x 
+esophageal dilatations approximately 5 and ___ years ago 
+(diagnosis unclear). At the OSH they deferred bronchoscopy 
+because the patient was found to be neutropenic. At that time 
+they recommended transfer to ___. 
+
+In the ED at ___, the patient was stable but having some 
+difficulty tolerating his oral secretions, however this passed 
+spontaneously. The patient was nevertheless admitted to ___ 
+because of his neutropenia of unclear etiology.
+
+The patient was seen in ___ clinic on ___. His PET CT 
+in ___ revealed no FDG-avid lymphadenopathy but did reveal 
+increased uptake in the prostate. A PSA level was drawn but not 
+elevated. He was noted at that time to have a persistently 
+elevated MCV and relative neutropenia and monocytosis concerning 
+for an underlying myelodysplastic syndrome. At a follow up visit 
+on ___ he was found to have worsening leukopenia (WBC 1.7 
+with 15% neutrophils) and persistently elevated MCV (111-115). A 
+bone marrow biopsy was performed at that time.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY: 
+ECHO ___ EF >55%
+
+*C1 R-CHOP ___
+*C2 R-CHOP ___
+
+ECHO ___ EF >55%
+
+* Restaging PET-CT ___
+IMPRESSION:  
+Interval resolution of the retroperitoneal, pelvic and right
+inguinal lymphadenopathy with no abnormal FDG uptake in any of
+the residual lymph nodes.  
+
+*C3 R-CHOP ___
+*C4 R-CHOP ___
+
+*ECHO ___ EF >55%
+
+*C5 R-CHOP ___
+*C6 R-CHOP ___
+
+* Restaging PET-CT ___
+IMPRESSION:  
+1) No FDG avid lymphadenopathy 
+2) Increased FDG uptake in the central left prostate - suggest
+correlation with PSA levels.  
+
+*ECHO ___ EF >55%
+
+PAST MEDICAL/SURGICAL HISTORY:  
+Paroxysmal Atrial fibrillation (CHADS2 score 4 in ___
+Hypertension
+Hypercholesterolemia
+Transient Ischemic Attack (x2 episodes)
+Diffuse large B cell lymphoma (s/p 6 cycles of R-CHOP, last 
+ended ___
+ 
+Social History:
+___
+Family History:
+Father died at ___ due to a stroke.  Mother died at ___ due to
+colon cancer.  No early CAD or sudden cardiac death.
+ 
+Physical Exam:
+========== PHYSICAL EXAM ON ADMISSION ==========
+General: Well-appearing, energetic/interactive elderly man in 
+NAD.
+HEENT: Anicteric sclera, large ulcer on L lateral surface of 
+tongue.
+Neck: No lymphadenopathy or JVD.
+CV: RRR w/o m/r/g.
+Lungs: CTAB.
+Abdomen: Soft, non-tender non-distended, normal BS, no 
+organomegaly.
+Ext: No cyanosis, clubbing or edema.
+Neuro: Normal gait, cranial nerves II-XII grossly intact, moves 
+all extremities symmetrically.
+
+=========== PHYSICAL EXAM ON DISCHARGE ==========
+
+Unchanged from admission less than 24 hours earlier.
+ 
+Pertinent Results:
+========== ADMISSION LABS ============
+
+___ 10:40AM BONE MARROW  CD23-DONE CD33-DONE CD117-DONE 
+CD45-DONE ___ KAPPA-DONE CD10-DONE CD13-DONE 
+CD14-DONE CD15-DONE CD19-DONE CD20-DONE LAMBDA-DONE CD5-DONE
+___ 10:40AM BONE MARROW  CD34-DONE CD3-DONE
+___ 10:40AM BONE MARROW  IPT-DONE
+___ 09:15AM   UREA N-28* CREAT-1.1 SODIUM-140 POTASSIUM-4.4 
+CHLORIDE-106 TOTAL CO2-23 ANION GAP-15
+___ 09:15AM   ALT(SGPT)-33 AST(SGOT)-30 LD(LDH)-238 ALK 
+PHOS-107 TOT BILI-0.3
+___ 09:15AM   TOT PROT-6.8 CALCIUM-9.9 MAGNESIUM-1.7
+___ 09:15AM   PSA-1.0
+___ 09:15AM   PEP-ABNORMAL B Free K-17.9 Free ___ Fr 
+K/L-1.79* IgG-974 IgA-43* IgM-181
+___ 09:15AM   WBC-1.7* RBC-3.12* HGB-11.7* HCT-34.5* 
+MCV-111* MCH-37.5* MCHC-33.9 RDW-12.6
+___ 09:15AM   NEUTS-15* BANDS-0 LYMPHS-56* MONOS-19* EOS-6* 
+BASOS-1 ATYPS-3* ___ MYELOS-0
+___ 09:15AM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-1+ 
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL OVALOCYT-1+
+___ 09:15AM   PLT SMR-NORMAL PLT COUNT-168
+
+========== IMAGING STUDIES ==========
+
+CHEST XRAY PA & LATERAL (___):
+Minimal left basilar atelectasis. No radiopaque foreign bodies.
+
+BARIUM SWALLOW (___):
+A small to moderate-sized hiatal hernia, similar to the prior 
+examination, otherwise normal esophagram. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with hx of diffuse large B 
+cell lymphoma s/p 6 cycles of R-CHOP (last cycle ended ___ 
+and MGUS who presented to ___ ED with dysphagia arising in the 
+setting of neutropenia of unclear origin.
+
+# Dysphagia: Arose while eating steak. Pt admits that he eats 
+too quickly and does not chew his food sufficiently, likely 
+contributing. Furthermore, the patient has a history of chronic 
+dysphagia s/p 2 prior esophageal dilatations. The patient's 
+current episode of acute dysphagia self-resolved prior to being 
+transferred to the floor. A barium swallow was performed and was 
+normal except for a small hiatal hernia. Speech and swallow 
+evaluation revealed no barriers to resuming a normal diet.
+
+# Neutropenia: Cause of the patient's neutropenia is unclear - 
+delayed rituximab toxicity vs myelodysplastic syndrome vs 
+drug-induced myelosuppresion. Bone marrow biopsy performed on 
+___ as an outpatient, results pending. Continued prophylactic 
+acyclovir while inpatient but held Bactrim due to considerable 
+risk of myelosuppresion from this drug. Administered 1 dose of 
+neupogen prior to discharge and prescribed 10 days of Augmentin 
+as prophylaxis due to the medium-large ulcer on the left lateral 
+surface of his tongue as well as his history of small volume 
+hemoptysis (suspicion for minor esophageal mucosal tear).
+
+# Paroxysmal A-Fib / Prior TIA: The patient's home rivaroxaban, 
+metoprolol and flecainide were continued during his 
+hospitalization and he was discharged on all of these 
+medications. No episodes of symptomatic A-Fib observed during 
+his stay. Not placed on telemetry at any point during his stay.
+
+========== TRANSITIONAL ISSUES ==========
+
+# Neutropenia: The patient will require close follow up 
+regarding management of his neutropenia. Bone marrow biopsy 
+results pending. Patient is to see Dr. ___ in clinic on 
+___.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Magnesium Oxide 280 mg PO DAILY 
+2. Metoprolol Succinate XL 50 mg PO QPM 
+3. Flecainide Acetate 75 mg PO Q12H 
+4. Rivaroxaban 15 mg PO DAILY 
+5. Atorvastatin 40 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. Omeprazole 20 mg PO DAILY 
+8. Sodium Chloride 1 gm PO BID 
+9. Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral qday 
+
+ 
+Discharge Medications:
+1. Atorvastatin 40 mg PO DAILY 
+2. Flecainide Acetate 75 mg PO Q12H 
+3. Magnesium Oxide 280 mg PO DAILY 
+4. Metoprolol Succinate XL 50 mg PO QPM 
+5. Multivitamins 1 TAB PO DAILY 
+6. Omeprazole 20 mg PO DAILY 
+7. Rivaroxaban 15 mg PO DAILY 
+8. Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral qday 
+9. Lidocaine Viscous 2% 15 mL PO TID:PRN mouth sores / oral pain 
+Duration: 1 Week 
+RX ___ [FIRST-Mouthwash BLM] 400 
+mg-400 mg-40 mg-25 mg-200 mg/30 mL Swish 15 mL in mouth for 30 
+seconds then spit out. every four (4) hours Refills:*0
+10. Acyclovir 400 mg PO Q8H 
+RX *acyclovir 400 mg 1 tablet(s) by mouth three times a day Disp 
+#*90 Tablet Refills:*0
+11. Amoxicillin-Clavulanic Acid ___ mg PO Q12H Duration: 10 Days 
+
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tablet by mouth 
+twice a day Disp #*20 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Esophageal foreign body (self-resolved)
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ on 
+___ for difficulty swallowing, cough productive of a small 
+amount of blood, and neutropenia. We performed diagnostic 
+studies to ensure that you were able to swallow solids and 
+liquids adequately. We also monitored you for signs of infection 
+given your neutropenia. 
+
+You were discharged on ___ once we were able to medically 
+clear you to return home. It was a pleasure to take care of you 
+during your hospital stay.
+
+Sincerely,
+
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,285 @@
+===== DISCHARGE NOTE =====
+note_id=10026161-DS-7 | hadm_id=24614671
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Cardiogenic shock
+ 
+Major Surgical or Invasive Procedure:
+-proctocolectomy
+-Tracheal intubation
+-cardiac catheterization ___: thrombotic LAD stent with no 
+flow, and thrombotic Cx stent with TIMI 3 flow. Received Export 
+to LAD and CX and POBA to both. RFA Perclose  
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year-old man with CAD s/p PCI w/ BMS to LAD 
+and LCx on ___ with a recent diagnosis of colorectal 
+cancer with plan for bowel resection today. However, he 
+developed cardiac arrest during surgery requiring defibrillation 
+and subsequently found to have ST elevations on EKG. Patient had 
+apparently stopped both plavix and aspirin on ___ prior to his 
+surgery today. Per report, patient became hypotensive on 
+pressors with MAP in ___ and tachycardic to 120s after prone 
+jackknife positioning. Rhythm was identified as ventricular 
+tachycardia. He was flipped back supine and got CPR for ~10 
+minutes, including Epi, Vasopressin, Atropine, a shock for 
+transient VF, and a femoral CVL, with return of pulse and 
+pressure. ABG immediately after was 7.___/39___ w/lactate 
+7.2. He was transferred to ___ where TEE showed global LV 
+hypokinesis and a normal RV, while the rhythm strip showed large 
+ST elevations anteriorly. Troponins were greater than 
+recordable. He was put on a heparin gtt and amiodarone bolus and 
+was brought to the cath lab emergently on afternoon of ___.  
+
+.  
+In cath lab was found to have thrombotic LAD stent with no flow, 
+and thrombotic Cx stent with TIMI 3 flow. Received Export to LAD 
+and CX and POBA to both. RFA Perclose. He received a Heparin 
+bolus and Plavix load in the cath lab and a Swan-Ganz was 
+placed. His heparin ggt was turned off and he returned to the OR 
+to complete proctocoletomy with open perineum and diverting 
+ileostomy. He was transferred to the trauma SICU 
+post-operatively and was cooled via Artic Sun protocol, and has 
+since been rewarmed. Also has received 2 units PRCs on ___ 
+for HCT of 29, and 1 dose of vanc/zosyn for post-op ppx.  
+.  
+Today he was noted to be dropping his pressures, so returned to 
+___ lab to have balloon pump placed and angiogram which 
+confirmed patency of vessels. Upon transfer to ICU, he is on 
+levophed ggt, neo ggt, milrinone and vasopressin ggt. He is also 
+on fentanyl/versed ggt's for sedation. He is anuric with a Cr of 
+2.7 (baseline 0.9). Renal is following.  
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: Hyperlipidemia  
+2. CARDIAC HISTORY:  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS:  
+-___: Cath revealing two vessel coronary artery disease. 
+With successful PTCA/stenting of the mid LAD with BMS and the 
+proximal LCx with BMS  
+-___: Cath revealing thrombosis of both stents s/p export 
+with POBA  
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY:  
+-GERD  
+-Colorectal Cancer- s/p chemo Xrt in ___  
+
+ 
+Social History:
+___
+Family History:
+He has three brothers and a sister, all of whom are healthy. His 
+brother is status post a CABG. 
+ 
+Physical Exam:
+GENERAL: Intubated/sedated.  Responding to command by squeezing 
+fingers  
+HEENT: NCAT. Sclera anicteric. Conjunctiva were pink, no pallor 
+or cyanosis of the oral mucosa. No xanthalesma.  
+NECK: Supple, JVP elevated to ear lobe lying flat
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS:  On vent, coarse BS anteriorly
+ABDOMEN: Soft, Laparoscopic incisions c/d/i. Bowel in ostomy 
+looks brown today.  No output right now.  No tenderness 
+illicited   Abd aorta not enlarged by palpation. No abdominial 
+bruits.  
+EXTREMITIES:  Cool extremeties.  1+ ___ pulses.  Right groin 
+catheter site c/d/i
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+.
+
+___ 12:52PM BLOOD WBC-10.8# RBC-3.23* Hgb-10.9* Hct-33.3* 
+MCV-103* MCH-33.9* MCHC-32.8 RDW-13.3 Plt ___
+___ 06:40PM BLOOD ___ PTT-77.0* ___
+___ 12:52PM BLOOD Glucose-261* UreaN-18 Creat-1.4* Na-138 
+K-5.1 Cl-105 HCO3-19* AnGap-19
+___ 03:19PM BLOOD ALT-3942* AST-5276* LD(LDH)-5784* 
+CK(CPK)-7255* AlkPhos-46 TotBili-1.5
+___ 12:52PM BLOOD Calcium-8.4 Phos-6.7* Mg-2.4
+.
+CARDIAC ENZYMES
+.
+
+___ 03:19PM BLOOD CK-MB-GREATER TH cTropnT-GREATER TH
+___ 05:47AM BLOOD CK-MB-305* MB Indx-7.6* cTropnT-GREATER 
+TH
+___ 10:52AM BLOOD CK-MB-184* MB Indx-5.5
+___ 03:55PM BLOOD CK-MB-137* MB Indx-5.3
+___ 04:53AM BLOOD CK-MB-58* MB Indx-4.9
+___ 05:00AM BLOOD CK-MB-17* MB Indx-3.7 cTropnT-GREATER TH
+.
+STUDIES:
+.
+CARDIAC CATH ___: 
+COMMENTS:      
+1. Stent thrombosis of CX and LAD stents. 
+2. Successful 2 vessel thrombectomy and balloon only 
+angioplasty. 
+  
+FINAL DIAGNOSIS:     
+1. Two vessel coronary artery disease. 
+2. Primary angioplasty to LAD and Cx. 
+.
+ECHO ___:
+LEFT ATRIUM: Mild ___. 
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. 
+Severely depressed LVEF. 
+
+RIGHT VENTRICLE: Normal RV chamber size. Normal RV systolic 
+function. Cannot assess regional RV systolic function. 
+
+AORTA: Normal aortic diameter at the sinus level. 
+
+AORTIC VALVE: Aortic valve not well seen. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate 
+mitral annular calcification.  
+
+Conclusions  
+The left atrium is mildly dilated. There is mild symmetric left 
+ventricular hypertrophy. The left ventricular cavity size is 
+normal. Overall left ventricular systolic function is severely 
+depressed with near global LV severe hypokinesis/akinesis; the 
+basal septum and basal lateral wall have relatively preserved 
+function (overall LVEF= ___ %). Right ventricular chamber 
+size is normal with grossly normal free wall contractility. The 
+mitral valve leaflets are mildly thickened. The aortic valve is 
+not well visualized.   
+
+EKG ___:
+Probable sinus rhythm at upper limits of normal rate. P-R 
+interval 
+prolongation. Fusion of the P wave with the prior T wave. There 
+is a 
+single wide complex beat, probably ventricular. Low limb lead 
+voltage. 
+There is an intraventricular conduction delay of left 
+bundle-branch block type with prominent inferior and lateral ST 
+segment elevation. Since the previous tracing of ___ the 
+rate is faster. The axis is more vertical.  QRS complex is 
+wider. ST-T wave abnormalities are new. Clinical correlation is 
+suggested.  
+.
+ECHO ___:
+Overall left ventricular systolic function is severely depressed 
+(LVEF= 20 %). There is focal hypokinesis of the apical free wall 
+of the right ventricle. The mitral valve leaflets are mildly 
+thickened. Mild (1+) mitral regurgitation is seen. [Due to 
+acoustic shadowing, the severity of mitral regurgitation may be 
+significantly UNDERestimated.] There is no pericardial effusion
+
+ 
+Brief Hospital Course:
+___ yo male with CAD s/p LAD/LCx BMS in ___ presenting with 
+STEMI in setting of stopping asa/plavix prior to colorectal 
+surgery, s/p cardiac arrest on table, on IABP, pressors, CVVH.  
+Of note, the patient had no meaningful improvement and serial 
+family meetings were held. Aware of the poor prognosis and 
+believing that the current maximal supportive care including 
+pressors, mechanical intubation, and IABP would not meet the 
+patient's wishes, family decided to withdraw support and pt was 
+taken of pressors, balloon pump, and was extubated.  He expired 
+shortly there after at 16:03 on ___
+.
+# STEMI:  Pt initially presenting for elective proctocolectomy 
+for locally invasive colorectal cancer.  Pt noted to go into 
+Vtach on the operating table and subsequently found to have 
+STEMI.  Of note, pt undwerwent successful PTCA/stenting of the 
+mid LAD with BMS and the proximal LCx with BMS in ___, now 
+presenting with thrombosis of the stents likely in the setting 
+of stopping his asa/plavix prior to colorectal surgery. 
+Underwent successful 2 vessel thrombectomy and balloon only 
+angioplasty. Echo showing EF ___ with severely depressed LV 
+function. IABP placed to augment coronary filling.  ECG showing 
+q waves and low voltages indicating extensive non-recoverable 
+myocardial injury.  He was maintained on asa, plavix and heparin 
+ggt which was changed to argatroban for conern of HIT.  Despite 
+interventions, pt continued to be cardiogenic shock as below.
+.  
+
+# Shock:  Pt with echo showing severely depressed LV systolic 
+function with EF ___ in setting of STEMI. Pt initially on 
+milrinone, neo, levophed, and vasopressin.  He was weaned off 
+levophed, but continued on milrinone, neosynephrine, and 
+vasopressin throughout admission. He was also started on 
+vanc/zosyn for possible septic component.  He was in multiorgan 
+failure with LFTs in the 5000s and Cr peaking at 5.1.  He was 
+started on CVVH, but pt was unable to be weaned successfuly from 
+pressors or the balloon pump, and prognosis was discussed with 
+family who understood that recovery was unlikely.  The decision 
+was eventually made to wean the pressors, d/c the balloon pump, 
+and extubate on ___.  Pt expired shortly after at 16:03.  
+.
+# Ectopy:  Pt noted to have frequent multifocal PVCs on tele 
+overnight ___ and was subsequently started on amio ggt.  
+Continued to have ectopy throughout admission and was continued 
+on amio until support was weaned
+.
+# ___: Cr peaking at 5.1 and actually improved to 3.4 in setting 
+of CVVH.  However continued to be in multiorgan failure unable 
+to wean from pressors. Likely ___ from cardiogenic shock
+
+# Transaminitis:  LFTs peaking in the 3000-5000 range, likely 
+shock liver.  They started to downtrend throughout admission.
+.
+# Anemia:  Pt received a total of 7 U PRBC over admission 
+including intraoperatively with a goal ~30.  He continued to 
+ooze from his perineum surgical site likely explaining his 
+anemia.  DIC was considered but ruled out with fibrinogen and 
+FDPs. 
+.
+# S/p Colectomy for colorectal surgery:  Pt s/p proctocolectomy 
+with open perineum and diverting ileostomy.  Standard post-op 
+care was maintained.  Of note, pt with significant oozing from 
+open perineum likely contributing to anemia
+ 
+Medications on Admission:
+Ferrous sulfate 325 mg p.o. b.i.d.  
+Plavix 75mg  
+Ranitidine 300mg  
+Nitroglycerin 0.4mg  
+Simvastatin 20mg  
+Aspirin  
+
+ 
+Discharge Medications:
+EXPIRED
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+EXPIRED
+ 
+Discharge Condition:
+EXPIRED
+ 
+Discharge Instructions:
+EXPIRED
+ 
+Followup Instructions:
+___

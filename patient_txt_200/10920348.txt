@@ -1,0 +1,182 @@
+===== DISCHARGE NOTE =====
+note_id=10920348-DS-5 | hadm_id=27561156
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+pnemonia
+ 
+Major Surgical or Invasive Procedure:
+central venous catheterization
+ 
+History of Present Illness:
+___ is a ___ yo woman with Cerebal Palsy, Severe MR, 
+non-verbal at baseline, and Epilepsy who is presents to the ___ 
+with ___ weeks of cough, increasing lethargy and poor PO po 
+intake. Her HCP reports that she developed URI sx approximatley 
+4 weeks ago with nasal congestion and subsequently developed 
+cough and chest congestion/secretions. She was actually taken to 
+the ___ and treated for dehydration and some antibiotics 
+3 weeks ago. Since that time she has not been herself. In the 
+past few weeks she has had less PO intake. Although she is 
+non-verbal, she is usually quite animated, happy and 
+interactive. She has been sleeping more, moving less and 
+interacting less with family members. Patient does not generally 
+have difficulty with choking on foods. Today living facility 
+contacted family and brought patient to the ___ because she was 
+not eating at all.  
+.  
+In the ___, initial vs were: T 95 HR 94 SBP 145/132 RR 38 O2sat 
+86%ra. ra. Patient was given cetriaxone and levofloxacin. In the 
+___, they had trouble obtaining access and during that time 
+patient's blood pressures were as low as 89/53, but are slightly 
+increased with some IVF. CXR was consistent with LLL PNA. VS 
+prior to transfer were 94 96/70 25 99% on NRB at 10L.  
+.  
+In the ICU, she appears uncomfortable and is moaning. She is 
+alert and moving her upper extremities.  
+.  
+Review of sytems: Family members noted white tongue.  
+Unable to obtain from patient given patient is non-verbal.  
+.  
+
+ 
+Past Medical History:
+-longstanding seizure disorder: per Dr ___, ___ 
+convulsive seizures per month. Seizure activities are increased 
+a week prior to her menstrual period, when she is excited, or 
+when she misses her medication dose.  
+-cerebral palsy with spastic quadraparesis and inability to
+ambulate at baseline
+-severe mental retardation, nonverbal at baseline
+-microcephaly
+-hypercholesterolemia
+
+ 
+Social History:
+___
+Family History:
+No seizures or neurological disorders in the family
+ 
+Physical Exam:
+General: Alert, appears uncomfortable.  
+HEENT: Sclera anicteric, EOMI. edentulous. white plaques on 
+tongue.  
+Neck: supple, JVP flat, no LAD, left EJ  
+Lungs: upper airway secretions, no wheezes or rales  
+CV: rapid rate, regular rhythm, normal S1 + S2, no murmurs, 
+rubs, gallops  
+Abdomen: exam limited by contracted abdominal muscles, 
+non-tender, non-distended, bowel sounds present.  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: Nonverbal, does not follow commands, tracks somewhat.  
+She has a mild right facial droop. Hearing intact. She moves her 
+upper extremities, she does not move lower extremities.  
+
+ 
+Pertinent Results:
+___ 07:45PM BLOOD WBC-2.0*# RBC-3.73* Hgb-11.7* Hct-35.6* 
+MCV-96 MCH-31.3 MCHC-32.7 RDW-16.3* Plt ___
+___ 01:39AM BLOOD WBC-0.9*# RBC-2.89* Hgb-9.1* Hct-28.3* 
+MCV-98 MCH-31.4 MCHC-32.0 RDW-16.2* Plt Ct-68*
+___ 10:17AM BLOOD WBC-1.3* RBC-2.68* Hgb-8.0* Hct-26.6* 
+MCV-99* MCH-30.0 MCHC-30.2* RDW-15.9* Plt Ct-59*
+___ 07:45PM BLOOD Neuts-35* Bands-15* ___ Monos-3 
+Eos-0 Baso-0 ___ Metas-26* Myelos-0
+___ 01:39AM BLOOD Neuts-23* Bands-13* ___ Monos-5 
+Eos-1 Baso-0 ___ Metas-7* Myelos-0 Other-21*
+___ 10:17AM BLOOD Neuts-20* Bands-16* ___ Monos-2 
+Eos-0 Baso-1 ___ Metas-15* Myelos-0 NRBC-2* Other-27*
+___ 10:17AM BLOOD ___ PTT-59.9* ___
+___ 10:17AM BLOOD ___
+___ 07:45PM BLOOD Glucose-97 UreaN-32* Creat-0.5 Na-146* 
+K-4.0 Cl-105 HCO3-30 AnGap-15
+___ 01:39AM BLOOD Glucose-75 UreaN-26* Creat-0.4 Na-149* 
+K-3.4 Cl-115* HCO3-26 AnGap-11
+___ 10:17AM BLOOD Glucose-80 UreaN-23* Creat-0.5 Na-144 
+K-3.0* Cl-116* HCO3-22 AnGap-9
+___ 01:57AM BLOOD Type-ART pO2-79* pCO2-51* pH-7.36 
+calTCO2-30 Base XS-1
+___ 10:53AM BLOOD Type-ART pO2-52* pCO2-58* pH-7.23* 
+calTCO2-26 Base XS--4
+___ 12:11PM BLOOD ___ pO2-42* pCO2-69* pH-7.13* 
+calTCO2-24 Base XS--8 Intubat-NOT INTUBA
+___ 03:59PM BLOOD Type-ART pO2-95 pCO2-52* pH-7.34* 
+calTCO2-29 Base XS-0
+___ 01:57AM BLOOD Lactate-1.6
+___ 10:53AM BLOOD Lactate-4.4*
+___ 12:11PM BLOOD Lactate-2.8*
+___ 03:59PM BLOOD Lactate-4.0*
+ 
+CXR
+1. Large left base opacity concerning for 
+consolidation/pneumonia. Recommend 
+followup to resolution. Small left pleural effusion and 
+atelectasis not 
+excluded. Otherwise, evaluation of the lungs is suboptimal due 
+to patient's 
+respiratory motion and patient's chin overlying the left lung 
+apex. 
+2. Persistent severe thoracic scoliosis. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ yo woman with cerebral palsy admitted with 
+fevers and found to have a LLL PNA, sepsis, respiratory acidosis 
+and pancytopenia. The patient was DNR/DNI and the family felt 
+strongly about this. They did agree to a central line for fluid 
+resuscitation and antibiotics as well as pressors. She was 
+treated with broad spectrum antibiotics (flagyl, vanc, cefepime, 
+levo) and received norepi and dopamine. She was supported on 
+bipap. Her respiratory acidosis worsened. There was also 
+suspicion for possible hematolic malignancy given the number of 
+atypical cells on her differential. An additional family meeting 
+was held and given her rapid decline combined with the knowledge 
+that she had lived so much longer than any of her family had 
+hoped for, the family elected to focus on her comfort. Pressors 
+were discontinued as well as bipap. She passed within several 
+hours of withdrawing this support and was comfortable for the 
+time she had remaining, and was surrounded by family. Given her 
+rapid decline and the question of an underlying malignancy, the 
+family elected to have an autopsy. The father was contacted and 
+interviewed. He was deemed to be not competent to consent due to 
+dementia. The siblings with the exception of some siblings (out 
+of a total of 11) who were out of contact with the family all 
+requested autopsy.
+ 
+Medications on Admission:
+# Tegretol 200mg PO TID at 8am, 4pm and 8pm.  
+# Valium 5mg PO QHS  
+# Divalproex [Depakote Sprinkles] 125 mg Capsule, ___ capsules 
+as directed: 500mg in am, 500mg at 4pm, 625mg at QHS  
+# Folic acid 1mg PO daily  
+# Tylenol PRN  
+# Dulcolax PRN  
+# Os-Cal 500 mg-200 unit tablet PO daily  
+
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+pneumonia, sepsis
+ 
+Discharge Condition:
+expired
+ 
+                             ___ MD ___
+ 
+Completed by: ___

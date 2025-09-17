@@ -1,0 +1,1062 @@
+===== DISCHARGE NOTE =====
+note_id=11657354-DS-13 | hadm_id=22257588
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+nystatin / Gadolinium-Containing Contrast Media / shellfish 
+derived / metronidazole / vancomycin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+positive blood cultures
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HPI: Ms ___ is a ___ year old woman with history of 
+autoimmune
+autonomic neuropathy on IVIG, possible mast cell activation
+syndrome, genital herpes, RUL carcinoid s/p lobectomy ___ who
+came back to the ED because of positive blood cultures. Ms.
+___ was just discharged on ___ after presenting with 
+several
+days of nasal congestion, sore throat, myalgias, fevers and
+chills, as well as a perianal ulcer. On initial presentation to
+the ED on ___ she was noted to be tachycardic with Tm 100.2, 
+but
+by the time she arrived to the floor she was hemodynamically
+stable and asymptomatic. Her UA and CXR were negative for
+infection. She was presumed to have viral illness. Her painful
+perianal ulcer was concerning for genital herpes for which she
+had started valacyclovir, which was continued. Given clinical
+stability, patient was discharged home. Blood cultures obtained
+in the ED on ___ came back with ___ GPCs in clusters and pairs,
+and thus patient was contacted and asked to return to the ED for
+readmission pending speciation of cultures.
+
+In the ED, initial vitals were T98.2, HR97, BP139/90, RR16, 100%
+RA
+Patient's exam was only notable for flushed face and tenderness
+in submandibular area without lymphadenopathy.
+Labs were notable for:
+WBC 6.1 with normal diff
+Hgb 13.7, platelets 233
+Lactate normal at 1.0
+Chemistries unremarkable, Cr 0.7
+Lyme Ab: ordered and pending 
+Blood cultures were obtained
+No studies were performed
+
+Patient was given: 
+___ 23:34 PO/NG DiphenhydrAMINE 25 mg 
+___ 00:15 IV Vancomycin (1000 mg ordered)   
+___ 00:16 IV CefePIME 2 g  
+
+Vitals on transfer were:
+T98.2, HR85, BP118/88, RR16, 99% RA 
+
+On arrival to the floor, patient confirms the above. She states
+that she has had some improvement in her symptoms since she 
+first
+presented to the ED on ___. She has not had any further fevers
+and her myalgias have improved. She endorses ongoing cough
+occasionally productive of yellow sputum, rhinorrhea, sore
+throat, stools that have been looser than usual. She has ongoing
+headaches for several months which have not changed in 
+character.
+Ms ___ has noted mild dyspnea with exertion and climbing
+stairs but that has not been severely limiting. She denies any
+chest pain, abdominal pain, nausea or vomiting, dysuria. She 
+does
+note polyuria which has also been a recent problem (discussed
+with PCP earlier this month as well). She has not noted any new
+rashes, and the lesions in her mouth and by her anus have 
+healed.
+She has not had any recent instrumentation; her last IVIG
+infusion was ___. 
+ 
+ROS: 10 point review of systems performed and negative except 
+per
+HPI.
+
+ 
+Past Medical History:
+# Autoimmune autonomic neuropathy: on IVIG q2 weeks
+# Small-fiber polyneuropathy
+  # Dysautonomia
+  # Bladder neck dyssynergia / Neurogenic bladder
+  # Dyssynergia between rectum and anal sphincter
+# POTS
+# Possible mast-cell activation syndrome: followed by Dr.
+___ at ___. She has the clinical presentation consistent
+with mast cell activation but states she has tested negative
+# Chronic insomnia
+# Marijuana use (smoking): every-other day use since at least
+___
+# Genital herpes
+# Hx of RUL carcinoid lung cancer in ___ s/p right lower
+lobectomy, with some nodules that have been followed and are
+stable. She also reports recent normal chromogranin A and 
+5-HIAA.
+ 
+Social History:
+___
+Family History:
+She reports her father had DM2 c/b peripheral neuropathy.
+She reports her mother has no major medical ailments.
+She reports her 2 sisters have no major medical ailments.
+Per chart review: mother with schizophrenia and father with 
+bipolar disorder.
+ 
+Physical Exam:
+ADMISSION EXAM:
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress, appropriate and
+conversant. Mild facial flushing
+EYES: Anicteric, pupils equally round, extraocular movements
+intact.
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate; no
+lesions appreciated on oropharyngeal and buccal mucosa
+LYMPH: no sublingual, submandibular, cervical, periauricular,
+supraclavicular, axillary or inguinal lymphadenopathy
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds diminished.  No HSM
+GU: No suprapubic fullness or tenderness to palpation. no CVAT
+BACK: No TTP over spine
+MSK: Neck supple, moves all extremities, strength ___ in upper
+and lower extremities bilaterally
+SKIN: No rashes or ulcerations noted. ~3mm round erythema around
+puncture/iv sites, which does not appear infected
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE EXAM:
+EXAM:
+VITALS: ___ ___ Temp: 97.6 PO BP: 115/79 HR: 86 RR: 18 O2
+sat: 98% O2 delivery: Ra 
+___ 0934 Dyspnea: 0 RASS: 0 Pain Score: ___ 
+GENERAL: Alert and in no apparent distress, appropriate and
+conversant. Erythema on face and scalp. 
+EYES: Anicteric, pupils equally round, extraocular movements
+intact.
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate; no
+lesions appreciated on oropharyngeal and buccal mucosa
+CV: Heart regular, no murmur. No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds diminished.  No HSM
+SKIN: No ulcerations noted. ~3mm round erythema around
+puncture/iv sites, which does not appear infected. Erythema over
+the face, scalp , anterior and posterior chest down to the 
+axilla
+bilaterally. No rash on ___. This rash had resolved by the time 
+of discharge. 
+MSK: Full ROM of left and right MTP both passive and active. No
+swelling. No erythema. No ___ tenderness 
+NEURO: Alert, oriented, face symmetric, speech fluent, moves all
+limbs, sensation to light touch grossly intact throughout
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+Admission Labs: 
+___ 09:30PM BLOOD WBC-6.1 RBC-4.48 Hgb-13.7 Hct-41.1 MCV-92 
+MCH-30.6 MCHC-33.3 RDW-12.2 RDWSD-40.9 Plt ___
+___ 09:30PM BLOOD Glucose-94 UreaN-10 Creat-0.7 Na-140 
+K-3.8 Cl-100 HCO3-27 AnGap-13
+___ 09:36PM BLOOD Lactate-1.0
+
+MICRO: 
+___ 5:12 am BLOOD CULTURE
+
+   Blood Culture, Routine (Preliminary): 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE. 
+         Isolated from only one set in the previous five days. 
+         SENSITIVITIES PERFORMED ON REQUEST.. 
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      Reported to and read back by ___. ___ (___) 
+@ ___ ON
+      ___. 
+      GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS. 
+
+DISCHARGE LABS: 
+___ 09:00AM BLOOD WBC-5.6 RBC-4.23 Hgb-13.0 Hct-39.7 MCV-94 
+MCH-30.7 MCHC-32.7 RDW-12.1 RDWSD-41.6 Plt ___
+___ 09:00AM BLOOD Glucose-118* UreaN-9 Creat-0.8 Na-140 
+K-3.5 Cl-101 HCO3-26 AnGap-13
+___ 09:00AM BLOOD ALT-21 AST-19 AlkPhos-81 TotBili-0.2
+___ 09:00AM BLOOD Albumin-4.0 Calcium-9.3 Phos-3.8 Mg-1.___ year old woman with history of autoimmune autonomic 
+neuropathy on IVIG, possible mast cell activation syndrome, 
+genital herpes, RUL carcinoid s/p lobectomy ___ with recent 
+hospitalization for fever/myalgia and perianal ulceration who 
+was asked to come back to the ED because of positive blood 
+cultures.
+
+ACUTE/ACTIVE PROBLEMS:
+# Positive blood culture - Contaminate
+Blood cultures from ___ growing GPCs in clusters and pairs in 
+___ cultures that ultimately grew Coag-Negative Staph. All other 
+cultures negative. She was initatlly treated with IV vancomycin 
+with premedication with Benadryl. She developed flushing and 
+puritis with the medication on the morning of ___ during the 
+infusion requiring cessation of the IV vancomycin. She was seen 
+by ID who felt was consistent with contaminate with an ongoing 
+viral process. I discussed with the patient continued 
+hospitalization for monitoring or discharge home with outpatient 
+follow-up. The patient elected for discharge home with 
+outpatient follow-up. 
+
+# History of genital herpes
+# Oral/perianal lesions
+Lesions appear to have healed. Will continue ongoing antiviral 
+therapy as before with plan. 
+
+CHRONIC/STABLE PROBLEMS:
+# Autoimmune autonomic neuropathy
+Symptoms include burning of the skin, inability to sweat, bowel 
+and bladder dysfunction. Currently reports improved after IVIG 
+infusion. Has had ongoing discussions with her prescriber 
+regarding whether her IVIG dose should be increased given 
+relatively short beneficial effect at current dose. Last IVIG 
+___. Currently stable symptoms. 
+
+# Mast cell activation syndrome
+Chronic urticaria, flushing followed by Dr. ___ at BWH. 
+Continued home cetirizine, Montelukast, ranitidine, and Benadryl 
+
+
+Greater than 30 minutes was spent in care coordination and 
+counseling on the day of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Cepacol (Sore Throat Lozenge) 1 LOZ PO Q1H:PRN sore throat 
+2. GuaiFENesin ___ mL PO TID:PRN sputum/congestion 
+3. Acetaminophen 325-650 mg PO BID:PRN Pain - Mild/Fever 
+4. LevOCARNitine 500 mg PO DAILY 
+5. alpha lipoic acid ___ mg oral DAILY 
+6. Cetirizine 10 mg PO BID 
+7. Cyanocobalamin 500 mcg PO DAILY 
+8. DiphenhydrAMINE 25 mg PO Q6H:PRN flushing 
+9. Fish Oil (Omega 3) 1000 mg PO DAILY 
+10. Gabapentin 200 mg PO BID:PRN burning pain 
+11. Ibuprofen 400 mg PO Q8H:PRN Pain - Mild 
+12. Immune Globulin Intravenous (Human) 25 g IV EVERY 2 WEEKS 
+(TH) 
+13. melatonin 5 mg oral QHS 
+14. Montelukast 10 mg PO DAILY 
+15. Multivitamins W/minerals 1 TAB PO DAILY 
+16. Probiotic Blend (___) 2 billion 
+cell-50 mg oral DAILY 
+17. Pyridostigmine Bromide 60 mg PO DAILY 
+18. Ranitidine 150 mg PO BID 
+19. ValACYclovir 1000 mg PO Q12H 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO BID:PRN Pain - Mild/Fever  
+2.  alpha lipoic acid ___ mg oral DAILY  
+3.  Cepacol (Sore Throat Lozenge) 1 LOZ PO Q1H:PRN sore throat  
+4.  Cetirizine 10 mg PO BID  
+5.  Cyanocobalamin 500 mcg PO DAILY  
+6.  DiphenhydrAMINE 25 mg PO Q6H:PRN flushing  
+7.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+8.  Gabapentin 200 mg PO BID:PRN burning pain  
+9.  GuaiFENesin ___ mL PO TID:PRN sputum/congestion  
+10.  Ibuprofen 400 mg PO Q8H:PRN Pain - Mild  
+11.  Immune Globulin Intravenous (Human) 25 g IV EVERY 2 WEEKS 
+(TH)  
+12.  LevOCARNitine 500 mg PO DAILY  
+13.  melatonin 5 mg oral QHS  
+14.  Montelukast 10 mg PO DAILY  
+15.  Multivitamins W/minerals 1 TAB PO DAILY  
+16.  Probiotic Blend (___) 2 billion 
+cell-50 mg oral DAILY  
+17.  Pyridostigmine Bromide 60 mg PO DAILY  
+18.  Ranitidine 150 mg PO BID  
+19.  ValACYclovir 1000 mg PO Q12H  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Contaminate in blood
+Viral Infection
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Ms ___,
+
+It was a pleasure taking care of you while you were in the 
+hospital. You were admitted as a blood culture from your prior 
+hospitalization was positive. You were given antibiotics 
+(vancomycin) to which you had a reaction. You were seen by the 
+ID doctors who ___ that this was a contaminate and you are 
+stable for discharge home. 
+
+Please take your medications as you were prior to presenting to 
+the hospital as we have made no new changes and follow up as 
+directed below. 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11657354-DS-11 | hadm_id=23464291
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+nystatin / Gadolinium-Containing Contrast Media / shellfish 
+derived / iodine / metronidazole
+ 
+Attending: ___.
+ 
+Chief Complaint:
+concern for mast cell activation syndrome 
+ 
+Major Surgical or Invasive Procedure:
+Lumbar puncture (___)
+
+ 
+History of Present Illness:
+This is a ___ female with h/o carcinoid tumor of the
+right lung s/p lobectomy, who presents with diffuse burning 
+nerve
+pain, poor sensation, flushing, abnormal vaginal bleeding and
+significant concern for mast cell activation syndrome which she
+feels will be responsive to IVIG (previously administered for
+presumed autoimmune autonomic neuropathy as below). She is seen
+in the room with her fiancé who is a retired ___ medicine
+___. History is limited as patient's thought process is
+very circumstantial and tangential.
+
+Per patient, ___ years ago she was initiated on Nystatin for 
+oral
+thrush after which she began having diffuse nerve pain, rash,
+vaginal bleeding, chills, tachycardia and urinary/GI symptoms.
+This improved transiently with antihistamines. She brought this
+to the attention of her primary care provider who, after finding
+no clear underlying etiology for her prolonged symptoms, 
+referred
+her for psychiatric hospitalization due to patient's request for
+closer monitoring of her symptoms. She was hosptalized on
+multiple occasions and initiated on antipsychotics for presumed
+delisional disorder. She was also seen by neurology during this
+time who initiated weekly IVIG for presumed autoimmune autonomic
+neuropathy though testing was not consistent with this 
+diagnosis.
+She felt improved on this and says her symptoms went into
+remission for about a year.
+
+She notes that approximately 2 months ago, around when she was
+prescribed flexeril for sleep, she experienced recurrence of
+symptoms, with facial flushing, diffuse burning pain,
+intermittent swelling of her hands, anhidrosis, poor bowel and
+bladder sensation, urinary retention, and constipation. She also
+feels intermittently confused. She was seen at ___ recently (discharge date: ___ for similar
+complaints. At ___, extensive workup for mast cell 
+activation
+syndrome was initiated, with several tests still pending. She 
+was
+seen by allergy/immunology who noted low suspicion for mast cell
+activation syndrome given atypical presentation and multiple
+negative tryptase tests. However, given inability to completely
+exclude diagnosis and patient insistence on treatment,
+allergy/immunology recommended antihistamine regimen along with
+possible therapeutic trial of cromolyn. Per review of ___
+records, primary team discussed possible contribution of
+anticholinergic medications to presentation and psychiatry
+proposed possibility of somatic symptom disorder; however 
+patient
+was resistent to these proposed etiologies to her illness and
+requested transfer to ___ ED, which was done. She was seen in
+the ED yesterday, discharged home, and represented today with 
+the
+same symptoms. Of note, over the past ___ weeks patient has
+stopped taking most of her prescribed medications due to concern
+that they are contributing to her mast cell activation syndrome.
+She stopped taking her psychiatric medications on ___ per ___
+records.
+
+In the ED, vitals were: T: 98.4 HR 96 BP 140/84 RR 16 99% on RA
+
+Exam notable for disheveled appearance, ruddy complexion, slight
+right eye ptosis, tachycardia, neurologic exam without focal
+deficits. Intermittent AMS with disorientation.
+
+Labs notable for mild leukocytosis to 11.1 with Eos 0.8 on diff.
+Moderate blood on UA. 
+
+Studies:
+CT Head w/o contrast: no evidence of acute intracranial
+abnormality
+KUB: Moderate amount of stool in the right colon No evidence for
+bowel obstruction or free intraperitoneal air.
+
+They were given: 
+- diphenhydramine 25 mg
+- Gabapentin 300 mg
+- Lorazepam 2 mg
+- 1 L IVF
+
+Upon arrival to the floor, she is alert and oriented. However,
+she is tangential and circumferential in her thought process. 
+She
+reiterates the above history and notes that she is concerned
+regarding mast cell activation syndrome and her vaginal 
+bleeding.
+She says that she does not have regular periods. Of note, she
+does state she recently modified her home hormone regimen. She
+requests IVIG, an LP, steroids. She shows a video *she filmed of
+herself* 2 days ago after taking flexeril with eyes rolling back
+and automatisms with lip smacking and moaning. 
+
+Medical History: 
+
+- She has a history of RUL carcinoid lung cancer in ___ s/p
+lobectomy, with some nodules that have been followed and are
+stable. She also reports recent normal chromogranin A and 
+5-HIAA.
+- Prior presumed autoimmune autonomic neuropathy initiated on
+IVIG with testing negative
+- Delusional disorder previously on cymbalta and risperidone,
+requiring numerous psychiatric hospitalizations
+
+ROS: pertinent positives and negatives per HPI
+
+ 
+Past Medical History:
+- She has a history of RUL carcinoid lung cancer in ___ s/p
+lobectomy, with some nodules that have been followed and are
+stable. She also reports recent normal chromogranin A and 
+5-HIAA.
+- Prior presumed autoimmune autonomic neuropathy initiated on
+IVIG with testing negative
+- Delusional disorder previously on cymbalta and risperidone,
+requiring numerous psychiatric hospitalizations
+ 
+Social History:
+___
+Family History:
+Patient denies family members with similar symptoms. Per
+chart review, mother with schizophrenia and father with bipolar.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+___ 1752 Temp: 98.1 PO BP: 135/83 HR: 127 RR: 19 O2 sat:
+100% O2 delivery: RA 
+GEN: Disheveled appearance with matted hair
+HEENT: MMM, no scleral icterus or conjunctival injection
+Cardiac: tachycardic, +S1/S2, no m/r/g
+Respiratory: CTAB, no respiratory distress
+Abd: +BS, s/nt/nd
+Ext: no clubbing, cyanosis, edema
+Skin: slight erythema in malar distribution over face
+Neuro: AOx3, able to say days of the week backwards, no gross
+focal deficits
+Psych: anxious mood. flat affect, not congruent with mood.
+circumstantial and tangential thought process. fixated on
+possible mast cell activation syndrome.
+
+24 HR Data (last updated ___ @ 857)
+    Temp: 97.5 (Tm 98.1), BP: 100/66 (100-123/66-85), HR: 83
+(83-109), RR: 16 (___), O2 sat: 96% (96-100), O2 delivery: Ra  
+
+GEN: Disheveled appearance with matted hair
+HEENT: NC/AT
+Cardiac: tachycardic, +S1/S2, no m/r/g
+Respiratory: CTAB, no respiratory distress
+Abd: +BS, s/nt/nd
+Ext: no clubbing, cyanosis, edema
+Skin: slight erythema in malar distribution over face, slight
+erythematous rash on forearms waxes and wanes over time
+Neuro: grossly normal
+Psych: anxious mood. perseverating on inflammatory attacks and
+autonomic dysfunction
+ 
+Pertinent Results:
+ADMISSION LABS
+=================
+___ 01:20AM BLOOD WBC-10.8* RBC-4.13 Hgb-12.8 Hct-39.1 
+MCV-95 MCH-31.0 MCHC-32.7 RDW-11.0 RDWSD-38.2 Plt ___
+___ 01:20AM BLOOD Neuts-61.1 ___ Monos-8.2 Eos-0.5* 
+Baso-0.2 Im ___ AbsNeut-6.60* AbsLymp-3.20 AbsMono-0.89* 
+AbsEos-0.05 AbsBaso-0.02
+___ 04:59PM BLOOD ___ PTT-24.1* ___
+___ 01:20AM BLOOD Glucose-78 UreaN-10 Creat-0.9 Na-139 
+K-3.9 Cl-99 HCO3-27 AnGap-13
+___ 01:20AM BLOOD Calcium-9.6 Phos-3.0 Mg-2.0
+___ 02:52PM BLOOD ALT-22 AST-30 AlkPhos-76 TotBili-0.3
+___ 02:52PM BLOOD cTropnT-<0.01
+___ 02:52PM BLOOD Lipase-34
+___ 02:52PM BLOOD ___ 07:15PM BLOOD calTIBC-363 Ferritn-137 TRF-279
+___ 02:52PM BLOOD TSH-2.5
+___ 02:52PM BLOOD HCG-<5
+___ 02:52PM BLOOD RheuFac-<10
+___ 12:50PM BLOOD CRP-3.1
+___ 01:20AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 02:52PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 05:34AM BLOOD HIV Ab-NEG
+___ 02:52PM BLOOD Lyme Ab-NEG
+___ 04:53PM BLOOD Trep Ab-POS*
+___ 03:01PM BLOOD Lactate-1.5
+
+PERTINENT STUDIES
+=====================
+LP ___ 04:56PM CEREBROSPINAL FLUID (CSF) TNC-0 RBC-1 Polys-0 
+___ ___ 04:56PM CEREBROSPINAL FLUID (CSF) TotProt-16 Glucose-70
+CSF VDRL NONREACTIVE
+
+CT HEAD NON CONTRAST ___
+FINDINGS:  
+  
+There is no evidence of infarction, hemorrhage, edema, or mass.  
+The 
+ventricles and sulci are normal in size and configuration. 
+  
+There is no evidence of fracture.  The visualized portion of the 
+paranasal 
+sinuses, mastoid air cells, and middle ear cavities are clear.  
+The visualized 
+portion of the orbits are unremarkable. 
+  
+IMPRESSION:  
+  
+No evidence of acute intracranial abnormality. 
+
+ABDOMINAL XRAY ___
+FINDINGS:  
+  
+Moderate amount of stool seen in the right colon.  No dilated 
+loops of small 
+bowel, differential air-fluid levels, or free intraperitoneal 
+air identified.  
+Scattered calcified phleboliths in the pelvis.  No concerning 
+osseous 
+abnormality. 
+  
+IMPRESSION:  
+  
+Moderate amount of stool in the right colon.  No evidence for 
+bowel 
+obstruction or free intraperitoneal air. 
+
+DISCHARGE LABS
+==================
+___ 05:34AM BLOOD WBC-8.9 RBC-4.40 Hgb-13.7 Hct-40.5 MCV-92 
+MCH-31.1 MCHC-33.8 RDW-11.3 RDWSD-37.9 Plt ___
+ 
+Brief Hospital Course:
+SUMMARY STATEMENT:
+====================
+Pt is a ___ with a history of carcinoid tumor of the R lung 
+s/p lobecotomy who presents with a recurrent constellation of 
+symptoms including diffuse burning pain, painful rashes, severe 
+constipation, urinary retention, facial flushing and concern for 
+autonomic dysfunction.
+
+TRANSITIONAL ISSUES:
+====================
+[] Close ongoing follow-up with ___ psychiatry Dr. ___ 
+___ on ___, ___ at 2:00 pm.
+
+[] Patient should make an appointment to see her therapist Dr. 
+___ at ___.
+
+[] Will follow up with Dr. ___ coordination of multiple 
+complex 
+
+[] Continue taking Risperdal and Ativan for insomnia until 
+follow up with Dr. ___.
+
+[ ] Consider establishment in ___ clinic as an outpatient.
+
+ACTIVE ISSUES:
+==============
+# Tachycardia
+# Anticholinergic symptoms
+# Lancinating pains
+Patient hadrecent admission to ___ ___ for the same symptoms 
+including diffuse burning pain, painful rashes, severe 
+constipation, urinary retention, facial flushing. She was seen 
+by allergy and neurology and ultimately it was felt that
+ongoing delusional disorder was exacerbating her symptoms. 
+Allergy did not think that she met criteria for mast cell 
+disease and follow up was arranged with Dr. ___ in mast 
+cell clinic. She was given prednisone during her course but the 
+team felt that there was no indication for further steroids. She 
+was also given
+cetirizine, Benadryl, montelukast, and cromolyn. She refused to 
+be seen by psychiatry. These symptoms have been episodically 
+presented since ___ when she was exposed to nystatin for 
+oral candidiasis. Tryptase was rechecked here and once again 
+within normal limits. The neurology team was consulted and a 
+panel of tests were sent including B12, B6, hemoglobin A1c, TSH, 
+Lyme, Sjogren's antibodies, rheumatoid factor, urine 
+porphobilinogen which were all normal. Due to patient concern 
+about positive syphilis antibody test at ___ office, treponemal 
+antibody was sent which returned positive. RPR was negative, but 
+due to concern for possible neurosyphilis as the cause of her 
+symptoms she received an LP. CSF VDRL was negative. During this 
+admission, she had a number of self-described "inflammatory 
+attacks" that involved feelings of chest pain, flushing, burning 
+pains all over, and which she described as not being able to 
+take a full breath of air. During these episodes she remained 
+vitally stable apart from her tachycardia which is chronic. Labs 
+drawn throughout this admission were otherwise unremarkable. She 
+also complained of constipation and urinary retention. She was 
+given bowel regimen and post void residuals were measured by 
+bladder scan. She was continued on several home medications for 
+her allergic/immunologic symptoms including antihistamines.
+
+# Encephalopathy
+# Mania
+Patient was noted to be confused in the emergency department and 
+showing signs of mania including lack of sleep and perseveration 
+on her symptoms. This was thought possibly secondary to 
+receiving Ativan in the emergency department during morning 
+hours. Her mood symptoms and perseveration improved during the 
+course of the hospitalization and it was determined that she 
+would be safe to be discharged home with close psychiatric 
+follow-up.
+
+# Insomnia
+The patient endorsed not sleeping for up to 2 weeks. Tried 
+giving Seroquel and haloperidol with Ativan without success. 
+Patient did respond to Risperdal and was discharged on 1.5 mg 
+nightly and 0.5 mg Ativan nightly, with 0.5 mg Risperdal bid prn 
+for insomnia/distressing symptoms per psychiatry 
+recommendations.
+
+#Abnormal uterine bleeding 
+Patient noting abnormal uterine bleeding with patient denying 
+ongoing menstruation. Pt endorsed ongoing symptoms but never 
+witnessed while in house
+
+CONTACT:
+Dr. ___ (fiance) - ___
+CODE STATUS: full presumed
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Gabapentin 300 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Cetirizine 10 mg PO BID 
+RX *cetirizine 10 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+2.  LORazepam 0.5 mg PO QHS 
+RX *lorazepam 0.5 mg 1 tablet(s) by mouth at bedtime Disp #*14 
+Tablet Refills:*0 
+3.  Montelukast 10 mg PO DAILY  
+4.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 17 gram/dose 1 dose by mouth once a 
+day Refills:*0 
+5.  RisperiDONE 1.5 mg PO QHS 
+RX *risperidone 0.5 mg 3 tablet(s) by mouth at bedtime Disp #*90 
+Tablet Refills:*0 
+6.  RisperiDONE 0.5 mg PO BID:PRN insomnia  
+7.  Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+8.  Gabapentin 300 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+Insomnia
+Anticholinergic symptoms
+Acute mania
+
+SECONDARY DIAGNOSES:
+Possible autoimmune autonomic dysfunction
+History of carcinoid tumor
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___ 
+___.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were admitted to the hospital because you complained of 
+burning pains and inflammatory attacks.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- In the hospital, no unifying cause for your symptoms was 
+identified.  You did have a positive treponemal antibody for 
+syphilis, so you received a lumbar puncture to rule out 
+neurosyphilis as the cause of your symptoms.  These tests ruled 
+out syphilis as the cause of your symptoms. 
+
+- You had several other tests to rule out mast cell activation 
+syndrome and other rare diseases as the cause of your symptoms. 
+Your inflammatory markers were normal.
+
+- You were started on a medication called risperidone to help 
+with your sleep.
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- Please take all of your medications exactly as prescribed and 
+follow up with your outpatient providers.
+
+- Please stop pyridostigmine in favor of more gentle medications 
+like senna, bisacodyl, and miralax.
+
+- You have a psychiatry appointment with Dr. ___ on 
+___, ___ at 2:00 pm.
+
+- Please make an appointment to see your therapist Dr. ___ at 
+___.
+
+- Please follow up as soon as possible with your primary care 
+physician ___.
+
+We wish you the best!
+Your ___ Care Team 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11657354-DS-12 | hadm_id=29957704
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+nystatin / Gadolinium-Containing Contrast Media / shellfish 
+derived / metronidazole / vancomycin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+sore throat, fever, chills
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms ___ is a ___ y/o F w/ PMHx notable for dysautonomia 
+autoimmune neuropathy on IVIG, carcinoid tumor in lung s/p 
+resection who presents with nasal congestion, sore throat, 
+myalgias, subjective fevers and chills for three days. Her 
+partner/fiancé also having similar symptoms and reportedly got 
+better in a day. 
+
+Of note, patient s/p IVIG for autoimmune small fiber neuropathy 
+on ___, after the onset of her symptoms. She did not notice any 
+changes prior to that. 
+
+# Sore throat / myalgias / fevers / chills: On ___ developed 
+"swollen glands" in her neck in setting of her partner, ___, 
+having just recently had sore throat and URI-type symptoms. She 
+was concerned she might be catching whatever he had. On ___, 
+sore throat began and she had subjective fevers (but measured 
+temperature was normal).  On ___, sore throat not bothering her 
+much, but she did have some lethargy.  On ___, she got her 
+scheduled IVIG and noted that her sore throat became severe. She 
+developed sneezing, runny nose, and sputum production from the 
+nose.  On ___ she developed chills and measured her temperature 
+at 99.4 and presented to the ___ ED.  On presentation to the 
+emergency department she had tachycardia into the 120s and her 
+first temperature was 99.4. Her Tmax in the ED was 100.2. Her 
+CXR was not suggestive of PNA and her UA was clean.  Blood Cx 
+from ED were NGTD.  She presented to the medical floor on the 
+morning of ___ and on initial evaluation was feeling 
+significantly better, reporting that her chills and muscle aches 
+were improving, but that her sore throat was worsening. She 
+reported that Tylenol and ibuprofen in the ED were particularly 
+helpful for her pain.
+
+# ___ ulcer: patient had burning "rectal pain" with BMs on 
+___, associated with "swollen glands" in her neck and 
+subjective fevers (but no measured fever) on ___ burning 
+rectal pain worsened on ___ and patient had her partner examine 
+her anus and ___ region. They found a small ~3 mm 
+ulcerating erythematous lesion in the area she was having pain. 
+At which point she started taking Valtrex (she has hx of labial 
+herpes and oral herpes for which she has standing Rx for PRN 
+valacyclovir), however she only took 1 or 2 doses prior to 
+presenting to the hospital with severe sore throat, chills, and 
+subjective fever with temperature measured at 99.4 F at home.
+
+# Chronic medical issues:
+She reports her "autoimmune symptoms" are stable/improving with 
+IVIG and that her "mast-cell activation symptoms" are doing 
+really well as well. Says she has stopped taking cromyln for the 
+past ___ weeks because she has been so well-controlled in this 
+regard.  Says that she has experienced such an improvement in 
+her symptoms and quality of life over the past few months, that 
+she is hoping she will be able to return to working in the 
+not-too-distant future.
+
+ROS: 10 systems reviewed and negative except as noted above.
+ 
+Past Medical History:
+# Autoimmune autonomic neuropathy initiated on IVIG 
+# Small-fiber polyneuropathy
+  # Dysautonomia
+  # Bladder neck dyssynergia / Neurogenic bladder
+  # Dyssynergia between rectum and anal sphincter
+# Possible mast-cell activation syndrome: unclear if this Dx has 
+been confirmed
+# Chronic insomnia
+# Marijuana use (smoking): every-other day use since at least 
+___
+# Genital herpes
+# Hx of RUL carcinoid lung cancer in ___ s/p right lower 
+lobectomy, with some nodules that have been followed and are 
+stable. She also reports recent normal chromogranin A and 
+5-HIAA.
+# Per prior PMHx in POE (not confirmed): Delusional disorder 
+previously on cymbalta and risperidone, requiring numerous 
+psychiatric hospitalizations
+ 
+Social History:
+-Lives in ___ with fiancé and roommates. (Recently moved 
+in with her partner/fiancé Milt).
+-Used to work in human services, on disability since ___, but 
+says she is hoping to return to work in the coming months as she 
+has been feeling so much better w/ IVIG.
+-Says she is a never smoker
+-Denies any ongoing alcohol use, says that since ___ 
+she gets severe facial flushing with any alcohol intake, so 
+avoids alcohol now.
+-Uses marijuana: says she smokes marijuana approximately once 
+every other day, that it "helps a lot" with her dysautonomia 
+symptoms.
+-Denies any other recreational drug use
+-Endorses daily herbal/supplement use including: multivitamin, 
+fish oil, B12 (liquid formulation), acetyl-L-carinitine, and 
+alpha-lipoic acid. Says she also takes some others, on occasion, 
+but not regularly.
+
+ 
+Family History:
+She reports her father had DM2 c/b peripheral neuropathy.
+She reports her mother has no major medical ailments.
+She reports her 2 sisters have no major medical ailments.
+Per chart review: mother with schizophrenia and father with 
+bipolar disorder.
+ 
+Physical Exam:
+Gen: awake and in NAD laying in bed, appears well
+HEENT: anicteric sclera, EOMI, PERRL, oropharynx is clear with 
+no erythema, exudates, or swollen glands; no tongue lesions, no 
+apparent lesions on the hard palate or soft palate or under the 
+tongue, dentition is normal
+Neck: very mild submaxillary and anterior cervical 
+lymphadenopathy w/ mild tenderness to palpation, no posterior 
+cervical LAD or supraclavicular LAD
+Chest: CTAB, normal WOB
+Cards: RR, no m/r/g appreciated, S1S2 present
+Abd: S, NT, ND, BS+
+Neuro/MSK: moving all 4s with grossly normal strength and 
+coordination; able to sit up in bed without assistance
+Skin: relatively pale, no jaundice, no rashes or skin lesions 
+visible on arms, legs, chest, abdomen, back, face, or neck.
+GU: anogenital area inspected and no ulcers, lesions, or 
+pustules visualized
+Psych: calm, cooperative
+ 
+Pertinent Results:
+Admission labs: reviewed and notable for mild neutrophilic 
+leukocytosis.
+
+___ 11:05PM BLOOD WBC-11.4* RBC-4.42 Hgb-13.7 Hct-41.1 
+MCV-93 MCH-31.0 MCHC-33.3 RDW-12.1 RDWSD-41.0 Plt ___
+___ 11:05PM BLOOD Neuts-75.5* Lymphs-12.5* Monos-7.6 
+Eos-3.5 Baso-0.5 Im ___ AbsNeut-8.60* AbsLymp-1.42 
+AbsMono-0.87* AbsEos-0.40 AbsBaso-0.06
+___ 11:05PM BLOOD Glucose-86 UreaN-12 Creat-1.0 Na-140 
+K-4.0 Cl-101 HCO3-26 AnGap-13
+___ 11:05PM BLOOD ALT-32 AST-25 AlkPhos-105 TotBili-0.2
+___ 11:05PM BLOOD Albumin-4.7
+___ 11:12PM BLOOD Lactate-1.0
+
+UA: no evidence for infection/inflammation
+
+___ 11:45PM URINE Color-Straw Appear-Clear Sp ___
+___ 11:45PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+
+Micro: reviewed
+-___ UCx: NGTD
+-___ BCx: NGTD
+-___ BCx: NGTD
+
+Imaging: reviewed
+-___ CXR: no acute pathology; +hx of RLL lobectomy
+ 
+Brief Hospital Course:
+# ___ ulcer: patient had burning "rectal pain" with BMs on 
+___, associated with "swollen glands" in her neck and 
+subjective fevers (but no measured fever) on ___ burning 
+rectal pain worsened on ___ and patient had her partner examine 
+her anus and ___ region. They found a small ~3 mm 
+ulcerating erythematous lesion in the area she was having pain 
+(showed us a photograph of the lesion). At which point she 
+started taking Valtrex (she has hx of labial herpes and oral 
+herpes for which she has standing Rx for PRN valacyclovir), 
+however she only took 1 or 2 doses prior to presenting to the 
+hospital with severe sore throat, chills, and subjective fever 
+with temperature measured at 99.4 F at home.  On examination of 
+her genital & anal regions, she had no skin or mucous membrane 
+ulcers, lesions, or pustules, so we were not able to send an HSV 
+swab to confirm Dx of HSV recurrence.  We will treat empirically 
+for 5 days with valacyclovir on discharge given her recent oral 
+herpetic lesions (1 week ago) and the characteristic appearance 
+of the ___ lesion (2 days ago) even though neither is 
+currently present on exam, particularly given her sore throat & 
+odynophagia could represent an esophageal HSV lesion (though her 
+posterior oropharynx appeared normal on inspection).
+
+# Sore throat / myalgias / fevers / chills: ___ developed 
+"swollen glands" in her neck in setting of her partner, ___, 
+having just recently had sore throat and URI-type symptoms. She 
+was concerned she might be catching whatever he had. On ___, 
+sore throat began and she had subjective fevers (but measured 
+temperature was normal). On ___, sore throat not bothering her 
+much, but she did have some lethargy. On ___, she got her 
+scheduled IVIG and noted that her sore throat became severe. She 
+developed sneezing, runny nose, and sputum production from the 
+nose. On ___ she developed chills and measured her temperature 
+at 99.4 and presented to the ___ ED. On presentation to the 
+emergency department she had tachycardia into the 120s and her 
+first temperature was 99.4. Her Tmax in the ED was 100.2. Her 
+CXR was not suggestive of PNA and her UA was clean. Blood Cx 
+from ED were NGTD. She presented to the medical floor on the 
+morning of ___ and on initial evaluation was feeling 
+significantly better, reporting that her chills and muscle aches 
+were improving, but that her sore throat was worsening. She 
+reported that Tylenol and ibuprofen in the ED were particularly 
+helpful for her pain. On the medical floor she was given a trial 
+of symptomatic treatment with Maalox/lido solution + cepacol 
+lozenges + Tylenol + ibuprofen.  She was able to tolerate a 
+regular diet on the day of discharge without severe odynophagia. 
+ The patient felt that her constellation of symptoms was most 
+likely due to a viral URI, and we agree.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Cetirizine 10 mg PO BID 
+2. Montelukast 10 mg PO DAILY 
+3. Gabapentin 200 mg PO BID:PRN burning pain 
+4. DiphenhydrAMINE 25 mg PO Q6H:PRN flushing 
+5. Ranitidine 150 mg PO BID 
+6. Pyridostigmine Bromide 60 mg PO DAILY 
+7. Immune Globulin Intravenous (Human) 25 g IV EVERY 2 WEEKS 
+(TH) 
+8. ValACYclovir 1000 mg PO ASDIR 
+9. Multivitamins W/minerals 1 TAB PO DAILY 
+10. Fish Oil (Omega 3) 1000 mg PO DAILY 
+11. melatonin 5 mg oral QHS 
+12. Probiotic Blend (___) 2 billion 
+cell-50 mg oral DAILY 
+13. Cyanocobalamin 500 mcg PO DAILY 
+14. Acetyl-L-CARNitine (levOCARNitine HCl (bulk)) 500 mg oral 
+DAILY 
+15. alpha lipoic acid ___ mg oral DAILY 
+16. Acetaminophen 325-650 mg PO BID:PRN Pain - Mild/Fever 
+17. Ibuprofen 400 mg PO Q8H:PRN Pain - Mild 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# ___ ulcer: probable HSV lesion, now resolved
+# Sore throat / fevers / muscle aches: probable viral URI
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to the hospital with sore throat, fever, 
+muscle aches, malaise, and a painful ___ ulcer.  You had 
+labs checked, cultures drawn, and a chest X-ray performed.  
+There is no clear evidence for a bacterial infection that would 
+require antibiotics. We suspect your symptoms were due to a 
+viral illness, which is resolving on its own.  The ___ 
+ulcer had resolved by the time you were examined here in the 
+hospital, so we were unable to send a swab to the lab to test 
+for HSV (herpes simplex virus) to definitively assess if you 
+were having a herpes flare; but we think it is a good idea to 
+treat as if this is in fact an HSV flare with a total of 5 days 
+of valacyclovir.  We recommend that you follow-up with your 
+primary care physician in the next ___ weeks to assess for 
+resolution of your symptoms.
+
+We wish you the best.
+
+Sincerely,
+Your ___ Medicine Team
+ 
+Followup Instructions:
+___

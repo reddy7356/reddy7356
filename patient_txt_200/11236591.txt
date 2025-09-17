@@ -1,0 +1,1010 @@
+===== DISCHARGE NOTE =====
+note_id=11236591-DS-20 | hadm_id=21768157
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Scheduled Chemotherapy
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ yo female with a history of synovial sarcoma who is admitted
+for week 3 scheduled radiation and chemotherapy with 
+doxorubicin.
+The patient states she did overall well at home over the weekend
+but was very nervous. She did requiring the oxycodone almost
+every 4 hours consistently due to the pain. She did have some
+nausea last night. She denies any fevers, shortness of breath,
+constipation, or dysuria. Of note she was recently admitted from
+___ for weeks 1 & 2 of doxorubicin with concurrent
+radiation. She was not discharged in between those weeks due to
+need for pain control. She also had a port placed during that
+admission.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (per OMR):
+Left Shoulder Synovial Sarcoma
+- ___ Increase right shoulder pain and swelling
+- ___ Ultrasound showed a large ill-defined masslike
+structure in the left shoulder/upper arm without evidence of 
+deep
+vein thrombosis.
+- ___ MRI showed a heterogeneously enhancing soft tissue mass
+measuring 11.9 x 10.7 x 9.8 cm seen circumferentially around the
+left humeral head, neck, and proximal shaft. There was extension
+of mass into the axilla and multiple surrounding muscles. There
+was associated abnormal marrow signal in the proximal humerus.
+- ___ Ultrasound guided core needle biopsy
+- ___ Bone Scan trace uptake in the left humeral head 
+without
+other abnormality.
+- ___ CT Chest on the same date showed several non-specific
+lung nodules all measuring less than ___s increased
+number and size of left axillary lymph nodes.
+- Screening mammogram that showed a 3 mm left
+breast lesion.
+- ___ Week 1 Doxorubicin and Radiation
+- ___ Week 2 Doxorubicin and Radiation
+PAST MEDICAL HISTORY:
+-Hyperlipidemia.
+-Arthritis.
+-Left humerus fracture ___.
+-s/p Left total hip replacement ___ ___.
+-s/p Right ACL repair ___.
+-s/p C-sections x2 in ___ and ___.
+ 
+Social History:
+___
+Family History:
+Mother - Lung cancer (smoker), stroke, hypertension, depression,
+alcohol abuse.
+Father - Lung cancer (smoker), hypertension, gout.
+ 
+Physical Exam:
+General:  NAD
+VITAL SIGNS: T 98.1 BP 96/48 HR 72 RR 18 O2 96%RA
+HEENT:  MMM, no OP lesions
+CV:  RR, NL S1S2
+PULM:  CTAB
+ABD:  Soft, NTND, no masses or hepatosplenomegaly
+LIMBS:  LUE edema and tenderness to palpation with decreased
+range of motion due to pain. No ___ edema.
+SKIN:  No rashes or skin breakdown. R chest port healing well
+with no erythema or drainage.
+NEURO: Alert and oriented, no focal deficits.
+ 
+Pertinent Results:
+___ 05:10AM BLOOD WBC-7.0 RBC-3.41* Hgb-10.1* Hct-31.8* 
+MCV-93 MCH-29.6 MCHC-31.8* RDW-14.1 RDWSD-45.3 Plt ___
+___ 09:30AM BLOOD ___ PTT-32.8 ___
+___ 05:10AM BLOOD Glucose-82 UreaN-7 Creat-0.6 Na-136 K-3.9 
+Cl-99 HCO3-26 AnGap-15
+___ 05:10AM BLOOD ALT-8 AST-9 AlkPhos-79 TotBili-0.6
+___ 05:10AM BLOOD Calcium-8.8 Phos-4.0 Mg-2.0
+LUE Doppler:
+No evidence of deep vein thrombosis in the left upper extremity.
+ 
+Brief Hospital Course:
+___ yo female with a history of synovial sarcoma who was admitted 
+for week 3 scheduled radiation and chemotherapy with 
+doxorubicin.
+
+Synovial Sarcoma
+- She received doxorubicin and radiation per protocol. She 
+tolerated it well. She was hypotensive on the morning of 
+discharge but was asymptotic and improved with IV fluids. Social 
+work was consulted. She had a sore mouth and was given cepacol 
+and nystatin with improvement. She had some increased swelling 
+in her left hand and wrist so a Doppler was done and was 
+negative for a DVT. This swelling was likely due to the 
+radiation. Her oxycontin dose was increased due to frequent use 
+of oxycodone and she then had better pain control. She will 
+return on ___ for her next cycle of chemotherapy and radiation.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+2. OxyCODONE SR (OxyconTIN) 20 mg PO Q8H 
+3. Lidocaine 5% Patch 2 PTCH TD DAILY:PRN elbow or arm pain 
+4. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN pain 
+5. Docusate Sodium 200 mg PO BID 
+6. LORazepam 0.5 mg PO Q8H:PRN nausea, vomiting 
+7. Ondansetron 8 mg PO Q8H:PRN nausea 
+8. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+9. Senna 17.2 mg PO BID 
+10. Acetaminophen ___ mg PO Q8H:PRN pain, headache 
+11. Capsaicin 0.025% 1 Appl TP QID:PRN elbow pain 
+12. Naproxen 500 mg PO Q8H:PRN pain 
+
+ 
+Discharge Medications:
+1. OxyCODONE SR (OxyconTIN) 30 mg PO Q8H 
+RX *oxycodone [OxyContin] 30 mg 1 tablet(s) by mouth every eight 
+(8) hours Disp #*50 Tablet Refills:*0
+2. Acetaminophen ___ mg PO Q8H:PRN pain, headache 
+3. Capsaicin 0.025% 1 Appl TP QID:PRN elbow pain 
+4. Docusate Sodium 200 mg PO BID 
+5. Lidocaine 5% Patch 2 PTCH TD DAILY:PRN elbow or arm pain 
+6. LORazepam 0.5 mg PO Q8H:PRN nausea, vomiting 
+7. Ondansetron 8 mg PO Q8H:PRN nausea 
+8. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN pain 
+9. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+10. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+11. Senna 17.2 mg PO BID 
+12. Cepacol (Sore Throat Lozenge) 1 LOZ PO Q2H:PRN Sore Throat 
+RX *benzocaine-menthol [Cepacol Sore Throat ___ 15 
+mg-2.6 mg Take 1 lozenge by mouth. q2h Disp #*16 Lozenge 
+Refills:*0
+13. Nystatin Oral Suspension 5 mL PO QID:PRN mouth pain 
+RX *nystatin 100,000 unit/mL 5 mL by mouth four times a day 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Sarcoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for scheduled chemotherapy and radiation. You 
+tolerated it well. Your long acting pain medication was 
+increased to better control your pain.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11236591-DS-19 | hadm_id=23573073
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+elective admission for chemotherapy
+ 
+Major Surgical or Invasive Procedure:
+___ line placement
+
+ 
+History of Present Illness:
+___ year old female w/ recently diagnosed synovial sarcoma of R
+shoulder who is admitted for chemo-radiation. In short, pt
+developed worsening pain of R shoulder while undergoing ___ after
+suffering a fall. Eventually also had swelling and husband
+noticed a mass like area leading her to have it further
+evaluated.  Biopsy was most c/w synovial sarcoma. Pet last week
+showed in addn to the mass some enlarged axillary LN. 
+Plan is for several weeks of XRT w/ radiosensitizing Adriamycin
+and eventual resection.  
+SHe initiated XRT today. reports that she has nearly constant
+pain all around the shoulder, wakes her from sleep. she does get
+relief from oxycodone but lately needing to use 2 tabs at least
+twice to 3 times per day. Has chronic constipation, unchanged,
+has small BM most days. Denies any fever/chills or weight loss.
+Denies and numbness of L arm, able to grip. has some swelling of
+upper arm and into forearm. 
+
+REVIEW OF SYSTEMS:
+GENERAL: No fever, chills, night sweats, recent weight changes. 
+HEENT: No mouth sores, odynophagia, sinus tenderness, 
+rhinorrhea,
+or congestion. 
+CARDS: No chest pain, chest pressure, exertional symptoms, or
+palpitations. 
+PULM: No cough, shortness of breath, hemoptysis, or wheezing. 
+GI: No nausea, vomiting, diarrhea, constipation or abdominal
+pain. No hematochezia, or melena. 
+GU: No dysuria, hematuruia or frequency. 
+MSK: as above
+DERM: Denies rashes, itching, or skin breakdown. 
+NEURO: No headache, visual changes, numbness, paresthesias, 
+focal
+weakness, or neurologic symptoms. 
+HEME: No bleeding or clotting
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY: per OMR
+She notes issues with her left shoulder started about a year ago
+when she had a mechanical fall (slipped on gravel) from standing
+that led to a proximal humerus fracture. This was treated
+non-operatively, and she had been doing well rehabilitating it
+almost completely until earlier this year when she noted
+increased swelling and pain in ___. She had been continuing
+physical therapy, but the swelling and pain progressed.
+Ultrasound on ___ showed a large ill-defined masslike
+structure in the left shoulder/upper arm without evidence of 
+deep
+vein thrombosis. She then underwent MRI of the left shoulder on
+___ that showed a heterogeneously enhancing soft tissue mass
+measuring 11.9 x 10.7 x 9.8 cm seen circumferentially around the
+left humeral head, neck, and proximal shaft. There was extension
+of mass into the axilla and multiple surrounding muscles. There
+was associated abnormal marrow signal in the proximal humerus.
+
+She underwent ultrasound-guided core-needle biopsy on ___.
+Final pathology is pending, but preliminary discussion with
+Pathology indicates this to be most likely a synovial sarcoma vs
+malignant peripheral nerve sheath tumor. Bone scan on ___
+showed trace uptake in the left humeral head without other
+abnormality. CT Chest on the same date showed several
+non-specific lung nodules all measuring less than ___s
+increased number and size of left axillary lymph nodes.
+
+She had a screening mammogram last week that showed a 3 mm left
+breast lesion.
+
+She met with Dr. ___ in ___ on ___ and
+had a discussion regarding the likelihood of needing a combined
+modality approach to treatment involving radiation, 
+chemotherapy,
+and surgery. She met with Dr. ___ in Radiation ___
+with plan to have markers placed.  
+
+PET-CT on ___ showed 
+IMPRESSION: 1. Large hyperdense mass surrounding the humeral 
+head
+and proximal  humerus with SUV max of 19.8. 2. Multiple enlarged
+left axillary lymph nodes with SUV max of 3.9. 3. Multiple
+enlarged left supraclavicular lymph nodes with 
+no significant radiotracer activity. 4. No evidence of distant
+metastatic  disease. 5. 3 mm right middle lobe lung nodule with
+no appreciable radiotracer  activity. 
+
+PAST MEDICAL HISTORY:
+-Suspected soft tissue sarcoma as above.
+-Hyperlipidemia.
+-Arthritis.
+-Left humerus fracture ___.
+-s/p Left total hip replacement ___ ___.
+-s/p Right ACL repair ___.
+-s/p C-sections x2 in ___ and ___.
+
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:
+Mother - Lung cancer (smoker), stroke, hypertension, depression,
+alcohol abuse.
+Father - Lung cancer (smoker), hypertension, gout.
+
+ 
+Physical Exam:
+DISCHARGE EXAM:
+VITAL SIGNS: ___ 110/60 60 97% RA 170.9 lbs
+HEENT:  MMM, no OP lesions 
+Neck: supple
+CV:  RR, NL S1S2 no S3S4 or MRG
+PULM:  CTAB nonlabored
+ABD:  BS+, soft, NTND, no masses or hepatosplenomegaly
+EXT:  warm well perfused, no ___ edema, protruding mass over L
+anterior shoulder extending over deltoid, L bicep region and
+proximal forearm. LUE swelling much improved as well as ROM 
+today
+SKIN:  No rashes or skin breakdown
+NEURO:  grossly wnl 
+ 
+Pertinent Results:
+DISCHARGE LABS:
+
+___ 04:35AM BLOOD WBC-11.1* RBC-3.43* Hgb-10.3* Hct-32.1* 
+MCV-94 MCH-30.0 MCHC-32.1 RDW-12.9 RDWSD-43.1 Plt ___
+___ 04:35AM BLOOD Plt ___
+___ 04:35AM BLOOD Glucose-114* UreaN-14 Creat-0.4 Na-140 
+K-4.0 Cl-104 HCO3-25 AnGap-15
+___ 04:35AM BLOOD ALT-7 AST-6 LD(LDH)-176 AlkPhos-92 
+TotBili-0.2
+___ 04:35AM BLOOD Albumin-3.2* Calcium-9.1 Phos-4.0 Mg-2.0
+
+IMAGING:
+
+___ ULTRASOUND:
+There is normal flow with respiratory variation in the bilateral 
+subclavian vein. The left internal jugular and axillary veins 
+are patent, show normal color flow and compressibility. The left 
+brachial, basilic, and cephalic veins are patent, compressible 
+and show normal color flow. Re- demonstration of the left 
+shoulder sarcoma measures 5.3 x 9.2 x 9.7 cm.
+
+IMPRESSION:  
+No evidence of deep vein thrombosis in the left upper extremity. 
+Known left shoulder sarcoma. 
+
+___
+PORT PLACED 
+Successful placement of a double lumen chest power Port-a-cath 
+via the right
+internal jugular venous approach. The tip of the catheter 
+terminates in the
+right atrium. The catheter is ready for use.
+
+ 
+Brief Hospital Course:
+___ w/ new dx of sarcoma of L shoulder admitted for chemo/XRT.
+
+# Sarcoma, MPNS 
+Her sarcoma is localized to her left shoulder. She was admitted 
+for her first week of concurrent neoadjuvant chemotherapy (low 
+dose Doxorubicin) and preoperative external radiation therapy to 
+facilitate limb-sparing approach/resection. Initiated XRT and 
+chemo on ___ C1D1 Doxorubicin for radiosensitization. She 
+will be on this regimen M-F. She was not discharged over the 
+first weekend for pain control. She is now tolerating C2 and 
+pain is much improved.
+
+- PICC for chemo placed on admission, removed
+- port placed ___ uneventfully
+- due for ___
+- t/b Dr. ___ Dr. ___ with updates
+
+# L shoulder pain
+This pain is due to sarcoma infiltration of tissues/joint space. 
+She had increased swelling of her arm and US was neg for DVT. 
+The swelling and pain improved with chemo/XRT, as well as dex, 
+her ___ oil, lidocaine patch, and capsaicin cream. At the time 
+of discharge, she was still using ___ mg of  prn oxycodone in 
+addition to q8 oxycontin. Since she is improving and will be 
+going home for two days before returning, it is best to see how 
+she does over the weekend and if when she returns on ___, she 
+is still requiring significant amount of PRN, will increase her 
+oxycontin. 
+
+- cont oxycontin 20 mg TID
+- cont oxycodone ___ q4 prn
+- bid c/s (moved bowels daily)
+- cont ___ oil she uses from home
+- cont lidocaine patch and capsaicin cream prn
+- per ortho, no lifting/pushing/pulling > 5 pounds
+- cont OT for maintaining/improving ROM
+
+# Leukocytosis 
+She had mild leukocytosis most likely reactive to the IV 
+dexamethasone she received during chemotherapy. SHe had no e/o 
+infection, clear UA, and no skin breakdown. 
+
+BOWEL REGIMEN: senna/Colace/miralax. 
+FEN: Regular diet
+DVT PROPHYLAXIS:SQ enoxaparin while inpatient
+ACCESS:  double lumen chest power Port-a-cath via RIJ placed 
+___
+CODE STATUS: Full code
+DISPO: Home
+BILLING: >30 min spent coordinating care for discharge
+____________________
+___, D.O.
+Heme/Onc Hospitalist
+___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron 8 mg PO Q8H:PRN nausea 
+2. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+3. LORazepam 0.5 mg PO Q8H:PRN nausea, vomiting 
+4. Docusate Sodium 100 mg PO BID 
+5. Senna 8.6 mg PO BID 
+6. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN pain 
+7. Naproxen 500 mg PO Q8H:PRN pain 
+
+ 
+Discharge Medications:
+1. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+2. OxyCODONE SR (OxyconTIN) 20 mg PO Q8H 
+RX *oxycodone [OxyContin] 20 mg 1 tablet(s) by mouth every eight 
+(8) hours Disp #*42 Tablet Refills:*0
+3. Lidocaine 5% Patch 2 PTCH TD DAILY:PRN elbow or arm pain 
+RX *lidocaine [Lidoderm] 5 % apply 2 patches daily Disp #*60 
+Patch Refills:*0
+4. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth q4hrs prn pain Disp 
+#*140 Tablet Refills:*0
+5. Docusate Sodium 200 mg PO BID 
+6. LORazepam 0.5 mg PO Q8H:PRN nausea, vomiting 
+7. Ondansetron 8 mg PO Q8H:PRN nausea 
+8. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+9. Senna 17.2 mg PO BID 
+10. Acetaminophen ___ mg PO Q8H:PRN pain, headache 
+11. Capsaicin 0.025% 1 Appl TP QID:PRN elbow pain 
+12. Naproxen 500 mg PO Q8H:PRN pain 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Sarcoma
+L arm pain
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___, 
+
+It was a pleasure caring for you during your stay at ___. You 
+were admitted for initiation of adriamycin and chemotherapy and 
+radiation.You tolerated this well. You will need to return to 11 
+Reismann in the morning on ___ for your third cycle of 
+Doxorubicin. 
+
+Please continue taking your pain regimen as instructed. Keep a 
+log of how often you are needing your oxycodone (short-acting). 
+If you continue to require more than 20 mg per day, we can 
+discuss on ___ when you return whether we need to increase 
+the long-acting oxycontin. If you have any issues which need 
+immediate attention, please call your oncologist. 
+
+As instructed by your orthopedic surgeon, no 
+lifting/pushing/pulling > 5 pounds with your left arm. Please 
+continue the treatments recommended to you by the occupational 
+therapist. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11236591-DS-22 | hadm_id=25058189
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Admit for Chemotherapy.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo female with a history of synovial sarcoma who is admitted
+for week 5 scheduled radiation and chemotherapy with 
+doxorubicin. She completed week 4 on ___ states she is 
+doing
+well since prior admission for chemo, and has adjusted her home
+oxycontin to feel more alert, taking 20mg in the AM, 20mg in the
+afternoon and 20mg in the evenings. 
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (per OMR):
+Left Shoulder Synovial Sarcoma
+- ___ Increase right shoulder pain and swelling
+- ___ Ultrasound showed a large ill-defined masslike
+structure in the left shoulder/upper arm without evidence of 
+deep
+vein thrombosis.
+- ___ MRI showed a heterogeneously enhancing soft tissue mass
+measuring 11.9 x 10.7 x 9.8 cm seen circumferentially around the
+left humeral head, neck, and proximal shaft. There was extension
+of mass into the axilla and multiple surrounding muscles. There
+was associated abnormal marrow signal in the proximal humerus.
+- ___ Ultrasound guided core needle biopsy
+- ___ Bone Scan trace uptake in the left humeral head 
+without
+other abnormality.
+- ___ CT Chest on the same date showed several non-specific
+lung nodules all measuring less than ___s increased
+number and size of left axillary lymph nodes.
+- Screening mammogram that showed a 3 mm left
+breast lesion.
+- ___ Week 1 Doxorubicin and Radiation
+- ___ Week 2 Doxorubicin and Radiation
+- ___ completed week 4 doxorubicin/RT
+PAST MEDICAL HISTORY:
+-Hyperlipidemia.
+-Arthritis.
+-Left humerus fracture ___.
+-s/p Left total hip replacement ___ ___.
+-s/p Right ACL repair ___.
+-s/p C-sections x2 in ___ and ___.
+ 
+Social History:
+___
+Family History:
+Mother - Lung cancer (smoker), stroke, hypertension, depression,
+alcohol abuse.
+Father - Lung cancer (smoker), hypertension, gout.
+ 
+Physical Exam:
+VITAL SIGNS: 98.1  100/52  78  18  96%RA
+HEENT:  MMM, no OP lesions
+CV:  RR, NL S1S2
+PULM:  CTAB
+ABD:  Soft, NTND, no masses or hepatosplenomegaly
+LIMBS:  LUE edema and tenderness to palpation with decreased
+range of motion due to pain. Entire left shoulder joint appears
+swollen but stable compared to prior and per pt much decreased
+compared to prior to initating chemotherapy. No ___ edema. Distal
+strength/pulses/perfusion intact.
+SKIN:  No rashes or skin breakdown. R chest port healing well
+with no erythema or drainage.
+NEURO: Alert and oriented, no focal deficits.
+ 
+Pertinent Results:
+___ 06:16AM BLOOD WBC-5.2 RBC-3.35* Hgb-10.3* Hct-31.7* 
+MCV-95 MCH-30.7 MCHC-32.5 RDW-16.9* RDWSD-56.8* Plt ___
+___ 06:16AM BLOOD UreaN-8 Creat-0.6 Na-137 K-3.8 Cl-101 
+HCO3-25 AnGap-15
+___ 06:16AM BLOOD ALT-6 AST-9 AlkPhos-66 TotBili-0.3
+___ 06:24AM BLOOD Calcium-9.1 Phos-3.___ yo female with a history of synovial sarcoma who was admitted 
+for week 5 scheduled radiation and chemotherapy with 
+doxorubicin.
+
+Synovial Sarcoma
+- Completed scheduled chemotherapy week 5 with doxorubicin with 
+concurrent radiation with no complications. She will follow up 
+with surgery and her primary oncologist as an outpatient. Her 
+home oxycontin dose was decreased during this admission as she 
+no longer needed the higher dose.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen ___ mg PO Q8H:PRN pain, headache 
+2. Capsaicin 0.025% 1 Appl TP QID:PRN elbow pain 
+3. Cepacol (Sore Throat Lozenge) 1 LOZ PO Q2H:PRN Sore Throat 
+4. Docusate Sodium 200 mg PO BID 
+5. Lidocaine 5% Patch 2 PTCH TD DAILY:PRN elbow or arm pain 
+6. LORazepam 0.5 mg PO Q8H:PRN nausea, vomiting 
+7. Nystatin Oral Suspension 5 mL PO QID:PRN mouth pain 
+8. Ondansetron 8 mg PO Q8H:PRN nausea 
+9. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN pain 
+10. OxyCODONE SR (OxyconTIN) 30 mg PO QHS 
+11. OxyCODONE SR (OxyconTIN) 20 mg PO QAM 
+12. OxyCODONE SR (OxyconTIN) 20 mg PO LUNCH 
+13. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+14. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+15. Senna 17.2 mg PO BID 
+
+ 
+Discharge Medications:
+1. Acetaminophen ___ mg PO Q8H:PRN pain, headache 
+2. Docusate Sodium 200 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 2 capsule(s) by mouth twice 
+a day Disp #*120 Capsule Refills:*0
+3. Lidocaine 5% Patch 2 PTCH TD DAILY:PRN elbow or arm pain 
+4. LORazepam 0.5 mg PO Q8H:PRN nausea, vomiting 
+RX *lorazepam 0.5 mg 1 tablet by mouth every 8 hours as needed 
+Disp #*40 Tablet Refills:*0
+5. Nystatin Oral Suspension 5 mL PO QID:PRN mouth pain 
+RX *nystatin 100,000 unit/mL 5 mL by mouth QID prn Refills:*0
+6. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 4 hours as 
+needed Disp #*90 Tablet Refills:*0
+7. OxyCODONE SR (OxyconTIN) 20 mg PO Q8H 
+RX *oxycodone 20 mg 1 tablet(s) by mouth three times a day Disp 
+#*60 Tablet Refills:*0
+8. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+9. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+RX *prochlorperazine maleate 10 mg 1 tablet(s) by mouth every 6 
+hours as needed Disp #*45 Tablet Refills:*0
+10. Senna 17.2 mg PO BID 
+RX *sennosides [senna] 8.6 mg 2 tablets by mouth twice a day 
+Disp #*120 Tablet Refills:*0
+11. Capsaicin 0.025% 1 Appl TP QID:PRN elbow pain 
+12. Cepacol (Sore Throat Lozenge) 1 LOZ PO Q2H:PRN Sore Throat 
+13. Ondansetron 8 mg PO Q8H:PRN nausea 
+RX *ondansetron 8 mg 1 tablet(s) by mouth every 8 hours as 
+needed Disp #*24 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Sarcoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for chemotherapy and radiation which you 
+tolerated well.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11236591-DS-21 | hadm_id=28694151
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Scheduled chemotherapy
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+___ yo female with a history of synovial sarcoma who is admitted
+for week 4 scheduled radiation and chemotherapy with 
+doxorubicin.
+
+She states she is doing well since prior admission for chemo,
+,and has adjusted her home oxycontin to feel more alert, taking
+20mg in the AM, 20mg in the afternoon and 20mg in the evenings. 
+
+She denies any fevers, shortness of breath,
+constipation, or dysuria. Of note she was recently admitted from
+for doxorubicin with concurrent radiation.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (per OMR):
+Left Shoulder Synovial Sarcoma
+- ___ Increase right shoulder pain and swelling
+- ___ Ultrasound showed a large ill-defined masslike
+structure in the left shoulder/upper arm without evidence of 
+deep
+vein thrombosis.
+- ___ MRI showed a heterogeneously enhancing soft tissue mass
+measuring 11.9 x 10.7 x 9.8 cm seen circumferentially around the
+left humeral head, neck, and proximal shaft. There was extension
+of mass into the axilla and multiple surrounding muscles. There
+was associated abnormal marrow signal in the proximal humerus.
+- ___ Ultrasound guided core needle biopsy
+- ___ Bone Scan trace uptake in the left humeral head 
+without
+other abnormality.
+- ___ CT Chest on the same date showed several non-specific
+lung nodules all measuring less than ___s increased
+number and size of left axillary lymph nodes.
+- Screening mammogram that showed a 3 mm left
+breast lesion.
+- ___ Week 1 Doxorubicin and Radiation
+- ___ Week 2 Doxorubicin and Radiation
+PAST MEDICAL HISTORY:
+-Hyperlipidemia.
+-Arthritis.
+-Left humerus fracture ___.
+-s/p Left total hip replacement ___ ___.
+-s/p Right ACL repair ___.
+-s/p C-sections x2 in ___ and ___.
+ 
+Social History:
+___
+Family History:
+Mother - Lung cancer (smoker), stroke, hypertension, depression,
+alcohol abuse.
+Father - Lung cancer (smoker), hypertension, gout.
+ 
+Physical Exam:
+General:  NAD
+VITAL SIGNS: VSS
+HEENT:  MMM, no OP lesions
+CV:  RR, NL S1S2
+PULM:  CTAB
+ABD:  Soft, NTND, no masses or hepatosplenomegaly
+LIMBS:  LUE edema and tenderness to palpation with decreased
+range of motion due to pain. No ___ edema.
+SKIN:  No rashes or skin breakdown. R chest port healing well
+with no erythema or drainage.
+NEURO: Alert and oriented, no focal deficits.
+ 
+Pertinent Results:
+___ 04:34AM BLOOD WBC-4.6 RBC-3.14* Hgb-9.5* Hct-29.6* 
+MCV-94 MCH-30.3 MCHC-32.1 RDW-15.5 RDWSD-51.7* Plt ___
+___ 04:34AM BLOOD Glucose-77 UreaN-7 Creat-0.5 Na-139 K-3.6 
+Cl-102 HCO3-25 AnGap-___ yo female with a history of synovial sarcoma who is admitted
+for week 3 scheduled radiation and chemotherapy with 
+doxorubicin.
+
+Synovial Sarcoma
+- Scheduled chemotherapy with doxorubicin with concurrent
+radiation with no complications 
+
+PAIN:
+- Continued home oxycodone, increase dose of home oxycontin due 
+to
+increased usage. Continue home lidocaine patch and capsaicin.
+
+BOWEL REGIMEN:
+- Continued home miralax, senna, and Colace.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. OxyCODONE SR (OxyconTIN) 30 mg PO Q8H 
+2. Acetaminophen ___ mg PO Q8H:PRN pain, headache 
+3. Capsaicin 0.025% 1 Appl TP QID:PRN elbow pain 
+4. Docusate Sodium 200 mg PO BID 
+5. Lidocaine 5% Patch 2 PTCH TD DAILY:PRN elbow or arm pain 
+6. LORazepam 0.5 mg PO Q8H:PRN nausea, vomiting 
+7. Ondansetron 8 mg PO Q8H:PRN nausea 
+8. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN pain 
+9. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+10. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+11. Senna 17.2 mg PO BID 
+12. Cepacol (Sore Throat Lozenge) 1 LOZ PO Q2H:PRN Sore Throat 
+13. Nystatin Oral Suspension 5 mL PO QID:PRN mouth pain 
+
+ 
+Discharge Medications:
+1. Acetaminophen ___ mg PO Q8H:PRN pain, headache 
+2. Capsaicin 0.025% 1 Appl TP QID:PRN elbow pain 
+3. Cepacol (Sore Throat Lozenge) 1 LOZ PO Q2H:PRN Sore Throat 
+4. Docusate Sodium 200 mg PO BID 
+5. Lidocaine 5% Patch 2 PTCH TD DAILY:PRN elbow or arm pain 
+6. LORazepam 0.5 mg PO Q8H:PRN nausea, vomiting 
+7. Nystatin Oral Suspension 5 mL PO QID:PRN mouth pain 
+8. Ondansetron 8 mg PO Q8H:PRN nausea 
+9. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN pain 
+10. OxyCODONE SR (OxyconTIN) 30 mg PO QHS 
+11. OxyCODONE SR (OxyconTIN) 20 mg PO QAM 
+12. OxyCODONE SR (OxyconTIN) 20 mg PO LUNCH 
+13. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+14. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+15. Senna 17.2 mg PO BID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Synovial Sarcoma 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Please follow up with your primary oncologist 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11236591-DS-23 | hadm_id=29898381
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+L shoulder pain
+ 
+Major Surgical or Invasive Procedure:
+L proximal humerus resection with reconstruction via ___ RTSA 
+and latisumus dorsi rotational flap
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with L proximal humerus 
+malignant peripheral nerve sheath tumor.  She is coming today 
+for definitive local
+control in aim of cure of this disease.  The patient signed
+informed consent in the outpatient setting.  Discussed risks
+including infection, wound complications, need for additional
+surgery, involvement of neurovascular function, need for a
+vascular bypass and other reperfusion interventions.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (per OMR):
+Left Shoulder Synovial Sarcoma
+- ___ Increase right shoulder pain and swelling
+- ___ Ultrasound showed a large ill-defined masslike
+structure in the left shoulder/upper arm without evidence of 
+deep
+vein thrombosis.
+- ___ MRI showed a heterogeneously enhancing soft tissue mass
+measuring 11.9 x 10.7 x 9.8 cm seen circumferentially around the
+left humeral head, neck, and proximal shaft. There was extension
+of mass into the axilla and multiple surrounding muscles. There
+was associated abnormal marrow signal in the proximal humerus.
+- ___ Ultrasound guided core needle biopsy
+- ___ Bone Scan trace uptake in the left humeral head 
+without
+other abnormality.
+- ___ CT Chest on the same date showed several non-specific
+lung nodules all measuring less than ___s increased
+number and size of left axillary lymph nodes.
+- Screening mammogram that showed a 3 mm left
+breast lesion.
+- ___ Week 1 Doxorubicin and Radiation
+- ___ Week 2 Doxorubicin and Radiation
+- ___ completed week 4 doxorubicin/RT
+PAST MEDICAL HISTORY:
+-Hyperlipidemia.
+-Arthritis.
+-Left humerus fracture ___.
+-s/p Left total hip replacement ___ ___.
+-s/p Right ACL repair ___.
+-s/p C-sections x2 in ___ and ___.
+ 
+Social History:
+___
+Family History:
+Mother - Lung cancer (smoker), stroke, hypertension, depression,
+alcohol abuse.
+Father - Lung cancer (smoker), hypertension, gout.
+ 
+Physical Exam:
+NAD, AOX3, resting comfortably
+LUE: 
+-Dresssing c/d/I. Wound with improvement without erythema
+- Sling in place. Motor intact to EPL/FPL/grip. SILT r/m/u 
+distribution with intermittent tingling. 
+- 2+ radial pulse
+
+ 
+Pertinent Results:
+___ 08:50AM BLOOD WBC-7.1 RBC-2.92* Hgb-8.5* Hct-26.9* 
+MCV-92 MCH-29.1 MCHC-31.6* RDW-16.4* RDWSD-55.1* Plt ___
+___ 08:50AM BLOOD Glucose-91 UreaN-7 Creat-0.4 Na-136 K-3.4 
+Cl-99 HCO3-28 AnGap-12
+ 
+Brief Hospital Course:
+Mrs. ___ is a ___ who was admitted post-operatively 
+following resection of L proximal humerus with subsequent bony 
+reconstruction via APC with RTSA and soft tissue reconstruction 
+via latissumus flap with plastic surgery. She was admitted 
+post-operatively to the ICU intubated for respiratory management 
+as she received 4U PRBC intraop in addition to a large amount of 
+fluid. She was extubated on POD#2 and was subsequently 
+transferred out of the ICU on POD#. She had confusion overnight 
+stated "not feel safe on this floor" oriented to person, ___, 
+but thinks in ___, knows year but not month. This resolved 
+following decrease in Benadryl and giving Seroquel. She was seen 
+by ___ who recommended Acute rehab given level of deconditioning. 
+On POD#6 she was medically cleared for discharge. Her pain was 
+controlled on PO medications, voiding independently, tolerating 
+PO and had a bowel movement. She was discharged when a rehab bed 
+was available.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron 8 mg PO Q8H:PRN nausea 
+2. Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild 
+3. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+4. LORazepam 0.5 mg PO DAILY:PRN anxiety 
+5. Docusate Sodium 100 mg PO BID 
+6. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+7. Senna 8.6 mg PO BID:PRN constipation 
+8. Fluticasone Propionate NASAL 1 SPRY NU DAILY allergies 
+9. Silver Sulfadiazine 1% Cream 1 Appl TP BID 
+10. OxyCODONE (Immediate Release) 10 mg PO BID:PRN Pain - Severe 
+
+11. OxyCODONE SR (OxyconTIN) 20 mg PO Q8H 
+12. ___ ___ UNIT PO Q6H:PRN thrush 
+
+ 
+Discharge Medications:
+1.  Aspirin 325 mg PO DAILY Duration: 4 Weeks  
+2.  Cephalexin 500 mg PO Q6H 
+RX *cephalexin 500 mg 1 tablet(s) by mouth four times daily Disp 
+#*56 Tablet Refills:*0 
+3.  Levofloxacin 500 mg PO Q24H Duration: 2 Weeks 
+RX *levofloxacin 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*28 Tablet Refills:*0 
+4.  Acetaminophen 650 mg PO Q6H pain  
+5.  LORazepam 0.5 mg PO TID anxiety  
+6.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*60 Tablet Refills:*0 
+7.  OxyCODONE SR (OxyconTIN) 20 mg PO BID 
+RX *oxycodone [OxyContin] 20 mg 1 tablet(s) by mouth every 
+twelve (12) hours Disp #*30 Tablet Refills:*0 
+8.  Docusate Sodium 100 mg PO BID  
+9.  Fluticasone Propionate NASAL 1 SPRY NU DAILY allergies  
+10.  ___ ___ UNIT PO Q6H:PRN thrush  
+11.  Ondansetron 8 mg PO Q8H:PRN nausea  
+12.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+13.  Prochlorperazine 10 mg PO Q6H:PRN nausea  
+14.  Senna 8.6 mg PO BID:PRN constipation  
+15.  Silver Sulfadiazine 1% Cream 1 Appl TP BID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+L proximal humerus malignant peripheral nerve sheath tumor
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+NWB LUE to remain in sling except for hygiene. 
+Dressings: 
+-L shoulder dressing change daily with non-adherent dressing 
+with abdominal pad secured with tape.
+-L leg: Continue to keep covered with same Xeroform. Allow to 
+dry out and then it will fall off on own.
+-Back incision dry gauze secured with tape
+Hygiene: ___ remove sling for sponge bathing but then place arm 
+back in sling following. No showering until cleared by Plastic 
+Surgery. ___ sponge bath in the meantime avoiding wetting 
+surgical sites. 
+ 
+Followup Instructions:
+___

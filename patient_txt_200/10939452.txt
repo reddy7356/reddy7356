@@ -1,0 +1,193 @@
+===== DISCHARGE NOTE =====
+note_id=10939452-DS-10 | hadm_id=20747506
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ F w/HTN, depression, osteoporosis p/w chest pain x2days. Pt 
+notes chest pain first appeared day before admission. She was 
+sitting down and suddenly developed a pressure, ___ over the 
+middle of her chest, radiating to the left and back. She took 
+her morning medications and the pain went away. It was 
+associated w/diaphoresis. The same chest pain returned the 
+following day, suddenly, and went away on its own. Her daughter 
+notes she has not felt well all day but could not pinpoint why. 
+She denies any shortness of breath,visual changes, fevers, 
+chills, N/V, abdominal pain. She notes feeling diaphoretic 
+yesterday and now on exam. She notes having swelling in her 
+legs, with her left being more swollen than the right. She also 
+notes feeling very warm. No constipation, diarrhea, no blood in 
+the stool or urine. 
+
+ 
+Past Medical History:
+hypertension
+Bilateral knee osteoarthritis
+L wrist surgery
+depression
+anxiety
+ 
+Social History:
+___
+Family History:
+Mother:died at ___ with stomach and cardiac problems
+Father:died at ___ in World War II
+
+ 
+Physical Exam:
+T: 96 BP: 158-162/88-90 HR:101-140 RR: 22 O2 98% 2L
+Gen: Pleasant, elderly woman in NAD. 
+HEENT: NCAT, slightly diaphoretic. No conjunctival pallor. 
+Anicteric. MMM. 
+NECK: Supple, no thyromegaly. JVP 
+CV: irreg irreg ~100 S1, S2. No murmurs, rubs ___
+LUNGS: CTAB, good BS ___, No W/R/C
+ABD: Obese, soft, NT, ND. 
+EXT: WWP, 1+ edema to below knee on R, 2+ edema below mid-shin 
+and ankle on R, 1+ DP pulses ___
+SKIN: No rashes. 
+NEURO: A&Ox3. Appropriate. CN ___ grossly intact. Preserved 
+sensation throughout. Normal coordination. Gait assessment 
+deferred
+PSYCH: Listens and responds to questions appropriately, pleasant
+ 
+Pertinent Results:
+___ 02:10PM   ___ PTT-22.5 ___
+___ 02:10PM   PLT COUNT-264
+___ 02:10PM   NEUTS-51.3 ___ MONOS-5.8 EOS-0.7 
+BASOS-0.5
+___ 02:10PM   WBC-7.9 RBC-4.80 HGB-14.0 HCT-41.5 MCV-86 
+MCH-29.2 MCHC-33.8 RDW-13.5
+___ 02:10PM   CK-MB-NotDone
+___ 02:10PM   cTropnT-<0.01
+___ 02:10PM   CK(CPK)-50
+___ 02:10PM   GLUCOSE-143* UREA N-18 CREAT-1.1 SODIUM-141 
+POTASSIUM-3.6 CHLORIDE-103 TOTAL CO2-28 ANION GAP-14
+.
+___ Echo
+The left atrium is normal in size. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size and 
+regional/global systolic function (LVEF>55%). Tissue Doppler 
+imaging suggests an increased left ventricular filling pressure 
+(PCWP>18mmHg). Right ventricular chamber size and free wall 
+motion are normal. The ascending aorta is mildly dilated. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. There is no mitral 
+valve prolapse. No mitral regurgitation is seen. The estimated 
+pulmonary artery systolic pressure is normal. There is no 
+pericardial effusion. 
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+preserved global and regional biventricular systolic function. 
+Aortic valve sclerosis.
+
+ 
+Brief Hospital Course:
+___ F w/HTN, depression, osteoporosis p/w chest pain x2days. On 
+atrial fibrillation on telemetry.  
+.  
+#Chest pain: Patient ruled out by EKG, telemetry and CE.  Likely 
+secondary to tachycardia in setting of afib with RVR.  Patient 
+improved with rate control.   Echo completed.  
+.  
+#New-onset trial fibrillation: Newly diagnosed, Paroxsyml.  
+CHADS score 2, patient is candidate for coumadin therapy.  
+.  
+#Lower extremity edema: Continued home lasix dose. 
+.  
+#HTN: BP stable since admission. Home medications continued. 
+.  
+#Depression/anxiety: Continued on citalopram, clonazepam and 
+zolpidem.  
+.
+# CODE: full  
+.  
+# COMM: ___ ___  
+
+ 
+Medications on Admission:
+atenolol 25mg PO qd
+clonazepam 0.25mg PO bid
+primidone 50mg PO qhs
+diovan 160mg/25mg PO BID
+zolpidem 10mg PO qhs
+atorvastatin 10mg
+citalopram 20mg Daily
+furosemide 20mg Daily
+.
+
+ 
+Discharge Medications:
+1. Primidone 50 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+6. Clonazepam 0.5 mg Tablet Sig: 0.5 Tablet PO BID (2 times a 
+day) as needed for anxiety.  
+7. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+BID (2 times a day).  
+8. Valsartan 160 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+9. Warfarin 2 mg Tablet Sig: Two (2) Tablet PO once a day.
+Disp:*90 Tablet(s)* Refills:*2*
+10. Atenolol 50 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: Atrial Fibrillation
+Atypical Chest Pain
+
+ 
+Discharge Condition:
+Stable, normal sinus rhythm, ambulating without difficulty
+
+ 
+Discharge Instructions:
+___ were admitted with chest pain and an abnormal heart rhythm 
+called atrial fibrillation.  ___ did not have a heart attack.  
+___ do not have blood clots in your legs. 
+___ have been started on a new medication called Coumadin.  This 
+is a blood thinnner. Dr ___ will need to check your 
+bloodwork frequently while ___ are on this medication.  In 
+addition, we have increased the dose of your Atenolol. 
+Please take all medications as prescribed. Please keep all 
+follow up appointments as listed below. 
+Please seek immediate medical care if ___ develop recurrent 
+chest pain or palpatations, or if ___ develop shortness of 
+breath, weakness, difficulty speaking or any other worrisome 
+symptoms. 
+ 
+Followup Instructions:
+___

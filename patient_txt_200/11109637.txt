@@ -1,0 +1,785 @@
+===== DISCHARGE NOTE =====
+note_id=11109637-DS-15 | hadm_id=24227654
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+Coronary Arteriogram (___)
+
+ 
+History of Present Illness:
+HISTORY OF PRESENTING ILLNESS:  
+Mr. ___ is a ___ male with PMH significant for permanent 
+AF s/p PPM ___ for sick sinus disease, HFrEF (EF ___ with 
+recent decrease in LV dysfunction, progressive AS now severe who 
+presents with recurrent syncope.
+
+He reports he was at the dinner table attempting to take some 
+pills when he syncopized. Patient has no recollection of the 
+event and he did have loss of bowel/bladder function at the 
+time. There is no note made of any seizure-like activity. 
+Evaluated early in the day by ___ and BP noted to be low, 
+furosemide and lisinopril not given at the direction of ___. He 
+has been hospitalized at ___ with a syncopal event this past 
+___. Duration of LOC approximately 5 minutes.  Mostly 
+ambulates around the house.  Breathing has been ok.  Denies any 
+chest pain. Some increased lower extremity edema with recent 
+dose titration of furosemide from 40mg to 60 mg by Dr. ___ 
+primary cardiologist at ___.
+
+He was transferred from ___. Labs from ___ were notable 
+for WBC of 5.8, Na 133, Cr 1.1, elevated troponin, BNP 6158, INR 
+2.1, CT head with no acute abnormality. Patient wanted a 
+transfer for high level care for ___ evaluation. 
+
+=============================
+Past cardiac history reviewed:
+- ___: PPM at ___ after syncopal event with sick sinus 
+syndrome. Chronic atrial fibrillation.  
+- ___ Echo: CHF- EF dropped from 38-35% down to 25%.  Aortic 
+stenosis with gradients in the moderate to severe range. Echo 
+___ with peak/mean pressure gradients ___ mmHg. Peak 
+transvalvular velocity 3.5M/S.  AVI by continuity equation 1.2 
+cm².  ___ is low 0.67 cm².  
+- Dobutamine echo ___: with baseline left ventricular systolic 
+function severely reduced, LVEF ___. Dobutamine beginning at 
+5 mcg/kg/min to peak at 15 mcg/kg/min.  To stop due to achieved 
+aortic peak velocity > ___ and mean aortic gradient > 40 mmHg.  
+Peak gradient 73 mmHg with mean gradient 48 mmHg.  ___ 0.6 cm². 
+PA systolic pressure was 29 mmHg.
+==============================
+
+In the ED: Pacemaker evaluated by EP. Function normal with 
+acceptable lead management and battery status. No arrhythmia 
+events noted corresponding to syncopal episode.
+Initial VS:
+Temp Pulse RR    BP    O2 sat O2 flow Pain
+97   82    18  119/66    95%     RA
+              MAP: 83.7
+Exam: A&Ox4, no resp distress, skin warm and normal color. No 
+abd tenderness. lung sounds clear. HR regular and strong.
+
+EKG: Ventricular-paced rhythm
+
+ED labs notable for: 
+Hgb 8.9 MCV 103, RDW 55.7, WBC 5.4, Plt 170
+INR 1.8*
+Na 133, K 4.6, Cr 1.1, BUN 31
+TropT <0.01
+
+Studies notable for: no imaging done in ED.
+
+Consults: EP for pacemaker interrogation
+
+Patient was given furosemide 20mg PO.
+
+Vitals on transfer: T 97.5 BP 128 / 77 L Lying HR 67 RR 18 SpO2
+98% RA  
+
+On the floor patient reiterated the above history. Both of his 
+recent syncopal episodes occurred during times of exertion. Also 
+endorses episodes of presyncope. Wife, ___, at the bedside
+confirmed history and reiterated hope for TAVR evaluation. Home
+lasix was increased to 60mg PO on day of restaurant syncopal
+episode last ___.
+
+REVIEW OF SYSTEMS:  
+Positive per HPI.  
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations. Other review of systems positive for
+ankle pains and back pain. 
+
+On further review of systems, denies fevers or chills. Denies 
+any
+prior history of deep venous thrombosis, pulmonary embolism,
+bleeding at the time of surgery, cough, hemoptysis, black stools
+or red stools. Denies exertional buttock or calf pain. All of 
+the
+other review of systems were negative.  
+
+ 
+Past Medical History:
+CARDIAC HISTORY:
+Vascular disease
+TIA ___ when off warfarin for cataract surgery) 
+Moderate-severe aortic stenosis 
+Permanent atrial fibrillation 
+Acute on chronic combined systolic and diastolic congestive 
+heart
+failure 
+
+OTHER MEDICAL HISTORY: 
+History of stroke 
+Osteoarthrosis
+Squamous cell carcinoma of nose, scalp/neck   
+DJD (degenerative joint disease) of hip 
+S/P total hip arthroplasty 
+B12 deficiency 
+Vascular disease 
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, 
+syncope or sudden cardiac death. All other family history 
+non-contributory.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+============================
+VS: T BP HR RR O2 SAT
+T 97.5 BP 128 / 77 L Lying HR 67 RR 18 SpO2 98% RA  
+GENERAL: Well developed, well nourished elderly male in NAD. 
+Oriented x3. Mood, affect appropriate.  
+HEENT: Normocephalic, old-appearing superior scalp scar present. 
+Sclera anicteric. PERRL. EOMI. Conjunctiva were pink. No pallor 
+or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: JVP not elevated.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. Regular rate and rhythm. Normal S1, S2. Blowing III/VI 
+systolic murmur best heard at RUSB radiating to the neck. No 
+bruits.
+LUNGS: No chest wall deformities or tenderness. Respiration is 
+unlabored with no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No 
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis. Trace, 
+dependent peripheral edema b/l feet.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses 1+, palpable, and symmetric.
+NEURO: CN II-XII grossly intact, ___ strength. Sensation grossly 
+intact bilaterally.
+
+DISCHARGE PHYSICAL EXAM
+============================
+24 HR Data (last updated ___ @ 249)
+ Temp: 97.4 (Tm 98.4), BP: 125/80 (92-125/54-80), HR: 66
+(60-72), RR: 18, O2 sat: 100% (97-100), O2 delivery: Ra       
+GENERAL: Well developed, well nourished elderly male in NAD. 
+affect appropriate.  
+HEENT: Normocephalic, old-appearing superior scalp scar present. 
+Sclera anicteric. PERRL. EOMI. Conjunctiva were pink. No pallor 
+or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: JVP not elevated.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. Regular rate and rhythm. Normal S1, S2. Blowing III/VI 
+systolic murmur best heard at RUSB radiating to the neck. No 
+bruits.
+LUNGS: No chest wall deformities or tenderness. Respiration is 
+unlabored with no accessory muscle use. faint crackles at left 
+base, wheezes or rhonchi.   
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis.   
+SKIN: venous stasis changes b/l.  
+PULSES: Distal pulses 1+, palpable, and symmetric.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+=========================
+___ 04:50AM BLOOD WBC-5.4 RBC-2.66* Hgb-8.9* Hct-27.4* 
+MCV-103* MCH-33.5* MCHC-32.5 RDW-14.8 RDWSD-55.7* Plt ___
+___ 04:50AM BLOOD Neuts-52.2 ___ Monos-8.6 Eos-1.3 
+Baso-0.7 Im ___ AbsNeut-2.79 AbsLymp-1.97 AbsMono-0.46 
+AbsEos-0.07 AbsBaso-0.04
+___ 04:50AM BLOOD Plt ___
+___ 04:50AM BLOOD ___ PTT-32.7 ___
+___ 04:50AM BLOOD Glucose-104* UreaN-31* Creat-1.1 Na-133* 
+K-4.6 Cl-97 HCO3-23 AnGap-13
+___ 06:05AM BLOOD Calcium-9.3 Phos-3.5 Mg-2.0 Iron-59
+___ 06:05AM BLOOD calTIBC-255* VitB12-543 Folate-7 
+Ferritn-129 TRF-196*
+___ 04:50AM BLOOD cTropnT-<0.01
+
+PERTINENT LABS
+=========================
+
+DISCHARGE LABS
+=========================
+___ 05:34AM BLOOD WBC-4.6 RBC-2.49* Hgb-8.2* Hct-26.1* 
+MCV-105* MCH-32.9* MCHC-31.4* RDW-15.0 RDWSD-57.6* Plt ___
+___ 04:30PM BLOOD ___
+___ 04:00PM BLOOD Glucose-105* UreaN-21* Creat-1.1 Na-134* 
+K-4.5 Cl-101 HCO3-25 AnGap-8*
+___ 04:00PM BLOOD Calcium-9.2 Phos-2.8 Mg-1.9
+
+STUDIES
+=========================
+Carotid Study ___
+IMPRESSION:  
+Right ICA <40%  stenosis. 
+Left ICA <40%  stenosis. 
+
+Coronary Angiogram ___
+Single vessel coronary artery disease. Moderate severity. Await 
+structural heart team input but may be best treated medically.
+
+MICROBIOLOGY
+=========================
+none
+
+ 
+Brief Hospital Course:
+======================= 
+BRIEF SUMMARY STATEMENT 
+=======================
+Mr. ___ is a ___ man with ___ significant for chronic AF 
+on warfarin, PPM placed ___ for sick sinus disease, HFrEF (EF 
+15%) with recent decrease in LV dysfunction, progressive AS now 
+severe who presented with a syncopal event etiology felt to be 
+multifactorial, given his change in medication regimen as well 
+as progressive AS noted on echo. Patient underwent expedited 
+TAVR work-up and will follow-up with structural team as an 
+outpatient for his procedure.
+
+CORONARIES: Ostium 40% stenosis, pLAD 60%, mRCA 30%
+PUMP: EF ___
+RHYTHM: Chronic atrial fibrillation s/p PPM
+
+=============== 
+ACTIVE ISSUES: 
+=============== 
+#Syncope
+#Moderate-to-severe aortic stenosis
+He reports he was sitting at the dinner table attempting to take 
+some
+pills when he syncopized. Patient has no recollection of the
+event and he did not have loss of bowel/bladder function at the 
+time.
+There is no note made of any seizure-like activity. Notably, he 
+was evaluated earlier in the day by ___ and BP noted to be low, 
+furosemide and lisinopril not given at the direction of ___. He 
+has also been hospitalized at ___ with a syncopal event a week 
+prior to this presentation.
+
+Differential included progressive, symptomatic aortic stenosis 
+vs hypotension in setting of increased lasix and lisinopril use. 
+His pacemaker was interrogated and revealed no obvious 
+precipitating arrhythmias at time of syncope. He remained 
+asymptomatic throughout his stay with no signs of volume 
+overload. Orthostatics were negative and carotid studies showed 
+no prominent stenosis. He underwent coronary angiogram on ___ 
+with only moderate narrowing of mid LAD and was not intervened 
+upon. He will follow-up with the structural heart team for 
+outpatient TAVR. Lisinopril was restarted prior to discharge but 
+continue to hold furosemide as below.
+
+#Heart Failure with reduced ejection fraction (EF ___
+Mr. ___ has HFrEF with EF of ___ per TTE on ___. 
+This could be explained by worsening aortic stenosis. His Lasix 
+was held as he was not deemed to be overloaded on exam. He 
+remained on lisinopril for afterload reduction and his blood 
+pressures were stable in 100-110s. He is being discharged on 
+home Lisinopril. His home Lasix is being held upon discharge.
+
+#Permanent atrial fibrillation
+He has a pacemaker placed in ___. His warfarin was held iso 
+cardiac catheterization on ___ and he was put on heparin gtt. 
+He was restarted on warfarin on the evening post-cath on ___. 
+INR was 1.3 on the day of discharge. He was discharged on 5 mg 
+daily with plan to follow-up with ___ clinic on ___ 
+___.
+
+#Macrocytic anemia - unclear etiology
+He had macrocytic anemia, Hgb 8.8 MCV 103, upon admission. B12, 
+folate, and ferritin WNL. TIBC and transferrin were only 
+slightly low. No obvious source of bleeding on this admission. 
+Discharge Hgb was 8.2.
+
+TRANSITIONAL ISSUES 
+==================== 
+DISCHARGE WEIGHT: 78.84kg
+DISCHARGE Cr/BUN: ___
+DISCHARGE DIURETIC: holding Lasix 40mg PO daily
+MEDICATION CHANGES: 
+- NEW: None
+- STOPPED: Lasix 40mg PO daily
+- CHANGED: None 
+
+FOR CARDIOLOGY:
+[] Please consider restarting furosemide if he appears volume 
+overloaded
+[] Follow-up INR and warfarin dosing. He was discharged on 
+warfarin 5 mg daily follow-up at the ___ on ___. 
+Discharge INR was 1.3. Spoke with ___ who is aware 
+of his discharge.
+[] As per the TAVR work-up he had an CTA abdomen and pelvis 
+which was pending on discharge
+
+FOR PCP:
+[] Please f/u macrocytic anemia 
+[] Loss of height of the L4 vertebral body, with soft tissue 
+encompassing much of the vertebral body. A lumbar spine MRI with 
+and without contrast is recommended for further evaluation. 
+[] Please consider repeat BMP within a week. Sodium was 134 on 
+discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 2.5 mg PO DAILY 
+2. Furosemide 40 mg PO DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. tacrolimus 0.1 % topical DAILY:PRN 
+5. Warfarin 4 mg PO 3X/WEEK (___) 
+6. Warfarin 3.5 mg PO 3X/WEEK (___) 
+7. Atorvastatin 80 mg PO QPM 
+8. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Warfarin 5 mg PO DAILY16  
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 80 mg PO QPM  
+4.  Lisinopril 2.5 mg PO DAILY  
+5.  Omeprazole 20 mg PO DAILY  
+6.  Tacrolimus 0.1 % topical DAILY:PRN in both eyes as needed  
+7. HELD- Furosemide 40 mg PO DAILY  This medication was held. Do 
+not restart Furosemide until your doctors ___ to restart
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+Syncope 
+
+SECONDARY DIAGNOSIS
+Aortic Stenosis
+Heart Failure with reduced ejection fraction
+Atrial Fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you here at ___.
+
+WHY WAS I IN THE HOSPITAL?
+- You came to the hospital because you had a couple episodes of 
+fainting.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- While you were here, we ran tests to assess why you have been 
+having these fainting episodes. 
+- We believed your heart valve had something to do with it, and 
+you were worked up for getting a replacement valve.
+- Your change in Lasix dosing could also have played a role in 
+your fainting. We did not give you that medication while you 
+were here.
+
+WHAT SHOULD I DO WHEN I LEAVE THE HOSPITAL?
+- When you leave you will have follow-up appointments. It is 
+important for you to attend these. One of these appointments 
+will be to check your INR level. This will help decide the 
+dosing of your Warfarin. 
+- Additionally, you will have some more tests scheduled for your 
+eventual valve replacement surgery. 
+- If you have another fainting episode, or feelings like you 
+might pass out, please reach out to your cardiologist or pcp. 
+- We are not sending you home on your Lasix medication. If you 
+feel like you are gaining weight or becoming increasingly short 
+of breath, please reach out to your medical providers for 
+guidance in re-starting your Lasix.
+
+We wish you the best!  
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11109637-DS-16 | hadm_id=26432665
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+___: TAVR
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with PMH significant for permanent
+AF s/p PPM ___ for sick sinus disease, HFrEF (EF ___ with
+recent decrease in LV dysfunction, progressive AS now severe who
+presents with recurrent syncope.
+
+Patient was admitted on ___  due to syncope. At that time,
+patient said had no recollection of the event and he did have
+loss of bowel/bladder function at the time. There was no note
+made of any seizure-like activity. Evaluated by ___ and BP noted
+to be low, furosemide and lisinopril not given at the direction
+of ___. Duration of LOC approximately 5 minutes. During said
+admission his pacemaker was interrogated and revealed no obvious
+precipitating arrhythmias at time of syncope. He remained
+asymptomatic throughout his stay with no signs of volume
+overload. Orthostatics were negative and carotid studies showed
+no prominent stenosis. He underwent coronary angiogram on ___
+with only moderate narrowing of mid LAD that was not intervened
+upon. The consideration was that the syncope was secondary to
+progressive AS, therefore underwent expedited TAVR work-up and
+was discharged with a plan to follow-up with structural team as
+an outpatient.
+
+Today he returned to the emergency room after having had 2 (? 
+Possibly 3) episodes of syncope.  The first episode occurred in
+the parking lot of a restaurant after getting out of his car and
+walking few steps.  The second episode occurred at home when he
+was ambulating inside the house and he tried to reach the couch
+to break his fall.  Since his discharge he is also noted more
+exertional shortness of breath when he tried walk.  He does not
+complain of any exertional chest pressure.  Denies any
+palpitations.
+
+In the ED:
+Initial VS: HR: 76, BP:113/76, RR: 18, O2Sat: 95% RA 
+EKG: paced rhythm with underlying atrial fibrillation
+Labs notable for: Trop <0.01, Na: 133, K 4.9, Cl 98, HCO3 24, 
+BUN
+27, Cr 1.1, Glucose 106. WBC 4.6, Hb 8.6, Hct 26.3, Plt 172, ___
+19.5, PTT32.6, INR 1.8. Unremarkable UA
+
+On the floor the patient and his family endorses the above
+history. Describes 3 episodes of loss of consciousness with
+minimal exertion associated to shortness of breath. Otherwise
+denies chest pain or palpitations. Denies dizziness or
+lightheadedness currently.
+
+ 
+Past Medical History:
+CARDIAC HISTORY:
+Vascular disease
+TIA ___ when off warfarin for cataract surgery) 
+Moderate-severe aortic stenosis 
+Permanent atrial fibrillation 
+Acute on chronic combined systolic and diastolic congestive 
+heart
+failure 
+
+OTHER MEDICAL HISTORY: 
+History of stroke 
+Osteoarthrosis
+Squamous cell carcinoma of nose, scalp/neck   
+DJD (degenerative joint disease) of hip 
+S/P total hip arthroplasty 
+B12 deficiency 
+Vascular disease 
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, 
+syncope or sudden cardiac death. All other family history 
+non-contributory.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+================================  
+24 HR Data (last updated ___ @ ___)
+    Temp: 97.7 (Tm 97.7), BP: 120/68, HR: 88, RR: 20, O2 sat:
+97%, O2 delivery: RA, Wt: 182.54 lb/82.8 kg  
+GENERAL: Well developed, well nourished man in NAD. Oriented x3.
+Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.  
+NECK: JVP not elevated.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. Regular rate and rhythm. Normal S1, blunted S2. Late
+peaking systolic ejection murmur best heard at the upper sternal
+border. No rubs, or gallops. no thrills or lifts.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.
+
+DISCHARGE PHYSICAL EXAMINATION
+===============================
+24 HR Data (last updated ___ @ 1521)
+    Temp: 97.5 (Tm 98.4), BP: 88/50 (88-128/49-83), HR: 63 
+(60-71), RR: 18, O2 sat: 100% (96-100), O2 delivery: ra  
+Fluid Balance (last updated ___ @ 848) 
+  Last 8 hours No data found
+  Last 24 hours  Total cumulative -1120ml
+    IN: Total 480ml, PO Amt 480ml
+    OUT:  Total 1600ml, Urine Amt 1600ml  
+GENERAL: Well developed, well nourished man in NAD. Oriented x3.
+Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.  
+NECK: JVP not elevated.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. Regular rate and rhythm. Normal S1, blunted S2. No 
+murmurs, rubs, or gallops. no thrills or lifts.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric. 
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 01:35PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 01:35PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 10:40AM   GLUCOSE-106* UREA N-27* CREAT-1.1 SODIUM-133* 
+POTASSIUM-4.9 CHLORIDE-98 TOTAL CO2-24 ANION GAP-11
+___ 10:40AM   cTropnT-<0.01
+___ 10:40AM   WBC-4.6 RBC-2.52* HGB-8.6* HCT-26.3* MCV-104* 
+MCH-34.1* MCHC-32.7 RDW-15.0 RDWSD-57.3*
+___ 10:40AM   NEUTS-57.8 ___ MONOS-10.3 EOS-3.0 
+BASOS-0.9 IM ___ AbsNeut-2.68 AbsLymp-1.27 AbsMono-0.48 
+AbsEos-0.14 AbsBaso-0.04
+___ 10:40AM   PLT COUNT-172
+___ 10:40AM   ___ PTT-32.6 ___
+
+DISCHARGE LABS
+=================
+___ 06:40AM BLOOD WBC-4.5 RBC-2.32* Hgb-7.7* Hct-24.2* 
+MCV-104* MCH-33.2* MCHC-31.8* RDW-14.9 RDWSD-56.3* Plt ___
+___ 06:40AM BLOOD Plt ___
+___ 06:40AM BLOOD ___ PTT-30.9 ___
+___ 06:40AM BLOOD ___ 06:40AM BLOOD Glucose-92 UreaN-22* Creat-1.1 Na-139 
+K-3.8 Cl-103 HCO3-24 AnGap-12
+___ 06:40AM BLOOD Calcium-8.8 Phos-3.8 Mg-1.8
+
+IMAGING / REPORTS
+==================
+TAVR ___:
+• Severe aortic stenosis
+• Reduced left ventricular ejection fraction
+• Successful transcatheter aortic valve replacement
+
+TTE ___:
+Well-seated, normally functioning ___ 3 aortic bioprosthesis 
+with trace
+paravalvular leak. Moderately dilated left ventricle with 
+moderate to severe left ventricular regional dysfunction. Mild 
+right ventricular hypokinesis. Moderate mitral regurgitation. 
+Mild pulmonary hypertension.
+ 
+Brief Hospital Course:
+====================
+PATIENT SUMMARY:
+====================
+Mr. ___ is a ___ male with PMH significant for permanent
+AF s/p PPM ___ for sick sinus disease, HFrEF (EF ___. He 
+was recently admitted for progressive AS and discharge with plan 
+for TAVR. However, he presented with recurrent syncope with 
+minimal exertion and therefore was admitted for expedited workup 
+and in-patient TAVR. He underwent TAVR on ___ without any 
+acute complications.
+
+====================
+ACUTE ISSUES:
+====================
+# Severe aortic stenosis s/p TAVR
+Patient has a known history of aortic stenosis. He was recently 
+admitted for syncope in which his pacemaker was interrogated and 
+revealed no obvious precipitating arrhythmias at the time of 
+syncope. Orthostatics were negative and carotid studies showed 
+no prominent stenosis. He underwent coronary angiogram on ___ 
+with only moderate narrowing of mid LAD and was not intervened 
+upon. He remained asymptomatic throughout his previous stay with 
+no signs of volume overload. He was discharged with a plan to 
+follow-up with the structural heart team for outpatient TAVR. 
+Nonetheless, patient with multiple episodes of syncope with 
+minimal exertion and progressive
+shortness of breath and therefore he was re-admitted for 
+expedited workup and in-patient TAVR. On ___ underwent 29mm 
+___ 3 TAVR with no complications. He was discharged home with 
+close follow up.
+
+# Heart Failure with reduced ejection fraction (EF ___
+Mr. ___ has history of HFrEF with EF of ___ per TTE on 
+___. Likely etiology was considered to be worsening aortic 
+stenosis. On previous admission his Lasix was held as he was not 
+overloaded. Upon readmission the patient remained euvolemic with 
+borderline low BPs. His diuretic and afterload reducing 
+medications were held. Throughout his admission patient remained 
+asymptomatic and euvolemic. Upon discharge patient asymptomatic 
+and bormal BP so he will be discharged on optimized GDMT.
+
+# Permanent atrial fibrillation
+He has a pacemaker placed in ___. CHADsVASc score of 5. On 
+home warfarin. Appropriately rate controlled throughout 
+admission and will be discharged on home warfarin regimen.
+
+====================
+CHRONIC ISSUES:
+====================
+#Macrocytic anemia - unclear etiology
+Noted on previous admission. Workup with B12, folate, and 
+ferritin WNL. TIBC and transferrin were only slightly low. No 
+obvious source of bleeding on this admission. Discharge Hgb was 
+7.7. 
+
+#Osteoarthrosis 
+- Tylenol for pain as needed
+
+#Vascular disease 
+- continued ASA and atorvastatin
+
+====================
+TRANSITIONAL ISSUES:
+====================
+[ ] Consider repeat TTE in ___ weeks to assess LV function and 
+bioprosthesis after intervention 
+[ ] If in line with goals of care, consider resynchronization 
+therapy given LBBB and HFrEF
+[ ] Follow BP to uptitrate carvedilol and entresto as 
+appropriate
+[ ] Follow weight to uptitrate torsemide as needed
+[ ] Monito INR and adjust warfarin dose as appropriate
+[ ] Consider outpatient workup for anemia
+
+- Follow-up appointments: PCP and ___
+- Post-Discharge Follow-up Labs Needed: INR 
+- Discharge weight: 79.2 kg - 174.6 lb 
+- Discharge creatinine: 1.1
+- Discharge hemoglobin: 7.7
+
+# CODE STATUS: presumed full code 
+# CONTACT: wife, ___, ___ 
+
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 80 mg PO QPM 
+2. Lisinopril 2.5 mg PO DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. Tacrolimus 0.1 % topical DAILY:PRN in both eyes as needed 
+5. Furosemide 40 mg PO DAILY 
+6. Aspirin 81 mg PO DAILY 
+7. Warfarin 5 mg PO DAILY16 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  CARVedilol 3.125 mg PO BID 
+RX *carvedilol 3.125 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+3.  Sacubitril-Valsartan (24mg-26mg) 1 TAB PO BID 
+RX *sacubitril-valsartan [Entresto] 24 mg-26 mg 1 tablet(s) by 
+mouth twice a day Disp #*60 Tablet Refills:*0 
+4.  Torsemide 10 mg PO DAILY 
+RX *torsemide 10 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+5.  Omeprazole 40 mg PO DAILY 
+RX *omeprazole 40 mg 1 capsule(s) by mouth once a day Disp #*30 
+Capsule Refills:*0 
+6.  Aspirin 81 mg PO DAILY  
+7.  Atorvastatin 80 mg PO QPM  
+8.  Tacrolimus 0.1 % topical DAILY:PRN in both eyes as needed  
+9.  Warfarin 5 mg PO DAILY16  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+# Severe aortic stenosis s/p TAVR
+# Acute on chronic heart failure with reduced ejection fraction
+# Permanent atrial fibrillation
+
+Secondary diagnosis
+# Macrocytic anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+It was a pleasure taking care of you at ___ 
+___. 
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were admitted to the hospital because you felt dizzy and 
+lost consciousness on several occasions.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- You were found to have a severely narrowed aortic valve.
+- You had a procedure to replace your narrow aortic valve.
+- Your symptoms improved and you were discharged.
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- You should continue to take your medications as prescribed. 
+- You should attend the appointments listed below. 
+- Weigh yourself every morning, call your doctor, or the 
+Heartline at ___ if your weight goes up more than 3 
+lbs.  
+- Seek medical attention if you have new or concerning symptoms 
+or you develop swelling in your legs, abdominal distention, or 
+shortness of breath at night.  
+- Your discharge weight: 79.2 kg - 174.6 lb. You should use this 
+as your baseline after you leave the hospital.  
+
+We wish you the best!
+Your ___ Care Team 
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,246 @@
+===== DISCHARGE NOTE =====
+note_id=11562865-DS-16 | hadm_id=20294689
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+anemia, melena
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+This is a ___ with a history of L MCA CVA (with R hemiplegia), 
+DM2, who presented from his PCP office for GI bleeding with Hct 
+drop to 31.2 from 40.2 on ___.
+
+Per report, two days prior to admission, the patient was found 
+to have NBNB vomiting. He seemed more 'weak' than his baseline 
+and on the day of admission, the patient's caretaker noticed BRB 
+in the toilet. He was brought to his PCP's office where labs 
+showed this drop in Hgb / Hct. He may have had chest pain, 
+although this is unclear. EKG was without changes. He has not 
+had any GI bleeding in the past. He is on ASA 325mg but no other 
+anticoagulants.
+
+In the ED, initial vitals were 98.1 66 94/53 20. His labs were 
+notable for a stable Hct of 31.2, lactate 2.7, BUN:Cr 62:1.6 
+(from Cr of 1.13 in ___. Rectal exam showed melena with 
+grossly guaiac positive stool in the vault. He then had CT A&P 
+(no contrast) to rule out ischemic bowel that was notable only 
+for some renal hypodenisities to small to characterize without 
+contrast. He was started on a pantoprazole gtt and given 1 u 
+pRBCs prior to transfer to the FICU. Repeat Hct was 33.2
+
+On arrival to the FICU, the patient is oriented to himself. He 
+denies any chest or abdominal pain. 
+
+ 
+Past Medical History:
+HTN
+BPH
+ANEMIA  
+DM
+COLONIC POLYP 
+ESOPHAGEAL REFLUX 
+HEARING LOSS - SENSORINEURAL
+TREMOR 
+HYPERCHOLESTEROLEMIA 
+L MCA CVA with residual right hemiplegia
+
+ 
+Social History:
+___
+Family History:
+None reported
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+General: Alert, oriented only to person. Does not give the 
+correct birthday.
+HEENT: Sclera anicteric, dry mucous membranes. 
+Neck: JVP flat
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: Soft non tender, non distended. No rebound or guarding. 
+Rectal deferred given done in ED 
+Ext: well perfused, no clubbing, cyanosis
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+=======================
+___ 05:50PM BLOOD WBC-9.1 RBC-3.40* Hgb-10.2* Hct-31.2* 
+MCV-92 MCH-29.9 MCHC-32.6 RDW-13.6 Plt ___
+___ 05:50PM BLOOD Neuts-67.9 ___ Monos-6.6 Eos-1.9 
+Baso-0.2
+___ 05:50PM BLOOD Glucose-117* UreaN-62* Creat-1.6* Na-142 
+K-3.9 Cl-101 HCO3-34* AnGap-11
+___ 05:50PM BLOOD ALT-13 AST-17 AlkPhos-57 TotBili-0.2
+___ 05:50PM BLOOD Lipase-55
+___ 05:50PM BLOOD cTropnT-<0.01
+___ 02:05AM BLOOD CK-MB-3 cTropnT-<0.01
+___ 05:50PM BLOOD Albumin-3.9
+___ 02:05AM BLOOD Calcium-9.7 Phos-2.9 Mg-2.0
+___ 06:26AM BLOOD Lactate-1.2
+.
+HEMOGLOBIN TREND:
+=======================
+.                     Hgb 
+___ 06:25    10.6
+___ 21:34    11.2
+___ 06:05    10.4
+___ 02:05    10.9
+___ 17:50    10.2 
+.
+IMAGING:
+================
+___ CT A/P
+IMPRESSION:
+No definite acute pathology identified.
+Diverticulosis but no evidence of diverticulitis.
+Enlarged prostate.
+Bilateral renal cysts, other hypodensities are too small to 
+characterize.
+Small fat-containing umbilical hernia. 
+.
+___ 08:15AM BLOOD WBC-8.4 RBC-3.60* Hgb-10.9* Hct-32.7* 
+MCV-91 MCH-30.3 MCHC-33.4 RDW-13.6 Plt ___
+___ 06:18AM BLOOD WBC-7.8 RBC-3.66* Hgb-11.0* Hct-32.7* 
+MCV-89 MCH-29.9 MCHC-33.5 RDW-13.4 Plt ___
+___ 06:25AM BLOOD WBC-7.8 RBC-3.54* Hgb-10.6* Hct-31.5* 
+MCV-89 MCH-29.9 MCHC-33.6 RDW-13.3 Plt ___
+___ 09:34PM BLOOD WBC-9.4 RBC-3.59* Hgb-11.2* Hct-32.3* 
+MCV-90 MCH-31.1 MCHC-34.5 RDW-13.9 Plt ___
+___ 07:40PM URINE Color-Straw Appear-Clear Sp ___
+.
+EGD ___:
+Impression:Granularity and erythema in the duodenal bulb 
+compatible with duodenitis
+Normal mucosa in the esophagus
+Normal mucosa in the stomach
+Otherwise normal EGD to third part of the duodenum
+Recommendations:Please check H.pylori stool antigen
+Pantoprazole 40 mg bid for eight weeks
+Inpatient GI team will continue to follow
+ 
+Brief Hospital Course:
+This a ___ with a history of L MCA CVA (with R hemiplegia), DM2, 
+who presented from his PCP office for likely subacute GI bleed
+.
+# Upper GI bleed:-presumed due to duodenitis and erythema seen 
+on EGD. The patient presented  with a 9 point Hct drop (from 
+___ with melena on exam concerning for a  upper GI bleed. 
+___ score of 9. He was s/p 1 unit pRBC in the ED with 
+stable H/H during admission while on the medical floor. GI was 
+consulted and performed and EGD ___ which revealed duodenitis. 
+GI recommended BID PPI x 8 weeks and to send stool antigen for 
+H.pylori and treat if positive. However, stool was unable to be 
+sent during admission as pt did not have enough stool specimen. 
+Pt's diet was advanced ___ successfully and he did not have any 
+further episodes of GI bleeding after EGD. Colonoscopy/flex sig 
+was attempted as well on ___. However, pt was unable to 
+tolerate or continue with the prep and study was non-diagnostic 
+and unable to be performed. Discussed with pt's daugther that 
+even if pt were to have a colonic lesion found he is unlikely to 
+desire a surgical intervention and dtg agreed. HCT stable on DC. 
+See above. Plan is to f/u with PCP for repeat HCT check, outpt 
+GI and to have consideration of outpt colonoscopy with prolonged 
+prep and to send stool antigen for H.pylori and treat if 
+positive.
+
+.
+# Acute kidney injury: The patient presented with elevated 
+BUN:Cr (baseline BUN wnl, Cr 1.13). Likely component from bleed 
+and hypovolemia also from history of recent vomiting while still 
+taking diuretics. S/p 1 uPRBC. Creatinine improved. Pt was 
+restarted on his home BP medications on the day of DC. Can 
+recheck Cr at f/u appointment.
+.
+# Hypertension: In the setting of GI bleed (and ___ held 
+lisinopril and HCTZ. These were resumed upon discharge after 
+ensuring hemodynamic stability. 
+.
+# DM2, controlled but with neuropathy: Given ___, held 
+metformin. Pt was given HISS, metformin resumed upon DC. 
+.
+# HLD: On simvastatin at home.
+.
+# CVA with residual right hemiplegia: full dose ASA on hold 
+given GIB.  Resumed aspirin at 81 mg upon DC given the above.
+.
+Transitional care
+1.repeat HCT, Cr, send stool for H.pylori and treat prn. Outpt 
+GI f/u.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetFORMIN (Glucophage) 500 mg PO BID 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+3. Lisinopril 20 mg PO DAILY 
+4. Simvastatin 80 mg PO DAILY 
+5. Aspirin 325 mg PO DAILY 
+6. Gabapentin 300 mg PO QID 
+
+ 
+Discharge Medications:
+1. Gabapentin 300 mg PO QID 
+2. Lisinopril 20 mg PO DAILY 
+3. Simvastatin 80 mg PO DAILY 
+4. Hydrochlorothiazide 25 mg PO DAILY 
+5. MetFORMIN (Glucophage) 500 mg PO BID 
+6. Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+7. Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*1
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Anemia, acute
+Gastrointestinal bleeding
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+You were sent from your PCP's office to the hospital for concern 
+of gastrointestinal bleeding, given your drop in your red blood 
+cell counts (acute anemia).  You received 1 unit transfusion of 
+blood.  Your blood counts were stable after transfusion.  You 
+underwent endoscopy which showed inflammation in your small 
+intestine "duodenitis".  We also recommended that you decrease 
+your daily aspirin to 81mg from 325mg to decrease the risk of 
+bleeding. You were started on a medication called pantoprazole 
+(protonix) to take twice a day for 8 weeks for your bleeding. We 
+attempted a colonoscopy/flexible sigmoidoscopy but this was 
+unsuccessful due to poor prep. You may continue to discuss the 
+need for this test with your outpatient providers.
+.
+Please see your physicians as listed.
+.
+Please take your medications as listed.
+ 
+Followup Instructions:
+___

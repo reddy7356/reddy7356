@@ -1,0 +1,337 @@
+===== DISCHARGE NOTE =====
+note_id=11597787-DS-20 | hadm_id=22933732
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Levaquin / Ciprofloxacin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+back pain
+
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with cerebral palsy, h/o degenerative disk disease with 5 
+herniations in ___ now p/w acute low back pain. She states 
+that she was in he USOH until yesterday when she was at work at 
+___. She was sliding a desk along the floor and developed a 
+"jolt" off low back pain with radiation down both legs. She took 
+ibuprofen and "walked it off" and it improved. However later at 
+work, a client need help sliding up the chair that he was seated 
+in up under a desk and Ms. ___ helped. She developed another 
+jolt of pain that persisted and would not resolve. She continued 
+to have low back pain that was severe and radiated down both 
+legs associated with numbness and tingling in the legs. of note, 
+the patient also describes numbness sensation in hands which has 
+been going on in the past. A friend lifted her into the air and 
+carried her for part of the way to a car. She was then able to 
+ambulate the rest of the way to the car while leaning on 
+friends. She was taken to the ED. 
+   In the ED, there was initial concern for possible spinal cord 
+involvement. MRI of L-spine showed no spinal canal stenosis. She 
+received morphine and dilaudid. She was admitted to hospitalist 
+service for further management.
+ 
+Past Medical History:
+Cerebral palsy  
+Recurrent kidney infections  
+Disc rupture ___  
+? Ovarian cysts - reports experiencing cysts sporadically
+bilateral hip dislocation repaired surgically as an infant 
+ 
+Social History:
+___
+Family History:
+Sister had ovarian cyst and ? cervical cancer 
+ 
+Physical Exam:
+VS: Temp: 96.9  BP: 117/70  HR: 84  RR: 20  O2sat: 97 RA Pain 
+___  
+.  
+Gen: uncomfortable, in NAD.  
+HEENT: PERRL, EOMI. No scleral icterus. No conjunctival 
+injection. Mucous membranes moist. No oral ulcers.  
+Neck: Supple, no LAD, no JVP elevation.  
+Lungs: CTA bilaterally, no wheezes, rales, rhonchi. Normal 
+respiratory effort.  
+CV: RRR, no murmurs, rubs, gallops.  
+Abdomen: soft, NT, ND, NABS, no HSM.  
+Extremities: warm and well perfused, no cyanosis, clubbing, 
+edema.  
+Neurological: alert and oriented X 3, CN II-XII intact. Muscle 
+strength is full UE bilaterally, ___ at least ___ 
+bilaterally. Sensation to light touch is intact throughout. 
+Reflexes are hyper at knees bilaterally and 3+ bicecps 
+bilaterally. Bilateral ___ spasticity.
+Skin: No rashes or ulcers.  
+Psychiatric: Appropriate.  
+ 
+Pertinent Results:
+___ 08:14PM URINE  HOURS-RANDOM
+___ 08:14PM URINE  GR HOLD-HOLD
+___ 08:14PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 08:14PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-0.2 PH-5.0 
+LEUK-SM
+___ 08:14PM URINE  MUCOUS-MANY
+___ 08:14PM URINE  ___ BACTERIA-FEW YEAST-NONE 
+___ 07:12PM   GLUCOSE-96 UREA N-10 CREAT-0.7 SODIUM-138 
+POTASSIUM-3.9 CHLORIDE-107 TOTAL CO2-23 ANION GAP-12
+___ 07:12PM   estGFR-Using this
+___ 07:12PM   calTIBC-341 VIT B12-225* FOLATE-11.8 
+FERRITIN-19 TRF-262
+___ 07:12PM   WBC-7.6 RBC-3.88* HGB-12.0 HCT-33.5* MCV-86 
+MCH-31.1 MCHC-36.0* RDW-12.9
+___ 07:12PM   WBC-7.6 RBC-3.88* HGB-12.0 HCT-33.5* MCV-86 
+MCH-31.1 MCHC-36.0* RDW-12.9
+___ 07:12PM   NEUTS-74.6* ___ MONOS-3.5 EOS-3.5 
+BASOS-0.4
+___ 07:12PM   PLT COUNT-___ with cerebral palsy, h/o degenerative disk disease p/w acute 
+low back pain, MRI prelim read revealed L4-5 central/left 
+paracentral disc protrusion which appeared to touch the exiting 
+left L5 nerve root. 
+
+# Low back pain:  L4-L5 disc herniation with possible effect on 
+L5 nerve root.  Patient was treated with pain meds overnight and 
+on ___ eval was able to ambulate safely with plan for opiod pain 
+med taper and home ___.  Patient can f/u with ___ pain service 
+or her PCP for further management.
+.
+# Anemia:  Normocytic, low vitamin B12 level of 225.  Patient 
+given vitamin B12 supplements.
+
+  
+
+ 
+Medications on Admission:
+OCPs
+ 
+Discharge Medications:
+1. Motrin 600 mg Tablet Sig: One (1) Tablet PO three times a day 
+for 3 days: Take for 3 days continuously and then only as needed 
+for pain.
+Disp:*30 Tablet(s)* Refills:*2*
+2. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO every four (4) 
+hours as needed for pain: Use only for severe breakthrough pain. 
+DO NOT USE IF DRIVING OR OPERATING MACHINERY!.
+Disp:*30 Tablet(s)* Refills:*0*
+3. Neurontin 300 mg Capsule Sig: Two (2) Capsule PO three times 
+a day: Discuss with PCP how long to continue this medication.
+Disp:*180 Capsule(s)* Refills:*2*
+4. Tylenol ___ mg Tablet Sig: ___ Tablets PO every six (6) hours 
+as needed for pain: DO NOT TAKE MORE THAN PRESCRIBED.
+Disp:*30 Tablet(s)* Refills:*2*
+5. Vitamin B-12 1,000 mcg Tablet Sig: One (1) Tablet PO once a 
+day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+L4-L5 Disc herniation impinging on L5 nerve root with lumbar 
+radiculopathy.
+Cerebral Palsy
+Recurrent Kidney Infections
+Prior reported disc disease/herniations per pt
+ 
+Discharge Condition:
+Vital Signs ___, able to ambulate
+ 
+Discharge Instructions:
+Return to the ED if you are having worsening pain that prevents 
+you from walking, high fevers, chills, rigors.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11597787-DS-21 | hadm_id=24574084
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Levaquin / Ciprofloxacin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+back pain  
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with cerebral palsy, chronic back pain now p/w acute low 
+back pain after being discharged from ___ on ___. She 
+initially presented on ___ when she was in he USOH until___ 
+when she was at work at ___. She was sliding a desk along the 
+floor and developed a "jolt" off low back pain with radiation 
+down both legs. This progressed over the course of the day and 
+she ultimately was brought to ___ where she had MRI of L-spine 
+showing degenerative changes involving left L5 nerve root. She 
+was treated for pain control with ibuprofen and IV dilaudid and 
+by the following morning she was improved to the point that she 
+was able to ambulate. She was discharged home with PCP and she 
+was given the number for the chronic pain service. Her roommate 
+picked her up and she went home and was able to ambulate into 
+the home. However the pain started to worsen. This was the same 
+in character to previously, sharp severe low back pain with 
+radiation down legs and numbness/tingling down both legs. She 
+states that she was at the computer checking for ___ 
+assignments and then stood up and collapsed to floor in pain. 
+    Her rooommate brought her into ___ ED. In the ED, she was 
+treated with dilaudid, morphine, and valium for pain. She states 
+that the valium was very helpful in relieving the muscle spasms.
+ 
+Past Medical History:
+Cerebral palsy  
+Recurrent kidney infections  
+Disc rupture ___  
+? Ovarian cysts - reports experiencing cysts sporadically  
+bilateral hip dislocation repaired surgically as an infant
+ 
+Social History:
+___
+Family History:
+Sister had ovarian cyst and ? cervical cancer
+ 
+Physical Exam:
+VS: Temp: 99.5  BP: 130/80  HR: 90  RR: 16  O2sat: 95 RA 
+.  
+Gen: uncomfortable, in NAD.  
+HEENT: PERRL, EOMI. No scleral icterus. No conjunctival 
+injection. Mucous membranes moist. No oral ulcers.  
+Neck: Supple, no LAD, no JVP elevation.  
+Lungs: CTA bilaterally, no wheezes, rales, rhonchi. Normal 
+respiratory effort.  
+CV: RRR, no murmurs, rubs, gallops.  
+Abdomen: soft, NT, ND, NABS, no HSM.  
+Extremities: warm and well perfused, no cyanosis, clubbing, 
+edema.  
+Neurological: alert and oriented X 3, CN II-XII intact. Muscle 
+strength is full UE bilaterally, ___ at least ___ 
+bilaterally. Sensation to light touch is intact throughout. 
+Reflexes are hyperactive at knees bilaterally and 3+ bicecps 
+bilaterally. Bilateral ___ spasticity.  
+Skin: No rashes or ulcers.  
+Psychiatric: Appropriate.  
+ 
+Pertinent Results:
+___ 09:45PM   GLUCOSE-136* UREA N-8 CREAT-0.7 SODIUM-138 
+POTASSIUM-3.6 CHLORIDE-103 TOTAL CO2-27 ANION GAP-12
+___ 09:45PM   WBC-9.3 RBC-4.24 HGB-13.2 HCT-36.3 MCV-86 
+MCH-31.2 MCHC-36.5* RDW-12.7
+___ 09:45PM   NEUTS-74.7* LYMPHS-16.2* MONOS-2.9 EOS-5.8* 
+BASOS-0.4
+___ 09:45PM   PLT COUNT-___ with cerebral palsy, h/o degenerative disk disease, very 
+recent admission for L4-S1 disc herniation representing with 
+lower back pain.  
+.  
+# Herniated disc and annular ligament tear back pain:  
+The patient was seen by the pain service (the second time here 
+case has been discussed with them in the past 3 days) who did 
+not recommend any acute injections and recommended the addition 
+of a clonidine patch and lowering the dose of gabapentin from 
+600 mg po tid to ___ mg po tid along with physical therapy.  The 
+patient will ___ with the pain service in a week and is to ___ 
+with her PCP also in the next week.
+Of note, the patient had very labile moods throughout both of 
+her admissions but refused social work consult.  There is a 
+strong pyschiatric component to her admissions however she 
+refused our offer of services and evaluation to help her with 
+this.
+She was evaluated by ___ initially and noted to not be 
+cooperating fully.  However, on direct observation by physical 
+therapy later on, she was noted to be ambulating comfortably and 
+independently after taking a shower.
+Unless there is a dramatic change in her physical exam findings 
+(ie. concern of new spinal cord compression etc.), the patient 
+will not benefit from future hospitalizations for this issue.  
+.  
+# anemia:  
+hct 36.3, at baseline 37. Labs c/w iron depletion though not 
+quite iron deficiciency, There is b12 deficiency.
+-Outpt PCP ___.
+.
+# B12 deficiency
+.  
+# eosinophilia:
+reviewing OMR, patient has eosinophilia over the past year. 
+- This should be followed up with PCP
+.
+
+ 
+Medications on Admission:
+OCPs 
+ 
+Discharge Medications:
+1. Clonidine 0.1 mg/24 hr Patch Weekly Sig: One (1) Patch Weekly 
+Transdermal QTHUR (every ___.
+Disp:*3 Patch Weekly(s)* Refills:*1*
+2. Neurontin 300 mg Capsule Sig: One (1) Capsule PO three times 
+a day.
+Disp:*90 Capsule(s)* Refills:*1*
+3. Cyanocobalamin 1,000 mcg Tablet Sig: One (1) Tablet PO once a 
+day.  
+4. Tylenol ___ mg Tablet Sig: Two (2) Tablet PO every six (6) 
+hours as needed for pain.  
+5. Motrin 600 mg Tablet Sig: One (1) Tablet PO three times a 
+day.  
+6. Oxycodone 5 mg Tablet Sig: ___ Tablets PO every four (4) 
+hours as needed for pain.  
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Lumbar Disc Herniation
+Cerebral Palsy
+Chronic Back Pain
+Anxiety
+ 
+Discharge Condition:
+Vital Signs Stable
+ 
+Discharge Instructions:
+Return to the ED if having high fevers, chills, confusion.
+
+You have a recent herniated lumbar discs discovered on your very 
+recent prior admission. Your case has been discussed on 2 
+___ occasions with the pain service and you have been 
+evaluated by the physical therapy service twice. On both 
+hospital admissions you were noted to be walking comfortably and 
+deemed safe by ___ for discharge home. You will have outpatient 
+physical therapy.
+
+You do not require any further inpatient admissions for 
+management of your herniated disc pain.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,782 @@
+===== DISCHARGE NOTE =====
+note_id=10128085-DS-18 | hadm_id=26418083
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+admit for heart failure optimization. 
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+
+ 
+History of Present Illness:
+This ___ year old gentleman with gastroesophageal cancer s/p 
+chemo and 5 weeks of daily radiation and extensive 
+reconstructive GI surgery in ___ of this year with multiple 
+complications and a prolonged intubation. He went into a. fib on 
+the operating table during his esophageal cancer resection, 
+placed on warfarin. His cardiologist got an echo which showed 
+severe dilated cardiomyopathy with LVEF of 25%. Cathed ___ 
+and found to have clean coronaries and admitted to ___ service 
+for medical management of heart failure. 
+
+ 
+Past Medical History:
+CAD  
+HTN
+HLD
+Bipolar disorder
+Esophageal cancer
+
+PAST SURGICAL HISTORY
+None
+
+ 
+Social History:
+___
+Family History:
+Father: ___ at age ___, died of MI at age ___
+
+ 
+Physical Exam:
+Admission:
+VS: 97.8 127/75 24 94RA I/O: ___ Weight: 119.6kg  
+GENERAL: NAD. Oriented x3. Mood, affect appropriate. 
+Cooperative.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  
+
+NECK: Supple without JVD.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. irreguarly irregular, normal S1, S2. No m/r/g. No thrills, 
+lifts. No S3 or S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. bibasilar crackles ___BDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominal bruits.  
+EXTREMITIES: No c/c/ ___ edema in bilateral lower extremities. 
+No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas. 
+
+Discharge:
+PHYSICAL EXAM:
+VS: 98 64-100 Avg ___ 130/87 ___ 16x @98%RA
+GENERAL: NAD. Mood, affect appropriate. Cooperative.  
+NECK: Supple without JVD.  
+CARDIAC: Irregularly irregular rhythm, rate controlled, no m/r/g 
+ 
+LUNGS: faint bibasilar crackles
+ABDOMEN: Soft, bowel sounds normoactive  
+EXTREMITIES: trace edema in BLE  
+
+ 
+Pertinent Results:
+___ 09:45PM   GLUCOSE-106* UREA N-15 CREAT-0.8 SODIUM-137 
+POTASSIUM-4.1 CHLORIDE-102 TOTAL CO2-25 ANION GAP-14
+___ 09:45PM   estGFR-Using this
+___ 09:45PM   CALCIUM-9.5 PHOSPHATE-4.2 MAGNESIUM-1.9
+___ 09:45PM   TSH-2.4
+___ 09:45PM   WBC-6.6 RBC-4.93# HGB-13.1*# HCT-43.1# MCV-87 
+MCH-26.5* MCHC-30.3* RDW-16.1*
+___ 09:45PM   ___ PTT-37.2* ___
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN - ___ year old found to have Non-ischemic 
+dilated cardiomyopathy with EF of 25% and clean cath admitted 
+for medical management of CHF. 
+
+#sCHF  - ___ to dilated, non-ischemic cardiomyopathy. Cause of 
+cardiomyopathy unknonw.  Pt was diursed PRN originally with IV 
+Lasix 40 mg with good output and a total of nearly 10 lb weight 
+loss from excess fluid. Pt was transitioned to 20 PO lasix daily 
+to maintain his dry weight. Pt was on CCB at home for rate 
+control of A fib; however, given new diagnosis of heart failure, 
+this medication was stopped. Rate control was achived with 
+Metoprolol (pt discharged on 200 of XL) and digoxin (pt loaded 
+over two doses) and discharged on 0.125 mg daily. During this 
+admission, we decreased lisinopril from 20 to 10 d/t 
+interactions with Lithium.  
+ 
+#A. fib: Started Warfarin 5 mg with Heparin gtt bridge d/t h/of 
+active cancer. Pt had two therapeutic INRs and heparin was 
+D/Ced.  
+
+# Bipolar diorder
+-Continued 900 mg LITHIUM CARBONATE 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Diltiazem 120 mg PO Q8H 
+2. Lithium Oral Solution 900 mg PO DAILY 
+3. Metoprolol Tartrate 50 mg PO Q8H 
+4. Lisinopril 5 mg PO DAILY 
+5. Ondansetron 4 mg PO PRN nausea 
+6. Warfarin 5 mg PO DAILY16 
+7. Aspirin 81 mg PO DAILY 
+8. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Multivitamins 1 TAB PO DAILY 
+3. Ondansetron 4 mg PO PRN nausea 
+4. Warfarin 5 mg PO DAILY16 
+5. Digoxin 0.125 mg PO DAILY 
+RX *digoxin [Digox] 125 mcg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+6. Lithium Oral Solution 900 mg PO DAILY 
+7. Lisinopril 10 mg PO DAILY 
+RX *lisinopril 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+8. Metoprolol Succinate XL 200 mg PO DAILY 
+RX *metoprolol succinate 200 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0
+9. Furosemide 20 mg PO DAILY 
+RX *furosemide 20 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis: heart failure; severe nonischemic CM
+Secondary diagnosis: atrial fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure to take care of you here at ___. You came in 
+with worsening shortness of breath and underwent cardiac 
+catheterization. This showed that you have no blockages in your 
+heart vessels. As you know, your heart is not pumping as well as 
+it should and this may be due to very high heart rates that you 
+have had in the last few months. We have controlled your heart 
+rate here with metoprolol and digoxin. We have also taken off 
+the extra fluid you have collected in your body from poor heart 
+function by using a water pill called lasix. You should continue 
+to take this medication when you go home. Please notify your PCP 
+if you have worsening shortness of breath or fluid collection in 
+your legs. Your weight was 114.8kg (211.43lbs) on discharge. To 
+prevent blood clots, you should take coumadin. Please have your 
+INR checked on ___. Please notify your doctor if you gain 
+more than 3 lbs because this means you may have to have your 
+medications readjusted.
+
+We wish you all the best in your recovery.
+
+Sincerely,
+
+Your ___ team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10128085-DS-17 | hadm_id=27136294
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dysphagia
+ 
+Major Surgical or Invasive Procedure:
+___
+1. Minimally-invasive ___ esophagectomy.
+2. Buttressing of intrathoracic anastomosis with thymus.
+3. Laparoscopic jejunostomy feeding tube.
+4. Esophagogastroduodenoscopy.
+
+___
+Bronchoscopy
+
+___
+DL PICC placement
+
+___
+1. Esophagogastroduodenoscopy.
+2. Flexible bronchoscopy with BAL.
+
+ 
+History of Present Illness:
+Mr ___ is a very pleasant ___ who
+noted solid food dysphagia7 months ago. His symptoms worsened,
+and on ___, he had a barium swallow which showed both
+polypoid and mural mass within the distal esophagus,
+approximately 25 mm proximal to the GE junction.
+
+He underwent EGD ___ which showed a distal esophageal
+circumferential ulceration and a fungating mucosal mass starting
+at 34 cm and extending to 40 cm, just above the GE junction.
+Biopsy showed moderately differentiated invasive adenocarcinoma.
+HER-2/neu was negative. CEA was elevated (22.5) and CA-125 was
+within normal limits.
+
+CT torso ___ showed irregular asymmetric distal esophageal
+wall thickening consistent with known distal esophageal mass 
+with
+epigastric and celiac axis lymph nodes which were nonspecific
+(the largest epigastric lymph node measured 19 mm). PET-CT scan
+___ showed FDG avid esophageal mass with mildly FDG avid 
+left
+diaphragmatic and subdiaphragmatic lymph nodes. 
+
+Staging EGD/EUS ___ showed an exophytic esophageal mass at
+the lower third of the esophagus (5cm long). It was staged as T3
+by EUS criteria. There was one small ___ lymph node
+(0.44x0.5cm) which was not sampled since the FNA would have had
+to go through the tumor risking contamination. Two celiac lymph
+nodes concerning for malignant involvement (0.57x0.32cm &
+1.03x0.76cm) were seen. The larger celiac LN was sampled and
+found to contain metastasis. He was therefore staged as having
+T3N2 disease.
+
+He completed chemoradiation therapy for locally advanced 
+esophageal cancer and 
+his PET-CT scan was performed on ___.  This study
+demonstrated decreased FDG avidity at the site of the known
+primary esophageal cancer.  ___ addition, the gastrohepatic
+lymphadenopathy has also decreased ___ size and avidity.  There
+was no evidence of metastatic disease.  The radiologist noted a
+new irregular opacity ___ the right lower lung.  We reviewed this
+___ our multidisciplinary conference and feel that this is likely
+inflammatory or infectious. He presents now for an 
+esophagectomy.
+
+ 
+Past Medical History:
+CAD  
+HTN
+HLD
+Bipolar disorder
+Esophageal cancer
+
+PAST SURGICAL HISTORY
+None
+
+ 
+Social History:
+___
+Family History:
+Mother
+Father: CAD at age ___, died of MI at age ___
+Siblings
+Offspring
+Other
+
+ 
+Physical Exam:
+BP: 122/77. Heart Rate: 62. Weight: # (refuse to take shoes 
+off).
+Temperature: 98.1. Resp. Rate: 16. Pain Score: 0. O2 
+Saturation%:
+100. Distress Score: 5.
+
+GENERAL        
+[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:
+
+HEENT          
+[x] NC/AT   [x] EOMI   [x] Anicteric
+[x] OP/NP mucosa normal
+[ ] Abnormal findings:
+
+RESPIRATORY    
+[x] CTA/P    
+[ ] Abnormal findings:
+
+CARDIOVASCULAR 
+[x] RRR   
+[ ] Abnormal findings:
+
+GI             
+[x] Soft    [x] NT   [x] ND  
+[ ] Abnormal findings:
+
+GU             [x] Deferred  
+[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE
+[ ] Abnormal findings:
+
+NEURO          
+[x] Strength intact/symmetric    [x] Sensation intact/ symmetric
+[x] Cognition intact
+[ ] Abnormal findings:
+
+MS             
+[x] No clubbing   [x] No cyanosis   [x] No edema 
+[x] No tenderness  
+[ ] Abnormal findings:
+
+LYMPH NODES   
+[x] Cervical nl      [x] Supraclavicular nl  
+
+SKIN           
+[x] No rashes/lesions/ulcers
+[x] No induration/nodules/tightening     [ ] Abnormal findings:
+
+PSYCHIATRIC    
+[x] Nl judgment/insight    [x] Nl memory   [x] Nl mood/affect
+[ ] Abnormal findings:
+
+ 
+Pertinent Results:
+___ CT Abd/pelvis :
+1.  Postsurgical changes related to esophagectomy. No 
+extraluminal oral 
+contrast to suggest a leak. 
+2.  New ill-defined hepatic hypodensities ___ segments II and 
+___ reflect  retraction injury, new since the preoperative 
+exam ___. 
+3.  Small to moderate amount of simple free fluid ___ the abdomen 
+and pelvis. No drainable fluid collection or evidence of abscess 
+formation. 
+4.  Stable appearance of renal and hepatic hypodensities, which 
+are too small to characterize and are most likely cysts. 
+
+___ Chest CT :
+1.  Postsurgical changes related to esophagectomy and gastric 
+pull-through. Oral material is seen throughout the neoesophagus. 
+No extraluminal oral contrast to suggest a leak. 
+2.  Moderate bibasilar consolidations, may represent infection 
+or aspiration. 
+3.  Small left and trace right nonhemorrhagic pleural effusions. 
+
+  
+___ CXR :
+___ comparison with the study of earlier ___ this date, the right 
+hemidiaphragm is not as sharply seen.  This raises the 
+possibility of some effusion and atelectasis at the right base.  
+Extensive left basilar 
+opacification consistent with fluid and volume loss ___ the lower 
+lobe is again noted.  Monitoring and support devices are 
+essentially unchanged. 
+  
+___ CXR 
+As compared to the previous radiograph, there is a minimal 
+increase ___ 
+vascular diameters and a minimal increase ___ the extent of a 
+small left 
+pleural effusion.  Unchanged are the positions of the monitoring 
+and support devices as well as the moderate cardiomegaly and the 
+overall low lung volumes. No new focal parenchymal opacities 
+suggesting pneumonia.
+
+___ CT Abd/pelvis :
+1. Redemonstration of segment ___ hepatic parenchymal 
+hypodensity, likely 
+representing retraction injury.  Stable hepatic hypodensities 
+most likely 
+representing cysts or biliary hamartomas. 
+2. Left renal cystic lesion with posterior hyperdensity, 
+possibly representing layering hemorrhagic or proteinaceous 
+contents, can be assessed for expected stability at  followup. 
+3. Please refer to dedicated chest CT of same date for 
+discussion of thoracic findings including right sided 
+hydropneumothorax. 
+
+___ Chest CT :
+As compared to the previous examination, there is a new 
+subcarinal fluid collection with air bubbles.  New pleural 
+effusions.  
+Unchanged right pneumothorax and small amount of retrocrural 
+air.  At the time of dictation and observation, 3:10 p.m. on the 
+___, the findings were discussed with the 
+referring surgeon, Dr. ___. 
+
+___ Ba swallow :
+Contained leak was demonstrated at the level of carina. The 
+location of the leak corresponds to the location of fluid 
+collection as seen on the CT chest ___ 
+
+___ CXR :
+No relevant change as compared to the previous radiograph, the 
+lung volumes have minimally increased, likely reflecting 
+improved ventilation. However, mild pulmonary edema and remnant 
+atelectasis at the lung bases persist.  The radiodense material 
+projecting over the mediastinum is constant ___ distribution. 
+Unchanged moderate cardiomegaly 
+
+___ Ba swallow :
+A persistent contained leak was demonstrated.
+
+___ CXR :
+___ comparison with the study of ___, the patient has taken a 
+slightly 
+better inspiration.  The cardiac silhouette remains mildly 
+enlarged.  There is little if any elevation and pulmonary venous 
+pressure. Bibasilar atelectatic changes and small effusions 
+persist.  The Port-A-Cath again extends to the mid portion of 
+the SVC. 
+
+                    WBC   RBC    Hgb  Hct MCV MCH  MCHC   RDW 
+Plt Ct 
+___ 12:12    10.2 3.63* 10.0* 33.5* 92 27.5 29.8* 15.3 
+367 
+___ 02:52    6.8 3.11*  8.5*  28.2* 91 27.4 30.3* 15.1 
+282 
+Source: Line-Port 
+___ 02:26    11.3* 3.13* 8.5* 28.3* 91 27.1 30.0* 15.3 
+305 
+Source: Line-port a cath 
+___ 18:45    17.1* 3.67* 10.5* 33.1* 90 28.5 31.6 15.2 
+464* 
+Source: Line-port 
+___ 05:00    6.8 3.38*  9.4*  30.7* 91 27.7 30.5* 15.1 
+339 
+ ___ 08:35    7.0 3.44* 9.5*  31.3* 91 27.5 30.3* 14.8 
+308 
+Source: Line-Port 
+___ 01:49    7.2 3.37* 9.2* 30.9* 92 27.2 29.7* 14.7 298 
+___ 03:47    7.7 3.38* 9.4* 31.2* 92 27.9 30.2* 14.8 318 
+___ 03:39    8.1 3.34* 9.4* 31.3* 94 28.2 30.1* 14.7 302 
+___ 01:51    8.6 3.17* 9.0* 29.7* 94 28.3 30.2* 14.8 274 
+Source: Line-___ 
+___ 01:51    10.2 3.38* 9.6* 32.0* 95 28.3 30.0* 14.8 351 
+
+Source: Line-picc 
+___ 02:08    12.0* 3.48* 9.7* 32.2* 92 27.8 30.1* 14.8 
+338 
+Source: Line-___ 
+___ 03:26    10.1 3.40* 9.6* 31.9* 94 28.3 30.2* 14.6 347 
+
+___ 03:22    9.8 3.37* 9.5* 31.5* 94 28.3 30.3* 14.3 341 
+___ 02:05    8.2 3.29* 9.2* 30.5* 93 28.1 30.3* 14.3 330 
+___ 02:39    5.8 3.14* 8.8* 28.6* 91 28.0 30.7* 14.1 266 
+___ 02:12    5.8 3.23* 9.2* 29.6* 92 28.6 31.2 14.2 271 
+Source: Line-a 
+___ 01:42    5.5 3.22* 9.1* 29.5* 92 28.3 30.9* 14.3 233 
+Source: Line-art 
+___ 05:08    5.3 3.15* 8.9* 28.9* 92 28.4 30.9* 14.4 213 
+___ 23:06    6.0 3.12* 9.1* 29.0* 93 29.1 31.3 14.4 205 
+___ 09:25    5.8 3.21* 9.1* 29.5* 92 28.4 31.0 14.2 194 
+Source: Line-arterial 
+___ 01:23    5.8 3.16* 9.3* 29.4* 93 29.5 31.8 14.3 181 
+___ 02:50    5.1 3.23* 9.5* 30.6* 95 29.3 31.0 14.4 158 
+___ 01:41    7.6 3.44* 10.0* 31.9* 93 29.0 31.3 14.6 135* 
+
+___ 02:09    9.5 3.61* 10.9* 33.9* 94 30.1 32.1 15.0 139* 
+
+Source: Line-aline 
+___ 17:00    10.0 3.84* 11.0* 35.6* 93 28.7 31.0 15.0 
+141* 
+Source: Line-aline 
+___ 04:01    7.7 3.76* 11.2* 35.4* 94 29.8 31.7 15.2 88*1 
+
+___ 21:30    11.9* 4.37* 12.5* 41.0 94 28.7 30.6* 14.9 
+200 
+___ 16:47    11.5* 4.08* 12.0* 38.2* 94 29.4 31.4 14.9 
+172 
+
+ 
+                  GlucoseUreaN Creat Na   K  Cl HCO3 AnGap 
+___          ___   141 4.5 ___ 
+___ 09:42    ___   142 4.5 104 32 11 
+Source: Line-port 
+___ 02:52    ___   138 4.1 ___ 
+Source: Line-Port      
+___ 02:26    ___   138 4.4 ___ 
+Source: Line-port a cath 
+___ 18:45    ___   135 4.6 99  30 11 
+Source: Line-port 
+___ 05:00    113*1 22*   0.7  137 4.4 100 30 11 
+___ 08:35    164*1 21*   0.7  133 4.3 98  29   10 
+Source: Line-Port 
+___ 01:49    135*1 22*   0.7   137 4.6 102 29  11 
+___ 03:47    132*1 23*   0.8   140 4.7 ___ 
+___ 03:39    134*1 24*   0.7   143 4.1 107 32  8 
+___ 01:51    155*1 26*   0.8   143 4.5 ___ 
+Source: Line-___ 
+___ 01:51    152*1 31*   0.8   141 5.0 ___ 
+Source: Line-___ 
+___ 18:30    161*1 31*   0.8   142 4.7 104 31  12 
+Source: Line-___ 
+___ 02:08    163*1 30*   0.8   147* 4.3 ___ 
+Source: Line-___ 
+___ 03:26    137*1 28*   0.7   147* 4.4 105 34* 12 
+___ 23:05    150*1 27*   0.7   145 4.5 104 35*  11 
+___ 03:22    171*1 20    0.6   145 4.3 105 35*   9 
+___ 22:40    170*1 21*   0.7   147* 4.2 104 35* 12 
+___ 02:05    144*1 20    0.6   142 3.6 102 35*   9 
+___ 14:34                      138 4.0 98     
+Source: Line-aline 
+___ 02:39    131*1 20    0.6   139 4.1 99 34*   10 
+___ 21:00    137*1 19    0.7   139 4.1 101 34*   8 
+___ 02:12    137*1 22*   0.7   141 4.2 101 32   12 
+Source: Line-a   
+___ 15:00                      140 3.7 101     
+Source: Line-a 
+___ 06:20                      139 4.1 101     
+Source: Line-art; Vancomycin @ Trough 
+___ 01:42    157*1 23*   0.9   138 3.7 100 27    15 
+Source: Line-art 
+___ 14:20                      143 3.5 102     
+Source: Line-midline 
+___ 05:08    140*1 21*   0.9   137 3.1* 100 29  11 
+___ 23:06    141*1 20    0.8   143 3.7 106 31   10 
+___ 09:25    192*1 21*   0.8   141 3.9 ___ 
+Source: Line-arterial 
+___ 01:23    142*1 21*   0.8   142 3.7 ___ 
+___ 18:00                      142 3.7 106     
+Source: Line-a 
+___ 02:50    162*1 26*   0.7   143 4.1 ___ 
+___ 17:00                     146* 2.3 123    
+Source: Line-a 
+___ 01:41    130*1 27*   0.9   144 4.2 113* 25  10 
+___ 14:00                      142 4.1 111*     
+Source: Line-a 
+___ 02:09    125*1 32*   1.3*  141 4.3 113* 24   8 
+Source: Line-aline 
+___ 22:15    119*1 33*   1.4*  140 4.2 111* 23   10 
+Source: Line-aline 
+___ 04:01    146*1 27*   1.6*  141 4.7 111* 21*  14 
+___ 00:11    154*1 26*   1.7*  139 4.9 109* 21*  14 
+___ 21:30    131*1 25*   1.7*  139 6.1 109*     
+___ 16:47    119*1 21*   1.7*  135 6.0*4 ___ 
+ 
+
+___ 9:17 am BRONCHOALVEOLAR LAVAGE
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      3+  ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS. 
+
+   RESPIRATORY CULTURE (Final ___:    NO GROWTH, <1000 
+CFU/ml. 
+
+   FUNGAL CULTURE (Final ___:    NO FUNGUS ISOLATED
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the hospital and taken to the 
+Operating Room where he underwent a minimally-invasive 
+___ esophagectomy, buttressing of intrathoracic 
+anastomosis with thymus, laparoscopic jejunostomy feeding tube 
+and esophagogastroduodenoscopy.  He tolerated the procedure well 
+and returned to the SICU intubated and ___ stable condition.  He 
+remained intubated and sedated for several days post op as he 
+required some diuresis but unfortunately he developed bibasilar 
+consolidations as well as fevers and he was treated with 
+antibiotics for aspiration pneumonia. He also developed atrial 
+fibrillation and was treated with IV Diltiazem for rate control. 
+ His creatinine rose to 1.7 post op but returned to normal with 
+more hydration and withholding diuretics. Delirium was also an 
+issue and he was treated with Seroquel which was effective. 
+Eventually his pre op lithium was resumed and his mental status 
+returned to normal. I will do a systems review for completeness 
+sake.
+
+Pulmonary :  Mr. ___ spent 10 days on the ventilator with 
+weaning problems due to some fluid overload, possible aspiration 
+pneumonia and severe agitation when sedation was weaned down.  
+He had a bronchoscopy done on ___ to help clear his 
+secretions and he was also placed on his pre op lithium which 
+eventually made weaning of his sedation easier and he was 
+extubated on ___.  He continued to need vigorous pulmonary 
+toilet with chest ___, nebulizers and incentive spirometry and he 
+was able to maintain his oxygen saturations > 95% with O2 at ___ 
+LPM.  He currently is off of oxygen with room air saturations of 
+97% but still requires nebulizer treatment to help clear his 
+secretions.
+
+Cardiac:  He developed rapid atrial fibrillation on post op day 
+#1 which initially caused some hypotension.  He was treated with 
+a Diltiazem drip and eventually IV metoprolol once his blood 
+pressure allowed. His medications were switched to via the J 
+tube and currently he remains ___ atrial fib/flutter anywhere 
+from 70-110.  He's generally under 100 but does occasionally 
+increase if he ambulates or does anything exertional.  His 
+Diltiazem is 120 mg TIF and his lopressor is 50 mg TID with BP 
+130/61 and HR as stated earlier.  Troponins have been checked 
+during periods of RAF and have always been negative. He 
+initially began anticoagulation with IV heparin and Coumadin but 
+has been switched to Lovenox as he has an anastomotic leak and 
+may need further invasive procedures. He will eventually ne able 
+to transition to Coumadin when he's allowed to take medications 
+orally.  He will also need a referral to cardiology following 
+discharge.
+
+GI: Mr. ___ had a J tube placed at the time of surgery and has 
+received 100% of his nutrition via the J tube post op.  He 
+tolerated Promote (no fiber) at his goal rate and began cycled 
+feedings about a week ago.  He's receiving Promote at 130 mls/hr 
+over 18 hrs from 3PM to 9AM.  From a surgical standpoint he 
+developed fevers post op 4 to 102 and underwent a CT Torso which 
+ruled out an anastomotic leak.  He was pan cultured and all were 
+negative.  His JP drain and chest tube were eventually removed 
+after an EGD on ___ showed no anastomotic leak and he did 
+not have any leukocytosis. He had a bedside swallow done on 
+___ which he passed.  He developed another temperature spike 
+on ___ and had a repeat CT Torso which demonstrated some new 
+pleural effusions as well as some air bubbles around the 
+anastomosis, concerning for leak. Again, conservative treat was 
+done including remaining NPO and broad spectrum antibiotic 
+coverage.  He underwent a barium swallow on ___ which 
+confirmed an anastomotic leak.  This prompted evaluation by the 
+GI service and on ___ he was taken to the GI suite and had 
+an EGD with placement of a Cook clip to ablate the fistulous 
+tract around the anastomosis.  Unfortunately he decompensated 
+post EGD, initially with rapid atrial firillation, desaturation 
+and some complaints of shortness of breath.  He was transferred 
+back to the ICU and improved with IV Diltiazem.  Once his heart 
+rate was under control his SOB resolved and he improved.  
+Currently he remains NPO as a barium swallow was done on ___ 
+which again demonstrated a leak.  He will remain NPO and will 
+return for a repeat swallow on ___ to determine the next 
+course.
+
+Neuro:  Although he had problems with delirium early post op, he 
+has totally cleared and is only on his Lithium.  He has 
+expressed concerns that he's not sleeping well and our 
+medication choices were limited as elixir is not available here 
+___ any sleeping medication other than Benedryl.  Sublingual 
+Ativan was tried earlier (0.5mg) to decrease his anxiety but 
+it's unclear how helpful it was.  He's very anxious to improve 
+his strength and endurance so that he can get on with his life.
+
+GU:  He had a brief increase ___ his creatinine from his baseline 
+of 0.9 preop to 1.7 post op lasting ___ days but this resolved 
+and has not been an issue for weeks.  His creatinine today is 
+0.8.  He has not had any issues with voiding post foley removal.
+
+ID:  Mr. ___ has been on multiple antibiotics at different 
+times  post op for aspiration pneumonia.  All of his cultures 
+have been negative except some GPC's ___ a BAL gram stain from 
+___ but the culture was negative.  He's currently on 
+Augmentin suspension via his J tube which was started to treat a 
+possible aspiration on ___ and should continue thru 
+___.  He has had no temperature spikes ___ 5 days and his 
+WBC is 10K today.
+
+After a long, protracted hospital course Mr. ___ will be 
+discharged to rehab for vigorous Physical Therapy to help him 
+regain his strength and eventual independence.  He will follow 
+up ___ the Thoracic Clinic ___ 2 weeks.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN pain 
+2. Lithium Carbonate 900 mg PO DAILY 
+3. Atenolol 25 mg PO DAILY 
+4. fenofibrate micronized 200 mg oral daily 
+5. Simvastatin 80 mg PO DAILY 
+6. Multivitamins W/minerals 1 TAB PO DAILY 
+7. Omeprazole 40 mg PO BID 
+8. Aspirin 325 mg PO DAILY 
+9. Fexofenadine 180 mg PO DAILY:PRN allergies 
+10. Cyanocobalamin ___ mcg PO DAILY 
+11. Ascorbic Acid ___ mg PO DAILY 
+12. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Acetaminophen (Liquid) 650 mg PO Q6H:PRN pain, fever 
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN wheeze 
+3. Artificial Tears ___ DROP BOTH EYES PRN red eye 
+4. Diltiazem 120 mg PO Q8H 
+5. Docusate Sodium (Liquid) 100 mg PO BID 
+6. Enoxaparin Sodium 80 mg SC BID 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+7. Lithium Oral Solution 900 mg PO DAILY 
+8. Metoprolol Tartrate 50 mg PO Q8H 
+9. Nystatin Oral Suspension 5 mL PO QID 
+10. Ondansetron 4 mg IV Q8H:PRN nausea 
+11. OxycoDONE Liquid 10 mg PO Q4H:PRN pain 
+give via J tube and flush with 20 mls water 
+RX *oxycodone 5 mg/5 mL 10 mls by mouth every four (4) hours 
+Disp #*500 Milliliter Milliliter Refills:*0
+12. Amoxicillin-Clavulanate Susp. 500 mg PO Q8H 
+thru ___ 
+13. Heparin Flush (10 units/ml) 5 mL IV DAILY and PRN, line 
+flush 
+14. Metoprolol Tartrate 5 mg IV Q4H:PRN HR>120 
+15. Pantoprazole 40 mg IV Q24H 
+16. Sodium Chloride 0.9%  Flush 3 mL IV Q8H and PRN, line flush 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Esophageal cancer
+___
+Atrial fibrillation
+Pneumonia
+Esophageal anastomotic leak
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+* You were admitted to the hospital for esophageal surgery and 
+unfortunately developed a number of complications post op which 
+required a prolonged ICU stay as well as hospital stay.  You are 
+improving daily but will need to spend some time ___ rehab prior 
+to returning home.
+* Continue to use your incentive spirometer every hour while 
+awake to help expand your lungs.
+* You will continue your tube feedings on a cycled basis to get 
+100% of your calories. this will help with healing and build up 
+your strength. Check the feeding tube site daily to make sure 
+the sutures are intact and make sure there's no redness or 
+drainage.
+* You will not be able to eat or drink anything until the 
+esophageal leak heals but the mouth swabs are fine to moisten 
+your mouth.
+* You developed an irregular heart rate post op and currently 
+the rate is normal but it remains irregular.  You will need to 
+be anticoagulated indefinitely.  Currently you are on Lovenox 
+injections but you will eventually be able to take a pill called 
+Coumadin when you're cleared to swallow medications.
+* Continue to use your incentive spirometer 10 times an hour to 
+help keep your lungs fully expanded.
+* You will need to come back to ___ on a periodic basis 
+to obtain a barium swallow to assess the leak and you will also 
+see Dr. ___.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,646 @@
+===== DISCHARGE NOTE =====
+note_id=11678102-DS-9 | hadm_id=21134202
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+Possible syncopal episode and hypotension at ___ 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ w/ Hx of perforated duodenal ulcer (___) s/p exploratory 
+laparotomy and ___ patch as well as HTN and infra-renal AAA 
+s/p endovascular stent repair (___) now presenting with 
+hypotension from nursing home.
+
+Story obtained form staff at ___ where patient 
+lives and from his wife ___ who was with him earlier today. 
+___ speaks broken ___ so some of history difficult. 
+Patient himself has some cognitive deficits and is ___ 
+speaking only.
+
+___:
+Patient went to get haircut with wife today. Was lethargic when 
+returned so wife asked staff to evaluate. Poorly responsive to 
+conversation for ___. Then started speaking again and acting 
+better. Never lost conciousness. They put back in bed and vitals 
+when back in bed showed low BP (80/50). RR and sats normal. HR 
+64. Prior to this event had been feeling and acting normally 
+that day and the preceeding few days. No antecedent illness.
+
+History per Wife:
+After hair cut he his put head down, not responding normally, 
+white face. Skin cold but not sweating. Lasted ___. Then 
+opened his eyes and said nothing was wrong. Patient had no 
+complaints at that point. No vomiting. Wife goes to nursing home 
+every day. Say he is doing okay in general but not drinking much 
+water. By time reached hospital she felt he was acting normally.
+
+EMS was called by nursing home. Found BP ___. EMS started IV and 
+gave 200cc IVF and he became more responsive with better BP. Pt 
+denied abd pain, nausea, vomiting, shortness of breath. Brought 
+to ___ ER.
+
+In the ED, initial VS were: 98 67 99/39 18 99%. BP mostly in 
+___. Given 1L NS. Making urine. Has a foley. Initially a bit 
+hypoxic so got CTA + abdomen which showed no significant 
+abnormalities. FAST scan negative. Heart looked okay. Trop 
+slightly up at 0.08. Full code per family (Dtr not involved in 
+this discussion). Didn't seem that interested in central line or 
+other aggressive moves. Given dose of vancomycin and were going 
+to give levofloxacin but MICU team asked them to hold 
+levofloxacin so not given although had been ordered. VS on 
+transfer: 97.9 57 101/33 25 100%  
+
+On arrival to the MICU, patient comfortable. Denies pain and 
+specifically denies pain in the chest. No trouble breathing. 
+Feels like getting some sleep. Other history difficult due to 
+language.
+
+ 
+Past Medical History:
+1) Hypertension
+2) Endovascular stent repair of AAA ___
+3) R eye cataract extraction ___ R eye ptegygium removal ___ L eye cataract extraction ___
+
+ 
+Social History:
+___
+Family History:
+noncontributory
+ 
+Physical Exam:
+On presentation:
+Vitals: T: 98.4 BP: 138/47 P: 72 R: 18 O2: 100% on 2L NC  
+General: Alert, aware in hospital, no acute distress  
+HEENT: Sclera anicteric, dry MM, EOMI, PERRL  
+Neck: supple, JVP not elevated, no LAD  
+CV: RRR, normal S1 + S2, no murmurs, rubs, gallops  
+Lungs: Clear to ausc b/l anteriorly, no wheezes, rales, ronchi  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no HSM
+GU: foley in place 
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: alert, moving all ext, pupils equal, tongue midline
+
+On discharge:
+General: Alert, aware in hospital, no acute distress  
+HEENT: Sclera anicteric, dry MM, EOMI, PERRL  
+Neck: supple, JVP not elevated, no LAD  
+CV: RRR, normal S1 + S2, no murmurs, rubs, gallops  
+Lungs: Clear to ausc b/l anteriorly, no wheezes, rales, ronchi  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no HSM
+GU: foley in place 
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: alert, moving all ext, pupils equal, tongue midline
+
+ 
+Pertinent Results:
+Labs:
+___ 09:15PM   CK-MB-3 cTropnT-0.06*
+___ 09:15PM   CK(CPK)-44*
+___ 03:10PM   ___
+___ 10:14AM BLOOD Glucose-115* UreaN-33* Creat-1.2 Na-137 
+K-4.0 Cl-104 HCO3-26 AnGap-11
+___ 09:15PM BLOOD CK-MB-3 cTropnT-0.06*
+___ 02:20PM BLOOD pO2-154* pCO2-33* pH-7.45 calTCO2-24 Base 
+XS-0
+
+Imaging:
+CXR ___:  IMPRESSION: Mild pulmonary edema 
+
+CTA ___:  IMPRESSION: 
+1.  No pulmonary embolism or acute aortic pathology.   
+2.  Status post endovascular repair of infrarenal aortic 
+aneurysm without 
+evidence of endoleak. Minimal increase in size of aneurysm sac 
+is noted since ___.   
+3.  Bilateral upper lobe nodularity with retained secretions in 
+the lower lobe airways could reflect aspiration or other 
+inflammatory/infectious process.   
+4.  6 mm right lower lobe nodule which three-month followup is 
+recommended per ___ guidelines if high risk for 
+malignancy (e.g. smoking) or six-month followup if low risk for 
+malignancy. 
+5.  Thickened but decompressed bladder, correlate with 
+urinalysis. 
+
+ 
+Brief Hospital Course:
+The pt was admitted to the hospital for hypotension and 
+bradycardia.  On the first hospital day a CTA was done that 
+showed no pulmonary emboism and serial troponins were flat.  The 
+pt improved dramatically with IV fluids and witholding his 
+antihypertensives.  He was monitored on telemetry for 24 hours 
+that showed continued bradycardia and stable blood pressures.
+
+On the second hospital day he was still at baseline and had not 
+had any evidence of returning hypertension.  He and his wife 
+stated that he did not want a pacemaker and there was no 
+evidence that the bradycardia was causing his symptoms.  It was 
+thought that his hypotension was related to decreased PO intake 
+and hypertensive medications.  After the observation period it 
+was thought that he was safe to return home.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 325 mg PO DAILY 
+2. Hydrochlorothiazide 12.5 mg PO DAILY 
+3. Lisinopril 10 mg PO DAILY 
+4. Pantoprazole 40 mg PO Q12H 
+5. Docusate Sodium 100 mg PO BID 
+6. Lidocaine 5% Patch 1 PTCH TD DAILY 
+7. Senna 2 TAB PO HS 
+8. Tamsulosin 0.4 mg PO HS 
+9. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+10. Albuterol Inhaler ___ PUFF IH Q6H:PRN dyspnea 
+
+ 
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+2. Albuterol Inhaler ___ PUFF IH Q6H:PRN dyspnea 
+3. Aspirin 325 mg PO DAILY 
+4. Docusate Sodium 100 mg PO BID 
+5. Lidocaine 5% Patch 1 PTCH TD DAILY 
+6. Pantoprazole 40 mg PO Q12H 
+7. Senna 2 TAB PO HS 
+8. Tamsulosin 0.4 mg PO HS 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis: Hypovolemia, Acute kidney injury, Bradycardia
+
+Secondary diagnosis: Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you in the hospital. You were 
+admitted with low blood pressures and were watched in the ICU. 
+Your blood pressures returned to normal. We think that your 
+blood pressures were probably low from using your 
+hydrochlorothiazide while not taking in enough by mouth. Your 
+other blood pressures medications may have contributed as well. 
+You appeared dehydrated and were given IV fluids with 
+improvement in your kidney function.
+
+We stopped your blood pressure medications since these were 
+likely contributing to your low blood pressure. You should 
+continue to remain off these medications for the time being.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11678102-DS-8 | hadm_id=21320857
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Falling hematocrit
+ 
+Major Surgical or Invasive Procedure:
+None this admission
+ 
+History of Present Illness:
+___ yo gentleman who is s/p exploratory
+laparotomy and ___ patch for perforated duodenal ulcer on
+___. He was discharged to a rehab facility on ___ and at
+that time he was stable and doing well. This morning his Hct was
+noted to be 21 at the outside facility and for this reason he 
+was
+referred to the ___ ED. 
+Here the patient appears to be comfortable, his only complaint 
+is
+that he hasn't gotten his energy back since the operation. 
+He denies feeling dizzy or lightheaded. He does not remember
+having melanotic stool since discharge and his family (who is
+here with him and interprets for him) has not had any report of
+BRBPR or melena from the nurse that took care of him at rehab. 
+He
+denies fevers, chills, nausea or vomiting.
+In the ED a rectal exam was performed and he was noted to have
+melanotic stool. The patient also had a formed bowel movement
+while in the ED which was per report dark brown, not black, and
+no bright red blood was noted. 
+
+ 
+Past Medical History:
+1) Hypertension
+2) Endovascular stent repair of AAA ___
+3) R eye cataract extraction ___ R eye ptegygium removal ___ L eye cataract extraction ___
+
+ 
+Social History:
+___
+Family History:
+noncontributory
+ 
+Physical Exam:
+Upon presentation:
+Vitals:97.6 57 129/50 14 99%  
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Soft, nondistended, nontender, midline surgical incision
+with staples in place, c/d/i, no discharge or erythema. DRE:
+performed by ED physician: normal tone, positive for melanotic
+stool, guiac positive.
+Ext: No ___ edema, ___ warm and well perfused
+
+ 
+Pertinent Results:
+___ 11:14PM   WBC-9.9 RBC-2.62* HGB-7.9* HCT-24.4* MCV-93 
+MCH-30.0 MCHC-32.2 RDW-14.0
+___ 01:35PM   GLUCOSE-78 UREA N-28* CREAT-1.2 SODIUM-141 
+POTASSIUM-3.6 CHLORIDE-105 TOTAL CO2-25 ANION GAP-15
+___ 01:41PM   HGB-8.0* calcHCT-24
+___ 07:20AM BLOOD WBC-9.3 RBC-2.72* Hgb-8.0* Hct-25.1* 
+MCV-92 MCH-29.4 MCHC-31.9 RDW-14.1 Plt ___
+ 
+Brief Hospital Course:
+He was admitted back to the hospital from the rehab facility 
+with concern for low hematocrit (21). His hemodynamics and 
+hematocrits were monitored very closely here in the hospital - 
+initial Hct reading in the ED was 24.7. Subsequent values were 
+24.4 and 25.1 on ___ at 7:20 a.m. There have been no episodes 
+of melena or hematemesis; it should be noted that he has tested 
+guaiac positive and this was noted on his previous admission 
+when he presented with the perforated duodenal ulcer. He is on a 
+PPI and is also continuing his treatment for H. pylori through 
+___. 
+
+Hemodynamically he has been stable as well with blood pressures 
+ranging in 120's-130's range and no tachycardia. His heart rate 
+has actually ran on lower side. His PCP was contacted regarding 
+this and endorses that patient has been noted to be bradycardic 
+during previous office visits. 
+
+He is being discharged back to rehab and should follow up in 
+Acute Care Surgery clinic next week.
+
+ 
+Medications on Admission:
+lisinopril/HCTZ ___ daily  
+ASA 81  
+Prevpac  
+flomax 0.4 qhs  
+oxycodone 5 q4h prn  
+
+ 
+Discharge Medications:
+1. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) 
+Capsule, Ext Release 24 hr PO HS (at bedtime).  
+2. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).  
+3. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: One (1) Neb Inhalation Q6H (every 6 hours) as 
+needed for wheezing.  
+4. oxycodone 5 mg Tablet Sig: 0.5 Tablet PO Q4H (every 4 hours) 
+as needed for pain.  
+5. hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).  
+6. amoxicillin 250 mg/5 mL Suspension for Reconstitution Sig: 
+1,000 MG PO Q12H (every 12 hours): stop date ___.  
+7. clarithromycin 250 mg/5 mL Suspension for Reconstitution Sig: 
+Five Hundred (500) MG PO Q12H (every 12 hours): stop date 
+___.  
+8. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as 
+needed for constipation.  
+9. senna 8.6 mg Tablet Sig: ___ Tablets PO twice a day as needed 
+for constipation.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Anemia
+
+Secondary diagnoses:
+Perforated duodenal ulcer
+H. Pylori
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+Level of Consciousness: Alert and interactive.
+ 
+Discharge Instructions:
+You were admitted back to the hospital for bleeding concerns 
+related to a low hematocrit. Your vital signs and blood counts 
+were followed closeley and remained stable during your hopsital 
+stay. You are now being discharged back to rehab to continue 
+with your physical and occupational therapy.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11678102-DS-7 | hadm_id=23522088
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+___
+Exploratory laparotomy and ___ patch
+
+ 
+History of Present Illness:
+Interview is conducted with presence of family members
+translating for the patient who only speaks ___. This is a
+pleasant ___ yo gentleman who comes with a ___ h/o epigastric 
+pain
+not associated with nausea, vomiting, diarrhea, fevers or 
+chills.
+The pain started gradually during the day yesterday and 
+increased
+in severity overnight which prompted him to come to the 
+emergency
+room. He does endorse some constipation in the past couple of
+days for which he took miralax. Denies melena of BRBPR.
+Had a colonoscopy in ___ which revealed diverticulosis.Denies
+h/o gastritis or PUD. Never had an EGD.
+
+ 
+Past Medical History:
+1) Hypertension
+2) Endovascular stent repair of AAA ___
+3) R eye cataract extraction ___ R eye ptegygium removal ___ L eye cataract extraction ___
+
+ 
+Social History:
+___
+Family History:
+noncontributory
+ 
+Physical Exam:
+Temp 96.3   HR 82   BP 122/61   RR 18   O2 sat 100% RA 
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, no M/R/G
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Soft, very TTP diffusely. Mildly distended.
+Ext: No ___ edema, ___ warm and well perfused. Palpable ___ b/l
+
+ 
+Pertinent Results:
+CBC:
+___ 09:05AM BLOOD WBC-9.9 RBC-3.51* Hgb-10.5* Hct-32.0* 
+MCV-91 MCH-29.9 MCHC-32.7 RDW-13.6 Plt ___
+___ 04:40AM BLOOD WBC-16.2*# RBC-3.02* Hgb-9.3* Hct-27.2* 
+MCV-90 MCH-30.9 MCHC-34.3 RDW-14.1 Plt ___
+___ 09:50AM BLOOD WBC-13.8* RBC-2.72* Hgb-8.6* Hct-24.7* 
+MCV-91 MCH-31.5 MCHC-34.7 RDW-13.8 Plt ___
+___ 06:35AM BLOOD WBC-7.8 RBC-2.67* Hgb-8.5* Hct-25.0* 
+MCV-94 MCH-31.8 MCHC-34.0 RDW-14.0 Plt ___
+___ 09:05AM BLOOD Neuts-85.0* Lymphs-12.7* Monos-1.6* 
+Eos-0.4 Baso-0.2
+
+Chemistry:
+___ 09:05AM BLOOD Glucose-206* UreaN-97* Creat-2.0* Na-136 
+K-4.7 Cl-102 HCO3-20* AnGap-19
+___ 05:12AM BLOOD Glucose-146* UreaN-52* Creat-1.2 Na-137 
+K-3.8 Cl-106 HCO3-21* AnGap-14
+___ 06:35AM BLOOD Glucose-112* UreaN-33* Creat-1.1 Na-140 
+K-4.2 Cl-108 HCO3-21* AnGap-15
+___ 05:33PM BLOOD Calcium-7.4* Phos-3.4 Mg-2.2
+___ 06:35AM BLOOD Calcium-8.5 Phos-3.1 Mg-2.1
+
+Imaging:
+___: CTA abd/pelvis
+IMPRESSION: 1. Intraperitoneal free air. This is most likely the 
+result of a perforated duodenal ulcer.  2. Cholelithiasis, 
+without evidence of cholecystitis. 3. Diverticulosis, without 
+evidence of acute diverticulitis.
+4. Aortic endograft is stable in appearance, without evidence of 
+leak. The 
+abdominal aneurysm sac has decreased in size compared with ___. 
+There is 
+extensive atherosclerotic disease. 5. Probable liver hemangioma 
+in segment II. 
+
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the acute care surgery service for a 
+perforated duodenal ulcer. He went to the OR on ___ for 
+exploratory laparotomy and ___ patch repair. He was stable 
+post-operatively. 
+
+Neuro: His pain was controlled by morphine and when taking PO he 
+was switched to oxycodone and tramadol. He was intermittently 
+confused on POD 1 and 2 and agitated overnight. His mental 
+status slowly improved during his hospital course and he was 
+awake and conversant during the day. 
+
+CV: He remained cardiovascularly and pulmonary-wise stable and 
+vitals were monitored closely during his hospitalization. Pre op 
+he took Lisinopril/HCTZ for BP control but during his stay his 
+blood pressure was in the 100-120/70 range therefore he was only 
+restarted on Hydrochlorothiazide and remained with a stable BP.
+
+GI: He is s/p ___ patch repair. He was started on a PPI on 
+POD1. He remained NPO and on IV fluids until POD4 when he was 
+advanced to clear liquid diet, which he tolerated. He was 
+advanced to a regular diet on POD5 and tolerated that well also. 
+H.Pylori serum antibody was sent on POD1 and returned positive. 
+He was started on h.pylori treatment with clarithromycin and 
+amoxicillin on ___ for a 2 week course. 
+
+GU: His foley was discontinued on POD 3. He had some mild 
+urinary retention and a straight catheter was used at first. He 
+was given tamsulosin for his urinary retention. Urine Cx on 
+___ showed no growth. 
+
+ID: He was initially given Zosyn for his perforated ulcer. He 
+was switched to ceftriaxone/flagyl on POD1 for empiric coverage. 
+This was then switched to clarithro/amox for h.pylori on 
+___. 
+
+The Physical Therapy service recommended a short term rehab stay 
+prior to returning home to help increase his mobility and 
+endurance.  He was discharged on ___.
+ 
+Medications on Admission:
+lisinopril/HCTZ ___ daily, ASA 81
+
+ 
+Discharge Medications:
+1. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) 
+Capsule, Ext Release 24 hr PO DAILY (Daily).  
+2. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours). 
+Tablet, Delayed Release (E.C.)(s) 
+3. hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).  
+4. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: ___ puffs Inhalation Q6H (every 6 hours).  
+5. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3 
+times a day) as needed for pain.  
+6. oxycodone 5 mg Tablet Sig: 0.5 Tablet PO Q4H (every 4 hours) 
+as needed for pain.
+Disp:*42 Tablet(s)* Refills:*0*
+7. clarithromycin 250 mg/5 mL Suspension for Reconstitution Sig: 
+Ten (10) mL PO Q12H (every 12 hours): thru ___.
+Disp:*280 mL* Refills:*0*
+8. amoxicillin 250 mg/5 mL Suspension for Reconstitution Sig: 
+Twenty (20) mL PO Q12H (every 12 hours): thru ___.
+Disp:*560 ml* Refills:*0*
+9. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed for constipation.  
+10. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+11. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+12. Ecotrin Low Strength  Oral
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1. Perforated duodenal ulcer
+2. Acute blood loss anemia
+3. + H Pylori
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted to the acute care surgery service for a 
+perforated ulcer which required surgery for repair. You have 
+been doing well but you still need to improve your mobility 
+prior to returning home therefore you will spend some time in 
+rehab prior to returning home.
+
+Please call your doctor or nurse practitioner or return to the 
+Emergency Department for any of the following:
+
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+
+*New or worsening cough, shortness of breath, or wheeze.
+
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+Please resume all regular home medications , unless specifically 
+advised not to take a particular medication. Also, please take 
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids. Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon.
+
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+
+Incision Care:
+
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site.
+
+*Avoid swimming and baths until your follow-up appointment.
+
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water. Gently pat the area dry.
+
+*Your staples will be removed at rehab.
+
+ 
+Followup Instructions:
+___

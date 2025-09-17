@@ -1,0 +1,206 @@
+===== DISCHARGE NOTE =====
+note_id=11697001-DS-12 | hadm_id=21128017
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+left forearm fracture
+ 
+Major Surgical or Invasive Procedure:
+open reduction and internal fixation of left radius and ulna
+
+ 
+History of Present Illness:
+This is a ___ F sent to the ___ on ___ ___ for a 
+left forearm fracture. Patient was reportedly crossing the road 
+the previous evening and was struck in by a low speed truck. She 
+held her arm up to protect her and was thrown backwards. She had 
+immediate L forearm pain and deformity, but reports no other 
+injuries other than some minor abrasions. She was brought 
+directly to the ___ for further evaluation. Denies headstrike, 
+LOC, or other associated injuries. NV intact on arrival. 
+
+ 
+Past Medical History:
+anxiety, back pain
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+PHYSICAL EXAMINATION UPON ADMISSION:
+
+Vitals: AFVSS
+
+A&O x 3 
+Calm and comfortable 
+  
+LUE skin clean and intact 
+No skin tenting or skin compromise is noted, closed injury, no
+open wounds 
+Small abrasion/ ecchymosis over ulnar aspect of L forearm, does
+not communicate to deep tissues
+Obviously tender over entire L forearm, minimal swelling and
+ecchymosis is notes 
+Arms and forearm compartments soft 
+No pain with passive motion of fingers
+Axillary, Radial, Median, Ulnar SILT 
+EPL FPL EIP EDC FDP FDS fire 
+2+ radial pulses 
+
+PHYSICAL EXAMINATION UPON DISCHARGE:
+AFVSS
+Well-appearing female
+Respirations non-labored
+Left upper extremity: Short arm splint in place. Sensation 
+intact to light in median, ulnar, and radial distributions. 
++AIN/PIN/ulnar motor function, limited by pain but able to move 
+against resistance. Fingers warm and well perfused. Hand and 
+fingers soft, no pain with passive stretch; arm soft above 
+splint. 
+ 
+Pertinent Results:
+___ 09:00AM   GLUCOSE-96 UREA N-8 CREAT-0.6 SODIUM-136 
+POTASSIUM-3.4 CHLORIDE-105 TOTAL CO2-23 ANION GAP-11
+___ 09:00AM   WBC-7.5 RBC-4.02* HGB-12.1 HCT-37.7 MCV-94 
+MCH-30.1 MCHC-32.1 RDW-12.1
+___ 09:00AM   ___ PTT-31.2 ___
+___ 09:00AM   PLT COUNT-201
+___ 04:44AM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-TR
+___ 04:44AM URINE  RBC-1 WBC-6* BACTERIA-FEW YEAST-NONE 
+EPI-5
+ 
+Brief Hospital Course:
+The patient was admitted to the Orthopaedic Trauma service on 
+___. Home medications, including oxycodone, gabapentin and 
+alprazolam, were continued, as well as IV dilaudid for pain 
+control. Preoperatively, pain control was problematic, though 
+concern for compartment syndrome remained low with serial 
+examinations. The patient underwent open reduction and internal 
+fixation of left radius and ulna fractures on ___, 
+performed by Dr. ___.
+
+Neuro: Postoperatively, pain was controlled with dilaudid PCA, 
+transitioned on POD1 to PO oxycodone, with good effect. The 
+patient took 60mg of oxycodone daily prior to surgery, and 
+therefore relatively high doses of oxycodone were required for 
+pain control.
+
+CV: Vital signs were routinely monitored and the patient 
+remained hemodynamically  stable.
+
+Pulm: There were no respiratory issues.
+
+GI: The patient tolerated a regular diet both pre- and 
+post-operatively.
+
+ID: The patient received perioperative ancef and remained 
+afebrile.
+
+Heme: The patient received subq lovenox for DVT prophylaxis, and 
+will complete a ___ctivity: The patient was seen by OT and cleared for discharge 
+to home.
+
+On day of discharge, the patient was afebrile with acceptable 
+pain control. She is discharged to home and will follow-up in 
+Ortho Trauma clinic in ___ days. She will complete a 2 week 
+course of lovenox and will remain non-weight-bearing on her left 
+upper extremity. 
+ 
+Medications on Admission:
+Alprazalom 1mg BID, Oxycodone 10mg q4-6H, gabapentin 300mg TID 
+
+ 
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+do not exceed 4000mg (4g) per day 
+2. ALPRAZolam 1 mg PO BID:PRN anxiety 
+RX *alprazolam 1 mg 1 tablet(s) by mouth twice per day Disp #*8 
+Tablet Refills:*0
+3. Gabapentin 300 mg PO TID 
+RX *gabapentin 300 mg 1 capsule(s) by mouth three times per day 
+Disp #*12 Capsule Refills:*0
+4. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN Pain 
+do not drink alcohol or drive while taking. do NOT continue 
+taking prior oxycodone dose. 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 4 hours Disp 
+#*180 Tablet Refills:*0
+5. Aspirin 325 mg PO DAILY Duration: 12 Days 
+Continue for 12 days after discharge 
+6. Docusate Sodium 100 mg PO BID:PRN constipation 
+
+Please note that the patient was provided with small 
+prescriptions for alprazolam and gabapentin, as she states she 
+had run out of these medications just prior to trauma; she was 
+instructed to follow-up with her primary provider as soon as 
+possible for full prescriptions.
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+left both-bone forearm fracture
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+MEDICATIONS:
+
+- Please take all medications as prescribed by your physicians 
+at discharge.
+
+- Continue all home medications unless specifically instructed 
+to stop by your surgeon.
+
+- Do not drink alcohol, drive a motor vehicle, or operate 
+machinery while taking narcotic pain relievers.
+
+- Narcotic pain relievers can cause constipation, so you should 
+drink eight 8oz glasses of water daily and take a stool softener 
+(colace) to prevent this side effect.
+
+ANTICOAGULATION:
+
+- Please take aspirin 325mg daily for 12 days following 
+discharge (total of 14 day post-operative course of 
+anticoagulation) 
+ 
+
+WOUND CARE:
+
+- No baths or swimming for at least 4 weeks.
+
+-Splint must be left on until follow up appointment.
+
+-Do NOT get splint wet
+
+ 
+
+ACTIVITY AND WEIGHT BEARING:
+
+- left upper extremity: non-weight-bearing; leave splint in 
+place until follow-up visit
+ 
+Followup Instructions:
+___

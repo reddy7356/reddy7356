@@ -1,0 +1,316 @@
+===== DISCHARGE NOTE =====
+note_id=11418130-DS-13 | hadm_id=21146729
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+right sided weakness
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Mr. ___ unable to provide history as he is intubated and
+sedated. History obtained from reviewing transfer records from
+OSH and speaking with his wife. 
+
+  Mr. ___ is a ___ y/o man with a PMH significant for stroke
+___ years ago (reportedly affected L side of his body) and 
+recent
+diagnosis of lung cancer last week s/p thoracentesis who
+presented to OSH with right hemiparesis. According to his wife,
+he was in his usual state of health until ~11:45 ___, when he was
+getting into bed and taking off his shirt, but then stopped with
+his sleeves still on. He sat on the edge of the bed like this 
+and
+his wife asked what was wrong, but he did not respond. She then
+came around to look at him and noted that his eyes were open, 
+but
+he remained unresponsive. He then reportedly laid himself back 
+in
+the bed and his wife called EMS. Based on reports from the OSH,
+he had a right hemiparesis and was within window for tPA (I did
+not see a NIHSS) so he received tPA at at 1:20 AM. After
+receiving tPA, he was noted to become hypotensive, requiring
+Dopamine for 10 minutes and had slowed respirations, resulting 
+in
+intubation. He did also receive Cerebyx 1 gram IV. He was then
+transferred to ___ for further care. 
+  Of note, he was placed on Plavix after his prior stroke. He 
+was
+taken off the Plavix last week prior to his thoracentesis (where
+1300 cc fluid removed) and has remained off of it since at the
+recomendation of his doctors. 
+
+ 
+Past Medical History:
+-stroke ___ years ago (affected L side of body)
+-recent dx of lung cancer  
+-neuropathy
+-hypothyroidism
+-HTN
+-HLD
+-colon cancer s/p resection and chemo ___ years ago) 
+
+ 
+Social History:
+___
+Family History:
+unknown; patient intubated and sedated
+
+ 
+Physical Exam:
+General: intubated, sedated  
+HEENT: ET tube in place
+Pulmonary: anterior lung fields cta b/l  
+Cardiac: RRR, S1S2, no murmurs appreciated
+Abdomen: soft, ND, +BS 
+Extremities: no edema. no clubbing.   
+Skin: no rashes or lesions noted. 
+ 
+Neurologic: No eye opening. No commands. Pupils 2 mm and
+minimally reactive. + Occulocephalics. + corneals. + cough/gag.
+No spontaneous movements. Withdrew all extremities to noxious
+stimuli except for right upper extremity, which did not move.
+Unable to elicit any reflexes. Extensor plantar response b/l. 
+
+ 
+Pertinent Results:
+Laboratory data:
+___ 02:03PM   ALT(SGPT)-21 AST(SGOT)-29 TOT BILI-0.8
+___ 02:03PM   cTropnT-0.06*
+___ 02:03PM   CHOLEST-167
+___ 02:03PM   %HbA1c-5.9 eAG-123
+___ 02:03PM   TRIGLYCER-171* HDL CHOL-41 CHOL/HDL-4.1 
+LDL(CALC)-92
+___ 02:03PM   TSH-2.1
+___ 02:03PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 02:03PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-MOD
+___ 02:03PM URINE  RBC-77* WBC-22* BACTERIA-FEW YEAST-NONE 
+EPI-0
+___ 02:03PM URINE  MUCOUS-RARE
+___ 04:00AM   LACTATE-1.6
+___ 03:50AM   GLUCOSE-236* UREA N-28* CREAT-1.5* SODIUM-134 
+POTASSIUM-4.5 CHLORIDE-99 TOTAL CO2-25 ANION GAP-15
+___ 03:50AM   estGFR-Using this
+___ 03:50AM   cTropnT-0.05*
+___ 03:50AM   proBNP-355
+___ 03:50AM   WBC-12.1* RBC-3.71* HGB-12.6* HCT-35.2* 
+MCV-95 MCH-33.8* MCHC-35.7* RDW-12.7
+___ 03:50AM   NEUTS-89.1* LYMPHS-7.0* MONOS-2.4 EOS-1.0 
+BASOS-0.4
+___ 03:50AM   PLT COUNT-112*
+___ 03:50AM   ___ PTT-26.2 ___
+.
+Imaging:
+___   MR/A HEAD W & W/O CONTRAST:
+1. Findings suggest both watershed and embolic infarcts, some 
+with early 
+hemorrhagic transformation, in both cerebral hemispheres and the 
+
+infratentorial compartments, with te larger infarcts in the left 
+middle and right posterior cerebral arterial territories, as 
+described above. 
+  
+2. Evidence of reduced flow throughout the right PCA, but no 
+flow-limiting 
+stenosis, aneurysm or vascular malformation in the remainder of 
+the 
+intracranial vasculature. 
+  
+3. Up to 50-60% diameter stenosis, with post-stenotic 
+dilatation, due to 
+ulcerated plaques in the carotid bulbs and proximal internal 
+carotid arteries, bilaterally; however, there is no 
+flow-limiting or tandem stenosis involving either vessel as 
+"substrate" for watershed infarction. 
+  
+4. Indeterminate nodules within the thyroid gland, which may be 
+assessed by dedicated thyroid sonography on an elective basis 
+(if one has not already been performed). 
+   
+___   CHEST (PORTABLE AP): 
+As compared to the previous radiograph, there is no relevant 
+change. Status post intubation. Unchanged position of the tube. 
+Unchanged 
+mild-to-moderate pulmonary edema, unchanged evidence of 
+mediastinal and hilar left adenopathy as well as left upper lobe 
+consolidation. No newly appeared focal parenchymal opacity. 
+Presence of a minimal left pleural effusion cannot be excluded. 
+    
+___   CT HEAD W/O CONTRAST:
+1. Interval development of punctate parenchymal hemorrhage 
+within the right cerebellar hemisphere. 
+2. Development of acute infarcts in the right occipital and left 
+frontal 
+lobes, new compared with yesterday. 
+3. Punctate foci of white matter hyperdensity at the gray-white 
+junction in the bifrontal lobes are stable in appearance, with 
+MRI pending. 
+     
+___   ECHO:
+No intracardiac source of embolism identified. Complex, 
+non-mobile aortic atheroma. Mild aortic regurgitation. Small to 
+moderate circumferential pericardial effusion without 
+echocardiographic signs of tamponade.  
+       
+___   ORBITS PRE-MRI: Tiny metallic foreign body adjacent 
+to the right mandibular ramus. 
+       
+___   CHEST (PORTABLE AP):
+1. Mild pulmonary edema, which given the normal heart size may 
+be neurogenic. 
+2. Possible mediastinal and hilar adenopathy, and left upper 
+lobe 
+consolidation or mass should be reevaluated with conventional 
+radiographs when feasible. 
+          
+___   CT HEAD W/O CONTRAST:
+1. No definite acute intracranial process.  
+  
+2. Hypodense regions centered at the bihemispheric gray-white 
+junction; in a patient with known cancer diagnosis, these are 
+concerning for vasogenic edema related to underlying metastasis. 
+ If feasible, and not recently performed elsewhere, enhanced MRI 
+is recommended for further evaluation. 
+  
+3. Ethmoidal air cell opacification, and retained fluid in the 
+___- and 
+oropharynx. 
+           
+___   ECHO:
+Very suboptimal image quality due to body habitus. Left 
+ventricular systolic function is probably normal, a focal wall 
+motion abnormality cannot be excluded. The right ventricle is 
+not well seen. No significant valvular abnormality. Unable to 
+assess pulmonary artery systolic pressures. Anterior fat pad 
+seen - pericardial fluid not seen but could not be excluded. 
+Negative bubble study, although suboptimal image quality 
+precludes certainty about this finding.  
+   
+___   ECG:
+Sinus rhythm. Probable intra-atrial conduction delay. Early 
+precordial 
+QRS transition. Low T wave amplitude is non-specific and may be 
+within normal limits. Findings are non-specific. No previous 
+tracing available for comparison.  
+  
+Rate PR  QRS QT/QTc  P QRS T 
+76   160 96  400/428 0 46  66 
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ y/o man with a PMH significant for stroke ___ 
+years ago (reportedly affected L side of his body) and recent 
+diagnosis of lung cancer last week s/p thoracentesis who 
+presented to OSH with right hemiparesis. He was given tPA at OSH 
+and transferred to ___. His current exam is notable for no 
+response to commands or eye moving, intact brainstem reflexes 
+and withdrawal of all extremities to noxious except for the 
+right upper extremity, which did not move. While there is no 
+evidence of stroke on the CT scan, right sided hemiparesis and 
+aphasia could be from a left MCA stroke. This could have 
+resulted from being off of his Plavix for the past few days due 
+to his recent thoracentesis. It is also feasible that he had a 
+seizure from a brain metastasis. He is now s/p tPA, though it is 
+unclear if there was a noted improvement, his right arm remains 
+paretic and he does withdraw his RLE now, but the exact defecits 
+prior to receiving tPA are unknown at this time. Of note, he did 
+also receive Cerbyx 1 gram at OSH. When he is stable, he will 
+need an MRI of his head with contrast to evaluate if he had a 
+stroke and also if there are brain mets. In the meanwhile, He 
+was started on Keppra 500 mg bid for seizure prophylaxis. 
+.
+Palliative care was consulted wife and daughter understand 
+gravity of situation. They are able to state he would not want 
+to live without being able to talk or
+eat. They would not want him to have a tracheostomy. They 
+understand he will die from this stroke. They are both able to 
+talk about the stroke in light of the cancer diagnosis and if he 
+recovered he would then face cancer treatment and death from
+cancer.
+.
+Dr. ___ was present.  Reviewed comfort focused care- all 
+efforts will be made to ensure comfort- no treatments or 
+monitoring that may cause distress. Medications to improve 
+comfort. If his breathing is labored the nurses ___ 
+re-position, suction only if necessary, administer medication 
+such as morphine or Zyprexa.
+.
+All IVF and IV medications ( unless morphine needed) will be 
+stopped.
+.
+Family will be able to visit whenever they wish. Daughter uses a 
+wheelchair and needs PCA assist- she lives in ___ area so any 
+d/c plans will need to be close to her.
+.
+Pt has been anointed by the priest. SW consulted to support the 
+family. On ___, given the grim prognosis and his prior 
+wishes, the goal of care of changed to maximize comfort 
+measures.  Palliative care continued to follow the patient 
+during this hospitalization and patient died during the early 
+hours of ___.  His wife, ___ came in and declined 
+autopsy.
+ 
+Medications on Admission:
+-Advair 250/50 1 puff bid
+-Finasteride 5 mg daily
+-Gabapentin 800 mg tid
+-Lasix 40 mg daily
+-Multivitamin daily
+-Levothyroxine daily (dose unknown)
+-Amlodipine 5 mg daily
+-Fentanyl 50 mcg patch q3d
+-Lisinopril 5 mg daily
+-Lovastatin 80 mg daily
+-Sertraline 50 mg daily
+-Vit B12 1000 mg daily 
+-Zolpidem 5 mg qhs
+-Plavix 75 mg daily (has not taken past week)  
+
+ 
+Discharge Medications:
+1. olanzapine 5 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO Q6H (every 6 hours) as needed for 
+restlessness.  
+2. hyoscyamine sulfate 0.125 mg Tablet, Sublingual Sig: One (1) 
+Tablet, Sublingual Sublingual QID (4 times a day) as needed for 
+oral secretions / reflux.  
+3. scopolamine base 1.5 mg Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q3D () as needed for secretions/reflux.  
+4. acetaminophen 650 mg Suppository Sig: One (1) Suppository 
+Rectal Q6H (every 6 hours) as needed for pain.  
+5. morphine (PF) in D5W 100 mg/100 mL (1 mg/mL) Parenteral 
+Solution Sig: ___ mg/hr Intravenous INFUSION (continuous 
+infusion).
+Disp:*100 mL* Refills:*2*
+
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+acute multiple territory strokes
+
+ 
+Discharge Condition:
+Passed away
+ 
+Discharge Instructions:
+None
+ 
+Followup Instructions:
+___

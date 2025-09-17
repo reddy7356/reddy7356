@@ -1,0 +1,490 @@
+===== DISCHARGE NOTE =====
+note_id=11026441-DS-16 | hadm_id=21248060
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Cipro / vancomycin / Lovenox
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right hip arthritis
+ 
+Major Surgical or Invasive Procedure:
+Right hip arthroplasty ___, ___
+
+ 
+History of Present Illness:
+___ is ___ female who presents for right hip pain at the 
+request of Dr. ___ in ___ and Dr ___. Symptoms 
+began approximately 9 months ago.  Pain is located at the right 
+groin.  It tends to radiate into the thigh.  At rest pain is 8 
+or 9 out of 10 with activity is as severe as 10 out of 10.  
+Walking and turning in bed makes the pain worse.  Nothing really 
+makes the pain better.  She has been using a rolling walker and 
+a cane for the past several months.  In ___ she 
+underwent gastric sleeve.  She has lost about 100 pounds since 
+that time but seems to have plateaued in her weight loss. 
+Most recent weight has been approximately 300 pounds and she is 
+___ foot 5 inches tall.  She has been a diabetic in the past but 
+after the weight loss surgery she has been able to come off of 
+all medications and her fingerstick sugars are consistently 
+between 98 and 106.  She does have a significant history of a 
+DVT
+in the left lower extremity in ___.  This was unprovoked and 
+treated with 6 months of blood thinners.  Initially she was 
+given Lovenox but had a local allergic reaction to this 
+medication that she was changed to Coumadin.  She has 
+obstructive sleep apnea and uses a CPAP device in the evening.  
+She is unable to take anti-inflammatory medication secondary to 
+recent gastric bypass. 
+She is not taking other medications.  She has not had recent 
+physical therapy.  She has never had hip surgery.  She has had 
+multiple intra-articular hip injections most recently in ___ which did not really work.  The last couple of hip 
+injection she had did not particularly work.
+
+ 
+Past Medical History:
+Morbid obesity s/p lap sleeve (___), unprovoked DVT (___), 
+T2DM, OSA
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Well appearing in no acute distress  
+Afebrile with stable vital signs  
+Pain well-controlled  
+Respiratory: CTAB  
+Cardiovascular: RRR  
+Gastrointestinal: NT/ND  
+Genitourinary: Voiding independently  
+Neurologic: Intact with no focal deficits  
+Psychiatric: Pleasant, A&O x3  
+Musculoskeletal Lower Extremity:  
+* Incision healing well with Aquacel dressing with scant 
+serosanguinous drainage  
+* Thigh full but soft  
+* No calf tenderness  
+* ___ strength  
+* SILT, NVI distally  
+* Toes warm
+
+ 
+Pertinent Results:
+___ 06:05AM BLOOD WBC-11.3* RBC-3.17* Hgb-9.1* Hct-28.8* 
+MCV-91 MCH-28.7 MCHC-31.6* RDW-12.7 RDWSD-42.5 Plt ___
+___ 07:20AM BLOOD WBC-9.8 RBC-3.44* Hgb-9.9* Hct-31.1* 
+MCV-90 MCH-28.8 MCHC-31.8* RDW-13.0 RDWSD-42.7 Plt ___
+___ 06:35AM BLOOD WBC-10.0 RBC-3.90 Hgb-11.2 Hct-35.8 
+MCV-92 MCH-28.7 MCHC-31.3* RDW-13.1 RDWSD-43.5 Plt ___
+___ 06:05AM BLOOD Plt ___
+___ 07:20AM BLOOD Plt ___
+___ 06:35AM BLOOD Plt ___
+___ 06:35AM BLOOD Glucose-140* UreaN-17 Creat-0.8 Na-142 
+K-4.5 Cl-97 HCO3-34* AnGap-11
+___ 06:35AM BLOOD Calcium-8.6 Phos-4.1 Mg-2.0
+ 
+Brief Hospital Course:
+The patient was admitted to the orthopedic surgery service and 
+was taken to the operating room for above described procedure. 
+Please see separately dictated operative report for details. The 
+surgery was uncomplicated and the patient tolerated the 
+procedure well. Patient received perioperative IV antibiotics.
+
+Postoperative course was remarkable for the following:
+POD#1, the patient was started on a topical cream to help with a 
+rash under her pannus.
+POD#2, the patient had a white count of 11.3, but remained 
+afebrile during her hospitalization (Tmax: 99.7).  The rehab can 
+do a further work-up if the patient shows any signs of an 
+infection (i.e., urines, CXR).
+
+Otherwise, pain was controlled with a combination of IV and oral 
+pain medications.  The patient received Xarelto 10 mg daily for 
+DVT prophylaxis starting on the morning of POD#1.  The surgical 
+dressing will remain on until POD#7 after surgery.  The patient 
+was seen daily by physical therapy. Labs were checked throughout 
+the hospital course and repleted accordingly. At the time of 
+discharge the patient was tolerating a regular diet and feeling 
+well.  The patient was afebrile with stable vital signs.  The 
+patient's hematocrit was acceptable and pain was adequately 
+controlled on an oral regimen. The operative extremity was 
+neurovascularly intact and the dressing was intact.
+ 
+The patient's weight-bearing status is weight bearing as 
+tolerated on the operative extremity with posterior precautions. 
+Walker or two crutches, wean as able.
+ 
+Ms. ___ is discharged to rehab in stable condition.
+
+ 
+Medications on Admission:
+1. Gabapentin 600 mg PO TID 
+2. Tizanidine 2 mg PO Q8H:PRN Spasm 
+3. Ranitidine 150 mg PO DAILY 
+4. Pravastatin 20 mg PO QPM 
+5. Montelukast 10 mg PO QHS 
+6. Furosemide 80 mg PO BID 
+7. DULoxetine 60 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H 
+2.  Betamethasone Dipro 0.05% Oint 1 Appl TP BID  
+3.  Clotrimazole Cream 1 Appl TP BID  
+4.  Docusate Sodium 100 mg PO BID 
+5.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain  
+6.  Rivaroxaban 10 mg PO DAILY Duration: 28 Days 
+7.  Senna 8.6 mg PO BID 
+8.  DULoxetine 60 mg PO DAILY  
+9.  Furosemide 80 mg PO BID  
+10.  Gabapentin 600 mg PO TID  
+11.  Montelukast 10 mg PO QHS  
+12.  Pravastatin 20 mg PO QPM  
+13.  Ranitidine 150 mg PO DAILY  
+14.  Tizanidine 2 mg PO Q8H:PRN Spasm  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Right hip arthritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+1. Please return to the emergency department or notify your 
+physician if you experience any of the following: severe pain 
+not relieved by medication, increased swelling, decreased 
+sensation, difficulty with movement, fevers greater than 101.5, 
+shaking chills, increasing redness or drainage from the incision 
+site, chest pain, shortness of breath or any other concerns.
+  
+2. Please follow up with your primary physician regarding this 
+admission and any new medications and refills. 
+  
+3. Resume your home medications unless otherwise instructed.
+  
+4. You have been given medications for pain control. Please do 
+not drive, operate heavy machinery, or drink alcohol while 
+taking these medications. As your pain decreases, take fewer 
+tablets and increase the time between doses. This medication can 
+cause constipation, so you should drink plenty of water daily 
+and take a stool softener (such as Colace) as needed to prevent 
+this side effect.  Call your surgeons office 3 days before you 
+are out of medication so that it can be refilled.  These 
+medications cannot be called into your pharmacy and must be 
+picked up in the clinic or mailed to your house.  Please allow 
+an extra 2 days if you would like your medication mailed to your 
+home.
+  
+5. You may not drive a car until cleared to do so by your 
+surgeon.
+  
+6. Please call your surgeon's office to schedule or confirm your 
+follow-up appointment.
+  
+7. SWELLING: Ice the operative joint 20 minutes at a time, 
+especially after activity or physical therapy. Do not place ice 
+directly on the skin. 
+  
+8. ANTICOAGULATION: Please take Xarelto 10 mg daily with food 
+for four (4) weeks to help prevent deep vein thrombosis (blood 
+clots).  
+  
+9. WOUND CARE: Please keep your incision clean and dry. It is 
+okay to shower after surgery while wearing your aquacel 
+dressing, but no tub baths, swimming, or submerging your 
+incision until after your first checkup and cleared by your 
+surgeon. After the aquacel dressing is removed 7 days after your 
+surgery, you may leave the wound open to air. Check the wound 
+regularly for signs of infection such as redness or thick yellow 
+drainage and promptly notify your surgeon of any such findings 
+immediately.
+  
+10. ___ (once at home): Home ___, Aquacel removal POD#7, and 
+wound checks. 
+  
+11. ACTIVITY: Weight bearing as tolerated with two crutches or 
+walker for as long as you need. The physical therapist will help 
+guide you until you are safe to wean from assistive devices. 
+Posterior hip precautions. No strenuous exercise or heavy 
+lifting until follow up appointment.  Mobilize frequently. 
+Physical Therapy:
+WBAT RLE
+Posterior hip precautions
+Wean assistive devices (i.e., 2 crutches, walker) as able
+Mobilize frequently
+Treatments Frequency:
+remove aquacel POD#7 after surgery
+apply dry sterile dressing daily if needed after aquacel 
+dressing is removed
+wound checks daily after aquacel removed
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11026441-DS-17 | hadm_id=24867160
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Cipro / vancomycin / Lovenox
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right hip pain, swelling, erythema s/p THA
+ 
+Major Surgical or Invasive Procedure:
+Right hip I&D polyliner exchange, head exchange ___, ___
+ 
+ 
+History of Present Illness:
+___ year old female presented to ED with new onset erythema, 
+warmth, swelling and pain in her right hip s/p R THA. Evaluated 
+at ED, decision made for R hip I&D head and liner exchange.
+ 
+Past Medical History:
+Morbid obesity s/p lap sleeve (___), unprovoked DVT (___), 
+T2DM, OSA
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Well appearing in no acute distress  
+Afebrile with stable vital signs  
+Pain well-controlled  
+Respiratory: CTAB  
+Cardiovascular: RRR  
+Gastrointestinal: NT/ND  
+Genitourinary: Voiding independently  
+Neurologic: Intact with no focal deficits  
+Psychiatric: Pleasant, A&O x3  
+Musculoskeletal Lower Extremity:  
+* Prevena dressing intact (no drainage)
+* Thigh full but soft  
+* No calf tenderness  
+* ___ strength  
+* SILT, NVI distally  
+* Toes warm
+
+ 
+Brief Hospital Course:
+The patient was admitted to the orthopedic surgery service 
+following presentation and evaluation from the emergency 
+department and was taken to the operating room for above 
+described procedure. Please see separately dictated operative 
+report for details. The surgery was uncomplicated and the 
+patient tolerated the procedure well. Patient received 
+postoperative IV antibiotics of Ancef and Vancomycin.
+
+Postoperative course was remarkable for the following:
+POD#1: OR cultures grew gram positive cocci.  Infectious disease 
+was consulted and recommended continuing Ancef and Vancomycin.  
+Potassium was 3.7 and was repleted orally.
+POD#2: per ID recommendations, Ancef and Vancomycin were 
+discontinued and Ceftriaxone was started.  OR cultures grew Beta 
+Strep Group B.
+POD#3: her potassium was 3.6 and was repleted orally.
+POD#4: a PICC line was placed for long-term antibiotic 
+management.  ID recommended Ceftriaxone 2 grams IV every day 
+until a tentative stop date of ___.  Her potassium was 3.7 
+and magnesium was 1.8.  Both were repleted orally.
+
+Otherwise, pain was controlled with a combination of IV and oral 
+pain medications.  The patient received Xarelto daily for DVT 
+prophylaxis starting on the morning of POD#1.  The surgical 
+dressing will remain on until POD#7 after surgery.  The patient 
+was seen daily by physical therapy. Labs were checked throughout 
+the hospital course and repleted accordingly. At the time of 
+discharge the patient was tolerating a regular diet and feeling 
+well.  The patient was afebrile with stable vital signs.  The 
+patient's hematocrit was acceptable and pain was adequately 
+controlled on an oral regimen. The operative extremity was 
+neurovascularly intact and the dressing was intact.
+ 
+The patient's weight-bearing status is weight bearing as 
+tolerated on the operative extremity with posterior precautions. 
+Walker or two crutches, wean as able.
+ 
+Ms. ___ is discharged to home with services in stable 
+condition.
+
+ 
+Medications on Admission:
+1. Calcium Carbonate 1500 mg PO DAILY 
+2. Vitamin D 1000 UNIT PO DAILY 
+3. Cyanocobalamin 500 mcg PO DAILY 
+4. DULoxetine 60 mg PO QHS 
+5. Furosemide 80 mg PO BID 
+6. Gabapentin 600 mg PO TID 
+7. Ferrous Sulfate 325 mg PO DAILY 
+8. MetFORMIN (Glucophage) 500 mg PO Frequency is Unknown 
+9. OxyCODONE--Acetaminophen (5mg-325mg) 1 TAB PO Q6H:PRN Pain - 
+Moderate 
+10. Potassium Chloride 15 mEq PO TID 
+11. Pravastatin 20 mg PO QPM 
+12. Multivitamins 1 TAB PO DAILY 
+13. Naproxen 500 mg PO Q8H:PRN Pain - Mild 
+14. Diazepam 5 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  CefTRIAXone 2 gm IV Q24H 
+Tentative stop date: ___. 
+2.  Docusate Sodium 100 mg PO BID  
+3.  Rivaroxaban 10 mg PO DAILY Duration: 35 Days  
+4.  Senna 8.6 mg PO BID  
+5.  MetFORMIN (Glucophage) 500 mg PO DAILY  
+6.  OxyCODONE--Acetaminophen (5mg-325mg) ___ TAB PO Q4H:PRN Pain 
+- Moderate  
+7.  Calcium Carbonate 1500 mg PO DAILY  
+8.  Cyanocobalamin 500 mcg PO DAILY  
+9.  Diazepam 5 mg PO QHS  
+10.  DULoxetine 60 mg PO QHS  
+11.  Ferrous Sulfate 325 mg PO DAILY  
+12.  Furosemide 80 mg PO BID  
+13.  Gabapentin 600 mg PO TID  
+14.  Multivitamins 1 TAB PO DAILY  
+15.  Potassium Chloride 15 mEq PO TID  
+16.  Pravastatin 20 mg PO QPM  
+17.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Right hip prosthetic joint infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+1. Please return to the emergency department or notify your 
+physician if you experience any of the following: severe pain 
+not relieved by medication, increased swelling, decreased 
+sensation, difficulty with movement, fevers greater than 101.5, 
+shaking chills, increasing redness or drainage from the incision 
+site, chest pain, shortness of breath or any other concerns.
+ 
+2. Please follow up with your primary physician regarding this 
+admission and any new medications and refills. 
+ 
+3. Resume your home medications unless otherwise instructed.
+ 
+4. You have been given medications for pain control. Please do 
+not drive, operate heavy machinery, or drink alcohol while 
+taking these medications. As your pain decreases, take fewer 
+tablets and increase the time between doses. This medication can 
+cause constipation, so you should drink plenty of water daily 
+and take a stool softener (such as Colace) as needed to prevent 
+this side effect.  Call your surgeons office 3 days before you 
+are out of medication so that it can be refilled.  These 
+medications cannot be called into your pharmacy and must be 
+picked up in the clinic or mailed to your house.  Please allow 
+an extra 2 days if you would like your medication mailed to your 
+home.
+ 
+5. You may not drive a car until cleared to do so by your 
+surgeon.
+ 
+6. Please call your surgeon's office to schedule or confirm your 
+follow-up appointment.
+ 
+7. SWELLING: Ice the operative joint 20 minutes at a time, 
+especially after activity or physical therapy. Do not place ice 
+directly on the skin. Please DO NOT take any non-steroidal 
+anti-inflammatory medications (NSAIDs such as Celebrex, 
+ibuprofen, Advil, Aleve, Motrin, naproxen etc) until cleared by 
+your physician.
+ 
+8. ANTICOAGULATION: Please continue Xarelto 10 mg once daily 
+with food for four (4) weeks to help prevent deep vein 
+thrombosis (blood clots).  
+ 
+9. WOUND CARE: Keep Prevena vac on until ___ when it can be 
+discontinued.  After removal of vac, a dry sterile dressing can 
+be applied if there is any drainage.  Otherwise, the incision 
+can be left open to air.  Check wound regularly for signs of 
+infection such as redness or thick yellow drainage.  
+ 
+10. ___ (once at home): Home ___, dressing changes as 
+instructed (Prevena vac to dry sterile dressings if needed), and 
+wound checks.
+
+11. ACTIVITY: Weight bearing as tolerated with walker or 2 
+crutches.  Wean assistive device as able.  Posterior 
+precautions. No strenuous exercise or heavy lifting until follow 
+up appointment.  Mobilize frequently.  
+
+12. PICC CARE: Per protocol
+
+13. WEEKLY LABS: draw on ___ and send result to ID RNs 
+at: ___ R.N.s at ___. 
+ - CBC/DIFF
+ - BUN/Cr
+ - LFTS
+ - CRP
+
+**All questions regarding outpatient parenteral antibiotics 
+should be directed to the ___ R.N.s at 
+___ or to the on-call ID fellow when the clinic is 
+closed.**
+
+Physical Therapy:
+WBAT RLE
+Posterior hip precautions
+Mobilize frequently
+Treatments Frequency:
+discontinue Prevena vac on ___
+after discontinuing Prevena vac, either apply a DSD dressing if 
+there is drainage; otherwise leave incision open to air
+wound checks daily after Prevena vac removed
+ 
+Followup Instructions:
+___

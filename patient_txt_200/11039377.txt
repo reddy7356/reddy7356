@@ -1,0 +1,265 @@
+===== DISCHARGE NOTE =====
+note_id=11039377-DS-4 | hadm_id=28837103
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+___ Coronary artery bypass grafts x4 ___, 
+___, LRAD-PDA) ; Endovascular radial artery harvest
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with past medical history of 
+diabetes mellitus type 2, hyperlipidemia, hypertension, and 
+obesity. He who presented to ___ with a three day 
+history of intermittent substernal exertional chest discomfort 
+radiating to his left arm. He was previously admitted to 
+___ in ___ with chest pain, he underwent nuclear exercise 
+stress test which showed no evidence of inducible ischemia, 
+preserved LV ejection fraction. He noted occasional burning in 
+his chest that he attributed to his GERD. He admits to unhealthy 
+lifestyle including heavy smoking and unhealthy diet. Over the 
+past several days he has been having intermittent substernal 
+chest burning radiating to the left arm, it is clearly induced 
+with exertion. The discomfort would last for about 5 minutes and 
+resolve with rest. During these episodes he would also slightly 
+feel short of breath and break into cold sweats. He denied back 
+pain, neck pain, jaw pain, nausea, vomiting, abdominal pain, 
+denies any problems with bowel movements or urination. He was 
+scheduled to see a cardiologist regarding his symptoms but was 
+advised by his PCP to come to the emergency room for evaluation 
+instead. He underwent a cardiac catheterization which revealed 
+multivessel coronary artery disease. He was transferred to ___ 
+for surgical revascularization.
+ 
+Past Medical History:
+Diabetes Mellitus Type II
+Gastroesophageal Reflux Disease
+Hyperlipidemia
+Hypertension
+Obesity 
+Surgical History:
+3 (L) knee surgeries early ___, 
+2 right knee surgeries in ~___'
+Right biceps re-attachment
+ 
+Social History:
+___
+Family History:
+Mother and her brothers had cardiac stents in their ___
+ 
+Physical Exam:
+T: 97.9.  HR: 75.  BP: 132/84.  RR: 18.  O2 Sat: 98% RA
+
+General: A&O x3, NAD
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] 
+Abdomen: Soft [x] non-distended [x] non-tender [x] bowel sounds 
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema none
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+DP           Right: 2+  Left:2+
+Radial       Right: 2+  Left:2+
+
+Carotid Bruit: none appreciated
+
+Discharge Exam:
+General: NAD [x]  
+Neurological: A/O x3 [x] non-focal [x] 
+HEENT:  PEERL [x] 
+Cardiovascular: RRR [x]  Irregular []  Murmur [] Rub [] 
+Respiratory: CTA [x]  No resp distress [x]
+GI/Abdomen: Bowel sounds present [x] Soft [x] ND [x] NT [x]
+Extremities: 
+Right Upper extremity   Warm [x]  No Edema  
+Left Upper extremity    Warm [x]  No Edema 
+Right Lower extremity   Warm [x]  No Edema 
+Left Lower extremity    Warm [x]  No Edema 
+Pulses:
+DP             Right: +      Left: +
+___             Right: +      Left: +
+Radial         Right: +      Left: +
+Skin/Wounds: Dry [x] intact [x]
+Sternal: scant serosang drainage mid/lower pole. No erythema.
+                 Sternum stable [x] Prevena []
+Upper extremity: Right [] Left [x]  CDI [x]
+ 
+Pertinent Results:
+Cardiac Catheterization ___
+LMCA: Angiographically unremarkable.
+LAD: Proximal 90% stenosis; 90% mid stenosis. ___ Diag 90% 
+stenosis. The lesion was diffuse. Diagonal is small caliber with 
+severe diffuse disease.
+LCx: Mid 60% stenosis. ___ LPL ostial 90% stenosis. ___ LPL 90% 
+stenosis. The lesion was diffuse.
+RCA: Mid 99% stenosis. Distal RCA 100% stenosis.
+Ramus: Ostial 90% stenosis.
+Cardiac Collaterals
+- Moderate collateral flow from the ___ LPL to the R PDA.
+.
+Transthoracic Echocardiogram ___
+The left atrial volume index is normal. There is mild symmetric 
+left ventricular hypertrophy with a normal cavity size. There is 
+mild regional left ventricular systolic dysfunction with mild 
+basal inferior / inferoseptal hypokinesis (RCA territory; see 
+schematic) and preserved/normal contractility of the remaining 
+segments. The visually estimated left ventricular ejection 
+fraction is 50%. There is no resting left ventricular outflow 
+tract gradient. Normal right ventricular cavity size with normal 
+free wall motion. The aortic sinus diameter is normal for gender 
+with normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal. The aortic valve leaflets (3) are mildly 
+thickened. There is no aortic valve stenosis. There is no aortic 
+regurgitation. The mitral valve leaflets are mildly thickened 
+with no mitral valve prolapse. There is trivial mitral 
+regurgitation. The pulmonic valve leaflets are not well seen. 
+The tricuspid valve leaflets appear structurally normal. There 
+is physiologic tricuspid regurgitation. The pulmonary artery 
+systolic pressure could not be estimated. There is no 
+pericardial effusion.
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+mild regional systolic dysfunction most consistent with coronary 
+artery disease. No clinically-significant valvular disease seen.
+.
+
+ 
+Brief Hospital Course:
+He was admitted on ___ and underwent routine preoperative 
+testing and evaluation. He remained stable and was taken to the 
+operating room on ___. He underwent coronary artery bypass 
+grafting to four vessels. Please see operative note for full 
+details. He tolerated the procedure well and was transferred to 
+the CVICU in stable condition for recovery and invasive 
+monitoring. 
+  
+He weaned from sedation, awoke neurologically intact and was 
+extubated on POD 1. He was weaned from vasopressor support. Beta 
+blocker was initiated and he was diuresed toward his 
+preoperative weight. He remained hemodynamically stable and was 
+transferred to the telemetry floor for further recovery. ___ 
+was consulted for Diabetes management. He was evaluated by the 
+physical therapy service for assistance with strength and 
+mobility. Scant sternal drainage was noted without erythema, 
+wound was well approximated and his sternum was stable. By the 
+time of discharge on post-operative day five he was ambulating 
+freely, his wound was healing, and his pain was controlled with 
+oral analgesics. He was discharged to home in good condition 
+with appropriate follow up instructions.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Lisinopril 10 mg PO DAILY 
+3. MetFORMIN (Glucophage) 1000 mg PO BID
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H  
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg one tablet(s) by mouth once a day Disp 
+#*30 Tablet Refills:*2 
+3.  Furosemide 20 mg PO DAILY Duration: 3 Days 
+RX *furosemide 20 mg one tablet(s) by mouth once a day Disp #*3 
+Tablet Refills:*2 
+4.  GuaiFENesin ER 1200 mg PO Q12H  
+5.  Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+Duration: 6 Months 
+RX *isosorbide mononitrate 30 mg one tablet(s) by mouth once a 
+day Disp #*30 Tablet Refills:*2 
+6.  Metoprolol Succinate XL 50 mg PO DAILY 
+RX *metoprolol succinate 50 mg one tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*2 
+7.  OneTouch Ultra Blue Test Strip (blood sugar diagnostic)    
+miscellaneous BID 
+RX *blood sugar diagnostic [OneTouch Ultra Blue Test Strip]  
+check blood sugar two times daily  Disp #*100 Strip Refills:*2 
+8.  OneTouch Ultra Control (blood glucose control, normal)    
+miscellaneous ONCE 
+one glucometer 
+RX *blood glucose control, normal [OneTouch Ultra Control]  
+check blood sugar twice daily  Disp #*1 Each Refills:*0 
+9.  OneTouch UltraSoft Lancets (lancets)    miscellaneous BID 
+RX *lancets [OneTouch UltraSoft Lancets]  check blood sugar 
+twice daily  Disp #*2 Each Refills:*2 
+10.  Polyethylene Glycol 17 g PO DAILY  
+11.  Ranitidine 150 mg PO BID 
+RX *ranitidine HCl 150 mg one tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+12.  Senna 17.2 mg PO DAILY  
+13.  TraMADol ___ mg PO Q4H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *tramadol 50 mg ___ tablet(s) by mouth every ___ hours Disp 
+#*40 Tablet Refills:*0 
+14.  Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg one tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+15.  Aspirin 81 mg PO DAILY  
+16.  MetFORMIN (Glucophage) 1000 mg PO BID  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Coronary artery disease s/p coronary artery bypass graft x 4
+Past medical history:
+Type 2 diabetes mellitus
+Hypertension
+Hyperlipidemia
+GERD
+Obesity
+ 
+Discharge Condition:
+Alert and oriented x3, non-focal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - no erythema, scant sternal drainage but well 
+approximated. Sternum stable.
+No Edema
+
+ 
+Discharge Instructions:
+Please shower daily -wash incisions gently with mild soap, no 
+baths or swimming, look at your incisions daily
+ Please - NO lotion, cream, powder or ointment to incisions
+ Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+ No driving for approximately one month and while taking 
+narcotics
+
+Clearance to drive will be discussed at follow up appointment 
+with surgeon
+ No lifting more than 10 pounds for 10 weeks
+
+Encourage full shoulder range of motion, unless otherwise 
+specified
+ **Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

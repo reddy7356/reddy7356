@@ -1,0 +1,710 @@
+===== DISCHARGE NOTE =====
+note_id=11072213-DS-14 | hadm_id=22721796
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+RLQ pain
+ 
+Major Surgical or Invasive Procedure:
+Laparoscopic Meckel's diverticulectomy and appendectomy
+ 
+History of Present Illness:
+The patient is a very pleasant, ___ gentleman who had 
+presentation to our hospital with right lower quadrant abdominal 
+pain.  He was admitted in ___ of this year with what was seen on 
+CT as Meckel's diverticulitis or small bowel diverticulum with 
+inflammation.  He was subsequently discharged on intravenous 
+antibiotics.  He had recurrent abdominal pain in late ___.  He 
+was treated with additional course of antibiotics, and was seen 
+in the outpatient clinic.  In followup,  we discussed the 
+likelihood of recurrent problems.  He had an outpatient MRI 
+enteroscopy to rule out Crohn disease.  He had a Meckel's scan 
+on his first admission that was negative for gastric mucosal
+Meckel's.  Given his previous inflammation, risks and benefits 
+of exploratory laparoscopy and diverticulectomy was performed, 
+and the patient admitted post-op to ___ Surgery.
+ 
+Past Medical History:
+PMH:  Environmental allergies
+
+Psh:  Wisdom teeth removal
+
+ 
+Social History:
+___
+Family History:
+No history of cancer or IBD (father was adopted)
+
+ 
+Physical Exam:
+Physical Exam:
+VS: 98.6 98.6 97 117/76 16 96ra
+Gen: NAD
+Neuro: AAOx3, MAE
+CV: RRR, normal S1/S2
+Pulm: CTA bil, breathing unlabored
+Abd: Soft/NT/ND
+Wound: Dsg C/D/I
+Ext: no CCE
+ 
+Pertinent Results:
+___ 03:14PM BLOOD Hct-43.6
+___ 03:14PM BLOOD Na-140 K-3.8 Cl-106
+___ 03:14PM BLOOD Mg-1.9
+ 
+Brief Hospital Course:
+The patient presented to ___ on ___ and underwent 
+laparoscopic Meckel's diverticulectomy and appendectomy 
+performed by Dr. ___. The patient tolerated the 
+procedure well and was subsequently extubated and brought to the 
+PACU for postoperative management, admitted under the ___ 
+___ Surgery Service. He was transferred to the floor on 
+___ for routine post-operative monitoring. He was discharged 
+on POD1 on a regular diet and ambulating independently with 
+follow-up arranged for Dr. ___ on ___.
+ 
+Neuro: Postoperatively, pain was well-controlled with PO pain 
+meds.
+ 
+CV: Vital signs were routinely monitored and the patient 
+remained hemodynamically stable.
+ 
+Pulm: Postoperatively, the patient was stable from a respiratory 
+standpoint.
+ 
+GI: The patient was placed on a clear diet overnight on the day 
+of the operation. On POD1, the patient was advanced to regular 
+food, which he tolerated well.
+ 
+GU: Foley catheter was placed perioperatively. It was removed on 
+POD0 and patient subsequently voiding spontaneously.
+ 
+ID: The patient received antibiotics perioperatively.
+ 
+PPX: The patient was encouraged to ambulate on this admission.
+ 
+Medications on Admission:
+Claritin p.r.n.
+
+ 
+Discharge Medications:
+1. Acetaminophen ___ mg PO Q6H:PRN pain 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every 6 hours 
+Disp #*60 Tablet Refills:*0
+2. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 4 hours Disp 
+#*40 Tablet Refills:*0
+3. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+daily Disp #*14 Capsule Refills:*1
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Meckel's diverticulum
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were recently admitted to the ___ Service 
+at ___ for post-operative monitoring following an 
+uncomplicated laparascopic Meckel's diverticulectomy and 
+appendectomy. You were discharged on post-operative day 1 when 
+you were tolerating a regular diet. Please call us with any 
+questions or concerns. Please find further instructions below.
+
+Incision Care:
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+
+site.
+*Avoid swimming and baths until your follow-up appointment.
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water.  Gently pat the area dry.
+*If you have staples, they will be removed at your follow-up 
+appointment.
+*If you have steri-strips, they will fall off on their own.  
+Please remove any remaining strips ___ days after surgery.
+.
+General Discharge Instructions:
+1. Please get plenty of rest, continue to ambulate several times 
+
+per day, and drink adequate amounts of fluids.  
+2. Avoid lifting weights greater than ___ lbs or lifting that 
+requires you to strain until you follow-up with your surgeon, 
+who will instruct you further regarding activity restrictions.
+3. Resume your regular medications unless instructed otherwise 
+and take any new meds as ordered .
+4. You may take your prescribed pain medication for moderate to 
+severe pain.  You may switch to Tylenol or Extra Strength 
+Tylenol for mild pain as directed on the packaging.  Please note 
+that Percocet and Vicodin have Tylenol as an active ingredient 
+so do not take these meds with additional Tylenol.
+5. Take prescription pain medications for pain not relieved by 
+tylenol.
+6. Take Colace, 100 mg by mouth 2 times per day, while taking 
+the prescription pain medication if you are experiencing 
+constipation. You may use a different over-the-counter stool 
+softener if you wish.
+7. Do not drive or operate heavy machinery while taking any 
+narcotic pain medication. You may have constipation when taking 
+narcotic pain medications (oxycodone, percocet, vicodin, 
+hydrocodone, dilaudid, etc.); you should continue drinking 
+fluids, you may take stool softeners, and should eat foods that 
+are high in fiber.
+8. Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+.
+Please call your doctor or nurse practitioner or return to the 
+nearest ER if you experience 
+the following:
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+*New or worsening cough, shortness of breath, or wheeze.
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+*Your pain is not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11072213-DS-13 | hadm_id=22758430
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ M who developed diffuse epigastric pain starting a week ago,
+gradually worsening this week.  He actually attended a bachelor
+party in ___ last weekend despite the abdominal
+discomfort, but in the past few days the pain has been more
+severe and has localized to the RLQ.  The pain is worse with
+moving around and PO intake.  He denies any fevers/chills, does
+attest to some decreased appetite and crampy worsening of pain
+with eating, but reports feeling quite hungry and thirsty right
+now.  His bowel movements have been normal and he has been
+passing flatus.  He has never had pain like this before.
+
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+No history of cancer or IBD (father was adopted)
+
+ 
+Physical Exam:
+Admission Exam:
+Physical Exam:
+T: 98.5  P: 90  BP: 116/76  RR: 16  O2sat: 100% on RA
+General: awake, alert, oriented x 3
+HEENT: NCAT, EOMI, anicteric
+Heart: RRR, NMRG
+Lungs: CTAB, normal excursion
+Chest: non-tender, no deformities
+Back: no vertebral tenderness, no CVAT
+Abdomen: firm, ND, TTP b/l lower quadrants, R>L.  No hernias or
+masses, no organomegaly.
+Pelvis: deferred (pt in hall)
+Extremities: WWP, no CCE, no tenderness
+
+Discharge Exam:
+
+ 
+Pertinent Results:
+___ 02:40PM URINE  HOURS-RANDOM
+___ 02:40PM URINE  GR HOLD-HOLD
+___ 02:40PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 02:40PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-10 BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+___ 01:13PM   LACTATE-1.0
+___ 01:00PM   GLUCOSE-93 UREA N-11 CREAT-0.9 SODIUM-138 
+POTASSIUM-4.4 CHLORIDE-101 TOTAL CO2-26 ANION GAP-15
+___ 01:00PM   estGFR-Using this
+___ 01:00PM   ALT(SGPT)-22 AST(SGOT)-20 ALK PHOS-43 TOT 
+BILI-0.9
+___ 01:00PM   LIPASE-16
+___ 01:00PM   ALBUMIN-4.9
+___ 01:00PM   WBC-9.7 RBC-4.83 HGB-14.5 HCT-42.9 MCV-89 
+MCH-30.1 MCHC-33.9 RDW-12.5
+___ 01:00PM   NEUTS-79.9* LYMPHS-12.8* MONOS-6.5 EOS-0.4 
+BASOS-0.4
+___ 01:00PM   PLT COUNT-190
+
+INDICATION:  History of lower abdominal pain.  Rule out 
+appendicitis. 
+  
+COMPARISONS:  None. 
+  
+TECHNIQUE:  ___ MDCT images were obtained through the abdomen and 
+pelvis after 
+the administration of IV contrast.  Multiplanar reformatted 
+images in coronal 
+and sagittal axis were generated and reviewed. 
+  
+FINDINGS:  The bases of the lungs are clear.   
+  
+ABDOMEN: The liver is normal without evidence of focal lesions 
+or intrahepatic 
+biliary ductal dilatation.  The gallbladder is normal without 
+evidence of wall 
+thickening or stones.  Adrenal glands bilaterally are normal.  
+Spleen is 
+homogeneous and normal in size.  Pancreas is normal without 
+evidence of focal 
+lesions or pancreatic ductal dilatation.  Kidneys bilaterally 
+are normal 
+without evidence of focal lesions or perinephric stranding.  
+There is 
+symmetric excretion of contrast.  There is no evidence of 
+pelvicaliceal 
+dilatation. The intra-abdominal vasculature is unremarkable. 
+  
+The stomach and duodenum are unremarkable. Small bowel is 
+nondilated.  
+Adjacent to a loop of distal ileum on series 2, image 48-55, 
+there is 
+localized fat stranding and a few locules of extraluminal gas. 
+There is only 
+mild thickening of the adjacent small bowel. A fluid filled 
+structure is seen 
+in this region, series 601b, image 28, measuring 2.2  x 1.3 cm 
+which could 
+represent either a small abscess or meckel's diverticulum. There 
+may be a 
+small neck connecting this fluid collection with the adjacent 
+small bowel 
+(601b;27).  
+  
+PELVIS:  The colon is collapsed, however, appears unremarkable.  
+The appendix 
+is normal.  There is a large mesenteric node (series 2, image 
+47) measuring 
+1.1 cm. Additional adjacent prominent reactive nodes are 
+identified. There is 
+free fluid within the pelvis.  The bladder is unremarkable.  The 
+terminal 
+ureters are normal.  No pelvic wall or inguinal lymphadenopathy 
+is identified. 
+  
+OSSEOUS STRUCTURES:  No lytic or blastic lesions concerning for 
+malignancy are 
+identified. 
+  
+IMPRESSION:   
+  
+1. Inflammatory changes centered around distal small bowel with 
+mild bowel 
+wall thickening, fat stranding, and small amount of free air. 
+Given the 
+presence of a tubular fluid filled structure in this region, 
+Meckels 
+diverticulitis is a potential consideration. Also in the ddx: 
+inflammatory 
+bowel disease (Crohn's) with small abscess/perforation vs 
+infectious 
+enteritis. 
+  
+2. Normal appendix. 
+
+INDICATION:  History of right lower rib pain.  Rule out 
+pneumothorax. 
+  
+COMPARISONS:  None. 
+  
+TECHNIQUE:  PA and lateral views of the chest. 
+  
+FINDINGS:  The heart size is normal.  The hilar and mediastinal 
+contours are 
+normal.  The lungs are clear without evidence of focal 
+consolidations, 
+pneumothoraces or pleural effusions. 
+  
+IMPRESSION:  No acute cardiopulmonary abnormalities. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+  
+___'s Study pending XXXXXXX
+
+ 
+Brief Hospital Course:
+___ with small RLQ abscess and local flecks of free air 
+interposed among loops of distal ileum, but with normal 
+appearing appendix and terminal ileum, suggested of contained SB 
+perforation. Admitted to Surgery, Dr. ___ on ___. He was 
+started in the ED on IV Cipro/Flagyl which was continued. He 
+improved on HOD #2 and was able to tolerate a normal diet. His 
+exam improved. GI was consulted and there recommendations were 
+appreciated. He was discharged home with plans to follow up in 
+___ clinic and in GI clinic with repeat imaging to further 
+assess his bowel pathology.  
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1. Ciprofloxacin HCl 500 mg PO Q12H Duration: 7 Days 
+RX *ciprofloxacin [Cipro] 500 mg 1 tablet(s) by mouth q12 hours 
+Disp #*14 Tablet Refills:*0
+2. MetRONIDAZOLE (FLagyl) 500 mg PO TID Duration: 7 Days 
+RX *metronidazole [Flagyl] 500 mg 1 tablet(s) by mouth three 
+times a day Disp #*21 Tablet Refills:*0
+3. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Perforated Bowel
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You have been diagnosed with a perforated bowel. This may have 
+been caused by a disease called crohn's which you may or may not 
+have, but further testing needs to be done by the ___ doctors to 
+confirm ___ rule this out.  
+**You will be discharged on 7 more days of oral antibiotics.  
+Please take them as directed. 
+**You will need to have an MRI of your abdomen in ___ weeks.  
+Please call the number to Dr. ___ listed below so we 
+can schedule this for you.  
+.
+Treatment:
+* Take all medications as prescribed by the physician.  You were 
+sent home with a prescription for antibiotics.  Be sure to take 
+all of the antibiotics as directed.  Please complete the entire 
+prescription.
+* Rest: You should restrict your normal activities until you are 
+completely better. It is important to get out of bed and 
+ambulate. You should not return to regular activity until you 
+are seen by you primary medical doctor.
+* If you are still in pain, you should not eat solid foods.  
+Stay on a clear liquid diet.  Acceptable liquids include: water, 
+tea, broth, ginger ale, jello, diluted Gatorade, diluted apple 
+juice or ice chips. 
+* Please seek medical attention immediately if you develop 
+severe abdominal pain.  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11072213-DS-15 | hadm_id=28201093
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male who underwent a laparoscopic
+Meckel's diverticulectomy and appendectomy by Dr. ___ on 
+___
+in the context of an episode of Meckel's diverticulities, 
+managed
+conservatively, in ___. The procedure and his hospital stay
+was uncomplicated, and he was discharged home in good condition
+on POD#1. At that time, he had been tolerating a regular diet 
+and
+passing gas.
+
+He reports feeling well till POD#2, at which time he feels that
+he stopped passing flatus, and began to feel some abdominal
+discomfort. As he had not yet had a bowel movement, he attempted
+a variety of OTC stool softeners and laxatives, without any
+relief. He began to have increasing abdominal bloating and
+decreased tolerance of POs. He reports that he had ___ episodes
+of emesis after taking narcotic pain medications on an empty
+stomach. Since effectively making himself NPO overnight, he
+reports no currently nausea, but he is still passing no flatus,
+and has some persistent bloating/discomfort. He reports no
+fevers/chills, no CP/SOB, no headache/fatigue/malaise. He has
+been voiding normally, and been able to ambulate without
+difficulty.
+
+ROS:
+(+) per HPI
+(-) Denies fever/chills, night sweats, unexplained weight
+loss, fatigue/malaise/lethargy, trouble with sleep, pruritis,
+jaundice, rashes, bleeding, easy bruising, headache, dizziness,
+vertigo, syncope, weakness, paresthesias, hematemesis, melena,
+BRBPR, dysphagia, chest pain, shortness of breath, cough, edema,
+urinary frequency, urgency
+ 
+Past Medical History:
+Past Medical History: ___'s diverticulum with prior episode 
+of Meckel's diverticulitis in ___ treated conservatively, 
+s/p interval Meckel's diverticulectomy and appendectomy on 
+___, seasonsal allergies
+
+Past Surgical History: Laparoscopic Meckel's diverticulectomy 
+and appendectomy (___), wisdom teeth removal
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Admission Physical Exam:
+Vitals: 97.3  85  ___  99%RA
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Soft, mildly + distended, minimally tender to palpation 
+near
+incision sites, no rebound/guarding, no palpable masses,
+incisions healing well and clean/dry/intact with steri-strips in
+place, no drainage/erythema/induration
+DRE: normal tone, no gross or occult blood
+Ext: No ___ edema, ___ warm and well perfused
+
+Discharge Physical Exam:
+VS: 99.1 98.5 71 119/68 16 100ra
+Gen: NAD, AAOx3
+Card: RRR
+Lungs: CTA bil, no respiratory distress
+Abd: soft, nontender, no rebound/guarding, mildly distended
+Wound: CD&I, no erythema/induration, dsg in place over incision 
+sites, c/d/i
+Ext: no CCE
+ 
+Pertinent Results:
+___ 09:30AM BLOOD WBC-8.1 RBC-5.26 Hgb-16.0 Hct-44.9 MCV-85 
+MCH-30.4 MCHC-35.6* RDW-13.2 Plt ___
+___ 09:30AM BLOOD Neuts-78.0* Lymphs-13.6* Monos-6.5 
+Eos-0.9 Baso-0.9
+___ 09:30AM BLOOD Glucose-100 UreaN-8 Creat-0.8 Na-137 
+K-4.4 Cl-96 HCO3-26 AnGap-19
+___ 09:51AM BLOOD Lactate-1.0
+ 
+Brief Hospital Course:
+The patient presented to ___ on ___ and was admitted under 
+the ___ Surgery Service for conservative management 
+of a post-operative ileus. He recently underwent laparoscopic 
+Meckel's diverticulectomy and appendectomy performed by Dr. 
+___ on ___. The patient tolerated the procedure 
+well and was discharged on ___ without issues; however, he 
+returned with abdominal pain, distention, and no flatus.
+ 
+Neuro: The patient's pain was well-controlled with IV pain 
+medications initially before transitioning to oral pain 
+medications once he tolerated POs.
+ 
+CV: Vital signs were routinely monitored and the patient 
+remained hemodynamically stable.
+ 
+Pulm: The patient had no respiratory concerns during this 
+admission.
+ 
+GI: The patient was initially made NPO and given IV 
+resuscitation fluids. An NG tube was deferred on this admission 
+due to lack of nausea on presentation and patient refusal. He 
+passed flatus and had a small liquid bowel movement on HD1; 
+however, due to persistent distention, he was kept NPO on HD2. 
+His diet was appropriately advanced to clears on HD2, and to 
+regulars on HD3, which he tolerated well. At discharge, he was 
+eating a regular diet with no nausea, passing flatus and stool.
+ 
+GU: Foley catheter was not required on this admission, and the 
+patient voided spontaneously.
+ 
+ID: There were no concerns for infection on this admission.
+ 
+PPX: The patient received subq heparin on this admission for 
+DVT/PE prophylaxis.
+
+At the time of discharge on HD3, the patient was tolerating a 
+regular diet with no nausea, passing flatus and stool, voiding 
+spontaneously, and ambulating independently. He has a follow-up 
+appointment with Dr. ___ scheduled. All questions were 
+answered prior to discharge.
+ 
+Medications on Admission:
+Oxycodone ___ mg q4hr PRN:pain, Tylenol ___ mg
+q6hr PRN:pain, Colace 100 mg PO BID, Claritin PRN:allergies
+ 
+Discharge Medications:
+1. Ibuprofen 400-600 mg PO Q8H:PRN pain 
+RX *ibuprofen 200 mg ___ tablet(s) by mouth every 8 hours Disp 
+#*60 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Meckel's diverticulitis 
+Post-operative ileus
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were recently admitted to the ___ General Surgery Service 
+at ___ for conservative management of a post-operative ileus 
+following your recent laparoscopic Meckel's diverticulectomy and 
+appendectomy. You were discharged when your pain was 
+well-controlled and when your bowel function had returned. 
+Please do not hesitate to call us with any questions or 
+concerns.
+
+Incision Care:
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+
+site.
+*Avoid swimming and baths until your follow-up appointment.
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water.  Gently pat the area dry.
+*If you have staples, they will be removed at your follow-up 
+appointment.
+*If you have steri-strips, they will fall off on their own.  
+Please remove any remaining strips ___ days after surgery.
+.
+General Discharge Instructions:
+1. Please get plenty of rest, continue to ambulate several times 
+
+per day, and drink adequate amounts of fluids.  
+2. Avoid lifting weights greater than ___ lbs or lifting that 
+requires you to strain until you follow-up with your surgeon, 
+who will instruct you further regarding activity restrictions.
+3. Resume your regular medications unless instructed otherwise 
+and take any new meds as ordered .
+4. You may take your prescribed pain medication for moderate to 
+severe pain.  You may switch to Tylenol or Extra Strength 
+Tylenol for mild pain as directed on the packaging.  Please note 
+that Percocet and Vicodin have Tylenol as an active ingredient 
+so do not take these meds with additional Tylenol.
+5. Take prescription pain medications for pain not relieved by 
+tylenol.
+6. Take Colace, 100 mg by mouth 2 times per day, while taking 
+the prescription pain medication if you are experiencing 
+constipation. You may use a different over-the-counter stool 
+softener if you wish.
+7. Do not drive or operate heavy machinery while taking any 
+narcotic pain medication. You may have constipation when taking 
+narcotic pain medications (oxycodone, percocet, vicodin, 
+hydrocodone, dilaudid, etc.); you should continue drinking 
+fluids, you may take stool softeners, and should eat foods that 
+are high in fiber.
+8. Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+.
+Please call your doctor or nurse practitioner or return to the 
+nearest ER if you experience 
+the following:
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+*New or worsening cough, shortness of breath, or wheeze.
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+*Your pain is not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+ 
+Followup Instructions:
+___

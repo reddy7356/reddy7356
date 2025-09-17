@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "total_concepts": 17,
+    "categories": [
+      "cardiovascular_conditions",
+      "symptoms",
+      "acute_events",
+      "risk_factors",
+      "complications",
+      "devices"
+    ],
+    "relationship_types": [
+      "CAUSES",
+      "LEADS_TO",
+      "TREATED_BY",
+      "ASSOCIATED_WITH"
+    ]
+  },
+  "concepts": [
+    {
+      "name": "significant acquired or congenital heart disease",
+      "category": "cardiovascular_conditions",
+      "relationships": [
+        {
+          "target": "coronary heart disease",
+          "type": "ASSOCIATED_WITH"
+        }
+      ]
+    },
+    {
+      "name": "chest pain",
+      "category": "symptoms",
+      "relationships": [
+        {
+          "target": "angina",
+          "type": "ASSOCIATED_WITH"
+        }
+      ]
+    },
+    {
+      "name": "coronary heart disease",
+      "category": "cardiovascular_conditions",
+      "relationships": [
+        {
+          "target": "angina",
+          "type": "CAUSES"
+        },
+        {
+          "target": "chest pain",
+          "type": "CAUSES"
+        }
+      ]
+    },
+    {
+      "name": "angina",
+      "category": "symptoms",
+      "relationships": []
+    },
+    {
+      "name": "myocardial infarction within 6 months",
+      "category": "acute_events",
+      "relationships": [
+        {
+          "target": "cardiomyopathy",
+          "type": "LEADS_TO"
+        }
+      ]
+    },
+    {
+      "name": "irregular heart beat",
+      "category": "symptoms",
+      "relationships": [
+        {
+          "target": "dysrhythmias",
+          "type": "ASSOCIATED_WITH"
+        }
+      ]
+    },
+    {
+      "name": "dysrhythmias",
+      "category": "acute_events",
+      "relationships": [
+        {
+          "target": "defibrillator",
+          "type": "TREATED_BY"
+        },
+        {
+          "target": "pacemaker",
+          "type": "TREATED_BY"
+        },
+        {
+          "target": "syncope",
+          "type": "LEADS_TO"
+        }
+      ]
+    },
+    {
+      "name": "syncope",
+      "category": "symptoms",
+      "relationships": []
+    },
+    {
+      "name": "cardiomyopathy",
+      "category": "cardiovascular_conditions",
+      "relationships": [
+        {
+          "target": "defibrillator",
+          "type": "TREATED_BY"
+        },
+        {
+          "target": "irregular heart beat",
+          "type": "CAUSES"
+        }
+      ]
+    },
+    {
+      "name": "uncontrolled hypertension",
+      "category": "risk_factors",
+      "relationships": [
+        {
+          "target": "cardiomyopathy",
+          "type": "CAUSES"
+        }
+      ]
+    },
+    {
+      "name": "current heart murmur",
+      "category": "symptoms",
+      "relationships": []
+    },
+    {
+      "name": "rheumatic fever",
+      "category": "risk_factors",
+      "relationships": [
+        {
+          "target": "moderate to severe valvular disease",
+          "type": "CAUSES"
+        }
+      ]
+    },
+    {
+      "name": "moderate to severe valvular disease",
+      "category": "cardiovascular_conditions",
+      "relationships": []
+    },
+    {
+      "name": "cerebrovascular and peripheral vascular disease",
+      "category": "complications",
+      "relationships": []
+    },
+    {
+      "name": "congestive heart failure",
+      "category": "cardiovascular_conditions",
+      "relationships": [
+        {
+          "target": "cerebrovascular and peripheral vascular disease",
+          "type": "LEADS_TO"
+        }
+      ]
+    },
+    {
+      "name": "pacemaker",
+      "category": "devices",
+      "relationships": []
+    },
+    {
+      "name": "defibrillator",
+      "category": "devices",
+      "relationships": []
+    }
+  ]
+}

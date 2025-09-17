@@ -1,0 +1,286 @@
+===== DISCHARGE NOTE =====
+note_id=11611144-DS-10 | hadm_id=24828161
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Penicillins / erythromycin base / Cipro / Iodinated Contrast 
+Media - IV Dye / clindamycin / tetracycline / Sulfa (Sulfonamide 
+Antibiotics) / Lipitor / lisinopril / epinephrine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea on exertion
+
+ 
+Major Surgical or Invasive Procedure:
+___   Aortic valve replacement with a 23 mm ___  
+___ Biocor Epic Supra valve.
+
+ 
+History of Present Illness:
+Mrs. ___ is a ___ year old woman with a history of bicuspid
+aortic valve and aortic stenosis followed by serial
+echocardiograms. An echocardiogram in ___ revealed severe
+aortic stenosis with peak and mean gradients of 78 mmHg and 41
+mmHg, respectively. The aortic valve area was 0.7 cm2. A stress
+test noted ischemia and she was referred on for a cardiac
+catheterization which demonstrated no significant coronary 
+artery
+disease. She was referred to Dr. ___ surgical
+consultation. She presented for preadmission testing and
+evaluation.
+
+Since her last office visit, she has stated that she is more
+aware of her symptoms though she has noted no change in her
+symptoms. She continues to have dyspnea on exertion with walking
+up an incline. She also noted occasional palpitations. She had
+recent GI symptoms of abdominal cramping and diarrhea which
+resolved after about 36 hours. She is also getting over a upper
+respiratory infection associated with cough. She denied fever or
+chills. She denied fatigue, syncope, presyncope, dizziness,
+lightheadedness, shortness of breath at rest, chest
+pain/pressure, orthopnea, paroxysmal nocturnal dyspnea, or lower
+extremity edema.
+
+ 
+Past Medical History:
+Aortic Stenosis
+Bicuspid Aortic Valve
+Breast Cancer status post Lumpectomy, Chemotherapy and Radiation
+Colon Polyps
+Hyperlipidemia
+Hypertension
+Irritable Bowel Syndrome
+Osteoarthritis
+Dental implants
+ 
+Social History:
+___
+Family History:
+Maternal Grandfather - died of myocardial infarction at age ___
+Maternal Uncle - died of myocardial infarction at age ___
+Maternal Uncle - died of an aneurysm at age ___
+Mother - died of myocardial infarction at age ___
+Daughter - history of Long QT syndrome, age ___
+
+ 
+Physical Exam:
+BP: 156/100. Heart Rate: 93. Resp. Rate: 16. O2 Saturation%: 99.
+Height: 62"  Weight: 174 lbs
+
+General: Pleasant woman, WDWN, NAD
+Skin: Warm, dry, intact
+HEENT: NCAT, PERRLA, EOMI, OP benign, teeth in good repair
+Neck:  Supple, full ROM, no JVD
+Chest: Lungs clear bilaterally 
+Heart: Regular rate and rhythm, III/VI SEM heard best at LUSB
+Abdomen: Normal BS, soft, non-tender, non-distended 
+Extremities: Warm, well-perfused, no edema
+Varicosities: bilateral
+Neuro: Grossly intact 
+Pulses:
+Femoral      Right: 1+  Left: 1+
+DP           Right: 1+  Left: 1+
+___           Right: 1+  Left: 1+
+Radial       Right: 1+  Left: 1+
+
+Carotid Bruit: transmitted murmur
+ 
+Pertinent Results:
+Admission Labs
+___ 10:30AM BLOOD WBC-18.0*# RBC-3.19*# Hgb-9.4*# 
+Hct-28.7*# MCV-90 MCH-29.5 MCHC-32.8 RDW-13.3 RDWSD-43.7 Plt 
+___
+___ 10:30AM BLOOD ___ PTT-36.0 ___
+___ 11:56AM BLOOD UreaN-9 Creat-0.5 Na-140 K-3.5 Cl-106 
+HCO3-21* AnGap-17
+___ 06:21PM BLOOD Mg-2.0
+
+Discharge labs 
+___ 06:15AM BLOOD WBC-11.5* RBC-2.97* Hgb-9.0* Hct-27.0* 
+MCV-91 MCH-30.3 MCHC-33.3 RDW-14.0 RDWSD-46.0 Plt ___
+___ 07:05AM BLOOD Glucose-162* UreaN-11 Creat-0.6 Na-141 
+K-3.8 Cl-99 HCO3-28 AnGap-18
+___ 07:05AM BLOOD Calcium-8.9 Phos-3.4 Mg-2.0
+
+CXR ___
+In comparison with the study of ___, the right IJ sheath 
+has been 
+removed.  No change in the cardiomediastinal silhouette and no 
+evidence of 
+pulmonary edema.  Persistent bilateral pleural effusions with 
+compressive 
+basilar atelectasis, more prominent on the left
+
+Echocardiogram 
+Left Atrium - Long Axis Dimension:   *4.5 cm   <= 4.0 cm   
+Left Atrium - Four Chamber Length:   4.5 cm   <= 5.2 cm   
+Left Ventricle - Septal Wall Thickness:   1.1 cm   0.6 - 1.1 cm  
+ 
+Left Ventricle - Inferolateral Thickness:   1.1 cm   0.6 - 1.1 
+cm   
+Left Ventricle - Diastolic Dimension:   4.2 cm   <= 5.6 cm   
+Left Ventricle - Ejection Fraction:   55%   >= 55%   
+Aorta - Sinus Level:   3.4 cm   <= 3.6 cm   
+Aorta - Ascending:   *4.2 cm   <= 3.4 cm   
+Aortic Valve - Peak Velocity:   *4.1 m/sec   <= 2.0 m/sec   
+Aortic Valve - Peak Gradient:   *68 mm Hg   < 20 mm Hg   
+Aortic Valve - Mean Gradient:   41 mm Hg       
+Aortic Valve - LVOT diam:   2.0 cm       
+Aortic Valve - Valve Area:   *0.5 cm2   >= 3.0 cm2   
+  
+LEFT ATRIUM: Dilated LA. No spontaneous echo contrast or 
+thrombus in the ___ or the RA/RAA. 
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD by 2D or 
+color Doppler. 
+LEFT VENTRICLE: Mild symmetric LV hypertrophy with normal cavity 
+size, and regional/global systolic function (biplane LVEF>55%). 
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+AORTA: Normal aortic diameter at the sinus level. Focal 
+calcifications in aortic root. Mildly dilated ascending aorta. 
+Simple atheroma in ascending aorta. 
+AORTIC VALVE: Bicuspid aortic valve. Severely thickened/deformed 
+aortic valve leaflets. Severe AS (area <1.0cm2). 
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR. 
+___ VALVE: Normal tricuspid valve leaflets with trivial 
+TR. 
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. 
+No PS. Physiologic PR. 
+PERICARDIUM: No pericardial effusion. 
+
+ PRE-BYPASS: The left atrium is dilated. No spontaneous echo 
+contrast or thrombus is seen in the body of the left atrium/left 
+atrial appendage or the body of the right atrium/right atrial 
+appendage. No atrial septal defect is seen by 2D or color 
+Doppler. Mild symmetric left ventricular hypertrophy with normal 
+cavity size, and regional/global systolic function (biplane LVEF 
+= XX %). Right ventricular chamber size and free wall motion are 
+normal. The ascending aorta is mildly dilated. There are simple 
+atheroma in the ascending aorta. The aortic valve is bicuspid. 
+The aortic valve leaflets are severely thickened/deformed. There 
+is severe aortic valve stenosis (valve area <1.0cm2). The mitral 
+valve appears structurally normal with trivial mitral 
+regurgitation. There is no pericardial effusion. Dr. ___ was 
+notified in person of the results before surgical incision.
+
+ POST-BYPASS: 
+ Preserved biventricular systolic function. LVEF 55%
+ Intact thorcic aorta.
+ The bioprosthesis at then native aortic position is well seated 
+and functioning well with residual gradients of mean 7mm of Hg,. 
+No other new findings.   
+
+Carotid Ultrasound 
+Right ICA less than 40 % stenosis. 
+Left ICA  less than 40 % stenosis. 
+
+ 
+Brief Hospital Course:
+Presented same day surgery and was taken to the operating room 
+for aortic valve replacement.  She tolerated the procedure well 
+please see operative report for further details.  Post 
+operatively she was taken to the intensive care unit for 
+management on neosynephrine.  That evening she was weaned from 
+sedation, awoke neurologically intact and was extubated without 
+complications.  She was weaned off neosynephrine and had burst 
+of atrial fibrillation treated with IV Lopressor converted back 
+to SR.  She later required neosynephrine off and on for blood 
+pressure support which by afternoon of post operative day one 
+she was able to be fully weaned off.  She was started on 
+betablockers and diuretics.  Later that evening she remained 
+clinically stable and was transitioned to the floor. Chest tubes 
+and epicardial wires were removed per protocol.  On post 
+operative day two she had brief burst of atrial fibrillation 
+treated with betablockers and converted to sinus rhythm, 
+additional treated with blood transfusion for post operative 
+anemia.  She continued to progress and worked with physical 
+therapy on strength and mobility.  She remained in sinus rhythm 
+until early morning of post operative day four lasting less than 
+1 minute and betablockers were adjusted with no further 
+episodes.  She was ready for discharge home with services on 
+post operative five.  
+
+ 
+Medications on Admission:
+Amiloride 5 mg tablet twice daily
+Aspirin 81 mg tablet daily
+Ocuvite capsule daily
+Pravastatin 80 mg tablet once daily
+Tylenol Extra Strength 500 mg tablet ___ tablets Q6H prn pain
+Vitamin D3 1,000 unit capsule, 2 capsules daily
+Zyrtec daily prn seasonal allergies
+ 
+Discharge Medications:
+1. Aspirin EC 81 mg PO DAILY 
+2. Docusate Sodium 100 mg PO BID 
+3. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+4. Pravastatin 80 mg PO QPM 
+5. Ranitidine 150 mg PO DAILY Duration: 1 Month 
+RX *ranitidine HCl [Acid Reducer (ranitidine)] 150 mg 1 
+tablet(s) by mouth once a day Disp #*30 Tablet Refills:*0
+6. Sodium Chloride Nasal ___ SPRY NU QID:PRN dry nose 
+7. Metoprolol Tartrate 50 mg PO BID 
+RX *metoprolol tartrate 50 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*1
+8. Acetaminophen 1000 mg PO Q6H:PRN pain 
+9. Albuterol Inhaler 2 PUFF IH Q4H:PRN sob/wheezing  
+10. Amiloride HCl 5 mg PO Q12H 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Aortic Stenosis s/p Aortic valve replacement 
+Post operative Atrial Fibrillation 
+Anemia acute blood loss 
+
+Secondary Diagnosis
+Breast Cancer status post Lumpectomy, Chemotherapy and Radiation
+Colon Polyps
+Hyperlipidemia
+Hypertension
+Irritable Bowel Syndrome
+Osteoarthritis
+Dental implants
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with acetaminophen 
+Sternal Incision - healing well, no erythema or drainage
+Edema trace 
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+Females: Please wear bra to reduce pulling on incision, avoid 
+rubbing on lower edge
+ 
+Followup Instructions:
+___

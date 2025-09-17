@@ -1,0 +1,259 @@
+===== DISCHARGE NOTE =====
+note_id=11443745-DS-21 | hadm_id=25396123
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+azithromycin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with no significant past 
+medical history presenting with shortness of breath, chest 
+tightness, and palpitations.
+
+The patient reports that in ___ of this year she developed a 
+fever, cough, and sore throat. She was seen in Student Health, 
+where she reports a rapid strep was negative. She was given 
+Ibuprofen with resolution of her fevers. Since ___, she has 
+felt in her usual state of health without further fevers, cough, 
+or shortness of breath.
+
+On the day prior to admission, she felt somewhat more fatigued 
+but otherwise in her usual state of health. She denies any 
+fevers, chills, cough, shortness of breath at that time. 
+However, beginning around 1500 on the day of admission she 
+developed chest tightness, palpitations, and shortness of 
+breath. No upper respiratory symptoms or cough. No sick contacts 
+or recent travel. No known weight loss. No night sweats. Of 
+additional note, she is originally from ___, received BCG 
+vaccine, moved here in ___. Her mother had ___ in ___ 
+for which she completed a 9-month treatment course; the patient 
+had limited contact with her mother at that time, and both have 
+been well since then.
+
+In the ED, initial vitals: 100.1 ___ 24 99% RA 
+Exam notable for: Regular, tachy, dyspneic with clear lungs
+No leg swelling
+Labs notable for: WBC 20->25 (74N), Ddimer 1053, trop<0.01x2, 
+lactate 1.3; flu negative
+Imaging notable for: 
+- CTA chest: 
+1. No evidence of pulmonary embolism or aortic abnormality.
+2. Scattered ground-glass opacifications are seen in the 
+bilateral lower lobes and left upper lobe. Differential 
+considerations include infectious or inflammatory processes, 
+favoring a viral pneumonia. 
+
+___ 23:07 IV Adenosine 6 mg 
+___ 23:12 IV Adenosine 6 mg  
+___ 23:18 IV Metoprolol Tartrate 5 mg 
+___ 00:04 IVF  LR 1000 mL 
+___ 01:57 IVF  LR 1000 mL  
+___ 03:59 IV CefTRIAXone 1 g 
+___ 04:29 IH Ipratropium-Albuterol Neb 1 NEB 
+___ 04:30 IH Ipratropium-Albuterol Neb 1 NEB  
+___ 04:56 IV Azithromycin 500 mg
+___ 05:53 PO Doxycycline Hyclate 100 mg
+
+In the ED, the patient was noted to have sinus tachycardia to 
+the 150s on arrival and was given adesonine x2 and Metoprolol to 
+good effect. Strips showing adenosine administration do not 
+appear to have been preserved. She subsequently triggered for 
+hypotension, shortness of breath, nausea/vomiting, and 
+pre-syncope after receiving azithromycin infusion; infusion was 
+stopped. She had no rash.
+
+On arrival to the floor, the patient reports that she feels much 
+better after her heart rates improved. Denies any chest pain, 
+palpitations, shortness of breath, cough, or any other 
+complaints at this time.
+
+ 
+Past Medical History:
+No significant ___
+ 
+Social History:
+___
+Family History:
+Mother had ___ and was treated in ___
+ 
+Physical Exam:
+ADMISSION EXAM
+VITALS: 98.8 104/65 97 18 98 Ra 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally. Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation. 
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, sensation to light touch 
+grossly intact throughout
+PSYCH: Very pleasant, appropriate affect
+
+DISCHARGE EXAM
+VITALS: afebrile throughout hospital course. HR ___ with 
+occasional increase 140s, which is not correlated with activity.
+General: well-appearing young woman
+LYMPH: No LAD
+Cardiac: RRR, no m/r/g
+Pulm: No wheeze. No rales. Good air movement. Tympanic to 
+percussion b/l
+Derm: no exanthem
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 10:55PM BLOOD WBC: 20.2* RBC: 4.72 Hgb: 13.2 Hct: 41.5 
+MCV: 88 MCH: 28.0 MCHC: 31.8* RDW: 12.3 RDWSD: 39.___ 
+___ 10:55PM BLOOD Neuts: 79.4* Lymphs: 11.9* Monos: 5.8 
+Eos: 2.2 Baso: 0.3 Im ___: 0.4 AbsNeut: 15.98* AbsLymp: 2.40 
+AbsMono: 1.17* AbsEos: 0.45 AbsBaso: 0.07 
+___ 10:55PM BLOOD ___: 12.1 PTT: 32.1 ___: 1.1 
+___ 10:55PM BLOOD D-Dimer: 1053* 
+___ 10:55PM BLOOD Glucose: 114* UreaN: 7 Creat: 0.7 Na: 139 
+K: 3.9 Cl: 103 HCO3: 23 AnGap: 13 
+___ 10:55PM BLOOD cTropnT: <0.01 
+___ 04:18AM BLOOD cTropnT: <0.01 
+___ 10:57PM BLOOD Lactate: 1.3 
+
+Micro:
+- Flu PCR (___): negative
+- Blood cultures (___): negative
+- Urine culture (___): negative; UA bland
+- Induced sputum (___): megative NAAT, negative AFB smear
+
+Imaging:
+
+- CTA chest (___): 
+1. No evidence of pulmonary embolism or aortic abnormality.
+2. Scattered ground-glass opacifications are seen in the 
+bilateral lower lobes and left upper lobe. Differential 
+considerations include infectious or inflammatory processes, 
+favoring a viral pneumonia. Recommend repeat chest radiograph in 
+4 weeks, or sooner if symptoms progress.
+
+- CXR (___): Subtle hazy opacification the left lower lobe 
+may reflect a developing pneumonia. 
+
+- EKG (___): Reviewed by me, sinus tachycardia, Qtc 521, 
+diffuse STD
+
+- EKG ___ repeat): Sinus tachycardia at 105, QTc 441, STD 
+resolved
+ 
+Brief Hospital Course:
+# Dyspnea
+# Community-acquired pneumonia: 
+Patient presenting with chest tightness and shortness of breath. 
+Labs notable for WBC 25 with neutrophilic predominance. CTA 
+negative for pulmonary embolism, but did demonstrate multifocal 
+GGOs concerning for possible pneumonia, suspected viral based on 
+imaging findings. Flu negative. Treated empirically for 
+community-acquired bacterial pneumonia, with CTX/doxy -> 
+Levaquin. Symptoms were mostly resolved at time of discharge.
+
+#Initial concern for possibility of TB
+The ED physician who saw her initially had started a TB rule 
+out. However, on closer history by medicine, she had essentially 
+nothing to support that diagnosis, other than being from an 
+endemic area. The patient has no known exposures to friends or 
+family members with active pulmonary TB. She has not lost any 
+weight. She denies any cough or other respiratory symptoms prior 
+to development of her current - likely viral - pneumonia. CT 
+chest was not felt by myself or the radiologist to be at all 
+suspicious for TB. Thus, after discussing the case with 
+infection control, the TB rule out was called off. 
+
+# Palpitations
+# Paroxysmal narrow-complex tachycardia: 
+Patient has a history of occasional mild palpitations. On 
+arrival to our ED, she was given adenosine, which did not break 
+the rhythm (although no strip was obtained to allow me to review 
+what happened with adenosine administration). 
+On the floor, she was monitored on telemetry and was noted to 
+occasionally speed up from ___ to ~140. The change in rate was 
+rapid, but generally represented the HR speeding up 
+progressively over a few seconds, not an immediate change in 
+both rate and rhythm from one beat to the next. The p was not 
+overtly distinguishable from the sinus p by morphology, although 
+the PR interval shortened greatly from 140 ms to 89 ms. ___ 
+tachycardia did not correlate with position or exertion; I got 
+her out of bed and had her walk around without significant rise 
+in HR on tele a that time. Most likely atrial tachycardia, but 
+___ is considered also. In either case, these are 
+benign as long as she remains predominantly asymptomatic as she 
+is now.  
+Initial EKG noted to have diffuse repolarization changes that 
+resolved with improved rates; trop<0.01x2.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Guaifenesin-Dextromethorphan 5 mL PO Q6H:PRN Cough  
+2.  Levofloxacin 750 mg PO DAILY 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth once a day Disp #*4 
+Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pneumonia, likely viral
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for a viral pneumonia. There is also a chance 
+that this was caused by an atypical bacterium, so we also gave 
+you antibiotics out of an abundance of caution. 
+
+There was some question of whether we should formally check you 
+for tuberculosis, but after reviewing your history and symptoms 
+more carefully, I have decided that there is no particular 
+reason to think that you have this (at least not more than any 
+other random person raised in a country with high rates of TB). 
+Thus, I have called off that workup due to its very low 
+probability.   
+
+We also made incidental note that your heart rate often suddenly 
+speeds up to a rate of about 140 beats/minute. This seemed to 
+happen randomly, not specifically when you exerted yourself. It 
+could be one of several things, but my best guess without formal 
+testing is ___ syndrome. This problem is not 
+dangerous, but if you are bothered by heart palpitations, you 
+should talk to your primary care doctor and/or a heart 
+specialist. There are heart rate medicines you could take to try 
+and suppress the symptom if you found it bothersome. 
+ 
+Followup Instructions:
+___

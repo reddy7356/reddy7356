@@ -1,0 +1,300 @@
+===== DISCHARGE NOTE =====
+note_id=10912425-DS-17 | hadm_id=27635141
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest discomfort
+
+ 
+Major Surgical or Invasive Procedure:
+Coronary artery bypass grafting times three (LIMA to LDA, SVG to 
+Diag1 and Diag2) ___
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male who presented to outside 
+hospital in late ___ with chest discomfort following vigorous 
+exercise. His chest discomfort was associated with nausea, 
+fatigue and malaise. He took an Aspirin and sought medical 
+attention. He ruled in for NSTEMI and subsequently underwent 
+cardiac catheterization which revealed severe single vessel 
+coronary artery disease which was not amenable to percutaneous 
+intervention. Since that time, he has remained pain free on 
+medical therapy. He presents today to discuss surgical 
+revascularization.
+
+ 
+Past Medical History:
+- coronary artery disease, recent NSTEMI
+- dyslipidemia
+- congenital chest wall deformity
+- basal cell carcinoma
+- cataracts
+- s/p Mohs surgery
+- s/p bilateral foot surgery
+ 
+Social History:
+___
+Family History:
+- brother had MI's at age ___ and ___
+ 
+Physical Exam:
+Vital Signs sheet entries for ___:
+BP: 114/73. Heart Rate: 58. Resp. Rate: 12. O2 Saturation%: 100.
+Height: 74 inches    Weight: 74.80 kg
+
+General: WDWN male in no acute distress. Chest wall deformity,
+sternum appears to be pulled left ?excavatum.  Shoulders are
+uneven, left shoulder and scapula raised. Left shoulder with
+limited ROM.
+Skin: Warm [x] Dry [x] intact [x]
+HEENT: NCAT [x] PERRL [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x] JVD []
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur - none
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  
+Edema: None
+Varicosities: None
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 2  Left: 2
+DP           Right: 2  Left: 2
+___           Right: 2  Left: 2
+Radial       Right: 2  Left: 2
+Carotid Bruit        Right: none   Left: none
+ 
+Pertinent Results:
+___ ECHOCARDIOGRAPHY REPORT
+
+___       ___ MRN:   ___       TEE 
+(Complete) Done ___ at 3:30:39 ___      FINAL  
+Referring Physician     ___  
+___, Division of Cardiothorac
+___  Status: Inpatient DOB: ___ 
+Age (years): ___ M  Hgt (in):  
+BP (mm Hg): /  Wgt (lb):  
+HR (bpm):  BSA (m2):  
+Indication: Coronary artery disease. Left ventricular function. 
+Preoperative assessment.  
+ICD-9 Codes: 424.1, 424.0 
+Test Information  
+Date/Time: ___ at 15:30    ___ MD: ___, MD 
+
+Test Type: TEE (Complete) Sonographer: ___, MD 
+Doppler: Full Doppler and color Doppler Test Location: 
+Anesthesia West OR cardiac 
+Contrast: None Tech Quality: Adequate 
+Tape #: ___-: Machine:  
+Echocardiographic Measurements  
+Results  Measurements  Normal Range  
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm  
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm 
+ 
+Left Ventricle - Ejection Fraction:  >= 55%  >= 55%  
+ 
+Findings  
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler. 
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. 
+Normal regional LV systolic function. Overall normal LVEF 
+(>55%). 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal ascending aorta diameter. Normal descending aorta 
+diameter. Focal calcifications in descending aorta. 
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). Trace 
+AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+) 
+MR. 
+
+___ VALVE: Normal tricuspid valve leaflets with trivial 
+TR. 
+
+GENERAL COMMENTS: Written informed consent was obtained from the 
+___. The ___ was under general anesthesia throughout the 
+procedure. No TEE related complications.  
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:  
+
+ 
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic  
+Conclusions  
+PREBYPASS 
+No atrial septal defect is seen by 2D or color Doppler. There is 
+mild symmetric left ventricular hypertrophy. The left 
+ventricular cavity size is normal. Regional left ventricular 
+wall motion is normal. Overall left ventricular systolic 
+function is normal (LVEF>55%). Right ventricular chamber size 
+and free wall motion are normal. The aortic valve leaflets (3) 
+are mildly thickened. Trace aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. Mild (1+) mitral 
+regurgitation is seen. 
+
+POSTBYPASS
+There is preserved biventricular systolic function. MR remains 
+mild. The study is otherwise unchanged from prebypass   
+   I certify that I was present for this procedure in compliance 
+with ___ regulations.
+ 
+
+___ 06:55AM BLOOD WBC-6.8 RBC-3.35* Hgb-10.6* Hct-33.0* 
+MCV-99* MCH-31.5 MCHC-32.0 RDW-12.7 Plt ___
+___ 06:55AM BLOOD Glucose-109* UreaN-22* Creat-0.8 Na-140 
+K-4.7 Cl-101 HCO3-28 AnGap-16
+
+___ ___ M  ___  ___ 
+ 
+Radiology Report CHEST (PA & LAT) Study Date of ___ 2:39 
+___ 
+ 
+  
+___ FA6A ___ 2:39 ___ 
+CHEST (PA & LAT)   Clip # ___   
+Reason: eval for pneumothorax s/p chest tube removal  
+ 
+Final Report 
+INDICATION:  ___ year old man s/p CABG  // eval for pneumothorax 
+s/p chest tube removal 
+  
+TECHNIQUE:  Chest PA and lateral 
+  
+COMPARISON:  ___ 
+  
+FINDINGS:  
+  
+Previously noted bilateral chest tubes, and right IJ line have 
+been removed. 
+Sternotomy wires are unchanged in configuration. Left chest wall 
+deformity is again noted. Heart size is top-normal.  The lungs 
+are clear.  Small bilateral pleural effusions.  No pneumothorax. 
+
+  
+IMPRESSION:  
+  
+1. Interval removal of bilateral chest tubes and central venous 
+line. No 
+pneumothorax. 
+2. Small bilateral pleural effusions. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+  
+___. ___ 
+ 
+
+LABS:
+
+___ 06:55AM BLOOD WBC-6.8 RBC-3.35* Hgb-10.6* Hct-33.0* 
+MCV-99* MCH-31.5 MCHC-32.0 RDW-12.7 Plt ___
+___ 04:46AM BLOOD WBC-6.9 RBC-3.15* Hgb-10.0* Hct-31.4* 
+MCV-100* MCH-31.6 MCHC-31.7 RDW-13.3 Plt ___
+___ 05:00PM BLOOD ___ PTT-31.2 ___
+___ 06:55AM BLOOD Glucose-109* UreaN-22* Creat-0.8 Na-140 
+K-4.7 Cl-101 HCO3-28 AnGap-16
+___ 04:46AM BLOOD Glucose-118* UreaN-21* Creat-0.8 Na-141 
+K-4.5 Cl-106 HCO3-32 AnGap-8
+ 
+Brief Hospital Course:
+The ___ was admitted to the hospital and brought to the 
+operating room on ___ where he underwent CABGx3 (LIMA-LAD, 
+SVG-Diag1/Diag2), please see OR note for further details.  
+Overall the ___ tolerated the procedure well and 
+post-operatively was transferred to the CVICU in stable 
+condition for recovery and invasive monitoring.  POD 1 found the 
+___ extubated, alert and oriented and breathing comfortably. 
+ The ___ was neurologically intact and hemodynamically 
+stable on no inotropic or vasopressor support.  The ___ was 
+transferred to the telemetry floor for further recovery. Beta 
+blocker was initiated and the ___ was gently diuresed toward 
+the preoperative weight. Chest tubes remined in due to peristent 
+airleak and left pneumothorax they were eventually discontinued 
+on POD#3. Pacing wires were discontinued without complication.  
+The ___ was evaluated by the physical therapy service for 
+assistance with strength and mobility.  By the time of discharge 
+on POD 4, the ___ was ambulating freely, the wound was 
+healing and pain was controlled with oral analgesics.  The 
+___ was discharged to home with ___ services in good 
+condition with appropriate follow up instructions.
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 325 mg PO DAILY 
+2. Atorvastatin 40 mg PO DAILY 
+3. Metoprolol Succinate XL 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin EC 81 mg PO DAILY 
+2. Atorvastatin 40 mg PO DAILY 
+3. Acetaminophen 650 mg PO Q4H:PRN pain, fever 
+4. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*60 Capsule Refills:*0
+5. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ capsule(s) by mouth every four (4) hours 
+Disp #*45 Capsule Refills:*0
+6. Furosemide 20 mg PO DAILY Duration: 5 Days 
+RX *furosemide 20 mg 1 tablet(s) by mouth Daily Disp #*5 Tablet 
+Refills:*0
+7. Potassium Chloride 20 mEq PO DAILY Duration: 5 Days 
+RX *potassium chloride [K-Tab] 20 mEq 1 tablet(s) by mouth Daily 
+Disp #*5 Tablet Refills:*0
+8. Metoprolol Succinate XL 25 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+coronary artery disease
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+Extremities - LLE EVH site healing
+Edema - none
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

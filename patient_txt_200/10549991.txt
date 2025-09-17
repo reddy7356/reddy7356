@@ -1,0 +1,1468 @@
+===== DISCHARGE NOTE =====
+note_id=10549991-DS-11 | hadm_id=22351187
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dry gangrene of right foot third and fourth digits, left foot 
+second, third and fourth digits
+
+ 
+Major Surgical or Invasive Procedure:
+Ray amputations of right foot third and fourth digits, left foot 
+second, third and fourth digits
+
+ 
+History of Present Illness:
+The patient is a ___ y/o diabetic M who underwent 2 prior left 
+lower extremity revascularizations at an outside hospital 
+including ___ to ___ artery bypass with in situ vein graft. He 
+recently underwent serial arteriogram of left lower extremity 
+and balloon angioplasty of left superficial femoral artery on 
+___.  On ___ he underwent redo left below-knee popliteal 
+to posterior tibial artery bypass with right basilic arm vein. 
+His post-op course was complicated by occipital lobe stroke and 
+visual changes in the right eye. He now presents with gangrene 
+of the ___ and ___ toes of his left foot as well as his 
+right ___ and ___ toes. 
+
+ 
+Past Medical History:
+ 
+PMH: PVD, Diabetes since ___ yoa, HTN, CVA ___ years ago s/p car 
+accident, perioperative occipital lobe stroke ___
+
+PSH: ___ Balloon angioplasty  of left superficial femoral 
+artery. ___ Redo left below-knee popliteal to posterior 
+tibial artery bypass with right basilic arm vein; RLE fem ___ 
+___, Debridement right ___ toe ___ hallux 
+amputation ___, LLE bypass x 2 (___), RLE knee 
+surgery ___ years ago, gastric ulcer surgery 
+
+ 
+Social History:
+___
+Family History:
+N/C
+ 
+Physical Exam:
+VS: 98.2 98.2 80 116/55 18 99RA
+Gen: NAD
+HEENT: moderate slurring of speech, no tongue deviation, EOMI
+CV: RRR, no M/R/G
+Pulm: CTAB
+GI: soft, NT, ND
+Extrem: Feet warm bilaterally. Amputation sites clean dry and 
+intact. Mild ___ blood staining on right foot. 
+
+pulses:    fem   dp  pt graft
+     L     p     d   d  dop
+     R     p     d   d
+
+ 
+Pertinent Results:
+___
+
+hct 27.9
+plt 415
+
+136 / 99 / 22 
+-------------< 216
+4.9 / 28 / 1.1  
+
+Pathology: pending
+ 
+Brief Hospital Course:
+Mr. ___ went to the operation room on ___ for ray 
+amputations of his right ___ and ___ toes along with his left 
+___ and ___ toes. The procedure was uncomplicated and he 
+tolerated it well. Post-operatively he was transferred to the 
+floor. Pain was well controlled overnight with oral pain 
+medication. On POD 1 his blood sugar was elevated so he was 
+given his home dose of lantus and was continued on his insulin 
+sliding scale. He was able to ambulate with physical therapy, 
+full weight bearing on his heels only, and was discharged home 
+in stable condition on POD1 with ___ and home physical therapy 
+services. He will continue on a 7 day course of bactrim. 
+ 
+Medications on Admission:
+amlodipine 5', atenolol 25', citalopram 10', plavix 75', 
+oxycodone 5 prn, ranitidine 150', simvastatin 20', ezetimibe 
+10', timolol eyedrops, bactrim", insulin lispro, lantus, aspirin 
+325'
+
+ 
+Discharge Medications:
+1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*30 Capsule(s)* Refills:*2*
+3. amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+4. atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+5. citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+6. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. oxycodone 5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 hours) 
+as needed for pain.
+Disp:*30 Tablet(s)* Refills:*1*
+8. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+10. ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+11. timolol maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic 
+DAILY (Daily).  
+12. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1) 
+Tablet PO BID (2 times a day) for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Gangrene of right foot third and fourth digits, left foot 
+second, third and fourth digits
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+DISCHARGE INSTRUCTIONS FOLLOWING BELOW OR ABOVE KNEE AMPUTATION
+
+This information is designed as a guideline to assist you in a 
+speedy recovery from your surgery. Please follow these 
+guidelines unless your physician has specifically instructed you 
+otherwise. Please call our office nurse if you have any 
+questions. Dial 911 if you have any medical emergency.
+
+ACTIVITY: There are restrictions on activity. On the side of 
+your amputation you are only to bear weight on your heels until 
+cleared by your Surgeon. You should keep this amputation site 
+elevated when ever possible.
+
+Try not to exert to much pressure on the amputation site when 
+transferring and or pivoting. 
+
+No driving until cleared by your Surgeon or while taking pain 
+medications. 
+
+PLEASE CALL US IMMEDIATELY FOR ANY OF THE FOLLOWING PROBLEMS:
+
+Redness in or drainage from your leg wound(s)
+
+Watch for signs and symptoms of infection. These are: a fever 
+greater than 101 degrees, chills, increased redness, or pus 
+draining from the incision site. If you experience any of these 
+or bleeding at the incision site, CALL THE DOCTOR.
+
+Exercise: Limit strenuous activity for 6 weeks. Do not drive a 
+car unless cleared by your Surgeon.
+
+Try to keep leg elevated when able.
+
+BATHING/SHOWERING: You may shower immediately upon coming home. 
+No bathing. Adressing may cover you’re amputation site and this 
+should be left in place for three (3) days. Remove it after this 
+time and wash your incision(s) gently with soap and water. You 
+will have sutures, which are usually removed in 4 weeks. This 
+will be done by the Surgeon on your follow-up appointment.
+
+WOUND CARE: Sutures / Staples may be removed before discharge. 
+If they are not, an appointment will be made for you to return 
+for staple
+removal.
+
+When the sutures are removed the doctor may or may not place 
+pieces of tape called steri-strips over the incision. These will 
+stay on about a week and you may shower with them on. If these 
+do not fall off after 10 days, you may peel them off with warm 
+water and soap in the shower.
+
+Avoid taking a tub bath, swimming, or soaking in a hot tub for 
+four weeks after surgery.
+
+MEDICATIONS: Unless told otherwise you should resume taking all 
+of the medications you were taking before surgery. You will be 
+given a new prescription for pain medication, which can be taken 
+every three (3) to four (4) hours only if necessary.
+
+Remember that narcotic pain meds can be constipating and you 
+should increase the fluid and bulk foods in your diet. (Check 
+with your physician if you have fluid restrictions.) If you feel 
+that you are constipated, do not strain at the toilet. You may 
+use over the counter Metamucil or Milk of Magnesia. Appetite 
+suppression may occur; this will improve with time. Eat small 
+balanced meals throughout the day.
+
+CAUTIONS: NO SMOKING! We know you've heard this before, but it 
+really is an important step to your recovery. Smoking causes 
+narrowing of your blood vessels which in turn decreases 
+circulation. If you smoke you will need to stop as soon as 
+possible. Ask your nurse or doctor for information on smoking 
+cessation.
+
+Avoid pressure to your amputation site. No strenuous activity 
+for 6 weeks after surgery.
+
+DIET : There are no special restrictions on your diet 
+postoperatively. Poor appetite is expected for several weeks and 
+small, frequent meals may be preferred.
+
+For people with vascular problems we would recommend a 
+cholesterol lowering diet: Follow a diet low in total fat and 
+low in saturated fat and in cholesterol to improve lipid profile 
+in your blood. Additionally, some people see a reduction in 
+serum cholesterol by reducing dietary cholesterol. Since a 
+reduction in dietary cholesterol is not harmful, we suggest that 
+most people reduce dietary fat, saturated fat and cholesterol to 
+decrease total cholesterol and LDL (Low Density Lipoprotein-the 
+bad cholesterol). Exercise will increase your HDL (High Density 
+Lipoprotein-the good cholesterol) and with your doctor's 
+permission, is typically recommended. You may be self-referred 
+or get a referral from your doctor.
+
+If you are overweight, you need to think about starting a weight 
+anagement program. Your health and its improvement depend on it. 
+We now that making changes in your lifestyle will not be easy, 
+and it will require a whole new set of habits and a new 
+attitude. If interested you can may be self-referred or can get 
+a referral from your doctor.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10549991-DS-9 | hadm_id=22640548
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right foot infection
+
+ 
+Major Surgical or Invasive Procedure:
+Diagnostic Angio
+ 
+History of Present Illness:
+___ year old diabetic male presents with infected and likely
+ischemic right ___ toe. He is admitted from Dr. ___
+today. He is status post left lower extremity revascularization
+at the ___ in ___. He has non-palpable
+pulses in the right foot. He relates his blood sugars as being
+high at home for the last few days. He denies f/c/n/v/sob/cp
+
+ 
+Past Medical History:
+VASCULAR HISTORY: Lower Extremity Bypass Graft, : LLE ___.
+Other:  LLE Hallux amputation ___. 
+PAST MEDICAL HISTORY: Diabetes since ___ yoa, HTN, CVA ___ years 
+ago
+s/p car accident
+
+ 
+Social History:
+___
+Family History:
+N/C
+ 
+Physical Exam:
+PHYSICAL EXAM
+Vital Signs: Temp: 96.3 RR: 20 Pulse: 69 BP: 134/69  
+Neuro/Psych: Oriented x3, Affect Normal, NAD. 
+Neck: No masses, Trachea midline, Thyroid normal size,
+non-tender, no masses or nodules, No right carotid bruit, No 
+left
+carotid bruit. 
+Nodes: No clavicular/cervical adenopathy, No inguinal 
+adenopathy.
+
+Skin: No atypical lesions. 
+Heart: Regular rate and rhythm. 
+Lungs: Clear, Normal respiratory effort. 
+Gastrointestinal: Non distended, No masses, Guarding or rebound,
+No hepatosplenomegally, No hernia, No AAA. 
+Rectal: Not Examined. 
+Extremities: No popiteal aneurysm, No femoral bruit/thrill, No
+RLE edema, No LLE Edema, No varicosities, abnormal: Erythema to
+mid right foot. 
+ 
+Pulse Exam (P=Palpation, D=Dopplerable, N=None)
+RUE Radial: P. ___: P. Other: Well-healed incisions. 
+LUE Radial: P. Ulnar: P. Other: Well-healed incisions. 
+RLE Femoral: P. Popiteal: P. DP: N. ___: D. 
+LLE Femoral: P. Popiteal: N. DP: N. ___: D. Other: Well-healed
+incisions. 
+
+ 
+Pertinent Results:
+___ 03:45PM BLOOD WBC-7.7 RBC-4.90 Hgb-13.5* Hct-40.1 
+MCV-82 MCH-27.5 MCHC-33.5 RDW-12.6 Plt ___
+___ 06:00AM BLOOD WBC-7.1 RBC-4.50* Hgb-12.5* Hct-36.4* 
+MCV-81* MCH-27.8 MCHC-34.4 RDW-12.5 Plt ___
+___ 05:40AM BLOOD WBC-7.3 RBC-4.37* Hgb-12.2* Hct-35.4* 
+MCV-81* MCH-27.8 MCHC-34.3 RDW-12.8 Plt ___
+___ 04:45AM BLOOD WBC-7.5 RBC-4.29* Hgb-12.0* Hct-34.8* 
+MCV-81* MCH-28.1 MCHC-34.5 RDW-12.9 Plt ___
+___ 03:45PM BLOOD Glucose-339* UreaN-32* Creat-1.1 Na-134 
+K-4.3 Cl-96 HCO3-26 AnGap-16
+___ 06:00AM BLOOD Glucose-133* UreaN-27* Creat-1.0 Na-137 
+K-4.7 Cl-97 HCO3-33* AnGap-12
+___ 05:40AM BLOOD Glucose-249* UreaN-23* Creat-1.0 Na-133 
+K-4.0 Cl-95* HCO3-31 AnGap-11
+___ 04:45AM BLOOD Glucose-122* UreaN-22* Creat-1.1 Na-137 
+K-3.9 Cl-99 HCO3-28 AnGap-14
+___ 03:45PM BLOOD Calcium-10.0 Phos-3.5 Mg-2.5
+___ 06:00AM BLOOD Calcium-9.8 Phos-4.4 Mg-2.2
+ 
+Brief Hospital Course:
+Mr. ___ was admitted ___ to the podiatry service for a 
+right foot infection from Dr. ___.  He was started 
+on broad spectrum IV antibiotics.  His vitals were stable on the 
+floor. On ___, Dr. ___ a diagnostic angio.  
+
+Pt put on IV antibiotics, had initial NIVS.
+
+After the NIVS, Pt had angiogram.
+
+OPERATIONS:
+1. Ultrasound-guided puncture of the left common femoral
+    artery.
+2. Contralateral second-order catheterization of the right
+    external iliac artery.
+3. Abdominal aortogram.
+4. Serial arteriogram of the right lower extremity.
+
+No sequele from angiogram.
+
+It was decided htat the pt would benefit from a BPG, He was then 
+preop'd and consented for a fem to ___.
+
+Underwent PICC placement for IV AB in ___, pt also has poor 
+access.
+
+Medicine consult was done to clear for surgery. Put on Bactrim 
+for DC
+
+On ___ pt went for BPG.
+
+Pathway initiated post operative
+
+POD #1, aline DC'd, Bedrest IV AB continued
+
+POD #2, OOB to chair, foley DC'd, IV AB continued, PICC in place 
+for poor access, pt autodiuresing, NWB RLE
+
+POD #3, IV AB's DC'd put on septra and cipro, recieved r ___ toe 
+amp, ___ consult RLE healing sandle in place
+
+POD #4, Pt cleared by ___, ready for home with ___
+
+ 
+Medications on Admission:
+cephalexin [Keflex]
+sodium chloride [Saline Wound Wash]
+
+ 
+Discharge Medications:
+1. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1) 
+Tablet PO BID (2 times a day) for 2 weeks.
+Disp:*28 Tablet(s)* Refills:*0*
+2. latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at 
+bedtime).  
+3. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+4. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+5. timolol maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic 
+DAILY (Daily).  
+6. ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+7. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+8. lisinopril 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+9. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+10. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day) as needed for constipation.  
+11. senna 8.6 mg Tablet Sig: ___ Tablets PO BID (2 times a day) 
+as needed for constipation.  
+12. hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+BID (2 times a day).  
+13. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+14. oxycodone-acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+q6h prn as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+15. dipyridamole-aspirin 200-25 mg Cap, ER Multiphase 12 hr Sig: 
+One (1) Cap PO BID (2 times a day).  
+16. amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+17. citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+18. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+19. insulin regular hum U-500 conc 500 unit/mL Solution Sig: as 
+per sliding scale  Injection as per sliding scale.  
+20. Zofran 8 mg Tablet Sig: One (1) Tablet PO q6h prn as needed 
+for nausea.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+right ___ and ___ necrosis and eythema
+becreased flow to legs
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+What to expect when you go home:
+1. It is normal to feel tired, this will last for ___ weeks 
+•You should get up out of bed every day and gradually increase 
+your activity each day 
+•Unless you were told not to bear any weight on operative foot: 
+you may walk and you may go up and down stairs 
+•Increase your activities as you can tolerate- do not do too 
+much right away!
+
+2. It is normal to have swelling of the leg you were operated 
+on:
+•Elevate your leg above the level of your heart (use ___ 
+pillows or a recliner) every ___ hours throughout the day and at 
+night
+•Avoid prolonged periods of standing or sitting without your 
+legs elevated
+
+3. It is normal to have a decreased appetite, your appetite will 
+return with time 
+•You will probably lose your taste for food and lose some 
+weight 
+•Eat small frequent meals
+•It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing
+•To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+
+What activities you can and cannot do:
+•No driving until post-op visit and you are no longer taking 
+pain medications
+•Unless you were told not to bear any weight on operative foot: 
+
+•You should get up every day, get dressed and walk
+•You should gradually increase your activity
+•You may up and down stairs, go outside and/or ride in a car
+•Increase your activities as you can tolerate- do not do too 
+much right away!
+•No heavy lifting, pushing or pulling (greater than 5 pounds) 
+until your post op visit 
+•You may shower (unless you have stitches or foot incisions) no 
+direct spray on incision, let the soapy water run over incision, 
+rinse and pat dry
+•Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing 
+over the area that is draining, as needed
+•Take all the medications you were taking before surgery, 
+unless otherwise directed
+•Take one full strength (325mg) enteric coated aspirin daily, 
+unless otherwise directed 
+•Call and schedule an appointment to be seen in 2 weeks for 
+staple/suture removal
+
+What to report to office:
+•Redness that extends away from your incision
+•A sudden increase in pain that is not controlled with pain 
+medication
+•A sudden change in the ability to move or use your leg or the 
+ability to feel your leg
+•Temperature greater than 100.5F for 24 hours
+•Bleeding, new or increased drainage from incision or white, 
+yellow or green drainage from incisions
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10549991-DS-14 | hadm_id=22814009
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+left fifth toe nonhealing pressure ulcer
+ 
+Major Surgical or Invasive Procedure:
+left ___ toe amputation, ___
+
+ 
+History of Present Illness:
+___ yo M with prior toe amputations on left foot of digits ___, 
+now with pressure ulcer that is nonhealing given conformation of 
+left ___ toe for the last few months.  He presents today for a 
+___ toe amputation on the left foot.
+ 
+Past Medical History:
+PMH: PVD, Diabetes since ___ yoa, HTN, CVA ___ years ago s/p car 
+accident, perioperative occipital lobe stroke ___
+
+PSH: ___ Balloon angioplasty  of left superficial femoral 
+artery. ___ Redo left below-knee popliteal to posterior 
+tibial artery bypass with right basilic arm vein; RLE fem ___ 
+___, Debridement right ___ toe ___ hallux 
+amputation ___, LLE bypass x 2 (___), RLE knee 
+surgery ___ years ago, gastric ulcer surgery 
+
+ 
+Social History:
+___
+Family History:
+N/C
+ 
+Physical Exam:
+Discharge physical exam: 
+Gen: NAD, sitting up in bed
+CV: pink and perfused
+P: breathing comfortably on room air, bilateral chest rise
+Abd: soft, NT, ND
+Ext: left foot now missing all 5 toes, ___ toe incision clean 
+and dry, covered with steri strips, right foot with multiple 
+missing toes, both feet warm
+ 
+Pertinent Results:
+___ 07:00AM BLOOD WBC-7.1 RBC-4.59* Hgb-12.9* Hct-37.6* 
+MCV-82 MCH-28.2 MCHC-34.4 RDW-14.1 Plt ___
+___ 07:00AM BLOOD Plt ___
+___ 07:00AM BLOOD Glucose-306* UreaN-24* Creat-1.1 Na-134 
+K-4.2 Cl-96 HCO3-25 AnGap-17
+___ 07:00AM BLOOD Calcium-9.6 Phos-3.0 Mg-2.0
+ 
+Brief Hospital Course:
+Mr. ___ underwent an amputation of the ___ toe on the left 
+foot on ___. He was started on IV vancomycin given his MRSA 
+history, and he went to the recovery unit postoperatively, where 
+he was allowed to advance his diet and take PO pain meds, if 
+necessary.  All of his home medications were resumed, and he 
+eventually was transferred to the floor without any issues. He 
+voided without difficulty, and was continued on IV vancomycin 
+for 24 hours.  He was afebrile overnight and was transitioned to 
+7 days of Bactrim at the 24 hour mark. By the time of discharge, 
+he was tolerating a regular diet, voiding on his own, tolerating 
+PO pain meds, and his incision was intact, still covered with 
+steri strips. He was given explicit discharge instructions and 
+follow up instructions.
+ 
+Medications on Admission:
+___: amlodipine 5 mg po qd, atenolol 25 mg po qd, citalopram 10 
+mg po qd, clopidogrel 75 mg po qd, Vytorin 
+(ezetimibe/simvastatin) ___ mg po qd, gabapentin 100 mg TID, 
+Lantus 44 units lunchtime, Humalog SS, lisinopril 20 mg bid, 
+hydrochlorothiazide 12.5 mg bid Bactrim DS 800-160 mg BID, 
+timolol 0.5% eye drops qd, aspirin 325 mg po qd, vitamin D3 1000 
+units qd
+ 
+Discharge Medications:
+1. Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 7 Days 
+RX *sulfamethoxazole-trimethoprim [Bactrim DS] 800 mg-160 mg 1 
+tablet(s) by mouth twice a day Disp #*14 Tablet Refills:*0
+2. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+3. Amlodipine 5 mg PO DAILY 
+4. Aspirin 325 mg PO DAILY 
+5. Atenolol 25 mg PO DAILY 
+6. Citalopram 10 mg PO DAILY 
+7. Clopidogrel 75 mg PO DAILY 
+8. Ezetimibe 10 mg PO DAILY 
+9. Gabapentin 100 mg PO TID 
+10. Hydrochlorothiazide 12.5 mg PO BID 
+11. Glargine 44 Units Lunch
+Insulin SC Sliding Scale using HUM Insulin
+12. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+13. Lisinopril 20 mg ORAL BID 
+14. OxycoDONE (Immediate Release)  5 mg PO Q6H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 6 hours Disp #*30 
+Tablet Refills:*0
+15. Ranitidine 150 mg PO DAILY 
+16. Simvastatin 20 mg PO QPM 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+left ___ toe non healing pressure ulcer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent with orthotic.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+ 
+You were admitted to the Vascular Surgery service after your 
+left ___ toe amputation. Your procedure went well without 
+complications and you are recovering well. At this time, you are 
+eating normally, able to use the restroom without difficulty and 
+have been restarted on all of your home medications. You are now 
+ready to continue your recovery at home, with the following 
+instructions.
+
+ACTIVITY:
+• On the side of your amputation you are non-weight bearing on 
+the front of your foot.  You should only be bearing weight on 
+the heel of your foot, so please use your orthotics.
+• You should keep this amputation site elevated whenever 
+possible
+• You may use the opposite foot for transfers and pivots
+• No driving until cleared by your surgeon
+• No heavy lifting greater than 20 pounds for the next 3 weeks
+ 
+BATHING/SHOWERING:
+• You may shower when you get home
+• No tub baths or pools / do not soak your foot for 4 weeks from 
+your date of surgery
+ 
+WOUND CARE:
+• Sutures / Staples may have been removed before discharge. If 
+they are not, an appointment will be made for you to return for 
+staple removal.
+• When the sutures are removed the doctor may or may not place 
+pieces of tape called steri-strips over the incision. These will 
+stay on about a week and you may shower with them on. If these 
+do not fall off after 10 days, you may peel them off with warm 
+water and soap in the shower.
+ 
+CAUTIONS:
+• If you smoke, please make every attempt to quit.  Your primary 
+care physician can help with this.  Smoking causes narrowing of 
+your blood vessels which in turn decreases circulation.
+ 
+DIET:
+• Low fat, low cholesterol / if you are diabetic – follow your 
+dietary restrictions as before
+ 
+CALL THE OFFICE at ___ FOR:
+• Bleeding, redness of, or drainage from your foot wound
+• New pain, numbness or discoloration of the skin on the 
+effected foot
+• Fever greater than 101 degrees, chills, increased redness, or 
+pus draining from the incision site.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10549991-DS-13 | hadm_id=23105710
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+L toe gangrene
+ 
+Major Surgical or Invasive Procedure:
+Left lower extremity angiogram + Left SFA stent
+
+ 
+History of Present Illness:
+The patient is a ___ diabetic male with peripheral 
+vascular disease who p/w wound on his left fifth digit.  He
+denies any new problems.  He has completed his course of
+antibiotics.  He is currently having no pain, fevers or chills. 
+He states he has noted no drainage from the site. The patient 
+presents with ischemic ulceration of the left fifth digit.  At 
+the present time, it does not appear to be acutely infected.  Pt 
+was referred by his podiatrist for angiogram evaluation.
+
+ 
+Past Medical History:
+PMH: PVD, Diabetes since ___ yoa, HTN, CVA ___ years ago s/p car 
+accident, perioperative occipital lobe stroke ___
+
+PSH: ___ Balloon angioplasty  of left superficial femoral 
+artery. ___ Redo left below-knee popliteal to posterior 
+tibial artery bypass with right basilic arm vein; RLE fem ___ 
+___, Debridement right ___ toe ___ hallux 
+amputation ___, LLE bypass x 2 (___), RLE knee 
+surgery ___ years ago, gastric ulcer surgery 
+
+ 
+Social History:
+___
+Family History:
+N/C
+ 
+Physical Exam:
+T 97.1F HR 71 BP 134/60 RR 18 97%RA
+Gen: NAD, AAOX3
+CV: RRR, no m/r/g
+Resp: CTABL, no w/r/r
+Abd: soft, nondistended, nontender
+Extremities: Groin incision c/d/i. Left ___ toe with dry 
+necrotic ulcer.
+Pulses: L: p/d/d/d faint R: p/d/d/d
+ 
+Pertinent Results:
+___ 06:10AM BLOOD WBC-7.6 RBC-4.23* Hgb-12.0* Hct-35.3* 
+MCV-84 MCH-28.3 MCHC-33.9 RDW-13.5 Plt ___
+___ 06:10AM BLOOD Glucose-169* UreaN-16 Creat-0.8 Na-135 
+K-3.8 Cl-101 HCO3-30 AnGap-___ year old male w/DM and PVD s/p amputation of left ___ through 
+___ toes p/w dry who presented with gangrene of L ___ toe. Pt 
+arrived in preop for scheduled left lower extremity angiogram 
+and placement of a Left SFA stent. Please see the operative 
+report for details related to the procedure. Pt was briefly 
+monitored in the PACU where he was unable to void due to lying 
+flat and being restricted from standing up. He was straight 
+catheterized to relieve his bladder without further urinary 
+issues. Pt was transferred to the floor where he was monitored 
+overnight without any issues. Pt was examined in the morning and 
+determined to be in stable condition to be discharged home. He 
+will follow up with Dr. ___ in clinic.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. lisinopril-hydrochlorothiazide ___ mg oral BID 
+2. Gabapentin 100 mg PO TID 
+3. ammonium lactate 12 % topical BID apply to bilateral feet 
+4. Atenolol 25 mg PO DAILY 
+5. Timolol Maleate 0.5% 1 DROP BOTH EYES BID 
+6. ezetimibe-simvastatin ___ mg oral qd 
+7. Amlodipine 5 mg PO DAILY 
+8. Ranitidine 150 mg PO DAILY 
+9. insulin glargine 44 units subcutaneous qd at lunchtime 
+10. insulin lispro 100 unit/mL subcutaneous QACHS per sliding 
+scale 
+11. Clopidogrel 75 mg PO DAILY 
+12. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+13. Aspirin 325 mg PO DAILY 
+14. Citalopram 10 mg PO DAILY 
+15. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Amlodipine 5 mg PO DAILY 
+2. Aspirin 325 mg PO DAILY 
+3. Atenolol 25 mg PO DAILY 
+4. Citalopram 10 mg PO DAILY 
+5. Clopidogrel 75 mg PO DAILY 
+6. Gabapentin 100 mg PO TID 
+7. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+8. Timolol Maleate 0.5% 1 DROP BOTH EYES BID 
+9. ammonium lactate 12 % topical BID apply to bilateral feet 
+10. ezetimibe-simvastatin ___ mg oral qd 
+11. insulin glargine 44 units SUBCUTANEOUS QD at lunchtime 
+12. insulin lispro 100 unit/mL SUBCUTANEOUS QACHS per sliding 
+scale 
+13. lisinopril-hydrochlorothiazide ___ mg ORAL BID 
+14. Ranitidine 150 mg PO DAILY 
+15. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Non-healing ulcer of left toe
+Secondary: Peripheral Vascular Disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___. You were 
+hospitalized for gangrene of your left fifth toe and received an 
+angiogram and stent to improve blood flow. You have been 
+discharged in stable condition to follow up in clinic. Please 
+follow the instructions below:
+
+MEDICATION:
+• Take Aspirin 325mg (enteric coated) once daily 
+• If instructed, take Plavix (Clopidogrel) 75mg once daily
+• Continue all other medications you were taking before surgery, 
+unless otherwise directed
+• You make take Tylenol or prescribed pain medications for any 
+post procedure pain or discomfort
+WHAT TO EXPECT:
+It is normal to have slight swelling of the legs:
+• Elevate your leg above the level of your heart with pillows 
+every ___ hours throughout the day and night
+• Avoid prolonged periods of standing or sitting without your 
+legs elevated
+• It is normal to feel tired and have a decreased appetite, your 
+appetite will return with time 
+• Drink plenty of fluids and eat small frequent meals
+• It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing
+• To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+ACTIVITIES:
+• When you go home, you may walk and use stairs
+• You may shower (let the soapy water run over groin incision, 
+rinse and pat dry)
+• Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing or 
+band aid over the area 
+• No heavy lifting, pushing or pulling (greater than 5 lbs) for 
+1 week (to allow groin puncture to heal)
+• After 1 week, you may resume sexual activity
+• After 1 week, gradually increase your activities and distance 
+walked as you can tolerate
+• No driving until you are no longer taking pain medications
+CALL THE OFFICE FOR: ___
+• Numbness, coldness or pain in lower extremities 
+• Temperature greater than 101.5F for 24 hours
+• New or increased drainage from incision or white, yellow or 
+green drainage from incisions
+• Bleeding from groin puncture site
+SUDDEN, SEVERE BLEEDING OR SWELLING (Groin puncture site)
+• Lie down, keep leg straight and have someone apply firm 
+pressure to area for 10 minutes. If bleeding stops, call 
+vascular office ___. If bleeding does not stop, call 
+___ for transfer to closest Emergency Room. 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10549991-DS-12 | hadm_id=25090617
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Thrombus of Bypass Graft
+ 
+Major Surgical or Invasive Procedure:
+R CFA endarterectomy, ___ angioplasty
+
+ 
+History of Present Illness:
+___ gentleman who previously underwent a femoral to 
+posterior tibial bypass with both inflow disease and outflow 
+disease. The patient has undergone
+a common femoral endarterectomy which will be dictated 
+separately, and the distal anastomosis we treat endovascularly.
+
+ 
+Past Medical History:
+PMH: PVD, Diabetes since ___ yoa, HTN, CVA ___ years ago s/p car 
+accident, perioperative occipital lobe stroke ___
+
+PSH: ___ Balloon angioplasty  of left superficial femoral 
+artery. ___ Redo left below-knee popliteal to posterior 
+tibial artery bypass with right basilic arm vein; RLE fem ___ 
+___, Debridement right ___ toe ___ hallux 
+amputation ___, LLE bypass x 2 (___), RLE knee 
+surgery ___ years ago, gastric ulcer surgery 
+
+ 
+Social History:
+___
+Family History:
+N/C
+ 
+Pertinent Results:
+___ 12:50PM   GLUCOSE-214* UREA N-26* CREAT-0.9 SODIUM-137 
+POTASSIUM-4.1 CHLORIDE-102 TOTAL CO2-28 ANION GAP-11
+___ 12:50PM   GLUCOSE-214* UREA N-26* CREAT-0.9 SODIUM-137 
+POTASSIUM-4.1 CHLORIDE-102 TOTAL CO2-28 ANION GAP-11
+___ 12:50PM   HCT-30.6*
+___ 11:04AM   TYPE-ART PO2-279* PCO2-33* PH-7.48* TOTAL 
+CO2-25 BASE XS-2 INTUBATED-INTUBATED VENT-CONTROLLED
+___ 11:04AM   GLUCOSE-268* LACTATE-1.8 NA+-139 K+-2.9* 
+CL--104
+___ 11:04AM   HGB-11.2* calcHCT-34
+___ 11:04AM   freeCa-1.08*
+___ 09:53AM   TYPE-ART PO2-307* PCO2-32* PH-7.50* TOTAL 
+CO2-26 BASE XS-2 INTUBATED-INTUBATED
+___ 09:53AM   GLUCOSE-327* LACTATE-1.6 NA+-136 K+-4.0 
+CL--100
+___ 09:53AM   HGB-12.2* calcHCT-37
+
+ 
+Brief Hospital Course:
+Patient was admitted to ___ after undergoing revsion of his 
+right lower extremity bypass, common femoral to posterior 
+tibial. The procedure was uncomplicated, please see the dictated 
+operative report for details of the procedure. He was 
+transferred to the PACU in good condition, please see the 
+dictated operative report for details of the procedure.
+
+He had some minor bleeding from his surgical incision, which was 
+controlled with pressure. He was advanced to a regular diet on 
+POD 1 and started on his home insulin regimen. His other home 
+medications were also restarted on POD 1. He was monitored for 
+signs of continued bleeding, of which there were none. He was 
+transitioned to oral pain medications once taking a regular 
+diet. On the day of discharge he was tolerating a regular diet, 
+voiding without assistance and ambulatory. He was deemed safe 
+for discharge and was discharged home without services.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. lisinopril-hydrochlorothiazide *NF* ___ mg Oral BID 
+2. Gabapentin 100 mg PO TID 
+3. ammonium lactate *NF* 12 % Topical BID 
+4. Atenolol 25 mg PO DAILY 
+5. Timolol Maleate 0.5% 1 DROP BOTH EYES DAILY 
+6. ezetimibe-simvastatin *NF* ___ mg Oral DAILY 
+7. Amlodipine 5 mg PO DAILY 
+8. Ranitidine 150 mg PO DAILY 
+9. Glargine 44 Units Lunch
+Insulin SC Sliding Scale using HUM Insulin
+10. Clopidogrel 75 mg PO DAILY 
+11. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES HS 
+12. Aspirin 325 mg PO DAILY 
+13. Citalopram 20 mg PO DAILY 
+14. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Amlodipine 5 mg PO DAILY 
+2. Aspirin 325 mg PO DAILY 
+3. Atenolol 25 mg PO DAILY 
+4. Clopidogrel 75 mg PO DAILY 
+5. Gabapentin 100 mg PO TID 
+6. Ranitidine 150 mg PO DAILY 
+7. Timolol Maleate 0.5% 1 DROP BOTH EYES DAILY 
+8. ammonium lactate *NF* 12 % Topical BID 
+9. ezetimibe-simvastatin *NF* ___ mg Oral DAILY 
+10. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES HS 
+11. lisinopril-hydrochlorothiazide *NF* ___ mg ORAL BID 
+12. Vitamin D 1000 UNIT PO DAILY 
+13. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+RX *tramadol 50 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*50 Tablet Refills:*0
+14. Acetaminophen 650 mg PO Q6H:PRN pain 
+15. Citalopram 20 mg PO DAILY 
+16. Glargine 44 Units Lunch
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Thrombus of right fem-tib bypass graft
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Division of Vascular and Endovascular Surgery
+Lower Extremity Bypass Surgery Discharge Instructions
+
+WHAT TO EXPECT:
+1. It is normal to feel tired, this will last for ___ weeks 
+•You should get up out of bed every day and gradually increase 
+your activity each day 
+•Unless you were told not to bear any weight on operative foot: 
+you may walk and you may go up and down stairs 
+•Increase your activities as you can tolerate- do not do too 
+much right away!
+2. It is normal to have swelling of the leg you were operated 
+on:
+•Elevate your leg above the level of your heart (use ___ 
+pillows or a recliner) every ___ hours throughout the day and at 
+night
+•Avoid prolonged periods of standing or sitting without your 
+legs elevated
+3. It is normal to have a decreased appetite, your appetite will 
+return with time 
+•You will probably lose your taste for food and lose some 
+weight 
+•Eat small frequent meals
+•It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing
+•To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+
+MEDICATION:
+•Take aspirin as instructed 
+•Follow your discharge medication instructions
+
+ACTIVITIES:
+•No driving until post-op visit and you are no longer taking 
+pain medications
+•Unless you were told not to bear any weight on operative foot: 
+
+•You should get up every day, get dressed and walk
+•You should gradually increase your activity
+•You may up and down stairs, go outside and/or ride in a car
+•Increase your activities as you can tolerate- do not do too 
+much right away!
+•No heavy lifting, pushing or pulling (greater than 5 pounds) 
+until your post op visit 
+•You may shower (unless you have stitches or foot incisions) no 
+direct spray on incision, let the soapy water run over incision, 
+rinse and pat dry
+•Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing 
+over the area that is draining, as needed
+
+CALL THE OFFICE FOR: ___
+•Redness that extends away from your incision
+•A sudden increase in pain that is not controlled with pain 
+medication
+•A sudden change in the ability to move or use your leg or the 
+ability to feel your leg
+•Temperature greater than 100.5F for 24 hours
+•Bleeding, new or increased drainage from incision or white, 
+yellow or green drainage from incisions
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10549991-DS-15 | hadm_id=25992371
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+L foot ulcer infection
+ 
+Major Surgical or Invasive Procedure:
+___ - Vascular angiogram with stent placement
+___ - Ulcer debridement and bone excision in operating room
+
+ 
+History of Present Illness:
+ Patient is ___ M with PMH type I diabetes, CVA, PVD who 
+presents as a direct admit for cellulitis.  
+ He was seen at the ___ office today for follow-up care of 
+a wound on his left TMA. Per clinic notes: "Vascular examination 
+revealed nonpalpable pedal pulses bilaterally. Dermatological 
+examination shows a small punctate ulceration laterally over the 
+fifth metatarsal stump. There was noted to be some mild edema 
+and erythema of the foot. The base of the ulceration had small 
+amount of purulent drainage."  
+ On arrival to the floor, patient reports that he is here fore 
+his foot. He is somewhat of a poor historian and cannot answer 
+most questions. He states that his L foot has been hurting for 
+maybe ___ mo, he isn't sure. He denies fevers/chills, N/V, SOB, 
+CP/dizziness, abd pain, constipation/diarrhea, numbness or 
+weakness.  
+ Per discussion with his brother, ___, patient has memory 
+problems from CVA. He has had pain in his foot for a couple of 
+weeks.
+ 
+Past Medical History:
+ PVD  
+ Diabetes since age ___  
+ HTN  
+ CVA ___ years ago s/p car accident  
+ Perioperative occipital lobe stroke ___  
+ PAST SURGICAL HISTORY:  
+ ___ Balloon angioplasty of left superficial femoral  
+ artery.  
+ ___ Redo left below-knee popliteal to posterior tibial 
+artery bypass with right basilic arm vein  
+ RLE fem ___ ___  
+ Debridement right ___ toe ___  
+ Left hallux amputation ___  
+ LLE bypass x 2 (___)  
+ RLE knee surgery ___ years ago  
+ Gastric ulcer surgery 
+ 
+Social History:
+___
+Family History:
+Father deceased. + FHx diabetes. Unsure of other FHx.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+======================= 
+ VS: 98.0 PO 180 / 69 89 18 95 Ra  
+ GENERAL: NAD  
+ HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM, + dentures  
+ NECK: supple neck  
+ HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+ LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ ABDOMEN: nondistended, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+ EXTREMITIES: L foot with areas of erythema on shin (nontender), 
+1+ edema b/l, L foot with TMA, wrapped in clean bandage  
+ SKIN: Multiple scars on upper extremities.  
+
+DISCHARGE PHYSICAL EXAM
+========================
+VS:  97.8PO 115 / 63 78 16 98 Ra
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, MMM, + dentures  
+NECK: supple neck  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB
+ABDOMEN: nondistended, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: L foot with areas of erythema on shin (nontender) 
+outlined in skin marker, improved, L foot with transmetatarsal 
+amputation, incision on lateral aspect of forefoot with sutures 
+in place, no erythema and minimally tender.  
+SKIN: Multiple scars on upper extremities.
+ 
+Pertinent Results:
+ADMISSION LAB RESULTS
+=====================
+___ 12:30AM BLOOD WBC-9.1 RBC-4.13* Hgb-11.7* Hct-35.2* 
+MCV-85 MCH-28.3 MCHC-33.2 RDW-13.0 RDWSD-40.4 Plt ___
+___ 12:30AM BLOOD Glucose-338* UreaN-22* Creat-0.9 Na-134 
+K-3.7 Cl-96 HCO3-26 AnGap-16
+___ 12:30AM BLOOD Calcium-9.3 Phos-2.5* Mg-1.9
+___ 12:30AM BLOOD CRP-83.4*
+
+DISCHARGE LAB RESULTS
+=====================
+___ 05:31AM BLOOD WBC-10.6* RBC-4.07* Hgb-11.6* Hct-34.7* 
+MCV-85 MCH-28.5 MCHC-33.4 RDW-13.6 RDWSD-41.8 Plt ___
+___ 05:31AM BLOOD Glucose-40* UreaN-24* Creat-1.1 Na-139 
+K-3.7 Cl-100 HCO3-25 AnGap-18
+___ 12:30AM BLOOD ALT-18 AST-20 AlkPhos-94 TotBili-0.2
+___ 08:10AM BLOOD Calcium-9.5 Phos-3.1 Mg-2.0
+
+IMAGING/STUDIES
+===============
+___ L Foot XRay: 
+Status post trans phalangeal amputations of the first through 
+fifth toes.  No definite erosion to suggest osteomyelitis.
+
+___ Arterial Study: 
+Evidence of moderate to severe ischemia bilateral lower 
+extremities, worse on the left.
+
+___ Ultrasound Vein Mapping:
+The great saphenous veins have been harvested bilaterally. The 
+small saphenous veins are patent and with diameters as above. 
+Please see digitized image on PACS for formal sequential 
+measurements.
+
+___ MRI:
+Soft tissue edema along the lateral fifth proximal phalanx, with 
+adjacent bone marrow edema, hypointense T1 bone marrow signal 
+and enhancement of the fifth proximal phalanx and metatarsal 
+head.  No cortical irregularity, erosion or soft tissue sinus 
+tract extending to bone is seen.  No significant fifth MTP joint 
+effusion.  Marrow edema is relatively intense, but the 
+differential diagnosis includes prominent reactive marrow edema 
+versus osteomyelitis of the fifth metatarsal head and proximal 
+fifth phalanx.  No localized fluid collection or abscess. 
+Relatively large soft tissue hemangioma in the plantar soft 
+tissues of the forefoot, detailed above.  This corresponds to 
+phleboliths seen on the ___ radiographs.
+
+___ L Foot XRay: 
+Status post resection of distal fifth metatarsal with expected 
+postoperative findings. 
+
+ 
+Brief Hospital Course:
+Patient is ___ M with PMH type I diabetes, CVA, PVD who 
+presents as a direct admit for infected L foot ulcer. He 
+underwent an angiogram and stent placement to increase blood 
+flow to the LLE. An MRI was concerning for osteomyelitis, so the 
+patient was taken to the OR by podiatry for wound debridement 
+and bone excision. He was continued on IV vancomycin and PO 
+ciprofloxacin. The treatment course will depend on the bone 
+pathology results.
+
+#Infected L foot ulcer: 
+#Osteomyelitis:
+The patient presented with an infected left foot in the setting 
+of three months of increasing pain. Xray with possible 
+osteomyelitis. Vascular angiogram performed on ___ and stent 
+was placed to improve vascular flow in the left lower extremity. 
+The angiogram showed poor perfusion in the L lower extremity. 
+MRI with evidence of osteomyelitis. The patient was started on 
+IV vanc/flagyl/cipro ___ which were then stopped in an 
+attempt to have the patient off of antibiotics for 48 hours to 
+get culture data when patient went to the OR for debridement. 
+The podiatry team performed a debridement in the OR on ___. 
+Unfortunately, no intra-op cultures were sent, and the specimen 
+was only sent for pathology. Per ID, the plan was to empirically 
+continue treating for osteomyelitis for a 6 week course. If bone 
+pathology demonstrates clear margins, treatment will stop after 
+2 weeks of IV therapy. Day 1 = ___. Patient should follow-up 
+with ___ OPAT, Podiatry, and vascular surgery. 
+
+# ___: Patient had a Cr of 1.3 (baseline 1.0). Resolved with 
+IVF. Likely prerenal in the setting of being NPO for procedure. 
+Lisinopril and HCTZ held given ___ and ___ in the 
+hospital.
+
+#Peripheral vascular disease: The patient was evaluated by the 
+vascular team and a stent was placed as above. He was continued 
+on home aspirin and Plavix. 
+
+#T1DM complicated by diabetic neuropathy: Patient was diagnosed 
+with T1DM at age ___. Home regimen is 36U of Lantus at bedtime, 
+Humalog 5U, 2U, 4U with breakfast, lunch, dinner respectively. 
+His blood sugars were difficult to control when he was NPO for 
+procedures. Please continue to monitor blood sugars closely. 
+
+#HTN: Continued home amlodipine, atenolol. Held home lisinopril, 
+HCTZ as above given ___ and normotension. 
+
+#CVA: Patient has short-term memory problems and difficulty 
+expressing himself from a CVA. He was continued on aspirin, 
+plavix, and atorvastatin. 
+
+#GERD: Continued home ranitidine.
+
+#Depression: Continued home citalopram.
+
+#Glaucoma: Continued home latanoprost and timolol.
+
+TRANSITIONAL ISSUES:
+====================
+#Osteomyelitis
+- ID follow-up (ID will contact patient to schedule.)
+- Podiatry follow-up (Scheduled.)
+- Will be discharged on IV vancomycin and PO ciprofloxacin.
+- Follow-up bone pathology. If clean margins, patient only needs 
+2 weeks of IV antibiotics, otherwise, he will need 6 weeks of IV 
+antibiotics. (Day 1 = ___.
+
+#PVD
+- Vascular follow-up (Scheduled)
+
+#HTN
+- home lisinopril and HCTZ held given normotension and ___. 
+Please restart as needed. 
+
+#T1DM
+- Patient discharged on home regimen. Please monitor blood 
+sugars closely. 
+
+#CODE: Full 
+#CONTACT: ___ (brother/HCP) ___ Mother 
+(___) ___  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Clopidogrel 75 mg PO DAILY 
+2. Gabapentin 100 mg PO TID 
+3. aspirin 325 mg oral DAILY 
+4. amLODIPine 5 mg PO DAILY 
+5. Atenolol 25 mg PO DAILY 
+6. Citalopram 10 mg PO DAILY 
+7. lisinopril-hydrochlorothiazide ___ mg oral BID 
+8. Ranitidine 150 mg PO DAILY 
+9. Vitamin D 1000 UNIT PO DAILY 
+10. Timolol Maleate 0.5% 1 DROP BOTH EYES QHS 
+11. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+12. Vytorin ___ (ezetimibe-simvastatin) ___ mg oral DAILY 
+13. Glargine 36 Units Bedtime
+Humalog 5 Units Breakfast
+Humalog 2 Units Lunch
+Humalog 4 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+2.  Vancomycin 1000 mg IV Q 12H 
+RX *vancomycin 1 gram 1 g IV Q12 hours Disp #*14 Vial Refills:*5 
+
+3.  Glargine 36 Units Bedtime
+Humalog 5 Units Breakfast
+Humalog 2 Units Lunch
+Humalog 4 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin 
+4.  amLODIPine 5 mg PO DAILY  
+5.  aspirin 325 mg oral DAILY  
+6.  Atenolol 25 mg PO DAILY  
+7.  Citalopram 10 mg PO DAILY  
+8.  Clopidogrel 75 mg PO DAILY  
+9.  Gabapentin 100 mg PO TID  
+10.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+11.  Ranitidine 150 mg PO DAILY  
+12.  Timolol Maleate 0.5% 1 DROP BOTH EYES QHS  
+13.  Vitamin D 1000 UNIT PO DAILY  
+14.  Vytorin ___ (ezetimibe-simvastatin) ___ mg oral DAILY  
+15. HELD- lisinopril-hydrochlorothiazide ___ mg oral BID  
+This medication was held. Do not restart 
+lisinopril-hydrochlorothiazide until you are told to do so by 
+your primary care doctor. 
+16.___
+ICD10:M86
+Diagnosis: Osteomyelitis L foot
+Prognosis: good
+___: 13 mo.
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Primary Diagnosis:
+- Infected left foot ulcer
+- Osteomyelitis
+
+Secondary Diagnosis:
+- Type 1 DM
+- Peripheral vascular disease
+- CVA
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+You were hospitalized at ___. 
+
+Why did you come to the hospital?
+================================
+- You came to the hospital because your podiatrist thought that 
+your foot was infected. 
+
+What did we do for you?
+==================
+- We gave you strong antibiotics to help treat the infection.
+- You had a stent placed in one of the blood vessels of your leg 
+to help with blood flow.
+- You went to the operating room to have your wound cleaned out 
+by the podiatry team. They also sent a piece of bone to the 
+pathology lab to see if it was infected. 
+
+What do you need to do?
+==================
+- It is important that you continue taking your antibiotics as 
+prescribed.
+- You should follow-up with your podiatrist.
+- You should also follow-up with the infectious disease team. 
+
+It was a pleasure caring for you. We wish you the best!
+
+Sincerely,
+Your ___ Medicine Team. 
+ 
+Followup Instructions:
+___

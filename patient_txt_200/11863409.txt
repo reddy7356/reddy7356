@@ -1,0 +1,956 @@
+===== DISCHARGE NOTE =====
+note_id=11863409-DS-14 | hadm_id=21905130
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+morphine
+ 
+Attending: ___
+ 
+___ Complaint:
+Confusion and hypotension
+ 
+Major Surgical or Invasive Procedure:
+Left Percutaneous nephrostomy tube 
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with a history of prostate 
+cancer
+s/p XRT with metastatic osseus recurrence involving spine and 
+prostatic mass invading bladder on Lupron and Xytiga, 
+hypertension, hyperlipidemia, who presents with worsening 
+confusion and hypotension. He states that he has had chills, 
+dyspnea, and abdominal pain. Denies black or bloody stools.
+
+In the ED, initial vitals were T 98.6, HR 100, BP 81/48, RR 20, 
+and O2 93% on RA. On repeat measurement, patient remained 
+hypotensive with SBP 70-80s, and had worsening tachypnea ranging 
+from ___. Exam was notable for diffuse abdominal tenderness 
+and distention and has baseline urinary incontinence. He also 
+had marked LLE swelling. Labs were notable for WBC of 4.8 with 
+27 bands, anemia with H/H 9.5/28.3, proBNP 1579, anion gap of 
+22, and a lactate of 6.3 with VBP 7.42/38/20. UA showed RBC > 
+182, WBC >182, small leuk, and neg nitrite. CT Head was 
+remarkable for left temporal mass measuring 2.8x1.9cm with 
+adjacent vasogenic edema that is new since ___. CT A/P 
+was revealing for 4mm left ureteral stone with moderate left 
+hydroureteronephrosis, unchanged in degree since ___, 
+but with possibility of forniceal rupture. Diffuse thickening of 
+the posterior and left lateral urinary bladder wall is 
+concerning for malignancy. Patient was given 2L NS, 2 doses of 
+vancomycin and zosyn. Patient was not responsive to 2L fluid 
+bolus and was started on norepinephrine gtt at 0.1, uptitrated 
+to 0.18 mcg/kg. Repeat lactate was 1.8 Neurosurgery was 
+consulted and they will defer active management until evaluated 
+by neurooncology. Urology was also consulted and patient was 
+sent for percutaneous nephrostomy for likely infected stone.
+
+MD was called to ___ suite for tachycardia (160s-170s) and 
+hypotension (MAPs ___. He received 1 L LR, was brought up to 
+the MICU where he was diffusely wheezing + anesthesia was called 
+to intubate him. Following intubation, we pushed 6 + 12 of 
+adenosine for HRs in 160s-170s. Following adensosine, his HR 
+normal dec to 110s and an EKG was sinus tachycardia. At 
+approximately 1030 pm, his BP continued to drop, a second L of 
+LR was given and vasopressin was added. We provided stress dose 
+steroids. 
+
+ 
+Past Medical History:
+HTN
+HLD
+BPH
+Prostate Cancer s/p brachytherapy 
+ 
+Social History:
+___
+Family History:
+Brother had colon cancer. no known relatives with prostate 
+cancer.
+ 
+Physical Exam:
+ADMISSION PHYSICAL:
+============================
+VITALS: Reviewed in Metavision
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+
+DISCHARGE PHYSICAL:
+No breath sounds or cardiac activity after 1 minute of 
+auscultation
+Fixed dilate pupils
+No withdrawal to noxious stimuli.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 12:32PM BLOOD WBC-4.8 RBC-2.89* Hgb-9.5* Hct-28.3* 
+MCV-98 MCH-32.9* MCHC-33.6 RDW-15.9* RDWSD-55.2* Plt ___
+___ 12:32PM BLOOD ___ PTT-29.7 ___
+___ 12:32PM BLOOD Glucose-172* UreaN-16 Creat-1.2 Na-141 
+K-3.8 Cl-97 HCO3-22 AnGap-22*
+___ 12:32PM BLOOD ALT-14 AST-13 AlkPhos-78 TotBili-0.4
+___ 12:39PM BLOOD ___ pO2-20* pCO2-38 pH-7.42 
+calTCO2-25 Base XS--1
+___ 12:42PM BLOOD Lactate-6.3*
+
+IMAGING
+___ CT HEAD W/O CONTRAST
+1
+.
+ 
+A
+ 
+l
+e
+f
+t
+ 
+t
+emporal lobe mass measuring 2.8 x 1.9 cm with adjacent vasogenic
+e
+d
+e
+m
+a
+ 
+i
+s
+ 
+c
+o
+n
+c
+e
+rning for metastatic disease and is new since ___.  No 
+a
+d
+d
+i
+t
+i
+onal intracranial lesions are identified, though evaluation with
+n
+o
+n
+c
+o
+n
+t
+r
+a
+s
+t
+ 
+C
+T
+ is limited.  If further evaluation for additional metastases is 
+warranted, dedicated brain MRI with contrast is recommended.
+2
+.
+ 
+N
+e
+w
+ 
+l
+u
+c
+e
+ncy in the posterior aspect of the right C1 lateral mass eroding
+t
+h
+e
+ 
+t
+r
+a
+n
+sverse foramen cortex probably reflects a new metastatic lesion.
+3. Paranasal sinus disease.
+
+CTA Abdomen and CHEST
+IMPRESSION:
+
+1
+.
+ 
+N
+o
+ 
+e
+v
+i
+d
+___ of pulmonary embolus to the segmental level or acute aortic
+s
+y
+n
+d
+r
+o
+m
+e
+.
+ 
+ 
+P
+l
+ease note that assessment of the subsegmental pulmonary arterial 
+level is limited due to timing of the contrast bolus.
+2
+.
+ 
+M
+o
+d
+e
+r
+a
+te left hydroureteronephrosis which is unchanged in degree since
+F
+e
+b
+r
+u
+a
+r
+y
+ 
+___, but with the increased perinephric fat stranding and fluid
+r
+a
+i
+s
+i
+n
+g
+ 
+t
+h
+e
+ 
+p
+ossibility forniceal rupture.  There is also an obstructing 4 mm 
+s
+t
+o
+n
+e
+ 
+i
+n
+ 
+t
+he distal left ureter.  Recommend correlation with urinalysis to
+assess for superimposed infection of the urinary tract.
+3
+.
+ 
+D
+i
+f
+f
+u
+s
+e
+ 
+t
+hickening of the posterior and left lateral urinary bladder wall 
+i
+s
+ 
+c
+o
+ncerning for malignancy, with post radiation changes also in the
+d
+i
+f
+f
+e
+r
+e
+n
+t
+i
+a
+l
+.
+  Correlation with urine cytology and cystoscopy is recommended, 
+i
+f
+ 
+c
+l
+i
+n
+i
+c
+a
+l
+l
+y indicated.  There is an additional soft tissue nodule adjacent 
+to the anterior right urinary bladder which could be metastatic.
+4
+.
+ 
+I
+n
+t
+erval progression of osseous metastatic disease with compression
+f
+r
+a
+c
+t
+u
+r
+e
+s
+ 
+i
+n
+v
+olving C7 and L2.  No osseous retropulsion. A large lytic lesion 
+i
+n
+v
+o
+l
+v
+e
+s
+ the left acetabulum and puts the patient at risk for pathologic
+fracture.
+5
+.
+ 
+M
+i
+l
+d
+ 
+a
+i
+r
+w
+ay secretions and bronchial wall thickening with mucous plugging 
+suggestive of chronic airways inflammation.
+6. Moderate calcified coronary atherosclerosis.
+7. Mild centrilobular emphysema.
+8. Diverticulosis.
+
+___
+MR HEAD
+T
+h
+e
+r
+e
+ 
+i
+s
+ 
+a
+n expansile lesion with its epicenter in the greater wing of the
+l
+e
+f
+t
+ 
+s
+p
+h
+e
+n
+oid bone with intracranial extension but this mass appears to be
+e
+x
+t
+r
+a
+-
+a
+x
+i
+a
+l
+ which would be consistent with bony prostate metastatic disease
+with involvement of the brain.
+ 
+S
+m
+a
+l
+l
+e
+r
+ 
+e
+n
+h
+a
+n
+cing lesions also noted in the clivus, occipital bone as well as 
+C1 as described above.
+
+___ MR ___
+IMPRESSION:
+ 
+ 
+1
+.
+ 
+N
+e
+w
+ 
+p
+a
+t
+h
+o
+logical fracture of the C7 vertebral body.  No compromise of the 
+c
+e
+r
+v
+i
+c
+a
+l
+ 
+c
+o
+rd in the central canal.  There is involvement of the right C6-7
+neural foramen by soft tissue changes.
+2
+.
+ 
+M
+u
+l
+t
+i
+p
+l
+e
+ 
+b
+o
+ny metastatic lesions most of them being present on the prior MR 
+___
+h
+o
+r
+a
+c
+i
+c
+ 
+a
+nd lumbar spine scout view dated ___ (not dedicated
+___ MR).
+3
+.
+ 
+T
+h
+e
+ 
+r
+i
+g
+h
+t
+ 
+lateral mass C1 lesion is increased in size compared to prior CT 
+C spine done ___.
+4
+.
+ 
+T
+h
+e
+ 
+l
+e
+f
+t
+ 
+f
+irst rib lesion is again noted and difficult to compare to prior 
+imaging due to different modalities.  Grossly similar.
+
+___ URINE CYTOLOGY
+SUSPICIOUS FOR MALIGNANCY. 
+- Scattered highly atypical cells, present in a background of 
+blood, fibrinous debris, and benign-appearing urothelial cells.
+The findings are suspicious for bladder involvement by prostate 
+cancer. If clinically indicated, cystoscopy with biopsy could be 
+considered for further characterization of the atypical cells. 
+Clinical and radiologic correlation is advised.
+
+ 
+Brief Hospital Course:
+Mr. ___ was a ___ year old male with history of prostate cancer 
+s/p XRT with metastatic ossues recurrence and bladder 
+involvement, who presented with confusion, chills and abdominal 
+pain in septic shock, found to have obstructing left ureteral 
+stone with moderate hyproutereronephrosis and new calvarial met 
+with temporal lobe compression.  On admission he received a left 
+percutaneous nephrostomy, which decompressed his hydronephrosis 
+and was treated for pyelonephritis ___ obstructing urothelial 
+stone.  His multiple bone mets were assessed with MRI and CT, 
+demonstrating worsening spinal lesions and new calvarial 
+metastasis thought to be causing worsening mental status.  He 
+was intubated for the initial PCN procedure in the setting of 
+shock, and was unable to be extubated during his hospitalization 
+due to alteration of mental status and neurogenic breathing 
+patterns with prolonged periods of apnea interspersed with brief 
+breathing episodes of ___ breaths.  
+
+Goals of care were discussed with his family, who elected to 
+extubate with DNI status ___ in the setting of worsening 
+metastatic disease and unchanged critical clinical condition.  
+He was made comfort measures only and expired at 1308 on 
+___.
+
+     
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Tartrate 50 mg PO BID 
+2. Mirtazapine 15 mg PO QHS 
+3. Omeprazole 40 mg PO BID 
+4. Oxybutynin 5 mg PO BID 
+5. Senna 17.2 mg PO QHS 
+6. Simvastatin 10 mg PO QPM 
+7. Vitamin D3 (cholecalciferol (vitamin D3)) 1,000 unit oral 
+DAILY 
+8. Acetaminophen 325 mg PO Q6H:PRN Pain - Mild 
+9. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN SOB/Wheeze 
+10. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+11. Dexamethasone 2 mg PO DAILY 
+12. Zytiga (abiraterone) 1000 mg oral DAILY 
+13. amLODIPine 5 mg PO DAILY 
+14. Aspirin 81 mg PO DAILY 
+15. Calcium 500 (calcium carbonate) 500 mg calcium (1,250 mg) 
+oral DAILY 
+16. Docusate Sodium 100 mg PO BID 
+17. Doxazosin 4 mg PO DAILY 
+18. Enoxaparin Sodium 40 mg SC DAILY 
+Start: ___, First Dose: Next Routine Administration Time 
+19. Furosemide 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+Deceased
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Deceased
+ 
+Discharge Condition:
+Deceased
+ 
+Discharge Instructions:
+Deceased
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11863409-DS-13 | hadm_id=22783707
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+morphine
+ 
+Attending: ___
+ 
+Chief Complaint:
+Back pain
+ 
+Major Surgical or Invasive Procedure:
+Chest wall mass tissue biopsy 
+
+ 
+History of Present Illness:
+This is a ___ w/ h/o prostate cancer s/p brachytherapy > ___ 
+years ago, BPH, HTN, HLD who was transferred for extensive 
+lesions on CT. 
+
+The patient is a circuitous historian. It appears he saw his PCP 
+___ with back pain consistent with sciatica. CT at that time 
+was concerning for malignancy and follow up MRI showed diffuse 
+osseous spinal metastasis. Cancer was mentioned, any the patient 
+was referred to the spine service at ___, Dr. ___. However, 
+he was lost to followup due to what sounds like poor social 
+support. 
+
+Back pain, abd pain, hematuria, overflow incontinence, and left 
+leg pain that radiates from the back throught the butt down the 
+thigh and calf worsened. He struggles to put on clothes or walk 
+around the house. Today, his nephew ___ took him to the ___.
+
+Reports hasn't had BM that was regular in ___ weeks and having 
+small BMS and taking milk of magnesia it becomes diarrhea and 
+stomach feels empty and feels improved. 
+
+ No saddle anesthesia. NO fevers, chills. Mild SOB with 
+ deep breathing. ALso some intermittent abdominal discomfort and 
+loose 
+ stools alternating with pebbly small stools past few weeks. No 
+dysuria, hematuria. No falls, fainting, confusion. 
+
+In the ___:
+Rectal tone normal, guiac negative. 
+CT head negative 
+CT cspine: Lytic metastasis throughout, no cervical cord 
+compression.
+CT chest: Numerous lytic lesions in spine and ribs, none 
+compressing thoracic cord. No evidence of pulmonary emboli or 
+parenchymal metastases. 
+CT a/p: Left extensive bladder wall thickening, continuous with 
+the
+prostate posterior inferiorly. Lytic lesions throughout.
+Left ureterovesicular junction obstruction with hydroureter and 
+hydronephrosis
+
+He was transferred for oncology, spine evaluation, possibly 
+radiation oncology for likely new metastatic lesions diffuse in 
+spine and  workup.
+
+In the ___ ___: 
+T 98.9 HR 105 BP 169/102 RR 18 O2 98% RA 
+CBC, CHEM 10, LFT's unremarkable (see below).
+MRI prelim confirmed multiple metastases without cord 
+involvement.
+Neurosurgery evaluated, felt no acute issues.
+He required no pain meds and was admitted.
+
+On arrival to the floor, denies any numbness/tingling in his 
+upper or lower extremities. Denies bowel incontinence or saddle 
+anesthesia. He does endorse significant unintentional weight 
+loss. Denies
+CP/SOB/F/C/NV.
+
+ 
+Past Medical History:
+HTN
+HLD
+BPH
+Prostate Cancer s/p brachytherapy 
+ 
+Social History:
+___
+Family History:
+Brother had colon cancer
+
+ 
+Physical Exam:
+ADMISSION
+T 98.9 HR 97 BP 183/85 RR 19 O2 95%RA 
+GEN: Cachectic, disheveled
+HEENT: Multiple seborrheic keratosis, anicteric
+HEART: RRR, no murmurs
+LUNGS: CTA bialtearlly, good air movement
+ABD: 4cm hard nontender mass over left costal margin, soft, 
+diffusely tender
+GU: No foley
+EXT: Thin, no edema, no skin breakdown
+NEURO: Alert, oriented x3, fluent speech
+Left psoas ___ due to pain, otherwise ___ throughout
+
+DISCHARGE
+VS: 98.0PO 113 / 66 81 18 97 Ra 
+General: laying in bed in NAD
+Eyes: no scleral icterus, no conjunctival injection
+ENT: OP clear, MMM
+Heart: RRR no mrg
+Lungs: CTA bilaterally, no respiratory distress
+Abd: soft nontender, normoactive bowel sounds
+Ext: trace edema of L leg to knee  
+Skin: no rashes
+Neuro: AOx3, moving all extremities; ___ strength in RLE, 4+/5
+strength in proximal LLE with ___ strength in distal LLE. 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 08:45PM BLOOD WBC-7.0 RBC-4.63 Hgb-14.3 Hct-41.6 MCV-90 
+MCH-30.9 MCHC-34.4 RDW-12.2 RDWSD-40.1 Plt ___
+___ 08:45PM BLOOD Neuts-69.9 Lymphs-14.1* Monos-12.4 
+Eos-2.3 Baso-1.0 Im ___ AbsNeut-4.93 AbsLymp-0.99* 
+AbsMono-0.87* AbsEos-0.16 AbsBaso-0.07
+___ 08:45PM BLOOD Glucose-86 UreaN-7 Creat-0.6 Na-137 K-3.5 
+Cl-102 HCO3-22 AnGap-17
+___ 08:45PM BLOOD ALT-7 AST-20 AlkPhos-111 TotBili-0.6
+___ 08:45PM BLOOD TotProt-6.0* Albumin-3.5 Globuln-2.5 
+Calcium-8.6 Phos-3.8 Mg-1.7
+___ 08:45PM BLOOD PSA-18.3*
+
+DISCHARGE LABS:
+___ 03:49PM BLOOD WBC-4.4 RBC-4.12* Hgb-12.8* Hct-37.4* 
+MCV-91 MCH-31.1 MCHC-34.2 RDW-12.2 RDWSD-40.0 Plt ___
+___ 03:49PM BLOOD Glucose-99 UreaN-16 Creat-0.6 Na-137 
+K-4.2 Cl-98 HCO3-29 AnGap-14
+___ 03:49PM BLOOD ALT-15 AST-17 LD(LDH)-113 AlkPhos-97 
+TotBili-0.2
+___ 03:49PM BLOOD Albumin-3.7 Mg-2.___bd/Pelvis - ___
+1. Left extensive bladder wall thickening, continuous with the 
+prostate posterior inferiorly. Suspicious for either recurrent 
+prostate malignancy invading the bladder or a primary bladder 
+malignancy, the latter is more frequently associated with lytic 
+metastases.
+2. Lytic lesions scattered in the skeleton including a large
+medial left acetabular lesion. Right L5 neural arch lesion with
+extraosseous component causing right lateral recess stenosis, 
+right L5
+foraminal stenosis, probably impinging on the right L5, right S1 
+roots.
+3. Greater amount of left pelvic adenopathy. Greater amount of
+pathologic aortocaval retroperitoneal lymph nodes.
+4. Left bladder lesion obstructs the left UVJ, there is
+hydroureter and hydronephrosis, reduced excretion on the left.
+5. Uncomplicated sigmoid diverticulosis. Status post 
+aortobiiliac
+graft, with native iliac arterial thrombosis. Status post
+brachytherapy seed implant treatment of prostate.
+
+CT Chest PE - ___
+1. Numerous lytic lesions, none threatening thoracic thecal sac
+or compressing thoracic cord. Left pedicle lesions as noted 
+which
+encroach on left T3, left T4, left T6 neural foramina, details
+above. No pathological fracture identified.
+2. No evidence of pulmonary emboli or parenchymal metastases.
+3. Left first rib, right coracoid process lytic lesions. Left
+lower anterior chest wall superficial subcutaneous metastasis, 
+level of
+the sixth and seventh costal cartilages. Other incidental 
+findings as
+noted.
+ 
+CT Cspine - ___
+1. Lytic metastasis, largest in the right side of C7 centered in
+pedicle, encroaching on the right C7 foramen above, right C8
+neural foramen below this lesion. No high-grade thecal sac or 
+cervical
+cord compression here or at any other level.
+2. Additional lytic lesions in C6, T1. No pathological fracture.
+No malignant cervical thecal sac or cord compression is clearly
+shown.
+3. DJD C1/2, scattered in the facet joints as detailed.
+
+CT Head - ___ 
+1. Mild involution, minimal small vessel ischemic
+leukoencephalopathy. Otherwise normal CT scan of the head, 
+before and after IV contrast. 
+2. No acute hemorrhage, acute infarction, edema, mass, mass
+effect, enhancing lesion or lytic skull.
+
+MRI C/T/L spine
+1. Study is moderately degraded by motion and limited to the 
+lack
+of administration of intravenous contrast.  Please note that 
+this is
+an incomplete examination without acquisition of post-contrast 
+sequences as patient could not tolerate further imaging. 
+2. Significant progression of osseous metastatic disease, as 
+described, with both new and enlarging lesions, involving the 
+cervical, thoracic, and lumbar spine, left posterior first rib, 
+and bilateral iliac bones.  Bony expansion from a metastatic 
+lesions are seen at multiple levels, with suggestion of extra 
+cortical soft tissue extension at the L5 level producing mild 
+spinal canal narrowing and severe neural foraminal narrowing at 
+the right L5-S1 level with focal encasement of the exiting right 
+L5 nerve root.  Additional areas of extra cortical soft tissue 
+extension are possible, though difficult to characterize given 
+lack of intravenous contrast. 
+3. New mild pathologic superior endplate compression fracture of 
+the L2 vertebral body. 
+4. Interval decrease in size of a 16 x 5 mm mildly expansile 
+intramedullary spinal cord lesion at the level of T6. 
+5. Bony expansion from metastatic involvement produces mild left 
+T3-T4, moderate left T4-T5, and mild right T5-T6 neural 
+foraminal narrowing, progressed compared to prior examination. 
+6. Unchanged moderate to severe left-sided hydroureteronephrosis 
+with apparent transition point at the level of the mid to distal 
+left common iliac artery were there are presumed changes from 
+prior vascular surgery.  The mid left common iliac artery 
+appears irregular, better characterized on the outside hospital 
+CT examination. 
+7. Paraaortic and left iliac chain lymphadenopathy is better 
+characterized on the recent prior outside hospital CT 
+examination. 
+RECOMMENDATION(S):  Recommend additional postcontrast imaging, 
+when patient is able to tolerate. 
+
+___ - Dopper LLE
+Nonocclusive thrombus in the proximal left common femoral vein
+
+___ MRI T- and L-spine
+1. Multiple osseous lesions throughout the thoracolumbar spine, 
+unchanged from
+___ and progressed from ___, compatible 
+with known
+osseous metastasis.
+2. In comparison with the prior postcontrast study dated 
+___, there
+is increased enhancement of these osseous lesions with increase 
+in enhancing
+right L5 soft tissue mass encasing the right L5 exiting nerve 
+root.
+3. No new osseous lesions are seen when compared with the recent 
+study from ___.
+4. Unchanged mild L2 superior endplate compression deformity, 
+new from ___.
+5. Moderate to severe left-sided hydronephrosis, stable from ___.
+
+ 
+Brief Hospital Course:
+This is a ___ year old male with past medical history of prostate 
+cancer, hypertension, recent MRI ___ concerning for 
+metastatic disease without clear follow-up, admitted ___ 
+with signs of rapidly progressing metastatic disease 
+
+# Metastatic Prostate Cancer - Patient with recent history of 
+prior imaging from ___ and ___ that had been concerning 
+for progressing malignancy, but who had not had follow-up 
+appointments for additional workup, who was referred for 
+admission with imaging demonstrating significant progression of 
+malignancy.  This included significant osseous burden of disease 
+of cervical, thoracic, and lumbar spine, as well as ribs, iliac 
+bones.  Patient was seen by heme/onc service and underwent 
+biopsy of anterior chest wall mass that showed metastatic 
+prostate cancer.  He was started on IM lupron and bicalutamide.  
+He was seen by radiation oncology and urology as below. 
+
+# Acute L2 compression 
+# Metastases to Vertebrae
+On admission imaging, patient was found to have L2 compression 
+fracture and well as spinal cord lesion at T6. MRI quality was 
+degraded by motion and by early termination prior to 
+post-contrast images.  Patient was seen by spine service who 
+felt there were no concerning features on patients exam to 
+suggest cord compression.  He was fitted for TLSO brace and was 
+started on standing Tylenol with prn Oxycodone.  He was seen by 
+radiation oncology and underwent repeat MRI that showed which 
+showed stable metastatic spinal lesions.  He underwent 5 total 
+fractions of radiation treatment prior to discharge.
+
+# L Hydronephrosis and Hydroureter 
+# Bladder Mass
+Patient found to have admission imaging with L hydronephrosis 
+and hydroureter as well as a suspected infiltrating bladder 
+mass.  He was seen by urology service who, given stable 
+creatinine, recommended non urgent cystoscopy with transurethral 
+bladder tumor resection and ureteral stenting.  He was scheduled 
+for follow-up post-discharge.
+
+# History of Prostate Cancer - Continued doxazosin and 
+oxybutynin
+
+# Hypertension - Continued amlodipine, metoprolol
+
+# Peripheral Vascular Disease - Continued home statin
+
+Transitional Issues:
+[ ] Needs Urology f/u for L hydronephrosis and suspected bladder 
+ca (see above)
+
+Billing: greater than 30 minutes spent on discharge counseling 
+and coordination of care
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Doxazosin 4 mg PO DAILY 
+3. Simvastatin 10 mg PO QPM 
+4. Metoprolol Tartrate 50 mg PO BID 
+5. Oxybutynin 5 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H  
+2.  bicalutamide 50 mg oral DAILY  
+3.  Enoxaparin Sodium 50 mg SC Q12H 
+Start: ___, First Dose: Next Routine Administration Time  
+4.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Mild  
+5.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+6.  amLODIPine 5 mg PO DAILY  
+7.  Doxazosin 4 mg PO DAILY  
+8.  Metoprolol Tartrate 50 mg PO BID  
+9.  Oxybutynin 5 mg PO BID  
+10.  Simvastatin 10 mg PO QPM  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___      
+ 
+___ Diagnosis:
+Primary: Metastatic prostate cancer
+
+Secondary: L2 compression fracture, spinal metastases, left 
+lower extremity deep venous thrombosis, left hydronephrosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+Mr ___
+
+It was a pleasuring caring for you at ___.  You were admitted 
+with back pain and found to have signs of metastatic cancer.  
+You underwent biopsy that showed metastatic prostate cancer.  
+You were seen by urologists and oncologists who recommend 
+radiation therapy, which was performed during your stay. 
+
+You were also noted to have a swollen leg.  Ultrasound showed a 
+blood clot.  You were started on a blood thinner called lovenox. 
+
+
+Please return if you have worsening shortness of breath, 
+coughing up blood, or if you are having worsening pain, 
+numbness, or weakness 
+
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

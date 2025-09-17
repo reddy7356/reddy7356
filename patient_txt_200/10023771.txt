@@ -1,0 +1,230 @@
+===== DISCHARGE NOTE =====
+note_id=10023771-DS-21 | hadm_id=20044587
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Ticlid
+ 
+Attending: ___
+ 
+Chief Complaint:
+ shortness of breath on exertion
+
+ 
+Major Surgical or Invasive Procedure:
+___
+1. Coronary artery bypass graft x4:  Left internal mammary
+    artery to left anterior descending artery and saphenous
+    vein grafts to ramus obtuse marginal and posterior
+    descending arteries.
+2. Endoscopic harvesting of the long saphenous vein.
+
+ 
+History of Present Illness:
+___ very active male with history of CAD.  He jogs daily and 
+has
+noted an increase in dyspnea with jogging recently.  Stress test
+was abnormal and cath revealed three vessel coronary artery
+disease.  He is referred for surgical revascularization.
+
+ 
+Past Medical History:
+PMHx: S/P cardiac cath ___ with CAD noted, medically managed 
+Multiple Myeloma treated with chemotherapy every 3 months, most 
+recently in ___ (Due again at the end of ___, Hyperlipidemia 
+Hypertension, Elbow injury in his early ___, Tonsillectomy, left 
+elbow surgery
+
+Past Surgical History
+Tonsillectomy 
+left elbow surgery
+
+ 
+Social History:
+___
+Family History:
+Father died of MI in his early ___
+
+ 
+Physical Exam:
+Pulse: 54 Resp: 27  O2 sat: 98% 
+B/P  Right:    Left:  156/78
+Height: 5'8"    Weight: 170lb
+
+General: NAD, anxious, physically fit
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______ 
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema [] none__
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: cath   Left: 2+
+DP           Right: 2+  Left:2+
+___           Right: 1+  Left:1+
+Radial       Right: 2+  Left:2+
+
+Carotid Bruit: none appreciated
+
+ 
+Pertinent Results:
+___ Intra-op TEE
+PRE-BYPASS: 
+The left atrium is normal in size. No spontaneous echo contrast 
+or thrombus is seen in the body of the left atrium/left atrial 
+appendage or the body of the right atrium/right atrial 
+appendage. No atrial septal defect is seen by 2D or color 
+Doppler. 
+There is mild symmetric left ventricular hypertrophy. The left 
+ventricular cavity size is normal. There is mild regional left 
+ventricular systolic dysfunction with focalities in the apical 
+walls. Overall left ventricular systolic function is mildly 
+depressed (LVEF=45 %).
+Right ventricular chamber size and free wall motion are normal. 
+There are simple atheroma in the descending thoracic aorta. 
+The aortic valve leaflets (3) are mildly thickened. There is no 
+aortic valve stenosis. Mild to Moderate (2+) aortic 
+regurgitation is seen. 
+The mitral valve leaflets are mildly thickened. Mild (1+) mitral 
+regurgitation is seen. 
+There is a small pericardial effusion.
+Dr. ___ was notified in person of the results before surgical 
+incision.
+
+POST-BYPASS: 
+Normal RV systolic function.
+Intact thoracic aorta.
+LVEF 50%.
+Mild improvement of previously hypokinetic apex.
+No New valvular findings.
+.
+
+___ 05:30AM BLOOD WBC-4.1 RBC-2.75* Hgb-8.8* Hct-26.1* 
+MCV-95 MCH-32.0 MCHC-33.7 RDW-13.4 Plt ___
+___ 05:14AM BLOOD WBC-3.9* RBC-2.77* Hgb-8.8* Hct-25.9* 
+MCV-94 MCH-31.9 MCHC-34.1 RDW-13.3 Plt ___
+___ 05:30AM BLOOD UreaN-21* Creat-0.8 Na-140 K-4.3 Cl-103
+___ 04:38AM BLOOD Glucose-107* UreaN-16 Creat-0.9 Na-141 
+K-4.0 Cl-105 HCO3-30 AnGap-___RIEF HOSPITAL COURSE:
+The patient was admitted to the hospital and brought to the 
+operating room on ___ where the patient underwent CABG X 4.  
+Overall the patient tolerated the procedure well and 
+post-operatively was transferred to the CVICU in stable 
+condition for recovery and invasive monitoring.  Cefazolin was 
+used for surgical antibiotic prophylaxis.  Immediately 
+post-operatively, the patient had significant sanginous chest 
+tube output. Multiple products were given including PRBCs, Plts, 
+FFP, and Cryo. Protamine was also given for ACT in the 130's. 
+The patient's Hct decreased to 19. SBPs were high, and a Nitro 
+gtt was required for maintain normal BPs. CXR did not show 
+evidence of tamponade. The patient remained intubated overnight 
+with high PEEPs in attempts to decrease bleeding. Ultimately, 
+the output became less and serous in nature. Hct after 
+transfusions was 25. On POD 1, the patient was extubated. He was 
+alert and oriented and breathing comfortably.  The patient was 
+neurologically intact and hemodynamically stable on no inotropic 
+or vasopressor support.  Beta blocker was initiated and the 
+patient was gently diuresed toward the preoperative weight.  The 
+patient was transferred to the telemetry floor for further 
+recovery.  Chest tubes and pacing wires were discontinued 
+without complication.  The patient was evaluated by the physical 
+therapy service for assistance with strength and mobility. On 
+POD 3, Plavix was started (the patient was on Plavix before the 
+operation, however there is no history of stent placement). 
+Additionally, the patient had short bursts of A-Fib seen on 
+telemetry. SBP was stable and the patient was asymptomatic. His 
+beta-blocker was increased and Amiodarone was started orally.  
+By the time of discharge on POD 5 the patient was ambulating 
+freely, the wound was healing and pain was controlled with oral 
+analgesics.  He is in normal sinus rhythm. The patient was 
+discharged to ___ in good condition with 
+appropriate follow up instructions.
+ 
+Medications on Admission:
+___: AMLODIPINE 10', ATENOLOL 100', ATORVASTATIN 80', Plavix 
+75', Tricor 96', FINASTERIDE 5', ISOSORBIDE MONONITRATE ER 30', 
+NITROGLYCERIN 0.4 PRN, Flomax 0.4' 
+
+ 
+Discharge Medications:
+1. Amlodipine 5 mg PO DAILY 
+Hold for sbp<100 
+2. Atorvastatin 80 mg PO DAILY 
+3. Clopidogrel 75 mg PO DAILY 
+4. Finasteride 5 mg PO DAILY 
+5. Tamsulosin 0.4 mg PO HS 
+6. Tricor *NF* (fenofibrate nanocrystallized) 96 mg ORAL DAILY 
+7. Acetaminophen 650 mg PO Q4H:PRN pain 
+8. Amiodarone 400 mg PO BID 
+___ bid x 1 week, then 400mg daily x 1 week, then 200mg dailyq 
+
+9. Aspirin EC 81 mg PO DAILY 
+10. Furosemide 20 mg PO DAILY Duration: 1 Weeks 
+11. Metoprolol Tartrate 50 mg PO TID 
+Hold for HR < 55 or SBP < 90 and call medical provider. 
+12. Potassium Chloride 20 mEq PO DAILY Duration: 1 Weeks 
+Hold for K+ > 4.5 
+13. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+RX *tramadol 50 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*40 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary Artery Disease, s/p CABG
+PMH:
+S/P cardiac cath ___ with CAD noted, medically managed
+Multiple Myeloma treated with chemotherapy every 3 months, most
+  recently in ___ (Due again at the end of ___
+Hyperlipidemia
+Hypertension
+Elbow injury in his early ___
+
+Past Surgical History
+Tonsillectomy 
+left elbow surgery
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, deconditioned
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+trace edema
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___

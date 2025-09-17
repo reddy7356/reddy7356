@@ -1,0 +1,235 @@
+===== DISCHARGE NOTE =====
+note_id=11695252-DS-12 | hadm_id=21368481
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pre-syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with history of hypertension, SVT status post ablation, 
+presenting with recurrent episodes of presyncope where she 
+states that she feels a rush of warmth up her belly and into her 
+head, unable to concentrate, and feel that she is about to pass 
+out. She states the feeling is like when receiving adenosine and 
+has a difficult time describing it. She does say it is different 
+than her SVT from ___, and at that time she could feel 
+palpitations while now she does not feel her heart race. She 
+denies any prodromal symptoms and any frank LOC. Also denies, 
+nausea/vomiting, diarrhea, diaphoresis, vertigo, headache, or 
+seizure-like activity. The episodes began 2 weeks prior, and 
+started at a frequency of ___. They steadily increased and 
+today she had about 15 episodes. They mostly happen when she is 
+sitting but can happen in any setting. They are not associated 
+with getting up from sitting to standing. Of note, patient does 
+have significant life stressors including an ongoing divorce and 
+also losing her home. She does acknowledge the possibility of 
+these being panic attacks.
+In ___, patient was found to be in a narrow complex tachycardia 
+at a rate of 200 beats per minute. She was given Adenosine x1 
+which successfully broke her rhythm. She was admitted overnight 
+and the following morning had another episode of SVT at a rate 
+of 150bpm. She was again treated with adenosine which converted 
+her back to sinus rhythm. She was discharged home on Diltiazem, 
+and subsequently underwent ablation at ___
+In the ED, initial vs were 98 70 186/89 18 100% . BP went down 
+to 135/75. Labs revealed negative troponin, normal chem 10, and 
+CBC with macrocytic red blood cell indices, although no anemia. 
+EKG Received aspirin 81 mg.
+REVIEW OF SYSTEMS:
+Denies fever, chills, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, shortness of breath, 
+chest pain, abdominal pain, nausea, vomiting, diarrhea, 
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.
+All other 10-system review negative in detail. 
+ 
+Past Medical History:
+SVT s/p ablation in ___
+HTN
+Tobacco abuse
+Hepatitis B of unclear etiology
+Asthma 
+ 
+Social History:
+___
+Family History:
+Mother and Aunt with breast cancer. Diabetes in mother and 
+brother
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS 98.7 150/93 68 18 99% RA
+GEN Alert, oriented, no acute distress
+HEENT NCAT MMM EOMI sclera anicteric, OP clear
+NECK supple, no JVD, no LAD
+PULM scattered wheezes
+CV RRR normal S1/S2, no mrg
+ABD soft NT ND normoactive bowel sounds, no r/g
+EXT WWP 2+ pulses palpable bilaterally, no c/c/e
+NEURO CNs2-12 intact, motor function grossly normal
+SKIN no ulcers or lesions 
+
+DISCHARGE EXAM
+VS 98.3 142/64 60 18 99% RA  
+Orthostatics yesterday- supine 128/72, 65-->standing 144/81, 69  
+
+GEN Alert, oriented, no acute distress  
+HEENT NCAT MMM EOMI sclera anicteric, OP clear  
+NECK supple, no JVD, no LAD  
+PULM scattered wheezes  
+CV RRR normal S1/S2, no mrg  
+ABD soft NT ND normoactive bowel sounds, no r/g  
+EXT WWP 2+ pulses palpable bilaterally, no c/c/e  
+NEURO CNs2-12 intact, motor function grossly normal  
+SKIN no ulcers or lesions  
+
+ 
+Pertinent Results:
+Admission Labs
+
+___ 03:50PM   WBC-10.3 RBC-4.56 HGB-15.6 HCT-48.0 MCV-105*# 
+MCH-34.3* MCHC-32.6 RDW-12.0
+___ 03:50PM   NEUTS-64.2 ___ MONOS-7.6 EOS-1.5 
+BASOS-1.0
+___ 03:50PM   PLT COUNT-255
+___ 03:50PM   GLUCOSE-93 UREA N-8 CREAT-0.6 SODIUM-140 
+POTASSIUM-4.0 CHLORIDE-102 TOTAL CO2-25 ANION GAP-17
+___ 03:50PM   estGFR-Using this
+___ 03:50PM   cTropnT-<0.01
+___ 03:50PM   TSH-2.8
+___ 03:50PM URINE  HOURS-RANDOM
+___ 03:50PM URINE  UHOLD-HOLD
+
+Discharge Labs
+
+___ 07:10AM BLOOD WBC-8.0 RBC-4.40 Hgb-14.7 Hct-46.6 
+MCV-106* MCH-33.5* MCHC-31.6 RDW-12.4 Plt ___
+___ 07:10AM BLOOD Glucose-85 UreaN-11 Creat-0.6 Na-137 
+K-4.2 Cl-103 HCO3-23 AnGap-15
+
+Reports
+
+ECG
+Sinus arrhythmia at lower limits of normal rate. No previous 
+tracing available for comparison. There is considerable 
+artifact. Consider repeat tracing if clinically indicated. 
+  
+
+ 
+Brief Hospital Course:
+Impression: ___ y/o F with PMHx of SVT s/p ablation, HTN, asthma 
+who presented for recurrent pre-syncopal episodes for 2 weeks 
+duration thought to be due to anxiety
+
+#Pre-syncopal episodes- Initial concerns were for recurrent SVT 
+vs. new arrhythmia vs. structural heart disease (i.e atrial 
+myxoma) vs. hyperthyroidism vs. vs. anxiety vs. autonomic 
+instability vs. orthostasis. Her symptomatology was quite 
+different than her presentation ___ years prior per record review. 
+She does not feel palpitations and is at a normal rate, which 
+makes structural disease somewhat more likely. Patient was 
+placed on telemetry overnight, which did not reveal SVT but 
+confirmed sinus arrhythmia.  Echocardiography was considered, 
+but give no murmer, unremarkable ECG, and lack of family 
+history, this was deferred.  Orthostatics were negative.  
+Laboratory workup was negative for anemia or thyroid disease.  
+Her history was remarkable for significant stressors, including 
+losing her home and going through a divorce.  We offered her 
+social work consult but she politely declined.  Stated she will 
+seek counsel through recommendations with her PCP.  She was also 
+discharged with ___ of hearts monitor to ensure no intrinsic 
+arrhythmia.   
+
+#HTN- Pt had currently been on atenolol and amlodipine with 
+baseline BPs in the 130s to 160s, but amlodipine recently 
+stopped by patient due to leg swelling. Presented to ED in the 
+180s and came down to the 150s without. We continued home 
+atenolol 50 mg BID.
+
+#Asthma- not currently taking any outpatient meds. Pt was found 
+to have wheezes on exam and given albuterol nebs q 6 hrs prn and 
+was discharged on albuterol inhaler
+
+#Transitional Issues
+-Pt will follow up with PCP, ___ will follow up 
+results ___ of hearts monitor
+
+-Pt may benefit from social support, therapy, or psych resources 
+given stressors.  She states she wants to seek a counselor and 
+that she has resources through her PCP. She politely declined 
+our help in seeking one.
+
+-As stated earlier, patient was wheezy on exam. Stated she has 
+asthma but did not have medications at home. Will be discharged 
+with an albuterol inhaler and told to follow up on this issue 
+with PCP.
+  
+CODE: Full (confirmed with patient ___  
+EMERGENCY CONTACT: Brother ___ ___ HCP? Y/N  
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 50 mg PO BID 
+
+ 
+Discharge Medications:
+1. Atenolol 50 mg PO BID 
+2. Albuterol Inhaler ___ PUFF IH Q6H:PRN wheezing 
+RX *albuterol  ___ puffs inhaled every 6 hours as needed Disp 
+#*1 Inhaler Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+-Pre-syncope
+
+Secondary
+-Hx of SVT s/p ablation
+-Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms ___,
+
+It was a pleasure taking care of you while at ___.  You were 
+admitted for "pre-syncopal" episodes where you felt like you 
+were going to pass out.  We monitored your heart rhythm on 
+telemetry overnight which showed it was at a normal rate.  We 
+reviewed your outside records and it appears you have had a 
+normal echocardiogram from ___, which is reassuring.
+
+Please wear your ___ of Hearts", which is a cardiac event 
+monitor, and press the button should your symptoms come back.  
+Your PCP, ___ follow up the results.
+
+Please follow up with your PCP as scheduled below
+ 
+Followup Instructions:
+___

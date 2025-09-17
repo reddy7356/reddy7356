@@ -1,0 +1,414 @@
+===== DISCHARGE NOTE =====
+note_id=11505788-DS-10 | hadm_id=26781633
+
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Early recurrent HCV, leukopenia
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+The patient is a ___ man who is s/p orthotopic 
+deceased-donor liver transplant performed on ___, for 
+Hepatitis C-related cirrhosis complicated by portal hypertension 
+and hepatocellular carcinoma. On routine labs today he was found 
+to have leukopenia with a WBC of 1.8. He has been having 
+frequent labs drawn since his transplant, which have shown a 
+progressive rise in his transaminases, and over the last 10 days 
+a rise in his alkaline phosphatase and bilirubin as well, 
+concerning for transplant rejection vs. early recurrent HCV. 
+Tacrolimus levels during this time have been therapeutic. Liver 
+biopsy on ___ showed evidence of early recurrent viral 
+hepatitis C with minimal evidence for acute cellular rejection. 
+Repeat biopsy on ___ showed evidence of early recurrent viral 
+hepatitis C without diagnostic features of acute cellular 
+rejection, as well as focal minimal portal fibrosis (stage ___. 
+CTA of the abdomen and pelvis on ___ showed no evidence for 
+recurrence of hepatocellular carcinoma, and normal 
+post-transplant vasculature. AFP on ___ was elevated to 9.5 
+(from 3.8 post-transplant). HCV VL on ___ was 1,580,000. He is 
+being admitted today for treatment of recurrent HCV.
+
+On ROS, he confirms occasional frontal H/A, and mild 
+intermittent nausea. Had recent diarrhea, now resolved, with no 
+melena or hematochezia. Also denies fever, chills, wt changes, 
+anorexia, fatigue, vomiting, abdominal pain. Further ROS 
+negative.
+ 
+Past Medical History:
+# Hepatitis C
+- genotype 1, identified ___ yrs ago due to abnormal LFTs
+- cirrhosis on biopsy ___
+- s/p trial of interferon/ribavirin x6 months in ___, 
+complicated by incomplete response and dose-limiting side 
+effects
+- EGD ___: mild portal hypertensive gastropathy in the body
+- hepatocellular carcinoma s/p chemoembolization ___
+- s/p OLT on ___
+# CKD
+# h/o Tb - Dx age ___ in ___ spent 8 months in 
+sanitarium
+- cannot remember if treated with INH therapy
+# DM - secondary to steroids, no prior history
+# GERD - Dx ___, s/p H. pylori eradication
+# Pulmonary HTN - mild, with PASP 31 on right heart cath
+# Osteopenia - noted in spine on BMD ___
+# s/p appendectomy, ___
+# s/p left inguinal hernia repair, ___
+# Migraines
+# Glaucoma 
+ 
+Social History:
+___
+Family History:
+Mother dx with stomach Ca at ___.
+Father died of "old age".
+2 half-bros, 1 half-sis, all healthy. 
+ 
+Physical Exam:
+VS - Temp 98.5, BP 134/90, HR 65, R 20, O2-sat 99% RA
+GENERAL - well-appearing man in NAD, comfortable, appropriate, 
+ambulating around unit
+HEENT - sclerae with mild icterus, conjunctivae clear, MMM, OP 
+clear
+NECK - supple, no LAD
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp 
+unlabored, no accessory muscle use
+HEART - RRR, no MRG, nl S1-S2
+ABDOMEN - NABS, soft/NT/ND, well healed ___ scar, no masses 
+or HSM, no rebound/guarding
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)
+SKIN - port wine stain in distribution of right CN V1
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, moves all ext 
+well 
+ 
+Pertinent Results:
+___ 08:40AM BLOOD WBC-1.8* RBC-4.74 Hgb-14.3 Hct-41.5 
+MCV-88 MCH-30.1 MCHC-34.4 RDW-14.4 Plt ___
+___ 05:45AM BLOOD Neuts-54 Bands-4 ___ Monos-13* 
+Eos-3 Baso-0 ___ Metas-1* Myelos-0
+___ 08:40AM BLOOD ___
+___ 05:45AM BLOOD ___ ___
+___ 08:40AM BLOOD UreaN-26* Creat-1.5* Na-137 K-4.5 Cl-105 
+HCO3-23 AnGap-14
+___ 08:40AM BLOOD ALT-232* AST-340* AlkPhos-204* 
+TotBili-3.1* DirBili-2.3* IndBili-0.8
+___ 08:40AM BLOOD Albumin-4.2 Calcium-9.1 Phos-3.4 Mg-1.4*
+___ 08:40AM BLOOD tacroFK-12.9
+
+CT Chest (___):
+IMPRESSION:
+1. No evidence of intrathoracic metastatic disease.
+2. Approximately 2.4-cm focus of enhancement at the right lobe 
+of the liver,
+incompletely evaluated on this study. Given patient's history, 
+further
+evaluation with contrast-enhanced MRI is recommended.
+.
+___ 05:40AM BLOOD WBC-3.8* RBC-4.45* Hgb-13.4* Hct-39.7* 
+MCV-89 MCH-30.1 MCHC-33.7 RDW-15.2 Plt Ct-53*
+___ 05:35AM BLOOD Neuts-68 Bands-8* Lymphs-8* Monos-16* 
+Eos-0 Baso-0 ___ Myelos-0
+___ 05:40AM BLOOD ___ ___
+___ 05:40AM BLOOD ALT-200* AST-273* AlkPhos-345* 
+TotBili-2.0*
+___ 05:40AM BLOOD Calcium-8.8 Phos-4.1 Mg-1.5*
+___ 05:40AM BLOOD tacroFK-5.___) Recurrent HCV s/p liver transplant: Patient's transaminases 
+have been slowly trending up, and most recently his bili and alk 
+phos were elevated. Recent liver biopsies showed early recurrent 
+HCV, and notably have not shown evidence of acute rejection. His 
+immunosuppressants are being tapered down now that he is ___ 
+months s/p transplant. Specifically, cellcept was discontinued 
+at his clinic appointment on day of admission and his tacrolimus 
+0.5mg was dropped from BID to daily on admission. CT chest 
+performed on day of admission to eval for ___ mets showed a 
+2.4cm right liver lobe lesion. He had subsequent MRI, as well as 
+MRCP to evaluate his rising bilirubin, which showed no 
+concerning liver lesion but pancreatic head cyst. On hospital 
+day 2, he was started on ribavirin 200 qam and 400 qpm, as well 
+as inteferon alfacon-1 15mcg qpm. The IFN was preceded by 1L IVF 
+hydration and 500mg acetaminophen to decrease side effects, 
+although he experienced headache, chills, fever and rigors 
+following the first dose. Blood and urine cultures were sent due 
+to the fevers, and showed no significant growth.
+
+2) Leukopenia: Likely due to his immunosuppressants. He has been 
+tapered off some of his immunosuppression as above. He was 
+started on filgrastim SC 480mcg three times weekly, and his WBC 
+and ANC increased and his ANC was approximately 2500 at time of 
+d/c.
+ 
+Medications on Admission:
+- Questran 4grams PO BID PRN pruritus
+- Lispro ISS
+- Latanoprost 1gtt OS QHS
+- Cellcept 250mg PO BID - stopped ___
+- Tacrolimus 0.5mg daily - new dose starting in AM on ___
+- Bactrim SS 1tab PO daily
+- Caltrate-600 plus Vitamin D3 PO daily
+- MVI PO daily
+- Omeprazole 40mg PO daily 
+ 
+Discharge Medications:
+1. Tacrolimus 0.5 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).
+Disp:*30 Capsule(s)* Refills:*2*
+2. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+3. Omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+4. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at 
+bedtime).  
+5. Caltrate-600 Plus Vitamin D3 600-400 mg-unit Tablet Sig: One 
+(1) Tablet PO once a day.  
+6. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+7. Ribavirin 200 mg Capsule Sig: One (1) Capsule PO QAM (once a 
+day (in the morning)).  
+8. Ribavirin 200 mg Capsule Sig: Two (2) Capsule PO QPM (once a 
+day (in the evening)).  
+9. Acetaminophen 500 mg Tablet Sig: One (1) Tablet PO 1 HOUR 
+BEFORE EACH INTERFERON DOSE ().  
+10. Filgrastim 480 mcg/1.6 mL Solution Sig: One (1) Subcutaneous 
+injection Injection MTh (___) twice weekly.  
+11. Cholestyramine-Sucrose 4 gram Packet Sig: One (1) Packet PO 
+QID (4 times a day) as needed for pruritus.
+Disp:*120 Packet(s)* Refills:*0*
+12. Insulin Lispro 100 unit/mL Solution Sig: SLIDING SCALE  
+Subcutaneous ASDIR (AS DIRECTED).  
+13. Pegasys
+Please administer Pegasys 135 mcg shots every ___ starting 
+___.  
+14. Outpatient Lab Work
+You should get twice weekly lab work drawn at the ___ 
+on ___ and ___, starting on ___.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Early recurrent Hepatitis C infection in liver transplant
+2. Leukopenia
+.
+Secondary Diagnoses:
+- Chronic Kidney Disease
+
+ 
+Discharge Condition:
+Afebrile, vital signs stable.
+
+ 
+Discharge Instructions:
+You were admitted to ___ for 
+your rising liver function tests and low white blood cell count. 
+Based off your recent liver biopsies, there was concern for 
+recurrent Hepatitis C infection in your liver transplant, so you 
+were started on Interferon and Ribavirin for treatment of the 
+virus. You were also started on Neupogen for your low white cell 
+count. You had some fevers and headache, but you were not found 
+to have an infection, so this was attributed to the Interferon 
+treatments. 
+
+You should continue to take the current doses of weekly 
+Pegasys-Interferon (every ___, 1st dose on ___ and 
+daily Ribavirin (200mg in the morning, 400mg in the evening). 
+You should take the Neupogen two times a week (every ___ and 
+___.  Your Pegasys-Interferon, Ribavirin and Neupogen will 
+be sent to your house.  Please note that EXTRA doses of 
+ribavirin have been ordered for you.
+
+A new medication called cholestyramine was started to help 
+control your itching. This prescription has been given to you.
+
+Please keep all your medical appointments.  
+
+You will need to get twice weekly lab draws on ___ and 
+___ at the ___ Building. Your first lab draw will be on 
+___.  Please go to Transplant Clinic to see Dr. 
+___ your lab draw.
+
+If you develop any of the following concerning symptoms, please 
+call your physician or go to the nearest ED: fever>100.6, chest 
+pain, shortness of breath, abdominal pain, or any other 
+concerning symptoms.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11505788-DS-9 | hadm_id=28978635
+
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hepatocellular carcinoma and HCV related cirrhosis, now here for 
+liver transplant.
+
+ 
+Major Surgical or Invasive Procedure:
+___: Orthotopic liver transplant
+ 
+History of Present Illness:
+The patient is a ___- old male who has HCV related cirrhosis 
+complicated by portal hypertension and the development of 
+hepatocellular carcinoma,
+status post chemoembolization. He has a lab MELD score of 11 and 
+an exception MELD score of 25. He was last seen in clinic about 
+2 months ago. Has been feeling well, no GI symptoms, no 
+encephalopathy.
+ 
+Past Medical History:
+HCV with cirrhosis (failed interferon therapy)
+Hepatocellular Carcinoma
+s/p chemoembolization
+ 
+Social History:
+___
+Family History:
+Mother with gastric cancer
+father deceased; unknown cause
+ 
+Physical Exam:
+VS: 97.9, 90, 153/88, 20, 100% RA
+Gen: NAD
+Sclera nonicteric
+Lungs: Clear to auscultation
+Card: RRR
+Abd: Soft, non-tender, non-distended, + BS
+Extr: No edema or cyanosis
+ 
+Pertinent Results:
+On Admission: ___
+WBC-3.5* RBC-4.54* Hgb-14.3 Hct-43.4 MCV-96 MCH-31.6 MCHC-33.0 
+RDW-15.2 Plt Ct-59*
+___ PTT-33.9 ___
+Glucose-85 UreaN-12 Creat-0.9 Na-141 K-4.1 Cl-109* HCO3-21* 
+AnGap-15
+ALT-85* AST-102* AlkPhos-211* TotBili-2.0*
+Albumin-3.2* Calcium-8.7 Phos-2.3* Mg-1.6
+On Discharge: ___ 
+WBC-4.0 RBC-3.50* Hgb-11.8* Hct-32.5* MCV-93 MCH-33.5* 
+MCHC-36.2* RDW-15.8* Plt Ct-62*
+Glucose-81 UreaN-22* Creat-1.1 Na-141 K-4.0 Cl-108 HCO3-27 
+AnGap-10
+ALT-157* AST-68* AlkPhos-146* TotBili-0.8
+tacroFK-13.___ y/o male admitted for orthotopic liver transplant. He went to 
+the OR with Dr ___. In summary this was an Orthotopic 
+deceased donor liver transplant (piggyback) portal vein to 
+portal vein anastomosis, common bile duct to common bile duct 
+anastomosis (no T tube), branch patch (recipient) to celiac axis 
+patch
+(donor). Donor replaced left hepatic artery from the left 
+gastric.
+He received standard induction immunosuppression to include 
+solumedrol 500 mg intra-op with standard taper.
+In the post op period, the patient progressed rapidly. He was 
+ambulating, tolerating diet and learning his medications.
+Both drains were removed prior to discharge.
+He is to be discharged with daily fingersticks. Dr ___ to 
+determine need for insulin based on home readings which were 
+rarely above 160 while hospitalized.
+He was having some diarrhea prior to discharge, a C diff was 
+sent which was returned as a POSITIVE result. Transplant 
+coordinator was notified.
+
+ 
+Medications on Admission:
+clotrimazole 10, xalatan 1 gtt each eye qHS
+ 
+Discharge Medications:
+1. Fluconazole 200 mg Tablet Sig: Two (2) Tablet PO Q24H (every 
+24 hours).  
+2. Prednisone 5 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily): 
+Taper per transplant clinic guideline.  
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+4. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+6. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed: No more than 2 grams daily (6 tablets).  
+7. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+8. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at 
+bedtime).  
+9. Valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+10. Mycophenolate Mofetil 500 mg Tablet Sig: Two (2) Tablet PO 
+BID (2 times a day).  
+11. One Touch Ultra 2     Kit Sig: One (1) kit
+ Miscellaneous once a day.
+Disp:*1 kit* Refills:*0*
+12. One Touch II Test     Strip Sig: One (1) strip In ___ 
+twice a day.
+Disp:*2 bottles* Refills:*2*
+13. Lancets     Misc Sig: One (1)  Miscellaneous twice a day: 
+For fingerstick blood sugars.
+Disp:*2 bottles* Refills:*2*
+14. Tacrolimus 1 mg Capsule Sig: Three (3) Capsule PO Q12H 
+(every 12 hours) for 2 weeks.
+Disp:*100 Capsule(s)* Refills:*0*
+15. Tacrolimus 5 mg Capsule Sig: One (1) Capsule PO twice a day 
+for 2 weeks.
+Disp:*28 Capsule(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+HCV cirrhosis now s/p orthotopic liver transplant
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Please call the transplant clinic at ___ for fever > 
+101, chills, nausea, vomiting, diarrhea, inability to take or 
+keep down medications.
+Monitor the incision for redness, drainage or bleeding.
+No heavy lifting
+Do not drive if taking narcotic pain medications
+Have labwork done every ___ and ___ per transplant 
+clinic recommendations. Have labs faxed to ___
+Check finger stick blood sugar before eating in the morning and 
+late in the afternoon. Record the results and bring with you to 
+clinic visits. For now you will not be on insulin
+ 
+Followup Instructions:
+___

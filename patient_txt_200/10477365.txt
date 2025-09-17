@@ -1,0 +1,188 @@
+===== DISCHARGE NOTE =====
+note_id=10477365-DS-21 | hadm_id=22309879
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abnormal uterine bleeding
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+31 G2P1011 with history of PE (___) and unprovoked LUE DVT x 
+1 (___), currently anticoagulated on xarelto, presents with 
+heavy vaginal bleeding x4 days. Patient presented to ___ 
+over the weekend due to heavy bleeding and feeling faint and 
+TVUS revealed no IUD in the uterus. She was discharged without 
+any medications.
+
+She continues to pass quarter size blood clots and has crampy 
+pelvic and back pain. She reports fatigue, lightheadedness, and 
+headaches. Denies CP/SOB.
+ 
+Past Medical History:
+PGyn: Not currently sexually active in the past month, but has a
+male partner. Had been amenorrheic with IUD in place until now.
+Prior to this had moderate flow and regular monthly periods.
+
+POb: G1 TAB, G2 c-section for arrest of dilation and NRFHT
+
+PMH: obesity, sickle cell trait, hx of PE and LUE DVT, asthma, 
+hx of expelled IUD in ___
+
+PSH: c-section, wisdom teeth, D&C
+
+ 
+Social History:
+denies etoh/tobacco/drug use
+
+ 
+Physical Exam:
+Admission PE
+VS 98.1 106->91 123/58 98%
+orthostatics: 
+ lying ___
+ standing 126/78 105
+Gen: NAD
+CV: RRR
+Pulm: CTAB
+Abd: obese, soft, NT
+Pelvic: 25cc clot evacuated from cervical os with 2 scopettes of
+BRB, closed os, no CMT, unable to appreciate uterus or adnexa 
+due
+to habitus
+Ext: NT, no edema
+
+Discharge exam:
+Vitals: VSS
+Gen: NAD, A&O x 3
+CV: RRR
+Resp: no acute respiratory distress
+Abd: soft, appropriately tender, no rebound/guarding, incision 
+c/d/i
+GU: pad with minimal spotting
+Ext: no TTP
+
+ 
+Pertinent Results:
+___ 10:37AM   HCT-27.6*
+___ 06:26AM   HCT-26.6*
+___ 07:35PM   CREAT-0.9
+___ 07:35PM   estGFR-Using this
+___ 07:35PM   HCG-<5
+___ 07:33PM   WBC-10.5 RBC-3.79* HGB-10.9* HCT-29.3*# 
+MCV-77* MCH-28.6 MCHC-37.0* RDW-13.9
+___ 07:33PM   PLT COUNT-248
+___ 07:33PM   ___ PTT-34.9 ___
+___ 07:33PM   ___  KUB
+FINDINGS:  
+  
+The bowel gas pattern is nonspecific and nonobstructive. There 
+are no 
+abnormally dilated loops of small or large bowel. There is no 
+evidence of 
+pneumatosis or pneumoperitoneum. The visualized osseous 
+structures are 
+unremarkable.No soft tissue calcifications or radiopaque foreign 
+bodies are detected. 
+  
+IMPRESSION:  
+  
+No IUD detected. 
+
+ 
+Brief Hospital Course:
+On ___, Ms. ___ was admitted to the GYN service with 
+abnormal uterine bleeding. She was started on provera 10mg 
+daily. Her bleeding improved and by time of discharge, her HCT 
+was stable at around 27. Her xarelto was immediately held due to 
+possibility of OR procedure but was resumed when patient's 
+bleeding improved. Given the question of expelled IUD, a KUB was 
+obtained which showed no IUD. 
+
+By time of discharge, she was tolerating a regular diet, 
+ambulating independently, and bleeding had improved. She was 
+then discharged home in stable condition with outpatient 
+follow-up scheduled
+
+ 
+Medications on Admission:
+xarelto 20mg daily, pulmicort prn, albuterol prn, folic acid, 
+iron, MVI, Vit D
+
+ 
+Discharge Medications:
+1. Acetaminophen ___ mg PO Q6H:PRN pain 
+do not exceed 4g in 24 hours 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every six (6) 
+hours Disp #*30 Tablet Refills:*0
+RX *acetaminophen 500 mg ___ tablet(s) by mouth q6 hours Disp 
+#*30 Tablet Refills:*0
+2. Ferrous Sulfate 325 mg PO BID 
+Take with stool softener (Colace). Goal 1 bowel movement daily 
+without straining. 
+RX *ferrous sulfate 325 mg (65 mg iron) 1 tablet(s) by mouth 
+twice a day Disp #*60 Tablet Refills:*1
+3. MedroxyPROGESTERone Acetate 10 mg PO DAILY 
+RX *medroxyprogesterone 10 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*1
+4. Rivaroxaban 20 mg PO/NG DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+abnormal uterine bleeding
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the gynecology service after presenting 
+with heavy vaginal bleeding. You were started on provera to help 
+with the vaginal bleeding. You have recovered well and the team 
+believes you are ready to be discharged home. Please call Dr. 
+___ office with any questions or concerns. Please follow the 
+instructions below.
+
+General instructions:
+* Take your medications as prescribed.
+* Do not take more than 4000mg acetaminophen (APAP) in 24 hrs.
+* You may eat a regular diet.
+* You may walk up and down stairs.
+Call your doctor for:
+* fever > 100.4F
+* severe abdominal pain
+* difficulty urinating
+* vaginal bleeding requiring >1 pad/hr
+* abnormal vaginal discharge
+* nausea/vomiting where you are unable to keep down fluids/food 
+or your medication
+
+To reach medical records to get the records from this 
+hospitalization sent to your doctor at home, call ___.
+
+ 
+Followup Instructions:
+___

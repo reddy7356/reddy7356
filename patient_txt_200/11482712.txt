@@ -1,0 +1,472 @@
+===== DISCHARGE NOTE =====
+note_id=11482712-DS-17 | hadm_id=20128025
+
+ 
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+___ 1. Mitral valve repair, resection of P1 segment and 
+repair with 26-mm ___ Future ring and removal of vegetations from 
+the anterior mitral leaflet. 2. Removal of vegetations from the 
+tricuspid valve. 3. Patent foramen ovale closure.
+ 
+History of Present Illness:
+___ year old female with a history significant for IVDA (on 
+suboxone but pt endorses using heroin actively) who was found by 
+her parents ___ her room somnolent. She was taken to ___ 
+___ and on admission, she had AMS, low BP, fevers, 
+tachycardia. Lumbar puncture was performed with 33wbc, 362 rbc, 
+glc 57, total protein 60. Head imaging was positive for septic 
+emboli, and she also has ___ lesions on exam. Blood cultures 
+from ___ grew GPC ___ clusters. She received 1g vanc, 2g CTX, 
+and 700mg IV acyclovir. She was admitted to the medicine floor 
+and she was mentating well and vital signs were stable until she 
+developed hypotension. A right femoral CV was placed and she was 
+taken to the MICU, where she responded to IVF. She was 
+transferred to ___ for further management of fever, 
+tachycardia, hypotension ___ the setting of presumed 
+endocarditis. At ___, her EKG showed intermittent junctional 
+rhythm and echocardiogram showed no evidence of vegetation. MRI 
+of brain was attempted but unable to be completed due to ___ 
+intolerance. Neurology was consulted and recommended MRI/MRA 
+head and neck and EEG given extensive septic emboli. A TEE was 
+done and showed a large vegetation on mitral valve and a 
+moderate sized vegetation on tricuspid valve. She was then 
+referred to cardiac surgery for evaluation.
+ 
+Past Medical History:
+Endocarditis
+IVDA
+Anxiety
+Depression
+ 
+Social History:
+___
+Family History:
+Premature coronary artery disease- non contributory
+ 
+Physical Exam:
+Preoperative Physical Exam
+Pulse:70 Resp:18  O2 sat:100/3L
+B/P  ___
+Height:5'9"     Weight:140 lbs
+
+General: NAD, AAO, verbally interactive but easily distractable
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds 
++ []
+Extremities: Warm [x] well-perfused [x]  Edema [] _____ 
+petechial and splinter hemorrhages on bilateral extremities
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 1+  Left: 1+
+___           Right: 1+  Left: 1+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit        Right: none    Left: none
+
+Discharge Physical Exam:
+Pulse:90, NSR Resp:18  O2 sat:98% on RA
+B/P  95/60  Tmax 98.8, current 98.2F
+Height:5'9"     Weight:67.8 kg
+
+General: Mildly anxious about hospital transfer
+Skin:  Warm [x] Dry [x] intact [x]
+HEENT: Pupils equal [x] 
+Neck:  Supple [x] Full ROM [x] No JVD [x]
+Chest: Lungs clear with bilateral basilar rales (R>L) [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds 
++ [x]
+Extremities: Warm [x] well-perfused [x]  Edema: none
+Right UE PICC site C/D/I
+Neuro: Grossly intact [x]
+Pulses:
+DP           Right: 2+  Left: 2+
+___           Right: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 01:31AM BLOOD WBC-10.0 RBC-3.72* Hgb-10.1* Hct-28.9* 
+MCV-78* MCH-27.1 MCHC-34.8 RDW-13.4 Plt Ct-80*
+___ 01:56AM BLOOD Hypochr-1+ Anisocy-2+ Poiklo-3+ 
+Macrocy-OCCASIONAL Microcy-OCCASIONAL Polychr-1+ Ovalocy-1+ 
+Target-OCCASIONAL Schisto-2+ Burr-2+
+___ 01:31AM BLOOD ___ PTT-28.6 ___
+___ 01:56AM BLOOD ___ 01:31AM BLOOD Glucose-119* UreaN-15 Creat-0.4 Na-144 
+K-2.4* Cl-112* HCO3-20* AnGap-14
+___ 10:30AM BLOOD Na-145 K-3.0* Cl-116*
+___ 01:31AM BLOOD ALT-28 AST-35 LD(LDH)-439* AlkPhos-64 
+TotBili-0.4
+___ 01:31AM BLOOD Calcium-8.2* Phos-2.6* Mg-1.9
+___ 01:31AM BLOOD Hapto-267*
+___ 02:12AM BLOOD Lactate-1.4
+___ 04:42AM BLOOD WBC-5.4 RBC-2.89* Hgb-8.3* Hct-25.5* 
+MCV-88 MCH-28.8 MCHC-32.5 RDW-16.7* Plt ___
+___ 03:30AM BLOOD WBC-6.5 RBC-3.20* Hgb-9.4* Hct-27.8* 
+MCV-87 MCH-29.4 MCHC-33.8 RDW-16.9* Plt ___
+___ 04:42AM BLOOD Glucose-121* UreaN-8 Creat-0.5 Na-138 
+K-3.0* Cl-107 HCO3-26 AnGap-8
+___ 08:00PM BLOOD Na-140 K-3.1* Cl-105
+___ 06:07AM BLOOD ALT-19 AST-15 AlkPhos-61 TotBili-0.4
+
+.
+ECHO ___: The left atrium and right atrium are normal ___ 
+cavity size. Left ventricular wall thickness, cavity size, and 
+global systolic function are normal (LVEF>55%). Due to 
+suboptimal technical quality, a focal wall motion abnormality 
+cannot be fully excluded. Transmitral and tissue Doppler imaging 
+suggests normal diastolic function, and a normal left 
+ventricular filling pressure (PCWP<12mmHg). The aortic valve 
+leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis or aortic regurgitation. No 
+masses or vegetations are seen on the aortic valve, but cannot 
+be fully excluded due to suboptimal image quality. The mitral 
+valve appears structurally normal with trivial mitral 
+regurgitation. No masses or vegetations are seen on the mitral 
+valve, but cannot be fully excluded due to suboptimal image 
+quality. No masses or vegetations are seen on the tricuspid 
+valve, but cannot be fully excluded due to suboptimal image 
+quality. The estimated pulmonary artery systolic pressure is 
+normal. IMPRESSION: Suboptimal image quality. Normal study. 
+Normal biventricular cavity sizes with preserved global 
+biventricular systolic function. No valvular pathology or 
+pathologic flow identified.  
+.
+CXR  (PA/LAT)
+COMPARISON:  Chest radiograph from ___. 
+FINDINGS: 
+Right IJ central line has been removed.  Postsurgical changes 
+including 
+sternotomy wires and valve replacement are unchanged.  Bilateral 
+pleural 
+effusions are improved with resolution of previous pulmonary 
+edema.  The 
+cardiac silhouette is mildly enlarged.  Right PICC line is seen 
+ending ___ 
+appropriate position with no complications from procedure.  No 
+focal 
+consolidation is seen.   
+IMPRESSION: Interval improvement of bilateral effusions.   
+.
+ 
+
+___ ECHOCARDIOGRAPHY REPORT
+
+___       ___ MRN:   ___       TEE 
+(Complete) Done ___ at 1:42:37 ___      FINAL  
+Referring Physician     ___  
+___ of Cardiothoracic Surg
+___
+___  Status: Inpatient DOB: ___ 
+Age (years): ___ F  Hgt (___): 69  
+BP (mm Hg): 98/62  Wgt (lb): 144  
+HR (bpm): 104  BSA (m2): 1.80 m2  
+Indication: Left ventricular function. Mitral valve disease. 
+Murmur. Right ventricular function. Valvular heart disease. 
+Endocarditis.  
+ICD-9 Codes: ___.90, 424.0 
+Test Information  
+Date/Time: ___ at 13:42    ___ MD: ___, MD 
+
+Test Type: TEE (Complete) Sonographer: ___, MD 
+Doppler: Full Doppler and color Doppler Test Location: 
+Anesthesia West OR cardiac 
+Contrast: None Tech Quality: Adequate 
+Tape #: ___-: Machine: U/S 3 
+Echocardiographic Measurements  
+Results  Measurements  Normal Range  
+ 
+Findings  
+LEFT ATRIUM: No spontaneous echo contrast is seen ___ the ___. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: PFO is present. 
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and 
+global systolic function (LVEF>55%). 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal ascending, transverse and descending thoracic 
+aorta with no atherosclerotic plaque. 
+
+AORTIC VALVE: Normal aortic valve leaflets (3). 
+
+MITRAL VALVE: Moderate-sized vegetation on mitral valve. Normal 
+mitral valve supporting structures. Mild to moderate (___) MR. 
+
+___ VALVE: Small vegetation on tricuspid valve. Mild [1+] 
+TR. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. 
+No PS. Physiologic PR. 
+
+PERICARDIUM: Trivial/physiologic pericardial effusion. 
+
+GENERAL COMMENTS: Written informed consent was obtained from the 
+___. The ___ was under general anesthesia throughout the 
+procedure. No TEE related complications. The ___ appears to 
+be ___ sinus rhythm.  
+Conclusions  
+PRE-BYPASS: 
+No spontaneous echo contrast is seen ___ the left atrial 
+appendage. 
+A tiny patent foramen ovale is present.
+Left ventricular wall thickness, cavity size, and global 
+systolic function are normal (LVEF>55%). 
+Right ventricular chamber size and free wall motion are normal. 
+The ascending, transverse and descending thoracic aorta are 
+normal ___ diameter and free of atherosclerotic plaque.
+The aortic valve leaflets (3) appear structurally normal with 
+good leaflet excursion. 
+There is a moderate-sized vegetation on the mitral valve. Mild 
+to moderate (___) mitral regurgitation is seen. There is a 
+small vegetation on the tricuspid valve. 
+There is a trivial/physiologic pericardial effusion. 
+
+Post-CPB:
+The ___ is ___ SR, on no inotropes.
+Preserved biventricular systolic fxn.
+There is an annuloplasty ring on the mitral valve. No MR.
+___ vegetations on the mitral and tricuspid valves have been 
+removed.
+The PFO has been closed.
+Aorta intact. No other interval changes.   
+.
+Pathology:
+Pathology Report Tissue: Mitral Valve Leaflets. Procedure Date 
+of ___ 
+Report not finalized. 
+Assigned Pathologist ___ 
+Please contact the pathology department, ___ 
+PATHOLOGY # ___ 
+Mitral Valve Leaflets. 
+.
+Micro:
+___ 2:41 pm TISSUE      TRICUSPID VALVE VEGETATION. 
+GRAM STAIN (Final ___: 
+      Reported to and read back by ___ NP @ 725PM 
+___. 
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+
+   TISSUE (Final ___: 
+      STAPH AUREUS COAG +.    RARE GROWTH. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------   0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+___ 1:56 pm TISSUE      MITRAL VALVE LEAFLETS AND 
+VEGETATION. 
+**FINAL REPORT ___
+GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   TISSUE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------   0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+___ 5:56 am IMMUNOLOGY      Source: Line-picc. 
+HCV VIRAL LOAD (Final ___:   259,637 IU/mL. 
+Performed using the Cobas Ampliprep / Cobas Taqman HCV Test
+
+RAPID PLASMA REAGIN TEST (Final ___:  NONREACTIVE. 
+
+URINE CULTURE (Final ___:    NO GROWTH.
+
+BLOOD CULTURES (FINAL from ___: 
+NEGATIVE
+___ 06:07AM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE 
+HBcAb-NEGATIVE
+___ 06:07AM BLOOD HIV Ab-NEGATIVE
+___ 06:07AM BLOOD HCV Ab-POSITIVE*
+        
+
+ 
+Brief Hospital Course:
+This is a ___ ___ with a history of intravenous drug 
+abuse, who presented with MSSA endocarditis.  Initially it was 
+medically managed.  On TEE from ___ she was found to have a 
+very large, mobile vegetation ___ the mitral valve which was 
+extremely labile with the risk of embolization. She was also 
+found to have multiple embolic infarcts ___ the brain.  The 
+mitral valve regurgitation was
+only mild. There were more vegetations on the tricuspid valve. 
+Again, the tricuspid valve regurgitation was mild. After initial 
+medical management, it was decided to take her to the operating 
+room ___ view of the extremely mobile vegetation with evidence of 
+emboli.  The left ventricular function was well-preserved. On 
+___ 
+the ___ was brought to the operating room and underwent a 
+Mitral valve repair, tricuspid valve debridement and PFO 
+closure. Overall the ___ tolerated the procedure well and 
+post-operatively was transferred to the CVICU ___ stable 
+condition for recovery and invasive monitoring. POD 1 found the 
+___ extubated, alert and oriented and breathing comfortably. 
+The ___ was neurologically intact and hemodynamically stable 
+on no inotropic or vasopressor support. Low dose beta blocker 
+was initiated and the ___ was gently diuresed toward the 
+preoperative weight. ID followed the ___ and she will be 
+treated with Nafcillin for 6 weeks from her operation (___). 
+ She also had +HCV diagnosis this admission with viral load of 
+259,637 IU/mL.  The ___ was transferred to the telemetry 
+floor for further recovery. Chest tubes and pacing wires were 
+discontinued without complication. The ___ was evaluated by 
+the physical therapy service for assistance with strength and 
+mobility.  By the time of discharge on POD 6 the ___ was 
+ambulating freely, the wound was healing and pain was controlled 
+with oral analgesics.  The ___ was discharged to the ___ 
+___ ___ good condition with appropriate follow up 
+instructions. 
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Buprenorphine-Naloxone (8mg-2mg) 1 TAB SL DAILY 
+2. ClonazePAM 2 mg PO QHS 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q4H:PRN fever, pain 
+2. Aspirin EC 81 mg PO DAILY 
+3. Bisacodyl ___AILY:PRN constipation 
+4. ClonazePAM 1 mg PO QHS:PRN insomnia 
+5. Docusate Sodium 100 mg PO BID 
+6. FoLIC Acid 1 mg PO DAILY 
+7. HYDROmorphone (Dilaudid) ___ mg PO Q3H:PRN pain 
+8. Ibuprofen 600 mg PO Q8H:PRN pain 
+9. Metoprolol Tartrate 12.5 mg PO TID 
+hold if SBP <100 or HR <60 
+10. Multivitamins 1 TAB PO DAILY 
+11. Nafcillin 2 g IV Q4H Duration: 5 Weeks 
+(total 6 weeks from surgery date of ___
+last dose to be given on ___ 
+12. Polyethylene Glycol 17 g PO DAILY 
+13. Ranitidine 150 mg PO BID 
+14. Senna 2 TAB PO DAILY 
+15. Furosemide 20 mg PO DAILY Duration: 7 Days 
+16. Potassium Chloride 40 mEq PO Q12H 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Endocarditis s/p Mitral valve repair, Removal of vegetations 
+from the tricuspid valve and Patent foramen ovale closure
+Newly diagnosed + Hepatitis C 
+Past medical history:
+IVDA
+Anxiety
+Depression
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal, anxious regarding transfer to 
+new facility 
+Ambulating, deconditioned
+Incisional pain managed with oral analgesia 
+Incisions: 
+Sternal - stable sternum, healing well, no erythema or drainage 
+Edema - trace bilaterally 
+Extremity - R arm with PICC ___ place, no erythema, edema or 
+drainage.
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming until cleared by surgeon. Look at 
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions 
+Each morning you should weigh yourself and then ___ the evening 
+take your temperature, these should be written down on the chart 
+
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive 
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+Females: Please wear bra to reduce pulling on incision, avoid 
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

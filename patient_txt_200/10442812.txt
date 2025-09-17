@@ -1,0 +1,523 @@
+===== DISCHARGE NOTE =====
+note_id=10442812-DS-12 | hadm_id=25199190
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Lithium / plaster / steris strips / Macrobid / Abilify
+ 
+Attending: ___.
+ 
+Chief Complaint:
+endometrial polyp / pelvic pain 
+ 
+Major Surgical or Invasive Procedure:
+hysteroscopy, D&C, polypectomy, Mirena IUD placement 
+
+ 
+Physical Exam:
+Discharge physical exam
+Vitals: stable and within normal limits
+Gen: no acute distress; alert and oriented to person, place, and 
+date
+CV: regular rate and rhythm; no murmurs, rubs, or gallops
+Resp: no acute respiratory distress, clear to auscultation 
+bilaterally
+Abd: soft, appropriately tender, no rebound/guarding; incision 
+clean, dry, intact
+Ext: no tenderness to palpation
+ 
+Pertinent Results:
+None
+ 
+Brief Hospital Course:
+On ___, Ms. ___ was admitted to the gynecology service 
+pre-operatively for IV fluid given her history of diabetes 
+insipidus and inability to be NPO overnight. On ___, patient 
+underwent hysteroscopic polypectomy, D&C, and Mirena IUD 
+placement. Please see the operative report for full details.
+
+Her post-operative course was uncomplicated. Immediately 
+post-op, her pain was controlled with IV toradol. Her diet was 
+advanced without difficulty, and she was transitioned to PO 
+ibuprofen and Tylenol. 
+
+By post-operative day 0, she was tolerating a regular diet, 
+voiding spontaneously, ambulating independently, and pain was 
+controlled with oral medications. She was then discharged home 
+in stable condition with outpatient follow-up scheduled.
+
+ 
+Medications on Admission:
+- Effexor 75 mg po daily
+- Levothyroxine sodium 150 mcg po daily w/ 225 mcg once a week
+- Buproprion HCl ER 300 mg po daily
+- Potassium 2400 mg po daily
+- Triamterene-HCTZ 37.5/25 mg po daily
+- Depakote ER 1500 mg po daily
+- Klor-Con M20 60 mg po daily
+- Valtrex 1 gram po daily
+- Sucralfate 3 gram po daily
+
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild/Fever 
+do not exceed 4000mg in 24 hours 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every 6 hours 
+Disp #*30 Tablet Refills:*1 
+2.  Ibuprofen 600 mg PO Q6H:PRN Pain - Mild 
+please take with food 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*30 Tablet Refills:*1 
+3.  BuPROPion XL (Once Daily) 300 mg PO DAILY  
+4.  Divalproex (EXTended Release) 1500 mg PO QHS  
+5.  Levothyroxine Sodium 175 mcg PO DAILY  
+6.  Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY  
+7.  Venlafaxine XR 75 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+endometrial polyps / pelvic pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the gynecology service for IV fluids prior 
+to your surgery for your diabetes insipidus. You then underwent 
+an uncomplicated hysteroscopy, polyp removal, D&C, and Mirena 
+IUD placement. You have recovered well and the team believes you 
+are ready to be discharged home. Please call Dr. ___ 
+office with any questions or concerns. Please follow the 
+instructions below.
+
+General instructions:
+* Take your medications as prescribed.
+* Do not drive while taking narcotics.
+* Take a stool softener such as colace while taking narcotics to 
+prevent constipation.
+* Do not combine narcotic and sedative medications or alcohol.
+* Do not take more than 4000mg acetaminophen (APAP) in 24 hrs.
+* No strenuous activity until your post-op appointment.
+* Nothing in the vagina (no tampons, no douching, no sex) for 2 
+weeks
+* You may eat a regular diet.
+* You may walk up and down stairs.
+
+Call your doctor for:
+* fever > 100.4F
+* severe abdominal pain
+* difficulty urinating
+* vaginal bleeding requiring >1 pad/hr
+* abnormal vaginal discharge
+* redness or drainage from incision
+* nausea/vomiting where you are unable to keep down fluids/food 
+or your medication
+
+To reach medical records to get the records from this 
+hospitalization sent to your doctor at home, call ___.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10442812-DS-11 | hadm_id=26654787
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Lithium / plaster / steris strips
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Thyroid nodule, IV hydration prior to thyroidectomy given
+diabetes insipidus
+ 
+Major Surgical or Invasive Procedure:
+Total thyroidectomy, intraoperative nerve monitoring.
+
+ 
+History of Present Illness:
+Mrs. ___ is a ___ female with history significant for bipolar 
+disorder, nephrogenic diabetes insipidus, and thyroid nodule who 
+is being admitted to the surgical service prior to her scheduled 
+thyroidectomy to receive IV fluids. She was found to have a 
+left-sided thyroid nodule during a workup for fatigue. A 
+subsequent ultrasound-guided FNA yielded cytology that was 
+indeterminate for malignancy. The patient was referred for 
+surgical management of her thyroid nodule, and the decision was 
+made to undergo a thyroidectomy.
+
+The patient has nephrogenic diabetes insipidus secondary to past 
+lithium use, and therefore requires IV hydration while she is 
+NPO the night prior to surgery. She recently underwent surgery 
+for umbilical hernia repair and was admitted the night prior to 
+surgery to receive IV fluids (D5W). She has seen Dr. ___ as 
+an outpatient for management of her diabetes insipidus, and has
+started on HCTZ which has helped some of her symptoms.
+ 
+Past Medical History:
+Past Medical History:
+Bipolar disorder (previously treated with lithium)
+Diabetes insipidus (secondary to lithium)
+
+Past Surgical History:
+Umbilical hernia repair (___)
+
+ 
+Social History:
+___
+Family History:
+No family history of thyroid cancer. 
+ 
+Physical Exam:
+Vitals: 97.6  80  120/79  16  100% RA
+Gen: alert and oriented, NAD
+HEENT: neck incision with sutures, appears well-healing, clean 
+and dry, no hematoma. No stridor.
+Heart: regular rate rhythm
+Lungs: CTAB. No wheezing. No respiratory distress. 
+Abd: soft, nondistended
+Ext: warm, no lower extremity edema
+ 
+Pertinent Results:
+___ 04:00AM BLOOD Glucose-107* UreaN-19 Creat-1.0 Na-144 
+K-3.4 Cl-106 HCO3-28 AnGap-13
+___ 07:40AM BLOOD Glucose-98 UreaN-17 Creat-1.1 Na-147* 
+K-4.0 Cl-107 HCO3-32 AnGap-12
+___ 12:00PM BLOOD Na-143 K-3.9 Cl-108
+___ 03:11PM BLOOD Glucose-176* UreaN-15 Creat-1.3* Na-143 
+K-3.4 Cl-105 HCO3-31 AnGap-10
+___ 11:00PM BLOOD Glucose-126* UreaN-11 Creat-1.1 Na-140 
+K-4.1 Cl-101 HCO3-32 AnGap-11
+___ 04:00AM BLOOD Glucose-98 UreaN-9 Creat-1.0 Na-143 K-3.5 
+Cl-101 HCO3-32 AnGap-14
+ 
+Brief Hospital Course:
+Mrs. ___ was admitted to the surgical service prior to her 
+scheduled thyroidectomy to receive IV fluids given her 
+nephrogenic diabetes insipidus. The renal team was consulted to 
+help with fluid management while she would be NPO for surgery. 
+She was made NPO after midnight the night prior to surgery, and 
+hypotonic fluids were started (D5W at 250cc/hr). Her sodium 
+levels and chemistries were monitored every 4 hours during the 
+___ period. Her D5W rate was adjusted to keep her 
+sodium levels less than 145. Her sodium reached 147, and the 
+fluid rate was increased accordingly. 
+
+The patient went to the OR on ___ and underwent total 
+thyroidectomy. The patient tolerated the procedure well and 
+after an uneventful stay in the PACU, she returned to the floor 
+for overnight observation. Her postoperative course was stable. 
+Postoperatively she had no voice hoarseness or 
+perioral/extremity paresthesias.  Her neck remained soft and 
+there were no signs of wound infection or hematoma.  At time of 
+discharge she had good pain control on oral pain regimen. She 
+was discharged home in good condition and will follow-up with 
+Dr. ___ in clinic.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Venlafaxine XR 150 mg PO DAILY 
+2. QUEtiapine extended-release 400 mg PO QHS 
+3. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+4. NexIUM (esomeprazole magnesium) 20 mg oral daily prn 
+heartburn 
+5. Ranitidine 75 mg PO BID:PRN heartburn 
+6. Fexofenadine 180 mg PO DAILY 
+7. Vitamin D 1000 UNIT PO DAILY 
+8. Prenatal Vitamins 1 TAB PO DAILY 
+9. Hydrochlorothiazide 12.5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Fexofenadine 180 mg PO DAILY 
+2. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+3. Hydrochlorothiazide 12.5 mg PO DAILY 
+4. Ranitidine 75 mg PO BID:PRN heartburn 
+5. Venlafaxine XR 150 mg PO DAILY 
+6. Vitamin D 1000 UNIT PO DAILY 
+7. Levothyroxine Sodium 112 mcg PO DAILY 
+RX *levothyroxine 112 mcg 1 tablet(s) by mouth once a day Disp 
+#*30 Tablet Refills:*3
+8. Acetaminophen 1000 mg PO Q6H:PRN pain 
+9. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0
+10. QUEtiapine extended-release 400 mg PO QHS 
+11. NexIUM (esomeprazole magnesium) 20 mg oral daily prn 
+heartburn 
+12. Prenatal Vitamins 1 TAB PO DAILY 
+13. Calcium Carbonate 1500 mg PO TID 
+RX *calcium carbonate [Tums] 200 mg calcium (500 mg) 3 tablet(s) 
+by mouth three times a day Disp #*270 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Left thyroid nodule with cytology indeterminate for malignancy.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the inpatient general surgery unit prior to 
+your surgery to receive IV fluids given your condition called 
+"diabetes insipidus." You were monitored overnight after your 
+total thyroidectomy. You have adequate pain control and have 
+tolerated a regular diet and may return home to continue your 
+recovery. ___ will be discharged home on thyroid hormone 
+replacement (Levothyroxine)and calcium (Tums) supplement, please 
+take as prescribed.
+Monitor for signs and symptoms of low Calcium such as numbness 
+or tingling around mouth or fingertips. If you experience any of 
+these signs or symptoms immediately chew 8 Tums, however if your 
+symptoms do not improve please call Dr. ___ or go 
+to emergency room if you have severe symptoms. You will need to 
+have your Calcium level drawn on ___ (the day before 
+your follow-up visit).Your blood work can be drawn at ___ 
+___ on the ___ floor or outside lab. If your blood is drawn 
+at an outside lab then please contact Dr. ___ office with 
+the phone and fax number of the lab so we can get the results. 
+Your follow-up visit with Dr. ___ is listed below.
+Please resume all regular home medications, unless specifically 
+advised not to take a particular medication and take any new 
+medications as prescribed. You will be given a prescription for 
+narcotic pain medication, take as prescribed. It is recommended 
+that you take a stool softner such as Colace while taking oral 
+narcotic pain medication to prevent constipation. You may also 
+take acetaminophen (Tylenol) as directed, but do not exceed 4000 
+mg in one day. Please get plenty of rest, continue to walk 
+several times per day, and drink adequate amounts of fluids. 
+Please call your surgeon or go to the emergency department if 
+you have increased pain, swelling, redness, or drainage from the 
+incision site.You may shower and wash incisions with a mild soap 
+and warm water.Avoid swimming and baths until cleared by your 
+surgeon.Gently pat the area dry.You have a neck incision but you 
+do not have any bandages because you are sensitive to the tape. 
+Please use a dry gauze and a light-weight scarf to secure the 
+gauze in place to keep your incision covered when you leave the 
+house until your follow up appointment with Dr. ___.
+Thank you for allowing us to participate in your care. We wish 
+you a speedy recovery.
+ 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10442812-DS-10 | hadm_id=27052904
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Lithium
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Umbilical hernia
+ 
+Major Surgical or Invasive Procedure:
+___:
+Primary umbilical hernia reduction and repair with 
+bio-absorbable mesh.
+
+ 
+History of Present Illness:
+Pt had periumbilical pain and discomfort occasionally, saw PCP 
+who noticed periumbilical hernia. Was referred to Dr ___ 
+___ was made for elective repair. Never had any symptoms of
+obstruction: denies nausea/vomiting related to any bulge, normal
+flatus/bowel movements. Never had irreducible bulge. A diagnosis
+of DI was suspected for awhile and she recently formally 
+received
+a diagnosis of diabetes insipidus and so is being preadmitted 
+for
+hydration prior to the operation. 
+
+ 
+Past Medical History:
+fatigue, arthritis, fibromyalgia, GERD, bipolar, sinus and ear 
+infections, uterine polyps, hx hypothyroidism while on lithium, 
+thyroid nodule
+
+ 
+Social History:
+___
+Family History:
+sister with breast cancer, otherwise no medical problems in 
+family 
+
+ 
+Physical Exam:
+Prior Discharge:
+VS: 98.2, 79, 119/74, 18, 99% RA
+GEN: Pleasant with NAD
+HEENT: PERRL, EOMI, Neck supple, no JVD
+CV: RRR, no m/r/g
+PULM: CTAB
+ABD: Umbilical incision with occlusive dressing and c/d/i
+EXTR: Warm, no c/c/e
+ 
+Pertinent Results:
+___ 12:18AM BLOOD Glucose-173* UreaN-9 Creat-1.0 Na-138 
+K-4.1 Cl-104 HCO3-24 AnGap-14
+___ 07:30AM BLOOD Glucose-95 UreaN-9 Creat-1.0 Na-143 K-3.8 
+Cl-108 HCO3-22 AnGap-17
+ 
+Brief Hospital Course:
+The patient with umbilical hernia and scheduled for elective 
+surgery on ___, was admitted fot hydration secondary to newly 
+diagnosed nephrogenic DI. Nephrology was called for consult and 
+their recommendations were followed. On ___, the patient 
+underwent primary umbilical hernia reduction with mesh, which 
+went well without complication (reader referred to the Operative 
+Note for details). After a brief, uneventful stay in the PACU, 
+the patient arrived on the floor tolerating regular diet, on IV 
+fluids, with a foley catheter, and PO Oxycodone for pain 
+control. The patient was hemodynamically stable.
+Post-operative pain was initially well controlled with po 
+medications. Patient tolerated regular diet, IV fluid was 
+discontinued, electrolytes were within normal level. The foley 
+catheter was discontinued at midnight of POD# 0. The patient 
+subsequently voided without problem. 
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs. The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled. The patient received discharge teaching and 
+follow-up instructions with understanding verbalized and 
+agreement with the discharge plan.
+
+ 
+Medications on Admission:
+quetiapine XR 40'qHS, venlafaxine ER 150', ranitidine 150'PRN, 
+esomeprazole 40'PRN, fluticasone, allegra 
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H 
+2. Fexofenadine 60 mg PO BID:PRN allergies/congestion 
+3. Fluticasone Propionate NASAL 2 SPRY NU BID:PRN 
+congestion/allergies 
+4. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*40 Tablet Refills:*0
+5. QUEtiapine extended-release 400 mg PO QHS 
+6. Ranitidine 150 mg PO DAILY:PRN heartburn 
+7. Venlafaxine XR 150 mg PO DAILY 
+8. NexIUM (esomeprazole magnesium) 40 mg oral qd 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Umbilical hernia
+2. Nephrogenic diabetes insipidus 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the surgery service for hydration while 
+being unable to eat or drink prior to your surgery. You then 
+underwent your umbilical hernia repair as planned. Your surgery 
+went well and you have done well post-operatively. You may 
+return home to finish your recovery. 
+
+Please call your doctor or nurse practitioner if you experience 
+the following:
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+*New or worsening cough, shortness of breath, or wheeze.
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+*Your pain is not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+.
+General Discharge Instructions:
+Please resume all regular home medications.  Also, please take 
+any new medications as prescribed.
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids.  Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon, who will instruct you further regarding activity 
+restrictions.
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+
+Incision Care:
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site.
+*Avoid swimming and baths until your follow-up appointment.
+*You may shower on ___ (you may remove your 
+dressing prior to this), and wash surgical incisions with a mild 
+soap and warm water.  Gently pat the area dry.
+*If you have steri-strips, they will fall off on their own.  
+Please remove any remaining strips ___ days after surgery.
+
+ 
+Followup Instructions:
+___

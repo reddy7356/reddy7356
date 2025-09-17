@@ -1,0 +1,1149 @@
+===== DISCHARGE NOTE =====
+note_id=10407195-DS-17 | hadm_id=26776025
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dizziness/dark stools
+ 
+Major Surgical or Invasive Procedure:
+None this hospitalization
+ 
+History of Present Illness:
+___ w/ PAD, HTN, HLD, dilated cardiomyopathy, Stage 3 CKD and 
+recent admission for BRBPR (___) who presents for 1 episode 
+of black diarrhea. He felt dizzy/lightheaded the following 
+morning and had unsteady gait, although says he woke up multiple 
+times overnight to go to the bathroom and was not dizzy then. He 
+reports taking 400-800 mg ibuprofen per day for back pain as 
+well as 325 mg aspirin. He was seen by GI in ED who reported the 
+presence of external hemorrhoids and BRBPR. The source of 
+bleeding was not visualized but was believed to be hemorrhoidal. 
+He was started on IV pantoprazole 40 mg. His Hgb was at his 
+baseline (12.8).
+
+Of note, he was recently admitted (___) with BRBPR associated 
+with constipation and thought to be ___ external hemorrhoidal 
+bleeding in the setting of Plavix therapy for RLE stent. He 
+received 1L NS but no blood products and his Plavix was 
+discontinued.
+
+In the ED, initial vitals were:  0 97.5 60 158/63 20 99% RA 
+ 
+On the floor, initial vitals were: 97.7 69 156/77 18 100% RA  
+ 
+Currently, he no longer has lightheadedness although has been 
+sitting for a long time. No bowel movements since yesterday 
+evening. No abdominal pain. Endorses frequently needing to 
+strain for BM. Feels like his bladder is full but has difficulty 
+emptying. No f/c/s. 
+
+ROS:  
+(+) Per HPI, has chronic sinus congestion,   
+(-) Denies fever, chills, night sweats, Denies headache. Denies 
+cough, shortness of breath. Denies chest pain or tightness, 
+palpitations. Denies nausea, vomiting, diarrhea, constipation or 
+abdominal pain. No dysuria. Denies arthralgias or myalgias.  
+
+Otherwise a 10 point ROS is negative. 
+
+ 
+Past Medical History:
+Dilated cardiomyopathy (EF 50%)
+Hypertension
+PAD (right SFA PTCA/stent ___
+Hyperlipidemia
+Chronic kidney disease (GFR 44) 
+Basal cell skin cancer
+Back pain
+Paget's disease
+
+ 
+Social History:
+___
+Family History:
+Mother died of rectal cancer in her ___. No other family history 
+of malignancy of CV disease.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+==========================
+VS: T: 97.7 BP: 156/77 P: 69 R: 18 O2: 100 
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: Obese abdomen, soft, non-tender, bowel sounds present, no 
+rebound tenderness or guarding  
+EXT: Warm, well perfused, 1+ pulses, no edema   
+NEURO: AOx3, MAE  
+
+DISCHARGE PHYSICAL EXAM:
+==========================
+VS:  T 97.7-97.9 BP 156-167/68-77 HR 58-69 RR 18 SaO2% 100 RA
+I/O (8h): 1000/775
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: Obese abdomen, soft, non-tender, bowel sounds present, no 
+rebound tenderness or guarding  
+EXT: Warm, well perfused, 1+ pulses, no edema   
+NEURO: AOx3, MAE  
+ 
+Pertinent Results:
+ADMISSION LABS:
+======================
+___ 10:48AM BLOOD WBC-9.6 RBC-5.83 Hgb-12.8* Hct-42.8 
+MCV-73* MCH-22.0* MCHC-29.9* RDW-17.8* RDWSD-42.0 Plt ___
+___ 10:48AM BLOOD Neuts-51.7 ___ Monos-7.1 Eos-2.5 
+Baso-0.6 Im ___ AbsNeut-4.96 AbsLymp-3.63 AbsMono-0.68 
+AbsEos-0.24 AbsBaso-0.06
+___ 10:48AM BLOOD ___ PTT-23.9* ___
+___ 10:48AM BLOOD Glucose-108* UreaN-28* Creat-1.5* Na-140 
+K-5.3* Cl-108 HCO3-19* AnGap-18
+___ 10:48AM BLOOD ALT-14 AST-30 AlkPhos-356* TotBili-0.4
+___ 10:48AM BLOOD Albumin-4.0 Calcium-9.1 Phos-3.3 Mg-2.1
+___ 06:46PM URINE Color-Yellow Appear-Clear Sp ___
+___ 06:46PM URINE Blood-NEG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-TR
+___ 06:46PM URINE RBC-2 WBC-5 Bacteri-FEW Yeast-NONE Epi-<1
+
+OTHER PERTINENT LABS:
+======================
+___ 10:48AM BLOOD 25VitD-27*
+
+MICROBIOLOGY:
+====================== 
+___ 6:46 pm URINE      Source: ___. 
+                          **FINAL REPORT ___
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH FECAL
+      CONTAMINATION. 
+
+IMAGING/STUDIES:
+======================
+Conclusions   
+ The left atrial volume index is moderately increased. The right 
+atrium is moderately dilated. No atrial septal defect is seen by 
+2D or color Doppler. The estimated right atrial pressure is ___ 
+mmHg. There is mild symmetric left ventricular hypertrophy with 
+normal cavity size and regional/global systolic function 
+(LVEF>55%). Tissue Doppler imaging suggests an increased left 
+ventricular filling pressure (PCWP>18mmHg). Right ventricular 
+chamber size and free wall motion are normal. The aortic valve 
+leaflets (3) are mildly thickened. No aortic regurgitation is 
+seen. The mitral valve leaflets are mildly thickened. There is 
+no mitral valve prolapse. Mild (1+) mitral regurgitation is 
+seen. There is mild pulmonary artery systolic hypertension. 
+There is a trivial/physiologic pericardial effusion. 
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+preserved regional and global biventricular systolic function. 
+Mild mitral regurgitation. Mild pulmonary artery systolic 
+hypertension. Increased PCWP. 
+
+Compared with the report of the prior study (images unavailable 
+for review) of ___, the findings are similar.
+
+CLINICAL IMPLICATIONS: 
+Based on ___ AHA endocarditis prophylaxis recommendations, the 
+echo findings indicate prophylaxis is NOT recommended. Clinical 
+decisions regarding the need for prophylaxis should be based on 
+clinical and echocardiographic data.   
+
+DISCHARGE LABS:
+======================
+___ 05:50AM BLOOD WBC-7.7 RBC-5.42 Hgb-11.9* Hct-39.9* 
+MCV-74* MCH-22.0* MCHC-29.8* RDW-16.8* RDWSD-42.1 Plt ___
+___ 05:50AM BLOOD Glucose-95 UreaN-22* Creat-1.3* Na-140 
+K-4.0 Cl-105 HCO3-25 AnGap-14
+___ 05:50AM BLOOD Calcium-9.1 Phos-3.5 Mg-1.___ with PAD, HTN, HLD, dilated cardiomyopathy, Stage 3 CKD and 
+recent admission for BRBPR (___) who presented with 1 episode 
+of black diarrhea and complaint of lightheadedness.
+
+# Lightheadedness. Patient described new lightheadedness the 
+morning after his episode of black diarrhea, however he did get 
+up multiple times during the night to urinate without any 
+lightheadedness. With his interval of no lightheadedness and 
+stable hemoglobin compared to baseline, lightheadedness due to 
+GIB was thought to be unlikely. Instead, he was thought to have 
+orthostatic hypotension, possibly exacerbated by his 
+antihypertensive medications. He was recorded to have 
+orthostatic hypotension on the morning of ___. He was 
+continued on his antihypertensives but scheduled with cardiology 
+and primary care as an outpatient to discuss possibly decreasing 
+them. Given his history of cardiomyopathy and concern for 
+arrhythmia he was monitored on tele (no abnormalities noted) and 
+he had an echo done which showed EF>55%, stable from prior.
+
+# Melena. Patient has a history of BRBPR likely secondary to 
+hemorrhoids but concern for more significant bleeding given his 
+report of melena so GI recommended admission. He had no 
+additional bleeding or dark stools during this admission. His 
+H/H downtrended on the morning of ___ but with similar 
+downtrend of WBC and platelets so this was thought to be 
+dilutional. He had a colonoscopy in ___ that was normal but was 
+recommended to get a repeat in ___ years due to a family history 
+of colon cancer. He was set up with an outpatient GI appointment 
+for colonoscopy at discharge. 
+ 
+# Paget's disease of bone. Patient was noted to have elevated 
+Alk phos (356 on admission). This was also elevated in ___ 
+(443) and has been elevated as far back as ___. He had a CT 
+scan showing Paget's disease of left pelvis ___. He has a 
+normal calcium and borderline low vitamin D (27). It is possible 
+that his chronic back pain is related to Paget's disease and 
+that he might benefit from treatment. He was scheduled with 
+endocrinology as an outpatient. 
+
+Chronic issues: 
+# Dilated cardiomyopathy (EF 50%). Patient continued on home 
+nifedipine, spironolactone, enalapril. TTE done which showed EF 
+55%, no change from prior TTE.
+
+# CKD. Baseline Cr. 1.3-1.5. Cr at baseline and stable this 
+admission.
+
+# HTN. Patient continued on antihypertensive regimen as listed 
+above.
+
+# HLD. Patient continued on home atorvastatin.
+
+# BPH. Patient continued on home tamsulosin.
+
+# Hemorrhoids. Patient continued on home hydrocortisone cream.
+
+# Transitional issues:
+-Given patient's lightheadedness (worse in the morning), may 
+want to consider lowering dose of his antihypertensive 
+(particularly his evening nifedipine).
+-Patient found to have occasional gait instability at baseline, 
+advised to use walker at home and continue outpatient ___.
+-On a CT A/P from ___ done at ___, the patient 
+was noted to have lesion of the left pelvis demonstrating Paget 
+Disease (which is consistent with his chronically elevated 
+alkaline phosphatase). He should follow up with endocrinology 
+for this finding. Specifically, it would be worthwhile to 
+determine if his back pain is ___ to Paget's.
+-TTE performed as inpatient shows: EF>55%, Mild symmetric left 
+ventricular hypertrophy with preserved regional and global 
+biventricular systolic function. Mild mitral regurgitation. Mild 
+pulmonary artery systolic hypertension. Increased PCWP.
+-Patient should have a colonoscopy as an outpatient
+-Patient had been taking 400-800 mg ibuprofen per day for back 
+pain and was advised to stop taking all NSAIDs given melena
+-Code: Full
+-Contact: Daughter ___ is an ___ at ___ and serves as 
+HCP: ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Brimonidine Tartrate 0.15% Ophth. 1 DROP RIGHT EYE Frequency 
+is Unknown 
+2. Enalapril Maleate 10 mg PO BID 
+3. Hydrocortisone (Rectal) 2.5% Cream ___AILY 
+4. Fluticasone Propionate NASAL 1 SPRY NU BID 
+5. Timolol Maleate 0.25% 1 DROP RIGHT EYE BID 
+6. NIFEdipine CR 60 mg PO DAILY 
+7. NIFEdipine CR 90 mg PO DAILY 
+8. Atorvastatin 20 mg PO QPM 
+9. Spironolactone 100 mg PO DAILY 
+10. Hydrocodone-Acetaminophen (5mg-325mg) 1 TAB PO Q8H:PRN pain 
+11. Latanoprost 0.005% Ophth. Soln. 1 DROP RIGHT EYE QHS 
+12. Tamsulosin 0.4 mg PO QHS 
+13. Aspirin 325 mg PO DAILY 
+14. Penicillin V Potassium 500 mg PO Q8H tooth infection 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+2. Atorvastatin 20 mg PO QPM 
+3. Brimonidine Tartrate 0.15% Ophth. 1 DROP RIGHT EYE BID 
+4. Enalapril Maleate 10 mg PO BID 
+5. Fluticasone Propionate NASAL 1 SPRY NU BID 
+6. Hydrocortisone (Rectal) 2.5% Cream ___AILY 
+7. Latanoprost 0.005% Ophth. Soln. 1 DROP RIGHT EYE QHS 
+8. Penicillin V Potassium 500 mg PO Q8H tooth infection 
+9. Spironolactone 100 mg PO DAILY 
+10. Tamsulosin 0.4 mg PO QHS 
+11. Timolol Maleate 0.25% 1 DROP RIGHT EYE BID 
+12. NIFEdipine CR 90 mg PO DAILY 
+13. Hydrocodone-Acetaminophen (5mg-325mg) 1 TAB PO Q8H:PRN pain 
+14. Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 17 gram 1 powder(s) by mouth daily 
+Disp #*30 Packet Refills:*0
+15. NIFEdipine CR 60 mg PO DAILY 
+16. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnoses:
+Lightheadedness
+Melena   
+
+Secondary diagnoses:
+Dilated cardiomyopathy
+Chronic kidney disease
+Peripheral arterial disease
+Paget disease of bone
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were in the hospital at ___ 
+because you were feeling dizzy and had one dark stool. You did 
+not have any more bloody bowel movements while in the hospital 
+and your dizziness improved. You were most likely dizzy because 
+of low blood pressure when you stand up. This may be due to 
+dehydration as well as some of the blood pressure medications 
+that you take. Your heart was monitored throughout your stay and 
+did not show any irregular beats, and your echocardiogram was 
+stable. You should be careful to take your time after sitting up 
+before trying to stand. You were also found to be unsteady on 
+your feet. You should use your walker when walking as this will 
+help prevent falls and continue physical therapy.  
+
+You should get a colonoscopy due to the dark stool that you had. 
+You may also be able to help prevent these episodes by 
+preventing constipation. You should take Dulcolax and Miralax 
+every day as prescribed unless you are having diarrhea. You 
+should also stop taking all ibuprofen (as well as similar 
+medications such as Aleve, Advil, and Motrin) since this can 
+cause bleeding from the stomach.  
+
+Lastly, you should follow up with an endocrinologist to 
+determine if you have Paget's Disease, which is a bone disease 
+that may explain your back pain. You have an appointment listed 
+below. 
+
+It has been a pleasure participating in your care. We wish you 
+all the ___ in the future.
+
+Please give this discharge paperwork to your daughter. Below is 
+a list of transitional issues for you to follow up on with your 
+doctors:
+Transitional issues:
+-Given patient's lightheadedness (worse in the morning), may 
+want to consider lowering dose of his antihypertensive 
+(particularly his evening nifedipine).
+-Patient found to have occasional gait instability at baseline, 
+advised to use walker at home and continue outpatient ___. 
+-On a CT A/P from ___ done at ___, the patient 
+was noted to have lesion of the left pelvis demonstrating Paget 
+Disease (which is consistent with his chronically elevated 
+alkaline phosphatase). He should follow up with endocrinology 
+for this finding. Specifically, it would be worthwhile to 
+determine if his back pain is ___ to Paget's.
+-TTE performed as inpatient shows: EF>55%, Mild symmetric left 
+ventricular hypertrophy with preserved regional and global 
+biventricular systolic function. Mild mitral regurgitation. Mild 
+pulmonary artery systolic hypertension. Increased PCWP. 
+-Patient should have a colonoscopy as an outpatient
+-Patient had been taking 400-800 mg ibuprofen per day for back 
+pain and was advised to stop taking all NSAIDs given melena
+
+Sincerely,
+Your ___ team
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10407195-DS-16 | hadm_id=26824679
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right lower extremity claudication
+ 
+Major Surgical or Invasive Procedure:
+___ stent-in-stent placement, access L groin
+
+ 
+History of Present Illness:
+Mr. ___ is an ___ male who presents with right 
+lower extremity claudication. The patient describes having 
+undergone prior peripheral vascular procedures in ___.  He had a stent placed to the right SFA.  Since that time, 
+he had been
+improved, but he was never pain-free. This past ___, he
+states his pain has returned.  He has no description of rest
+pain.  He has no open wounds.  With regard to his ability to
+walk, he states he is able to go approximately ___ of a mile. 
+
+He is able to bike for about one and a half minutes and then he
+starts to experience pain. His options were reviewed with him 
+and he has made the decision to proceed with angiogram today.
+
+ 
+Past Medical History:
+Past Medical History: high cholesterol, hypertension, peripheral 
+vascular disease, dilated cardiomyopathy EF 50%, BPH, chronic 
+kidney disease, melanoma s/p resection, Benign ventricular 
+ectopy
+
+PAST SURGICAL HISTORY:  Includes the right SFA stent back in 
+___ ___s spinal cyst that was removed.  Lastly, it 
+includes a right inguinal hernia repair.
+
+ 
+Social History:
+___
+Family History:
+Includes a history of cancer.
+
+ 
+Physical Exam:
+Discharge Exam:
+VS: T 97.1 HR 66 BP 147/58 RR 17 98% on RA
+Gen: NAD, AAOx3
+CV: RRR
+Resp: CTAB
+Abd: Soft, NT/ND
+Ext: L groin incision c/d/i
+Pulses:
+   ___
+L: d/d/d/d
+R: d/d/d/d
+ 
+Pertinent Results:
+___:33AM BLOOD Hct-40.3
+___ 06:33AM BLOOD Creat-1.4* Na-142 K-4.4 Cl-109*
+ 
+Brief Hospital Course:
+The patient presented to pre-op on ___. Pt was 
+taken to the operating room for angiography. There were no 
+adverse events in the operating room; please see the operative 
+note for details. Findings included an occluded right SFA stent 
+which was intervened on via right SFA stent-in-stent placement 
+to open the stenosis. After the stent-in-stent placement, an 
+increase in blood flow was appreciated. The patient was then 
+taken to the PACU until stable, then transferred to the ward for 
+observation overnight prior to being discharged on POD #1.
+
+Neuro: The patient was alert and oriented throughout 
+hospitalization; pain was managed with low dose PO oxycodone as 
+needed.
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.
+Pulmonary: The patient remained stable from a pulmonary 
+standpoint; vital signs were routinely monitored. Good pulmonary 
+toilet and incentive spirometry were encouraged throughout 
+hospitalization. 
+GI/GU/FEN: The patient initially had a foley because he was on 
+bedrest. On POD #1, the foley was removed and he was allowed to 
+ambulate. He was able to void independently.
+ID: The patient's fever curves were closely watched for signs of 
+infection, of which there were none.
+HEME: The patient's blood counts were closely watched for signs 
+of bleeding, of which there were none.
+Prophylaxis: The patient received subcutaneous heparin and ___ 
+dyne boots were used during this stay. Additionally, his home 
+plavix and aspirin were continued.
+
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs.  The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled.  The patient received discharge teaching and 
+follow-up instructions with understanding verbalized and 
+agreement with the discharge plan.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Finasteride 5 mg PO DAILY 
+2. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES Q8H 
+3. Enalapril Maleate 10 mg PO BID 
+4. Hydrocortisone (Rectal) 2.5% Cream 1 Appl PR QDAILY 
+5. Lidocaine 5% Patch 1 PTCH TD QAM 
+6. Timolol Maleate 0.25% 1 DROP RIGHT EYE BID 
+7. Fluticasone Propionate NASAL 1 SPRY NU BID 
+8. NIFEdipine CR 60 mg PO QPM 
+9. Atorvastatin 20 mg PO QPM 
+10. Spironolactone 100 mg PO DAILY 
+11. Hydrocodone-Acetaminophen (5mg-325mg) 1 TAB PO QHS:PRN pain 
+12. Clopidogrel 75 mg PO DAILY 
+13. Latanoprost 0.005% Ophth. Soln. 1 DROP RIGHT EYE QHS 
+14. Aspirin 81 mg PO DAILY 
+15. NIFEdipine CR 90 mg PO QAM 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+RX *aspirin 325 mg 1 tablet(s) by mouth qdaily Disp #*30 Tablet 
+Refills:*0
+2. Clopidogrel 75 mg PO DAILY 
+3. Enalapril Maleate 10 mg PO BID 
+4. Finasteride 5 mg PO DAILY 
+5. NIFEdipine CR 60 mg PO QPM 
+6. NIFEdipine CR 90 mg PO QAM 
+7. Atorvastatin 20 mg PO QPM 
+8. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES Q8H 
+9. Fluticasone Propionate NASAL 1 SPRY NU BID 
+10. Hydrocodone-Acetaminophen (5mg-325mg) 1 TAB PO QHS:PRN pain 
+11. Hydrocortisone (Rectal) 2.5% Cream 1 Appl PR QDAILY 
+12. Latanoprost 0.005% Ophth. Soln. 1 DROP RIGHT EYE QHS 
+13. Lidocaine 5% Patch 1 PTCH TD QAM 
+14. Spironolactone 100 mg PO DAILY 
+15. Timolol Maleate 0.25% 1 DROP RIGHT EYE BID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Claudication
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Please follow the instructions below:
+
+MEDICATION:
+• Take Aspirin 325mg (enteric coated) once daily 
+• If instructed, take Plavix (Clopidogrel) 75mg once daily
+• Continue all other medications you were taking before surgery, 
+unless otherwise directed
+• You make take Tylenol or prescribed pain medications for any 
+post procedure pain or discomfort
+WHAT TO EXPECT:
+It is normal to have slight swelling of the legs:
+• Elevate your leg above the level of your heart with pillows 
+every ___ hours throughout the day and night
+• Avoid prolonged periods of standing or sitting without your 
+legs elevated
+• It is normal to feel tired and have a decreased appetite, your 
+appetite will return with time 
+• Drink plenty of fluids and eat small frequent meals
+• It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing
+• To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+ACTIVITIES:
+• When you go home, you may walk and use stairs
+• You may shower (let the soapy water run over groin incision, 
+rinse and pat dry)
+• Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing or 
+band aid over the area 
+• No heavy lifting, pushing or pulling (greater than 5 lbs) for 
+1 week (to allow groin puncture to heal)
+• After 1 week, you may resume sexual activity
+• After 1 week, gradually increase your activities and distance 
+walked as you can tolerate
+• No driving until you are no longer taking pain medications
+CALL THE OFFICE FOR: ___
+• Numbness, coldness or pain in lower extremities 
+• Temperature greater than 101.5F for 24 hours
+• New or increased drainage from incision or white, yellow or 
+green drainage from incisions
+• Bleeding from groin puncture site
+SUDDEN, SEVERE BLEEDING OR SWELLING (Groin puncture site)
+• Lie down, keep leg straight and have someone apply firm 
+pressure to area for 10 minutes. If bleeding stops, call 
+vascular office ___. If bleeding does not stop, call 
+___ for transfer to closest Emergency Room. 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10407195-DS-18 | hadm_id=28137545
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cough
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with history of HTN, HLD,
+PVD, CKD, dilated CM presenting with cough.
+
+The patient reports that he developed a nonproductive cough 4
+days prior to admission. He denies any shortness of breath. He
+denies chest pain. No fevers but reports night sweats and
+malaise. He reports decreased oral intake. The patient initially
+presented to ___ Urgent care, where he was hypoxic to 93% on
+room air. He had a CXR that showed bronchial wall thickening and
+EKG without acute ischemic changes. He was referred to the ___
+ED for further care.
+
+In the ED, vitals: 98.8 92 123/67 20 97% 2L NC 
+Exam notable for: Pulm: Unlabored breathing rhonchi decreased
+breath sounds of the bilateral lower lobes
+Labs notable for: WBC 12.9, Hb 11.8, BUN/Cr 44/2.6; trop 0.02,
+BNPO 5589, lactate 1.9; flu negative
+Patient given: ceftriaxone 1 gm, azithromycin 500 mg IV; ASA 324
+mg, 1L LR
+
+On arrival to the floor, the patient denies any shortness of
+breath but reports ongoing cough. Reports difficulty sleeping 
+due
+to cough. Denies any vision changes, eye itching or pain, but
+states that he noticed a discharge from his left eye that began
+today.
+
+ROS: Pertinent positives and negatives as noted in the HPI. All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+Dilated cardiomyopathy (EF 50%)
+Hypertension
+PAD (right SFA PTCA/stent ___
+Hyperlipidemia
+Chronic kidney disease (GFR 44) 
+Basal cell skin cancer
+Back pain
+Paget's disease
+
+ 
+Social History:
+___
+Family History:
+Mother died of rectal cancer in her ___. No other family history 
+of malignancy of CV disease.
+
+ 
+Physical Exam:
+ADMISSION EXAM: 
+===============
+VITALS: 99.0 168/70 97 20 94 2LNC 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, copious purulent discharge from eyes, L>>R
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs with rhonchi, intermittent dry cough during exam. 
+Breathing is non-labored.
+GI: Abdomen soft, non-distended, non-tender to palpation. Bowel
+sounds present.  No HSM
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs, no peripheral edema
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: Very pleasant, appropriate affect
+
+DISCHARGE EXAM: 
+===============
+24 HR Data (last updated ___ @ 452)
+    Temp: 98.1 (Tm 98.4), BP: 139/54 (114-176/45-75), HR: 62
+(52-67), RR: 18 (___), O2 sat: 95% (94-98), O2 delivery: RA,
+Wt: 242.06 lb/109.8 kg  
+Fluid Balance (last updated ___ @ 448) 
+  Last 8 hours  Total cumulative -750ml
+    IN: Total 0ml
+    OUT:  Total 750ml, Urine Amt 750ml
+  Last 24 hours  Total cumulative -475ml
+    IN: Total 1000ml, PO Amt 770ml, IV Amt Infused 230ml
+    OUT:  Total 1475ml, Urine Amt 1475ml  
+
+GENERAL: Well developed, well nourished man in NAD. Hard of
+hearing. Oriented x3. Hard of hearing; right ear better than 
+left
+per pt. Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.  
+NECK: JVP 7-8cm
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs,
+rubs, or gallops. no thrills or lifts.  
+LUNGS: CTAB, no wheezes/rales/rhonchi. 
+ABDOMEN: Soft, non-tender, non-distended
+EXTREMITIES:  WWP, no ___ edema
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+
+ 
+Pertinent Results:
+ADMISSION LABS: 
+===============
+___ 07:47PM BLOOD WBC-12.9* RBC-5.31 Hgb-11.8* Hct-38.2* 
+MCV-72* MCH-22.2* MCHC-30.9* RDW-16.6* RDWSD-42.4 Plt ___
+___ 07:47PM BLOOD Glucose-138* UreaN-44* Creat-2.6* Na-138 
+K-5.1 Cl-104 HCO3-15* AnGap-19*
+___ 07:47PM BLOOD ___ PTT-26.4 ___
+___ 07:47PM BLOOD proBNP-5589*
+___ 07:47PM BLOOD Calcium-8.6 Phos-3.2 Mg-1.8
+
+INTERVAL LABS: 
+==============
+Tast 19% Ferritin 583 UNa 26
+Tpn 0.02-->0.01 
+BNP 5589 (no priors)
+
+DISCHARGE LABS: 
+===============
+___ 07:00AM BLOOD WBC-14.2* RBC-4.67 Hgb-10.5* Hct-33.1* 
+MCV-71* MCH-22.5* MCHC-31.7* RDW-15.9* RDWSD-39.8 Plt ___
+___ 07:00AM BLOOD ___ PTT-26.1 ___
+___ 07:00AM BLOOD Glucose-101* UreaN-60* Creat-1.9* Na-145 
+K-4.6 Cl-111* HCO3-16* AnGap-18
+___ 07:00AM BLOOD ALT-18 AST-19 LD(LDH)-238 AlkPhos-197* 
+TotBili-0.3
+___ 07:00AM BLOOD Albumin-2.8* Calcium-7.9* Phos-3.5 Mg-2.0
+
+MICROBIOLOGY: 
+=============
+___ 5:00 pm MRSA SCREEN      Source: Nasal swab. 
+
+                            **FINAL REPORT ___
+
+   MRSA SCREEN (Final ___:    No MRSA isolated. 
+__________________________________________________________
+___ 11:18 am URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   Legionella Urinary Antigen  (Final ___: 
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. 
+           (Reference Range-Negative). 
+      Performed by Immunochromogenic assay. 
+      A negative result does not rule out infection due to other 
+L.
+      pneumophila serogroups or other Legionella species. 
+Furthermore, in
+      infected patients the excretion of antigen in urine may 
+vary. 
+__________________________________________________________
+___ 12:47 am SPUTUM      Source: Expectorated. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and >10 epithelial cells/100X field. 
+      Gram stain indicates extensive contamination with upper 
+respiratory
+      secretions. Bacterial culture results are invalid. 
+      PLEASE SUBMIT ANOTHER SPECIMEN. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      TEST CANCELLED, PATIENT CREDITED. 
+__________________________________________________________
+___ 8:17 pm BLOOD CULTURE      2 OF 2. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 7:47 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+STUDIES: 
+========
+CXR: (initial)
+FINDINGS:  
+The heart is mildly enlarged.  The pulmonary vasculature is 
+normal. There is bronchial wall thickening.  No pneumothorax, 
+effusion, or focal consolidation. Mild multilevel degenerative 
+changes of the thoracic spine. 
+IMPRESSION:  
+Mild bronchial wall thickening which can be seen in the setting 
+of small 
+airway disease 
+
+CXR: (interval) ___
+Comparison to ___.  The symmetrical parenchymal 
+opacities at the lung bases have minimally increased in extent 
+and severity.  This change likely reflect increasing hydrostatic 
+pulmonary edema.  A retrocardiac atelectasis is stable.  No 
+pneumothorax.  No pneumonia.  Persistent mild cardiomegaly 
+
+Renal US (___)
+IMPRESSION: 
+1. No hydronephrosis. 
+2. Feature suggesting chronic parenchymal nephropathy 
+
+TTE (___)
+The left atrial volume index is mildly increased. The right
+atrium is mildly enlarged. There is no evidence for
+an atrial septal defect by 2D/color Doppler. The estimated right
+atrial pressure is ___ mmHg. There is mild
+symmetric left ventricular hypertrophy with a normal cavity 
+size.
+There is moderate global left ventricular
+hypokinesis. There is beat-to-beat variability in the left
+ventricular contractility due to the irregular rhythm.
+Quantitative biplane left ventricular ejection fraction is 30 %
+(normal 54-73%). Left ventricular
+cardiac index is low normal (2.0-2.5 L/min/m2). There is no
+resting left ventricular outflow tract gradient.
+Normal right ventricular cavity size with mild global free wall
+hypokinesis. The aortic sinus diameter is normal
+for gender with normal ascending aorta diameter for gender. The
+aortic arch diameter is normal with a normal
+descending aorta diameter. The aortic valve leaflets (3) are
+mildly thickened. There is no aortic valve stenosis.
+There is no aortic regurgitation. The mitral valve leaflets are
+mildly thickened with no mitral valve prolapse.
+There is mild [1+] mitral regurgitation. The pulmonic valve
+leaflets are normal. The tricuspid valve leaflets are
+mildly thickened. There is moderate [2+] tricuspid 
+regurgitation.
+There is moderate pulmonary artery systolic
+hypertension. There is a trivial pericardial effusion.
+
+IMPRESSION: Frequent ectopy. Mild symmetric left ventricular
+hypertrophy with normal cavity size
+and moderate global hypokinesis. Mild right ventricular free 
+wall
+hypokinesis. Mild mitral
+regurgitation. Moderate tricuspid regurgitation. Moderate
+pulmonary hypertension.
+Compared with the prior TTE (images reviewed) of ___,
+frequent ectopy is noted; biventricular
+systolic funciton is less vigorous and the degree of valvular
+regurgitation and estimated PASP is higher
+
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES: 
+====================
+#HFmEF (prev EF 55% in ___ -> visualized estimated EF 45%, 
+reported 30%) 
+Discharge weight: 242lb (110 kg)
+Discharge Cr: 1.9
+Discharge regimen: 
+-PRELOAD: None
+-AFTERLOAD: STOPPED home nifedipine given reduced EF, STARTED 
+carvedilol 6.25mg BID
+-NHBK: Carvedilol 6.25mg BID
+
+[ ] Home enalapril 10mg daily and spironolactone 100mg HELD on 
+discharge given ___. Please restart enalapril once ___ has 
+resolved. If kidney function and BPs stable after restarting 
+enalapril, would then restart spironolactone at potentially a 
+lower dose. 
+[ ] Please follow up weights, BP, CMP at follow up appointment 
+and adjust medications as appropriate. 
+[ ] Consider outpatient ischemic work-up if with complaints of 
+angina and if within goals of care
+
+___ on CKD 
+[ ] Cr on discharge 1.9 (prior baseline ~1.3-1.7). Set up with 
+outpatient nephrology follow-up. 
+[ ] Started on sodium bicarbonate 650mg TID. Please check CMP at 
+next follow up and uptitrate or discontinue sodium bicarbonate 
+as appropriate. 
+[ ] Please ensure follow up with Dr. ___ in ___ weeks from 
+discharge is scheduled. 
+
+#Bacterial conjunctivitis
+[ ] To complete a 7 day course of erythromycin eye gtts from 
+___. Please ensure completion of this course and 
+resolution of symptoms. Consider additional course of treatment 
+if with continued symptoms. 
+
+#CAD/PAD
+[ ] Patient taking full dose aspirin 325mg daily for unclear 
+indications. Dose was reduced to ASA 81mg daily. If with clear 
+indication for full dose aspirin please restart this. 
+
+BRIEF SUMMARY: 
+==============
+Mr. ___ is a ___ y.o. gentleman w/ a h/o mild dilated 
+cardiomyopathy (prior 55% in ___ --> now EF 30% ___, 
+HTN, HLD, Paget's disease, benign ventricular ectopy, PAD s/p 
+stenting of R SFA ___ w/ re-stenting of mid and distal R SFA 
+___, CKD, and obesity who presented w/ several day h/o cough 
+and dyspnea, now being transferred to the cardiology service for 
+further management of newly reduced EF.
+
+CORONARIES: Unknown, ETT ___ with no ischemic changes
+PUMP: EF 30% 2+ TR 
+RHYTHM: Sinus with freq PVCs
+
+=============== 
+ACTIVE ISSUES: 
+=============== 
+# Acute on chronic mixed systolic/diastolic HF (prev EF 55% -> 
+now visualized EF estimated ~45%, reported 30%) 
+Mr. ___ initially presented with ___ days SOB and cough and 
+was treated with CTX/Azithromycin for ? CAP given leukocytosis 
+and evidence of bronchial thickening on CXR though no obvious 
+consolidations. TTE in evaluation of dyspnea showed newly 
+reduced EF of 30% from prior EF of 55% in ___, w/ 2+ TR and 
+PASP, frequent PVCs with new RV hypokinesis and possible 
+inferior/posterior hypokinesis concerning for prior ischemia. 
+However, on review of his TTE on rounds, his systolic function 
+appears to be better than reported EF of 30%, and is estimated 
+to be closer to 45%. The calculated EF may seem abnormal in the 
+setting of frequent PVCs. He likely has mixed 
+ischemic/nonischemic cardiomyopathy with contributions from 
+underlying CAD given his hx of PAD (however per history does not 
+seem to have had a recent missed MI), ongoing HTN, as well as 
+ongoing benign ventricular ectopy. Ischemic workup was deferred 
+as patient had no symptoms of angina. TSH wnl, iron studies w/o 
+evidence of overload. After receiving 1L NS on ___ for presumed 
+pre-renal ___, patient had evidence of volume overload on CXR 
+and so was diuresed actively with Lasix 20mg + 40mg on ___. He 
+appeared relatively euvolemic after this and was trialed on PO 
+Lasix 40mg on ___ with good effect. He did not require any 
+further diuresis. His home nifedipine was discontinued given his 
+newly reduced EF and carvedilol 6.25mg BID was started for both 
+afterload and NHBK. His home enalapril and spironolactone were 
+held on discharge given his ___ and should be restarted with 
+resolution of his ___. His discharge weight was 242lb (110 kg), 
+discharge Cr 1.9. Ischemic workup should be considered if within 
+goals of care if patient has episodes of angina. 
+
+# ___ on CKD
+Baseline Cr 1.3-1.7 (last Cr ___, presented with Cr 2.6, 
+uptrended to 2.8 with fluid administration. CXR w/ e/o possible 
+volume overload following 1L NS on ___. PVR not elevated. Renal 
+US ___ with no hydronephrosis, concerning for obstructive 
+uropathy. He was diuresed with good effect with Cr 2.5->2.0. 
+Home enalapril and spironolactone were HELD throughout admission 
+and on discharge in setting of his ___. He was seen by renal who 
+recommended starting sodium bicarbonate 650mg TID for metabolic 
+acidosis thought ___ renal dysfunction. His Cr on discharge was 
+1.9. He should follow up with Dr. ___ in ___ weeks as an 
+outpatient. 
+
+#Cough
+#Community acquired PNA 
+#Acute hypoxic respiratory failure
+Patient presented with cough and dyspnea as above. Initial CXR 
+without focal consolidation but repeat following IVFs with b/l 
+opacities with c/f infection +/- volume overload and worsening 
+WBC. He completed a 5 day course of CTX/azithromycin from 
+___ and was weaned to room air with improvement in his 
+symptoms of cough. 
+
+# Bacterial conjunctivitis:
+Patient presented with copious purulent discharge in bilateral 
+eyes, left>right on presentation that rapidly reappears after 
+wiping eyes consistent with bacterial conjunctivitis. He was 
+treated with erythromycin eye gtts x7d (___). 
+
+#Anemia: 
+Hgb 10.5, low MCV which is chronic. Fe studies most c/w anemia 
+of chronic disease. 
+
+================ 
+CHRONIC ISSUES: 
+================ 
+CHRONIC/STABLE PROBLEMS:
+# HTN
+- STOPPED nifedipine given newly reduced EF, carvedilol started 
+as above, home enalapril and spironolactone held during 
+hospitalization and on discharge given ongoing ___. His home 
+enalapril should be restarted once his ___ resolves, with 
+consideration of restarting home spironolactone is his kidney 
+function remains stable and his BPs are able to tolerate it 
+
+# HLD:
+- Increased home atorvastatin to 40 mg daily given known PAD and 
+likely CAD. 
+
+# CAD/PVD:
+- Reduced full dose ASA to 81mg daily as there was no clear 
+indication for full dose aspirin 
+
+# BPH:
+- Continued tamsulosin, finasteride
+
+# Glaucoma:
+- Continued eye gtts
+
+# Insomnia:
+- Continued mirtazapine
+- Given ramelteon as needed
+
+# CODE STATUS: Full presumed 
+# CONTACT ___ 
+Relationship: Daughter 
+Phone number: ___ 
+Cell phone: ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Aspirin 325 mg PO DAILY 
+2. Atorvastatin 20 mg PO QPM 
+3. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID 
+4. Enalapril Maleate 10 mg PO DAILY 
+5. Fluticasone Propionate NASAL 1 SPRY NU BID 
+6. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+7. Spironolactone 100 mg PO DAILY 
+8. Tamsulosin 0.4 mg PO QHS 
+9. Timolol Maleate 0.25% 1 DROP BOTH EYES BID 
+10. Mirtazapine 7.5 mg PO QHS 
+11. Finasteride 5 mg PO DAILY 
+12. NIFEdipine (Extended Release) 60 mg PO QPM 
+13. NIFEdipine (Extended Release) 90 mg PO QAM 
+
+ 
+Discharge Medications:
+1.  Albuterol Inhaler ___ PUFF IH Q4H:PRN Shortness of breath 
+RX *albuterol sulfate 90 mcg 1 puff every four (4) hours Disp 
+#*1 Inhaler Refills:*0 
+2.  CARVedilol 6.25 mg PO BID 
+RX *carvedilol 6.25 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+3.  Erythromycin 0.5% Ophth Oint 0.5 in BOTH EYES QID Duration: 
+4 Days 
+RX *erythromycin 5 mg/gram (0.5 %) 1 drop both eyes four times a 
+day Refills:*0 
+4.  Sodium Bicarbonate 650 mg PO TID 
+RX *sodium bicarbonate 650 mg 1 tablet(s) by mouth three times a 
+day Disp #*90 Tablet Refills:*0 
+5.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+6.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth nightly Disp #*30 
+Tablet Refills:*0 
+7.  Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID  
+8.  Finasteride 5 mg PO DAILY  
+9.  Fluticasone Propionate NASAL 1 SPRY NU BID  
+10.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+11.  melatonin 3 mg oral QHS  
+12.  Mirtazapine 7.5 mg PO QHS  
+13.  Polyethylene Glycol 17 g PO DAILY  
+14.  Tamsulosin 0.4 mg PO QHS  
+15.  Timolol Maleate 0.25% 1 DROP BOTH EYES BID  
+16.  TraZODone 25 mg PO Q6H:PRN sleep/agitation  
+17. HELD- Enalapril Maleate 10 mg PO DAILY  This medication was 
+held. Do not restart Enalapril Maleate until PCP follow up 
+testing
+18. HELD- Spironolactone 100 mg PO DAILY  This medication was 
+held. Do not restart Spironolactone until PCP ___ up testing
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+PRIMARY DIAGNOSIS: 
+==================
+Acute on chronic mixed systolic/diastolic heart failure 
+Acute kidney injury on chronic kidney disease 
+
+SECONDARY DIAGNOSIS: 
+====================
+Community acquired pneumonia 
+Bacterial conjunctivitis 
+Peripheral arterial disease 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure to take care of you. Please see below for more 
+information about your hospitalization. 
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+==================================
+You were having cough and trouble breathing
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+==========================================
+-You were given antibiotics to treat a possible pneumonia or 
+bronchitis. 
+-You were started on antibiotic eye drops to treat an eye 
+infection 
+-You were given medications to help you pee off excess fluid in 
+your body. 
+
+WHAT SHOULD I DO WHEN I GO HOME?
+================================
+- You should continue to take your medications as prescribed. 
+- You should attend the appointments listed below. 
+- Weigh yourself every morning, call your cardiologist Dr. 
+___ at ___ if your weight goes up more than 3 
+lbs.  
+- Seek medical attention if you have new or concerning symptoms 
+or you develop swelling in your legs, abdominal distention, or 
+shortness of breath at night.  
+- Your discharge weight: 242lb (110 kg). You should use this as 
+your baseline after you leave the hospital.  
+ 
+Followup Instructions:
+___

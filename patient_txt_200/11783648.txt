@@ -1,0 +1,227 @@
+===== DISCHARGE NOTE =====
+note_id=11783648-DS-10 | hadm_id=23927566
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ibuprofen / Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Low back pain, weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo W with hx of back pain that started on ___ when she 
+fell during pregnancy p/w increased LBP w/ UE and ___ weakness. 
+After delivery she started to have shooting pain from the back 
+to the the left leg and leg weakness; she was diagnosed with 
+L4/L5 disk herniation and she underwent discectomy L4/L5 on 
+___. She says that once in a while she still has 
+shooting pain to the left leg and intermittent weakness. She 
+underwent revision of the surgery a few months later.
+
+She now reports that for the past 4 days she noticed that her 
+left leg has been weaker on and off, having some trouble 
+walking. She says that she woke up today with very strange 
+numbness "all over her body", both legs and arms, 
+circumferentially. Her back pain became so much worse that 
+prevented her from walking. She reports one episode in which she 
+tried to urinate but could not. She has been urinating fine in 
+ER and also moved her bowels normally.
+
+In the emergency department, initial vitals: 13:51 10 97.6 97 
+114/74 16 100. Per neuro, her exam is notable for antalgic gait 
+but full strengh throughout. Normal rectal tonus. No loss of 
+sensation but pinprick elicited sensation of tingling. MRI 
+showed Small disc bulge at L4-5, with left paracentral 
+component. No signs of compression. Given 1 g tylenol. Admitted 
+as patient felt unsafe ambulating.
+
+On arrival to the floor, she endorses ___ numbness and severe 
+___ weakness. She also endorses arm weakness that started today 
+and increasing ___ weakness such that she is having a hard time 
+ambulating. She notes that she had similar leg sx after her last 
+discectomy such that she needed to use a walker. She denies 
+bowel/blader incontinence f/c. She denies visual sx. She gets HA 
+w/ her back pain. She has been taking tylenol 1g qid for the 
+pain.
+ 
+Past Medical History:
+-Low back pain
+-asthma
+
+Past surgical history:
+-s/p l4/l5 discectomy
+-Endometriosis s/p laparoscopy
+-s/p D&C and ablation
+-s/p c/section
+-s/p septoplasty
+ 
+Social History:
+___
+Family History:
+No h/o neurologic disease.
+ 
+Physical Exam:
+VITAL SIGNS: T 97 BP 110/80 HR 74 RR 20 O2 100% on RA
+GENERAL: Pleasant, well appearing in NAD
+HEENT: Normocephalic, atraumatic. No conjunctival pallor. No 
+scleral icterus. PERRLA/EOMI. MMM. OP clear. Neck Supple, No 
+LAD.
+CARDIAC: Regular rhythm, normal rate. Normal S1, S2. No murmurs, 
+rubs or ___. JVP not elevated.
+LUNGS: CTAB, good air movement biaterally.
+ABDOMEN: NABS. Soft, NT, ND. No HSM
+EXTREMITIES: No edema or calf pain, 2+ dorsalis pedis/ posterior 
+tibial pulses.
+SKIN: No rashes/lesions, ecchymoses.
+NEURO: CN II-XII intact. Unable to lift L-leg off the bed. Able 
+to raise R-leg approx 1 inch. Decreased subjective sensation in 
+bilateral ___. Downgoing toes bilaterally. +1 patellar, brachial 
+reflexes, Gait assessment deferred. ___ upper extremity 
+strength.
+PSYCH: Listens and responds to questions appropriately, pleasant
+ 
+Pertinent Results:
+___ 05:55AM BLOOD WBC-9.5 RBC-4.37 Hgb-13.3 Hct-38.0 MCV-87 
+MCH-30.3 MCHC-34.9 RDW-12.8 Plt ___
+___ 05:55AM BLOOD ___ PTT-28.4 ___
+___ 05:55AM BLOOD Glucose-83 UreaN-13 Creat-0.8 Na-137 
+K-4.4 Cl-104 HCO3-26 AnGap-11
+___ 05:55AM BLOOD CK(CPK)-42
+___ 05:55AM BLOOD TotProt-6.4 Calcium-9.6 Phos-4.7* Mg-2.2
+___ 05:55AM BLOOD TSH-4.8*
+___ 05:55AM BLOOD Free T4-1.3
+___ 05:55AM BLOOD VitB12-664
+___ 05:55AM BLOOD CRP-2.4
+___ 05:55AM BLOOD PEP-NO SPECIFIC ABNORMALITIES SEEN
+___ 06:15PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-8.0 Leuks-NEG
+___ 05:22AM URINE Hours-RANDOM Creat-128 TotProt-41 
+Prot/Cr-0.3*
+___ 05:22AM URINE U-PEP-AWAITING F IFE-PND
+RPR negative
+
+L Spine xray:
+FINDINGS: There is a rather dramatic levoconcave curvature of 
+the included
+lower thoracic and lumbar spine. No secondary endplate changes 
+are noted,
+raising the suspicion this is likely simply positional in 
+nature. Vertebral
+bodies are intact. Disc spaces are maintained. Aside from 
+curvature,
+alignment otherwise is anatomic. The neural foramina are widely 
+patent.
+Transitional segmentation is noted at the lumbosacral junction. 
+The
+paraspinal soft tissues are unremarkable.
+ 
+IMPRESSION: No traumatic injury or significant underlying 
+degenerative joint
+disease.
+
+MRI L spine:
+FINDINGS: From T11-12 to L2-3 no abnormalities are seen. At L3-4 
+mild disc
+bulging identified. No spinal stenosis or foraminal narrowing is 
+identified.
+ 
+At L4-5 there has been a previous hemilaminectomy. There is no 
+evidence of
+recurrent disc herniation seen.
+ 
+At L5-S1 level degenerative disc disease and mild bulging seen 
+without spinal
+stenosis. An annular tear is seen on the right side. There is no 
+evidence of
+nerve root compression seen.
+ 
+There is no evidence of epidural abscess or fluid collection 
+identified in the
+paraspinal region. A subtle area of artifact seen to the left of 
+midline at
+L4-5 level projected over the posterior aspect of the thecal sac 
+appears
+artifacts probably related to previous surgery.
+ 
+IMPRESSION: Mild degenerative changes. No evidence of recurrent 
+disc
+herniation. No evidence of epidural abscess.
+
+ 
+Brief Hospital Course:
+Ms ___ was admitted to the medical service with low back pain 
+and lower extremity weakness L>R as well as total body 
+parasthesias.  On exam she had no evidence for cord compression, 
+no sensory or motor deficits. She was seen by both the neurology 
+and neurosurgical/spine teams.  She underwent an MRI of her L 
+spine which did not reveal any cord or nerve root compression. 
+She did not demonstrate any functional neurologic deficits on 
+formal exam. Her laboratory work up revealed normal CBC and 
+electrolytes, normal CK, normal renal function, normal UA, 
+negative SPEP (UPEP still pending at this time), normal B12, 
+high TSH but with normal free T4, negative RPR.  She was seen by 
+physical therapy and was able to ambulate independently. She was 
+discharged home day after admission with outpatient follow up.  
+ 
+Medications on Admission:
+-tylenol
+-gabapentin 300mg X 1
+-cyclobenzaprine 10mg x2
+ 
+Discharge Medications:
+1. Acetaminophen 500 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain.  
+2. Diazepam 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for back spasm: do not take before driving.
+Disp:*30 Tablet(s)* Refills:*0*
+3. Outpatient Physical Therapy
+___ sessions a week x 10 weeks.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Weakness
+
+ 
+Discharge Condition:
+Good. Vital signs stable, ambulating independently
+
+ 
+Discharge Instructions:
+You were admitted with back pain and lower extremity weakness. 
+You had an MRI of your lumbar spine which did not show any 
+spinal cord or nerve root compression. You were seen by the 
+neurology and spine teams who did not find an anatomical 
+etiology for your symptoms.  Your B12 levels were normal.  Your 
+thyroid levels were bordlerline, you should follow up with your 
+PCP to have these rechecked, as well as to follow up on the 
+results of some other blood work, notably protein 
+electrophoresis.  Your neurontin was discontinued as their have 
+been some reports of this medication causing the symptoms you 
+experienced. You have been given a prescription for valium, a 
+muscle relaxant, to be taken as needed for back spasm. This 
+medication can cause drowsiness, to not take before driving. 
+Please take all medications as prescribed. Please follow up with 
+your primary care provider ___ 2 weeks.  
+Call your doctor or return to the emergency room if you 
+experience worsening pain, weakness, bowel incontinence or 
+urinary retenion. 
+ 
+Followup Instructions:
+___

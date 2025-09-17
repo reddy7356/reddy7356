@@ -1,0 +1,301 @@
+===== DISCHARGE NOTE =====
+note_id=11044346-DS-12 | hadm_id=29213329
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+MVA vs. tree
+ 
+Major Surgical or Invasive Procedure:
+___: Right elevation of skull fracture and wound washout
+
+ 
+History of Present Illness:
+This is a ___ year old gentleman who was an unrestrained driver 
+in a single vehicle motor vehicle accident early in the morning 
+of ___. Per reports the patient was driving on Route ___ under 
+the influence of ETOH when he swerved off the road into a 
+collection of trees and then back onto the road. There was 
+significant damage to the car with the windshield being blown 
+out and debris surround the patient. He did not require 
+extubation at the scene but was
+brought to ___ where he was intubated for airway protection. 
+He had an obvious open right fronto-parietal skull fracture 
+approximately 2cm in size as well as ___ inches of exposed bone 
+with pieces of what appear to be wood infiltrating the open 
+portion of the fracture. The patient was paralyzed upon arrival 
+of neurosurgery but per reports both at the scene and upon 
+arrival in the ER the patient was moving all extremities and 
+opening his eyes but was not following commands and his GCS was 
+estimated to be 8. He also was noted to have vomited multiple 
+times both in the field and in the ER here. He was pan-scanned
+per trauma protocol which did not reveal any significant 
+injuries to other parts of his body on preliminary reports and 
+then was taken emergently to the OR for washout and elevation of 
+his open depressed skull fracture. 
+
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+Unknown
+ 
+Physical Exam:
+On admission:
+
+EXAM:
+Gen: intubated, paralyzed
+HEENT:large area of exposed skull Right Fronto-parietal c/w
+degloving injury of the scalp Pupils: PERRL per ED prior to
+paralysis        EOMs: unable to assess
+Neck: hard cervical collar in place.
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: paralyzed
+Orientation: unable to obtain
+Language: intubated and paralyzed
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 4mm to
+2mm bilaterally. Can not assess visual fields
+III-XII: unable to ass given patients clinical status
+
+Motor: Moves all extremities spontaneous per EMS report and ER
+staff upon arrival prior to being paralyzed
+
+Sensation: unable to ass given patients clinical status
+
+At discharge: He has scalp sutures and staples. He has facial 
+lacerations and lip edema with sutures. 
+ 
+Pertinent Results:
+___ Head CT:
+Large right frontoparietal scalp subgaleal hematoma, 
+subcutaneous locules of gas and laceration. There is an 
+underlying comminuted, displaced and 
+depressed fracture of the right frontoparietal bone, extending 
+posteriorly to the lambdoid suture. There are hyperattenuating 
+foci along the right frontal region, which may represent small 
+contusions or foci of diffuse axonal injury (___). No evidence 
+of shift of normally midline structures or central herniation at 
+this time. 
+  
+NOTE ADDED IN ATTENDING REVIEW: There is also "contre-coup" 
+subarachnoid 
+hemorrhage in the contralateral sylvian fissure, as well as 
+likely small 
+contusion or focus ___ or less likely, subdural hemorrhage, 
+in the 
+periphery of the left frontal operculum, without significant 
+mass effect. 
+
+___ CT Torso:
+Left lung base consolidation likely aspiration. No other injury 
+to the chest, pelvis, or abdmomen noted.
+
+___ CT Cspine:
+1. No evidence of acute cervical spine fracture or alignment 
+abnormality. 
+2. NG tube appears coiled in the oral cavity and the upper 
+thoracic esophagus  (as on the concurrent CECT torso); correlate 
+clinically. 
+  
+___ CT head
+1. Small hyperattenuating foci in the right frontal l.obe and 
+"contre-coup" 
+lesion in the left frontal operculum, representing contusion or 
+___, are 
+unchanged. Trace subarachnoid hemorrhage in the left Sylvian 
+fissure is also stable. 
+2. No mass effect or new hemorrhage identified. 
+3. Stable large right frontoparietal subgaleal hematoma, status 
+post operative repair of depressed skull fracture and scalp 
+laceration.  
+
+___ CXR
+Left lower lobe consolidation has largely cleared since ___ consistent with resolved aspiration or pulmonary contusion. 
+Lungs are fully expanded and clear. Normal cardiomediastinal and 
+hilar silhouettes and pleural surfaces. 
+
+___ C-spine flexion and extension imaging
+ No radiographic evidence for dynamic instability
+
+___ Chest x-ray
+Right PIC C line ends in the right atrium. Suggest pulling back 
+4 
+cm. Otherwise, normal radiographic examination of the chest. 
+  
+
+ 
+Brief Hospital Course:
+Mr. ___ was intubated in the ED for airway protection. He did 
+have
+multiple episodes of vomiting per report from EMT en route to 
+the
+hospital.  He had a ab/pelvis/chest CT per trauma protocol which 
+did not reveal any significant abdominal injuries on preliminary 
+reports but his left lung base had a
+consolidation. He was taken directly to the OR from the ER for 
+elevation of the skull fracture and washout of the wound. In the 
+OR, wood was seen in the fracture cavity but no dural 
+penetration. Pieces of the wood was sent for culture. He was 
+then admitted to the neuro ICU for close monitoring. He was 
+started on Vanc/Flagyl/Cetrax. MRSA screen is pending. Plastic 
+surgery came and sutured his lip. Infectious disease was 
+consulted and they recommended the Tdap vaccine. He remained 
+intubated for his repeat Head CT. This showed post-op chnages 
+and no new hemorrhage. He was extubated. On ___ he was 
+transfered to the floor. His cervical spine was cleared by the 
+ICU after Ct c-spine showed no fracture. 
+
+His diet was advanced. He was voiding well. 
+
+On ___ he reported neck pain. Flexion and extension X-rays 
+showed no sign of instability. He was seen by ___ and OT. His 
+surgical dressing was removed. Wound nurses did not feel that 
+there was any special dressing needed. Plastic surgery requested 
+bactitracin to facial lacerations as needed. ___ felt that he 
+could beneift from home ___.
+
+MRSA and blood culures were negative as of ___ and a PICC 
+line was requested and placed. ID made new recommendations for 
+cefepime 2Q12, Flagyl 500 TID x 10d. We got names from his PCP 
+for ___ and Neurosurgery follow up. The Plastic surgeons do 
+not take his insurance. The cost for suture removal was  relayed 
+to the parents. They should go to their pediatrician for the 
+sutures if they choose. 
+
+ 
+Medications on Admission:
+Unknown
+ 
+Discharge Medications:
+1. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for fever/pain: max 400mg per day.  
+2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. white petrolatum-mineral oil 56.8-42.5 % Ointment Sig: One 
+(1) Appl Ophthalmic PRN (as needed) as needed for dry eyes.  
+4. bacitracin 500 unit/g Ointment Sig: One (1) Appl Ophthalmic 
+TID (3 times a day).  
+5. famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+6. phenytoin 50 mg Tablet, Chewable Sig: Two (2) Tablet, 
+Chewable PO TID (3 times a day).  
+7. oxycodone 5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 hours) 
+as needed for pain.
+Disp:*90 Tablet(s)* Refills:*0*
+8. Outpatient Physical Therapy
+Eval and treat for Traumatic brain injury
+9. cefepime 2 gram Recon Soln Sig: Two (2) grams Injection Q12H 
+(every 12 hours): d/c 12.
+Disp:*72 grams* Refills:*0*
+10. metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 18 days.
+Disp:*54 Tablet(s)* Refills:*0*
+11. heparin, porcine (PF) 10 unit/mL Syringe Sig: Two (2) ML 
+Intravenous PRN (as needed) as needed for line flush: Flush with 
+10mL Normal Saline followed by Heparin as above daily and PRN 
+per lumen. 
+Order was filled by pharmacy with a dosage form of Syringe and a 
+strength of 10 UNIT/ML .
+Disp:*10 ML(s)* Refills:*6*
+12. sodium chloride 0.9 % 0.9 % Piggyback Sig: Three (3) ML 
+Intravenous Q12H (every 12 hours): before and after each abx 
+dose.
+Disp:*180 ML(s)* Refills:*2*
+13. line care  Sig: One (1) treatment  weekly: Change dressing 
+weekly and as needed.
+Disp:*1 * Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Depressed comminuted skull fracture, SAH, SDH, cerebral 
+contusion confirmed on CT head
+Foreign body within fracture cavity confirmed on CT head
+Aspiration pneumonia confirmed on CT chest
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+General Instructions
+
+You need to see a Neurosurgeon near your home in 2weeks for a 
+wound check (around ___. The staples and sutures should 
+stay in place for 3 weeks (around ___. No resorbable 
+sutures were used under the skin in case of infection. 
+You should have a CT of the head +contrast in 4 weeks-the week 
+after ___++
+. 
+Dr. ___ ___ is a Neurosurgeon in your area. We 
+have faxed him your records and is will review them to decide if 
+he can see you in your area.
+
+You should see a Plastic surgeon in your area in 1 weeks to 
+follow up on your facial lacerations. Dr. ___ ___ 
+and Dr. ___ ___ are Plastic surgeons in your area. We 
+called them and they only acccept medicaide or $200 out of 
+pocket pay for suture removal. If this is a problem, please 
+refer to your pediatrician for wound check and removal of 
+remaining sutures in a week.
+
+You should use an over the counter topical antibiotic cream to 
+your facial lacerations as needed.
+
+You and your family should have the flu vaccine in about ___ 
+weeks.
+
+•Have a friend/family member check your incision daily for 
+signs of infection.
+•Take your pain medicine as prescribed.
+•Exercise should be limited to walking; no lifting, straining, 
+or excessive bending.
+•You may shower before this time using a shower cap to cover 
+your head.
+•Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+•Do not take any anti-inflammatory medicines such as Motrin, 
+Aspirin, Advil, and Ibuprofen etc. 
+•You have been prescribed Dilantin (Phenytoin) for anti-seizure 
+medicine, take it as prescribed for 7 days. 
+•Clearance to drive and return to work will be addressed at 
+your post-operative office visit.
+•Make sure to continue to use your incentive spirometer while 
+at home, unless you have been instructed not to. 
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,397 @@
+===== DISCHARGE NOTE =====
+note_id=10648258-DS-20 | hadm_id=27720187
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+anesthesia
+ 
+Attending: ___
+ 
+Chief Complaint:
+Back pain s/p mechanical fall 
+ 
+Major Surgical or Invasive Procedure:
+___ Fitted for TLSO brace 
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ yo woman with PMHx OA, rheumatoid arthritis (on 
+chronic steroids), radiculopathy, CKD III, ? cognitive 
+impairment and depression who presents on transfer from ___ 
+after sustaining a fall.
+
+Ms. ___ was in her usual state of health until evening of ___. 
+She reports bending over to pick something up while walking from 
+the kitchen to the bathroom and then falling on the ground. She 
+describes a senasation of her knees giving out but denies 
+preceding LOC or pre-syncope, denies bowel or bladder 
+incontinence, denies nausea, diaphoresis, palpitations, CP, post 
+fall confusion or amnesia. She fell on right elbow and denies 
+head strike. She ambulates with a walker at home and had walker 
+at her side when she fell.
+
+At ___ she underwent Lumbar XR and then CT A/P which 
+showed an acute compression fracture of L1 with extension into 
+pedicles "at least on the right side," with associated diffuse 
+disc bulging. Her main issue has been pain management. Per 
+___ discharge summary patient has been in significant pain on 
+regimen of morphine 3 mg IM Q4H PRN, lidocaine patch, oxycodone 
+10 mg Q4H
+PRN and tylenol ___ mg Q4H PRN.  Neurology service at ___
+recommended transfer to spinal service at ___. Dr. 
+___ case and recommend admission to medicine 
+for pain control; based on imaging does not indication for 
+surgical management. His team will see her when she gets here.
+
+Other issues during her hospital stay have been ? 
+choledocholithiasis and hypoxia. CT A/P obtained on ___ showed 
+a distended gallbladder with multiple stones with a dilated 
+common duct and mild dilatation of central intrahepatic ducts. 
+She had no associated LFT abnormalities and a HIDA obtained on 
+___ was normal. She also was noted to have a 2 L O2 
+requirement for most of her hospital stay at ___. A CTA of 
+her chest was obtained which showed no evidence of pulmonary 
+embolism but showed mild diffuse interstitial changes and trace 
+atelectasis. It appears her hypoxia resolved before transfer. 
+
+On arrival to the floor, patient relays the above history.  She 
+reports ___ back pain felt in the small of her lower back and 
+diffuse "all over pain." Denies leg weakness, parasthesias. 
+Denies current SOB, CP, palpitations, cough, leg weakness, 
+abdominal pain. Her last bowel movement was 3 days ago, 
+described as brown, non-bloody, non-melenic.  
+
+REVIEW OF SYSTEMS:  10 point ROS reviewed and negative except as 
+per HPI 
+ 
+Past Medical History:
+Severe RA on chronic steroids
+Osteoporos
+CKD 3
+Depression
+?Cognitive impairment
+Radiculopathy
+ 
+Social History:
+___
+Family History:
+Mother: MI
+Father: CAD 
+Son: Healthy. Lives in ___.
+ 
+Physical Exam:
+=====================
+ON ADMISSION 
+=====================
+VS: Temp 98.2 BP 152 / 85 HR  91 RR 18SaO2 92%RA  
+GENERAL: Elderly woman in NAD. AAOx3  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: Course crackles in lungs bilaterally. Otherwise no
+wheezing, breathing comfortably without use of accessory muscles 
+
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally  
+Back: No obvious lesions or deformities. Point tenderness over 
+L1
+vertebral process.
+NEURO: A&Ox3, moving all 4 extremities with purpose. ___ 
+strength
+hip flexion, knee flexion and extension. ___ strength UEs. 
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes 
+
+================
+EXAM ON DISCHARGE 
+==================
+Vitals:  97.8 PO 139/79 HR 86 RR 18 96% Ra 
+GENERAL: Elderly woman in NAD. AAOx3  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: Course crackles in lungs bilaterally. Otherwise no
+wheezing, breathing comfortably without use of accessory muscles 
+
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally  
+Back: No obvious lesions or deformities. Point tenderness over 
+L1
+vertebral process.
+NEURO: A&Ox3, moving all 4 extremities with purpose. ___ 
+strength
+hip flexion, knee flexion and extension. ___ strength UEs. 
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+ 
+Pertinent Results:
+====================
+LABS ON ADMISSION 
+====================
+___ 08:15AM BLOOD WBC-6.8 RBC-4.17 Hgb-12.2 Hct-37.4 MCV-90 
+MCH-29.3 MCHC-32.6 RDW-15.0 RDWSD-48.6* Plt ___
+___ 10:50AM BLOOD Neuts-78* Bands-2 Lymphs-14* Monos-3* 
+Eos-2 Baso-0 Atyps-1* ___ Myelos-0 AbsNeut-6.32* 
+AbsLymp-1.19* AbsMono-0.24 AbsEos-0.16 AbsBaso-0.00*
+___ 08:15AM BLOOD ___ PTT-31.1 ___
+___ 08:15AM BLOOD ___ PTT-31.1 ___
+___ 08:15AM BLOOD Glucose-101* UreaN-11 Creat-0.6 Na-144 
+K-3.8 Cl-103 HCO3-30 AnGap-11
+___ 08:15AM BLOOD ALT-28 AST-23 AlkPhos-117* TotBili-0.3
+___ 08:15AM BLOOD Calcium-8.6 Phos-3.4 Mg-1.9
+
+==================
+LABS ON DISCHARGE 
+==================
+___ 08:25AM BLOOD WBC-8.4 RBC-4.49 Hgb-13.4 Hct-40.6 MCV-90 
+MCH-29.8 MCHC-33.0 RDW-15.6* RDWSD-50.0* Plt ___
+___ 08:25AM BLOOD Glucose-106* UreaN-19 Creat-0.8 Na-144 
+K-4.8 Cl-103 HCO3-27 AnGap-14
+
+=====================
+IMAGING AT ___
+=====================
+
+Lumbar spine x-ray. IMPRESSION: L1 compression fracture, 
+indeterminant age.
+
+CTA chest ___ 
+IMPRESSION:
+1. No evidence of pulmonary emboli.
+2. Mild diffuse increased interstitial changes of the lungs with 
+trace amount of atelectasis in lower lung fields bilaterally.
+ 
+CT abdomen/pelvis ___
+IMPRESSION:
+1. Acute compression fracture of L1 that at least on the right 
+side extends through the pedicles. The canal due to the diffuse 
+disc bulging and fracture is 9 mm at that level.
+2. Distended gallbladder with multiple stones with a dilated 
+common duct and mild dilatation of central intrahepatic ducts. 
+Please correlate to liver function tests.
+
+Abdominal ultrasound ___
+Conclusion:
+1. Gallbladder dilatation, with calculi, some regional mild 
+tenderness, no definite wall thickening. These findings could 
+signify acute cholecystitis. Correlation with clinical findings; 
+HIDA scan may be considered for clarification. 
+2. Simple left kidney lower pole cyst.
+3. Otherwise normal ultrasound survey of upper abdomen and 
+retroperitoneum.
+
+HIDA ___
+After the IV injection of 3.1 mCi ___ technetium labeled 
+Mebrofenin, anterior sequential acquisitions up to 60 minutes 
+were performed.
+ 
+Findings: There is prompt uptake and excretion of the biliary 
+tracer.
+The common duct is visualized within 12 minutes. Tracer reaches 
+the
+gallbladder after 16 minutes. There is no significant delay in 
+tracer
+passing into the duodenum.
+ 
+Conclusion: Normal HIDA scan. No evidence for cystic or common 
+duct
+obstruction.
+
+===============
+IMAGING AT ___ 
+================
+
+MRI Spine ___
+1. Acute L1 vertebral body fracture with approximately 50% loss 
+of height and retropulsion causing mild canal narrowing without 
+mass effect on the spinal cord.  Bilateral L1-L2 neural foramina 
+are moderately narrowed. 
+2. Low lying conus medullaris, terminating near the lower 
+endplate of L3, 
+without evidence of a thickened or fatty filum terminale or 
+other tethering lesion. 
+3. Advanced facet arthropathy from L3-L4 through L5-S1 with 
+fluid in the facet joints.  Mild neural foraminal narrowing from 
+L2-L3 through L5-S1. 
+4. Thoracolumbar scoliosis, not fully assessed. 
+
+CT Spine ___
+1. Extensive L1 compression fracture with 7 mm of posterior 
+displacement 
+causing moderate spinal canal stenosis.  Moderate L1 height 
+loss. 
+2. Cholelithiasis.  Suggestion of tiny stone within common bile 
+duct.  Dilated common bile duct, measures 1.1 cm.  Correlation 
+with LFTs recommended to exclude obstruction. 
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ yo woman with PMHx OA, rheumatoid arthritis (on 
+chronic steroids), radiculopathy, CKD III, ? cognitive 
+impairment and depression who presents on transfer from ___ 
+after mechanical fall during which she sustained an L1 fracture.
+
+# Mechanical fall with L1 compression fracture: Patient 
+sustained a mechanical fall at home on ___. Patient has "balance 
+issues" in past known to her PCP and ambulates with a walker at 
+baseline. Nothing in history concerning for syncope vs seizure. 
+Imaging at ___ showed an L1 compression fracture; films 
+review by spine service both here and at ___ and ___ 
+deemed not a surgical candidate. Patient has some pain on 
+arrival here at ___ but appears improved compared to 
+intractable pain described at ___. Upon arrival to ___, 
+neurospine team was consulted and she underwent repeat imaging 
+with CT and MRI that demonstrated Acute L1 vertebral body 
+fracture with approximately 50% loss of height and retropulsion 
+causing mild canal narrowing without mass effect on the spinal 
+cord.  Bilateral L1-L2 neural foramina are moderately narrowed, 
+low lying conus medullaris, terminating near the lower endplate 
+of L3, without evidence of a thickened or fatty filum terminale 
+or other tethering lesion and advanced facet arthropathy from 
+L3-L4 through L5-S1 with fluid in the facet joints with mild 
+neural foraminal narrowing from L2-L3 through L5-S1. She was 
+fitted with a TLSO brace that should be worn when out of bed and 
+log roll precautions should be instituted when in bed. TLSO 
+brace to be worn until follow up with neurosurgery.  
+
+# Hypoxemia: Initially on O2 at ___, weaned to room air 
+upon arrival to ___. Likely in the setting of poor inspiration 
+related to pain. With TLSO brace and pain control, improved to 
+95-97% 
+
+# Hepatobiliary: Distended gallbladder and dilated common bile 
+duct were confirmed incidentally on imaging  at ___. No 
+LFT abnormalities and normal HIDA. Seen by general surgery at ___ 
+___ who determined no need for urgent intervention. Will 
+follow up with general surgery once outpatient. 
+
+# RBBB. EKG shows RBBB which was also present in ___ on review 
+of ___ record. 
+
+# RA. Patient's home prednisone 2.5 mg was increased to 5 mg at 
+___, perhaps for attempt of pain control. Continue 
+prednisone 5 mg for now, consider dose  reduction back to home 
+dose with outpatient provider .
+
+# Depression. Continue home sertraline. 
+
+========================
+TRANSITIONAL ISSSUES 
+========================
+- Follow up Neurosurgery on ___ with Spine Xray
+- Follow up with general surgery; contacted PCP ___ to 
+ensure she was scheduled with general surgery 
+- Consider referral to interventional radiology for 
+vertebroplasty if pain does not improve in one month. 
+- Schedule PCP appointment upon discharge from rehab 
+- Patient with choledocolithasis with CBD dilation but 
+asymptomatic currently. HIDA at ___ negative. Should 
+follow up with general surgery 
+- TLSO Brace at all times when out of bed until neurosurgery 
+appointment 
+- Log roll precautions when moving in bed without brace 
+- Full code 
+- Point of contact is patient's son, in ___, 
+telephone number  ___
+- Weight: 126 kg 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PredniSONE 2.5 mg PO DAILY 
+2. Vitamin D ___ UNIT PO DAILY 
+3. FoLIC Acid 1 mg PO DAILY 
+4. Sertraline 200 mg PO DAILY 
+5. Simvastatin 10 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+2.  Docusate Sodium 100 mg PO BID 
+hold if loose stools. discontinue once nacrotics stopped.   
+3.  OxyCODONE (Immediate Release) ___ mg PO Q6H Pain 
+hold for RR< 12 and sedation.  
+RX *oxycodone 5 mg 1 tablet(s) by mouth every six hours Disp 
+#*12 Tablet Refills:*0 
+4.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+Use if patient has not had BM in ___ days   
+5.  Senna 17.2 mg PO BID 
+hold if loose stools. discontinue once nacrotics stopped.   
+6.  PredniSONE 5 mg PO DAILY  
+7.  FoLIC Acid 1 mg PO DAILY  
+8.  Sertraline 200 mg PO DAILY  
+9.  Simvastatin 10 mg PO QPM  
+10.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+L1 Compression Fracture 
+Asymptomatic cholelithiasis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted to the ___ in ___ because you 
+had a fall. 
+
+WHAT WE DID: 
+- You had imaging of your spine called MRI and CT that showed 
+you had an L1 compression fracture. 
+- You were fitted with a TLSO brace. YOU SHOULD WEAR THIS BRACE 
+ANYTIME YOU ARE NOT IN BED. You do not have to wear the brace 
+when you are in bed 
+- You were seen by our neurosurgery team. They would like you 
+see them at the appointment listed below. You will need an X-Ray 
+before that appointment which is also scheduled for you. 
+- It was noted that you have gallstones. There is nothing to do 
+for this now. You should follow up with a general surgeon as 
+scheduled below. 
+
+NEXT STEPS: 
+- TLSO brace when moving out of bed. YOU RISK PARAYLSIS IF YOU 
+MOVE AROUND OUT OF BED WITHOUT YOUR TLSO BRACE 
+- Attend your neurosurgery appointment 
+- Attend your general surgery appointment 
+- Call the doctor if you have the following symptoms: incomplete 
+emptying of your bladder, if you lose control of your bowels, 
+numbness and tingling in your legs, worsening back pain. 
+- You should also call your doctor if you have fevers, chills, 
+abdominal pain, diarrhea or constipation. 
+
+NEXT STEPS: 
+- Attend your neurosurgery appointment 
+- Schedule appointment with your primary care doctor 
+- You should see a general surgeon
+- Wear TLSO brace when out of bed   
+
+It was a pleasure participating in your care 
+___ team 
+ 
+Followup Instructions:
+___

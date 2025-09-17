@@ -1,0 +1,388 @@
+===== DISCHARGE NOTE =====
+note_id=11772675-DS-18 | hadm_id=26181419
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Confusion, lightheadedness 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This is a very pleasant ___ right handed woman with a history 
+of
+heart murmur, well controlled hypertension and hyperlipidemia,
+osteoporosis and a pancreatic cyst who presents to the ED as a
+referral from her PCP following some new symptoms noted today.
+She provides an excellent history. 
+
+She has been eating less lately due to passover. She had a small
+piece of Matzah this morning before going to work out and lift
+weights (she works out several times a week, either aerobic
+exercises or light weight lifting). She lifted some weights 
+today
+between 8 and 8:30 but does not recall overdoing it or any neck
+strain. She was chatting with a colleague at around ___ when all
+of a sudden, she felt very ligtheaded and "dizzy and
+disoriented". She is not able to describe further with much
+clarity. She denies any vertigo or pulsion. She did not have any
+abnormal visual phenomenon or faint or fall over. There were no
+twitching or jerking movements. She did not have any double
+vision or headache. The episode lasted about 2 minutes, and she
+reports that it was clear that her colleague didn't recognize
+that anything was wrong. She excused herself and just felt 
+"off".
+She was able to walk to the car and then drive to her friend's
+place for a walking date. There, her friend did not notice
+anything overtly wrong, but did ask her to touch base with her
+PCP. She finally did go to her PCP's office, and saw the NP and
+PCP and both referred her to the ED for concern for "TIA". 
+
+At this time, she still feels "cognitively confused". She denies
+any recent significant psychosocial stressors. She reports that
+her memory is usually quite sharp: she works as a ___
+and never has to take any notes because her memory is perfect.
+She was noted to be significantly hypertensive to 208/80 in
+triage - this has since improved without medication down to the
+150-160s SBP. Her friend was with her today in the ED. 
+
+On general review of systems, the pt denies recent fever or
+chills. Denies cough, shortness of breath. Denies chest pain or
+tightness, palpitations. Denies nausea, vomiting, diarrhea,
+constipation or abdominal pain. No recent change in bowel or
+bladder habits. No dysuria. Denies arthralgias or myalgias.
+Denies rash.  
+
+Neurological Review of Systems: Negative for asymmetric 
+weakness,
+numbness, diplopia, dysarthria, dysphagia, tongue numbness,
+change in taste, loss of consciousness, jerking/twitching
+episodes. No pins/needles sensations, numbness. Negative for
+problems with blurry vision or loss of vision.  
+
+ 
+Past Medical History:
+- Hypertension: "VERY well controlled", with report of BPs 
+always
+in the 130/80s range on serial PCP ___.  
+- Hyperlipidemia 
+- Osteoporosis on Ca/MVI supplementation 
+- Thyroid nodule 
+- Pancreatic cyst: see notes from GI service, incidentally
+discovered when looking for source of abdominal pain. Looks to
+have had an EUS guided biopsy/aspiration of fluid in the past
+that was acellular. Currently believed to be a benign lesion. Is
+scheduled for follow up MR/MRCP. 
+- TAHBSO 
+- T/A 
+- Appendectomy 
+- Heart murmur: Last echo in ___ showed "The left atrium is
+normal in size. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal. Due to
+suboptimal technical quality, a focal wall motion abnormality
+cannot be fully excluded. Overall left ventricular systolic
+function is normal (LVEF 60%). No masses or thrombi are seen in
+the left ventricle. There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. There
+are focal calcifications in the aortic arch. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve 
+prolapse.
+Trivial mitral regurgitation is seen. The estimated pulmonary
+artery systolic pressure is normal. There is no pericardial
+effusion." 
+
+ 
+Social History:
+___
+Family History:
+Father with stroke, who ultimately succumbed to
+the stroke.
+ 
+Physical Exam:
+On physical examination, vital signs in triage initially were
+97.8, 72, 208/80, 18, 99%. During my interview, her BP hovered 
+in
+the 150-160/70s range. In general, patient is awake, 
+cooperative,
+pleasant and in no apparent distress. The patient had a NCAT 
+head
+without conjunctival icterus. Mucous membranes were moist and
+oropharynx is clear of lesions. Neck was supple without masses 
+or
+thyromegaly. Chest examination revealed regular heart sounds a
+systolic murmur heard best in the RUSB and LUSB, and lungs were
+clear to auscultation bilaterally. Belly was soft without focal
+tenderness, and extremities were warm and well perfused. Skin
+examination multiple depigmented and hyperpigmented spots over
+face and back consistent with sun damage, also with multiple
+nevi. 
+
+Neurologically, the patient is awake, alert and oriented x 3.
+Able to relate history without difficulty. Attentive, able to
+name ___ backward without difficulty. She was able to accurately
+tell me her home phone number and her street address. She paid
+attention to the examiner and followed complex commands. 
+Language
+is fluent with intact repetition and comprehension. Reads well.
+Copies complex 2d objects without difficulty. Calculates
+normally. NO right/left confusion. Normal prosody. There were no
+paraphasic errors. Pt. was able to name both high and low
+frequency objects. Able to read without difficulty. Speech was
+not dysarthric. Able to follow both midline and appendicular
+commands. Pt. was able to register 3 objects and recall ___ at 5
+minutes ("you gave me three objects to remember?"). She
+attributed her memory problems to anxiety. Episodic memory was
+better when provided a long sentence of facts. She could recall
+four out of five facts in "My sister lives in ___ and
+works as an ___. Her husband is a ___ and together
+they ___ ___". She could recall the name of the President
+but not the vice president or speaker. There was no evidence of
+apraxia or neglect.  
+
+Cranial nerve examination revealed round, equal and reactive
+pupils with full visual fields to confrontation. Visual acuity
+was grossly intact. Extraocular movements were full without
+dysconjugate gaze, nystagmus or diplopia per report. There was 
+no
+facial asymmetry, ptosis or facial droop. Hearing is intact
+grossly. Facial sensation was intact to light touch and pinprick
+bilaterally. Palate elevates symmetrically, and the strength of
+trapezii and SCMs was ___ bilaterally. Tongue was strong
+bilaterally without atrophy or fasiculations.  
+
+Strength examination showed normal bulk, tone throughout. No
+pronator drift bilaterally. No adventitious movements, such as
+tremor, noted. No asterixis noted.  
+ Delt Bic Tri WrE FFl FE  IP Quad Ham TA ___   
+L 5    5    ___   ___   5   5    5     5    
+R 5    5    ___   ___   5   5    5     5  
+
+The sensory examination revealed no deficits to light touch,
+pinprick. Vibration at great toes was slightly impaired at 8s
+bilaterally. 
+
+The reflex examination revealed:  
+   Bi Tri ___ Pat Ach  
+L  2   2    2     2  2  
+R  2   2    2     2  2  
+Plantar response: Down 
+
+Bedside tests of cerebellar function revealed no intention
+tremor, dysdiadochokinesia or dysmetria. Gait was narrow based
+and steady without truncal ataxia. Tandem gait was normal. 
+Romberg was negative. 
+
+DISCHARGE PHYSICAL EXAM:
+VSS
+Neuro: AAOx3, EOMI, PERRL, able to recall ___ objects from 
+initial admission exam without prompting (recalled remaining ___ 
+objects with prompting). Able to recall visuospatial orientation 
+of ED room objects. CN exam non-focal.
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 03:29PM BLOOD WBC-8.8 RBC-4.78 Hgb-13.9 Hct-43.4 MCV-91 
+MCH-29.1 MCHC-32.0 RDW-13.1 Plt ___
+___ 03:29PM BLOOD Neuts-70.0 ___ Monos-4.2 Eos-0.3 
+Baso-0.9
+___ 03:29PM BLOOD Glucose-92 UreaN-18 Creat-0.8 Na-139 
+K-4.1 Cl-98 HCO3-31 AnGap-14
+___ 09:00PM BLOOD ALT-18 AST-28 LD(LDH)-155 CK(CPK)-76 
+AlkPhos-44 TotBili-0.3
+___ 09:00PM BLOOD CK-MB-3 cTropnT-<0.01
+___ 09:00PM BLOOD %HbA1c-6.1* eAG-128*
+___ 09:00PM BLOOD HDL-96 CHOL/HD-2.0 LDLmeas-89
+___ 03:29PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+___ 05:30PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-MOD
+___ 05:30PM URINE RBC-<1 WBC-9* Bacteri-FEW Yeast-NONE 
+Epi-<1 TransE-<1
+___ 05:30PM URINE CastHy-1*
+___ 05:30PM URINE Mucous-RARE
+___ 05:30PM URINE Color-Straw Appear-Clear Sp ___
+
+___ 05:30PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG mthdone-NEG
+
+IMAGING:
+CT HEAD ___: FINDINGS: 
+There is no evidence of acute intracranial hemorrhage, mass 
+effect, shift of the normally midline structures or vascular 
+territory infarct.  Gray-white matter differentiation is 
+preserved throughout.  Ventricles and sulci are enlarged 
+consistent with age related global atrophy.  Periventricular 
+white matter hypodensities are consistent with a sequelae of 
+chronic small vessel ischemic disease.  Mastoid air cells are 
+well aerated.  Paranasal sinuses are well aerated.  No osseous 
+or soft tissue abnormalities.     
+IMPRESSION: 
+No evidence of acute intracranial process.   
+
+MRI and MRA of the brain and MRA of the neck, ___:
+CLINICAL INDICATION:  New onset of lightheadedness and memory 
+difficulties, stroke protocol, evaluate focus of mesial temporal 
+lobe and ischemia. 
+COMPARISON:  Head CT dated ___. 
+TECHNIQUE:  Sagittal T1, axial T2, axial FLAIR, axial magnetic 
+susceptibility and axial diffusion-weighted images were obtained 
+through the brain. 
+3D time arteriography of the head was obtained, axial source 
+images on maximum intensity projection images were reviewed. 
+After the administration of gadolinium contrast, bolus tracking 
+sequences were obtained throughout the neck vessels, coronal 
+source images and multiplanar reconstructions were reviewed. 
+  
+FINDINGS:  MRI OF THE HEAD:  There is no evidence of 
+intracranial hemorrhage, mass, mass effect or shifting of the 
+normally midline structures.  The ventricles and sulci are 
+slightly prominent, possibly age-related and involutional in 
+nature.  No diffusion abnormalities are detected.  There is no 
+evidence of focal lesions to indicate chronic ischemic changes.  
+The major vascular flow voids are present and demonstrate normal 
+distribution.  The orbits are unremarkable, the paranasal 
+sinuses and the mastoid air cells are clear. 
+IMPRESSION:  There is no evidence of acute or subacute 
+intracranial process.  Slightly prominent ventricles and sulci, 
+possibly age-related and involutional in nature and suggesting 
+mild cortical volume loss. 
+MRA OF THE HEAD: 
+There is evidence of vascular flow in both internal carotid 
+arteries as well as the vertebrobasilar system, no flow stenotic 
+lesions or aneurysms larger than 3 mm in size are seen.  The 
+posterior circulation demonstrates patency in both vertebral 
+arteries with dominance of the left vertebral artery.  The 
+anterior, middle and posterior cerebral arteries are patent, the 
+left posterior communicating artery appears patent with 
+hypoplasia of the P1 segment on the right, consistent with 
+anatomical vascular variation. 
+IMPRESSION:  Essentially normal MRA of the head with no evidence 
+of flow 
+stenotic lesions or aneurysms larger than 3 mm in size. 
+MRA OF THE NECK: 
+The origin of the supra-aortic vessels appears normal, the 
+common carotid 
+arteries are patent, the carotid cervical bifurcations are 
+normal with no 
+evidence of flow stenotic lesions.  The course of the internal 
+carotid 
+arteries appears normal. 
+The origin of both vertebral arteries appear patent with mild 
+tortuosity 
+bilaterally, no flow stenotic lesions are visualized. 
+IMPRESSION:  Mild tortuosity of the vertebral arteries 
+bilaterally with no evidence of flow stenotic lesions. The 
+cervical carotid bifurcations are widely patent.
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to ___ on ___ after presenting to the 
+ED as above. Initial CT scan obtained in the ED was negative for 
+acute intracranial process. Her active hospital issues, by 
+system, are summarized as follows:
+
+1) Neuro: Presented with symptoms of transient global amnesia in 
+setting of hypertensive urgency and baseline anxiety. Rapidly 
+improved to baseline mental status. CT scan without acute 
+intracranial process. MRI/MRA within normal limits as well (see 
+above). Given constellation of rapidly improving exam and 
+hypertensive urgency, patient was diagnosed with hypertensive 
+encephalopathy. Other etiologies, including PRESS and epileptic 
+activity considered, but deemed unlikely upon review of imaging. 
+Patient scheduled for outpatient follow-up with Dr. ___ on 
+___. No medication adjustments made.
+
+2) CV: Presented with hypertensive urgency, characterized by 
+systolic pressure of 208 in ED. Rapdily improved to normal 
+ranges without intervention. Hypertensive urgency likely lead to 
+hypertensive encephalopathy as above. Continued home 
+anti-hypertensives on admission to floor; no further episodes of 
+HTN urgency.
+
+3) ID: UA in ED with mild pyuria and bacteriura. While this may 
+have represented asymptomatic bacteriuria, decision was made to 
+treat given possibility UTI may have been contributing to AMS. 
+Regardless, UTI very unlikely to be sole contributor to AMS, as 
+she improved rapidly prior to initiation of antibiotics. Other 
+explanations more likely, as above. Discharged with prescription 
+for 3 days of Bactrim DS.
+
+TRANSITIONAL ISSUES:
+- Neuro f/u with Dr. ___ on ___.
+- EEG deferred, though should be considered if symptoms recur.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Hydrochlorothiazide 25 mg PO DAILY 
+Hold for sBP <90, HR <60 
+2. Temazepam 30 mg PO HS:PRN insomnia/anxiety 
+Hold for sedation. 
+3. Simvastatin 40 mg PO DAILY 
+4. Ascorbic Acid ___ mg PO DAILY 
+5. Calcium Carbonate 500 mg PO DAILY 
+6. Fish Oil (Omega 3) 1000 mg PO BID 
+7. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Ascorbic Acid ___ mg PO DAILY 
+2. Calcium Carbonate 500 mg PO DAILY 
+3. Multivitamins 1 TAB PO DAILY 
+4. Simvastatin 40 mg PO DAILY 
+5. Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 3 Days 
+Total of 3 days. 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tablet(s) by 
+mouth twice a day Disp #*5 Tablet Refills:*0
+6. Fish Oil (Omega 3) 1000 mg PO BID 
+7. Hydrochlorothiazide 25 mg PO DAILY 
+8. Temazepam 30 mg PO HS:PRN insomnia/anxiety 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+- transient global amnesia
+- altered mental status without acute delirium
+- hypertensive urgency
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+Thank you for choosing ___ for your medical care. You were 
+admitted for transient neurologic symptoms, which were initially 
+concerning for a stroke. You had several studies, including a CT 
+scan and MRI/MRA of your head and neck. These studies proved you 
+did not have a stroke. Your symptoms are most likely related to 
+anxiety, high blood pressure, or perhaps a combination of these.
+
+You should follow-up in the neurology clinic in the next few 
+months to assess for any further need for neurological 
+intervention.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,1467 @@
+===== DISCHARGE NOTE =====
+note_id=10677013-DS-3 | hadm_id=23642501
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Acute pancreatitis
+
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Mr ___ is a ___ with h/o ETOH abuse, alcoholic pancreatitis, 
+CAD who presented to ___ with on day of 
+n/v/abd pain and found to have acute pancreatitis and ETOH 
+withdrawal on ___. At the time of presentation his Lipase was 
+___bd/pelvis showed mild peripancreatic edema and fluid 
+infiltration in retroperitoneum. The patient was intially 
+treated on the medicine service with IVF, analgesia and kept 
+NPO. However, his course was complicated by Delirium tremens for 
+which he was transferred to the critical care unit on ___. He 
+was treated with dexmedetomide and IV lorazepam with 
+improvement. At this time the patient is ___ days out from his 
+last drink and maintained on IV lorazepam. The patient began to 
+complain of increasing abdominal pain with note of increased 
+abdominal girth and tenderness on exam. Repeat CT showed 
+enlargement of the pancreas with circumferential peripancreatic 
+fluid collection and enlarging collection in lesser sac and 
+splenic hilium, as well as retroperitoneal fluid, and findings 
+suggestive of pancreatic necrosis. In addition, the patient has 
+been persistently febrile over the past few days with maximum 
+temp of 102 with persistant leukocytosis (wbc 15K with 30% 
+bands). His cultures prior to transfer were negative to date 
+other than CDIFF. He was found to have postive CDIFF PCR and was 
+started on IV flagyl. Planned to start PO vancomycin but not 
+administered prior to transfer. He has remained HD stable 
+throughout his course with  BP 110s, HR in 90-100s, O2 stas 96% 
+on 2L NC (dropping to 88% on RA), foley in place draining 
+100-1500cc/hr on D51/2NS 20KCL at 75cc/hr. He has been kept NPO 
+and was on PPN prior to transfer. (He apparently failed speech 
+and swallow evaluation on the day of discharge). He was 
+transferred to ___ for further management of his pancreatitis 
+with consideration of needle aspiration of pancreatic bed to 
+exclude superinfection. On the day of discharge, labs were 
+significant for lipase 38, albumin 1.8. normal LFTs, glucose 
+197, prealb 4.8, WBC 15, HCT 30.
+
+ 
+Past Medical History:
+- ETOH abuse
+- Alcoholic Pancreatitis
+- Previous sepsis
+- PE, IVC filter?
+- Cardiomyopathy w/ VFib arrest s/p Placement of cardioverter 
+defibrillator ___ 
+- Hypertension
+- Hyperlipidemia  
+- Coronary artery disease  
+- GERD 
+- splenic infarct
+
+ 
+Social History:
+___
+Family History:
+Per records: no significant cardiac history
+ 
+Physical Exam:
+Vitals: T 100.2 151/78 108 ___ on 2L NC 
+General: Alert, oriented to self, intermittently to place and 
+date  
+HEENT: Sclera anicteric, dry MMM, white plaque on tongue, PERRL  
+
+Neck: supple, JVP not elevated 
+CV: Regular, tachycardic, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear anteriorly but difficult to assess due to poor 
+patient cooperation. 
+Abdomen: distended, bowel sounds present, soft, tender to 
+palpation largely in epigastrium  
+GU: foley with clear yellow urine 
+Skin: erythematous rash in groin 
+Ext: warm, well perfused, 2+ pulses, no edema  
+Neuro: Altered, intermittently able to respond to questions 
+appropriately, moves all exremities
+
+DISCHARGE LABS
+VS: 98.2 105-123/60-75, 67-74, 20, 96% RA BG 133-140 I/O ___ + BM 
+GEN: generally well appearing, but does appear uncomfortable. 
+HEENT: EOMI, sclera anicteric, OP clear  
+NECK: No LAD  
+CV: RRR, No m/r/g, nl S1, S2  
+LUNGS: CTAB, no wheezing, no crackles
+ABD: No epigastric tenderness, normal bowel sounds, 
+non-distended  
+EXT: No edema, 2+ radial, DP, ___ pulses bilaterally. 
+Erythematous and slightly tender R great toe, no abnormalities 
+appreciated on left foot.
+NEURO: CN II-XII intact Moving all four extremities 
+spontaneously, gait normal. Appropriate, alert. 
+
+ 
+Pertinent Results:
+OSH:
+CT abd/pelvis ___
+Small right mod left pleural effusion. heart enlarged. no 
+pericardial effusion. no biliary dilation but high density 
+material in gallbladder. Progressive severe pancreatitis wit 
+pancreatic enlargement and new findings of pancreatic necrosis. 
+___ pancreatic, lesser sac, retroperitoneal, mesenteric fluid 
+collections. new thickened transverse colon. Pancreatic severity 
+index ___.
+.
+ADMISSION 
+___ 01:41AM BLOOD WBC-19.5*# RBC-3.25* Hgb-10.4*# Hct-30.9* 
+MCV-95 MCH-32.1* MCHC-33.7 RDW-13.8 Plt ___
+___ 01:41AM BLOOD Neuts-88.1* Lymphs-7.0* Monos-3.7 Eos-1.0 
+Baso-0.2
+___ 01:41AM BLOOD Glucose-144* UreaN-11 Creat-0.7 Na-136 
+K-4.7 Cl-101 HCO3-23 AnGap-17
+___ 01:41AM BLOOD Albumin-3.1* Calcium-9.2 Phos-3.2 Mg-2.1
+.
+PERTINENT
+___ 01:41AM BLOOD ___ PTT-24.6* ___
+___ 01:41AM BLOOD ALT-22 AST-41* LD(LDH)-457* AlkPhos-87 
+TotBili-0.3
+___ 09:34AM BLOOD Lipase-57
+___ 01:41AM BLOOD Triglyc-133
+___:08AM BLOOD Lactate-2.1*
+___ 02:08AM BLOOD freeCa-1.20
+___ 02:02AM URINE Color-Yellow Appear-Clear Sp ___
+___ 02:02AM URINE Blood-MOD Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-8.0 Leuks-NEG
+___ 02:02AM URINE RBC-38* WBC-1 Bacteri-FEW Yeast-NONE 
+Epi-0
+__________________________________________________________
+___ 10:53 pm URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 1:57 pm BLOOD CULTURE      Source: Venipuncture #2. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 1:57 pm BLOOD CULTURE      Source: Venipuncture. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 1:52 pm URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 8:22 am BLOOD CULTURE      Source: Venipuncture. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 4:07 am BLOOD CULTURE      Source: Venipuncture. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 9:46 pm URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 9:50 pm BLOOD CULTURE      Source: Venipuncture. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 9:34 am BLOOD CULTURE      Source: Venipuncture. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 1:41 am BLOOD CULTURE      Source: Venipuncture. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 1:41 am MRSA SCREEN      Source: Nasal swab. 
+
+                            **FINAL REPORT ___
+
+   MRSA SCREEN (Final ___:    No MRSA isolated. 
+
+STUDIES:
+___ CXR Feeding tube tip is in the distal stomach.  There is 
+obscuration of the left hemidiaphragm in the retrocardiac region 
+consistent with volume loss/infiltrate.  The remainder of the 
+lungs are clear.  Single dual-lead cardiac pacemaker is again 
+visualized. 
+
+DISCHARGE LABS
+
+___ 06:50AM BLOOD WBC-6.0 RBC-2.69* Hgb-8.5* Hct-26.0* 
+MCV-97 MCH-31.8 MCHC-32.8 RDW-13.7 Plt ___
+___ 06:50AM BLOOD Glucose-120* UreaN-5* Creat-0.7 Na-142 
+K-4.7 Cl-108 HCO3-27 AnGap-12
+___ 06:50AM BLOOD Calcium-9.2 Phos-5.1* Mg-1.8
+ 
+Brief Hospital Course:
+Mr ___ is a ___ with h/o ETOH abuse, pancreatitis, CAD who 
+presented to ___ with acute pancreatitis on 
+___ c/b ETOH withdrawal with DTs, transferred to the ___ MICU 
+for further management of pancreatitis and delirium who has been 
+managed conservatively.
+
+ACUTE CARE 
+# Acute Pancreatitis Patient with h/o pancreatitis likely 
+secondary to ETOH abuse ___ 133). There was concern for 
+pancreatic necrosis at OSH, however review of imaging here 
+showed acute pancreatitis but no etiology of necrosis. Upon 
+transfer from OSH, he was initially febrile with a mild 
+leukocytosis, and this was attributed to possible cytokine 
+release from pancreatitis. He was managed at OSH and at ___ 
+with IVF, NPO and pain control, received tube feeds, this was 
+subsequently stopped and Dobhoff was discontinued. He was then 
+trialed on clear diet but had recurrence of pain, he was again 
+NPO with IV dilaudid pain medications, and then diet was 
+advanced and he was transitioned to PO dilaudid without any 
+worsening of pain.  He was discharged on BRAT diet with very 
+cautious advancement. 
+ 
+# CDIFF colitis  - tested positive at OSH and given IV flagyl, 
+but was started on PO vanc on ___ for ___t time of 
+discharge, he was having formed stools.
+
+# ETOH abuse/delirium tremens: Last drink over 2 weeks ago. 
+Patient's course complicated by delirium tremens, he was started 
+on Precedex and Lorazepam gtt at the OSH, this was tapered off 
+and discontinued with radical improvement in mental status, 
+which could indicated that benzo intoxication was a large 
+contributor to his delirium. No signs of alcohol withdrawal.  He 
+was started on thiamine, MVI, folic acid. Social work was 
+consulted and he was felt to be pre-contemplative regarding 
+cessation of alcohol. 
+ 
+# Gout: R podogra, possibly some left foot metatarsal pain. 
+Improved with treatment with Indomethacin 50mg TID for now and 
+also Omeprazole to decrease risk of GIB (not preventative). At 
+time of discharge, he had mild pain at R podogra but no pain on 
+left foot.
+  
+# Anemia: Likely secondary to ETOH abuse. Mildly elevated LDH 
+but haptoglobin is elevated, making hemolysis unlikely. OSH labs 
+showed low iron, high ferritin (consistent with anemia of 
+chronic disease). No evidence of bleeding.   
+
+# Transaminitis-resolved, but initially was mild and consistent 
+with alcohol-related liver disease.
+
+# fungal infections: The patient endorsed crural candial 
+infection and was treated with miconazole powder; he also had 
+oral candidiasis and was treated with nystatin s/s
+
+TRANSITIONS OF CARE
+# Communication: wife, HCP ___ (cell) ___ (home) 
+___  
+# Code: Full (confirmed with wife in MICU)   
+# ISSUES TO DISCUSS AT FOLLOW UP:
+- Consider ASA
+- Outpatient EGD recommended
+# PENDING STUDIES AT TIME OF DISCHARGE:
+- none
+ 
+Medications on Admission:
+Home Medications:  
+- Omeprazole 20 dialy
+- Percocet ___ tabs Q six hours prn
+- flexeril 15mg po dilay
+- tramadol 50mg po q six hours prn
+- citalopram 20mg po daily
+-indomethacin 25mg po q8hrs prn 
+-tricor 145mg po daily
+
+Medications on Transfer
+- Acetaminophen
+- Heparin 5000U Sq q8hours 
+- Hydromorphone 1mg IV Q 2hours prn
+- Ativan 1mg IV q 2hours prn
+- Lorazepam 1mg IV q 8hrs
+- Metoprolol 2.5mg IV Q6hrs
+- ondansetron 4mg iv 8
+
+ 
+Discharge Medications:
+1. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.
+Disp:*30 Tablet(s)* Refills:*0*
+2. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+3. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+4. Tricor 145 mg Tablet Sig: One (1) Tablet PO once a day.  
+5. vancomycin 125 mg Capsule Sig: One (1) Capsule PO Q6H (every 
+6 hours) for 6 days.
+Disp:*24 Capsule(s)* Refills:*0*
+6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO once a 
+day as needed for constipation.
+Disp:*30 Capsule(s)* Refills:*0*
+7. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. quetiapine 25 mg Tablet Sig: ___ Tablets PO twice a day: One 
+pill in the morning and 2 pills in the evening.
+Disp:*90 Tablet(s)* Refills:*0*
+11. indomethacin 25 mg Capsule Sig: Two (2) Capsule PO TID (3 
+times a day) as needed for gout.
+Disp:*30 Capsule(s)* Refills:*0*
+12. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical QID 
+(4 times a day) as needed for itch in groin.
+Disp:*1 container* Refills:*0*
+13. hydromorphone 2 mg Tablet Sig: ___ Tablets PO every ___ 
+hours as needed for pain: Do not drive or drink alcohol while 
+taking this medication. Do not exceed the recommended dose.
+Disp:*20 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Alcoholic Pancreatitis
+Alcohol withdrawal
+Gout
+clostridium difficile colitis
+
+Secondary Diagnosis:
+hypertension
+hyperlipidemia
+coronary artery disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+You were admitted for pancreatitis, which was likely due to 
+alcohol. Your hospital course was complicated by withdrawal from 
+alcohol and gout, both of which have improved. You should eat a 
+very conservative diet, and avoid alcohol above all else. We 
+recommend for you to eat a BRAT diet, which stands for banana, 
+rice, applesauce and toast. 
+
+You must quit drinking alcohol. You have expressed your desire 
+to engage with AA, and we highly recommend that you follow 
+through with your intention to do this.
+
+Please note the following changes to your medications:
+- STOP percocet
+- STOP Flexeril
+- STOP tramadol
+- START dilaudid for pain, discuss decreasing the dose with your 
+PCP.
+- START senna and colace as a bowel regimen while you are taking 
+dilaudid
+- START folic acid
+- START thiamine
+- START multivitamin
+- START vancomycin for 6 more days
+- START miconazole powder for the itch in your groin as needed
+- START indomethacin for gout, stop when no longer needed. Do 
+not exceed 50mg three times per day.
+- START seroquel one dose in the am and two doses in the pm.
+
+Please be sure to follow up with your primary care physician. We 
+recommend that you get an outpatient EGD. Please discuss this 
+recommendation with your PCP.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10677013-DS-5 | hadm_id=24275549
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Back pain and radicular symptome
+ 
+Major Surgical or Invasive Procedure:
+___ L3-5 Laminectomies, L3-S1 Posterior Instrumented Spinal 
+Fusion
+
+ 
+History of Present Illness:
+___ w/ symptomatic lumbar spinal stenosis that failed 
+conservative treatments. 
+ 
+Past Medical History:
+- ETOH abuse  
+- Alcoholic Pancreatitis x3 per patient  
+- Cdiff tx w/ vanc from prior admission
+- PE presented as hemoptysis after fall in ___ s/p 6 months of 
+warfarin ___  
+- Cardiomyopathy w/ VFib arrest s/p Placement of cardioverter  
+defibrillator ___  
+- Hypertension  (has not been on lisinopril in years)
+- Hyperlipidemia  
+- Coronary artery disease - had angioplasty in ___ w/o stenting
+- GERD  
+- Splenic infarct  
+- Depression/anxiety
+ 
+Social History:
+___
+Family History:
+brother, sister - lung cancer. mother - heart disease in ___.
+ 
+Physical Exam:
+AVSS
+
+Well appearing, NAD, comfortable
+
+BUE: SILT C5-T1 dermatomal distributions
+
+BUE: ___ Del/Tri/Bic/WE/WF/FF/IO
+
+BUE: tone normal, negative ___, 2+ symmetric DTR 
+bic/bra/tri
+
+All fingers WWP, brisk capillary refill, 2+ distal pulses
+
+BLE: SILT L1-S1 dermatomal distributions
+
+BLE: ___ ___
+
+BLE: tone normal, no clonus, toes downgoing, 2+ DTR knee/ankle
+
+All toes WWP, brisk capillary refill, 2+ distal pulses
+
+ 
+Brief Hospital Course:
+Patient was admitted to the ___ Spine Surgery Service and 
+taken to the Operating Room for the above procedure.  Refer to 
+the dictated operative note for further details.  The surgery 
+was without complication and the patient was transferred to the 
+PACU in a stable condition.  TEDs/Pneumoboots were used for 
+postoperative DVT prophylaxis.  Intravenous antibiotics were 
+continued for 24hrs postop per standard protocol. Initial postop 
+pain was controlled with a PCA.  Diet was advanced as tolerated. 
+ The patient was transitioned to oral pain medication when 
+tolerating PO diet.  Foley was removed on POD#2.  Physical 
+therapy was consulted for mobilization OOB to ambulate.  
+Hospital course was otherwise unremarkable.  On the day of 
+discharge the patient was afebrile with stable vital signs, 
+comfortable on oral pain control and tolerating a regular diet. 
+
+ 
+Medications on Admission:
+Citalopram 20 mg PO ___, Cyclobenzaprine ER 15mg PO ___, 
+Fenofibrate, Lidocaine Patch PRN pain, Metoprolol ER 25 mg PO 
+___, Omeprazole 20 mg PO ___ 81 mg PO ___
+ 
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN fever, pain 
+2. Citalopram 20 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. HYDROmorphone (Dilaudid) ___ mg PO Q3H:PRN breakthrough pain  
+
+begin POD#2 after PCA d/c’d  
+ 
+5. Metoprolol Succinate XL 25 mg PO DAILY 
+Hold for SBP<100, HR<60 
+6. Omeprazole 20 mg PO DAILY 
+7. Cyclobenzaprine 10 mg PO TID:PRN spasm 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Lumbar spinal stenosis
+
+ 
+Discharge Condition:
+Alert and oriented X 3
+Ambulating with assistance
+
+ 
+Discharge Instructions:
+Lumbar decompression with fusion:
+
+You have undergone the following operation: Lumbar Decompression 
+With Fusion
+
+ 
+
+Immediately after the operation:
+
+•     Activity: You should not lift anything greater than 10 lbs 
+for 2 weeks. You will be more comfortable if you do not sit or 
+stand more than ~45 minutes without getting up and walking 
+around.
+
+ 
+
+•     Rehabilitation/ Physical Therapy: 
+
+___           ___ times a day you should go for a walk for 
+___ minutes as part of your recovery.  You can walk as much as 
+you can tolerate. 
+
+___           Limit any kind of lifting.
+
+ 
+
+•     Diet: Eat a normal healthy diet. You may have some 
+constipation after surgery.  You have been given medication to 
+help with this issue.
+
+ 
+
+•     Brace: You may have been given a brace. This brace is to 
+be worn when you are walking. You may take it off when sitting 
+in a chair or while lying in bed.
+
+ 
+
+•     Wound Care: Remove the dressing in 2 days.  If the 
+incision is draining cover it with a new sterile dressing.  If 
+it is dry then you can leave the incision open to the air.  Once 
+the incision is completely dry (usually ___ days after the 
+operation) you may take a shower. Do not soak the incision in a 
+bath or pool.  If the incision starts draining at anytime after 
+surgery, do not get the incision wet. Cover it with a sterile 
+dressing.  Call the office. 
+
+ 
+
+•     You should resume taking your normal home medications.
+
+ 
+
+•     You have also been given Additional Medications to control 
+your pain.  Please allow 72 hours for refill of narcotic 
+prescriptions, so please plan ahead.  You can either have them 
+mailed to your home or pick them up at the clinic located on 
+___.  We are not allowed to call in or fax narcotic 
+prescriptions (oxycontin, oxycodone, percocet) to your pharmacy. 
+ In addition, we are only allowed to write for pain medications 
+for 90 days from the date of surgery.
+
+ 
+
+•     Follow up: 
+
+___           Please Call the office and make an appointment 
+for 2 weeks after the day of your operation if this has not been 
+done already.
+
+___           At the 2-week visit we will check your 
+incision, take baseline X-rays and answer any questions. We may 
+at that time start physical therapy.
+
+___           We will then see you at 6 weeks from the day 
+of the operation and at that time release you to full activity.
+
+ 
+
+ 
+
+Please call the office if you have a fever>101.5 degrees 
+Fahrenheit and/or drainage from your wound.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10677013-DS-6 | hadm_id=25278279
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+heart catheterization
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with a history of HTN, HLD, CAD 
+s/p vfib arrest and ICD placement ___, h/o EtOh abuse and 
+pancreatitis, who is being admitted directly from clinic where 
+he saw Dr. ___ was complaining of chest pain.  He has 
+been experiencing substernal tightness radiating to the neck 
+which worsens with exertion for the past two days.  Over the 
+past few weeks he has had brief episodes (seconds) of sharp pain 
+in the sides of his chest, but yesterday morning a tightness 
+began which radiates to the neck, is assocaited with diaphoresis 
+and DOE and has not completely went away. It is different than 
+the pain that he gets with GERD.   At baseline he ambulates with 
+a walker since injuring his back.  He last drank EtOh this ___ 
+before he was admitted for pancreatitis.  He last used cocaine 
+___.    Most recent echocardiogram showed a left 
+ventricular ejection fraction of 50-55%, consistent with prior 
+inferior infarct.  There is normal diastolic function and no 
+significant valvular abnormalities.  He has mild pulmonary 
+hypertension. ICD interrogation today in clinic showed stable 
+pacing and sensing thresholds without arrhythmias.  EKG in 
+clinic exhibited sinus rhythm at a rate of 62 beats per minute 
+with Q waves in leads II, III, and aVF, which was consistent 
+with previous tracings. Due to substernal chest pain, known CAD 
+and inability to do an exercise stress test due to limited 
+mobility from his back injury he was sent over for direct admit 
+to ___ for likely cath tomorrow with Dr. ___ radial 
+approach. 
+
+On arrival to the floor he is complaining of ___ chest 
+tightness. 
+BP was in 140's.  EKG was unchaged from prior.  He was given 
+SLNx1, started on a nitro gtt, heparin gtt, given ASA 325mg to 
+chew, and started on metoprolol tartrate 25mg qid. 
+
+ 
+Past Medical History:
+-Hypertension
+-Hyperlipidemia.
+-Coronary artery disease status post VF arrest and ___
+Virtuoso II ICD implantation in ___.
+-had angioplasty in ___ w/o stenting
+-cath at ___ in ___ with 20% LAD lesion and
+occlusion at the apex with collaterals.
+-GERD.
+-fall off a roof in ___ for which he was
+admitted to ___, complicated by pulmonary
+embolism for which he was on Coumadin.
+-hospitalization (___) for alcohol related
+pancreatitis - now stopped. (H/O - Alcoholic Pancreatitis x3 per 
+patient)
+-? of TIA vs. cervical disease - all resolved. On aspirin 81
+mg. Of note TIA question developed after discontinuing warfarin.
+-H/O  ETOH abuse  
+- Cdiff tx w/ vanc from prior admission
+- Splenic infarct  
+- Depression/anxiety
+SURGICAL HISTORY:
+-On ___, he underwent an L3-S1 decompression
+with fusion for treatment of spondylolisthesis, multilevel 
+spinal
+stenosis.
+
+ 
+Social History:
+___
+Family History:
+Brother and sister both died of lung cancer. Mother died of "a 
+broken heart" in her ___.  No family history of early MI, 
+arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise 
+non-contributory. 
+ 
+Physical Exam:
+VS: 98.2, 143/94, 62, 18, 100%RA
+GENERAL: WDWN man in NAD. Oriented x3. Mood, affect appropriate. 
+Appears comfortable.   
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  
+
+NECK: Supple with JVP of 8 cm.  
+CARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 
+or S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+ABDOMEN: Soft, diffusely mildly tender to palpation.  No HSM.  
+Hepatojugular reflux is present and when applying pressure to 
+his abdomen he reports pain in his neck. Abd aorta not enlarged 
+by palpation. No abdominal bruits.  
+EXTREMITIES: No c/c.  Trace edema. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+
+On discharge, dressing on R radial cath site c/d/i, no pain.  
+Hand warm and well perfused with intact sensation.  No hematoma 
+or palpable mass. Exam otherwise unchanged. 
+ 
+Pertinent Results:
+___ 05:00PM BLOOD WBC-7.3 RBC-4.17* Hgb-13.1*# Hct-37.4* 
+MCV-90 MCH-31.5 MCHC-35.1* RDW-13.6 Plt ___
+___ 06:05AM BLOOD WBC-9.2 RBC-4.14* Hgb-12.8* Hct-37.4* 
+MCV-90 MCH-31.0 MCHC-34.4 RDW-13.6 Plt ___
+___ 05:00PM BLOOD ___ PTT-30.1 ___
+___ 06:05AM BLOOD ___ PTT-46.2* ___
+___ 05:00PM BLOOD Glucose-89 UreaN-15 Creat-0.9 Na-143 
+K-3.8 Cl-104 HCO3-26 AnGap-17
+___ 06:05AM BLOOD Glucose-107* UreaN-15 Creat-0.9 Na-140 
+K-4.1 Cl-104 HCO3-25 AnGap-15
+___ 05:00PM BLOOD CK(CPK)-172
+___ 05:00PM BLOOD CK-MB-3 cTropnT-<0.01
+___ 11:49PM BLOOD CK-MB-3 cTropnT-<0.01
+___ 06:05AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 05:00PM BLOOD Calcium-9.7 Phos-3.2 Mg-2.1
+___ 06:05AM BLOOD Triglyc-166* HDL-44 CHOL/HD-3.8 
+LDLcalc-92
+
+Cardiac cath ___
+Coronary angiography:  right dominant
+LMCA, LAD, LCX:  No angiographically apparent CAD  
+RCA:  Mild disease proximally 10%
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with a history of HTN, HLD, CAD 
+s/p vfib arrest and ICD placement ___ and a history of 
+polysubstance abuse who is being directly admitted from clinic 
+with chest pain for consideration of catheterization, biomarkers 
+were negative and CP resolved on nitro gtt, cath ___ showed 
+essentially normal coronaries.  
+
+#Coronaries.  His chest pain is atypical in that it has been 
+continuous for 2 days, does not correlate strongly with 
+exertion, and associated symptoms of DOE and diaphoresis have 
+been only intermittent.  He does have a history of CAD, with a 
+20% LAD lesion and occlusion at the apex noted in ___ which 
+raises suspicion for ACS despite his atypical pain.  He was 
+treated initially with 325mg aspirin, chewed, sublingual nitro 
+x1, then started on a nitro gtt, heparin gtt, and metoprolol 
+tartrate 25mg qid. No events were recorded on tele, and there 
+have been no EKG changes. Trop has been <.01 x3.  Overnight 
+continued nitro gtt, heparin gtt, daily ASA, BB, and CP resolved 
+by AM.  Taken for cath ___ which showed essentially normal 
+coronaries.
+ 
+# PUMP:  Last ECHO showed regional LV systolic dysfunction 
+consistent with past inferior infarction. Normal diastolic 
+function. No significant valvular abnormality seen. Mild 
+pulmonary artery systolic hypertension.   Hepatojugular reflux 
+on exam also consistent with pulmonary artery hypertension.  BB 
+as above, started ACE after cath. 
+
+Chronic issues:
+# H/O alcohol abuse
+-continue home vitamin supplementation including MV, folate, 
+thiamine
+# GERD
+-Continue home omeprazole
+# HLD
+-continue home simvastatin, switch to atorvastatin 80mg if he 
+has ACS
+# Depression
+-continue home citalopram
+# Chronic Pain
+-continue home percocet PRN 
+
+Transitional Issues:
+Started metoprolol, switched simvastatin to atorvastatin. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FoLIC Acid 1 mg PO DAILY 
+2. Oxycodone-Acetaminophen (5mg-325mg) 1 TAB PO Q6H:PRN back 
+pain 
+3. Simvastatin 10 mg PO DAILY 
+4. Omeprazole 20 mg PO DAILY 
+5. Aspirin 81 mg PO DAILY 
+6. Viagra *NF* (sildenafil) 100 mg Oral qd prn sex 
+7. Multivitamins 1 TAB PO DAILY 
+8. Thiamine 50 mg PO DAILY 
+9. Citalopram 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Citalopram 20 mg PO DAILY 
+3. FoLIC Acid 1 mg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+5. Omeprazole 20 mg PO DAILY 
+6. Oxycodone-Acetaminophen (5mg-325mg) 1 TAB PO Q6H:PRN back 
+pain 
+7. Thiamine 50 mg PO DAILY 
+8. Viagra *NF* (sildenafil) 100 mg Oral qd prn sex 
+9. Metoprolol Succinate XL 100 mg PO DAILY 
+RX *metoprolol succinate 100 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0
+10. Atorvastatin 80 mg PO DAILY 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+angina without acute coronary artery disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure caring for you at ___ 
+___.  You were sent to the hospital by your 
+cardiologist for chest pain.  You were started on heparin for 
+anti-coagulation and nitro for chest pain.  Your pain resolved 
+with the nitroglycerin via IV.  You underwent cardiac 
+catheterization that showed no disease of your coronary 
+arteries.  In addition, your cardiac enzymes and your EKG showed 
+no changes.  You were not having a heart attack.
+
+We have made several adjustments to your medications to reduce 
+your risk of a heart attack.
+
+Please follow-up with your physicians as listed below.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10677013-DS-4 | hadm_id=28130850
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Left-sided weakness and urinary incontinence
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo M w/ h/o PE (tx 6months of coumadin), ETOH abuse, fall w/ 
+lumbar stenosis, L5-S1 disc bulge, CM w/ Vfib arrest s/p AICD, 
+and recent admission ___ for pancreatitis in the setting 
+ETOH use p/w left arm/leg weakness and back pain.
+.
+Patient d/c'd on ___ from ___ after admission for 
+pancreatitis in the setting of ETOH abuse and cdiff.  He was 
+followed up by his PCP for continued abdominal pain, though 
+improved from prior.  PCP switched po dilaudid to ___, which 
+he was taking in unclear quantity.  While home, he was w/ his 
+baseline back pain that is described as nagging, sharp ___s well as bilateral paraspinal, w/ occasional 
+(~1/day) radiation down the left leg and right buttock that 
+lasts ___ minutes and has some residual numbness and tingling. 
+He also reports parasthesia on his right calf.  At baseline, he 
+self-ambulates w/ cane.  Of note, he was scheduled for 
+outpatient laminectomy, but this was cancelled given his episode 
+of pancreatitis.  
+
+On the day of admission, ___, he awoke with left leg and arm 
+weakness and urinary incontinence. He reported he was unable to 
+use either extremity for ~2.5 hours and after that his left 
+extremities are still weak and shakey. He called EMS and was 
+taken to ___, where his initial vitals were: T 98.8, 
+hr 65, rr 20, bp 115/68 o2 100%.  They were concerned initially 
+for central process w/ ? LUE and LLE weakness.  CT head was 
+unremarkable.  Ortho c/s and recommended CT-l spine, but no 
+report in chart.  The remainder of his labs were: h/h 11.3/35.3, 
+inr 1.1, lfts wnl, lipase 34, cr 0.9, tox screen: +tylenol, 
+opiates, cannaboids, neg etoh.  ECG notable for old inf infarct 
+(q ii, iii, avf), no st changes.
+.
+He was transferred to ___. While here he was felt to have poor 
+rectal tone overnight, and bladder scan ~100.  Ortho spine c/s, 
+did not feel urgent need for surgery.
+.
+Currently, patient c/o back pain and left leg and arm weakness.  
+He reports sensing bowel activity and an unexpected, unstoppable 
+BM. Also, he continues to have some abdominal pain, though 
+better than before and reasonably controlled on oxycodone 5mg 
+q4hrs. No further urinary inc, no fevers/chills.
+.
+ROS:  
++Per HPI.  
+-fever, chills, night sweats, headache, vision changes, changes 
+in speech,cough, shortness of breath, chest pain, abdominal 
+pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena.
+ 
+Past Medical History:
+- ETOH abuse  
+- Alcoholic Pancreatitis x3 per patient  
+- Cdiff tx w/ vanc from prior admission
+- PE presented as hemoptysis after fall in ___ s/p 6 months of 
+warfarin ___  
+- Cardiomyopathy w/ VFib arrest s/p Placement of cardioverter  
+defibrillator ___  
+- Hypertension  (has not been on lisinopril in years)
+- Hyperlipidemia  
+- Coronary artery disease - had angioplasty in ___ w/o stenting
+- GERD  
+- Splenic infarct  
+- Depression/anxiety
+ 
+Social History:
+___
+Family History:
+brother, sister - lung cancer. mother - heart disease in ___.
+ 
+Physical Exam:
+On admission:
+VS -  98.3  112/66  100s-110s/60s-70s  ___  ___  98-100% RA 
+GENERAL - well-appearing male in NAD 
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear  
+NECK - supple, no JVD  
+LUNGS - CTAB
+HEART - regular rate, no MRG, nl S1-S2  
+ABDOMEN - +BS, soft, mild tenderness to palp on mid epigastric 
+and ruq, no no rebound/guarding 
+BACK - Mild tenderness along L5-S1 as well as paraspinal area 
+and L CVA. 
+RECTAL - Reasonable tone.
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) 
+ 
+NEURO - Awake, A&Ox3, CNs II-XII intact. Neg pronator drift. 
+Reflexes difficult to elicit symmetrically in upper and lower 
+extremities (b/l: 2+ patellar bilaterally, 3+ brachioradialis, 
+but absent biceps and patellar).
+ MSK - Orbiting around LUE. Strength ___ in RLE and RUE, 4+/5 
+LUE and ___ in LLE (left hip, knee, and foot ext/flex). 
+ Sensation: Sensation of light touch at left back of thigh and 
+buttock intact, but reduced compared to right. Also sensation to 
+light touch reduced on right anterior lateral leg reduced 
+compared to left. 
+PSYCH: Mood reported as 'good' with reasonable, appropriate 
+affect.
+
+On discharge:
+VS - 99.5 98.2  103/62 100s-130s/60s-80s  56 50-60s  18  95-99% 
+RA
+I/Os - 990 / 0 | 150+ / 0    AM: 160 / 0 | 0 / 0
+GENERAL - well-appearing male in NAD 
+HEENT - NC/AT, PERRL, EOMI, sclerae anicteric, MMM, OP clear  
+NECK - supple, no JVD  
+LUNGS - CTAB anteriorly
+HEART - regular rate, no MRG, nl S1-S2  
+ABDOMEN - +BS, soft, minimal tenderness to palp on mid 
+epigastric and luq, no no rebound/guarding.
+BACK - Mild L-spine tenderness
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) 
+ 
+NEURO - Awake, A&Ox3, CNs II-XII intact. 
+MSK - Strength ___ in extremities (upper, lower, proximal, 
+distal), except 4+/5 left hip flexors and knee extensors.
+PSYCH: Mood reported as okay with reasonable, appropriate 
+affect.
+ 
+Pertinent Results:
+___ 06:00AM BLOOD WBC-4.2 RBC-3.13* Hgb-9.9* Hct-30.1* 
+MCV-96 MCH-31.8 MCHC-33.0 RDW-14.0 Plt ___
+___ 06:00AM BLOOD WBC-3.8* RBC-3.31* Hgb-10.2* Hct-30.8* 
+MCV-93 MCH-30.7 MCHC-33.0 RDW-13.8 Plt ___
+___ 09:03AM BLOOD WBC-3.6* RBC-3.20* Hgb-10.1* Hct-30.0* 
+MCV-94 MCH-31.5 MCHC-33.6 RDW-13.8 Plt ___
+___ 06:00AM BLOOD Glucose-68* UreaN-8 Creat-0.8 Na-140 
+K-4.4 Cl-106 HCO3-23 AnGap-15
+___ 06:00AM BLOOD Glucose-86 UreaN-7 Creat-0.9 Na-140 K-4.6 
+Cl-102 HCO3-28 AnGap-15
+___ 06:00AM BLOOD Lipase-37
+___ 06:00AM BLOOD Mg-1.7
+___ 06:00AM BLOOD Calcium-9.9 Phos-3.1# Mg-1.7
+
+CT/CTA Head:
+IMPRESSION:
+1.  No acute intracranial process.
+2.  No evidence of stenosis, aneurysm, dissection or occlusion.
+3.  Mild atherosclerotic disease in the cavernous portion of the 
+bilateral
+internal carotid arteries.
+4.  Tiny infundibulum at the origin of the left posterior 
+communicating
+artery.
+
+CT C-spine:
+IMPRESSION:
+1.  No fracture or acute alignment abnormality.
+2.  Multilevel degenerative changes, as described above, most 
+severe at C4-5 and C5-6, with mild flattening of the ventral 
+thecal sac and mild-to-moderate neural foraminal narrowing at 
+these levels.
+
+CTA Neck:
+IMPRESSION:  Normal CTA of the neck.
+
+ECG ___:
+Sinus rhythm. Old inferior myocardial infarction. Compared to 
+the previous
+tracing of ___ the rate is slower.
+ 
+Brief Hospital Course:
+___ yo M w/ h/o PE (tx 6months of coumadin), ETOH abuse, fall w/ 
+lumbar stenosis, L5-S1 disc bulge, and recent admission ___ 
+for pancreatitis in the setting ETOH use p/w transient urinary 
+incontinence, left arm and leg weakness, and chronic back pain.
+.
+# Left-sided weakness/urinary incontinence: Patient described 
+being unable to move his left leg at all and having a very weak 
+left arm. He also reported one episode of urinary incontinence 
+(upon awaking) and asymmetric saddle sensation (see below). He 
+denied any constitutional symptoms. He was evaluated by Ortho 
+Spine and by Neurology. He was given a soft cervical collar for 
+sleep. There was concern for stroke or spinal cord compression. 
+He was started on dexamethasone. He was unable to have an MRI 
+because of his AICD. He had a CT/CTA of his head, which revealed 
+no evidence of an acute process. He also had a CT/CTA of his 
+neck, which revealed some mild-to-moderate neural foraminal 
+narrowing, but no fracture, abscess, or other acute process. His 
+strength appeared to return rapidly such that at the time of 
+admission he had 4+/5 strength in his left arm and ___ strength 
+in left leg and by HD2 he demonstrated ___ arm strength and 
+___ leg strength. His neurologic exam otherwise remained 
+stable. His dexamethasone was stopped. He remained continent 
+throughout the admission and his post void residuals were all 
+normal. He had previously had a CT myelogram that was notable 
+for an asymmetric disc bulge at L5-S1 possibly indenting 
+traversing right S1 nerve root and spinal stenosis. Given the 
+quick resolution of his symptoms, our concern for cord 
+compression was low, so a CT myelogram was not performed. We 
+think the most likely etiology of his short-lived weakness and 
+incontinence was a transient ischemic attack. We stopped his 
+tricor and started simvastatin; we continued his aspirin 81mg. 
+He was seen by ___ who recommended outpatient ___.
+.
+# Asymmetric Saddle Sensation: Patient reported ~25% decreased 
+sensation in his left ___ area. He had reasonable rectal 
+tone and remained continent throughout the admission. Because 
+his sensation was intact, cord compression was ruled unlikely. 
+The decreased sensation may be due to to a small not-detected 
+ischemic event or may be unrelated.
+. 
+# Abdominal pain: The patient report epigastric/LUQ discomfort 
+and tenderness. He was recently admitted at ___ for 
+pancreatitis and he believes this discomfort is consistent with 
+his pancreatitis pain that is still resolving, but much 
+improved. His lipase was normal. He also was recently infected 
+with C. diff and completed treatment. He remained afebrile, had 
+normal WBC count, and had no diarrhea. He actually was a little 
+constipated at one point during his admission and had lower 
+abdominal discomfort resolved following defectation. In terms of 
+other etiologies, his LFTs were also normal. He was originally 
+NPO and then his diet was advanced slowly without difficulty. 
+His pain was well controlled on oxycodone ___ mg q6h.
+.
+# Back pain: The patient has a history of low back pain and 
+tenderness most consistent with a muscular source s/p fall, and 
+pain radiating down his left leg, likely explained by a 
+documented L5-S1 disk bulge. Ortho Spine is planning a 
+laminectomy. Throughout this admission his back pain was stable 
+and he experienced none of the radiating pain. He should call 
+Ortho Spine for follow-up and to schedule a lumbar-sacral 
+laminectomy. 
+.
+# ETOH abuse: Patient has a significant alcohol history, which 
+is likely responsible for his pancreatitis. He says his last 
+drink was prior to his previous hospital admission (> 3 weeks 
+ago). He developed no signs or symptoms of alcohol withdrawal 
+and was continued on thiamine, MVI, and folate.
+.
+# CAD: He has an EF 50-55% and has had a Vfib arrest now s/p 
+AICD. Discussed with PCP why ___ was stopped. He was 
+continued on aspirin 81mg. He described a mild, short-lived 
+chest discomfort without associated symptoms at one point during 
+admission and his EKG showed no acute changes.
+.
+# Normocytic Anemia: His hematocrit remained stable. It is 
+likely due to anemia of chronic disease versus multifactorial.
+.
+# Depression: The patient has a history of depression, but 
+reports positive mood and had congruent affect throughout his 
+admission. He was continued on his home citalopram and 
+quetiapine.
+.
+# Hyperlipidemia: Patient has hyperlipidemia and his trialed on 
+many medications. He came in on tricor. We discussed his regimen 
+with his PCP and on discharge we decided to switch him to 
+simvastatin for secondary stroke prevention.
+
+TRANSITIONAL ISSUES:
+1) We stopped his tricor and started low-dose simvastatin, which 
+could be titrated up.
+2) We provided him with a short course of oxycodone for pain 
+management and discussed stopping ___ for now and then 
+restarting when oxycodone is all done.
+3) He should continue taking a baby aspirin for secondary 
+prevention.
+4) He was given a script for outpatient ___.
+5) He should call Dr. ___ office to schedule 
+follow-up and surgery.
+6) He has a device check and appointment with Dr. ___ 
+cardiologist
+7) Patient should make an appointment with his PCP within one 
+week.
+ 
+Medications on Admission:
+Preadmission medications listed are correct and complete.  
+Information was obtained from Patient.
+1. Senna 1 TAB PO BID:PRN constipation 
+2. Omeprazole 20 mg PO DAILY 
+3. Citalopram 20 mg PO DAILY 
+4. Tricor *NF* (fenofibrate nanocrystallized) 145 mg Oral daily 
+5. Docusate Sodium 100 mg PO BID 
+6. Thiamine 100 mg PO DAILY 
+7. Multivitamins 1 TAB PO DAILY 
+8. FoLIC Acid 1 mg PO DAILY 
+9. Quetiapine Fumarate 25 mg PO QAM 
+10. Quetiapine Fumarate 50 mg PO QPM 
+11. Miconazole Powder 2% 1 Appl TP BID:PRN itch 
+12. Hydrocodone-Acetaminophen (5mg-500mg ___ TAB PO Q6H:PRN pain 
+
+unknown dose 
+13. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Citalopram 20 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. FoLIC Acid 1 mg PO DAILY 
+5. Miconazole Powder 2% 1 Appl TP BID:PRN itch 
+6. Multivitamins 1 TAB PO DAILY 
+7. Omeprazole 20 mg PO DAILY 
+8. Quetiapine Fumarate 25 mg PO QAM 
+9. Quetiapine Fumarate 50 mg PO QPM 
+10. Senna 1 TAB PO BID:PRN constipation 
+11. Thiamine 100 mg PO DAILY 
+12. OxycoDONE (Immediate Release)  ___ mg PO Q6H:PRN pain 
+Duration: 1 Weeks 
+Hold for sedation or RR<10. 
+RX *oxycodone 5 mg 1 Capsule(s) by mouth every 6 hours Disp #*45 
+Capsule Refills:*0
+13. Simvastatin 10 mg PO DAILY 
+RX *simvastatin 10 mg 1 Tablet(s) by mouth daily Disp #*60 
+Tablet Refills:*0
+14. Outpatient Physical Therapy
+Lumbar stabilization, L sided strengthening program, and 
+possible aquatic therapy
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Transient Ischemic Attack
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+It was a pleasure participating in your care here at ___. You 
+came into the hospital because of abrupt onset left arm and leg 
+weakness and one-time urinary incontinence. Your incontinence 
+resolved and your weakness improved considerably during your 
+stay. We performed a CT scan of your head and neck, as well as a 
+CT scan of the vesseles in your head and neck. These scans 
+showed no evidence of disease that could explain your symptoms, 
+including cord compression, stroke, or infection. We think the 
+most likely possibility is that you had a transient ischemic 
+attack (or TIA), which is a mini-stroke. To help prevent future 
+TIAs, we have started you on simvastatin and restarted your 
+aspirin.
+
+Medication changes:
+- STOP taking tricor (you should not take this while taking 
+simvastatin)
+- START taking simvastatin 10 mg by mouth daily to help prevent 
+TIAs/stroke
+- CONTINUE taking a baby aspirin
+- STOP taking ___
+- START taking oxycodone ___ mg by mouth every six hours as 
+needed for pain
+
+Physical therapy saw you while you were here and recommend 
+outpatient physical therapy.  We have written a prescription for 
+this.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10677013-DS-2 | hadm_id=28752809
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+S/p VFib arrest, transferred from ___ for ICD placement
+ 
+Major Surgical or Invasive Procedure:
+Placement of cardioverter defibrillator 
+
+ 
+History of Present Illness:
+___ year old man with CAD, HTN, and HL, who is being transferred 
+from ___ after a VFib arrest for ICD placement. The 
+patient was at the ___ on ___ and walked up 
+numerous flights of stairs and then drank several beers. He felt 
+completely fine and denies any dizziness, chest pain, 
+palpitations, or other complaints. Per a friend's report, he 
+suddenly fell forward, striking his chest. He was unresponsive 
+and noted to be frothing at the mouth. EMT noted him to be in 
+VFib arrest, shocked once, and he returned to ___. He was then 
+transported to ___.
+.
+Upon arrival at the ___, vitals were 96.1, 160/100, 80, 
+18, 100% on 40% FIO2 ventilated. Labs notable for K 2.9 and 
+alcohol level 134, CK 243, CK-MB 3.9, peak trop was 11. EKG 
+showed Q waves in II, III, and AVF, with <0.5mm ST elevations in 
+the inferior leads. CXR clear. CT of the c-spine showed 1mm 
+C5-C6 retrolisthesis (likely representing degenerative changes), 
+but no fracture. CT head unremarkable. ECHO showed mild global 
+LV hypokinesis with LVEF 45%. He underwent cardiac cath which 
+showed 20% proximal LAD lesion, with total occlusion at the 
+apex; no intervention done. He elected to be transferred to 
+___ for placement of ICD.
+ 
+Past Medical History:
+- Hypertension
+- Hyperlipidemia  
+- Coronary artery disease  
+- GERD 
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathy, or 
+sudden cardiac death; otherwise non contributory.    
+ 
+Physical Exam:
+ADMISSION EXAM:
+VS: 98.8, 118/79, 67, 18, 100% on RA  
+GENERAL: WDWN man in NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva were pink, no 
+pallor or cyanosis of the oral mucosa. No xanthalesma.  
+NECK: Supple, JVP not elevated.  
+CHEST: PMI located in ___ intercostal space, midclavicular line. 
+RR, normal S1, S2. No m/r/g.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: WWP, no edema.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+
+.
+DISCHARGE EXAM:   
+GENERAL: ___ man in NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva were pink, no 
+pallor or cyanosis of the oral mucosa. No xanthalesma.  
+NECK: Supple, JVP not elevated.  
+CHEST: PMI located in ___ intercostal space, midclavicular line. 
+RR, normal S1, S2. No m/r/g. ICD in left chest wall is 
+non-tender and non-erythematous. Dressing C/D/I.   
+LUNGS: Resp were unlabored. CTAB, no crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: WWP, no edema.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 07:15PM BLOOD WBC-7.3 RBC-3.79* Hgb-11.7* Hct-33.4* 
+MCV-88 MCH-30.9 MCHC-35.0 RDW-13.7 Plt ___
+___ 07:15PM BLOOD ___ PTT-19.5* ___
+___ 07:15PM BLOOD Glucose-102* UreaN-15 Creat-0.9 Na-139 
+K-4.7 Cl-102 HCO3-28 AnGap-14
+___ 07:15PM BLOOD Calcium-10.1 Phos-3.2 Mg-1.9
+___ 08:10AM BLOOD Triglyc-277* HDL-64 CHOL/HD-3.4 
+LDLcalc-98
+.
+DISCHARGE LABS:
+___ 07:35AM BLOOD WBC-7.0 RBC-3.85* Hgb-12.2* Hct-33.6* 
+MCV-87 MCH-31.8 MCHC-36.5* RDW-13.5 Plt ___
+___ 07:35AM BLOOD Glucose-95 UreaN-14 Creat-0.8 Na-139 
+K-4.3 Cl-104 HCO3-27 AnGap-12
+___ 07:35AM BLOOD Calcium-9.6 Phos-3.5 Mg-2.___ year old man with HTN, HL, CAD, and h/o cocaine abuse, 
+transferred from an OSH after VFib arrest for ICD placement. 
+.  
+# S/p VFib arrest: Unclear precipitant, though the patient does 
+admit to occasional cocaine use and has a significant ETOH 
+history. ECHO showed mild global LV hypokinesis with LVEF 45%. 
+He underwent cardiac catheterization which revealed a 20% 
+proximal LAD lesion, with total occlusion at the apex with good 
+collaterals, so no stent was placed. He was transferred to ___ 
+for ICD placement for secondary prevention of sudden death. The 
+ICD was successfully placed without complication and he was 
+continued on antibiotics (vancomycin then clindamycin) for 48 
+hours afterward. He will follow up in the device clinic in 1 
+week and will follow up with Dr. ___ at ___.
+.
+# CAD: Cath showed 20% proximal LAD lesion, with total occlusion 
+at the apex with good collaterals, so no stent placed. We 
+continued ASA 81mg daily and started metoprolol succinate 25mg 
+daily. Lipid management as discussed below. 
+.
+# Pump: ECHO at OSH showed mild global LV hypokinesis with LVEF 
+45%. He is currently euvolemic on exam and denies any symptoms 
+of heart failure. We started lisinopril 5mg daily and metoprolol 
+succinate 25mg daily.  
+.
+# Hypertension: The patient states that he has a history of HTN, 
+though his blood pressure was well controlled during this 
+admission and he was not on any blood pressure medications at 
+home. We started metoprolol succinate and lisinopril as 
+discussed above.
+.
+# Hyperlipidemia: Chol 217, ___ 277, HDL 64, LDL 98. Considering 
+his CAD he may benefit from initiation of statin therapy to 
+lower LDL to less than 70.  
+.
+# GERD: Asymptomatic. Continued omeprazole 20mg daily.       
+ 
+Medications on Admission:
+1. Omeprazole 20mg daily
+2. Aspirin 81mg daily
+3. Multivitamin daily 
+ 
+Discharge Medications:
+1. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+2. aspirin 81 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. multivitamin Tablet Sig: One (1) Tablet PO once a day.  
+4. metoprolol succinate 25 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*0*
+5. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. clindamycin HCl 300 mg Capsule Sig: One (1) Capsule PO every 
+six (6) hours.
+Disp:*4 Capsule(s)* Refills:*0*
+7. Percocet ___ mg Tablet Sig: One (1) Tablet PO every eight 
+(8) hours as needed for pain.
+Disp:*12 Tablet(s)* Refills:*0*
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Ventricular fibrillation arrest
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+You were admitted to the hospital after a cardiac arrest. We 
+placed a defibrillator so that if your heart goes into the same 
+arrhythmia again, it will hopefully shock your heart back into a 
+normal rhythm.
+.
+We have made the following changes to your medications:
+- STARTED metoprolol succinate (Toprol XL) 25mg daily
+- STARTED lisinopril 5mg daily
+- STARTED clindamycin 300mg; 4 tablets to be taken every 6 hours
+.
+Please do not drive for 6 months as you just had a cardiac 
+arrest.  Please discuss this with your physicians.
+ 
+Followup Instructions:
+___

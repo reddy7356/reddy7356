@@ -1,0 +1,192 @@
+===== DISCHARGE NOTE =====
+note_id=10753504-DS-2 | hadm_id=21131346
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+Chief Complaint:
+Headache
+ 
+Major Surgical or Invasive Procedure:
+Angiogram 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ RHM with no ___ transferred from OSH
+with a new intracranial hemorrhage uncovered on a head CT.  He 
+reports drinking more than usual 3 days PTA and vomitting 
+several times that night before
+going to bed.  He woke the next morning with R orbital,
+non-radiating pressure-like headache, persistent nausea 
+resulting
+in intermitting vomitting and intermittent vertiginous 
+sensation.
+He thought that it was "hang over" since he drank more than 
+usual
+and drank hard liquor which he does not usually drink (usually
+drink beer - 6 pack at most) hence he tried ASA without relief. 
+He continued to have nausea, right orbital headache and occ.
+vertiginous sensation but no difficulty sleeping and no changes
+in HA quality and intensity with position changes.  Although
+there was gradual improvement in nausea/vomitting but since
+headache persisted, he went to OSH this morning where he had the
+NCHCT which showed IPH.
+
+He reports slight chill last night but denies any history of
+fever, night sweats of weight loss.  He denies any visual
+disturbance other than occ. vertiginous sensation.  Also, no
+reports of speech impairment, sensory deficit or weakness. 
+Completely negative ROS otherwise.
+
+He does not have any hx of head trauma/injury - no hx of HTN or
+migraine.  No FH of aneurysms, stroke, or brain tumor.
+ 
+
+ 
+Past Medical History:
+PMH: 
+hx of hypospadias repair as a ___ old
+astigmatism with myopia
+ 
+
+ 
+Social History:
+___
+Family History:
+FH: Father had epilepsy in his ___ - died at a young age from
+___.  No aneurysms, stroke or brain tumor in the family.  Mom 
+had
+HTN and DM.
+
+ 
+Physical Exam:
+Exam: 
+T 99.4 BP 130/66 (119~130/56~66) HR 90 RR 15 O2Sat 98% 2L NC
+Gen: Slightly drowsy but easily arousable, lying in the ED
+stretcher, NAD; multiple tattoos in all extremities plus torso
+HEENT: NC/AT, moist oral mucosa   
+Neck: No tenderness to palpation, normal ROM, supple, no carotid
+or vertebral bruit
+CV: RRR, no murmurs/gallops/rubs 
+Lung: Clear
+Ext: no edema
+
+Neurologic examination: 
+Mental status: Slightly drowsy but easily arousable, cooperative
+with exam, normal affect.  Oriented to person, place, and date. 
+Attentive, says ___ backwards.  Speech is fluent with normal
+comprehension and repetition; naming intact. No dysarthria.  
+Registers ___, recalls ___ in 5 minutes.  No right left
+confusion. No evidence of apraxia or neglect.
+ 
+Cranial Nerves:  
+II: Pupils equally round and reactive to light, 6 to 3 mm
+bilaterally. Visual fields are full to confrontation. 
+Fundoscopic
+exam normal with sharp disc margins.
+III, IV & VI: Extraocular movements intact bilaterally, no
+nystagmus. 
+V: Sensation intact to LT and PP.  
+VII: Facial movement symmetric.  
+VIII: Hearing intact to finger rub bilaterally.  
+X: Palate elevation symmetrical.  
+XI: Sternocleidomastoid and trapezius normal bilaterally. 
+XII: Tongue midline, movements intact
+ 
+Motor: 
+Normal bulk and tone bilaterally. No observed myoclonus or
+tremor. No asterixis or pronator drift.  Very fine and high
+frequency tremor of R digits with full extension.
+  Del Tri Bi  WF WE FE FF  IP  H  Q  DF PF TE TF
+R  ___  ___  ___  ___  5  5
+L  ___  ___  ___  ___  5  5  
+ 
+Sensation: Intact to light touch, pinprick, vibration, cold and
+proprioception throughout. 
+ 
+Reflexes: 
++2 and symmetric throughout.  Toes downgoing bilaterally. 
+ 
+Coordination: FTN, FTF, HTS and RAMs normal. 
+ 
+Gait: Narrow based, steady.  Able to toe and heel walk and
+Romberg negative.
+ 
+
+ 
+Pertinent Results:
+___ 02:03PM   GLUCOSE-112* UREA N-15 CREAT-1.0 SODIUM-137 
+POTASSIUM-4.4 CHLORIDE-102 TOTAL CO2-26 ANION GAP-13
+___ 02:03PM   WBC-8.4 RBC-4.69 HGB-13.4* HCT-38.7* MCV-83 
+MCH-28.7 MCHC-34.7 RDW-13.7
+___ 02:03PM   NEUTS-60.0 ___ MONOS-4.4 EOS-0.7 
+BASOS-0.2
+
+CT CNS w/ wo contrast on ___: 
+On the source images of the CTA, there is evidence for prominent 
+vessels 
+within and along the margins of the hematoma. This could simply 
+represent 
+hyperemia within the hematoma but an AV malformation is not 
+entirely excluded. 
+Recommend correlation with conventional diagnostic angiography. 
+No aneurysm is seen within limits of this examination 
+
+MRI CNS w/ wo Contrast: Subacute hematoma, no definite 
+underlying lesion identified.  
+
+CT Thorax, abdomen and pelvis: normal. 
+
+Carotid dupplex done (report not yet available). 
+
+Angiogram: normal. 
+ 
+Brief Hospital Course:
+Mr. ___ has remained asymptomatic. His BP has remained 
+within normal limits. No additional events or changes in the 
+exam have been observed. 
+ 
+Medications on Admission:
+MVI
+Fitness supplement
+ 
+Discharge Medications:
+1. Letter
+To whom it may concern,
+Mr. ___ was admitted to ___ from ___. He should 
+take off from work until ___.
+
+Sincerely,
+___, MD
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Right fronto-parietal hemorrhagic stroke possibly hypertensive 
+nature. 
+
+ 
+Discharge Condition:
+Stable with a minor LEFT neglect. 
+
+ 
+Discharge Instructions:
+You have had a hemorrhage in the brain. You need to stop the 
+supplements you take to improve your fitness as they contain 
+stimulants that increase the risk for a new bleed.  
+ 
+Followup Instructions:
+___

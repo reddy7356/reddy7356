@@ -1,0 +1,507 @@
+===== DISCHARGE NOTE =====
+note_id=11521637-DS-10 | hadm_id=20871370
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Ace Inhibitors / Plavix / Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Aortic Aneurysm
+ 
+Major Surgical or Invasive Procedure:
+Endovascular Aneurysm Repair
+
+ 
+History of Present Illness:
+Mr. ___ is a pleasant ___ with a large infrarenal abdominal 
+aortic aneurysm.  He had some angulation of his infrarenal neck 
+and significant tortuosity of his iliac arteries with 
+calcification.  He was deemed to be a better candidate for 
+endovascular repair than open repair.  Because of the complexity 
+of the case and different skill sets, 2 attending surgeons were 
+required.
+
+ 
+Past Medical History:
+5.5cm AAA, Aflutter, CAD (s/p CABGx2 for MI in ___, s/p stents 
+for occluded SVG-LAD, SVG-OMI grafts ___, HTN, HLD, chronic 
+LBP, OA, diverticulitis, bladder cancer , prostate cancer 
+
+PSH: B/L IHR (___), L IHR (___), RCR (___), b/l 
+cataract extraction (___)
+ 
+Social History:
+ 
+Physical Exam:
+Tmax 98.9, Tcurrent 98.3, HR 74, BP 99/50, RR 18, O2 sat 96 rma
+AO x 3, NAD
+AT/NC, EOMI, PERRLA
+CTAB
+RRR
+No groin site hematomas, no abd TTP or distention. 
+R p/x/p/d, L p/x/p/d
+wwp, no edema, no cyanosis
+
+ 
+Pertinent Results:
+Cardiovascular Report ECG Study Date of ___  8:59:12 AM 
+ 
+  
+Sinus tachycardia with 2:1 block. Non-specific anterior ST-T 
+wave changes. 
+Poor R wave progression, likely a normal variant. Cannot exclude 
+prior 
+anteroseptal myocardial infarction. Compared to the previous 
+tracing of ___ 
+findings are similar. Clinical correlation is suggested.  
+  
+ 
+Read by: ___. 
+ 
+  ___ Axes 
+Rate PR QRS QT/QTc P QRS T 
+73 254 92 388/410 35 -14 23 
+ 
+
+___
+INDICATION:  ___ man status post EVAR with postop nausea 
+and ileus. 
+  
+COMPARISONS:  CTA abdomen and pelvis from ___. 
+  
+TECHNIQUE:  Portable supine and left lateral decub radiographs 
+are provided. 
+  
+FINDINGS:  There is a non-specific bowel gas pattern with air 
+within multiple 
+loops of colon.  There is no free air.  Aortobiiliac bypass 
+graft is 
+visualized.  Surgical clips at the right femoral region.  
+Osseous structures 
+are show notable degenerative changes at the left hip and 
+left-convex 
+scoliosis.  Visualized lung bases are clear. 
+  
+IMPRESSION:  Nonspecific bowel gas pattern with no evidence of 
+obstruction or 
+free air. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+  
+___. ___ 
+___. ___ 
+
+___ 06:45AM BLOOD WBC-8.7 RBC-3.54* Hgb-10.9* Hct-33.3* 
+MCV-94 MCH-30.9 MCHC-32.8 RDW-15.3 Plt ___
+___ 06:00AM BLOOD WBC-6.8 RBC-3.49* Hgb-10.7* Hct-32.8* 
+MCV-94 MCH-30.8 MCHC-32.8 RDW-15.5 Plt ___
+___ 12:10PM BLOOD WBC-5.3 RBC-3.42* Hgb-10.6* Hct-31.9* 
+MCV-93 MCH-31.0 MCHC-33.3 RDW-15.5 Plt ___
+___ 06:00AM BLOOD Neuts-77.0* Lymphs-12.0* Monos-9.8 
+Eos-1.0 Baso-0.3
+___ 12:10PM BLOOD Neuts-73.7* ___ Monos-5.4 Eos-2.2 
+Baso-0.3
+___ 06:45AM BLOOD Plt ___
+___ 06:45AM BLOOD ___
+___ 06:00AM BLOOD Plt ___
+___ 12:10PM BLOOD Plt ___
+___ 06:45AM BLOOD Glucose-98 UreaN-12 Creat-0.7 Na-135 
+K-4.2 Cl-102 HCO3-26 AnGap-11
+___ 06:00AM BLOOD Glucose-129* UreaN-11 Creat-0.5 Na-134 
+K-3.8 Cl-103 HCO3-27 AnGap-8
+___ 12:10PM BLOOD Glucose-109* UreaN-12 Creat-0.7 Na-139 
+K-3.8 Cl-110* HCO3-24 AnGap-9
+___ 08:55PM BLOOD CK(CPK)-44*
+___ 12:30PM BLOOD CK(CPK)-43*
+___ 06:00AM BLOOD CK(CPK)-39*
+___ 12:10PM BLOOD CK(CPK)-35*
+___ 06:45AM BLOOD Calcium-9.1 Phos-2.3* Mg-2.0
+___ 06:00AM BLOOD Calcium-8.0* Phos-2.6* Mg-2.2
+___ 12:10PM BLOOD Calcium-8.0* Phos-2.9 Mg-1.5*
+___ 11:15AM BLOOD pO2-219* pCO2-32* pH-7.43 calTCO2-22 Base 
+XS--1
+___ 10:17AM BLOOD Type-ART pO2-220* pCO2-37 pH-7.40 
+calTCO2-24 Base XS-0
+___ 09:12AM BLOOD Type-ART pO2-249* pCO2-35 pH-7.47* 
+calTCO2-26 Base XS-2 Intubat-INTUBATED
+___ 11:15AM BLOOD Glucose-89 Lactate-1.0 Na-134 K-3.5 
+Cl-111*
+___ 10:17AM BLOOD Glucose-94 Lactate-1.0 Na-134 K-3.7 
+Cl-109*
+___ 09:12AM BLOOD Glucose-93 Lactate-0.9 Na-135 K-3.9 
+Cl-107
+___ 11:15AM BLOOD Hgb-10.0* calcHCT-30 O2 Sat-99 COHgb-0 
+MetHgb-0
+___ 10:17AM BLOOD Hgb-10.1* calcHCT-30
+___ 09:12AM BLOOD Hgb-9.8* calcHCT-29
+___ 11:15AM BLOOD freeCa-1.04*
+___ 09:12AM BLOOD freeCa-1.16
+ 
+Brief Hospital Course:
+The patient was admitted to the vascular surgery service on 
+___ for evaluation and treatment of an abdominal aortic 
+aneurysm. He successfully underwent and tolerated an 
+endovascular repair. He was discharged from the PACU and 
+admitted to the floor in good condition. For details of the 
+procedure, refer to the operative note.  Below is a brief 
+hospital course by systems. 
+
+Neuro: The patient's pain was controlled with tylenol with 
+codeine.   
+
+CV:  On POD #1, the patient experienced a brief episode of 
+bradycardia into the 40-50s range. The patient was otherwise 
+stable from a cardiovascular 
+standpoint;vital signs were routinely monitored and home 
+medications were restarted at the appropriate time.
+ 
+Pulmonary:  No active issues
+ 
+GI/GU/FEN: 
+The patient's diet was regular. His intake and output were 
+closely monitored, and IVF were discontinued at the appropriate 
+time.  On POD #1, patient experienced some nausea with emesis, 
+KUB showed no signs of an ileus. Nausea improved.  Patients 
+doxazosin dose was decreased to 1mg while in hospital. 
+Electrolytes were routinely followed during this 
+hospitalization. 
+
+ID: The patient's white blood count and fever curves were 
+closely watched for signs of infection. He was afebrile 
+throughout his hospitalization.
+ 
+Hematology:  The patient's complete blood count was examined 
+routinely; no transfusions were required during this stay. 
+Patients warfarin was held until POD #2.  He was discharged with 
+instructions to continue his routine regimen and to follow up to 
+have his INR checked with his PCP
+
+___: No active issues.
+
+Ambulation was encouraged once deemed appropriate and patient 
+worked with physical therapy.  A walker device was recommended 
+for when patient experienced hip pain.
+
+At the time of discharge, POD #2 the patient was doing well, 
+afebrile with stable vital signs.  The patient was tolerating a 
+regular diet, voiding without assistance, and pain was well 
+controlled.  He worked with physical therapy and they 
+were satisfied with his progress and felt he was safe to go 
+home. Patient went home with services and was instructed to 
+follow up in ___ after getting an 
+abdominal CT scan.  He was also instructed to follow up in with 
+his cardiologist.
+
+ 
+Medications on Admission:
+Preadmission medications listed are correct and complete.  
+Information was obtained from webOMR.
+1. Doxazosin 1 mg PO HS 
+2. Zolpidem Tartrate 5 mg PO HS 
+3. Atenolol 12.5 mg PO DAILY 
+4. Simvastatin 80 mg PO DAILY 
+5. Nitroglycerin SL 0.4 mg SL PRN angina 
+6. Acetaminophen w/Codeine ___ TAB PO Q6H:PRN pain 
+7. Aspirin 81 mg PO DAILY 
+8. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Acetaminophen w/Codeine ___ TAB PO Q6H:PRN pain 
+RX *acetaminophen-codeine 300 mg-30 mg 1 to 2 tablet(s) by mouth 
+every 4 to 6 hours Disp #*30 Tablet Refills:*0
+2. Aspirin 81 mg PO DAILY 
+3. Atenolol 12.5 mg PO DAILY 
+4. Doxazosin 1 mg PO HS 
+5. Simvastatin 80 mg PO DAILY 
+6. Zolpidem Tartrate 5 mg PO HS 
+7. Nitroglycerin SL 0.4 mg SL PRN angina 
+8. Vitamin D ___ UNIT PO DAILY 
+9. Warfarin 1 mg PO DAILY 
+Take 1 tablet on ___ and ___. Take 2 tablets on 
+___, and ___. 
+RX *warfarin 1 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*1
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Abdominal Aortic Aneurysm
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent. Requires walker when 
+experiencing pain in hip.
+
+ 
+Discharge Instructions:
+Division of Vascular and Endovascular Surgery
+Endovascular Abdominal Aortic Aneurysm (AAA) Discharge 
+Instructions
+
+Medications:
+•Take Aspirin 325mg (enteric coated) once daily 
+•Do not stop Aspirin unless your Vascular Surgeon instructs you 
+to do so. 
+•Continue all other medications you were taking before surgery, 
+unless otherwise directed
+•You make take Tylenol or prescribed pain medications for any 
+post procedure pain or discomfort
+
+What to expect when you go home:
+It is normal to have slight swelling of the legs:
+•Elevate your leg above the level of your heart (use ___ 
+pillows or a recliner) every ___ hours throughout the day and at 
+night
+•Avoid prolonged periods of standing or sitting without your 
+legs elevated
+It is normal to feel tired and have a decreased appetite, your 
+appetite will return with time 
+•Drink plenty of fluids and eat small frequent meals
+•It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing
+•To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+
+What activities you can and cannot do:
+•When you go home, you may walk and go up and down stairs
+•You may shower (let the soapy water run over groin incision, 
+rinse and pat dry)
+•Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing or 
+band aid over the area that is draining, as needed
+•No heavy lifting, pushing or pulling (greater than 5 lbs) for 
+1 week (to allow groin puncture to heal)
+•After 1 week, you may resume sexual activity
+•After 1 week, gradually increase your activities and distance 
+walked as you can tolerate
+•No driving until you are no longer taking pain medications
+•Call and schedule an appointment to be seen in ___ weeks for 
+post procedure check and CTA 
+
+What to report to office:
+•Numbness, coldness or pain in lower extremities 
+•Temperature greater than 101.5F for 24 hours
+•New or increased drainage from incision or white, yellow or 
+green drainage from incisions
+•Bleeding from groin puncture site
+
+SUDDEN, SEVERE BLEEDING OR SWELLING (Groin puncture site or 
+incision)
+•Lie down, keep leg straight and have someone apply firm 
+pressure to area for 10 minutes. If bleeding stops, call 
+vascular office. If bleeding does not stop, call ___ for 
+transfer to closest Emergency Room. 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11521637-DS-11 | hadm_id=23563161
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Ace Inhibitors / Plavix / Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Endoleak
+ 
+Major Surgical or Invasive Procedure:
+Trans caval embolization of ___ for type 2 endoleak
+
+ 
+History of Present Illness:
+This is an ___ gentleman who has had a
+Gore graft placed for an infrarenal AAA in ___.  On his
+surveillance CAT scan, he was recently found to have a type 2
+endoleak from a patent ___ and had increase in his sac size.
+He was, therefore, consented and booked for a transarterial
+coil embolization of the inferior mesenteric artery.  There was 
+a tortuous branch of the superior mesenteric artery with 
+stenosis at its takeoff that could be used to get into the colic 
+artery and then into the internal mammary artery however, 
+repeated attempts were not
+successful to do so and therefore pt was scheduled for a trans 
+caval approach.
+
+ 
+Past Medical History:
+5.5cm AAA, Aflutter, CAD (s/p CABGx2 for MI in ___, s/p stents 
+for occluded SVG-LAD, SVG-OMI grafts ___, HTN, HLD, chronic 
+LBP, OA, diverticulitis, bladder cancer , prostate cancer 
+
+PSH: B/L IHR (___), L IHR (___), RCR (___), b/l 
+cataract extraction (___)
+ 
+Social History:
+___
+Family History:
+N/A
+ 
+Physical Exam:
+Vitals: 98.2F HR 52 BP 118/60 RR 16 94% RA
+Gen: NAD, AAOX3
+CV: RRR, no m/r/g
+RESP: CTABL
+ABD: soft, nondistended, nontender
+Extremities: Groin incision site c/d/i
+Pulses: L: p/d/d/d R: p/d/d/d
+
+ 
+Pertinent Results:
+___ 05:45AM BLOOD WBC-6.6 RBC-3.25* Hgb-9.2* Hct-28.9* 
+MCV-89 MCH-28.2 MCHC-31.7 RDW-16.7* Plt ___
+___ 05:45AM BLOOD Glucose-92 UreaN-16 Creat-0.7 Na-137 
+K-4.3 Cl-104 HCO3-27 AnGap-___ w/infrarenal AAA with Gore graft placement in ___, s/p 
+failed coil embolization for type 2 endoleak from ___ in ___ 
+who presented for scheduled trans caval embolization of Type 2 
+endoleak (___). Pt arrived in preop on day of scheduled 
+procedure. He underwent the procedure without any complications. 
+He was briefly monitored in the PACU without any acute issues. 
+Pt was thereafter transferred to the floor where he was 
+monitored overnight without any complications. Pt was tolerating 
+a regular diet, pain was well controlled with oral medications, 
+and his physical exam and lab values were all within normal 
+limits by the day of discharge. He was discharged to home in 
+stable condition to follow up with Dr. ___ in clinic in 4 
+weeks.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Doxazosin 2 mg PO HS 
+2. Oxybutynin 5 mg PO QHS 
+3. Metoprolol Succinate XL 25 mg PO DAILY 
+4. Diltiazem 30 mg PO BID 
+5. Docusate Sodium 100 mg PO BID 
+6. Senna 17.2 mg PO DAILY 
+7. Warfarin ___ mg PO DAILY16 as directed by ___ 
+clinic 
+8. Atorvastatin 40 mg PO QPM 
+9. Isosorbide Dinitrate 30 mg PO DAILY 
+10. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+11. Acetaminophen w/Codeine ___ TAB PO Q6H:PRN severe pain; 
+limit 4/day 
+12. Aspirin 81 mg PO DAILY 
+13. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. Diltiazem 30 mg PO BID 
+4. Docusate Sodium 100 mg PO BID 
+5. Metoprolol Succinate XL 25 mg PO DAILY 
+6. Oxybutynin 5 mg PO QHS 
+7. Senna 17.2 mg PO DAILY 
+8. Acetaminophen w/Codeine ___ TAB PO Q6H:PRN severe pain; limit 
+4/day 
+9. Doxazosin 2 mg PO HS 
+10. Isosorbide Dinitrate 30 mg PO DAILY 
+11. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+12. Vitamin D 1000 UNIT PO DAILY 
+13. Warfarin ___ mg PO DAILY16 as directed by ___ 
+clinic 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Type 2 endoleak (___)
+Secondary: Abdominal aortic aneurysm
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___. You were 
+hospitalized to repair an endoleak of your aorta and underwent a 
+trans caval embolization. You are recovering well from the 
+procedure and are discharged in stable condition. Please follow 
+the instructions below.
+
+MEDICATION:
+• Continue all other medications you were taking before surgery, 
+unless otherwise directed
+• You make take Tylenol or prescribed pain medications for any 
+post procedure pain or discomfort
+WHAT TO EXPECT:
+It is normal to have slight swelling of the legs:
+• Elevate your leg above the level of your heart with pillows 
+every ___ hours throughout the day and night
+• Avoid prolonged periods of standing or sitting without your 
+legs elevated
+• It is normal to feel tired and have a decreased appetite, your 
+appetite will return with time 
+• Drink plenty of fluids and eat small frequent meals
+• It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing
+• To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+ACTIVITIES:
+• When you go home, you may walk and use stairs
+• You may shower (let the soapy water run over groin incision, 
+rinse and pat dry)
+• Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing or 
+band aid over the area 
+• No heavy lifting, pushing or pulling (greater than 5 lbs) for 
+1 week (to allow groin puncture to heal)
+• After 1 week, you may resume sexual activity
+• After 1 week, gradually increase your activities and distance 
+walked as you can tolerate
+• No driving until you are no longer taking pain medications
+CALL THE OFFICE FOR: ___
+• Numbness, coldness or pain in lower extremities 
+• Temperature greater than 101.5F for 24 hours
+• New or increased drainage from incision or white, yellow or 
+green drainage from incisions
+• Bleeding from groin puncture site
+SUDDEN, SEVERE BLEEDING OR SWELLING (Groin puncture site)
+• Lie down, keep leg straight and have someone apply firm 
+pressure to area for 10 minutes. If bleeding stops, call 
+vascular office ___. If bleeding does not stop, call 
+___ for transfer to closest Emergency Room. 
+
+ 
+Followup Instructions:
+___

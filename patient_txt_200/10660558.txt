@@ -1,0 +1,316 @@
+===== DISCHARGE NOTE =====
+note_id=10660558-DS-13 | hadm_id=24999822
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Keflex / adhesive tape
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Critical aortic stenosis
+
+ 
+Major Surgical or Invasive Procedure:
+___ placement 
+
+ 
+History of Present Illness:
+___ yo F with CAD s/p CABG in ___ (LIMA to LAD, SVG to D2, SVG 
+to ___ and SVG to OM), interstitial pulmonary fibrosis, DM, 
+HTN, HLD, with progressive dyspnea on exertion, admitted for 
+___. 
+.
+Briefly, patient has had longstanding aortic stenosis. Cardiac 
+catheterizaiton at ___ in ___ which revealed a 90% distal LM
+stenosis, 80% mLAD stenosis followed by T.O, 40% D1 stenosis, 
+90%
+ostial RCA stenosis and 60% PDA stenosis. The SVG's to D2 and 
+SVG
+to the ___ were patent. The SVG to OM occluded at ostium, LIMA
+to LAD patent, distal LAD diffusely diseased. On ___, she
+underwent stenting of the LM with a 3.5 x 8mm Bx velocity stent. 
+
+.
+Per patient, since ___, she has been getting progressive short 
+of breath on exertion. She used to be able to perform all ADLs 
+as well as work around the house. Now, she gets very short of 
+breath with minimal exertion, and can only walk from her bed to 
+the recliner. Her symptoms are of chest tightness. The dyspnea 
+usually improved after sitting down for a while. She reports one 
+episode of syncope in ___ where she suddenly loss 
+consciousness. It is unclear whether that was also associated 
+with hypoglycemia. 
+.  
+On arrival to the floor, patient was alert and oriented, mildly 
+short of breath when speaking, but other comfortable. Vitals 
+were HR 60, BP 125/71, RR 38, O2 sat 94% RA. 
+.  
+On review of systems, she denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. S/he denies recent fevers, chills or 
+rigors. S/he denies exertional buttock or calf pain. All of the 
+other review of systems were negative.  
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+paroxysmal nocturnal dyspnea, orthopnea, palpitations.
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension  
+2. CARDIAC HISTORY:  
+-CABG: CABG in ___ at ___ with a LIMA to LAD, SVG to D2, SVG
+to ___ and SVG to OM (known occluded).  
+-PERCUTANEOUS CORONARY INTERVENTIONS: In ___, cath showed 90% 
+distal LM stenosis which was stented with a 3.5 x 8mm Bx 
+velocity stent.
+Also showed 80% mLAD stenosis followed by T.O, 40% D1 stenosis, 
+90%
+ostial RCA stenosis and 60% PDA stenosis. The SVG's to D2 and 
+SVG
+to the ___ were patent.  The SVG to OM occluded at ostium, LIMA
+to LAD patent, distal LAD diffusely diseased. 
+-PACING/ICD:  
+3. OTHER PAST MEDICAL HISTORY:  
+-  Fractured rib on left from last month from coughing
+excessively r/t a sinus infection
+-  Diabetes Type II, on oral agents
+-  Complete hysterectomy and oopherectomy ___ for ovarian CA. 
+No recurrence noted
+-   Pulmonary fibrosis - Marked restrictive ventilatory defect 
+on PFTs and severe fibrosis and low FVC on chest CT. 
+ 
+Social History:
+___
+Family History:
+There is a family history of hypertension, diabetes, and heart 
+disease but not stroke.  Her mother died at ___ of gall bladder 
+infection and her father died at ___ of stomach cancer. No family 
+history of early MI, arrhythmia, cardiomyopathies, or sudden 
+cardiac death.  
+ 
+Physical Exam:
+Physical exam on admission:
+VS: T=97.3 BP=125-132/71 HR=60 RR=38 O2 sat=94% RA  
+GENERAL: Elderly woman, lying in bed, mildly short of breath 
+when speaking  
+HEENT: PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis 
+of the oral mucosa. No xanthalesma.  
+NECK: Supple with JVP of 6 cm.  
+CARDIAC: S1, S2 obscured, Grade IV/VI crescendo-decrescendo 
+systolic ejection murmur radiating to the carotics 
+LUNGS: Mild shortness of breath. Moving air appropriately, dry 
+crackles diffusely 
+ABDOMEN: +bs, soft, multiple scars well healed. Non-tender, 
+non-distended.  
+EXTREMITIES: 1+ edema to the ankles b/l, mild edema in the 
+hands, r>l
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+ 
+Pertinent Results:
+___ 12:58AM BLOOD WBC-8.3 RBC-3.56* Hgb-11.3* Hct-33.7* 
+MCV-95 MCH-31.7 MCHC-33.5 RDW-14.6 Plt ___
+___ 03:08AM BLOOD WBC-7.6 RBC-3.48* Hgb-10.8* Hct-32.5* 
+MCV-93 MCH-31.0 MCHC-33.2 RDW-14.6 Plt ___
+___ 12:58AM BLOOD Glucose-177* UreaN-40* Creat-0.9 Na-142 
+K-3.9 Cl-105 HCO3-30 AnGap-11
+___ 03:08AM BLOOD Glucose-182* UreaN-45* Creat-1.0 Na-138 
+K-4.3 Cl-101 HCO3-32 AnGap-9
+___ 03:09AM BLOOD ALT-25 AST-81* LD(LDH)-328* CK(CPK)-210* 
+AlkPhos-116* Amylase-22 TotBili-3.3*
+___ 12:58AM BLOOD Calcium-9.9 Mg-1.___
+IMPRESSION: 
+1. No evidence of cerebral artery occlusion. 
+2. Atherosclerotic disease as mentioned above. 
+3. Lung parenchymal opacities better appreciated on recent lung 
+imaging. 
+  
+MR head ___
+FINDINGS: Extremely limited study. The ventricles and sulci are 
+prominent, 
+suggestive of age-related volume loss. No other findings can be 
+made from 
+this nondiagnostic study. The patient was immediately referred 
+to CT 
+angiogram.
+
+Echo: 
+Conclusions  
+The left atrium is mildly dilated. No atrial septal defect is 
+seen by 2D or color Doppler. Left ventricular wall thickness, 
+cavity size and regional/global systolic function are normal 
+(LVEF >55%). Right ventricular chamber size and free wall motion 
+are normal. There is abnormal septal motion/position. An aortic 
+___ prosthesis is present. The aortic valve prosthesis 
+appears well seated, with normal leaflet/disc motion and 
+transvalvular gradients. Trace aortic regurgitation and a very 
+small paravalvular leak are seen. The mitral valve leaflets are 
+mildly thickened. Mild (1+) mitral regurgitation is seen. The 
+tricuspid valve leaflets are mildly thickened. There is mild 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion. 
+
+IMPRESSION: Well-seated, normally functioning aortic ___ 
+prosthesis with trace aortic regurgitation and a very small 
+paravalvular leak. Normal left ventricular cavity size and wall 
+thickness with preserved global and regional biventricular 
+systolic function. Mild mitral regurgitation. Mild pulmonary 
+artery systolic hypertension. 
+
+Compared with the prior study (images reviewed) of ___, 
+the findings are similar. Previously, the very small aortic 
+paravalvular leak was not commented upon, but appears to have 
+been present.   
+  Electronically signed by ___, MD, Interpreting 
+physician ___ ___ 15:48  
+   
+
+___ 05:30AM BLOOD WBC-9.8 RBC-3.64* Hgb-11.6* Hct-34.0* 
+MCV-93 MCH-31.9 MCHC-34.1 RDW-14.7 Plt ___
+___ 05:30AM BLOOD Glucose-142* UreaN-33* Creat-0.9 Na-142 
+K-4.2 Cl-104 HC___ AnGap-13
+ 
+Brief Hospital Course:
+Medicine Course:
+___ yo F with CAD s/p CABG in ___ (LIMA to LAD, SVG to D2, SVG 
+to dRCA and SVG to OM), interstitial pulmonary fibrosis, DM, 
+HTN, HLD, with progressive dyspnea on exertion, admitted for 
+___ palcement. 
+.
+# Aortic stenosis: Patient has critical aortic stenosis with 
+most recent valve area measurement of 0.7 cm2. She is currently 
+showing symptoms of dyspnea on minimal exertion. Patient deemed 
+"extreme risk" for surgical aortic valve replacement. Patient 
+admitted for ___ placement.
+.
+# Interstitial pulmonary fibrosis: New diagnosis for patient, 
+but likely long-standing. Dyspnea on exertion is at least 
+particially due to pulmonary disease. Recent CT chest showed 
+severe diffuse pulmonary fibrosis and marked restrictive 
+ventilatory defect on PFTs. Did not require oxygen at baseline. 
+Patient continued on home albuterol inhaler and Advair. 
+.
+# Coronary artery disease: Longstanding, s/p CABG in ___ (LIMA 
+to LAD, SVG to D2, SVG to dRCA and SVG to OM), which on recent 
+cardiac catheterization showed three vessel disease. Patient 
+currently asymptomatic.
+.  
+# Diabetes: Patient only on glyburide at home, which was held. 
+Patient placed on Humalog sliding scale.
+
+Cardiac Surgery Course:
+The patient was taken to the operating room on ___ where she 
+underwent ___ placement with Dr. ___ Dr. ___.  
+Overall the patient tolerated the procedure well and 
+post-operatively was transferred to the CVICU in stable 
+condition for observation and recovery.  Shortly following 
+arrival in ___, the patient developed cardiac arrest requiring 
+re-intubation and resuscitation.  Echo revealed free air in the 
+right atrium and ventricles.  She also developed rapid atrial 
+fibrillation and eventually converted to SR with electrical and 
+chemical cardioversion.  Transvenous wire was placed on ___ at 
+the bedside by Dr. ___ second degree heart block.  The 
+patient developed a fever.  Sputum cultures would grow 
+Pseudomonas.  The patient was treated with appropriate 
+antibiotics.  
+When the patient was weaned from sedation, she was unable to 
+move the left upper extremity. Neurology was consulted for 
+evaluation and she was confirmed to have a CVA. Eventually 
+extubated on ___. Swallowing eval done and she had 
+confusion. Supportive care given while she remained in the CVICU 
+for monitoring. 
+Now alert and oriented and following commands. Aphasia resolved 
+and LUE remains as the only deficit. Transferred to the floor on 
+POD # 18. Cleared for discharge to ___ in 
+___ on POD #19. Follow up appts were advised.
+ 
+Medications on Admission:
+ALBUTEROL SULFATE [PROAIR HFA] - 90 mcg HFA Aerosol Inhaler - 
+two
+puffs inhaled 4 times daily
+FLUTICASONE-SALMETEROL [ADVAIR DISKUS] - 250 mcg-50 mcg/Dose 
+Disk
+with Device - twoq puffs inhaled twice daily
+GLYBURIDE -  (Prescribed by Other Provider) - 2.5 mg Tablet - 1
+Tablet(s) by mouth twice a day
+ISOSORBIDE MONONITRATE -  (Prescribed by Other Provider) - 30 mg
+Tablet Extended Release 24 hr - 1 Tablet(s) by mouth daily
+LEVOTHYROXINE -  (Prescribed by Other Provider) - 100 mcg Tablet 
+-
+1 Tablet(s) by mouth daily
+METOPROLOL TARTRATE -  (Prescribed by Other Provider) - 50 mg
+Tablet - 1 Tablet(s) by mouth Three times daily
+SIMVASTATIN -  (Prescribed by Other Provider) - 80 mg Tablet - 1
+Tablet(s) by mouth daily at hs
+. 
+Medications - OTC
+ASPIRIN -  (Prescribed by Other Provider) - 325 mg Tablet - 1
+Tablet(s) by mouth daily
+CALCIUM CARBONATE -  (Prescribed by Other Provider) - 600 mg
+(1,500 mg) Tablet - one Tablet(s) by mouth daily
+ERGOCALCIFEROL (VITAMIN D2) [VITAMIN D] - 2,000 unit Capsule -
+one Capsule(s) by mouth daily
+GLUCOSAMINE-CHONDROIT-VIT C-MN [GLUCOSAMINE 1500 COMPLEX] - 
+(Prescribed by Other Provider) - 500 mg-400 mg Capsule - two
+Capsule(s) by mouth daily
+MULTIVITAMIN-MINERALS-LUTEIN [CENTRUM SILVER] -  (Prescribed by
+Other Provider) -   Tablet - one Tablet(s) by mouth daily
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY:
+Critical aortic stenosis s/p ___ AVR
+Diabetes mellitus
+Coronary artery disease
+CVA
+Post-op respiratory failure
+.
+SECONDARY:
+Interstitial pulmonary fibrosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and Oriented
+Activity Status: max assist- pivots briefly
+LUE- moves thumb only
+
+ 
+Discharge Instructions:
+Please shower daily including washing puncture sites in groins 
+with mild soap, no baths or swimming for 1 week until groin 
+sites are healed.  
+Please NO lotions, cream, powder, or ointments to puncture sites 
+in your groins
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart 
+
+No driving for one month, will be discussed at follow up 
+appointment  
+No lifting or pulling more than 10 pounds for 1 week, and then 
+continue to take it easy for 1 month 
+Please call with any questions or concerns ___
+
+**Please call Integrated Aortic valve clinic in cardiac surgery 
+office with any questions or concerns ___. Answering 
+service will contact on call person during off hours**
+ 
+Followup Instructions:
+___

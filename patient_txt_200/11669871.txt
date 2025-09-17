@@ -1,0 +1,243 @@
+===== DISCHARGE NOTE =====
+note_id=11669871-DS-12 | hadm_id=22567614
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / clindamycin / Compazine
+ 
+Attending: ___
+ 
+Chief Complaint:
+fever, low back pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The patient is a ___ year old female with PMHx endometriosis, 
+otosclerosis, asthma who presents with fevers and low back pain. 
+Patient intially had strep throat ___ in ___, 
+initially treated with Avelox. She progressed to having swollen 
+lymphnodes, had Biaxin added after which she developed neck pain 
+and stiffness (in this time period had a dental cleaning while 
+on Avelox - reports she does need a root canal). This led to a 
+workup at ___ where she had a CT which she reports showed 
+peritonsillar swelling. Was treated with decadron which 
+decreased her swelling. She was referred to an ID specialist and 
+the day of her appointment, developed difficulty speaking and 
+went back to ___, where she was admitted for expressive 
+apahasia and concern for TIA. She had a CT, echo, carotid U/S, 
+and MRI head which she reports was all normal. She was also 
+treated with 3 days of vancomycin, after which she started 
+feeling better. She did develop back pain prior to being 
+discharged, however attributed that to the beds that were used. 
+Her back pain progressed and yesterday, it acutely worsened so 
+she went to an Urgent Care center, had a lumbar MRI performed. 
+This AM, the pain worsened again and she had a fever and rash on 
+her trunk so came to the ED for evaluation. Of note, she reports 
+her son was recently ___ with strep as well.
+.
+In the ED, initial vs were: 100.6 117 170/88 18 100% RA. Patient 
+had a CXR, blood cx and urine cx sent, and got a dose of 
+vancomycin. ESR and CRP were also sent and pending. Her vitals 
+on admission were 99.8, 98, 145/84, 18, 100 RA.
+.
+On the floor, the patient is complaining of back pain, but 
+otherwise feels well. Is visibly anxious about what has been 
+going on.
+.
+Review of sytems:
+(+) Per HPI
+(-) Denies chills, night sweats, recent weight loss or gain. 
+Denies headache, sinus tenderness, rhinorrhea or congestion. 
+Denied cough, shortness of breath. Denied chest pain or 
+tightness, palpitations. Denied nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denied arthralgias or myalgias.
+ 
+Past Medical History:
+Otosclerosis
+Mycoplasma pneumonia
+Endometriosis
+Asthma
+ 
+Social History:
+___
+Family History:
+Mother had stroke at age ___, HTN in mothers family.
+ 
+Physical Exam:
+Admission Exam:
+Vitals: T: 97.9 BP: 130/86 P: 88 R: 16 O2: 100%RA  
+General: Alert, oriented, no acute distress but anxious 
+appearing  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, no 
+tonsillar swelling  
+Neck: supple, JVP not elevated, shotty nontender cervical 
+lymphadenopathy bilaterally, normal thyroid
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, ___, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema, very faint redness of chest with 1 pustule noted, no 
+supraclav, axillary LAD appreciated.  Mild spinal tenderness 
+lumbar back.  No oslers nodes, ___ lesions appreciated.  
+Small, healing burn scar over right carpometacarpal joint, small 
+healing lesion on index finger
+Neuro: ___ intact, grossly normal sensation, normal gait, 
+able to walk on toes and heels, however does have antalgic gait 
+to the right when walking on heels.  On strength testing, ___ 
+strength RLE, able to generate ___ strength LLE, but quickly 
+stops because of "funny feeling in back" that she is unable to 
+further elaborate about.  ___ strength upper extremities, but 
+stops quickly due to low back pain.
+
+Discharge Exam:
+Changes - ___ strength lower extremities, able to sustain full 
+strength.  No deficits with walking on heels or toes.  No back 
+tenderness.
+ 
+Pertinent Results:
+Admission Labs:
+
+___ 04:15PM BLOOD ___ 
+___ Plt ___
+___ 04:15PM BLOOD ___ 
+___
+___ 04:15PM BLOOD ___ ___
+___ 04:15PM BLOOD ___
+___ 04:15PM BLOOD ___ 
+___
+___ 07:00AM BLOOD ___
+___ 04:15PM BLOOD ___
+___ 04:15PM URINE ___ Sp ___
+___ 04:15PM URINE ___ 
+___
+___ 04:15PM URINE RBC-<1 ___ 
+___
+
+MICRO:
+URINE CULTURE (Final ___:    NO GROWTH.
+
+Blood Culture x3 - PENDING - no growth to date
+
+CXR:
+PA AND LATERAL VIEWS OF THE CHEST: The cardiac, mediastinal and 
+hilar
+contours are normal. Lungs are clear. The pulmonary vascularity 
+is normal.
+No pleural effusion or pneumothorax is present. There are no 
+acute osseous
+findings.
+ 
+IMPRESSION: No acute cardiopulmonary abnormality.
+
+Discharge Labs:
+
+___ 07:00AM BLOOD ___ 
+___ Plt ___
+___ 07:00AM BLOOD ___ 
+___ y/o female with PMHx of endometriosis, asthma who presents 
+with fevers and low back pain after recent antibiotic treatment. 
+ Patient remained afebrile in hospital and discharged with PCP 
+follow up.
+.
+# Fevers - The patient received one dose of vancomycin in ED.  
+Blood cultures were sent as well.  She was not given antibiotics 
+while on the floor.  She remained afebrile and her blood 
+cultures, UA and urine culture did not show evidence of 
+infection.  Her blood cultures were pending at the time of 
+discharge.  ESR and CRP were normal as well.  It was thought her 
+symptoms may have been due to medication effect and viral 
+infection.  The decision was made to hold on further antibiotics 
+and follow up her cultures to see if patient declares herself.  
+This was discussed with her PCP who agreed with the plan to 
+monitor the patient and she was scheduled for follow up.
+.
+# Low back pain - The patient's back pain improved on Hospital 
+Day #2 and she was able to ambulate without difficulty or pain.  
+Her Lumber spine MRI report was obtained and showed no evidence 
+of discitis or other infectious etiology.
+.
+INACTIVE ISSUES
+.
+# TIA - No events concerning for TIA - continued on aspirin.
+.
+# Endometriosis - Stable.
+.
+# Asthma - Stable, continue advair
+.
+# Cold sores - continued valtrex
+.
+# Anxiety - continued on zoloft
+.
+Transitional Issues:
+- f/u with PCP
+- ___ blood cultures
+.
+ 
+Medications on Admission:
+Valtrex 1gm 
+Claritin
+Advair
+Zoloft
+Aspirin 325mg
+ 
+Discharge Medications:
+1. ___ mcg/dose Disk with Device Sig: 
+One (1) Disk with Device Inhalation BID (2 times a day).  
+2. Claritin 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+3. Valtrex 1 g Tablet Sig: One (1) Tablet PO once a day.  
+4. sertraline 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Fevers, low back pain
+
+Secondary: Asthma, anxiety
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+ It was a pleasure taking care of you during your 
+hospitalization.  You were admitted with fevers and low back 
+pain.  You received one dose of antibiotics in the Emergency 
+Room, but did not get anymore.  We watched you overnight and you 
+did not have any fevers.  We sent blood and urine cultures which 
+do not show any signs of infection to date but do need to be 
+followed up by your PCP.  We also checked blood tests for signs 
+of inflammation which were negative.  We got the report of your 
+MRI and it showed no evidence of infection in your back.
+.
+No changes were made to your medication list.
+.
+Please follow up with Dr. ___ at the appointment on 
+___.
+ 
+Followup Instructions:
+___

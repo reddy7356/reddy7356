@@ -1,0 +1,566 @@
+===== DISCHARGE NOTE =====
+note_id=11504429-DS-3 | hadm_id=23014746
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization ___
+
+ 
+History of Present Illness:
+___ presents from PCP for evaluation of tearing chest pain 
+radiating to the back. Pain radiates to the jaw. Day prior to 
+admission, while at work, pain was radiating to the back. Took 
+advil with relief.  Chest pain worsens when talking/moving. She 
+has had intermittent excertional cp for months. ETT found to be 
+normal in the past month, however was limited and could not 
+finish it. EGD - Hpylori+ - s/p partial treatment only. Has had 
+limited eating. Eating triggers the chest pain.  Denies 
+vomiting, abd pain, diarrhea, dysuria. No ___ edema or hx of 
+blood clots. No recent travel. No fhx of blood clots. Took ASA 
+81 today. ASA 243 en route. Sleeps normally on 3 pillow. 
+
+EKG nsr LAD, no STE
+Vitals in the ED: 99.9 87 140/69 18 98% RA   
+Labs Significait for: Normal UA, TNT <0.01 x2, BUN/Cr of ___, 
+lactate of 2.2, WNL of CBC.
+
+Under the care of ___ she underwent Nuclear Stress which 
+showed: Moderate reversible perfusion defect in the basal 
+portion of 
+the inferior wall. 2) Normal ventricular cavity size, normal 
+wall motion, and normal function with ejection fraction of 68% 
+She was made NPO for cath
+She Had fever of 100.8 in ED, UA negative, CTA did not identify 
+pneumonia or PE.
+
+Patient subsequently went to cath lab and had right RCA stent 
+placed.
+
+On floor patient reports her CP has lessened considerably.  
+
+REVIEW OF SYSTEMS: On review of systems, denies any prior 
+history of stroke, TIA, deep venous thrombosis, pulmonary 
+embolism, bleeding at the time of surgery, myalgias, joint 
+pains, cough, hemoptysis, black stools or red stools. Denies 
+recent fevers, chills or rigors. Denies exertional buttock or 
+calf pain. All of the other review of systems were negative.  
+
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope or presyncope.  
+
+ 
+Past Medical History:
+- DM2
+- BPPV
+- HTN
+- TIA in ___ with aphasia
+
+ 
+Social History:
+___
+Family History:
+mother died at age ___ of CAD/CHF, father died at age ___ of "old 
+age", no hx of strokes in the family
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: 99.2, 118/64, 73, 16, 98% RA 
+GENERAL: obese woman lying in bed flat but comfortable and in 
+NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: PERRL, EOMI. MM dry.  
+NECK: Supple without JVD.  
+CARDIAC: RRR, normal S1, S2. S4 heard best at apex. No 
+murmurs/rubs. No thrills, lifts. 
+LUNGS: CTAB over anterior and lateral lung fields.  
+ABDOMEN: Soft, NTND.  
+EXTREMITIES: No c/c/e. PD pulses +2  
+
+DISCHARGE PHYSICAL EXAM:
+VS:   98.7, 90-119/47-54 69-71 20 96-98% on r/a
+Weight 69.5 kg, I: ___, O: BRP
+General: obese woman lying in bed flat but comfortable and in 
+NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: PERRL, EOMI. MMM.  
+NECK: Supple without JVD.  
+CARDIAC: RRR, normal S1, S2. S4 heard best at apex. No 
+murmurs/rubs. No thrills, lifts. 
+LUNGS: CTAB over anterior and lateral lung fields.  
+ABDOMEN: Soft, NTND.  
+EXTREMITIES: No c/c/e. PD pulses +2  
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 04:07PM BLOOD WBC-5.4 RBC-4.08 Hgb-12.7 Hct-38.3 MCV-94 
+MCH-31.1 MCHC-33.2 RDW-14.4 RDWSD-49.3* Plt ___
+___ 04:07PM BLOOD Neuts-84.0* Lymphs-9.2* Monos-4.5* 
+Eos-1.9 Baso-0.0 Im ___ AbsNeut-4.50# AbsLymp-0.49* 
+AbsMono-0.24 AbsEos-0.10 AbsBaso-0.00*
+___ 04:07PM BLOOD Glucose-116* UreaN-21* Creat-1.2* Na-138 
+K-2.9* Cl-96 HCO3-28 AnGap-17
+___ 04:07PM BLOOD proBNP-45
+___ 04:07PM BLOOD cTropnT-<0.01
+___ 10:43PM BLOOD cTropnT-<0.01
+___ 05:55AM BLOOD Calcium-8.5 Phos-5.1* Mg-1.6
+___ 04:14PM BLOOD Lactate-2.2*
+
+IMAGING / STUDIES:
+CTA ___:
+FINDINGS:  
+The aorta is unremarkable without dissection or aneurysm. Great 
+vessels are unremarkable.  The pulmonary arteries are well 
+opacified to the subsegmental level without filling defect to 
+suggest pulmonary embolism. Pulmonary arteries are normal in 
+caliber. 
+Minimal bibasilar atelectasis is noted.  There is no pleural 
+effusion or pneumothorax. The airways are patent to the 
+subsegmental level. 
+Heart is unremarkable aside from coronary calcifications.  There 
+is no 
+pericardial effusion.  There is no supraclavicular, mediastinal, 
+or hilar 
+lymphadenopathy.  A prominent right axillary lymph node is 
+noted, measuring 1 cm in short axis.  Borderline right hilar 
+lymph node measures 9 mm (3:92). 
+The thyroid is enlarged.  A large left sided thyroid nodule with 
+coarse 
+calcifications within is seen.  The nodule measures 
+approximately 2.2 x 2.6 cm. 
+Included portion of the upper abdomen is unremarkable.  Small 
+hiatal hernia is noted. 
+No lytic or blastic osseous lesion suspicious for malignancy is 
+identified. There is no fracture.  
+IMPRESSION:  
+1. No evidence of pulmonary embolism or aortic abnormality. 
+2.  Left-sided thyroid nodule. 
+
+CARDIAC PERFUSION PHARM / STRESS ___
+IMPRESSION:   1) Moderate reversible perfusion defect in the 
+basal portion of the inferior wall. 2) Normal ventricular cavity 
+size, normal wall motion, and normal function with ejection 
+fraction of 68%. 
+IMPRESSION: Anginal type symptoms with non-specific ST segment 
+changes. 
+Nuclear report sent separately. 
+
+CARDIAC CATH ___:
+IMPRESSIONS: 
+ -Sever RCA and moderate LAD disease.
+- Successful PCI of the RCA.
+** for full details please see cath report from ___ **
+
+EKG ___:
+Sinus rhythm with short P-R interval but no evident 
+pre-excitaton. There are non-specific ST-T wave abnormalities. 
+Compared to the previous tracing  of ___ there are no 
+significant changes. 
+  Intervals                           Axes 
+Rate PR  QRS QT   QTc (___)     P  QRS  T 
+86   118 82  388  433              44 -1  111 
+ 
+
+DISCHARGE LABS:
+___ 06:30AM BLOOD WBC-4.8# RBC-3.86* Hgb-11.5 Hct-36.7 
+MCV-95 MCH-29.8 MCHC-31.3* RDW-14.5 RDWSD-50.5* Plt ___
+___ 05:05PM BLOOD ___ PTT-37.2* ___
+___ 06:30AM BLOOD Glucose-126* UreaN-13 Creat-1.0 Na-142 
+K-4.4 Cl-103 HCO3-30 AnGap-13
+___ 06:30AM BLOOD Calcium-9.1 Phos-3.0# Mg-2.___ with PMH of DM, HTN, HLD who was sent in from the PCP for 
+evaluation of chest pain, found to have positive stress test.
+
+# Coronary artery disease: Patient presented with chest pain and 
+negative trops ___ yet still had positive stress test and culprit 
+lesion noted in RCA. She was taken to cath and found to have 
+severe RCA disease with moderate LAD disease. DES was placed in 
+the RCA. She was started on aspirin and Plavix to be continued 
+for ___ year minimum. Her statin was switched to atorvastatin 80mg 
+and the reminder of her home medications were continued.  
+
+# Diabetes mellitus: Patient with history of DM, on insulin 
+sliding scale in house and discharged on home metformin. 
+
+# GERD: Patient was on pantoprazole 40 mg bid dosing, likely 
+secondary to her complaint that her chest pain got worse with 
+food. Found to have ischemic disease and discharged on 
+omeprazole 20mg daily. Consider down titrating this as 
+outpatient.
+
+# HTN: Continued home valsartan and HCTZ but upon restarting was 
+hypokalemic so HCTZ was reduced to valsartan-hydrochlorothiazide 
+160-12.5 mg. Please follow up BP upon discharge. Consider beta 
+blocker as outpatient for further cardio-protection. 
+
+# Hypokalemia: patient with history of hypokalemia, was 
+hypokalemic post cath to 2.9. Patient remained asymptomatic and 
+was repleated. Possibly secondary to HCTZ, decreased to 12.5 
+upon discharge. Please follow up and consider changing 
+antihypertensive if not tolerant. 
+
+TRANSITIONAL ISSUES:
+# Discharged on new clopidogrel and changed from pantoprazole to 
+omeprazole 
+# Please follow-up potassium levels and BP now that HCTZ has 
+been decreased
+# Outpatient cardiologist to please provide referral for 
+outpatient cardiac rehab
+# Follow up incidental left thyroid nodule found on CTA.
+# CODE: Full Code
+# CONTACT: ___ (daughter) ___ / ___ 
+(daughter) ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Meclizine 12.5 mg PO Q12H:PRN dizziness 
+2. MetFORMIN (Glucophage) 1000 mg PO BID 
+3. Pantoprazole 40 mg PO Q12H 
+4. Simvastatin 20 mg PO QPM 
+5. valsartan-hydrochlorothiazide 160-25 mg oral DAILY 
+6. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Meclizine 12.5 mg PO Q12H:PRN dizziness 
+3. Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+4. Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+5. MetFORMIN (Glucophage) 1000 mg PO BID 
+6. valsartan-hydrochlorothiazide 160-12.5 mg oral DAILY 
+RX *valsartan-hydrochlorothiazide [Diovan HCT] 160 mg-12.5 mg 1 
+tablet(s) by mouth daily Disp #*30 Tablet Refills:*0
+7. Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+8. Outpatient Lab Work
+Labs: chemistry panel (Na, K, BUN, Cr)
+ICD-9:  401.9
+Name: ___ Phone: ___ Fax: 
+___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+- Unstable angina
+
+SECONDARY DIAGNOSES
+- hypokalemia
+- CAD
+- hypertension
+- diabetes mellitus 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+It was a pleasure caring for you here at ___ 
+___. You came to us for cardiac catheterization after 
+experiencing chest pain that radiated to your back and jaw. You 
+were found to have a blockage in one of your arteries and got a 
+stent placed to open it. You were placed on a few new 
+medications and should take them as prescribed below. 
+
+We decreased the dose of your hydrochlorothiazide, a diuretic, 
+because we were concerned that it was leading to recurrent low 
+potassium levels. You should follow-up with your primary care 
+provider this week to check your electrolyte panel and make sure 
+your potassium is okay, and to check your blood pressure since 
+we changed this medication. 
+
+You also need to establish care with a Cardiologist. You should 
+follow-up with a new cardiologist within ___ weeks of discharge. 
+They can help set you up for outpatient cardiac rehabilitation.
+
+Thank you for choosing ___ for your healthcare needs.
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11504429-DS-2 | hadm_id=24215680
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+___
+ 
+Attending: ___
+ 
+Chief Complaint:
+vertigo 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The pt is a ___ year-old R-handed woman with PMHx of DM2, HTN,
+prior TIA and vertigo who presents with vertigo and a black area
+in her R lateral visual field. She reports that this morning she
+woke up and had vertigo with a sensation of the room spinning. 
+She doesn't know it it was spinning right or left, but looking 
+up
+was "the worst". When she first got it, she noticed that the 
+room
+was spinning but that her vision was cloudy and then went black
+in both eyes and she "couldn't see".  This lasted for less than 
+1
+minute, and then when it stopped she felt like there was a black
+circle in her R lateral field of vision "like a fly".  When 
+asked
+to explain it more she reported it was like an "eye, grey on the
+outside and then black on the inside in a circle".  This did not
+go away all day, but she got a cold compress and put it on her
+head and took meclizine and after 30 minutes her vertigo
+improved.  Of note, she has had episodes of vertigo for the last
+___ years, and they usually occur when she wakes up, improve over 
+30
+mins with melizine and are worse when she looks up.  She doesn't
+have nausea or vomiting with them and she does have some mild
+unsteadiness walking.  Today's episode was like her prior
+episodes, but the vertigo was more severe and the visual deficit
+was new.  She has never had any visual issue like she has had
+today in the past or with her episodes of vertigo.  She came to
+the ED when she felt unwell at work.  In the ED, she got a NCHCT
+which showed no no acute issues.  She was admitted for further
+workup of possible stroke.   
+ 
+On neuro ROS, the pt reports that her vertigo is improved, but
+still c/o a black spot in her R lateral vision, denies headache,
+blurred vision, diplopia, dysarthria, dysphagia, 
+lightheadedness,
+tinnitus or hearing difficulty. Denies difficulties producing or
+comprehending speech.  Denies focal weakness, numbness,
+parasthesiae. No bowel or bladder incontinence or retention.
+Denies difficulty with gait.
+ 
+On general review of systems, the pt denies recent fever or
+chills.  No night sweats or recent weight loss or gain. Denies
+cough, shortness of breath.  Denies chest pain or tightness,
+palpitations.  Denies nausea, vomiting, diarrhea, constipation 
+or
+abdominal pain.  No recent change in bowel or bladder habits.  
+No
+dysuria.  Denies arthralgias or myalgias. Denies rash.
+
+ 
+Past Medical History:
+- DM2
+- BPPV
+- HTN
+- TIA in ___ with aphasia
+
+ 
+Social History:
+___
+Family History:
+mother died at age ___ of CAD/CHF, father died at age ___ of "old 
+age", no hx of strokes in the family
+ 
+Physical Exam:
+Physical Exam on Admission:
+
+Vitals: T: 97.5  P: 70  R: 18  BP: 144/98 SaO2: 100% on RA
+General: Awake, cooperative, NAD. 
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx 
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity 
+Pulmonary: Lungs CTA bilaterally without R/R/W 
+Cardiac: RRR, nl. S1S2, no M/R/G noted 
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted. 
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally. 
+Skin: no rashes or lesions noted.
+ 
+Neurologic: 
+-Mental Status: Alert, oriented x 3.  Able to relate history
+without difficulty.  Attentive, able to name ___ backward 
+without
+difficulty.  Language is fluent with intact repetition and
+comprehension.  Normal prosody.  There were no paraphasic 
+errors.
+Pt. was able to name both high and low frequency objects.  Able
+to read without difficulty.  Speech was not dysarthric. Able to
+follow both midline and appendicular commands. Pt. was able to
+register 3 objects and recall ___ at 5 minutes spontaneously and
+___ with cues.  The pt. had good knowledge of current events. 
+There was no evidence of apraxia or neglect.
+  
+-Cranial Nerves: 
+I: Olfaction not tested.  
+II: PERRL 3 to 2mm and brisk.  VFF to confrontation, but on red
+pin testing, she had a R lateral field cut in her R eye only.
+Funduscopic exam revealed no papilledema, exudates, or
+hemorrhages. 
+III, IV, VI: EOMI without nystagmus.  Normal saccades. 
+V: Facial sensation intact to light touch. 
+VII: No facial droop, facial musculature symmetric. 
+VIII: Hearing intact to finger-rub bilaterally.  
+IX, X: Palate elevates symmetrically.  
+XI: ___ strength in trapezii and SCM bilaterally. 
+XII: Tongue protrudes in midline.
+ 
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally. 
+No adventitious movements, such as tremor, noted. No asterixis
+noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___ 
+L  5    ___   ___  5   5    5  5     5     5   5 
+R  5    ___   ___  5   5    5  5     5     5   5
+ 
+-Sensory: No deficits to light touch, pinprick, cold sensation,
+vibratory sense, proprioception throughout. No extinction to 
+DSS.
+ 
+-DTRs: 
+  Bi Tri ___ Pat Ach 
+L  2  2    2    2   1 
+R  2  2    2    2   1
+Plantar response was flexor bilaterally.
+ 
+-Coordination: No intention tremor, no dysdiadochokinesia noted.
+Very subtle dysmetria on FNF on L, but not the R.  Mild
+difficulty with mirroring task on the L, but not the R.
+ 
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  Unsteady with tandem walking, unable to complete more
+than a few steps. Romberg positive for sway.
+
+PHYSICAL EXAM ON DISCHARGE:
+
+Neurological Exam is intact and nonfocal. This includes, full 
+visual fields (tested with color fields) and intact EOMs with no 
+nystagmus. She has full strength throughout. No dysmetria or 
+intention tremor on F-N-F. 
+ 
+Pertinent Results:
+141 / 101 / 17
+---------------< 109
+3.6 / 29 / 0.9
+
+7.3 >-----< 251
+     41.6
+
+___: 10.4 PTT: 33.7 INR: 1.0 
+
+Lactate:3.8
+
+Serum and Urine tox neg. 
+
+UA: moderate leuks, 1 WBC, no bacteria 
+
+DIAGNOSTIC STUDIES: 
+
+NCHCT: no acute process noted
+
+CTA head/neck: calcifications at bilateral carotid bulbs and 
+siphons. no stenosis, occluson, dissection, aneurysm. Enlarged 
+nodular thyroid, can be assessed with outpt US 
+
+ 
+Brief Hospital Course:
+Ms. ___ presented with vertigo, transient blurry vision and 
+right visual field obscurations. She had a NCHCT and CTA head 
+and neck performed in the ED, which did not show any acute 
+process or arterial stenosis, thrombosis or dissection. As the 
+main consideration is the possibility of a vertebral/PCA infarct 
+given the vertigo and report of right visual field obscuration, 
+she was admitted to the Neurology service for MRI. Her vertigo 
+improved with Meclizine. Her neurologic exam was nonfocal and 
+notably she had full visual fields to color field confrontation 
+testing. She had an MRI of her head, which showed no masses, 
+infarcts, or hemorrhage.
+
+In addition, her CTA showed an enlarged nodular thyroid, she 
+will need an outpatient ultrasound for further evaluation of 
+this.   
+ 
+Medications on Admission:
+- diovan/HCTZ 160/25mg QD
+- metformin 1,000mg BID
+- simvastatin 10mg QD
+- ASA 81mg QD
+- meclizine 12.5mg BID PRN dizziness
+
+ 
+Discharge Medications:
+1. Meclizine 12.5 mg PO Q12H:PRN dizziness 
+2. Simvastatin 10 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Valsartan 160 mg PO DAILY 
+5. Hydrochlorothiazide 25 mg PO DAILY 
+6. MetFORMIN (Glucophage) 1000 mg PO BID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: 
+Peripheral Vertigo
+
+Secondary Diagnoses: 
+Hypertension
+DM II
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Neurology Exam at Discharge: nonfocal neurologic exam, including 
+full visual fields and EOMs intact with no nystagmus. 
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with symptoms of vertigo, 
+similar to your previous vertiginious episodes, and transient 
+blurry vision. Your vertigo improved with Meclizine. You were 
+admitted to the Neurology service for further evaluation, 
+including MRI, to make sure you didn't have a stroke resulting 
+in your symptoms. The MRI showed no bleeding, masses, or areas 
+which suggested ischemia (lack of blood flow). 
+ 
+Followup Instructions:
+___

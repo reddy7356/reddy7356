@@ -1,0 +1,231 @@
+===== DISCHARGE NOTE =====
+note_id=10201778-DS-18 | hadm_id=22214111
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cellulitis
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo M w/ history of "chronic lymphedema" (per pt) p/w 
+cellulitis of his LLE. Pt reports systemic symptoms of headache, 
+myalgias and fever started 6 days prior to admission, and then 
+he noticed some erythema and swelling of his left knee. He was 
+seen by his PCP who felt that it was most likely viral as he did 
+not have a leukocytosis at the time. He then noticed 3 days 
+prior to admission that his left lower extremitiy was getting 
+more painful and worsened when he hung it off the bed or put 
+weight on it. He noticed increasing redness of the skin and 
+warmth. He reports no documented fevers but was feeling "hot 
+flashes". He went back to his PCP 1 day prior to admission and 
+had an elevated WBC at 12.6 with a left shift (no bands) and he 
+was started on po Bactrim (1DS BID). The next day he noticed 
+worsening of the erythem and returned to the PCP, who was 
+concerned for a DVT, had a negative D-Dimer and sent to the ED 
+for a doppler and possible IV abx.  
+In the ED, intial VS 98.2 89 123/96 16 99% RA, he had a negative 
+___, and no note of ___ cyst. He was given 1g Vancomycin IV 
+and 1g Cefazolin IV. He had blood cultures drawn and pending and 
+labs which were signficant for wbc=11.9, and Cr=1.4.  
+.  
+On the floor, VSS and patient reported pain was a ___. He 
+denied any fevers, chills, chest pains or palpitations. He 
+denied any history of STDs, and no dysuria or penile discharge. 
+He reported that prior to the onset of the cellulitis he noted a 
+couple of cracks betwen his toes on that foot.  
+
+ 
+Past Medical History:
+Chronic Lymphedema  
+Asthma  
+cellulitis in ___ (on a leg)  
+
+ 
+Social History:
+___
+Family History:
+No cardiac disease. One GM with "cancer", and s/p liver 
+transplant (don't know why) 
+ 
+Physical Exam:
+Physical Exam on Admission:  
+Vitals: 99.1, 166/71, 91, 18, 98%RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen:obese soft, non-tender, non-distended. + bowel sounds. 
+no rebound or guarding.  
+Ext: LLE with pen-marked border with erythema of varying shades 
+within the border and warmth on palpation. No fluctuance, no 
+visible skin breaks or pustules, nonpitting edema, tender to 
+palpation. No erythema or warmth outside of the marked area. 
+Pain on palpation of the left ankle joint. No fluid wave noted 
+in the joint. ___ strenght in the pedal flexor and plantar 
+bilaterally. Left knee with no erythema or fluid wave. 2+DP 
+pulses bilaterally.  
+Neuro: CN II-XII intact. Strength ___ throughout. motor function 
+grossly normal  
+
+Physical Exam on Discharge:
+Vitals: 98.0, 118/72, 78, 18, 99%RA
+General: Alert, oriented, no acute distress  
+Lungs: CTAB
+CV: RRR, no MRG 
+Abdomen:obese soft, NTND. + bowel sounds. no rebound or 
+guarding.  
+Ext: LLE with pen-marked border with very mild erythema of the 
+most anteior portion of the leg, no longer erythematous around 
+the lateral aspect.  No edema, minimal tenderness to palpation, 
+mild warmth. Full ROM of ankle and knee joints of the left leg. 
+2+DP pulses bilaterally.  
+ 
+Pertinent Results:
+Admission Labs:
+___ 07:23PM BLOOD WBC-11.9* RBC-5.30 Hgb-15.8 Hct-44.3 
+MCV-84 MCH-29.8 MCHC-35.6* RDW-12.1 Plt ___
+___ 07:23PM BLOOD Neuts-69.1 ___ Monos-8.1 Eos-0.6 
+Baso-0.4
+___ 07:23PM BLOOD Glucose-90 UreaN-14 Creat-1.4* Na-138 
+K-4.2 Cl-98 HCO3-29 AnGap-15
+
+Discharge Labs:
+___ 06:15AM BLOOD WBC-7.7 RBC-4.97 Hgb-15.3 Hct-42.2 MCV-85 
+MCH-30.8 MCHC-36.3* RDW-12.1 Plt ___
+___ 06:15AM BLOOD Glucose-87 UreaN-13 Creat-1.3* Na-139 
+K-4.6 Cl-101 HCO3-29 AnGap-14
+
+___ Unilateral Lower Extremity Veins Doppler
+Imaging:
+CLINICAL INFORMATION: Right lower extremity swelling, rule out 
+DVT. 
+  
+COMPARISON: None. 
+  
+TECHNIQUE AND FINDINGS: There is normal respirophasic waveform 
+in the 
+bilateral common femoral veins. There is normal compressibility, 
+response to augmentation, and color Doppler flow within the 
+right common femoral, 
+superficial femoral, and popliteal veins. Normal flow is seen 
+within the 
+posterior tibial and peroneal veins of the calf. 
+  
+IMPRESSION: No evidence of left lower extremity DVT. 
+
+ 
+Brief Hospital Course:
+___ yo M w/ PMH of chronic lymphedema of the legs bilaterally 
+(unknown cause) with presents with cellulitis of the left leg.
+
+#Cellulitis- patient was treated with IV Vanc and Cefazolin x 1 
+in the ED with improvement in the erythema. He had no signs of 
+any deep tissue involvement and was switched to 2 DS Bactrim BID 
+and keflex ___ po q6h. He tolerated this regimen for a day 
+prior to discharge and had decreased erythema, edema, warmth and 
+pain of the left lower leg and was afebrile. He reported being 
+able to bear more weight at the time of discharge. He had blood 
+cultures pending at the time of discharge.  There was concern 
+that the unilateral swelling could be due to a DVT but U/S was 
+negative for clot.  
+.
+#CKD- patient has an elevated Cr of 1.3 at baseline which was 
+stable throughout his hospital course. His BP was stable and 
+normotensive and nothing was done to work-up this elevated Cr, 
+would recommend continuing to monitor for signs of worsening 
+renal function.
+
+Transitional Issues:
+Pending labs: Blood cultures from ___
+Medications started: Please take antibiotics as prescribed 
+through ___
+1. Bactrim 2 DS tablets twice a day by mouth (antibiotic)
+2. Keflex ___ tablet 1 tablet by mouth every 6 hours 
+(antibiotic
+Medications stopped: none
+Follow-up- you have a follow-up appointment scheduled with your 
+PCP ___ ___, please keep this appointment so that they can 
+determine if you will need longer antibiotics. Call your PCP if 
+you develop worsening of the redness, pain or high fevers 
+(___).
+-continue to monitor renal function as an outpatient
+ 
+Medications on Admission:
+Bactrim 1 DS BID
+ 
+Discharge Medications:
+1. cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every 
+6 hours) for 7 days.
+Disp:*28 Capsule(s)* Refills:*0*
+2. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: Two (2) 
+Tablet PO BID (2 times a day) for 7 days.
+Disp:*28 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Cellulitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+It was a pleasure caring for you while you were here at ___.
+
+You were admitted to the hospital for concern that your 
+cellulitis on your left lower leg was worsening despite 
+outpatient treatment. You received IV antibiotics and we watched 
+the progression of the infection which was improving and 
+switched you to oral antibiotics for a day prior to your 
+discharge.You remained without fevers during your admission and 
+showed no signs of worsening or spreading infection. There was 
+concern that some of the pain in your leg may have been because 
+of a blood clot but an ultrasound of your leg showed no signs of 
+blood clot. 
+One of your lab values, that measures your kidney function was a 
+little higher than we would expect for someone your age, however 
+this is similar to what it has been on testing over the past few 
+years.  This is something that your primary care doctor ___ 
+continue to follow.
+
+Transitional Issues:
+Pending labs:  Blood cultures from ___
+Medications started: Please take antibiotics as prescribed 
+through ___
+1. Bactrim 2 DS tablets twice a day by mouth (antibiotic)
+2. Keflex ___ tablet 1 tablet by mouth every 6 hours 
+(antibiotic
+Medications stopped: none
+Follow-up- you have a follow-up appointment scheduled with your 
+PCP, please keep this appointment so that they can determine if 
+you will need longer antibiotics. Call your PCP if you develop 
+worsening of the redness, pain or high fevers (___).
+ 
+Followup Instructions:
+___

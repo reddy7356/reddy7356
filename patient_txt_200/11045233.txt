@@ -1,0 +1,278 @@
+===== DISCHARGE NOTE =====
+note_id=11045233-DS-7 | hadm_id=26103864
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+lightheadedness/aflutter 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a very pleasant ___ with a history of prostate CA, 
+esophageal CA who presented to PCP with several months of 
+lightheadedness and shortness of breath and was found to have 
+atypical atrial flutter and sinus node dysfunction. 
+
+Mr. ___ reports that his cardiac history began in college in 
+his mid ___ when he observed that he was having shortness 
+of breath and palpitations. He saw a cardiologist Dr. ___ 
+heard a murmur consistent with an ASD. He underwent a cardiac 
+catheterization which demonstrated the presence of an ASD. The 
+decision was made to defer surgery as he was largely 
+asymptomatic. Since that time he has noted infrequent 
+lightheadedness and shortness of breath that was relieved with 
+physical exertion, but no history of syncope. He reports that in 
+his ___ he was seen at ___ where he had a 
+repeat cardiac catheterization for the same indication where the 
+ASD was thought not to have significant flow so decision was 
+made not to pursue closure. 
+
+Since that time his health has been marked by issues regarding 
+malignancy. First with a diagnosis of prostate cancer in ___ 
+successfully treated with chemo/XRT but complicated by radiation 
+proctitis. Second being a diagnosis of esophageal carcinoma in 
+___ treated at ___ with chemoXRT with appearance of remission 
+His course was complicated by pulmonary embolism, so he was 
+started on anticoagulation with lovenox. He had significant 
+weight loss without adjustment of his lovenox dosing and later 
+in ___ was admitted to ___ with an RP bleed. Lovenox was 
+stopped and a IVC filter was placed. His IVC filter has 
+subsequently been removed and in the setting of remission from 
+his esophageal CA. 
+
+In the past several months, Mr. ___ has made more of an 
+effort to focus on his health and has been running regularly. 
+Over the past several months he has run triathlons (at a slow 
+but consistent pace) without SOB. However at rest he has been 
+having worsening issues with dizziness at rest, which he was 
+concerned was a possible marker of malignancy though thus far 
+there has been no evidence. 
+
+However over the past few days he has noted SOB and dizziness no 
+matter exertional status. On the day prior to admission he had a 
+"slow jog" and became sob and almost passed out twice due to 
+feeling of dizziness and lightheadedness.  This AM he woke up 
+with similar symptoms so called his PCP and was advised to come 
+in for evaluation. At his PCPs office he was hemodynamically 
+stable but was found to be in atrial flutter with VR in the ___. 
+He was sent to the ED for further evaluation. 
+
+In the ED intial vitals were: 97.6 64 ___ 98% RA  
+EKG: Sinus brady 59 1st degree AV block normal axis, no acute ST
+CXR: no acute process
+Labs notable for negative troponin, normal CBC and Chem7.
+Patient was given: no medications.
+
+On the floor patient reports that he feels well with resolution 
+in his lightheadedness. At rest he reports mild conversational 
+dyspnea that corresponds with bradycardic episodes. He reports 
+that he feels better walking around the observation unit. 
+
+REVIEW OF SYSTEMS: 
+(+) per HPI, pulmonary embolism, RP bleed, dyspnea on exertion, 
+palpitations, syncope or presyncope.  
+On review of systems, denies any prior history of stroke, TIA, 
+deep venous thrombosis, myalgias, joint pains, cough, 
+hemoptysis, black stools or red stools. Denies recent fevers, 
+chills or rigors. Denies exertional buttock or calf pain. All of 
+the other review of systems were negative.  
+
+Cardiac review of systems is notable for absence of chest pain, 
+paroxysmal nocturnal dyspnea, orthopnea, ankle edema, syncope.
+
+ 
+Past Medical History:
+- Cancer of esophagus ___. s/p chemo XRT
+- Cancer of prostate 2001vs/p radiation c/p radiation proctitis
+- Pulmonary embolism ___, started on lovenox but stopped ___ RP 
+bleed. 
+- Colonic  polyps
+- PVD (posterior vitreous detachment)
+- Cataract, nuclear sclerotic senile 
+- Atrial Septal Defect
+- H/o Palpitations
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+====================================
+VS: 97.7 137/71 70 16 99RA 
+WT: 242.3lbs
+GENERAL: Well appearing. Mild conversational dyspnea. NAD
+HEENT: PERRL, OP clear. 
+NECK: Supple, JVP flat  
+CARDIAC: Regular with pauses, normal S1, Do not appreciate split 
+S2. No m/r/g
+LUNGS: CTAB with good airmovement. Unlabored. No w/r/r
+ABDOMEN: Soft, NT, ND, NABS
+EXTREMITIES: WWP, venous varicosities. No clubbing, cyanosis, or 
+edema.
+SKIN: WWP no rashes. 
+PULSES:  Distal pulses palpable and symmetric
+.
+DISCHARGE PHYSICAL EXAM:
+=======================================
+97.8 116/62 p70 R18 96%RA 
+GENERAL: Well appearing. NAD. Ambulating without difficulty
+HEENT: PERRL, OP clear. 
+NECK: Supple, JVP flat  
+CARDIAC: Regular. S1,s2 No m/r/g
+LUNGS: CTAB with good airmovement. Unlabored. No w/r/r
+ABDOMEN: Soft, NT, ND, NABS
+EXTREMITIES: WWP, venous varicosities. No clubbing, cyanosis, or 
+edema.
+SKIN: WWP no rashes. 
+PULSES:  Distal pulses palpable and symmetric
+
+ 
+Pertinent Results:
+ADMISSION LABS: 
+=========================
+___ 03:15PM BLOOD WBC-5.8 RBC-4.53* Hgb-14.5 Hct-42.7 
+MCV-94 MCH-32.0 MCHC-34.0 RDW-13.2 RDWSD-45.7 Plt ___
+___ 03:15PM BLOOD Neuts-71.8* Lymphs-15.4* Monos-10.9 
+Eos-1.4 Baso-0.3 Im ___ AbsNeut-4.16 AbsLymp-0.89* 
+AbsMono-0.63 AbsEos-0.08 AbsBaso-0.02
+___ 03:15PM BLOOD Glucose-108* UreaN-17 Creat-1.0 Na-142 
+K-3.9 Cl-102 HCO3-29 AnGap-15
+Trop-T: <0.01  
+ 
+MICRO:  reviewed, see below
+
+STUDIES: 
+================
++ EKG: Atrial flutter with VR of ~50bpm. Pwaves positive V1, 
+inferior leads. NA/NI. No ST changes. 
++ EKG: NSR @ ~60bpm but with frequent PACS and compensatory 
+pause. NA/NI, no ST changes.
+
++ TELE: sinus brady with PACs with no ventricular response and 
+sinus pause in response to PAC. 
+
++ CXR: There is no focal consolidation, pleural effusion, 
+pneumothorax, or pulmonary edema. The cardiomediastinal 
+silhouette is within normal limits.  Mild multilevel 
+degenerative changes of visualized thoracic spine are noted. 
+IMPRESSION:  No acute cardiopulmonary process. 
+
++ TTE (___): 
+1. The left ventricle size is normal. There is moderate 
+concentric left ventricular hypertrophy. There are no regional 
+wall motion abnormalities. Overall left ventricular systolic 
+function is normal, with an estimated LVEF of 55-60%.
+2. The left atrium is moderately dilated.
+3. There is no evidence of shunt by color Doppler. Note that the 
+subcostal images were technically limited, so the presence of a 
+very small ASD cannot be excluded by this study. However, there 
+is no evidence of hemodynamically significant shunt.
+4. Compared with the findings of the prior report of ___, 
+concentric LVH is now present.
+
+ 
+Brief Hospital Course:
+___ with a history of prostate CA, esophageal CA who presented 
+to PCP with several months of lightheadedness and shortness of 
+breath and was found to have atypical atrial flutter and  
+bradycardia.
+
+# Bradyarryhthmias: Episodes of blocked PACs, potentially 
+concerning for sinus node discussion, as well as periods of 
+Wenkebach and normal sinus rhythm. Patient was evaluated by EP. 
+After discussion with providers and patient preferences, decided 
+to discharge patient with Event Monitor to determine correlation 
+of his symptoms with either his bradyarrthmias or tachyarrythmia 
+(below) before determining need for pacemaker.
+
+# Atrial flutter: Appears to be atypical/left atrial as upright 
+in V1 with slow ventricular response. CHADS2 of 1 (Age). 
+Previously anticoagulated due to PE during esophageal cancer, 
+discontinued due to prior RP bleed. Deferred beta blocker for 
+now as rates controlled or slow here.. 
+  
+# Atrial Septal Defect: Longstanding, unrepaired. Appears 
+complicated by issues above. No evidence of RV overload or right 
+sided failure on presentation. Last TTE in ___ without 
+significant issues.  
+
+CHRONIC ISSUES:  
+===============  
+# Cancer of esophagus s/p Chemoradiation at ___. Currently 
+thought to be remission.  
+# Cancer of prostate s/p radiation c/p radiation proctitis.  
+# Pulmonary embolism: Previously on lovenox but this was stopped 
+given RP bleed. CBC normal on admission  
+
+TRANSITIONAL ISSUES:
+==================== 
+- F/U Event Monitor - Results to be sent to Dr. ___
+- f/U final read of ECHO. Moderate LVH with preserved EF on 
+prelim read.
+- Consider stress test
+- Consider aspirin for AFL (hx of RP bleed on anticoagulation in 
+past)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Viagra (sildenafil) 100 mg oral QHS:PRN sexual intercourse 
+2. Omeprazole 20 mg PO DAILY 
+3. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Multivitamins 1 TAB PO DAILY 
+2. Omeprazole 20 mg PO DAILY 
+3. Viagra (sildenafil) 100 mg oral QHS:PRN sexual intercourse 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY: Atrial flutter
+SECONDARY: Bradycardia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted with lightheadedness and shortness of breath. 
+You were found to have abnormal heart rhythms. You were seen by 
+our electrophysiologist who evaluated your heart tracings and 
+recommended going home with an Event Monitor to determine which 
+of the abnormal heart rhythms may be causing your symptoms. You 
+will follow up in clinic with an electrophysiology specialist 
+(Dr. ___ for the results.
+
+We wish you the best, 
+
+Your ___ team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,187 @@
+===== DISCHARGE NOTE =====
+note_id=11074810-DS-4 | hadm_id=29730688
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Nasonex / Evista / Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+Laparascopic cholecystectomy
+
+ 
+History of Present Illness:
+Ms. ___ is a pleasant ___ y/o female who presented to the 
+ED with acute postprandial RUQ pain, and was found to have 
+cholelithiasis without cholecystitis on RUQ U/S.  SHe passed a 
+PO challenge and was discharged home to follow up with ACS, but 
+returned once more later the same evening after another attack 
+of ___ RUQ pain after eating yogurt and some bread. She denied 
+any N/V, F/C, CP/SOB. She then elected for pursuing a 
+cholecystectomy in light of recurrent biliary colic and 
+cholelithiasis on RUQ U/S.
+
+ 
+Past Medical History:
+___ History: asthma, supraventricular tachycardia, 
+cervical stenosis, prediabetes, osteoporosis, cataracts, basal 
+cell carcinoma, ___ syndrome
+
+Past Surgical History: TAH/BSO
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Upon Discharge:
+Vitals: 98.1  77  144/72  18  96%RA
+General: awake, alert, oriented x 3
+HEENT: NCAT, EOMI, anicteric
+Heart: RRR, NMRG
+Lungs: CTAB, normal excursion, no respiratory distress
+Chest: non-tender, no deformities
+Back: no vertebral tenderness, no CVAT
+Abdomen: soft, mildly and appropriately tender near incisions, 
+nondistended, incisions clean/dry/intact with no 
+erythema/drainage/induration
+Extremities: WWP, no CCE, no tenderness
+
+ 
+Pertinent Results:
+___ 10:00AM BLOOD WBC-7.2 RBC-4.31 Hgb-13.8 Hct-42.4 MCV-98 
+MCH-32.1* MCHC-32.7 RDW-12.3 Plt ___
+___ 10:00AM BLOOD Neuts-53.3 ___ Monos-5.4 
+Eos-12.5* Baso-1.6
+___ 10:00AM BLOOD Glucose-101* UreaN-19 Creat-0.9 Na-143 
+K-4.2 Cl-107 HCO3-26 AnGap-14
+___ 10:00AM BLOOD ALT-32 AST-57* AlkPhos-72 TotBili-0.7
+___ 10:00AM BLOOD Lipase-25
+___ 10:00AM BLOOD Albumin-4.4
+
+RUQ Ultrasound ___
+FINDINGS: 
+The liver shows no evidence of focal lesions or textural 
+abnormality.  There is no evidence of intrahepatic or 
+extrahepatic biliary dilatation.  The gallbladder contains 
+multiple stones measuring up to 1 cm, without distention, wall 
+thickening, or pericholecystic fluid.  CBD measures 5 mm.  
+Doppler assessment of the main portal vein shows patency and 
+hepatopetal flow.  The spleen measures 8.3 cm and has 
+homogeneous echotexture.   
+IMPRESSION: Cholelithiasis without cholecystitis.
+
+Pathology: pending at time of discharge
+  
+
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to ___ surgical service where she 
+underwent a laparoscopic cholecystectomy on ___. The reader 
+is referred to the Operative Note for further details.
+
+Thereafter, she was admitted to the surgical floor for further 
+care. She was given a clear liquid diet to be advanced to 
+regular diet as tolerated. She was given oral pain medications 
+for pain control. She was restarted on her essential home 
+medications. She was encouraged to ambulate early and 
+frequently.
+
+She tolerated all these steps well. By POD#1, she reported 
+feeling prepared to complete her recovery at home. She was 
+tolerating a regular diet, had good pain control on oral 
+medications, was taking all her usual home medications, was 
+voiding, and was able to ambulate independently and without 
+difficulty. She will plan to follow-up in ___ clinic as 
+instructed. She was explained and expressed agreement with the 
+discharge plan, and was discharged home in good condition.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Diltiazem Extended-Release 120 mg PO DAILY 
+2. Vitamin D 50,000 UNIT PO 1X/WEEK (SA) 
+3. Fluticasone Propionate 110mcg 2 PUFF IH DAILY 
+4. Pantoprazole 40 mg PO Q12H 
+5. Rosuvastatin Calcium 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Diltiazem Extended-Release 120 mg PO DAILY 
+2. Pantoprazole 40 mg PO Q12H 
+3. Fluticasone Propionate 110mcg 2 PUFF IH DAILY 
+4. Rosuvastatin Calcium 5 mg PO DAILY 
+5. Vitamin D 50,000 UNIT PO 1X/WEEK (SA) 
+6. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+7. Docusate Sodium 100 mg PO BID 
+8. OxycoDONE (Immediate Release)  ___ mg PO Q6H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every six (6) hours 
+Disp #*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Recurrent biliary colic 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ where you underwent a laparoscopic 
+cholecystectomy. You are now prepared to complete your recovery 
+at home with the following instructions:
+
+*Wound Care*
+You have several incisions on your abdomen. You may have some 
+small, tape like dressing over your incision. Leave these in 
+place - they will fall off on their own. You may shower. Do not 
+scrub over the incisions; wash over your incisions and allow the 
+soap to fall over the wounds. If you notice any redness, 
+increased pain, or any concerning changes in these incisions, 
+please notify your physician.
+
+*Diet*
+You may eat a regular diet without restrictions.
+
+*Activity*
+You may resume all of your normal daily activities. We ask that 
+you avoid swimming or heavy lifting for at least ___ weeks, at 
+least until your follow up in clinic. Avoid driving or class if 
+you still require narcotics for pain control.
+
+*Medications*
+Please take all medications as prescribed. If you require 
+narcotic medications for pain control, do not drive. You may 
+take tylenol or ibuprofen for pain control.
+
+*Warning Signs*
+Below is a list of signs that you should be mindful of upon 
+discharge. If you notice any of these signs, please call your 
+physician or go to your nearest emergency department for prompt 
+evaluation.
+
+Good luck with your recovery.
+ 
+Followup Instructions:
+___

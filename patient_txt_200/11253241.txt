@@ -1,0 +1,300 @@
+===== DISCHARGE NOTE =====
+note_id=11253241-DS-4 | hadm_id=28761760
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest Tightness
+ 
+Major Surgical or Invasive Procedure:
+___: 
+1. Coronary artery bypass graft x 2. Total arterial
+revascularization.
+2. Skeletonized left internal mammary artery graft to left
+anterior descending artery.
+3. Left radial artery graft to obtuse marginal artery.
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with a past medical history of 
+hypertension and hyperlipidemia who has had two episodes of 
+chest tightness while at rest. He was referred for an outpatient 
+stress test which was abnormal. He was then referred to to the 
+ED. He was admitted and underwent cardiac catheterization which 
+revealed severe left main coronary artery disease, as well as 
+moderate LAD disease. Cardiac surgery was consulted for Coronary 
+artery bypass graft evaluation. 
+ 
+Past Medical History:
+CAD
+Hyperlipidemia
+Hypertension 
+Obstructive Sleep Apnea
+ 
+Social History:
+___
+Family History:
+Mother- CAD/PCI in her late ___. Hx of dementia, passed at ___.
+Father passed from pancreatic CA at 42.
+3 Maternal uncles all passed from "heart problems"
+ 
+Physical Exam:
+ADmission:
+BP: 134/82  HR: 55  RR: 17  O2 sat: 95% RA   
+Height: 72 in    Weight: 85.5 kg 
+
+General: Well-developed male in no acute distress
+Skin: Dry [X] intact [X]
+HEENT: PERRLA [X] EOMI [X]
+Neck: Supple [X] Full ROM [X]
+Chest: Lungs clear bilaterally [X]
+Heart: RRR [X]  Irregular []  Murmur [] 
+Abdomen: Soft [X] non-distended [X] non-tender [X] bowel sounds 
++ [x]
+Extremities: Warm [X], well-perfused [X] Edema [] _____
+Varicosities: None [X]
+Neuro: Grossly intact [X]
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 2+  Left: 2+
+___           Right: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit:    Right: -   Left: -
+.
+Discharge:
+98.2
+PO 125 / 70
+R Sitting 56 18 95 Ra  
+.
+General: NAD [x]  
+Neurological: A/O x3 [x] Moves all extremities [x]  Chemically
+paralyzed [] sedated [] Follows commands [x]
+HEENT:  PEERLA [] 
+Cardiovascular: RRR [x]  Irregular []  Murmur [] Rub [x]  Paced
+[]
+Respiratory: CTA [x] diminished (B), No resp distress [x]
+GI/Abdomen: Bowel sounds present [x] Soft [x] ND [x] NT [x]
+Extremities: 
+Right Upper extremity   Warm []  Edema   
+Left Upper extremity    Warm []  Edema  
+Right Lower extremity   Warm [x]  Edema trace 
+Left Lower extremity    Warm [x]  Edema trace 
+Sternal: CDI [x] no erythema or drainage [x]
+                 Sternum stable [x] Prevena []
+Lower extremity: Right [] Left []  CDI []
+Upper extremity: Right [] Left [x]  CDI [x]
+
+ 
+Pertinent Results:
+Cardiac Catheterization ___
+LMCA:  70% stenosis in the mid and distal segments.
+LAD: 30% stenosis in the proximal segment; 60% stenosis in the 
+proximal segment.
+LCX: normal, medium caliber 
+RCA: normal, large caliber vessel.
+
+Carotid Ultrasound ___
+Right ICA <40% stenosis. Left ICA <40% stenosis.
+
+CTA Head and Neck ___
+1. No acute intracranial abnormality.
+2. Patent circle of ___ without definite evidence of 
+stenosis, occlusion, or aneurysm.
+3. Calcified and noncalcified atherosclerosis of the right ICA 
+resulting in minimal narrowing (see series 2, image 14). 
+Otherwise, the bilateral cervical carotids are without evidence 
+of occlusion or dissection.
+4. Right dominant vertebral artery without evidence of stenosis 
+or occlusion. Left vertebral artery segments V1-V4 appear 
+hypoplastic, without contribution to the basilar artery, which 
+is a normal anatomic variant. Otherwise, patent bilateral 
+vertebral arteries without definite evidence of stenosis, 
+occlusion, or dissection.
+5. Hyperdense osseous lesion within the right frontal bone, most 
+consistent with a bone island. 
+.
+Transthoracic Echocardiogram ___
+The left atrium is elongated. The right atrium is mildly 
+enlarged. There is normal left ventricular wall thickness with a 
+normal cavity size. There is mild regional left ventricular 
+systolic dysfunction with
+hypokinesis of the mid- and distal septum and apex (mid-LAD 
+distribution; see schematic) and preserved/normal contractility 
+of the remaining segments. Quantitative 3D volumetric left 
+ventricular
+ejection fraction is 41 % (normal 54-73%). There is no resting 
+left ventricular outflow tract gradient. Mildly dilated right 
+ventricular cavity with normal free wall motion. Tricuspid 
+annular plane systolic
+excursion (TAPSE) is normal. The aortic sinus is mildly dilated 
+with mildly dilated ascending aorta. The aortic arch diameter is 
+normal with a mildly dilated descending aorta. The aortic valve 
+leaflets (3) appear structurally normal. There is no aortic 
+valve stenosis. There is no aortic regurgitation. The mitral 
+valve leaflets appear structurally normal with no mitral valve 
+prolapse. There is trivial mitral
+regurgitation. The pulmonic valve leaflets are normal. The 
+tricuspid valve leaflets appear structurally normal. There is 
+physiologic tricuspid regurgitation. The estimated pulmonary 
+artery systolic pressure is normal. There is no pericardial 
+effusion.
+
+IMPRESSION: Mild regional left ventricular systolic dysfunction, 
+c/w CAD. No clinically significant valvular disease seen.
+.
+Transesophageal Echocardiogram ___
+PRE-OPERATIVE STATE: Pre-bypass assessment. Sinus rhythm.
+Right Atrium (RA)/Interatrial Septum/Inferior Vena Cava (IVC): 
+Normal RA size. No atrial septal defect by 2D/color flow 
+Doppler.
+Left Ventricle (LV): Normal wall thickness. Moderately dilated 
+cavity. Mild-moderate global hypokinesis.
+Right Ventricle (RV): Normal cavity size. Normal free wall 
+motion. No mass.
+Aorta: No dissection.
+Aortic Valve: Thin/mobile (3) leaflets. No stenosis. No 
+regurgitation.
+Mitral Valve: Normal leaflets. No stenosis. Trace regurgitation 
+(nl for prosthesis).
+Tricuspid Valve: Normal leaflets. Mild [1+] regurgitation. 
+Central jet.
+Pericardium: No effusion.
+
+POST-OP STATE: The post-bypass TEE was performed at 17:34:00. AV 
+paced rhythm.
+Support: Vasopressor(s): none.
+Left Ventricle: Systolic function is improved. Similar regional 
+function. Global ejection fraction is mildly depressed.
+Right Ventricle: No change in systolic function.
+Aorta: Intact. No dissection.
+Aortic Valve: No change in aortic valve morphology from 
+preoperative state. Unchanged gradient. No change in aortic 
+regurgitation.
+Mitral Valve: No change in mitral valve morphology from 
+preoperative state.
+Tricuspid Valve: No change in tricuspid valve morphology vs. 
+preoperative state.
+.
+
+___ 04:42AM BLOOD WBC-4.1 RBC-2.91* Hgb-9.6* Hct-29.3* 
+MCV-101* MCH-33.0* MCHC-32.8 RDW-12.4 RDWSD-45.4 Plt ___
+___ 04:09AM BLOOD ___ PTT-26.5 ___
+___ 04:42AM BLOOD Glucose-92 UreaN-14 Creat-1.1 Na-141 
+K-4.5 Cl-103 HCO3-27 AnGap-11
+___ 04:42AM BLOOD Mg-2.1
+ 
+Brief Hospital Course:
+He was admitted on ___ following cardiac catheterization. 
+He underwent routine preoperative testing and evaluation. A CODE 
+STROKE was called on ___ for left partial ptosis. CTA head 
+and neck did not show a large vessel occlusion or
+large infarct, though the wet read stated he has a hypoplastic 
+left vertebral artery which is likely a normal anatomic variant. 
+No aneurysm or dissection seen on CTA. Isolated unilateral 
+partial ptosis is unlikely to be a stroke. Neurology recommended 
+proceeding with surgery as planned. He remained hemodynamically 
+stable and was taken to the operating room on ___. He 
+underwent coronary artery bypass grafting x 2. Please see 
+operative note for full details. He tolerated the procedure well 
+and was transferred to the CVICU in stable condition for 
+recovery and invasive monitoring. 
+ 
+He weaned from sedation, awoke neurologically intact and was 
+extubated on POD 1. Neo weaned. He remained hypotensive and echo 
+performed. No pericardial effusion. Hemodynamics improved.  Beta 
+blocker was initiated and he was diuresed toward his 
+preoperative weight. He remained hemodynamically stable and was 
+transferred to the telemetry floor for further recovery. Small 
+left apical pneumothorax following removal of CTs- resolved on 
+follow-up CXR.  He was evaluated by the physical therapy service 
+for assistance with strength and mobility. By the time of 
+discharge on POD 5 he was ambulating freely, the wound was 
+healing, and pain was controlled with oral analgesics. He was 
+discharged home in good condition with appropriate follow up 
+instructions.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 20 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Aspirin EC 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*1 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+3.  Furosemide 40 mg PO DAILY Duration: 7 Days 
+RX *furosemide 40 mg 1 tablet(s) by mouth once a day Disp #*7 
+Tablet Refills:*0 
+4.  Isosorbide Dinitrate 5 mg PO TID 
+RX *isosorbide dinitrate 5 mg 1 tablet(s) by mouth three times a 
+day Disp #*90 Tablet Refills:*5 
+5.  Metoprolol Tartrate 6.25 mg PO BID 
+RX *metoprolol tartrate 25 mg 0.25 tablet(s) by mouth twice a 
+day Disp #*60 Tablet Refills:*1 
+6.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*40 Tablet Refills:*0 
+7.  Ranitidine 150 mg PO DAILY 
+RX *ranitidine HCl 150 mg 1 tablet(s) by mouth once a day Disp 
+#*30 Tablet Refills:*1 
+8.  Atorvastatin 80 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary Artery Disease
+
+Secondary Diagnosis:
+Hyperlipidemia
+Hypertension
+Obstructive Sleep Apnea
+
+ 
+Discharge Condition:
+Alert and oriented x3 non-focal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+trace edema
+
+ 
+Discharge Instructions:
+Please shower daily -wash incisions gently with mild soap, no 
+baths or swimming, look at your incisions daily
+Please - NO lotion, cream, powder or ointment to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics
+Clearance to drive will be discussed at follow up appointment 
+with surgeon
+No lifting more than 10 pounds for 10 weeks
+Encourage full shoulder range of motion, unless otherwise 
+specified
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

@@ -1,0 +1,1165 @@
+===== DISCHARGE NOTE =====
+note_id=10470555-DS-5 | hadm_id=23137552
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hepatocellular carcinoma, incarcerated ventral hernia.
+
+ 
+Major Surgical or Invasive Procedure:
+___ Laparoscopic peritoneal biopsy and open ventral hernia 
+repair
+
+ 
+History of Present Illness:
+___ female, who was
+incidentally found to have a right liver mass.  The CT scan
+was performed for abdominal pain and demonstrated aortic
+dissection as well as an incidental liver mass.  This mass was
+biopsied and proven to be hepatocellular carcinoma.  She
+presents today for elective resection.  Workup thus far has
+failed to demonstrate any metastatic disease.
+
+ 
+Past Medical History:
+PMH: HTN, HLD, DM2, CAD s/p 2 stents ___ years ago (at ___), 
+renal cell carcinoma
+
+PSH: Cardiac stent x2, R renal ablation
+
+ 
+Social History:
+___
+Family History:
+Negative for family history of aneurysms
+ 
+Pertinent Results:
+___ 05:52AM BLOOD WBC-9.3 RBC-4.27 Hgb-10.8* Hct-34.2 
+MCV-80* MCH-25.3* MCHC-31.6* RDW-14.0 RDWSD-40.4 Plt ___
+___ 05:52AM BLOOD Glucose-119* UreaN-14 Creat-0.7 Na-137 
+K-3.9 Cl-100 HCO3-25 AnGap-12
+___ 05:52AM BLOOD ALT-16 AST-28 AlkPhos-82 TotBili-0.5
+___ 05:52AM BLOOD Calcium-8.5 Phos-2.7 Mg-1.8
+
+___ ___ F  ___  ___ 
+ 
+Pathology Report Tissue: PERITONEUM, BIOPSY Procedure Date of 
+___ 
+ 
+  
+Report not finalized. 
+Assigned Pathologist ___, MD 
+___ in only. 
+PATHOLOGY # ___ 
+PERITONEUM, BIOPSY 
+  
+(___) 
+
+ 
+Brief Hospital Course:
+On ___, she underwent laparoscopic peritoneal biopsy and 
+open ventral
+hernia repair with polypropylene mesh. The peritoneal cavity was 
+surveilled noting multiple small white nodules on the abdominal 
+wall peritoneum just adjacent
+to the liver in the right upper quadrant. An area of the 
+peritoneum in the right upper quadrant that contained multiple 
+of these nodules was excised. This biopsy read by pathology was 
+consistent with carcinomatosis. A large liver tumor was noted. 
+Given biopsy findings, further resection of the tumor was 
+aborted. Surgeon was Dr. ___. Please refer to 
+operative note for details. 
+
+Postop, pain was initially managed with an epidural. Vital signs 
+were stable. The foley was removed, however, she had urinary 
+retention and the foley was replaced. This was removed 6 hours 
+after the epidural was removed on ___ and she was able to void. 
+Diet was advanced and tolerated. Oxycodone was started after the 
+epidural was removed and this was well tolerated. 
+
+Dr. ___ met with the patient and her son to communicate the 
+operative findings via a ___ interpreter. She was also 
+presented at the weekly tumor conference. The plan was for her 
+to follow up with oncolog and ___ clinic. 
+
+At time discharge, she was tolerating a regular diet and had a 
+BM. She was ambulating independently. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. Furosemide 40 mg PO DAILY:PRN leg edema 
+3. Glargine 42 Units Breakfast
+Glargine 30 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+4. MetFORMIN (Glucophage) 1000 mg PO BID 
+5. Metoprolol Tartrate 50 mg PO BID 
+6. Simvastatin 40 mg PO QPM 
+7. Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+8. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+2.  Sarna Lotion 1 Appl TP QID  
+3.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+Maximum 6 of the 325 mg tablets daily  
+4.  amLODIPine 10 mg PO DAILY  
+5.  Aspirin 81 mg PO DAILY  
+6.  Furosemide 40 mg PO DAILY:PRN leg edema  
+7.  Glargine 42 Units Breakfast
+Glargine 30 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin 
+8.  MetFORMIN (Glucophage) 1000 mg PO BID  
+9.  Metoprolol Tartrate 50 mg PO BID  
+10.  Simvastatin 40 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Carcinomatosis
+metastatic hepatocellular carcinoma
+incarcerated ventral hernia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Please call Dr. ___ office at ___ for fever 
+of 101 or greater, chills, nausea, vomiting, diarrhea, 
+constipation, increased abdominal pain, pain not controlled by 
+your pain medication, swelling of the abdomen or ankles, 
+yellowing of the skin or eyes, inability to tolerate food, 
+fluids or medications, the incision sites have redness, drainage 
+or bleeding, or any other concerning symptoms.
+.
+You may shower. Allow water to run over the incision. Do not 
+apply lotion or powder to the incision. Leave incisions open to 
+the air.
+.
+No lifting more than 10 pounds. No straining
+No driving if taking narcotic pain medication
+.
+Resume all home medications and insulin as ordered
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10470555-DS-6 | hadm_id=23490435
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+S/p TACE
+ 
+Major Surgical or Invasive Procedure:
+TACE ___
+
+ 
+History of Present Illness:
+HPI: ___ with hx of HCC (bx proven, with peritoneal mets), htn,
+HLD, IDDM2, CAD s/p stent x2 (>1 decade ago), RCC s/p
+cryoablation, infrarenal aortic dissection presenting for
+monitoring after tranarterial chemoembolization. Pt initially
+presented to ___ on ___ with reports of R flank pain
+and RUQ pain x1 week, and was found to have large hepatic mass.
+At that time, she was also found to have an infrarenal
+dissection, and was transferred to the ___ vascular surgery
+service for further medical management. She was discharged on
+___, and underwent biopsy of liver mass on ___, which
+revealed moderately differentiated HCC.
+
+On ___, pt underwent scheduled for HCC resection and ventral
+hernia repair; she was found to have carcinomatosis, and
+resection was not performed.  
+
+On the day of admission, she underwent scheduled TACE with 
+radial
+approach, to large R hepatic lobe HCC. Procedure was
+uncomplicated, with chemoembolization (doxorubicin and lipiodol)
+to the superior portion of the lesion via branches of the R
+hepatic artery, and 100-300 micrometer particles to the inferior
+portion of the mass. 
+
+On arrival to the floor, pt endorses nausea and ___ diffuse
+abdominal pain, which she describes as fullness. She denies 
+chest
+pain, SOB, diarrhea, constipation, melena, hematochezia, 
+dysuria,
+hematuria. Last BM was the morning of presentation. 
+
+ROS: 10 point review of system reviewed and negative except as
+otherwise described in HPI
+
+ 
+Past Medical History:
+PMH, per prior notes, confirmed with pt:
+Infrarenal aortic dissection
+HTN
+HLD
+DM2
+CAD s/p 2 stents ___ years ago (at ___)
+Renal cell carcinoma - the patient denies this is cancer, 
+cryoablation to ?___ in ___
+Colon polyps (adenomas and hyperplastic)
+
+ 
+Social History:
+___
+Family History:
+Relative Status   Age Problem              Onset Comments       
+Mother   Living   ___  CORONARY ARTERY                           
+                      DISEASE                                   
+                      CORONARY BYPASS                           
+                      SURGERY                                   
+                      CHOLECYSTECTOMY                           
+                      DIABETES MELLITUS                         
+
+Father   ___ ___  CORONARY ARTERY                           
+                      DISEASE                                   
+                      CORONARY BYPASS                           
+                      SURGERY                                   
+                      CHOLECYSTECTOMY                           
+
+Sister   Living   ___  CHOLECYSTECTOMY                 
+ 
+Physical Exam:
+Admission Physical Exam:
+VS: ___ 1628 Temp: 97.4 PO BP: 122/84 R Lying HR: 70 RR: 18
+O2 sat: 93% O2 delivery: RA Dyspnea: 0 RASS: 0 Pain Score: ___ 
+GEN: delightful elderly female, alert and interactive,
+comfortable, no acute distress
+HEENT: PERRL, anicteric, conjunctiva pink, oropharynx without
+lesion or exudate, dentures in place, dry mucus membranes
+LYMPH: no anterior/posterior cervical, supraclavicular 
+adenopathy
+CARDIOVASCULAR: Regular rate and rhythm without murmurs, rubs, 
+or
+gallops
+LUNGS: clear to auscultation bilaterally without rhonchi,
+wheezes, or crackles
+GI: soft, obese, diffuse mild TTP, without rebounding or
+guarding, nondistended with normal active bowel sounds, dressing
+in place over site of ventral hernia repair, C/D/I - pt declines
+for dressing to be removed as it was just placed on arrival to
+the floor
+EXTREMITIES: WWP, 2+ pitting edema bilaterally, subtle asymmetry
+R>L
+GU: no foley
+SKIN: no rashes, petechia, lesions, or echymoses; warm to
+palpation
+NEURO: Alert and interactive, cranial nerves II-XII grossly
+intact, strength and sensation grossly intact
+PSYCH: normal mood and affect
+
+Discharge Exam: 
+98.3 PO 120 / 63 66 18 94 Ra 
+GEN: delightful elderly female, alert and interactive,
+comfortable, no acute distress
+HEENT: PERRL, anicteric, conjunctiva pink, oropharynx without
+lesion or exudate, dentures in place, dry mucus membranes
+LYMPH: no anterior/posterior cervical, supraclavicular 
+adenopathy
+CARDIOVASCULAR: Regular rate and rhythm without murmurs, rubs, 
+or
+gallops
+LUNGS: clear to auscultation bilaterally without rhonchi,
+wheezes, or crackles
+GI: +BS, soft, obese, diffuse mild TTP, without rebounding or 
+guarding, nondistended, dressing in place over site of ventral 
+hernia repair, C/D/I EXTREMITIES: WWP, 2+ pitting edema 
+bilaterally
+SKIN: no rashes, petechia, lesions, or echymoses; warm 
+topalpation
+NEURO: Alert and interactive, cranial nerves II-XII grossly 
+intact, strength and sensation grossly intact
+PSYCH: normal mood and affect
+ 
+Pertinent Results:
+Admission Labs: 
+___ 07:30AM BLOOD WBC-7.9 RBC-4.86 Hgb-11.7 Hct-38.4 
+MCV-79* MCH-24.1* MCHC-30.5* RDW-15.1 RDWSD-43.2 Plt ___
+___ 07:30AM BLOOD ___
+___ 07:30AM BLOOD Creat-0.8
+___ 07:30AM BLOOD AlkPhos-118* TotBili-0.3
+___ 07:30AM BLOOD AFP-84.6*
+
+CT ABD/Pelvis:
+Final Report 
+EXAMINATION:  CT abdomen without contrast 
+  
+INDICATION:  ___ year old woman with HCC, s/p TACE, noncontrast 
+CT to be done 
+on ___ per ___// ___ year old woman with HCC, s/p TACE, 
+noncontrast CT to 
+be done on ___ per ___. 
+  
+TECHNIQUE:  Multidetector CT images of the abdomen were acquired 
+without 
+intravenous contrast. Non-contrast scan has several limitations 
+in detecting 
+vascular and parenchymal organ abnormalities, including tumor 
+detection. 
+No oral contrast was administered. 
+Coronal and sagittal reformations were performed and reviewed on 
+PACS. 
+  
+DOSE:  Acquisition sequence: 
+   1) Spiral Acquisition 5.6 s, 29.7 cm; CTDIvol = 23.5 mGy 
+(Body) DLP = 703.2 
+mGy-cm. 
+   2) Spiral Acquisition 1.8 s, 9.3 cm; CTDIvol = 22.5 mGy 
+(Body) DLP = 215.2 
+mGy-cm. 
+ Total DLP (Body) = 918 mGy-cm. 
+  
+COMPARISON:  MRI dated ___.  CT dated ___. 
+  
+FINDINGS:  
+  
+LOWER CHEST: Visualized lung fields are within normal limits.  
+There is no 
+evidence of pleural or pericardial effusion. 
+  
+ABDOMEN: 
+  
+HEPATOBILIARY: Post TACE of large, exophytic hepatic mass which 
+is markedly 
+larger than on prior now measuring 17 cm, previously 9 cm.  
+There is lipiodol 
+deposition predominantly involving segments V and VI, with 
+lipiodol seen in 
+the periphery of the large mass and to a lesser degree in 
+segment ___. 
+  
+Gas is noted within the inferior aspect of the mass, which is 
+inseparable from 
+the hepatic flexure, concerning for fistulization of the mass 
+with the 
+adjacent large bowel (3:81). 
+  
+There is no biliary dilatation.  There is vicarious excretion of 
+contrast 
+within the gallbladder. 
+  
+PANCREAS: Unremarkable. 
+  
+SPLEEN: Unremarkable. 
+  
+ADRENALS:  A 2.0 x 2.3 cm left adrenal nodule contains fat and 
+is consistent 
+with an adenoma.  A second left adrenal nodule measures 1.1 x 
+0.9 cm and is 
+indeterminate, but stable.  The right adrenal gland is 
+unremarkable. 
+  
+URINARY: The kidneys are of normal and symmetric size.  A 1.5 cm 
+exophytic 
+mass in the upper pole of the left kidney, and a 6 mm 
+hypodensity in the upper 
+pole of the left kidney were previously characterized on MR as 
+angiomyolipomas.  There is excreted contrast in the bilateral 
+collecting 
+systems.  There is no hydronephrosis. 
+  
+GASTROINTESTINAL: There is a moderate hiatal hernia.  There is 
+no bowel 
+obstruction.  There is no ascites. 
+  
+LYMPH NODES: There is no evidence of retroperitoneal or 
+mesenteric 
+lymphadenopathy. 
+  
+BONES: There is no evidence of worrisome osseous lesions. 
+  
+SOFT TISSUES: There is a high-density fluid collection in the 
+anterior 
+abdominal wall, at the site of ventral hernia repair, likely 
+representing a 
+hematoma. 
+  
+IMPRESSION:  
+  
+Status post TACE of a large, exophytic right hepatic mass which 
+has markedly 
+increased size, and demonstrates findings concerning for 
+fistulization with 
+the large bowel at the hepatic flexure. 
+
+ 
+Brief Hospital Course:
+___ with hx of HCC (bx proven, with peritoneal mets), htn, HLD, 
+IDDM2, CAD s/p stent x2 (>1 decade ago), RCC s/p cryoablation, 
+infrarenal aortic dissection presenting for
+monitoring after tranarterial chemoembolization.
+
+# HCC, with peritoneal carcinomatosis:
+# S/p TACE: She tolerated the procedure well with mild 
+post-procedure abdominal pain and nausea. She was placed on the 
+post TACE protocol. The nausea and abdominal pain resolved 
+following the procedure and she tolerated a diet. Her post 
+procedure CT scan was read as concern for fistulazation between 
+the mass and the hepatic flexure of the colon. This was 
+discussed with interventional radiology who felt that it was an 
+overcall given expected post TACE findings and there was no 
+fistula. Her abdominal exam was unremarkable and she was stable 
+for discharge. Metformin is on hold for 48 hours post procedure 
+given the potential interaction with IV contrast. She will 
+follow up in ___ clinic in 6 days.  
+
+# IDDM2: Home regimen is glargine 44u qAM and 30u qHS, and 
+Humalog SS. Last HbA1c 8.1% on ___, which is reasonable 
+target in setting of active malignancy. She will resume her home 
+medications in discharge with the exception of her metformin 
+which will be helpd for 48 hours post procedure as above. 
+
+# Hypertension: Continued home amlodipine
+
+# CAD: 
+- Continued home Metoprolol with hold parameters
+- Continued home ___
+- On simvastatin 40 mg and amlodipine - Given TACE hold home 
+simvastatin but would consider change to atorvastatin given 
+interaction. Please follow up with PCP. 
+
+# ___ edema: Pt reports chronic ___ edema with furosemide prn, 
+subtle R>L. Pt is unsure if this asymmetry is chronic. ___ 
+obtained and was negative. Continued PRN Lasix at home. 
+
+Greater than 30 minutes was spent in care coordination and 
+counseling on the day of discharge. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron 8 mg PO Q8H:PRN nausea 
+2. Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+3. Metoprolol Tartrate 50 mg PO BID 
+4. MetFORMIN (Glucophage) 1000 mg PO BID 
+5. Simvastatin 40 mg PO QPM 
+6. Furosemide 40 mg PO DAILY:PRN leg swelling 
+7. OxyCODONE (Immediate Release) 2.5-5 mg PO Q4-6H PRN PAIN Pain 
+- Moderate 
+8. Aspirin 81 mg PO DAILY 
+9. Glargine 44 Units Breakfast
+Glargine 30 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+10. amLODIPine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+2.  amLODIPine 10 mg PO DAILY  
+3.  Aspirin 81 mg PO DAILY  
+4.  Furosemide 40 mg PO DAILY:PRN leg swelling  
+5.  Glargine 44 Units Breakfast
+Glargine 30 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin 
+6.  Metoprolol Tartrate 50 mg PO BID  
+7.  Ondansetron 8 mg PO Q8H:PRN nausea  
+8.  OxyCODONE (Immediate Release) 2.5-5 mg PO Q4-6H PRN PAIN 
+Pain - Moderate  
+9. HELD- MetFORMIN (Glucophage) 1000 mg PO BID  This medication 
+was held. Do not restart MetFORMIN (Glucophage) until ___
+10. HELD- Simvastatin 40 mg PO QPM  This medication was held. Do 
+not restart Simvastatin until follow up with PCP. 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+S/p TACE
+Metastatic HCC
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms ___,
+
+It was a pleasure taking care of you while you were in the 
+hospital. You were admitted for a procedure to treat the mass in 
+your liver. The procedure went well and you are doing well 
+post-procedure. Please follow up in clinic in 1 week as listed 
+below on ___. Please resume your home medications. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10470555-DS-7 | hadm_id=25435709
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ is a ___ year old woman with metastatic HCC, 
+sp
+TACE and more recently sorafenib, who is admitted from the ED
+with several days of weakness found to have new ___ in the
+setting of rising bilirubin and progression of liver tumor.
+
+Patient has had relatively rapid progression of her liver tumor
+over the last several weeks despite initiation of sorafenib. She
+had an MRCP on ___ that showed This has led her oncology team 
+to
+plan for initiation of FOLFOX, which was scheduled for tomorrow. 
+
+
+However, over the last three days, patient developed increasing
+difficulty walking, which she attributes to bilateral leg
+heaviness and weakness. She denies frank shortness of breath. 
+She
+continues to have chronic band-like epigastric abdominal pain
+well controlled with her oxycodone. She also has persistent
+nausea and non-bloody emesis. She denies fevers or chills. No
+dysphagia. No URTI. She has atypical chest pain, including at
+present. Mild intermittent cough. No frank SOB. No diarrhea, 
+last
+BM this am was normal. Denies dysuria. She has chronic bilateral
+lower extremity edema. She has some new pain in the back of her
+right thigh. No new rashes. Her weakness progressed to the point
+she was essentially bedbound, and she presented to the ED.
+
+In the ED, initial VS were pain 5, T 97.1, HR 111, BP 122/66, RR
+18, O2 96%RA. Initial labs notable for Na 132, K 4.5, HCO3 21, 
+Cr
+1.5, WBC 15.5, HCT 37.0, PLT 581, INR 1.4, ALT 139, AST 335, ALP
+1441, TBili 5.3, Alb 2.4, lactate 3.7. RUQ US showed no biliary
+ductal dilation and cirrhotic liver with known nectrotic mass 
+and
+right hydronephrosis similar to recent MRCP. CXR showed no acute
+process. Patient was given IV dilaudid, IV Zofran, LR, and IV
+zosyn. VS prior to transfer were pain 4, HR 112, BP 130/75, RR
+18, O2 97%RA.
+
+REVIEW OF SYSTEMS: 
+A complete 10-point review of systems was performed and was
+negative unless otherwise noted in the HPI.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+?___:
+- ___:  s/p cryoablation (___)
+
+___:
+- Presented with abdominal pain, found to have infrarenal aortic
+dissection, hepatic mass
+- ___:  planned resection aborted due to carcinomatosis.
+Performed laparoscopic peritoneal biopsy and hernia repair.  Bx
+showed HCC in peritoneal nodules and liver.
+- ___:  TACE
+- ___:  Start sorafenib
+ 
+PAST MEDICAL HISTORY: 
+- HTN
+- HLD
+- DM2 
+- CAD s/p 2 stents ___ years ago (at ___) 
+- Infrarenal aortic dissection
+- Colon polyps (adenomas and hyperplastic)
+
+ 
+Social History:
+___
+Family History:
+Relative Status   Age Problem              Onset Comments       
+Mother   Living   ___  CORONARY ARTERY                           
+                      DISEASE                                   
+                      CORONARY BYPASS                           
+                      SURGERY                                   
+                      CHOLECYSTECTOMY                           
+                      DIABETES MELLITUS                         
+
+Father   ___ ___  CORONARY ARTERY                           
+                      DISEASE                                   
+                      CORONARY BYPASS                           
+                      SURGERY                                   
+                      CHOLECYSTECTOMY                           
+
+Sister   Living   ___  CHOLECYSTECTOMY                 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+=================================
+VS: T 97.7 HR 96 BP 119/64 RR 14 SAT  96% O2 on RA
+GENERAL: Pleasant, but chronically ill and tired appearing woman
+laying in bed in no apparent distress.
+EYES: Icteric sclerea, PERLL, EOMI; 
+ENT: Oropharynx with very dry MM, no other lesions. JVD not
+elevated 
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs, rubs, or
+gallops; 2+ radial pulses
+RESPIRATORY: Appears mildly tachypeic and speaking in short
+sentences, clear to auscultation bilaterally with only moderate
+air movement 
+GASTROINTESTINAL: Normal bowel sounds; distended; diffusely
+tender but soft without guarding. Marked hepatomegaly noted with
+liver tracking into right pelvis. Tympanic left side of abdomen. 
+
+MUSKULOSKELATAL: Warm, well perfused extremities with 2+ pitting
+edema bilaterally into the thighs. Decreased bulk.
+NEURO: Alert, oriented, CN III-XII intact, motor and sensory
+function grossly intact, no asterixis
+SKIN: No significant rashes
+
+DISCHARGE PHYSICAL EXAM: 
+==========================
+VS: 97.8 ___
+GENERAL: Pleasant, chronically ill, tired appearing woman 
+sitting
+in bedside chair in no apparent distress.
+EYES: Icteric sclerea, PERLL, EOMI; 
+ENT: Oropharynx with very dry MM, no other lesions. JVD not
+elevated 
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs, rubs, or
+gallops; 2+ radial pulses
+RESPIRATORY: Appears mildly tachypeic and speaking in short
+sentences, clear to auscultation bilaterally with only moderate
+air movement 
+GASTROINTESTINAL: Normal bowel sounds; distended; diffusely
+tender but soft without guarding. Marked hepatomegaly noted with
+liver tracking into right pelvis. Tympanic left side of abdomen.
+Tender in upper quadrants. 
+MUSKULOSKELATAL: Warm, well perfused extremities with 2+ pitting
+edema bilaterally into the thighs. Decreased bulk.
+NEURO: Alert, oriented, CN III-XII intact, motor and sensory
+function grossly intact, no asterixis
+SKIN: No significant rashes
+ 
+ 
+Pertinent Results:
+ADMISSION LABS:
+=================
+___ 05:48PM BLOOD WBC-15.5* RBC-5.11 Hgb-11.3 Hct-37.0 
+MCV-72* MCH-22.1* MCHC-30.5* RDW-23.8* RDWSD-58.4* Plt ___
+___ 05:48PM BLOOD Neuts-88.0* Lymphs-7.1* Monos-3.9* 
+Eos-0.1* Baso-0.1 NRBC-0.2* Im ___ AbsNeut-13.60* 
+AbsLymp-1.09* AbsMono-0.60 AbsEos-0.02* AbsBaso-0.02
+___ 06:55PM BLOOD ___ PTT-29.7 ___
+___ 05:48PM BLOOD Glucose-168* UreaN-59* Creat-1.5* Na-132* 
+K-4.5 Cl-90* HCO3-21* AnGap-21*
+___ 06:55PM BLOOD ALT-139* AST-335* CK(CPK)-149 
+AlkPhos-1441* TotBili-5.3*
+___ 06:55PM BLOOD Lipase-75*
+___ 06:55PM BLOOD CK-MB-2
+___ 06:55PM BLOOD cTropnT-<0.01
+___ 06:55PM BLOOD Albumin-2.4*
+___ 07:28PM BLOOD Lactate-3.7*
+
+STUDIES: 
+=========
+
+___ LOWER EXT VEINS  
+IMPRESSION: 
+No evidence of deep venous thrombosis in the right lower 
+extremity veins.
+ 
+___ OR GALLBLADDER US
+IMPRESSION:
+1. Cirrhotic liver with large ill-defined partially necrotic 
+mass better
+visualized on recent MRCP.
+2. Mild right hydronephrosis, similar compared to prior MR.
+3. Trace perihepatic ascites.
+4. No biliary ductal dilatation.
+
+___ (PA & LAT)  
+IMPRESSION:  
+Low lung volumes.  No acute findings in the chest.  Port-A-Cath 
+tip in the cavoatrial junction.
+
+___ ECG
+NSR
+
+ Intervals  Axes
+RatePRQRSQTQTc (___)  P  QRS    T
+___     9
+
+DISCHARGE LABS: 
+=====================
+___ 05:52AM BLOOD WBC-16.8* RBC-3.70* Hgb-8.5* Hct-27.5* 
+MCV-74* MCH-23.0* MCHC-30.9* RDW-23.2* RDWSD-59.2* Plt ___
+___ 05:52AM BLOOD Plt ___
+___ 05:52AM BLOOD Glucose-66* UreaN-73* Creat-1.7* Na-137 
+K-3.7 Cl-95* HCO3-21* AnGap-21*
+___ 05:52AM BLOOD ALT-115* AST-289* LD(LDH)-551* 
+AlkPhos-808* TotBili-5.7*
+___ 05:52AM BLOOD Albumin-3.1* Calcium-8.7 Phos-5.4* Mg-2.3
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with metastatic 
+HCC, s/p TACE most recently sorafenib, who initially presented 
+with fatigue, found to have worsening hyperbilirubinemia and ___ 
+on admission. With T. bili 2.1 on admission that trended up to 
+5.9 during hospitalization, attributed to worsening metastatic 
+disease progression with known extensive progression of hepatic 
+disease on recent MRCP ___. ___ was also likely in the 
+setting of worsening hepatic function with poor PO intake in 
+several days prior to admission. Per ___, was not a candidate for 
+PTBD with no intervenable lesion identified on MRCP. Antibiotics 
+were deferred given lower suspicion for cholangitis. After 
+extensive goals of care conversation with primary oncologist Dr. 
+___, patient was transitioned to home with hospice prior 
+to discharge. 
+
+Acute Issues:
+================
+# Hyperbilirubinemia
+# Metastatic HCC - History of metastatic HCC s/p TACE most 
+recently on sorafenib followed by primary oncologist Dr. ___, 
+presenting with fatigue, found to have worsening 
+hyperbilirubinemia on admission. With T. bili 2.1 on admission 
+that trended up to 5.9 during hospitalization. On recent MRCP 
+___, was found to have extensive progression of disease 
+progression, multiple new large confluent peritoneal implants, 
+innumerable new hepatic masses almost replacing the entirety of 
+the liver. Hyperbilirubinemia was predominantly direct in the 
+setting of worsening disease progression. Per ___ was not a 
+candidate for PTBD with no intervenable lesion identified on 
+MRCP. Antibiotics were deferred given lower suspicion for 
+cholangitis. After extensive goals of care conversation with 
+primary oncologist Dr. ___, patient was transitioned to 
+home with hospice prior to discharge. Plan to not continue with 
+sorafenib.
+
+# ___ - Initially with ___ on admission Cr 1.5. Was thought to 
+be pre-renal give concurrent hyponatremia of 133 with history of 
+poor PO intake and also from hyperuricemia per below with uric 
+acid 14.6 on admission. Was thought to be intravascularly 
+depleted with extravascular volume overload given chronic lower 
+extremity edema. Given hypoalbuminemic, was administered albumin 
+50 x 2 doses. Creatinine trended up to 1.7, prior to discharge. 
+Did not pursue additional diagnostic workup or intervention 
+given goals of care per above and plan for discharge home with 
+hospice.
+
+# Hyponatremia - Presented with Na 133 on admission, likely 
+hypovolemic hyponatremia, corrected to 137 prior to discharge 
+with albumin administration. 
+
+# Hyperuricemia - Presented with uric acid 14.6 on admission. 
+Did not meet criteria for rasburicase administration given Cr 
+<1.8. Received albumin per above, however additional 
+intervention was not pursued per goals of care. 
+
+# Portal vein thrombosis
+# Tumor thrombus - With known portal vein thrombosis and tumor 
+thrombus. Was previously on apixiban, however given goals of 
+care per above, was discontinued and also held on discharge. 
+
+Chronic Issues: 
+===============
+# Diabetes - In the setting of disease and poor PO intake, the 
+patient had recently stopped home lantus due to low blood sugars 
+in am, she continued to receive ISS during hospitalization.
+
+# HTN
+# CAD Prevention - Home ASA, amlodipine, and statin were held 
+during hospitalization and on discharge in order to help reduce 
+pill burden given discharge home with hospice. Metoprolol 
+tartrate 50 BID was continued. 
+
+Transitional Issues:
+======================
+[ ] NEW/CHANGED Medications
+- Started Dexamethasone 1 mg PO QAM for appetite stiulation 
+- Started Morphine SR (MS ___ 15 mg PO Q12H for 
+cancer-related pain
+- Started omeprazole 40mg PO QD
+- Increased home oxycodone 5mg PO Q4-6H:PRN to Q2H:PRN 
+- Held Ascorbic Acid ___ mg PO DAILY
+- Held Aspirin 81 mg PO DAILY 
+- Held Ferrous Sulfate 325 mg PO DAILY 
+- Held Multivitamins 1 TAB PO DAILY 
+- Held Thiamine 100 mg PO DAILY 
+- Held Apixaban 5 mg PO BID 
+- Held Cholestyramine Light (cholestyramine-aspartame) 4 gram 
+oral TID 
+- Held Simvastatin 40 mg PO QPM 
+
+[ ] Discharged home with hospice continue to assess indicated 
+hospice services
+[ ] Titrate pain regimen as indicated given underlying 
+cancer-related pain
+
+#CODE: DNR/DNI 
+#EMERGENCY CONTACT HCP: Husband, ___ ___
+
+Greater than 30 minutes spent in discharge to hospice. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+2. amLODIPine 5 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Metoprolol Tartrate 50 mg PO BID 
+5. OxyCODONE (Immediate Release) 5 mg PO Q4-6H PRN PAIN Pain - 
+Moderate 
+6. Simvastatin 40 mg PO QPM 
+7. Ondansetron 8 mg PO Q8H:PRN nausea 
+8. Furosemide 40 mg PO DAILY:PRN leg swelling 
+9. Apixaban 5 mg PO BID 
+10. Cholestyramine Light (cholestyramine-aspartame) 4 gram oral 
+TID 
+11. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using HUM Insulin
+12. LORazepam 0.5 mg PO Q8H:PRN anxiety/nausea 
+13. Metoclopramide 10 mg PO TID 
+14. Ascorbic Acid ___ mg PO DAILY 
+15. Ferrous Sulfate 325 mg PO DAILY 
+16. Multivitamins 1 TAB PO DAILY 
+17. Senna Laxative-Stool Softener (sennosides-docusate sodium) 
+8.6-50 mg oral BID:PRN 
+18. Thiamine 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Allopurinol ___ mg PO DAILY 
+RX *allopurinol ___ mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+2.  Dexamethasone 1 mg PO QAM 
+RX *dexamethasone 1 mg 1 tablet(s) by mouth Daily Disp #*20 
+Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*30 Capsule Refills:*0 
+4.  Morphine SR (MS ___ 15 mg PO Q12H 
+RX *morphine 15 mg 1 tablet(s) by mouth every twelve (12) hours 
+Disp #*40 Tablet Refills:*0 
+5.  Omeprazole 40 mg PO DAILY 
+RX *omeprazole 40 mg 1 capsule(s) by mouth Daily Disp #*30 
+Capsule Refills:*0 
+6.  Senna 8.6 mg PO BID:PRN Constipation - First Line 
+RX *sennosides [senna] 8.6 mg 1 by mouth BID:PRN Disp #*30 
+Tablet Refills:*0 
+7.  OxyCODONE (Immediate Release) 5 mg PO Q2H:PRN Pain - Severe 
+RX *oxycodone 5 mg 1 tablet(s) by mouth Q2H:PRN Disp #*30 Tablet 
+Refills:*0 
+8.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+9.  amLODIPine 5 mg PO DAILY  
+10.  Cholestyramine Light (cholestyramine-aspartame) 4 gram oral 
+TID  
+11.  Furosemide 40 mg PO DAILY:PRN leg swelling  
+12.  LORazepam 0.5 mg PO Q8H:PRN anxiety/nausea 
+RX *lorazepam 0.5 mg 1 by mouth Q8H:PRN Disp #*15 Tablet 
+Refills:*0 
+13.  Metoclopramide 10 mg PO TID  
+14.  Metoprolol Tartrate 50 mg PO BID  
+15.  Ondansetron 8 mg PO Q8H:PRN nausea 
+RX *ondansetron 8 mg 1 tablet(s) by mouth Q8H:PRN Disp #*30 
+Tablet Refills:*0 
+16.  Senna Laxative-Stool Softener (sennosides-docusate sodium) 
+8.6-50 mg oral BID:PRN  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis: 
+Metastatic HCC
+Hyperbilirubinemia
+
+Secondary Diagnosis:
+___
+Hyponatremia
+Chronic cancer associated pain
+Portal vein thrombosis
+Tumor thrombus
+Type 2 Diabetes
+Microcytic anemia
+Hptertension
+CAD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___,
+
+It was a pleasure caring for you at ___ 
+___.
+
+WHY WAS I IN THE HOSPITAL?
+- You initially came to the hospital because you were feeling 
+weak. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?
+- You underwent imaging to determine why you were feeling weak 
+and were found to have progression of your cancer
+- You were found to have worsening liver function tests because 
+of your cancer
+- You were treated with medications to help reduce your pain and 
+nausea
+- You had a meeting with your husband and medical doctors where 
+___ that given the progression of your disease, you 
+would like to go home with hospice, reduce the number of 
+medications you take, defer further chemo and focus on spending 
+time with the people you love and being comfortable.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+- Continue to take all your medications as prescribed and keep 
+your follow-up appointments as listed below
+
+We wish you the best!
+
+Sincerely,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10470555-DS-4 | hadm_id=25629836
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypertension and abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+Abdominal CT (at OSH) and Liver MRI
+
+ 
+History of Present Illness:
+Patient is a ___ y/o female who presents to ___ with c/o 
+abdominal pain.  In addition, patient's blood pressure was noted 
+to be high with SBP > 200.  An abdominal ultrasound was 
+completed which showed a liver mass which led to the performance 
+of a CTA of the abdomen.  This not only confirmed a large liver 
+mass but also revealed a small infrarenal aortic dissection.  
+Patient was transferred to ___ for blood pressure management 
+and further evaluation.
+ 
+Past Medical History:
+PMH: HTN, HLD, DM2, CAD s/p 2 stents ___ years ago (at ___), 
+renal cell carcinoma
+
+PSH: Cardiac stent x2, R renal ablation
+
+ 
+Social History:
+___
+Family History:
+Negative for family history of aneurysms
+ 
+Physical Exam:
+Vital Signs: 97.7  138/76  64  18  95%/RA
+General: alert and oriented x 3, lying in bed, NAD
+HEENT: normocephalic, skin anicteric, PERRL, MMM, neck with full 
+ROM
+CV: RRR
+Lungs: breathing unlabored
+Abdomen: soft, NTND
+Extremities: + CSM
+ 
+Pertinent Results:
+___ 04:25AM BLOOD WBC-6.6 RBC-4.57 Hgb-12.1 Hct-37.1 
+MCV-81* MCH-26.5 MCHC-32.6 RDW-13.2 RDWSD-38.5 Plt ___
+___ 08:00PM BLOOD Neuts-76.8* Lymphs-14.1* Monos-6.2 
+Eos-1.3 Baso-0.5 Im ___ AbsNeut-8.48* AbsLymp-1.55 
+AbsMono-0.68 AbsEos-0.14 AbsBaso-0.06
+___ 04:25AM BLOOD Plt ___
+___ 04:25AM BLOOD Glucose-197* UreaN-19 Creat-0.8 Na-142 
+K-4.2 Cl-103 HCO3-25 AnGap-14
+___ 04:25AM BLOOD Calcium-8.7 Phos-3.0 Mg-2.0
+ 
+Brief Hospital Course:
+Patient was transferred to ___ from ___ for severe 
+hypertension and evaluation of an infrarenal aortic dissection 
+as well as, a liver mass found on an abdominal CTA.  This was 
+performed after patient complained of severe right sided 
+abdominal pain x 1 week.  She was admitted to the vascular 
+surgery service and transferred to the ICU for strict blood 
+pressure monitoring.  Her blood pressure was well controlled on 
+esmolol and nicardipine drips.  She was easily transitioned to 
+PO medications consisting of metoprolol and amlodipine, 
+maintaining her SBP less than 140.  She was transferred to the 
+vascular surgery floor on hospital day 2.  
+
+Patient underwent and MRI of the liver w/ and w/o contrast, 
+further demonstrating the size of the liver mass and possible 
+renal mass.  Her PCP was contacted with the information on these 
+findings and an appointment was made for follow-up. 
+
+The imaging obtained during this hospitalization demonstrated a 
+focal infrarenal aortic dissection.  There is no aneurysmal 
+degeneration and there is good flow beyond this area to the 
+iliac arteries.  She will require a follow up CTA and an 
+appointment with vascular surgery in 6 months. In addition, she 
+will need regular blood pressure checks and follow up of her new 
+antihypertensive regimen with her PCP.
+
+Patient denies any continuation of the abdominal or flank pain.  
+She is tolerating a regular diet and is ambulating 
+independently.  
+
+Patient is discharged home with ___ services in stable 
+condition.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Tartrate 100 mg PO BID 
+2. MetFORMIN (Glucophage) 1000 mg PO BID 
+3. Simvastatin 40 mg PO QPM 
+4. Glargine 44 Units Breakfast
+Glargine 30 Units Bedtime
+5. GlipiZIDE XL 15 mg PO DAILY 
+6. azelastine unknown  nasal DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Aspirin 81 mg PO DAILY  
+3.  azelastine 137 mcg nasal DAILY  
+4.  Glargine 44 Units Breakfast
+Glargine 30 Units Bedtime 
+5.  Metoprolol Tartrate 50 mg PO BID 
+RX *metoprolol tartrate 50 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+6.  GlipiZIDE XL 15 mg PO DAILY  
+7.  MetFORMIN (Glucophage) 1000 mg PO BID  
+8.  Simvastatin 40 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Infrarenal aortic dissection,
+Hypertension,
+Liver mass,
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+It was a pleasure taking care of you during your hospitalization 
+at ___.  You were admitted with abdominal pain and 
+hypertension.  Pictures of your abdomen were taken which showed 
+that you have a small abdominal aortic dissection, which is a 
+weakness in the vessel wall.  At this time, it will just need to 
+be watched for any changes over the next few months. 
+
+In addition, you were found to have a liver mass for which you 
+will require follow up with oncology.  Your PCP is aware of 
+these findings and has scheduled an appointment with you to 
+review your options for oncology referrals.
+
+Your blood pressure was found to be very high when you arrived.  
+You were admitted to the ICU for special intravenous medications 
+to lower your blood pressure.  This was successful and you are 
+now weaned down to blood pressure medications that you can take 
+by mouth.  It will be very important for you to continue to take 
+these medications and follow up with your PCP for blood pressure 
+checks.
+
+Please contact your PCP or go to the emergency department for 
+any of the following symptoms:
+Worsening or severe abdominal or back pain;
+Headaches, dizziness, lightheadedness;
+Chest pain, shortness of breath, heart palpitations.
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,342 @@
+===== DISCHARGE NOTE =====
+note_id=10106057-DS-22 | hadm_id=20028638
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamides) / Zestril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right sided weakness after elective pulmonary vein isolation
+ 
+Major Surgical or Invasive Procedure:
+transesophageal echocardiography
+pulmonary vein isolation
+thrombolysis
+ 
+History of Present Illness:
+Mrs. ___ is a ___ year old female with idiopathic atrial 
+fibrilation several vascular risk factors including diabetes and 
+hypertension who was admitted today for elective pulmonary vein 
+isolation.  Approximately 2 hours following the procedure she 
+developed sudden onset right sided weakness and numbness.  Neuro 
+exam was pertinent for right sided numbness, weakness and right 
+hemianopsia.  A stat stroke consult was called and neurology 
+recommended stat head CT.  Head CT showed possible loss of 
+gray-white differentiation in the distribution of L MCA.  CTA 
+did not seem to show a definite clot in left main stem MCA but 
+on coronal section decreased flow in M3 and M4 on left side.  
+CTP showed a possible area of decreased blood volume in the left 
+MCA.  She was given tPA, bolus dose of 9mg followed by infusion 
+of 81mg.  Within the first hour of receiving tPA she began to 
+have increased movement in her right arm and right foot.  Right 
+hemianopsia persisted.  She was transferred to the CCU for 
+overnight monitoring. 
+.
+In terms of her atrial fibrillation, she was referred for the 
+procedure because she failed propafenone and sotalol.  She was 
+last
+cardioverted in ___ while on Sotalol 80 bid and reverted 
+back to atrial fibrillation within minutes of getting shocked.  
+Since ___ she has been in atrial fibrillation.  She reports 
+a rapid heart beat and shortness of breath with exertion.  Prior 
+to her procedure she had taken subcutaneous Lovenox after 
+stopping warfarin.  In addition, a TEE performed just prior to 
+her procedure showed no evidence of left atrial clot.  She also 
+received therapeutic IV heparin throughout the period of left 
+atrial access during her atrial fibrillation ablation procedure.
+.
+On review of symptoms, she reports post procedural substernal 
+discomfort without radiation; chronic lower back pain; diffuse 
+achy belly pain.  Of note she has a long standing history of low 
+back pain and history of irritable bowel syndrome.  She has no 
+prior history of stroke, TIA, deep venous thrombosis, pulmonary 
+embolism, bleeding at the time of surgery, myalgias, cough, 
+hemoptysis, black stools or red stools.  She denies recent 
+fevers, chills or rigors.  All of the other review of systems 
+were negative.  
+.  
+She does have frequent "shooting" chest pain which comes and 
+goes and is not related to exertion.  It resolves on its on.  
+She also notes dyspnea on minimal exertion, especially with 
+climbing stairs.  She currently has no chest pain or shortness 
+of breath.  She denies any current paroxysmal nocturnal dyspnea, 
+orthopnea, ankle edema, syncope or presyncope.  Please note pt 
+was admitted in ___ for the cardiac compaints and was rule 
+dout for MI and had cath with clean coronaries.
+
+ 
+Past Medical History:
+1.  Diabetes mellitus, medically treated.
+2.  Hypertension.
+3.  Irritable bowel syndrome.
+4.  Chronic renal insufficiency.
+5.  Peptic ulcer disease.
+6.  Pulmonary hypertension.
+7.  COPD.
+8.  No evidence for coronary artery disease by cardiac cath on 
+disease on ___
+9.  Fatty liver, followed previously at ___.
+10. Chronic low back pain and left hip pain s/p hip replacement
+11. Paroxysmal atrial fibrillation, previously on coumadin
+12. Right shoulder pain, s/p surgery
+___. Depression/PTSD
+ 
+Social History:
+___
+Family History:
+Her mother had MI times three and Alzheimer's
+disease.  Her father had throat cancer, the patient does not 
+have
+contact with him.
+ 
+Physical Exam:
+Exam at the time of CCU admission:
+VS: T 99.5 BP ___ HR NSR 83, RR 19, 97% O2 % on 2L
+Gen: WDWN middle aged obese female in NAD, resp or otherwise. 
+Oriented x3. Mood, affect appropriate. Pleasant.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa.  
+Neck: Supple with no JVD.  
+CV:  RR, normal S1, S2. No S4, no S3.  
+Chest: Reproducible tenderness on anterior chest wall.  No chest 
+wall deformities, scoliosis or kyphosis. Resp were unlabored, no 
+accessory muscle use. No crackles, wheeze, rhonchi in the 
+anterior lung fields.  
+Abd: Obese, soft, NTND, No HSM. Mild diffuse tenderness to deep 
+palpation. 
+Ext: No c/c/e. Access sites in left and right groin with no 
+swelling, redness or tenderness.  No bruit.  No hematoma 
+appreciated.  1+ pulses in bilateral lower extremities.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.  
+Pulses:  
+Right: Carotid 2+ without bruit 
+Left: Carotid 2+ without bruit
+.
+Neuro
+Motor: Able to lift right arm off of the bed and hold for 
+several seconds, weak grip, wiggles toes, but unable to lift 
+right leg off of bed.  Left arm and leg with normal strength.  
+Sensory intact to light touch, pinprick, joint position sense,
+vibration throughout the left side; she has decreased light 
+touch
+throughout the right side more pronounced in the right lower 
+extremity.  Decreased sensation in V1-V3 on the right.  
+Cranial nerves: Extraocular movements intact, no nystagmus.  
+PERRL.  Right hemianopsia, left sided visual fields intact.  
+Speech intact.  Tongue midline, equal SCM muscles bilaterally.
+Reflexes: Intact bilaterally with downgoing toes.
+Coordination and Fine finger movements intact on left only.
+ 
+Pertinent Results:
+CT brain perfusion ___
+
+HEAD CT: There is no evidence of hemorrhage, edema, mass, mass 
+effect, or infarction. The ventricles and sulci are normal in 
+caliber and configuration. There is no fracture.
+
+HEAD AND NECK CTA: The right vertebral artery is diminutive, but 
+patent, and ends in ___ termination. There is mild 
+atherosclerotic plaque in the bilateral carotid artery 
+bifurcations, but the distal cervical internal carotid arteries 
+are normal according to NASCET criteria bilaterally. There is no 
+evidence of aneurysm formation or other vascular abnormality.
+
+CT PERFUSION: The perfusion map appear normal, with no evidence 
+of delayed transit time, reduced blood flow or blood volume.
+
+IMPRESSION: No CT or CT perfusion evidence of brain ischemia. 
+However, please note that MRI with diffusion-weighted imaging is 
+more sensitive especially for the detection of small areas of 
+brain ischemia
+TEE ___
+
+The left atrium is normal in size. Mild spontaneous echo 
+contrast is present in the left atrial appendage. No thrombus is 
+seen in the left atrial appendage. Mild spontaneous echo 
+contrast is seen in the right atrial appendage. No thrombus is 
+seen in the right atrial appendage No atrial septal defect is 
+seen by 2D or color Doppler. Overall left ventricular systolic 
+function is normal. The ascending, transverse and descending 
+thoracic aorta are normal in diameter and free of 
+atherosclerotic plaque to 46 cm from the incisors. The aortic 
+valve leaflets (3) appear structurally normal with good leaflet 
+excursion. No aortic regurgitation is seen. The mitral valve 
+appears structurally normal with trivial mitral regurgitation. 
+There is no pericardial effusion. 
+
+IMPRESSION: No intracardiac thrombus seen. Mild spontaneous 
+biatrial echo contrast.
+MRI ___
+
+ROUTINE MRI OF THE BRAIN WITHOUT GADOLINIUM. ROUTINE MRA OF THE 
+CIRCLE OF ___ USING 3D TIME-OF-FLIGHT TECHNIQUE.
+
+Comparison is made with CT perfusion performed one day prior.
+
+On the diffusion-weighted images, there are three punctate foci 
+of slow diffusion, two in the left motor cortex and one in the 
+right parietal subcortical white matter.
+
+There are associated very subtle hyperintensities on FLAIR 
+images.
+
+MRA of the circle of ___ demonstrates patency of the anterior 
+and posterior circulations. There is no aneurysm or stenosis 
+within limits of this examination.
+
+There is no hydrocephalus.
+
+IMPRESSION:
+
+Three tiny punctate, probably embolic acute infarctions as 
+described above, without associated mass effect or edema
+ 
+Brief Hospital Course:
+# CVA
+
+Patient with several vascular risk factors, postop from 
+pulmonary vein isolation, who had sudden onset right-sided 
+numbness/weakness. Her neurologic exam was significant for right 
+sided numbness and fluctuating weakness, as well as right
+hemianopsia, most concerning for L MCA stroke. Head CT showed 
+possible loss of gray-white differentiation in the distribution 
+of L MCA. CTA did not seem to show a definite clot in left main 
+stem MCA but on coronal section decreased flow in M3 and M4 on 
+left side. CTP showrd a possible area of decreased blood volume 
+in the left MCA
+She was within the three hour window for IV tPA and given the 
+findings on CTA/P and her neurologic exam, she was given 9 mg iv 
+STAT and then 81 mg infusion in one hour. TEE showed no evidence 
+for thrombus in atria. MRI on ___ showed three tiny punctate, 
+probably embolic acute infarctions without associated mass 
+effect or edema. Patient's weakness and strength improved 
+significantly throughout hospitalization. Prior to discharge, 
+she had full strength and sensation in her arm and leg and only 
+a mild residual visual field deficit.  She was evaluated by ___ 
+prior to discharge, sent home with ___ and services. She was 
+scheduled neurology follow up.
+
+.  
+# Atrial fibrillation 
+
+Refractory to multiple medications and cardioversions. s/p PVI 
+for atrial fibrillation which did not keep patient in SR. She 
+developed atrial fibrillation three times throughout 
+hospitalization requiring several doses of IV metroprolol and 
+diltiazem.  Propafenone was started and titrated up to 225mg 
+TID, which appeared to effectively suppress her atrial 
+fibrillation. At discharge she was in SR on propafenone and 
+diltiazem. She was scheduled a exercise stress test to assess 
+her heart rate response on propafenone and diltiazem. Patient 
+was sent home on ___ of Hearts monitor to assess rhythym. She 
+was sent home on enoxaparin bridge while awaiting therapeutic 
+INR on warfarin. She was given instructions to follow up with 
+her PCP ___ 3 days for INR check. Patient to follow up with Dr. 
+___ in 1 month.
+
+ 
+.  
+# HTN
+
+Stable on regimen of diltiazem, lisinopril and furosemide.
+.     
+# DM II
+
+Discharged on home glipizide dose.
+ 
+Medications on Admission:
+Cardizem 240mg daily
+Lisinopril 10mg daily
+Glucotrol 20mg daily
+Lasix 40mg daily
+Lexapro 20mg in the morning, 10mg in the evening
+Coumadin 5mg hs
+Lovenox prior to procedure
+Vitamin D 800U daily
+Zofran PRN nausea
+ 
+Discharge Medications:
+1. Lovenox ___ mg/mL Syringe Sig: One (1)  Subcutaneous twice a 
+day for 10 days: until INR therapeutic for 3 days.
+Disp:*20 100mg/ml* Refills:*0*
+2. Diltiazem HCl 240 mg Capsule, Sustained Release Sig: One (1) 
+Capsule, Sustained Release PO DAILY (Daily).
+Disp:*30 Capsule, Sustained Release(s)* Refills:*0*
+3. Warfarin 2.5 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).
+Disp:*90 Tablet(s)* Refills:*0*
+4. Propafenone ___ mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+5. Oxycodone-Acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO every six (6) hours as needed.
+Disp:*14 Tablet(s)* Refills:*0*
+6. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+7. Glipizide 10 mg Tab,Sust Rel Osmotic Push 24hr Sig: Two (2) 
+Tab,Sust Rel Osmotic Push 24hr PO DAILY (Daily).  
+8. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+9. Escitalopram 10 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).  
+10. Vitamin D 400 unit Tablet Sig: Two (2) Tablet PO once a day. 
+ 
+11. Rosuvastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).
+Disp:*60 Tablet(s)* Refills:*0*
+12. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+13. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice 
+a day.  
+
+Addendum: The patient was discharged a daily dose of propafenone 
+225mg.  6 days after discharge the patient was contacted and 
+instructed to take propafenone ___ TID.
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+CVA
+Atrial fibrillation
+DM type II
+COPD
+Pulmonary HTN
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You were admitted for treatment of a stroke for which you were 
+given thrombolytics with improvement of your neurological 
+symptoms. A heart ultrasound showed no evidence for a clot or 
+hole in the heart which may have caused a stroke given your 
+history of atrial fibrillation. You are also to be setup with a 
+___ of Hearts monitor to further define your irregular heart 
+rhythym. You need to follow up with your primary care doctor on 
+___ to have you INR level checked, you will be on 
+Lovenox until your INR is therapeutic. You will follow up with 
+Dr. ___ in 1 month and with neurology. You will also have an 
+exercise stress test in the next ___ weeks to assess your heart 
+rate response to exercise. 
+
+If you have any chest pain, palpitations or any worrisome 
+symptoms return to the ER or call your PCP's office
+
+ 
+Followup Instructions:
+___

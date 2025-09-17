@@ -1,0 +1,326 @@
+===== DISCHARGE NOTE =====
+note_id=11259708-DS-12 | hadm_id=20703311
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+seizure
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ is a ___ year old male with a history of seizure disorder in
+childhood (last seizure at ___ years old, never on antiepileptic)
+and recent fall without loss of consciousness who presented to
+___ with worsening headache, odd behavior and subsequent 
+seizures
+now transferred to ___ per request of family. 
+
+History gathered from patient's parents and ___ records. Patient
+had been in usual state of health until this past ___ when he
+was at work and his foot got stuck in a hay bale and he fell
+backward with head strike against a wall. He had no loss of
+consciousness, nausea, vomiting, dizziness. He reportedly had a
+subtle headache (mother unable to provide more information about
+headache) that day but then felt well the next day and was able
+to ride motorcycles and go out with friends. ___ night he
+reported headache again and was sleeping more than usual. His
+headache progressively worsened ___ to ___ morning
+he reported his headache was "10 out of 10". He was also
+nauseous, so he went to ___. At ___ he had a NHCHT which was
+normal. He reported his headache was nearly gone after the ___
+so he went home. Several hours later he said his headache was
+back and he had worsening nausea and was saying "funny things" 
+to
+his mother ("you and I are professional at this"; "Do you smell
+that funny smell..it's giving me bad memories"). He was 
+irritable
+and cussing (very atypical for him). He also had an episode of
+emesis. His parents took him back to ___ where he was given
+Compazine and Tylenol and he was reportedly feeling better.
+However, he was still saying "odd things" and was very irritable
+(saying there were bugs in his bed, cussing at ___). 
+
+Then, while at ___ his head went slightly to the right and his
+whole body stiffened and then progressed to shaking. This lasted
+for 1 minute. He was sleepy afterwards. Then about 5 minutes
+later his whole body went stiff again which progressed to 
+shaking
+and he was given 2 mg IV Ativan. He remained confused and tired
+after this. 
+
+Given his seizures, he had LP for which he rec'd Ativan 1 mg IV
+and fentanyl 100 mcg. CSF showed WBC 43. CBC, chem 7, utox, etoh
+level unremarkable. He was given 2g Rocephin and acyclovir given
+concern for meningitis. Family requested transfer to tertiary
+care center so he was transferred to ___ for further
+management. At time of transfer he was reportedly "post-ictal",
+sleepy and confused with intermittent agitation.
+
+On arrival to ___, above history was gathered. Patient would
+not answer ROS questions. Per mother, he had complained of
+worsening headache with nausea, vomiting, dizziness over the 
+past
+several days. No other reported symptoms. Given combativeness
+with nursing here in ED, he was given 1 mg IV Ativan.
+
+In terms of prior seizure history, he had first seizure at 18
+months old in the setting of a "virus" and fever. Per his 
+mother,
+his body turned to the right and eyes rolled to back of his 
+head.
+He had stiffening and shaking. He was post-ictal (sleepy) for
+hours after this. His next seizure was at ___ years old in the
+setting of another virus with fever and diarrhea. He had a
+cluster of 4 seizures. He "zoned out" with "blank stare" and 
+then
+had same semiology as above with long post-ictal period. His 
+next
+seizure was at ___ years old and was also in setting of
+illness/fever with semiology as above. His final seizure was at 
+___
+years of age in the setting of a virus. He had staring, head
+turning to right and eyes in the back of his head which
+progressed to "GTC" and he "turned purple". This seizure was
+prolonged, but mother is not sure if it required Ativan. Per the
+mother, he never had an outpatient neurologist, but saw a
+neurologist in the hospital. He was never started on AED given
+these were clearly always associated with illness. His mother
+reports a very long post-ictal period with each event (confused,
+sleepy). She also reports he would have "staring" episodes
+leading up to his seizures. He also would report "smells" around
+the time of seizures. In terms of other seizure risk factors, he
+has had several concussions while playing football in high
+school, but other than this, no major concussions other than
+recent head strike. 
+
+ 
+Past Medical History:
+Seizure disorder - detailed above
+asthma
+seasonal allergies
+anxiety/depression
+OCD
+ADHD
+speech delay
+"language based learning disorder"- repeated ___ grade, IEP
+throughout school 
+
+ 
+Social History:
+___
+Family History:
+Paternal uncle with intellectual disability and unknown seizure
+disorder. MGM with ?white matter disease (not MS and
+asymptomatic, monitored). Parents healthy. No other family
+history of seizure, autoimmune disease.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Physical Exam:
+Vitals: T: 98.6 P: 112  R: 98% BP: 120/57 SaO2: RA
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM
+Neck: resisted ROM testing
+Pulmonary: Normal work of breathing
+Cardiac: RRR, warm, well-perfused
+Abdomen: soft, non-distended
+Extremities: No ___ edema.
+Skin: no rashes or lesions noted.
+
+Neurologic:
+
+-Mental Status: Intermittent agitation and somnolence. He is not
+oriented (said he was in ___, did not answer further
+questions), but able to speak in full phrases without dysarthria
+at times ("leave me alone, get away from me"). He intermittently
+followed commands (lift arms, open eyes).
+
+-Cranial Nerves: pupils were 4 to 3 and brisk. Eyes conjugate on
+primary gaze. He would not participate in EOM testing and
+forcibly was keeping eyes closed so could not assess blink to
+threat. Would not allow fundoscopic exam. No facial droop while
+grimacing, could not assess mouth as he was moving head and
+resisting exam. 
+
+Sensory/motor: patient moving extremities spontaneously to push
+away staff and examiner, withdrew to light stimuli in all
+extremities. would not participate in confrontational testing. 
+
+-DTRs: no clonus at ankles, patient resisting reflexes
+Plantar response was flexor bilaterally.
+
+-Coordination: could not assess given resisting and not 
+complying
+with exam, no ataxia when reaching for covers or pushing away
+examiner
+
+-Gait: could not assess
+
+DISCHARGE PHYSICAL EXAM:
+General: Awake, alert, conversational, 
+Pulm: breathing comfortably on room air. 
+Cardiac: RRR
+Ext: good peripheral perfusion
+
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history 
+without difficulty. Language is fluent with intact repetition 
+and comprehension. Normal prosody. There were no paraphasic 
+errors. Pt was able to name both high and low frequency objects. 
+Speech was not dysarthric. Able to follow both midline and 
+appendicular commands. There was no evidence of apraxia or 
+neglect.
+-Cranial Nerves:
+II, III, IV, VI: PERRL 3 to 2mm and brisk. EOMI without 
+nystagmus. Normal saccades. VFF to confrontation. 
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+-Motor: Normal bulk, tone throughout. No pronator drift 
+bilaterally.
+No adventitious movements, such as tremor, noted. No asterixis 
+noted.
+     Delt Bic Tri WrE FFl FE IO IP Quad Ham TA Gastroc  
+L     ___   5   5    ___   ___     5  
+R     ___   5   5    ___   5   5    5    5   
+-Sensory: No deficits to light touch throughout.
+-DTRs:
+  Bi Tri ___ Pat Ach
+L ___     2  1
+R ___     2  1
+Plantar response was flexor bilaterally.
+-Coordination: No intention tremor, no dysdiadochokinesia noted. 
+No dysmetria on FNF bilaterally.
+-Gait: walking to bathroom with normal gait
+ 
+Pertinent Results:
+___ 09:52AM BLOOD WBC-4.9 RBC-4.66 Hgb-14.4 Hct-41.3 MCV-89 
+MCH-30.9 MCHC-34.9 RDW-11.1 RDWSD-35.7 Plt ___
+___ 09:52AM BLOOD Plt ___
+___ 09:52AM BLOOD Glucose-207* UreaN-6 Creat-1.1 Na-138 
+K-3.7 Cl-102 HCO3-25 AnGap-11
+___ 05:20AM BLOOD ALT-15 AST-25 AlkPhos-53 TotBili-0.3
+___ 09:52AM BLOOD Calcium-8.5 Phos-1.9* Mg-1.8
+
+CSF from ___ WBC 43 RBC 216 glc 73 Prot 34
+CSF gram stain negative CSF culture negative CSF HSV PCR 
+negative 
+ 
+Brief Hospital Course:
+___ is ___ year old with history of febrile seizures in 
+childhood, anxiety and recent fall with head strike who presents 
+with several days of worsening headache, odd behavior and 
+subsequent tonic clonic seizure x2, found to have 42 WBC in the 
+CSF consistent with meningitis/encephalitis; patient was 
+transferred to ___ from ___ for further management.
+
+#Altered mental status - Differential includes meningitis vs 
+encephalitis, encephalitis thought to be more likely given 
+temporal lobe involvement on EEG;
+MRI pending. Etiology thought to be viral in origin given high 
+CSF glucose, negative CSF gram stain and culture. HSV PCR 
+negative, so viral etiology thought to be a virus that we are 
+unable to identify. Patient did not have any signs of concussion 
+on admission, and history is not consistent with concussion 
+given no loss of consciousness, fatigue, or persistent headache. 
+
+Patient was started on vancomycin, ceftriaxone, and acyclovir at 
+___ prior to transfer. The antibiotics were continued until the 
+CSF culture and gram stain were negative >48 hours, and were 
+discontinued on ___. The HSV PCR resulted negative on ___, and 
+acyclovir was discontinued. Patient was stable for discharge 
+home with outpatient neurology follow up on ___ as patient at 
+neurologic baseline.
+Patient was counseled extensively regarding not driving for 6 
+months since his last seizure on ___. This would mean the first 
+day he can drive is ___ (assuming patient has no 
+further seizures until then). We discussed that driving would 
+put him, and others at risk as he could have a seizure at any 
+time and lose control of the vehicle and injure himself or 
+others. ___ expressed understanding of this. We also counseled 
+him about general seizure safety, detailed in note in OMR. 
+Additionally, we discussed his diagnosis and workup with his 
+primary care doctor extensively. 
+
+#Seizures ___ viral encephalitis
+Patient was monitored on cvEEG on arrival due to his two 
+seizures at the OSH consistent with right head turn and 
+stiffening, and had two 40 second seizures on EEG on ___. 
+Depakote was uptitrated, and patient had no more seizures. Blood 
+levels of Depakote were checked after uptitration and were found 
+to be therapeutic. On ___, patient was transitioned to oral 
+Depakote of an equivalent dose. MRI brain with and without 
+contrast was normal, study motion degraded but no obvious 
+abnormalities. Patient will need follow up in neurology to 
+determine need for AED continuation long term.  
+
+Transitional Issues:
+[ ] Follow up with neurology as scheduled
+[ ] Follow up with PCP within the week to be scheduled for 
+patient  
+[ ] Routine blood work and Depakote level in 1 month with your 
+primary care provider
+ 
+___ on ___:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+2. Levalbuterol Neb 0.63 mg NEB Q4H:PRN wheezing 
+3. LORazepam 0.5 mg PO DAILY:PRN anxiety 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Viral meningitis/encephalitis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___,
+You were transferred from ___ because you had 
+seizures, and they performed a spinal tap which suggested that 
+you had an infection of your brain. We continued you on 
+antibiotics and antiviral medications, and waited for all your 
+cultures to come back. All the cultures were negative, so we 
+think that you had a viral infection of the brain and its 
+covering which was a virus that our tests don't check for. You 
+had 2 seizures at ___, and we monitored you on EEG and 
+we saw two more small seizures. We started you on medication to 
+prevent seizure, and increased the dose to ensure a good level 
+in your blood. You should follow up with your primary care 
+doctor this week, and have blood levels of your seizure 
+medication checked in a month. We will also follow up with you 
+in a few months to see how you are doing on the seizure 
+medications. 
+As a reminder, you cannot drive for 6 months after your last 
+seizure on ___ (this means the earliest you can drive 
+is ___ as long as you don't have any more 
+seizures). We are giving you another letter with more 
+information regarding seizure safety. 
+It was a pleasure taking care of you and we wish you the best!
+Sincerely, 
+Your ___ Neurology Team 
+ 
+Followup Instructions:
+___

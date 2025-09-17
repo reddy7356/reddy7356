@@ -1,0 +1,293 @@
+===== DISCHARGE NOTE =====
+note_id=11185241-DS-16 | hadm_id=20357427
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Acute pancreatitis
+ 
+Major Surgical or Invasive Procedure:
+Intubation at an outside hospital
+ERCP with sphincterotomy
+
+ 
+History of Present Illness:
+The patient is a ___ year-old female with a history of 
+hypothyroidism, who presents with severe epigastric pain.  The 
+patient was in her usual state of good health until 3pm on the 
+day of admission (___), when she developed rapid-onset sweating 
+and ___ constant (non-fluctuating) epigastric pain that 
+radiated to her back.  Coincident with the onset of pain, she 
+reports new-onset nausea, with 1 episode of non-bloody vomiting. 
+ The patient reports a chronic alcohol intake of ___ drinks per 
+day.  She denies previous episodes of abdominal pain, history of 
+hyperlipidemia, history of discolored urine, recent flu-like 
+illness, or abdominal trauma.  Due to the severity of the pain, 
+the patient was immediately driven by her husband to ___ 
+___.
+  
+At ___ (___), the patient had Hb 16, lipase >3000, K 
+2.8, undetectable EtOH.  CIWA score was less than 4.  ___ 
+score was 0 on admission.  She received IV fluids, folate, 
+multivitamin injection, and thiamine.  A CT of the 
+abdomen/pelvis revealed a ___ fluid collection, with 
+fat stranding and a 4 cm calcified focus near the ampula of 
+vater.  MRCP was obtained, showing no ductal dilation and no 
+gallstones.  On ___, a CXR showed a LLL opacity, and the 
+patient was started on levo/ceftriaxone.  The patient developed 
+fever, change in mental status, hypoxia, and tachypnea leading 
+to intubation, which was complicated by aspiration during the 
+intubation procedure (ABG post-intubation on ___ was 
+7.39/34/102). Aspiration from OG tube revealed coffee-ground 
+emesis after intubation.  She was transfered to ___ on ___ for 
+further care and evaluation.  
+   
+ROS: 1 month prior to presentation, patient reports diffuse rash 
+on the torso (sparing arms/legs) composed of 1 mm red, intensely 
+itchy papules.  Patient reports new bluriness of vision within 
+the past 2 weeks, which is partially corrected by corrective 
+lenses.  Review of systems was otherwise negative except as 
+specified in the HPI (patient denies recent constipation, 
+changes in hearing, tingling/ numbness/weakness, coughing of 
+blood, hematuria, dysuria, blood in the stool, or easy 
+bleeding).  
+
+ 
+Past Medical History:
+Hypothyroidism 
+ 
+Social History:
+___
+Family History:
+Patient's mother: CVA
+Patient's father: DM, HTN, alcoholism (pt.'s father "died of 
+alcoholism")
+Patient's 2 brothers: alcoholism
+ 
+Physical ___:
+VITALS: T 100.7, BP 120/70, HR 80, RR 16, Sat 93% (RA)  
+General: Patient is comfortable and conversational, nontoxic, in 
+no apparent distress.  Mild confusion in fact finding/verbal 
+response. 
+Skin: Warm and well perfused. Few ___ small skin-colored 1mm 
+papules on left side of abdomen.  No petechiae/ecchymoses. No 
+jaundice.
+HEENT: Sclera anicteric. Oral mucosa pink. Dentition intact.  
+Trachea midline. Neck supple. Thyroid non-enlarged. 
+Pulmonary: Breath sounds diminished bilaterally at bases, 
+extending up 20-30 cm from base on left, and 10 cm from base on 
+right.  Positive egophony noted bilaterally, with transition at 
+the levels of diminished breath sounds (described above).  
+Slight dullness to percussion, with transition at same levels.  
+No rales/wheezes/rhonchi. 
+Cardiac: Regular rate and rhythm. No m/r/g.  PMI was firmly 
+tapping, quarter-sized, located btwn ___ intercostal space 
+along midclavicular line.  
+Lymphatic: No cervical or supraclavicular lymphadenopathy. 
+GI: +Bowel sounds, abdomen soft.  Moderate distention. Moderate 
+tenderness to palpation in mid-epigastrum.  No organomegaly. 
+Neuro: AAOx3.  PEERLA, EOMI, tongue midline, face symmetric. 
+Moving 
+___. 
+Extremities: WWP.  Radial and DP pulses 2+ bilaterally.  No 
+edema. ROM intact. 
+
+ 
+Pertinent Results:
+Admission Labs:
+___ 12:09AM BLOOD WBC-11.5* RBC-3.59* Hgb-12.5 Hct-34.8* 
+MCV-97 MCH-34.8* MCHC-36.0* RDW-12.6 Plt ___
+___ 12:09AM BLOOD Neuts-91.3* Lymphs-6.6* Monos-1.7* 
+Eos-0.3 Baso-0.1
+___ 12:09AM BLOOD ___ PTT-31.5 ___
+___ 12:09AM BLOOD Glucose-114* UreaN-8 Creat-0.5 Na-137 
+K-3.8 Cl-111* HCO3-22 
+___ 12:09AM BLOOD ALT-11 AST-32 AlkPhos-50 Amylase-429* 
+TotBili-0.6
+___ 12:09AM BLOOD Lipase-411*
+___ 12:09AM BLOOD Albumin-2.2* Calcium-6.6* Phos-1.5* 
+Mg-2.1
+___ 12:09AM BLOOD Triglyc-118
+___ 01:29AM BLOOD Type-ART Temp-37.8 Rates-14/ Tidal V-450 
+PEEP-5 FiO2-60 pO2-126* pCO2-36 pH-7.38 calTCO2-22 Base XS--2 
+-ASSIST/CON Intubat-INTUBATED
+  
+Discharge Labs:
+___ 08:05AM BLOOD WBC-9.1 RBC-3.76* Hgb-12.4 Hct-36.8 
+MCV-98 MCH-32.9* MCHC-33.7 RDW-13.2 Plt ___
+___ 08:05AM BLOOD Glucose-106* UreaN-11 Creat-0.6 Na-141 
+K-5.1 Cl-102 HCO3-29 
+___ 08:05AM BLOOD ALT-44* AST-35 LD(LDH)-420* AlkPhos-65 
+Amylase-106* TotBili-0.4
+___ 08:05AM BLOOD Lipase-146*
+  
+Studies:
+___ Portable KUB IMPRESSION:
+1. Limited assessment of the lung bases, recommend correlation 
+with dedicated chest radiographs performed same day from ___.
+2. Technically limited abdominal radiograph demonstrates 
+prominent gaseous
+loops of bowel in mid-abdomen. If obstruction of concern, 
+dedicated supine
+and erect radiographs with improved positioning can be obtained.
+      
+___ CXR - IMPRESSION: AP chest reviewed in the absence of 
+prior chest radiographs: 
+Examination marked semi-upright has an appearance suggesting 
+essentially
+supine positioning, and moderate right and moderate to large 
+left pleural
+effusion, responsible for left lower lobe atelectasis. The heart 
+size is
+normal and mediastinal veins are distended, reflecting supine 
+positioning andvolume overload. ET tube in standard placement, 
+nasogastric tube tip in the region of the pylorus.
+  
+___ CXR, PA & LAT - FINDINGS: The patient has been extubated. 
+The NGT has been removed. 
+Reduced effusions are seen bilaterally. Comparing the frontal 
+view, although residual effusions are present, left greater than 
+right. Some left basilar atelectasis is seen, but there is no 
+patchy consolidation. Pulmonary vascular markings, cardiac 
+silhouette and mediastinal contours are normal. 
+IMPRESSION: Improving but persistent effusions.
+  
+___ RUQ ultrasound - IMPRESSION:
+1. Mildly distended gallbladder without evidence of gallstones. 
+No definite
+sonographic evidence of acute cholecystitis.
+2. Edematous heterogeneous pancreas. Given the heterogeneous 
+appearance,
+pancreatic necrosis should be considered and full evaluation 
+with contrast
+enhanced CT is advised.
+3. A focus of high attenuation seen on the outside hospital CT 
+near the
+ampulla of Vater is not imaged on the current ultrasound, likely 
+related to
+differences in modality.
+   
+ 
+Brief Hospital Course:
+Mrs. ___ is a ___ year old female with hypothyroidism and 
+frequent alcohol use who was transfered from an outside hospital 
+with acute pancreatitis and respiratory failure.  
+  
+# Acute pancreatitis: The patient's lipase and abominal pain 
+initially improved, however, she continued to have mild 
+epigastric abdominal pain and her lipase started to trend upward 
+on hospital day 5.  Per the recommendation of the general 
+surgery team that was following, GI was consulted for 
+consideration of ERCP vs. further imaging given that OSH imaging 
+showed necrosis in the pancreatic tail, a pseudocyst in the head 
+of the pancreas (near the SMA), and a non-obstructing stone in 
+the ampulla of vater.  The patient was taken for ERCP, 
+spincterotomy was performed, and several stones and biliary 
+sludge were removed.  The patient's abdominal pain improved and 
+her lipase subsequently began to trend downward again.  She is 
+scheduled to have a cholecystectomy approximately two weeks 
+after discharge and follow-up with GI for further pancreatic 
+imaging as well.  A CA ___ level was drawn while the patient 
+was in house and will be followed-up when the patient returns 
+for her pancrease-related follow-up appointments.  
+     
+# Aspiration/hospital-acquired pneumonia: The patient vomited 
+during intubation at the outside hospital.  Reviewing her OSH 
+images, it appears that she had a LLL effusion, likely secondary 
+to pancreatitis, prior to intubation, and then developed a 
+right-sided consolidation post-intubation, likely from 
+aspiration of vomitus.  She was initially treated with 
+vancomycin, zosyn, and levoquin.  The latter was dropped on 
+transfer to the medical floor, and the vancomycin was dropped 
+when the patient's MRSA screen returned as negative.  She was 
+continued on zosyn until the day prior to discharge.  The 
+patient was successfully extubated on ___.
+      
+# ETOH abuse:  The patient was extensively counselled by the 
+medical team as well as social work regarding the contribution 
+of alcohol consumption to pancreatitis and to help her 
+strategize to identify ways to maintain sobriety on discharge.  
+She was initially placed on a CIWA scale, but required minimal 
+benzos initially.  She was also given vitamin supplementation.
+  
+ 
+Medications on Admission:
+Medications on transfer:  
+CTX 1gm daily  
+MVI  
+Levothyroxine 50mcg daily  
+Ativan PRN  
+Flagyl 500mg q8h prn  
+Protonix 40mg IV q12h  
+Propofol gtt  
+Saline 500cc/hr  
+Dilaudid prn  
+    
+Medications at home:  
+Synthroid 50mcg daily  
+
+ 
+Discharge Medications:
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily). Tablet(s) 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+Acute pancreatitis
+Pulmonary effusion
+Aspiration Pneumonia
+ 
+Secondary Diagnosis:
+Hypothyroidism
+
+ 
+Discharge Condition:
+Vital signs stable, afebrile, minimal abdominal pain.
+
+ 
+Discharge Instructions:
+You came to ___ with severe upper abdominal 
+pain, and breathing problems. Blood tests and CT imaging showed 
+that you had acute pancreatitis, causing pain in the abdomen.  A 
+pulmonary effusion (fluid in the lung) and aspiration pneumonia 
+was the cause of your breathing difficulties.  You have 
+phelbitis in your right arm from the IVs.  The swelling and pain 
+should resolve with time.  You can use warm compresses for 
+comfort.  
+  
+To avoid future episodes of pancreatitis, it is important that 
+you avoid drinking alcohol.  There are many programs available, 
+including AA.  If you would like referrals for sobriety, please 
+speak with your primary care physician.  
+  
+You will need to follow up with the general surgery service (Dr. 
+___ in 2 weeks as an outpatient for removal of the 
+gallbladder, and with Dr. ___ from the GI service in 3 
+weeks for repeat imaging (a technique called MRCP), and 
+evaluation of the pancreas.  
+   
+There are no changes to your home medications. 
+   
+Call your physician or return to the hospital if you have new 
+pain in the upper abdomen, or if you have nausea/vomiting, 
+severe diarrhea, dizzyness, shortness of breath, heart 
+palpitations, high fevers, or any other concerning symptoms.
+ 
+Followup Instructions:
+___

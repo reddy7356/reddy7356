@@ -1,0 +1,758 @@
+===== DISCHARGE NOTE =====
+note_id=10348382-DS-7 | hadm_id=25677053
+
+ 
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dizziness, lightheadedness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The patient is a ___ yo M w/ PMH of HTN, obesity s/p gastric 
+bypass (___), gastritis, iron deficiency anemia, OSA, who 
+presents from PCP with ___ symptomatic bradycardia, 
+lightheadness and ___.
+
+Patient reports increased lethargy and lightheadedness for the 
+past month. He has noted that when he stands, he feels more 
+lightheaded and dizzy. He denies falling, he denies hitting his 
+head. He has also noticed more muscle cramping, where his 
+fingers flex. He has been taking his wife's flexeril for the 
+symptomatic cramping, which helps him sleep. He has been taking 
+it for several months. 
+
+He works as a ___, and he was working outside all day 
+for the past two days. Today, he reports worsening dizziness 
+every time that he stands up. He exercised on a treadmill this 
+morning and walked 4 miles without chest pain. He could not 
+raise his HR > 96, and he did not feel right. He presented to 
+his PCP today and his systolic BP was 85 mm Hg and he was 
+bradycardic to 54. He was found to have new systolic murmur and 
+a questionable inferior ischemia on ECG. He denies fevers, 
+blurry vision, double vision, headaches, dyspnea, CP, abdominal 
+pain, nausea, vomiting, melena, hematochezia, lower leg 
+swelling.
+
+In the ED, initial VS were 97.9 48 ___ 100% RA.  
+Exam notable for bradycardia, III/IV systolic ejection murmur.  
+Labs showed  WBC 9.2, Hb 12.3, Platelets 236, Cr 2.2 
+CXR was normal
+Received 1L IVF  
+
+Decision was made to admit to medicine for further management of 
+___ and bradycardia. He reports some numbness and tingling on 
+the lateral part of his left foot, which has been going on for 
+over a year and is secondary to his disk herniation. 
+
+On arrival to the floor, patient verifies the above history. He 
+denies orthopnea, trouble urinating. He does have dogs, and he 
+did find a tick on one of his dogs recently. He endorsed a rash 
+on his right arm that "looked like fleas" bit him. This rash was 
+not bothersome to him, and it resolved. 
+ 
+Past Medical History:
+- Herniated disk at S1
+- Hypertension
+- Iron deficiency anemia
+- history of nephrolithiasis
+- OSA
+- Gastritis
+- s/p gastric bypass surgery in ___
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+======================
+VS: 97.9PO 105 / 64L Lying 60 16 96 Ra
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM, good dentition  
+NECK: nontender supple neck, no LAD, no JVD  
+HEART: RRR, S1/S2, ___ holosystolic murmur best auscultated at 
+apex of the heart  
+LUNGS: CTAB,
+ABDOMEN: obese, well-healed surgical scar, +BS, nontender in all 
+quadrants, no rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact, ___ strength in tact
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes 
+
+DISCHARGE PHYSICAL EXAM
+======================
+VS: 97.2PO 146 / 73 56 18 97 Ra
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM, good dentition  
+NECK: nontender supple neck, no LAD, no JVD  
+HEART: RRR, S1/S2, ___ holosystolic murmur best auscultated at 
+base of the heart  
+LUNGS: CTAB
+ABDOMEN: obese, well-healed surgical scar, +BS, nontender in all 
+quadrants, no rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact, ___ strength in tact
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+ 
+Pertinent Results:
+ADMISSION LAB RESULTS
+===================
+___ 01:00PM BLOOD WBC-9.2 RBC-4.61# Hgb-12.3*# Hct-39.0* 
+MCV-85 MCH-26.7 MCHC-31.5* RDW-14.8 RDWSD-44.6 Plt ___
+___ 01:00PM BLOOD Neuts-66.1 ___ Monos-7.6 Eos-1.1 
+Baso-0.5 Im ___ AbsNeut-6.11* AbsLymp-2.25 AbsMono-0.70 
+AbsEos-0.10 AbsBaso-0.05
+___ 01:00PM BLOOD ___ PTT-26.7 ___
+___ 01:00PM BLOOD Glucose-98 UreaN-34* Creat-2.2*# Na-136 
+K-5.3* Cl-104 HCO3-24 AnGap-13
+___ 01:00PM BLOOD ALT-16 AST-22 LD(LDH)-192 CK(CPK)-272 
+AlkPhos-81 TotBili-0.4
+___ 01:00PM BLOOD cTropnT-<0.01 proBNP-372*
+___ 01:00PM BLOOD Albumin-4.2 Calcium-9.0 Phos-3.9 Mg-2.5 
+Iron-91
+___ 01:00PM BLOOD calTIBC-410 VitB12-1073* Folate-9 
+Ferritn-29* TRF-315
+___ 01:00PM BLOOD TSH-1.9
+___ 07:05AM BLOOD Cortsol-9.0
+___ 01:00PM BLOOD Lithium-<0.1*
+___ 01:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+DISCHARGE LAB RESULTS
+====================
+___ 07:05AM BLOOD WBC-6.4 RBC-4.65 Hgb-12.1* Hct-40.0 
+MCV-86 MCH-26.0 MCHC-30.3* RDW-15.1 RDWSD-46.1 Plt ___
+___ 06:40AM BLOOD Glucose-106* UreaN-16 Creat-1.1 Na-139 
+K-5.0 Cl-105 HCO3-21* AnGap-18
+
+IMAGING/STUDIES
+==============
+___ CXR: No acute intrathoracic procese
+
+___ Echo:
+The left atrial volume index is normal. Left ventricular wall 
+thickness, cavity size and regional/global systolic function are 
+normal (LVEF >55%). Right ventricular chamber size and free wall 
+motion are normal. The ascending aorta is mildly dilated. The 
+aortic valve leaflets (3) are mildly thickened. There is no 
+valvular aortic stenosis. The increased transaortic velocity is 
+likely related to high cardiac output. No aortic regurgitation 
+is seen. The mitral valve leaflets are mildly thickened. Mild 
+(1+) mitral regurgitation is seen. The estimated pulmonary 
+artery systolic pressure is normal. There is no pericardial 
+effusion. 
+
+IMPRESSION: Normal global and regional biventricular systolic 
+function. Aortic valve sclerosis. Mild mitral regurgitation. 
+
+Compared with the report of the prior study (images unavailable 
+for review) of ___, aortic sclerosis is seen and may 
+account for the systolic murmur. The other findings are similar. 
+
+
+MICROBIOLOGY
+============
+___ Lyme test: negative
+ 
+Brief Hospital Course:
+The patient is a ___ yo M w/ PMH of HTN, obesity s/p gastric 
+bypass (___), gastritis, iron deficiency anemia, OSA, who 
+presented from PCP with bradycardia, dizziness, heart murmur, 
+and ___. The dizziness and ___ resolved with 2L IVF. He was 
+monitored on telemetry. His bradycardia remained sinus, and 
+increased appropriately with activity. An Echo showed mild 
+aortic sclerosis, which can cause the heart murmur. He remained 
+hemodynamically stable, and was discharged. 
+
+#Bradycardia
+#Systolic Heart murmur
+Patient presented with bradycardia with HRs in ___. Heart 
+rates respond appropriately with activity. Orthostatic vital 
+signs were negative. EKG not concerning for any ischemia, shows 
+sinus bradycardia. Troponin negative. Serum tox negative. Urine 
+tox negative. TSH normal. BNP only mildly elevated at 372. 
+Lithium not elevated. Echo showed aortic sclerosis, which could 
+cause the murmur. Telemetry showed some PACs but otherwise sinus 
+bradycardia. Lyme titer still pending at time of discharge, and 
+came back negative. 
+
+___
+The patient's baseline Cr is 0.8. His Cr on presentation was 
+2.2. He received 2L of IVF. Likely pre-renal in the setting of 
+hypovolemia and Lisinopril use. FeNa of 0.9% suggesting 
+pre-renal etiology. CK normal. ___ responded to 2L IVF. His 
+lisinopril was held at discharge. Consider starting an alternate 
+anti-hypertensive like amlodipine. 
+
+# Dizziness
+Likely secondary to hypovolemia as this resolved with IV fluids. 
+Orthostatic vital signs were negative. 
+
+#Muscle cramping
+Patient reported several weeks of muscle cramping relieved by 
+flexeril. Electrolytes within normal limits. Likely in setting 
+of dehydration. CK normal. Resolved with IVF.
+
+#Iron Deficiency Anemia
+#S/p gastric bypass
+#Anastomotic ulcer
+Patient is s/p gastric bypass surgery in ___. He was found to 
+be iron deficient in ___ and received IV iron infusions. EGD in 
+___ showed large anastamotic ulcer, and patient was started on 
+pantoprazole. After 4 weeks, a repeat EGD showed resolution of 
+the ulcer, and he stopped taking pantoprazole. B12 check in 
+___ was within normal limits. Corrected reticulocyte index is 
+1.1, which suggest that the bone marrow is not responding 
+appropriately to anemia. Folate and B12 are normal. Iron was 
+normal at 91. Ferritin mildly low at 29. TIBC and Transferrin 
+were normal.
+
+TRANSITIONAL ISSUES
+===================
+- Lisinopril held at discharge because of ___. Consider starting 
+an alternate antihypertensive like amlodipine. 
+- Although iron levels were normal, ferritin levels were low. 
+Patient may benefit from repeat iron studies in ___ months. 
+
+#CONTACT: ___ (wife) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. HELD- Lisinopril 20 mg PO DAILY  This medication was held. Do 
+not restart Lisinopril until you are told to do so by your 
+primary care doctor
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+- Dizziness
+- ___
+- Hypovolemia
+
+Secondary Diagnosis:
+- Iron deficiency anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+You were hospitalized at ___. 
+
+Why did you come to the hospital?
+=================================
+- You were sent to the hospital by your primary care doctor 
+because of low heart rate and low blood pressure.
+
+What did we do for you?
+=======================
+- We gave you IV fluids, and your dizziness and muscle cramping 
+improved. 
+- You had an ultrasound of your heart (echocardiogram). It 
+showed scarring around one of the valves of your heart (aortic 
+sclerosis), which can cause a heart murmur. 
+- Your heart rates were monitored on a heart monitor. They were 
+low, but they increased into the normal range when you walked 
+around. 
+
+What do you need to do?
+=======================
+- It is very important that you follow-up with your primary care 
+doctor ___ information below).
+- STOP taking lisinopril until you follow-up with your primary 
+care doctor
+- Drink a lot of fluids. Drink as you are thirsty to make sure 
+that you don't become too dehydrated. 
+
+It was a pleasure caring for you. We wish you the best!
+
+Sincerely,
+Your ___ Medicine Team. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10348382-DS-8 | hadm_id=27710043
+
+ 
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+large bowel obstruction
+ 
+Major Surgical or Invasive Procedure:
+Sigmoidoscopy
+ 
+History of Present Illness:
+___ prior RNYGB+CCY ___ who presents to the ED with LBO. Of 
+significance, patient started to experience weakness and has not 
+had a BM since ___. Patient also has not passed gas in the past 
+few days.Patient denies nausea/vomiting/fever/chills. Patient 
+tolerated regular meals well in the past 2 days. Patient at 
+baseline has lost weight since his surgery, and currently 
+remains active. Of importance, patient's last colonoscopy was 
+___ which demonstrated a 2cm polyp 20cm from the anal verge. In 
+the ED patient had a CT A/P which demonstrated marked dilation 
+of the colon, with cecum dilated to 12cm with focal transition 
+point at the proximal sigmoid colon, where there may be a 
+stricture,concerning for malignancy. 
+
+ 
+Past Medical History:
+PMH: HTN, OSA, morbid obesity
+
+PSH: eye surgery ___, RNYGB+CCY ___ ( ___
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+GEN: NAD
+HEENT: NCAT, EOMI, anicteric
+CV: RRR, No JVD
+PULM: normal excursion, no respiratory distress
+ABD: soft, NT, ND, no mass, no hernia
+EXT: WWP, no CCE, 2+ B/L radial
+NEURO: A&Ox3, no focal neurologic deficits
+PSYCH: normal judgment/insight, normal memory, normal 
+mood/affect
+
+ 
+Pertinent Results:
+___ 07:18AM BLOOD WBC-5.7 RBC-4.89 Hgb-11.3* Hct-39.0* 
+MCV-80* MCH-23.1* MCHC-29.0* RDW-18.2* RDWSD-51.3* Plt ___
+___ 08:05AM BLOOD WBC-5.5 RBC-4.75 Hgb-11.2* Hct-38.0* 
+MCV-80* MCH-23.6* MCHC-29.5* RDW-17.7* RDWSD-50.8* Plt ___
+___ 07:50AM BLOOD WBC-6.3 RBC-4.64 Hgb-10.7* Hct-36.8* 
+MCV-79* MCH-23.1* MCHC-29.1* RDW-17.6* RDWSD-49.9* Plt ___
+___ 12:55PM BLOOD Glucose-84 UreaN-7 Creat-0.8 Na-145 K-3.8 
+Cl-105 HCO3-30 AnGap-10
+___ 07:18AM BLOOD Glucose-159* UreaN-6 Creat-0.9 Na-146 
+K-3.2* Cl-106 HCO3-28 AnGap-12
+___ 11:20PM BLOOD Glucose-109* UreaN-7 Creat-0.8 Na-145 
+K-3.1* Cl-106 HCO3-28 AnGap-11
+___ 12:55PM BLOOD Calcium-8.7 Phos-1.8* Mg-2.0
+___ 07:18AM BLOOD Calcium-8.8 Phos-2.1* Mg-2.0
+___ 07:50AM BLOOD Calcium-8.5 Phos-3.5 Mg-2.4
+___ 04:30PM BLOOD Albumin-4.5 Calcium-9.4 Phos-3.6 Mg-2.4
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo M PMHx obesity sp RYGBP who presents 
+with sigmoid narrowing causing large bowel obstruction with area 
+concerning for benign vs malignant stricture. He was admitted to 
+the colorectal service, NPO with fluids, serial abdominal exams 
+and stable. HD#2, patient underwent GI endoscopic stent 
+placement,3 cm mass was seen and biopsied, pathology pending. 
+Following procedure, patient diet was advanced to clears and 
+tolerated well. He was started on bowel regimen, Miralax daily. 
+HD#3, diet was advanced to regular, low residue and tolerated 
+well. HD#4 He was started on prophylaxis Lovenox 40 mg SC bid 
+for preoperative surgical plan.
+Electrolytes were monitored closely and noted to have 
+hypokalemia and received potassium repletion and monitored on 
+telemetry. By HD#5, potassium had normalized to 3.8. 
+At time of discharge, patient was doing well, tolerating a diet, 
+passing gas and having bowel movements. He was discharged home 
+on prophylaxis Lovenox injections, timing of surgery to be 
+determined by Dr. ___.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. LamoTRIgine 200 mg PO DAILY 
+2. amLODIPine 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 40 mg SC BID  Prophylaxis  
+RX *enoxaparin 40 mg/0.4 mL 1 syringe sc twice a day Disp #*30 
+Syringe Refills:*0 
+2.  Gabapentin 600 mg PO QHS Duration: 2 Doses 
+RX *gabapentin 600 mg 1 capsule(s) by mouth once a day Disp #*5 
+Tablet Refills:*0 
+3.  MetroNIDAZOLE 500 mg PO Q8H preop 
+RX *metronidazole [Flagyl] 500 mg 1 tablet(s) by mouth once a 
+day Disp #*4 Tablet Refills:*0 
+4.  Neomycin Sulfate 500 mg PO AS DIRECTED  
+as directed in the pre-operative preparation 
+RX *neomycin 500 mg 1 tablet(s) by mouth once a day Disp #*8 
+Tablet Refills:*0 
+5.  amLODIPine 5 mg PO DAILY  
+6.  LamoTRIgine 200 mg PO DAILY  
+7.  Tamsulosin 0.4 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+LARGE BOWEL OBSTRUCTION
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted to the hospital for large bowel obstruction 
+and underwent GI endoscopic stent, a 3 cm mass was seen in the 
+sigmoid colon which was biopsied and results pending at 
+discharge. Your diet was slowly advanced to clear liquids to 
+regular diet and tolerated well. You were also started on bowel 
+regimen, Colace and Miralax that you should continue to take as 
+prescribed. During this admission, your potassium levels were 
+low and treated with potassium supplements. Your potassium 
+levels have since normalized.
+
+You are being discharged home on Lovenox injections to prevent 
+blood clots in preparation for your surgery. You will take this 
+medication for a total of 30 days (including doses in hospital), 
+please finish the entire prescription. Please monitor for any 
+signs of bleeding: fast heart rate, bloody bowel movements, 
+abdominal pain, bruising, feeling faint or weak. If you have any 
+of these symptoms please call our office or seek medical 
+attention immediately. Please avoid any contact activity and 
+take extra caution to avoid falling while taking Lovenox.  
+
+Best wishes,
+Your ___ Care Team
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10348382-DS-9 | hadm_id=28663153
+
+ 
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+sigmoid cancer
+ 
+Major Surgical or Invasive Procedure:
+laparoscopic converted to open sigmoid colectomy
+
+ 
+History of Present Illness:
+___ with a history of morbid obesity s/p RNYGB + CCY in ___, 
+recent admission for large bowel obstruction, biopsy-proven 
+adenocarcinoma s/p endoscopic stent placement (___), with 
+resection planned for ___ who presents with abdominal pain. 
+The patient finished his bowel prep today but developed 
+worsening abdominal pain and nausea in the setting of no BMs. He 
+has continued to pass gas but no bowel movements despite 
+finishing 2L of bowel prep.
+
+The patient is clinically well-appearing and in no acute 
+distress. He denies fevers/chills, chest pain ,shortness of 
+breath, change in urinary habits, BRBPR. 
+
+ROS:
+(+) per HPI
+(-) Denies pain, fevers chills, night sweats, unexplained weight 
+loss, fatigue/malaise/lethargy, changes in appetite, trouble 
+with sleep, pruritis, jaundice, rashes, bleeding, easy 
+bruising,headache, dizziness, vertigo, syncope, weakness, 
+paresthesias, nausea, vomiting, hematemesis, bloating, cramping, 
+melena, BRBPR, dysphagia, chest pain, shortness of breath, 
+cough, edema, urinary frequency, urgency
+
+ 
+Past Medical History:
+PMH: HTN, OSA, morbid obesity
+
+PSH: eye surgery ___, RNYGB+CCY ___ ( ___
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+On Admission
+General: AAOx3
+Cardiac: WNL
+Respiratory: RA, equal breath sounds
+Abdomen: Soft, non-tender, 
+Skin: No lesions
+
+On Discharge:
+GEN: NAD
+HEENT: NCAT, EOMI, anicteric
+CV: RRR, No JVD
+PULM: normal excursion, no respiratory distress
+ABD: soft, NT, ND, no mass, no hernia, midline incision  c/d/i
+EXT: WWP, no CCE, 2+ B/L radial
+NEURO: A&Ox3, no focal neurologic deficits
+PSYCH: normal judgment/insight, normal memory, normal 
+mood/affect
+
+ 
+Pertinent Results:
+___ 06:15AM BLOOD WBC-9.2 RBC-4.02* Hgb-9.3* Hct-33.1* 
+MCV-82 MCH-23.1* MCHC-28.1* RDW-18.9* RDWSD-56.6* Plt ___
+___ 01:50PM BLOOD WBC-11.7* RBC-4.31* Hgb-10.2* Hct-34.9* 
+MCV-81* MCH-23.7* MCHC-29.2* RDW-18.7* RDWSD-54.4* Plt ___
+___ 01:54AM BLOOD WBC-4.8 RBC-4.82 Hgb-11.2* Hct-38.1* 
+MCV-79* MCH-23.2* MCHC-29.4* RDW-18.6* RDWSD-52.9* Plt ___
+___ 05:29AM BLOOD WBC-8.8 RBC-4.71 Hgb-10.8* Hct-37.1* 
+MCV-79* MCH-22.9* MCHC-29.1* RDW-18.6* RDWSD-52.2* Plt ___
+___ 08:11PM BLOOD WBC-11.1* RBC-5.64 Hgb-13.0* Hct-43.7 
+MCV-78* MCH-23.0* MCHC-29.7* RDW-19.0* RDWSD-50.1* Plt ___
+___ 08:11PM BLOOD Neuts-76.2* Lymphs-12.7* Monos-8.2 
+Eos-2.1 Baso-0.4 Im ___ AbsNeut-8.46* AbsLymp-1.41 
+AbsMono-0.91* AbsEos-0.23 AbsBaso-0.04
+___ 06:15AM BLOOD Glucose-109* UreaN-15 Creat-0.9 Na-141 
+K-4.4 Cl-98 HCO3-32 AnGap-11
+___ 08:11PM BLOOD Glucose-129* UreaN-7 Creat-0.8 Na-142 
+K-3.2* Cl-102 HCO3-26 AnGap-14
+___ 05:29AM BLOOD ALT-145* AST-237* AlkPhos-157* 
+TotBili-1.1
+___ 08:11PM BLOOD ALT-122* AST-192* AlkPhos-151* 
+TotBili-0.7
+___ 01:50PM BLOOD CRP-99.8*
+___ 01:54AM BLOOD CRP-15.7*
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ with obstructing sigmoid adenocarcinoma 
+s/p endoscopic ___ now s/p laparoscopic hand assisted 
+converted to open sigmoid colectomy on ___. Per operative 
+report, first anastomosis with defect and stool leakage, second 
+anastomosis intact rings and leak test negative x2.  Refer to 
+operative report for complete details of surgery. After a brief 
+and uneventful stay in the PACU, the patient was transferred to 
+the floor for further post-operative management.
+Neuro: Pain was well controlled on Tylenol and tramadol for 
+breakthrough pain.
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.
+Pulm: The patient remained stable from a pulmonary standpoint; 
+oxygen saturation was routinely monitored. He had good pulmonary 
+toileting, as early ambulation and incentive spirometry were 
+encouraged throughout hospitalization.
+GI: The patient was initially kept NPO after the procedure. The 
+patient was advanced to and tolerated a regular diet. Patient's 
+intake and output were closely monitored.
+GU: The patient had a Foley catheter that was removed prior to 
+discharge. At time of discharge, the patient was voiding without 
+difficulty. Urine output was monitored as indicated.
+ID: The patient was closely monitored for signs and symptoms of 
+infection and fever, of which there was none.
+Heme: The patient received subcutaneous heparin and ___ dyne 
+boots during this stay. He was encouraged to get up and ambulate 
+as early as possible. The patient is being discharged on 
+prophylactic Lovenox. 
+On ___, the patient was discharged to home. At discharge, he 
+was tolerating a regular diet, passing flatus, voiding, and 
+ambulating independently. He will follow-up in the clinic in ___ 
+weeks. This information was communicated to the patient directly 
+prior to discharge.
+Post-Surgical Complications During Inpatient Admission:
+[ ] Post-Operative Ileus resolving w/o NGT
+[ ] Post-Operative Ileus requiring management with NGT
+[ ] UTI
+[ ] Wound Infection
+[ ] Anastomotic Leak
+[ ] Staple Line Bleed
+[ ] Congestive Heart failure
+[ ] ARF
+[ ] Acute Urinary retention, failure to void after Foley D/C'd
+[ ] Acute Urinary Retention requiring discharge with Foley 
+Catheter
+[ ] DVT
+[ ] Pneumonia
+[ ] Abscess
+[x] None
+Social Issues Causing a Delay in Discharge:
+[ ] Delay in organization of ___ services
+[ ] Difficulty finding appropriate rehab hospital disposition.
+[ ] Lack of insurance coverage for ___ services
+[ ] Lack of insurance coverage for prescribed medications.
+[ ] Family not agreeable to discharge plan.
+[ ] Patient knowledge deficit related to ileostomy delaying 
+dispo
+[x] No social factors contributing in delay of discharge.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. LamoTRIgine 200 mg PO DAILY 
+3. Tamsulosin 0.4 mg PO QHS 
+4. MetroNIDAZOLE 500 mg PO Q8H preop 
+5. Neomycin Sulfate 500 mg PO AS DIRECTED  
+6. Gabapentin 600 mg PO QHS 
+7. Enoxaparin Sodium 40 mg SC Q12H 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. LamoTRIgine 200 mg PO DAILY 
+3. Tamsulosin 0.4 mg PO QHS 
+4. MetroNIDAZOLE 500 mg PO Q8H preop 
+5. Neomycin Sulfate 500 mg PO AS DIRECTED  
+6. Gabapentin 600 mg PO QHS 
+7. Enoxaparin Sodium 40 mg SC Q12H 
+Start: ___, First Dose: Next Routine Administration Time 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  TraMADol 50-100 mg PO Q4H:PRN Pain - Moderate 
+RX *tramadol 50 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0 
+3.  Enoxaparin Sodium 40 mg SC Q12H 
+Start: ___, First Dose: Next Routine Administration Time 
+RX *enoxaparin 40 mg/0.4 mL 40 mg SC twice a day Disp #*56 
+Syringe Refills:*0 
+4.  amLODIPine 5 mg PO DAILY  
+5.  Gabapentin 600 mg PO QHS  
+6.  LamoTRIgine 200 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+sigmoid cancer 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+You were admitted to the hospital after an laparoscopic 
+converted to open sigmoid colectomy for surgical management of 
+your sigmoid cancer. You have recovered from this procedure and 
+you are now ready to return home. 
+Please monitor your bowel function closely. You may or may not 
+have had a bowel movement prior to discharge which is 
+acceptable; however it is important that you have a bowel 
+movement in the next ___ days. After anesthesia it is not 
+uncommon for patients to have some decrease in bowel function 
+but you should not have prolonged constipation. However, you may 
+have loose stool and passing of small amounts of dark, old 
+appearing blood. If you notice that you are passing bright red 
+blood with bowel movements or having large amounts of loose 
+stool without improvement please call the office or go to the 
+emergency room. 
+You have a long vertical surgical incision on your abdomen. It 
+is important that you monitor these areas for signs and symptoms 
+of infection including: increasing redness of the incision 
+lines, white/green/yellow/foul smelling drainage, increased pain 
+at the incision, increased warmth of the skin at the incision, 
+or swelling of the area.
+You may shower; pat the incisions dry with a towel, do not rub.  
+If you have steri-strips (the small white strips), they will 
+fall off over time, please do not remove them. Please do not 
+take a bath or swim until cleared by the surgical team.
+Pain is expected after surgery. This will gradually improve over 
+the first week or so you are home.  You should continue to take 
+2 Extra Strength Tylenol (___) for pain every 8 hours around 
+the clock. Please do not take more than 3000mg of Tylenol in 24 
+hours or any other medications that contain Tylenol such as cold 
+medication. Do not drink alcohol while taking Tylenol.  You may 
+also take Advil (Ibuprofen) 600mg every 8 hours for 7 days. 
+Please take Advil with food. If these medications are not 
+controlling your pain to a point where you can ambulate and 
+perform minor tasks, you should take a dose of the narcotic pain 
+medication Tramadol.  Please do not take sedating medications, 
+drink alcohol, or drive while taking the narcotic pain 
+medication.
+You may feel weak or "washed out" for up to 6 weeks after 
+surgery. Do not lift greater than a gallon of milk for 3 weeks. 
+At your post op appointment, your surgical team will clear you 
+for heavier exercise.  In the meantime, you may climb stairs, 
+and go outside and walk.  Please avoid traveling long distances 
+until you speak with your surgical team at your post-op visit.
+
+You are being discharged home on Lovenox injections to prevent 
+blood clots after surgery. You will take this medication for a 
+total of 30 days (including doses in hospital), please finish 
+the entire prescription. Please monitor for any signs of 
+bleeding: fast heart rate, bloody bowel movements, abdominal 
+pain, bruising, feeling faint or weak. If you have any of these 
+symptoms please call our office or seek medical attention 
+immediately. Please avoid any contact activity and take extra 
+caution to avoid falling while taking Lovenox.  
+
+Thank you for allowing us to participate in your care, we wish 
+you all the best! 
+
+ 
+Followup Instructions:
+___

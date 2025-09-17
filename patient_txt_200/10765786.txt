@@ -1,0 +1,892 @@
+===== DISCHARGE NOTE =====
+note_id=10765786-DS-16 | hadm_id=24983535
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+ETT-MIBI (Exercise Stress Test)
+
+ 
+History of Present Illness:
+ 
+HISTORY OF PRESENTING ILLNESS:  
+
+Mr ___ is a ___ y/o M with PMH significant for CAD (s/p DES to
+___ LAD in ___, HTN, HLD, who presents for chest pain. 
+
+Of note, this is a patient of Dr ___. In ___ he suffered
+an NSTEMI with angiography showing total occlusion of the
+proximal LAD which was stented successfully with a 3.0 x 12 mm
+Promus drug-eluting stent. Otherwise there was 50% disease in 
+the
+circumflex, ramus and less in the right coronary.
+Echocardiography initially showed anteroapical akinesis with an
+ejection fraction of 31%. A subsequent echocardiogram on
+___ showed persistence of anteroseptal and lateral
+hypokinesis and apical akinesis but with ejection fraction
+increased to 55%. He has had occaisonal chest pain since this
+time, and underwent cardiac cath in ___ which showed patent
+stent and otherwise stable disease. 
+
+Patient notes that for the last few months he has had occasional
+on and off chest pain.  The pain is described as in his upper
+chest especially on the left side.  It is a dull aching 
+pressure.
+It is not clearly induced by activity and does not clearly go
+away with rest.  Episodes last for hours.  Is better over the
+last 2 weeks, however and within last 24 hours it started he 
+once
+again and this time radiated into his back.  Given his ongoing
+symptoms, he presented to the emergency room.  An EKG did not
+reveal any evidence of acute ischemia.  Troponins x2 were
+negative.  Patient was then discussed with the cardiology 
+fellow,
+and is ultimately admitted for stress test.
+
+ 
+Past Medical History:
+- HTN
+- HLD
+- CAD s/p PCI (DES to LAD on ___ 
+- HCV s/p interferon 
+ 
+Social History:
+___
+Family History:
+- Father with pacemaker and colon CA
+- Mother with breast CA
+- No family history of early MI, cardiomyopathies, or 
+sudden cardiac death. 
+ 
+Physical Exam:
+GEN: Well appearing, NAD
+HEENT: Conjunctiva clear, PERRL, MMM
+NECK: No JVD. 
+LUNGS: CTAB
+HEART: RRR, nl S1, S2. No m/r/g.
+ABD: NT/ND, normal bowel sounds. 
+EXTREMITIES: No edema. WWP.
+SKIN: No rashes.
+NEURO: AOx3. 
+ 
+
+ 
+Pertinent Results:
+Admission Labs
+==============
+
+___ 07:45AM BLOOD WBC-7.4 RBC-4.87 Hgb-14.5 Hct-43.8 MCV-90 
+MCH-29.8 MCHC-33.1 RDW-12.9 RDWSD-41.9 Plt ___
+___ 07:45AM BLOOD Neuts-68.5 Lymphs-18.7* Monos-10.4 
+Eos-1.6 Baso-0.4 Im ___ AbsNeut-5.09 AbsLymp-1.39 
+AbsMono-0.77 AbsEos-0.12 AbsBaso-0.03
+___ 07:45AM BLOOD Plt ___
+___ 07:45AM BLOOD Glucose-103* UreaN-17 Creat-1.0 Na-140 
+K-5.0 Cl-104 HCO3-25 AnGap-11
+___ 07:45AM BLOOD cTropnT-<0.01
+
+Discharge Labs
+==============
+
+___ 06:47AM BLOOD WBC-6.2 RBC-5.03 Hgb-15.0 Hct-46.3 MCV-92 
+MCH-29.8 MCHC-32.4 RDW-13.1 RDWSD-43.7 Plt ___
+___ 06:47AM BLOOD Plt ___
+___ 06:47AM BLOOD ___ PTT-37.6* ___
+___ 06:47AM BLOOD Glucose-106* UreaN-18 Creat-0.9 Na-140 
+K-4.1 Cl-101 HCO3-27 AnGap-12
+___ 06:47AM BLOOD Calcium-9.6 Phos-3.5 Mg-2.0
+
+Exercise Stress Test
+  
+INTERPRETATION: This ___ year old man with h/o CAD s/p MI and LAD 
+
+stent in ___ was referred to the lab for evaluation of chest 
+discomfort. He exercised for 10 minutes and 30 seconds on 
+modified ___ 
+protocol and stopped for fatigue. The peak estimated MET 
+capacity is 
+8.7, which represents an average exercise tolerance for his age. 
+No 
+chest, arm, neck or back discomfort reported. No significant ST 
+segment 
+changes noticed. Rhythm was sinus with frequent isolated APBs 
+and rare 
+atrial couplets in early recovery. Appropriate HR and BP 
+response to 
+exercise and recovery. 
+IMPRESSION : No anginal symptoms or ischemic EKG changes to the 
+achieved 
+workload. Nuclear report sent separately. 
+
+ 
+Brief Hospital Course:
+Patient Summary
+===============
+Mr ___ is a ___ y/o M with PMH significant for CAD (s/p DES to
+___ LAD in ___, HTN, HLD, who presented for chest pain and 
+underwent an ETT-MIBI which showed: EF 46%, no symptoms or ECG 
+changes, large fixed perfusion defect in mid/apical segment in 
+LAD territory (consistent with old infarct in ___. Hypokinesis 
+of anterior wall, akinesis of apex.
+
+Acute Issues
+============
+# CAD (s/p DES in ___ to ___ LAD)
+Pt presented with several months of atypical chest pain that
+acutely worsened on ___ evening. The pain is not reproduced
+with activity or relieved with rest. His EKG does not show any
+evidence of active ischemia and his troponins were negative x2.
+However, given his significant coronary artery disease history,
+he was admitted to undergo cardiac stress testing. His home 
+aspirin and atorvastatin were continued. He had an exercise 
+stress test which showed no new changes from prior. 
+
+Chronic Issues
+==============
+#Hypertension
+Home lisinopril and carvedilol were continued.
+
+#Hyperlipidemia
+Home atorvastatin was continued.
+
+Transitional Issues
+===================
+none
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 5 mg PO DAILY 
+2. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+3. CARVedilol 3.125 mg PO BID 
+4. Atorvastatin 80 mg PO QPM 
+5. Multivitamins 1 TAB PO DAILY 
+6. Nitroglycerin SL 0.3 mg SL PRN chest pain 
+7. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 80 mg PO QPM  
+4.  CARVedilol 3.125 mg PO BID  
+5.  Lisinopril 5 mg PO DAILY  
+6.  Multivitamins 1 TAB PO DAILY  
+7.  Nitroglycerin SL 0.3 mg SL PRN chest pain  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis 
+=================
+Unstable Angina
+Coronary Artery Disease
+
+Secondary Diagnosis
+===================
+Hypertension
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital because you had intermittent 
+chest pain. Please see below for more information on your 
+hospitalization. It was a pleasure participating in your care!  
+ 
+What happened while you were in the hospital?  
+- You had a stress test which was to assess how your heart 
+functioned under stress. It showed EF 46%, no symptoms or ECG 
+changes, large fixed perfusion defect in mid/apical segment in 
+LAD territory (consistent with old infarct in ___. Hypokinesis 
+of anterior wall, akinesis of apex. There was no need for any 
+intervention, so you were discharged home. All of your home 
+medications were continued in the hospital.  
+
+What should you do after leaving the hospital?  
+- Please take your medications as listed below and follow up at 
+the listed appointments. 
+
+We wish you the best!
+- Your ___ Healthcare Team 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10765786-DS-15 | hadm_id=25351103
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___
+ 
+Major Surgical or Invasive Procedure:
+EGD ___
+ 
+History of Present Illness:
+___ male with PMHx of HTN, HLD, CAD w/ MI in ___ s/p 
+DES to LAD and HCV s/p interferon over ___ years ago presenting 
+to the ED for evaluation of dark black stool. The patient 
+reports that about 2 weeks ago he started to notice that he 
+would get lightheaded when he stood up. He also had associated 
+SOB, fatigue, and felt that his hands and feet were getting 
+cooler than usual. On ___ afternoon he noted a dark black 
+bowel movement and on ___ was dizzy at cardiac rehab. This 
+morning he woke up with nausea, fevers and chills and had a 
+episode of clear emesis. He has never had anything like this 
+before and has no history of stomach ulcers. He otherwise denies 
+chest pain, headache, hematemesis, hemoptysis, alcohol use or 
+NSAID use recently except for his daily baby aspirin. 
+Of note he was on Coumadin after his MI in ___ but that was 
+stopped ___. He is now on Ticagrelor and aspirin 81 daily. 
+  
+He has no history of GI bleed but does have a family history of 
+colon cancer. His last colonoscopy was ___ years ago and was 
+unremarkable. Of note, patient measured his blood pressure today 
+and was systolics in the ___ which is unusual for him he is 
+usually in the 110-120s. His resting pulse is usually also in 
+the ___ and is currently much higher. 
+
+ 
+In ED initial VS:  97.9, 95, 111/72, 16, 100% RA  
+Exam: Pale in color, guaiac positive dark black stool, no 
+abdominal tenderness
+Patient was given:  
+- ___ 10:20 1 liter IVF  NS    
+- ___ 10:55 IV BOLUS Pantoprazole 80 mg   
+- ___ 10:55 IV DRIP Pantoprazole 8 mg/hr 
+- 2 units PRBCs 
+Consults:  ___, ___ in ICU
+VS prior to transfer:  98.3, 68, 114/62, 16, 100% RA 
+ 
+ 
+On arrival to the MICU, the patient appears well and his vitals 
+are stable, he has no complaints and feels better after 2 units 
+of PRBCs in the ED. 
+ 
+Past Medical History:
+- HTN
+- HLD
+- CAD s/p PCI (DES to LAD on ___ 
+- HCV s/p interferon 
+ 
+Social History:
+___
+Family History:
+- Father with pacemaker and colon CA
+- Mother with breast CA
+- No family history of early MI, cardiomyopathies, or 
+sudden cardiac death. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VITALS: afebrile, 159/70, 89, 19, 100% RA
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, obese, non-distended, mild tenderness to deep 
+palpation of the LLQ
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN:  no rash
+NEURO:  CN grossly intact, moving all extremities
+
+DISCHARGE PHYSICAL EXAM:
+Vitals:  98.5, 102/64, 70, 18 99% RA  
+General: alert, oriented, no acute distress  
+HEENT: sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNs2-12 intact, motor function grossly normal  
+ 
+
+ 
+Pertinent Results:
+ADMISSION / PERTINENT LABS:
+=================================
+
+___ 10:05AM BLOOD WBC-7.4 RBC-2.34*# Hgb-7.2*# Hct-21.3*# 
+MCV-91 MCH-30.8 MCHC-33.8 RDW-14.3 RDWSD-46.9* Plt ___
+___ 10:05AM BLOOD Neuts-77.4* Lymphs-15.6* Monos-6.1 
+Eos-0.3* Baso-0.1 Im ___ AbsNeut-5.71# AbsLymp-1.15* 
+AbsMono-0.45 AbsEos-0.02* AbsBaso-0.01
+___ 10:05AM BLOOD ___ PTT-29.4 ___
+___ 10:05AM BLOOD Glucose-155* UreaN-48* Creat-0.6 Na-131* 
+K-4.1 Cl-99 HCO3-22 AnGap-14
+___ 04:15AM BLOOD ALT-30 AST-26 LD(LDH)-116 AlkPhos-46 
+TotBili-0.7
+___ 04:24PM BLOOD CK-MB-2 cTropnT-<0.01
+___ 04:15AM BLOOD CK-MB-4 cTropnT-<0.01
+___ 10:05AM BLOOD Calcium-8.5 Phos-2.5* Mg-1.6
+___ 04:32PM BLOOD ___ pO2-22* pCO2-41 pH-7.38 
+calTCO2-25 Base XS--1
+___ 04:32PM BLOOD Lactate-1.1 K-4.1
+
+CBC TREND
+=============
+___ 10:05AM BLOOD WBC-7.4 RBC-2.34*# Hgb-7.2*# Hct-21.3*# 
+MCV-91 MCH-30.8 MCHC-33.8 RDW-14.3 RDWSD-46.9* Plt ___
+___ 04:24PM BLOOD WBC-7.6 RBC-2.75* Hgb-8.7* Hct-25.3* 
+MCV-92 MCH-31.6 MCHC-34.4 RDW-14.7 RDWSD-48.9* Plt ___
+___ 08:50PM BLOOD WBC-8.1 RBC-2.62* Hgb-8.4* Hct-24.1* 
+MCV-92 MCH-32.1* MCHC-34.9 RDW-14.6 RDWSD-48.2* Plt ___
+___ 04:15AM BLOOD WBC-8.6 RBC-2.73* Hgb-8.6* Hct-25.2* 
+MCV-92 MCH-31.5 MCHC-34.1 RDW-14.8 RDWSD-49.1* Plt ___
+___ 03:16PM BLOOD WBC-6.6 RBC-2.48* Hgb-7.7* Hct-23.2* 
+MCV-94 MCH-31.0 MCHC-33.2 RDW-14.8 RDWSD-50.4* Plt ___
+___ 07:13AM BLOOD WBC-6.3 RBC-2.50* Hgb-8.0* Hct-23.7* 
+MCV-95 MCH-32.0 MCHC-33.8 RDW-15.3 RDWSD-51.5* Plt ___
+
+URINE STUDIES:
+======================
+___ 11:15AM URINE Color-Straw Appear-Clear Sp ___
+___ 11:15AM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+
+IMAGING:
+==============
+CXR ___
+FINDINGS:  
+Endotracheal tube tip is 4 cm above carina.  Shallow inspiration 
+accentuates 
+heart size.  Normal pulmonary vascularity.  No edema.  Minimal 
+basilar 
+atelectasis.  No consolidations.  No sizable effusion.  No 
+pneumothorax. 
+IMPRESSION:  
+Endotracheal tube tip in good position. 
+Minimal basilar opacities, likely atelectasis. 
+
+EGD ___
+Findings: 
+Esophagus: Normal esophagus. 
+Stomach:  
+ Contents: Red blood was seen in the antrum.  
+Duodenum:  
+ Mucosa: Localized erythema and erosions of the mucosa were 
+noted in the duodenal bulb compatible with erosive duodenitis.  
+ Excavated Lesions A single cratered 15 mm ulcer with overlying 
+clot was found in the duodenal bulb. Additional findings include 
+heaped-up margins. 3 10 cc.Epinephrine ___ injections were 
+applied for hemostasis with success. Two endoclips were 
+successfully applied for the purpose of hemostasis.  
+Impression: Blood in the antrum
+Erythema and erosions in the duodenal bulb compatible with 
+erosive duodenitis
+Ulcer in the duodenal bulb (injection, endoclip)
+Otherwise normal EGD to third part of the duodenum 
+Recommendations: GI consult service to discuss with inpatient 
+primary team.
+Continue max dose twice daily PPI
+Repeat EGD in 12 weeks
+Send H. Pylori stool antigen and treat if positive 
+
+ 
+Brief Hospital Course:
+___ male with PMHx of HTN, HLD, CAD w/ MI in ___ s/p 
+DES to LAD and HCV s/p interferon over ___ years ago who 
+presented to the ED for evaluation of dark black stool. 
+
+# Duodenal ulcer: Admission was preceded by about 2 weeks of 
+lightheadedness with associated SOB, one day of dark bloody 
+stool, and one day of dizziness. He continued on asa and 
+ticagrelor during this time. In the ED hgb was 7.2, stool guiac 
+positive, and he was given 2 U PRBCs and started on pantoprazole 
+IV. Transferred to MICU where he underwent EGD which showed: 
+- Blood in the antrum
+- Erythema and erosions in the duodenal bulb compatible with 
+erosive duodenitis
+- Ulcer in the duodenal bulb (injection, endoclip)
+He had no further bleeding after EGD, and diet was advanced 
+prior to transfer to the floor. His home anticoagulation was 
+restarted. He was transitioned to PO pantoprazole 40 mg BID.
+
+Chronic issues: 
+
+#CAD  
+ - cont home ASA, ticagrelor, atorva 
+
+#HTN  
+ - cont home lisinopril and carvedilol
+
+TRANSITIONAL ISSUES:
+-Discharge hgb: 8.0; repeat at next appointment. 
+-H pylori pending at discharge, to be followed up by PCP.
+-Needs repeat EGD at 12 weeks as there was no clear trigger for 
+his bleed, no biopsies taken, and patient was over age ___.
+-Continue 40 pantoprazole BID at least up to follow up with GI
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 10 mg PO DAILY 
+2. Carvedilol 3.125 mg PO BID 
+3. Atorvastatin 80 mg PO QPM 
+4. Multivitamins 1 TAB PO DAILY 
+5. TiCAGRELOR 90 mg PO BID 
+6. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*2 
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 80 mg PO QPM  
+4.  Carvedilol 3.125 mg PO BID  
+5.  Lisinopril 10 mg PO DAILY  
+6.  Multivitamins 1 TAB PO DAILY  
+7.  TiCAGRELOR 90 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+duodenal ulcer
+upper GI bleed
+
+SECONDARY DIAGNOSES
+coronary artery disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted to ___ because of bleeding in your stool. We 
+found that you had a bleeding ulcer in your small intestine. You 
+underwent endoscopy and the ulcer was clipped, and you had no 
+more episodes of bleeding. 
+
+When you leave you will need to take the medication pantoprazole 
+twice per day until you follow up with GI. You will need a 
+repeat endoscopy in 12 weeks. 
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+
+It was a pleasure to care for you,
+Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10765786-DS-14 | hadm_id=28641643
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+
+ 
+Major Surgical or Invasive Procedure:
+cardiac catheterization ___
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with a history of untreated 
+hypertension and loss to follow up from the medical system. He 
+presented with severe substernal chest pain around 3:00pm 
+radiating to bilateral arms as well as back pain.  He was quite 
+concerned and presented to the ___ ED.
+
+In the ED initial vitals were:  T 97.7 HR 66 BP 213/95 RR 16 
+SpO2 100% on room air.  BPs in bilateral arms were concordant.
+ EKG:  Normal sinus rhythm, large ST elevations in the antior 
+precordial leads, I, aVL
+ Labs/studies notable for:  Initial TnT <0.01.
+ Patient was given:  Aspirin 325mg, ticagrelor 180mg, started on 
+nitro gtt
+
+The patient was transferred to the cath lab for primary PCI. The 
+procedure showed:
+
+- LM: is free of significant stenosis.
+- Left Anterior Descending: a 100% stenosis in the Proximal LAD. 
+The lesion has a TIMI flow of 0 and has mild calcification
+noted. This lesion is further described as tubular. An 
+intervention was performed on the Proximal LAD with a final 
+stenosis of 0%. There were no lesion complications.
+- Circumflex: 50% mid stenosis
+- Ramus intermedius with 50% mid stenosis.
+- RCA: diffuse ___ stenosis.
+
+After stenting the patient had persistent ST elevation but no 
+chest pain and was sent to the CCU for further monitoring.
+
+On arrival to the CCU the patient was no in pain or short of 
+breath.
+
+ 
+Past Medical History:
+- Hypertension
+ 
+Social History:
+___
+Family History:
+- Father with pacemaker
+- No family history of early MI, cardiomyopathies, or 
+sudden cardiac death.  
+ 
+Physical Exam:
+ADMISSION
+VS: te,p=97.7, Hr=88, BP=175/110, SatO2=99% on RA 
+general: well appearing. no in distress
+heart: no JDV.  normal S1 and S2 no murmurs gallops or rubs
+Chest: symmetrical chest expantion, normal vasicular breathing 
+bilaterally. wheezing or rhonchi
+Abdomen: central obesity. non tender. + BS
+ext: warm and well perfused. 
+
+DISCHARGE PHYSICAL EXAMINATION:  
+ Vitals: 103-120/61-76, 64-77, ___, 97%ra
+GENERAL: WDWN in NAD. Oriented. Mood, affect appropriate.      
+CARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No 
+S3/S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND, protuberant
+EXT: No edema
+ 
+Pertinent Results:
+======================
+ADMISSION LABS
+___ 04:13PM BLOOD WBC-5.8 RBC-5.73 Hgb-16.9 Hct-49.0 MCV-86 
+MCH-29.5 MCHC-34.5 RDW-13.0 RDWSD-39.9 Plt ___
+___ 04:13PM BLOOD Neuts-55.5 ___ Monos-8.7 Eos-1.9 
+Baso-0.5 Im ___ AbsNeut-3.23 AbsLymp-1.92 AbsMono-0.51 
+AbsEos-0.11 AbsBaso-0.03
+___ 04:13PM BLOOD ___ PTT-28.8 ___
+___ 04:13PM BLOOD Glucose-153* UreaN-18 Creat-1.0 Na-140 
+K-4.0 Cl-101 HCO3-25 AnGap-18
+___ 04:13PM BLOOD proBNP-8
+___ 04:13PM BLOOD cTropnT-<0.01
+___ 04:45PM BLOOD cTropnT-0.02*
+___ 11:00PM BLOOD CK-MB-313* MB Indx-8.4* cTropnT-9.88*
+___ 05:00AM BLOOD CK-MB-237* cTropnT-8.02*
+___ 10:11AM BLOOD CK-MB-165* MB Indx-7.6* cTropnT-7.11*
+___ 11:00PM BLOOD CK(CPK)-3737*
+___ 10:11AM BLOOD CK(CPK)-2157*
+___ 04:13PM BLOOD Calcium-9.9 Phos-2.2* Mg-2.0
+
+======================
+MICRO
+None
+
+======================
+STUDIES
+
+___ Cardiovascular C.CATH   ___ ___. 
+Logged Only 
+Intra-procedural Complications: None
+Coronary Anatomy
+Dominance: Right
+* Left Main Coronary Artery
+The LMCA is free of significant stenosis.
+* Left Anterior Descending
+There is a 100% stenosis in the Proximal LAD. The lesion has a 
+TIMI flow of 0 and has mild calcification
+noted. This lesion is further described as tubular. An 
+intervention was performed on the Proximal LAD
+with a final stenosis of 0%. There were no lesion complications.
+* Circumflex
+The Circumflex has 50% mid stenosis
+There is a large ramus intermedius with 50% mid stenosis.
+* Right Coronary Artery
+The RCA has diffuse ___ stenosis.
+Impressions:
+1. Two vessel CAD with total occlusion of LAD.
+2. Successful ___.
+Recommendations
+1. ASA 81 mg daily; Ticagrelor 90 mg BID x 12 months minimum.
+2. High dose statin; ACE inhibitors, Beta blockers.
+
+___ Cardiovascular ECHO   ___ ___. 
+Finalized       
+Conclusions   
+ The left atrium is normal in size. The estimated right atrial 
+pressure is ___ mmHg. There is mild symmetric left ventricular 
+hypertrophy with normal cavity size. There is moderate to severe 
+regional left ventricular systolic dysfunction with near 
+akinesis of the distal half of the septum and anterior walls, 
+and distal inferior wall. The apex is mildly aneurysmal and 
+dyskinetic. The remaining segments contract well/hyperdynamic 
+(quantitative LVEF 31%). No masses or thrombi are seen in the 
+left ventricle. There is no left ventricular outflow obstruction 
+at rest or with Valsalva. There is no ventricular septal defect. 
+The right ventricular cavity size is normal with normal free 
+wall contractility. The diameters of aorta at the sinus, 
+ascending and arch levels are normal. The aortic valve leaflets 
+(3) appear structurally normal with good leaflet excursion and 
+no aortic stenosis. No aortic regurgitation is seen. The mitral 
+valve appears structurally normal with mild [1+] mitral 
+regurgitation. There is no mitral valve prolapse. The pulmonary 
+artery systolic pressure could not be estimated. There is no 
+pericardial effusion. 
+ IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+severe regional systolic dysfunction (apical aneurysm without 
+thrombus) in a pattern most c/w CAD (mid-LAD distribution). Mild 
+mitral regurgitation with normal valve morphology.   
+
+======================
+DISCHARGE LABS
+___ 07:55AM BLOOD WBC-8.7 RBC-4.96 Hgb-14.8 Hct-43.7 MCV-88 
+MCH-29.8 MCHC-33.9 RDW-13.6 RDWSD-43.3 Plt ___
+___ 07:55AM BLOOD Plt ___
+___ 07:55AM BLOOD Glucose-109* UreaN-19 Creat-1.1 Na-135 
+K-4.0 Cl-98 HCO3-22 AnGap-19
+___ 07:55AM BLOOD Calcium-9.1 Phos-3.5 Mg-2.___ yo M with past medical history of hypertension not on any 
+medications, who presented with sudden onset of chest pain, 
+found to have STEMI. Cath showed two vessel CAD with total 
+occlusion of LAD: there was a 100% stenosis in the proximal LAD, 
+the circumflex had 50% mid stenosis, RCA had diffuse ___ 
+stenosis. Patient underwent successful DES to the LAD. Echo 
+showed mild symmetric left ventricular hypertrophy with severe 
+regional systolic dysfunction LVEF 30% (apical aneurysm without 
+thrombus) in a pattern most consistent with CAD (mid-LAD 
+distribution).
+
+SEE DETAILS BELOW BY PROBLEM
+
+# Inferolateral STEMI
+Presented with sudden onset chest pain, dyspnea, diaphoresis, 
+found to have troponin elevated (peak 9.8) and ST elevations on 
+EKG in inferolateral leads, s/p cath found to have 100% stenosis 
+of LAD s/p DES.  On Echo, found to have apical akinesis, and 
+depressed EF 33%.  Treated medically with Ticagrelor 90mg BID, 
+Atorvastatin 80mg, ASA 81mg.  Switched home metoprolol to 
+carvedilol 3.125mg BID for added blood pressure control.  
+Started lisinopril 10mg to decrease afterload/demand.  ___ 
+consulted, recommend outpatient cardiology rehab
+
+#Systolic HF, (EF 33%)
+Ischemic cardiomyopathy with apical akinesis/aneurysm, appears 
+euvolemic on exam, 
+started on lisinopril, carvedilol 3.125mg BID.
+
+#Apical akinesis/aneurysm
+No clot seen on Echo; starting warfarin for prevention.  INR 
+1.4, discharged on Lovenox bridge.
+
+#Hypertension
+Prior past medical history, previously on meds (possibly 
+lisinopril)until without insurance, then on no meds for ___ 
+years.  Well controlled during admission on Lisinopril 10mg and 
+Carvedilol 3.125mg BID
+
+# Hx Hep C: Per patient, treated on interferon with successful 
+remission.  Patient with mild chronic abdominal discomfort on 
+presentation.  HCV positive, which could be consistent with 
+exposure and resolved infection.  Viral load pending at time of 
+discharge
+
+***TRANSITIONAL ISSUES:***
+- Patient should continue ASA 81 mg daily and Ticagrelor 90 mg 
+BID x 12 months minimum
+- Patient was started on warfarin for 3 months for prevention on 
+thromboembolism in the setting of apical akinesis
+- Patient was discharged on ___ bridge (100 mg BID SC), 
+which should be stopped when INR is therapeutic
+- Monitor INR and adjust dose of warfarin as needed
+- Patient should repeat TTE in 4 to 6 weeks
+- Monitor blood pressure and adjust blood pressure medications 
+as needed
+- Patient has HCV antibodies, HCV viral load was pending on 
+discharge; please follow up on this issue and consider further 
+management as needed
+
+NEW MEDICATIONS:
+Aspirin 81 mg once daily
+Ticagrelor 90 mg twice daily
+Warfarin 5 mg once daily
+Lovenox SC 100 mg BID
+Atorvastatin 80 mg once daily
+Carvedilol 3.125 mg BID 
+Lisinopril 10 mg daily
+Nitro under the tongue as needed for chest pain
+
+# CODE: Full code
+# CONTACT: HCP: ___ (wife) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Adult Low Dose Aspirin] 81 mg 1 tablet(s) by mouth 
+once a day Disp #*30 Tablet Refills:*3 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*3 
+3.  Carvedilol 3.125 mg PO BID 
+RX *carvedilol 3.125 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*3 
+4.  Enoxaparin Sodium 100 mg SC BID 
+Start: ___, First Dose: Next Routine Administration Time 
+RX *enoxaparin 100 mg/mL 100 mg SC twice a day Disp #*10 Syringe 
+Refills:*0 
+5.  Lisinopril 10 mg PO DAILY 
+RX *lisinopril 10 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*3 
+6.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+RX *nitroglycerin 0.3 mg 1 tablet(s) sublingually as needed for 
+chest pain Disp #*30 Tablet Refills:*0 
+7.  TiCAGRELOR 90 mg PO BID 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*3 
+8.  ___  MD to order daily dose PO DAILY16 
+RX *warfarin [Coumadin] 1 mg 5 tablet(s) by mouth once a day 
+Disp #*100 Tablet Refills:*3 
+9.  Multivitamins 1 TAB PO DAILY  
+10.Outpatient Lab Work
+Diagnosis: STEMI (ICD10 I21)
+Test: INR
+Date: ___
+Contact: Fax to ___ at F: ___, P: 
+___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+STEMI
+
+SECONDARY DIAGNOSIS:
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You came to the hospital because you experienced chest pain. You 
+were found to have a heart attack.
+
+What happened to you during your hospital stay?
+- You underwent an urgent heart catheterization and were found 
+to have a complete blockage in one of the heart vessels.
+- A stent was placed in the obstructed vessel to open it.
+
+What should you do when you leave the hospital?
+- It is very important to take all of your new heart 
+medications. In particular, you are now taking aspirin and 
+ticagrelor. These two medications keep the stents in the vessels 
+of the heart open and help reduce your risk of having a future 
+heart attack. If you stop these medications or miss ___ dose, you 
+risk causing a blood clot forming in your heart stents, and you 
+may die from a massive heart attack. Please do not stop taking 
+either medication without taking to your heart doctor, even if 
+another doctor tells you to stop the medications.
+
+- You will be discharged on another blood thinner medication 
+called warfarin (also known as Coumadin), this medication will 
+need close blood testing monitoring so make sure to follow up 
+with the ___ clinic as directed.
+
+- You were discharged on lovenox shots to be taken until 
+warfarin has its full effect in your body. You should have your 
+blood checked on ___ to see whether warfarin 
+reached its adequate effect. Do not stop lovenox until advised 
+by the ___ clinic.
+
+- Please make sure to keep all your doctors ___.
+
+- You will need a follow up heart echo within 4 to 6 weeks after 
+your leave the hospital.
+
+NEW MEDICATIONS:
+Aspirin 81 mg once daily
+Ticagrelor 90 mg twice daily
+Warfarin 5 mg once daily (dose might be changed by the 
+___ clinic)
+Lovenox (enoxaparin) shots twice a day
+Atorvastatin 80 mg once daily
+Carvedilol 3.125 mg twice daily
+Lisinopril 10 mg daily
+Nitro under the tongue as needed for chest pain
+
+It was a pleasure taking care of you.
+- Your ___ team
+ 
+Followup Instructions:
+___

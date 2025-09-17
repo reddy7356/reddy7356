@@ -1,0 +1,540 @@
+===== DISCHARGE NOTE =====
+note_id=10066099-DS-7 | hadm_id=25771438
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: PSYCHIATRY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cc:" I am glad I am alive"
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with no past psychiatric history who
+was brought to the hospital by EMS on ___ after disclosing to 
+a
+friend that he had overdosed on acetaminophen (ingestion took
+place at ~21:00 on ___. Patient initially presented to ___ and there acetaminophen level was ~6 and NAC was
+initiated. He was transferred to ___ the early evening of 
+___
+and admitted to the medical floor. Psychiatry is consulted for
+risk assessment in the setting of a suicide attempt.
+     Patient reports that he has been feeling "depressed" and 
+has
+been sleeping and eating poorly for the past few weeks. He 
+states
+he sleeps "at the most 6 hours" each night. He is an 
+___
+student at ___ and states that
+academic pressure has been mounting this semester. He remains in
+good academic standing, but says that he is "always behind" and
+describes his major's evaluation system as strict and very
+unpredictable. He said that prior to the ingestion, he had
+thoughts about "how it would be easier if it could all just be
+over" and took 100 500mg pills of acetaminophen with the intent
+of ending his life. He reports that shortly after the ingestion,
+he sent a message to one of his close friends to tell her what 
+he
+did "because I didn't want to just leave everyone without saying
+anything". This friend notified the patient's mother and aunt,
+who then called ___.
+     In addition to his academic stress, patient describes a
+recent legal problem he has encountered which became acutely
+distressing for him the day prior to this suicide attempt.
+Approximately three weeks ago, he states he found a debit card 
+on
+the ground. He made some purchases with the card. On ___, he
+states that police came to his place of work and asked to speak
+with him about it. At that point, he explained what he had done
+and turned the card into the police. He reports that an officer
+"read me my rights" and had him sign a piece of paper at the
+time. He now is unsure what consequences/charges he may face
+because of this incident.
+     After the ingestion, patient reports he vomited repeatedly
+(involuntarily) and experienced abdominal pain. "It's more work
+to leave than it is to stay". He states that he now feels 
+"happy"
+that he did not die, and says "I have a lot to live for; I have 
+a
+lot to look forward to."
+
+COLLATERAL:
+Source: Patient's mother, who accompanies him to the medical
+floor. Spoke with her separately from the patient.
+
+     She reports that the patient has never had any mental 
+health
+issues, and that this incident has been "a shock". She is not
+aware of any history of self harm or suicide attempts. She
+reports they have a large and very close family, and she feels
+that the patient has a lot of social support. 
+
+ 
+Past Medical History:
+PAST PSYCHIATRIC HISTORY:
+Hospitalizations: None.
+Current treaters and treatment: None.
+Medication and ECT trials: None.
+Self-injury: As above. None prior to this attempt.
+Harm to others: Denies.
+Access to weapons: Denies.
+
+PAST MEDICAL HISTORY;
+denies
+ 
+Social History:
+___
+Family History:
+denies
+ 
+Physical Exam:
+ON ADMISSION:
+
+Vital Signs:
+T: 98.5   BP: 107 / 65   HR 65   RR 18    O2 sat 97 Ra 
+
+GENERAL
+- HEENT: normocephalic, atraumatic, moist mucous membranes,
+oropharynx clear, supple neck, no scleral icterus
+- Cardiovascular:regular rate and rhythm, S1/S2 heard, no
+murmurs/rubs/gallops, distal pulses intact
+- Pulmonary: lungs clear to auscultation bilaterally, no
+wheezes/rhonchi/rales, no increased work of breathing
+- Abdominal: soft, non-distended, bowel sounds normoactive, no
+TTP in all quadrants, no guarding, no rebound tenderness
+- Extremities: warm and well-perfused, no edema of the limbs
+- Skin: no rashes or lesions noted
+
+NEUROLOGICAL
+- Cranial Nerves:
+     - I: olfaction not tested
+     - II: PERRL 3 to 2 mm, both directly and consentually; 
+brisk
+bilaterally, VFF to confrontation
+     - III, IV, VI: EOMI without nystagmus
+     - V: facial sensation intact to light touch in all
+distributions
+     - VII: no facial droop, facial musculature symmetric and 
+___
+strength in upper and lower distributions, bilaterally
+     - VIII: hearing intact to finger rub bilaterally
+     - IX, X: palate elevates symmetrically
+     - XI: ___ strength in trapezii and SCM bilaterally
+     - XII: tongue protrudes in midline
+- Motor: 
+     - normal bulk and tone bilaterally
+     - no abnormal movements, no tremor
+     - strength ___ throughout
+- Sensory: no deficits to fine touch throughout
+- DTRs: 2 and symmetrical throughout
+- Coordination: normal on finger to nose test, no intention
+tremor noted
+- Gait: good initiation, narrow-based, normal stride and arm
+swing, able to walk in tandem without difficulty, Romberg absent
+
+Mental Status Exam:
+Appearance: fair grooming 
+Facial expression: neutral, shy looking
+build: WNL
+Behavior: engaging, addressing questions, cooperative
+Eye contact: direct
+psychomotor: no abnormal involuntary movements, no agitation
+Speech: normal rate, and tone
+Mood/affect "I am glad I am alive", sad, no irritability, 
+anxious
+Thought Process/content: reality oriented, goal directed, denies
+SI in the unit, denies HI, denies AH/VH/paranoid delusions
+Intellectual Functioning: decreased concentration
+Oriented: x4
+Memory: grossly intact
+insight: poor
+Judgment: poor
+
+ON DISCHARGE:
+Mental Status Exam:
+Appearance: well groomed, 
+Facial expression: friendly, smiling on approach
+build: ___
+Behavior: engaging, cooperative
+Eye contact: direct
+psychomotor: no abnormal involuntary movements, no agitation
+Speech: normal rate, and tone
+Mood/affect "OK", stable, much brighter, hopeful, 
+Thought Process/content: reality oriented, goal directed, denies
+SI/HI, denies AH/VH/paranoid delusions
+Intellectual Functioning: fair concentration
+Oriented: x4
+Memory: grossly intact
+insight: fair
+Judgment: fair
+
+ 
+Pertinent Results:
+WBC RBC Hgb Hct MCV MCH MCHC RDW RDWSD Plt Ct 
+ 7.1 5.50 14.7 41.1 75* 26.7 35.8 15.0 39.5 174 
+
+ Glucose UreaN Creat Na K Cl HCO3 AnGap 
+ ___ 141 3.9 95 24 ___. LEGAL & SAFETY:  
+On admission, the patient signed a conditional voluntary 
+agreement (Section 10 & 11) and remained on that level 
+throughout their admission. He was also placed on 15 minute 
+checks status on admission and remained on that level of 
+observation throughout while being unit restricted.
+
+2. PSYCHIATRIC:
+#) MDD, recurrent, severe, without psychotic features: Pt was 
+admitted to the inpatient psychiatric unit on ___ 
+(following 7 day medical hospitalization from ___ after 
+overdose on 100 tabs of Tylenol, ___ mg each. On initial 
+interview in emergency department on ___, pt reported that 
+he had been feeling depressed with poor sleep and minimal 
+appetite due to academic pressure at school. This led to the 
+development of suicidal thoughts and pt reported overdosing on 
+Tylenol with the intent to end his life. After medical 
+stabilization and presentation to the inpatient psych unit, pt 
+reported that he felt happy to be alive and that he felt he had 
+a lot to live for.  He was noted to be pleasant and engaging on 
+initial presentation to the unit. He was started on Zoloft 25 mg 
+daily which was uptitrated to 50 mg daily during his hospital 
+stay. Pt denies experiencing any side effects from this 
+medication. He note significant improvement in his mood and 
+sleep. Reported feeling more hopeful, less anxious, and also 
+noted an improvement in his energy level and appetite. He was 
+noted to have a brighter affect and to be more insightful. On 
+day of discharge, pt voiced no complaints was agreeable to 
+discharge, appeared bright, displayed forward-thinking. 
+
+3. MEDICAL
+No acute issues during hospitalization.
+
+5. PSYCHOSOCIAL
+
+#) GROUPS/MILIEU:  
+The patient was encouraged to participate in the various groups 
+and milieu therapy opportunities offered by the unit. The 
+patient often attended these groups that focused on teaching 
+patients various coping skills. He was appropriate and pleasant 
+in the milieu. 
+
+#) COLLATERAL INFORMATION AND FAMILY INVOLVEMENT
+Treatment team remained in contact with pt's mother throughout 
+hospitalization with pt's consent. She came to inpatient psych 
+unit to meet with treatment team on several occasions to receive 
+clinical updates and assist in discharge planning. 
+
+#) INTERVENTIONS
+- Medications: Zoloft 50 mg 
+- Psychotherapeutic Interventions: Individual, group, and milieu 
+therapy.
+- Coordination of aftercare: pt was set up with outpatient 
+psychiatry and therapy appointments 
+- Behavioral Interventions: reinforced coping skills, 
+mindfulness, socialization 
+
+INFORMED CONSENT: The team discussed the indications for, 
+intended benefits of, and possible side effects and risks of 
+starting this medication, and risks and benefits of possible 
+alternatives, including not taking the medication, with this 
+patient.   We discussed the patient's right to decide whether to 
+take this medication as well as the importance of the patient's 
+actively participating in the treatment and discussing any 
+questions about medications with the treatment team.  The 
+patient appeared able to understand and consented to begin the 
+medication.
+
+RISK ASSESSMENT & PROGNOSIS
+
+On presentation, the patient was evaluated and felt to be at an 
+increased risk of harm to himself and/or others based upon 
+recent suicide attempt with stated intent to end his life.  His 
+static factors noted at that time included recent suicide 
+attempt, male gender, age and single status. The modifiable risk 
+factors at that time included depressed mood with hopelessness, 
+no established outpatient psychiatric providers, poor sleep, and 
+suicidal ideation. These factors were addressed by individual, 
+group, and milieu therapy, initiation of antidepressant 
+medication, and connection with outpatient therapist and 
+psychiatrist.  Finally, the patient is being discharged with 
+many protective risk factors, including help-seeking nature, 
+future-oriented viewpoint, support from mother, life 
+satisfaction, medication compliance, no history of substance 
+use. Overall, the patient is not at an acutely elevated risk of 
+self-harm nor danger to others due to acutely decompensated 
+psychiatric illness. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Sertraline 50 mg PO DAILY 
+RX *sertraline 50 mg 1 tablet(s) by mouth daily Disp #*14 Tablet 
+Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Major Depressive Disorder severe, no psychotic features
+Anxiety nos
+
+ 
+Discharge Condition:
+mental status: clear and coherent
+level of consciousness: alert and interactive
+activity status: ambulatory, independent
+
+ 
+Discharge Instructions:
+-Please follow up with all outpatient appointments as listed - 
+take this discharge paperwork to your appointments.
+-Unless a limited duration is specified in the prescription, 
+please continue all medications as directed until your 
+prescriber tells you to stop or change.
+-Please avoid abusing alcohol and any drugs--whether 
+prescription drugs or illegal drugs--as this can further worsen 
+your medical and psychiatric illnesses.
+-Please contact your outpatient psychiatrist or other providers 
+if you have any concerns.
+-Please call ___ or go to your nearest emergency room if you 
+feel unsafe in any way and are unable to immediately reach your 
+health care providers.
+It was a pleasure to have worked with you, and we wish you the 
+best of health.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10066099-DS-6 | hadm_id=28039632
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Overdose
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+This is a ___ male with no past medical history who
+presents as a transfer from ___ due to a Tylenol ingestion
+with intent of suicide attempt at 9:00 last night.  Next
+
+The patient is a sophomore at the ___.  He is studying architecture, which he enjoys. 
+However, over the past several months, he has felt overwhelmed
+with his course load.  He reports he is sleeping less ___ hours
+of sleep at night), and has not had time for things he 
+previously
+enjoyed (working out at the gym, spending time with friends). 
+Despite his attempts at keeping himself working, he feels he is
+falling behind.  He states that "no matter what I do, it's not
+good enough" for his ___ professor.  
+
+Compounding this is the fact that he is worried about some legal
+trouble.  He states that he found a debit card on the ground
+recently, which was not his (and he did not know the owner).  He
+ended up using the debit card to make some purchases for a few
+items.  Lately, he states that he has been being pursued by the
+card owner who is coming after him for these unauthorized
+purchases.  He does not believe that this episode was reported 
+to
+the police, but he did say that somebody "read [him his] ___
+rights" over these purchases.  He is worried that this will 
+cause
+him to lose his scholarships at ___, as he values his work
+at school and does not want to lose these opportunities.  
+
+At ___, Pt was found to have LFTs of AST 79 and ALT 89 was
+started on ___. He received first loading dose and was receiving
+2nd dose en route. He was transferred to ___ for liver
+transplant evaluation if necessary.
+
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+Hypertension and diabetes.  Two cousins with early-onset breast
+cancer in their ___.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+VITALS:
+___ Temp: 98.8 PO BP: 126/73 L Lying HR: 77 RR: 20 O2
+sat: 99% O2 delivery: Ra 
+
+GENERAL: Interactive black male, lying in bed with somewhat sad
+affect. In no acute distress.  
+HEENT: Sclerae anicteric, MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.  No dullness or
+hyperresonance to percussion.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No hepatomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. +2 posterior
+tibialis pulses bilaterally.
+NEUROLOGIC: CN II-XII grossly intact. AOx3.  There is no
+asterixis or pronator drift.
+
+DISCHARGE PHYSICAL EXAM
+=======================
+24 HR Data (last updated ___ @ 1245)
+    Temp: 98.7 (Tm 98.7), BP: 101/60 (101-114/60-71), HR: 81
+(64-81), RR: 18 (___), O2 sat: 99% (97-100), O2 delivery: Ra  
+
+GENERAL: Awake, alert, comfortable
+CARDIAC: RRR, normal s1/s2, no murmurs
+LUNGS: Comfortable on room air
+ABDOMEN: Nontender, nondistended
+PSYCH: normal affect
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 04:20PM BLOOD WBC-9.1 RBC-4.82 Hgb-12.9* Hct-40.0 
+MCV-83 MCH-26.8 MCHC-32.3 RDW-14.2 RDWSD-43.1 Plt ___
+___ 04:20PM BLOOD Neuts-49 Bands-0 ___ Monos-10 Eos-0 
+Baso-0 Atyps-3* ___ Myelos-0 AbsNeut-4.46 AbsLymp-3.73* 
+AbsMono-0.91* AbsEos-0.00* AbsBaso-0.00*
+___ 04:20PM BLOOD Hypochr-OCCASIONAL Anisocy-NORMAL 
+Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+___ 04:20PM BLOOD ___ PTT-28.3 ___
+___ 04:20PM BLOOD Plt Smr-NORMAL Plt ___
+___ 04:20PM BLOOD Glucose-132* UreaN-8 Creat-0.9 Na-141 
+K-3.9 Cl-102 HCO3-23 AnGap-16
+___ 04:20PM BLOOD ALT-79* AST-66* AlkPhos-70 TotBili-0.5
+___ 04:20PM BLOOD Albumin-4.3 Calcium-9.2 Phos-3.2 Mg-2.0
+___ 04:20PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 12:00AM BLOOD Acetmnp-NEG
+___ 04:40PM BLOOD Lactate-1.1
+
+DISCHARGE LABS
+==============
+___ 08:10AM BLOOD WBC-7.3 RBC-4.94 Hgb-13.3* Hct-41.0 
+MCV-83 MCH-26.9 MCHC-32.4 RDW-13.9 RDWSD-41.9 Plt ___
+___ 08:08AM BLOOD ___ PTT-29.1 ___
+___ 08:10AM BLOOD Glucose-88 UreaN-12 Creat-1.0 Na-142 
+K-4.4 Cl-103 HCO3-26 AnGap-13
+___ 08:08AM BLOOD ALT-248* AST-165* AlkPhos-81 TotBili-0.___RIEF HOSPITAL SUMMARY
+======================
+___ is a ___ man with no past medical history who presented 
+after a suicide attempt by ingesting Tylenol ___ (50g 
+Acetaminophen + 2.5g Diphenhydramine). NAC was initiated 16 
+hours later and his acetaminophen level was normal at 20 hours. 
+He as placed on a section 12a hold and was treated with NAC for 
+several days until his LFTs downtrended. He was then discharged 
+to an inpatient psychiatric facility. 
+
+ACTIVE ISSUES
+=============
+# ACETAMINOPHEN OVERDOSE
+# DIPHENHYDRAMINE OVERDOSE
+Known ingestion time 9PM on ___, NAC started 16h later 1PM on 
+___. He was persistently asymptomatic with no abdominal pain, 
+nausea, vomiting, and with no signs of anticholinergic toxicity. 
+His acetaminophen level was negative approximately 20 hours 
+after time of ingestion and his INR was persistently normal. NAC 
+was continued until his LFTs downtrended. 
+
+# SUICIDE ATTEMPT
+Likely in setting of significant social stressors, legal 
+concern, and poor social support (no friends he talks to 
+routinely). First episode with no prior attempts. He did meet 
+some SIGECAPS criteria for major depression (sleep changes, 
+decreased appetite, suicidal ideation, difficulty concentrating) 
+but given the acute time course it was difficult to rule out 
+adjustment disorder. Psychiatry was consulted and placed a 
+section 12a hold on admission. He persistently denied SI/HI 
+throughout his hospitalization, appeared of normal affect, and 
+reported a good mood. On discharge he was transferred to an 
+inpatient psychiatric facility.
+
+#CODE:  Full (confirmed with patient)
+#CONTACT:  Mother, ___ (___)
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+=================
+# ACETAMINOPHEN OVERDOSE
+# DIPHENHYDRAMINE OVERDOSE
+# SUICIDE ATTEMPT
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+It was our pleasure to care for you at ___. You came to the 
+hospital because of a Tylenol overdose.
+
+WHAT HAPPENED IN THE HOSPITAL?
+- We treated you with a medication called NAC and watched while 
+your liver improved.
+- Our psychiatry team evaluated you and felt that you would be 
+safest receiving inpatient psychiatric treatment.
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE THE HOSPITAL?
+
+We wish you the best!
+
+Sincerely,
+Your care team at ___
+ 
+Followup Instructions:
+___

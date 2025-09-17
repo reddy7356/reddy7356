@@ -1,0 +1,609 @@
+===== DISCHARGE NOTE =====
+note_id=11636652-DS-3 | hadm_id=20274272
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa(Sulfonamide Antibiotics)
+ 
+Attending: ___
+ 
+Chief Complaint:
+cardiac arrest, coronary vasospasm 
+ 
+Major Surgical or Invasive Procedure:
+___ cardiac catheterization
+___ right IJ central line placement
+___ right arterial line placement
+___ left arterial line placement
+___ extubation
+___ intubation
+___ extubation
+
+ 
+History of Present Illness:
+___ with a PMH of of cardiac arrest ___ ___ s/p AICD, hepatitis 
+C c/b cirrhosis, bipolar d/o, asthma, COPD and coronary 
+vasospasm presented to ___ s/p cardiac arrest ___ 
+the field. The patient was c/o indigestion outside of Wal___. 
+She subsequently collapsed. EMS found the patient to be ___ a 
+wide complex, pulseless tachyarrhythmia. She was administered 
+150mg of amiodarone, 1 milligram of epinephrine and 2 milligrams 
+of Narcan. Her blood sugar was 90. She was defibrillated and CPR 
+was initiated. After defibrillation she developed a bradycardic 
+rhythm. Her AICD reportedly fired 6 times. She was intubated ___ 
+the field and initial ECG showed inferior STEMI. Blood pressure 
+en route was 84/63, on arrival to ___ was 142/104. 
+ 
+___ the OSH ED, initial vitals were 98 112 119/82 18. Labs and 
+imaging significant for CXR with ETT ___ place and b/l patchy 
+infiltrates.
+The patient was given aspirin supp 300mg, versed, fentanyl, 
+vecuronium, and heparin drip w/ bolus. Hypothermia protocol was 
+initiated. 
+ 
+Vitals signs on arrival to the ___ cath lab were: 110 119/82 
+23 88% on vent. The patient was cathed through the right femoral 
+artery. LMCA, LCx and LAD were angiographically normal. The 
+right coronary artery showed severe proximal and distal PDA and 
+PL branch spasm. This completely resolved with IC nitroglycerin. 
+She was continued on a nitroglyercin gtt post cath.
+ 
+On arrival to the floor, patient the patient is intubated and 
+sedated. Her O2 saturation is ___ the mid to high ___.  Her 
+extremities were cool to the touch. Pupils were pinpoint.  
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: 
+(-)Diabetes,(-)Dyslipidemia,(+)Hypertension  
+2. CARDIAC HISTORY:
+-No documented history of CAD
+-History of coronary spasm  
+-S/p cardiac arrest (___)
+-CABG:  
+-PERCUTANEOUS CORONARY INTERVENTIONS:  
+-PACING/ICD: AICD (___) at ___ after resuscitation at ___. OTHER PAST MEDICAL HISTORY:
+Chronic hepatitis C
+Polysubstance abuse
+Bursitis
+Bipolar I disorder, not on medication, multiple suidcide 
+attempts
+Eating disorder
+Anxiety
+Asthma
+COPD
+Memory loss
+S/p reconstruction rotator cuff avulsion
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory. 
+ 
+Physical Exam:
+Admission Physical Exam: 
+GENERAL: Intubated, sedated. Breathing comfortably on vent.  
+HEENT: NCAT. Sclera anicteric. Pupils pinpoint. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple with JVP of 6 cm.  
+CARDIAC: PMI located ___ ___ intercostal space, midclavicular 
+line. Tachycardic, regular rhythm, normal S1, S2. No m/r/g. No 
+thrills, lifts. No S3 or S4.  
+LUNGS: Intubated. No chest wall deformities, scoliosis or 
+kyphosis. 
+Diffuse wheezing and course breath sounds.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: Cool. No c/c/e. No femoral bruits. Right groin site 
+w/o hematoma/bruit.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 1+ Radial 1+ 
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 1+ Radial 1+
+  
+
+ 
+Pertinent Results:
+Admission Labs:  
+___ 12:40AM BLOOD WBC-6.1 RBC-5.38 Hgb-15.0 Hct-47.8 MCV-89 
+MCH-27.8 MCHC-31.3 RDW-16.1* Plt ___
+___ 12:40AM BLOOD Neuts-61 Bands-4 ___ Monos-0 Eos-0 
+Baso-0 Atyps-1* Metas-1* Myelos-0
+___ 12:40AM BLOOD ___ PTT-76.5* ___
+___ 12:40AM BLOOD Glucose-116* UreaN-18 Creat-0.8 Na-138 
+K-4.5 Cl-105 HCO3-21* AnGap-17
+___ 12:40AM BLOOD ALT-71* AST-115* AlkPhos-122* TotBili-0.7
+___ 01:49PM BLOOD CK-MB-118* MB Indx-18.1* cTropnT-1.05*
+___ 12:40AM BLOOD Albumin-3.3* Calcium-6.9* Phos-6.4* 
+Mg-1.6
+___ 12:49AM BLOOD Lactate-2.2*
+___ 12:40AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-POS Barbitr-NEG Tricycl-NEG
+.
+Urine Studies: 
+___ 12:41AM URINE Color-Yellow Appear-Hazy Sp ___
+___ 12:41AM URINE Blood-SM  Nitrite-NEG Protein-30 
+Glucose-TR Ketone-NEG Bilirub-NEG Urobiln-2* pH-5.5 Leuks-NEG
+___ 12:41AM URINE RBC-18* WBC-19* Bacteri-FEW Yeast-NONE 
+Epi-1
+___ 12:41AM URINE CastGr-13*
+___ 12:41AM URINE bnzodzp-POS barbitr-NEG opiates-NEG 
+cocaine-POS amphetm-NEG mthdone-NEG
+  
+Cardiac enzymes:
+___ 01:49PM BLOOD CK-MB-118* MB Indx-18.1* cTropnT-1.05*
+___ 01:40AM BLOOD CK-MB-87*
+___ 01:18PM BLOOD CK-MB-43* MB Indx-25.7* cTropnT-0.54*
+___ 02:00AM BLOOD CK-MB-16* MB Indx-9.4* cTropnT-0.39*
+ 
+Discharge labs:
+___ 08:27AM BLOOD WBC-4.6 RBC-3.98* Hgb-11.0* Hct-33.3* 
+MCV-84 MCH-27.6 MCHC-33.0 RDW-16.9* Plt Ct-86*
+___ 08:27AM BLOOD Neuts-64.3 ___ Monos-2.9 Eos-2.2 
+Baso-0.2
+___ 08:27AM BLOOD Glucose-103* UreaN-12 Creat-0.5 Na-139 
+K-3.5 Cl-107 HCO3-26 AnGap-10
+___ 03:08AM BLOOD ALT-30 AST-38 AlkPhos-77 TotBili-1.1
+___ 12:25PM BLOOD Calcium-7.8* Phos-2.9 Mg-2.0
+   
+   
+MICRO:
+___ Viral Culture-NEGATIVE; Respiratory Viral 
+Antigen Screen-NEGATIVE
+___ 3:20 pm BRONCHOALVEOLAR LAVAGE      BRONCHIAL LAVAGE. 
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+   RESPIRATORY CULTURE (Final ___:    NO GROWTH, <1000 
+CFU/ml. 
+   LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED. 
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      Test cancelled by laboratory. 
+   Immunoflourescent test for Pneumocystis jirovecii (carinii) 
+(Final
+      ___:    NEGATIVE for Pneumocystis jirovecii 
+(carinii).. 
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+   ACID FAST CULTURE (Preliminary): 
+___ 10:54 am SPUTUM      Source: Endotracheal. 
+                            **FINAL REPORT ___
+   GRAM STAIN (Final ___: 
+      ___ PMNs and <10 epithelial cells/100X field. 
+      NO MICROORGANISMS SEEN. 
+   RESPIRATORY CULTURE (Final ___: 
+      Commensal Respiratory Flora Absent. 
+      YEAST.    RARE GROWTH.
+___ CULTURE-FINAL NEGATIVE
+___ Culture, Routine-FINALNEGATIVE
+___ Culture, Routine-FINALNEGATIVE
+___ 1:11 am SPUTUM      Source: Endotracheal. 
+                            **FINAL REPORT ___
+   GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      2+   ___ per 1000X FIELD):   YEAST(S). 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS. 
+   RESPIRATORY CULTURE (Final ___: 
+      RARE GROWTH Commensal Respiratory Flora.
+___ Culture, Routine-FINALNEGATIVE
+___ Culture, Routine-FINALNEGATIVE
+___ 1:10 am URINE      Source: Catheter. 
+                            **FINAL REPORT ___
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    10,000-100,000 ORGANISMS/ML.. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMIKACIN--------------   <=2 S
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     8 I
+TRIMETHOPRIM/SULFA----  =>16 R
+   
+  
+IMAGING:
+  
+___  ECG:
+Sinus tachycardia. Non-significant Q waves ___ leads II, III, and 
+aVF with
+T wave inversions. Consider inferior wall myocardial infarction. 
+No previous
+tracing available for comparison.
+ 
+___ Cardiac Cath:
+COMMENTS:     
+1. Selective coronary angiography of this right dominant system 
+revealed
+no angiographically apparent coronary artery disease. The LMCA, 
+LAD, and
+LCx had no angiographically apparent coronary artery disease. 
+The RCA
+initial angiography showed severe proximal and distal PDA and PL 
+branch
+spasm, but following intracoronary nitroglycerine 
+administration, the
+spasm resolved entirely and there was no angiographically 
+apparent
+coronary artery disease.
+2. Limited resting hemodynamics revealed boarderline low 
+systolic
+arterial blood pressure.
+3. Successful hemostasis achieved with proglide device.
+FINAL DIAGNOSIS:    
+1. Acute inferior STEMI due to coronary spasm, likely related to 
+cocaine
+use.
+2. Continue IV Nitroglycerine
+3. Severe hypoxia likely due to aspiration.
+4. Severe respiratory/metabolic acidosis.
+5. Cooling protocol for cardiac arrest.
+  
+___ EEG:
+IMPRESSION: This is an abnormal continuous ICU EEG monitoring 
+study due to
+mild to moderate background slowing with brief bursts of 
+frontally
+predominant, generalized theta slowing suggestive of mild to 
+moderate
+encephalopathy but of non-specific etiology. These changes could 
+be due to
+therapeutic hypothermia, anesthetic medications, or hypoxic 
+brain injury.
+There are no epileptiform discharges, electrographic, or 
+clinical seizures.
+  
+___ Echo:
+The left atrium and right atrium are normal ___ cavity size. The 
+estimated right atrial pressure is ___ mmHg. Left ventricular 
+wall thicknesses and cavity size are normal. There is moderate 
+global left ventricular hypokinesis with severe hypokinesis to 
+akinesis of the inferior wall (LVEF = 35%). The estimated 
+cardiac index is borderline low (2.0-2.5L/min/m2). No masses or 
+thrombi are seen ___ the left ventricle. A VSD is not seen but 
+cannot fully be excluded due to suboptimal views. Tissue Doppler 
+imaging suggests a normal left ventricular filling pressure 
+(PCWP<12mmHg). The right ventricular cavity is dilated with mild 
+free wall hypokinesis of the mid to distal ventricle. The aortic 
+valve leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis or aortic regurgitation. The 
+mitral valve leaflets are mildly thickened. Mild (1+) mitral 
+regurgitation is seen. The tricuspid valve leaflets are mildly 
+thickened. There is borderline pulmonary artery systolic 
+hypertension. There is a trivial/physiologic pericardial 
+effusion. 
+IMPRESSION: Moderate global left ventricular hypokinesis with 
+severe hypokinesis to akinesis of the inferior wall. Dilated 
+right ventricle with mid to distal free wall hypokinesis. Mild 
+mitral regurgitation. Borderline pulmonary hypertension. 
+ 
+___ CXR:
+Severe multifocal pulmonary consolidation is accompanied by what 
+looks like
+moderately severe pulmonary edema ___ the right lung.  ___ the 
+left lower lobe,
+there is probably a component of volume loss, but overall the 
+relative
+contributions of lobar collapse, pneumonia, pulmonary hemorrhage 
+and pulmonary
+edema are really difficult to distinguish.  It is useful to note 
+that the
+heart is not enlarged and the mediastinal veins are not 
+engorged.  At least a
+moderate left pleural effusion is presumed.
+Tip of the endotracheal tube, no more than 13 mm from the carina 
+should be
+withdrawn to 2 cm to avoid unilateral intubation.  An upper 
+elementary tube
+passes into the stomach and out of view.  Transvenous right 
+atrial and right
+ventricular pacer defibrillator leads are ___ standard 
+placements.  No
+pneumothorax
+  
+___ RUQ US:
+IMPRESSION:
+1.  Coarse echogenic liver, findings suggestive of cirrhosis.  
+No focal hepatic lesion.
+2.  Patent portal venous system with normal directional flow.
+3.  Diffuse gallbladder wall edema likely secondary to chronic 
+liver disease. No gallstones.
+4.  Splenomegaly; minimal perihepatic ascites.
+  
+___ CXR:
+CONCLUSION:
+1.  Tubes and lines are ___ adequate position.
+2.  Bilateral heterogeneous ground-glass opacities have worsened 
+since
+previous exam.  The differential diagnosis would include 
+pulmonary edema or
+pulmonary hemorrhage.
+  
+___ CTA Chest:
+CONCLUSION:
+1.  No pulmonary embolism or acute aortic syndrome.
+2.  Bilateral ground-glass opacities and interlobular septal 
+thickening are mostly secondary to pulmonary edema, considering 
+the rapid change over the last days ___ chest x-rays.  This has 
+significantly improved since ___. Differential 
+includes spontaneous pulmonary hemorrhage, noncardiac edema. 
+3.  Left lower lobe consolidation is probably a mix of 
+atelectasis and aspiration pneumonia. It has improved since 
+___.
+  
+___  CXR:
+Widespread infiltrative pulmonary abnormality which worsened 
+dramatically ___
+the right lung between ___ and ___, already severe 
+but worsened
+___ the left lung simultaneously, first improved on ___ 
+and has now
+worsened again.  However, ___ the interim, the patient has been 
+extubated, so
+much of the change is due to lower lung volumes.  There is 
+probably a
+combination of residual edema as well as aspiration pneumonia 
+and adhesive
+atelectasis ___ the left lower lobe.  Small left pleural effusion 
+is larger. 
+Right jugular line ends ___ the mid SVC.  Transvenous right 
+atrial pacer and
+right ventricular pacer defibrillator leads are ___ their 
+expected places.  No
+pneumothorax.
+ 
+Brief Hospital Course:
+___ with a PMH of coronary vasospasm-induced cardiac arrest ___ 
+___ s/p AICD, hepatitis C c/b cirrhosis, bipolar d/o, asthma, 
+and COPD who presented to ___ s/p cardiac arrest ___ 
+the field. Transferred to ___ for cath which showed RCA 
+vasospasm and resulting inferior MI, subsequently cooled per 
+post-arrest hypothermia protocol with no loss of neurological 
+function.  Hospital course complicated by likely aspiration 
+pneumonia requiring intubation and transfer from the CCU to the 
+MICU for management of her ventilation.
+ 
+Throughout her hospital stay, the patient displayed poor insight 
+into the severity of her illness.  On hospital day 7, two days 
+after extubation, the patient insisted on leaving the ICU 
+against medical advice (AMA).  She was seen by psychiatry who 
+deemed her competant to make her own medical decisions. She 
+verbalized understanding of her medical conditions and the risks 
+of the leaving the hospital prior to being deemed medically 
+stable for discharge, which included worsening respiratory 
+status, worsening infection, and even death.  She decided still 
+to sign out AMA and left the hospital with limited prescriptions 
+for her medications ___ order to get her through until her visit 
+with her outpatient providers. 
+ 
+ACTIVE ISSUES BY PROBLEM:
+ 
+# ST-ELEVATION MYOCARDIAL INFARCTION: found on cath to have 
+complete vasospasm of her RCA with resultant inferior MI, which 
+was reversible with nitro.  ___ light of the positive cocaine ___ 
+her tox screens, this is consistent with cocaine-induced 
+coronary vasospasm.  She was transferred to the CCU initially on 
+a nitro gtt, however she became hypotensive requiring 
+vasopressors, so the nitro was then turned off.  Initially she 
+continued to have intermittent ST elevations, which would 
+subsequently self-resolve.  Echo showed severe hypo/akinesis ___ 
+inferior wall and depressed EF of 35% as a result of the 
+infarction.  She was restarted on metoprolol, aspirin 325, and 
+imdur on discharge.  Would recommend consideration of a calcium 
+channel blocker as an outpatient and avoidance of cocaine.  She 
+also should likely have a repeat echo ___ 6 months to determine 
+if there has been any recovery of systolic function.  She has a 
+follow up appt with her cardiologist Dr. ___ on ___. 
+  
+# CARDIAC ARREST:  Patient experienced VFib arrest, resulting ___ 
+___ successful AICD shocks ___ the field (per EP device 
+interrogation), however last episode lasted 15 minutes and she 
+was not able to be shocked out.  She was initially ___ to 
+outside hospital.  She then was transferred to ___ for cardiac 
+catheterization that showed RCA vasospasm, with Utox positive 
+for cocaine (see above).  Intracoronary nitro was injected for 
+vessel patency.  Following cath, the patient was transferred to 
+the CCU.  The post-arrest care team was consulted, and she was 
+subsequently cooled per post-arrest hypothermia protocol.  EEG 
+did not show any seizure activity.  She was successfully 
+rewarmed with no evidence of severe neurologic damage from her 
+arrest.  She was not initiated on any further agents despite her 
+refractory VT/VF, however may consider agents such as amiodarone 
+as an outpatient.
+  
+# ASPIRATION PNEUMONIA, HYPOXIC/HYPERCARBIC RESPIRATORY FAILURE: 
+ The patient has a history of COPD due to longterm smoking. No 
+PFTs on record. She reportedly aspirated a large volume of 
+gastric/feculant material after her arrest. CT chest from OSH 
+demonstrated dense consolidations, left much worse than right, 
+highly suspect for aspiration. O2 saturations initially mid ___ 
+on arrival, with poor lung compliance noted on ventilator.  She 
+was transitioned to the ARDsnet protocol, resulting ___ better 
+ventilation and oxygenation. She was started on vancomycin and 
+zosyn on ___ for pneumonia for a planned 8 day course.  She was 
+also placed on standing albuterol/ipra nebs.  Her respiratory 
+status gradually improved allowing extubation on ___, however 
+she was extremely agitated and unable to follow commands and 
+subsequently aspirated again that evening, resulting ___ 
+re-intubation.   She was again extubated on ___ and was able 
+to gradually wean down on oxygen requirements.  She was to 
+finish her 8 day course of vancomycin and zosyn on ___, 
+however given her decision to leave AMA, she was given another 
+1.5 day supply of augmentin for oral antibiotic coverage. 
+  
+#  AGGRESSIVE BEHAVIOR:  the patient was extremely difficult to 
+sedate on the ventilator and would repeatedly pull at tubes and 
+lines, requiring restraints and large doses of sedation 
+including precedex, propofol, fentanyl, and midazolam.  Upon 
+extubation, she was verbally abusive and difficult to control 
+behaviorally.  She was started on standing doses of haldol with 
+additional PRN haldol and lorazepam used for acute escalations 
+___ behavior.  Security was called a few times to assist ___ 
+physically restraining her, and on the day that she left AMA, 
+she kicked one of the physicians.  Psychiatry was involved and 
+did deem her mentally competant to make her own decisions, so 
+she was allowed to leave AMA after verbalizing an understanding 
+of all the risks.  She would obviously benefit from further 
+psychiatric care and substance abuse counseling as an 
+outpatient.
+ 
+# ACUTE SYSTOLIC HEART FAILURE:  per report, had previously had 
+low EF following her arrest ___ ___ but her systolic function 
+returned to normal on subsequent echo.  Her EF was found to be 
+35% after this event.  Infiltrates ___ lungs related primary to 
+infection, however likely did have some component of cardiogenic 
+pulmonary edema.  Had just initiated diuresis prior to her 
+leaving AMA, so she was not discharged on a standing diuretic.  
+This will likely need to be started and titrated as an 
+outpatient.  She should also have a follow up echo ___ 6 months.
+
+INACTIVE ISSUES BY PROBLEM:
+ 
+# COPD:  Diagnosis unconfirmed by PFTs.  She was continued on 
+standing ipratropium/albuterol nebs. 
+  
+# BIPOLAR DISORDER:  restarted home aripiprazole after 
+extubation.  Should follow up with her outpatient psychiatrist
+  
+# RESTLESS LEG SYNDROME:  Pramipexole held on admission.  
+  
+# GERD:  Omeprazole continued for GI prophylaxis.  
+   
+TRANSITIONAL ISSUES:
+- STEMI:  should consider initiation of calcium channel blocker 
+and re-echo ___ 6 months to determine if there is any recovery of 
+systolic function.  Has appt with cardiologist Dr. ___ on 
+___
+- Cardiac arrest:  could consider amiodarone for recurrent VT/VF
+- Pneumonia:  will complete treament on ___ with augmentin 
+- CHF:  may need to start a diuretic as an outpatient, is 
+currently not on any
+- Substance abuse, mental illness:  Would benefit from further 
+psychiatric care and addiction counseling as an outpatient
+- EMERGENCY CONTACT: ___ ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN shortness of breath 
+2. Aspirin 81 mg PO DAILY 
+3. CloniDINE 0.1 mg PO BID 
+4. Diazepam 20 mg PO QHS 
+5. Fluticasone-Salmeterol Diskus (250/50)  2 INH IH BID 
+6. Isosorbide Dinitrate ER 40 mg PO DAILY 
+Do not crush  
+7. Metoprolol Succinate XL 25 mg PO DAILY 
+8. Omeprazole 20 mg PO DAILY 
+9. pramipexole *NF* 0.5 mg Oral BID 
+
+ 
+Discharge Medications:
+1. Aripiprazole 30 mg PO DAILY 
+RX *aripiprazole [Abilify] 30 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0
+2. CloniDINE 0.1 mg PO BID 
+RX *clonidine 0.1 mg 1 tablet(s) by mouth twice daily Disp #*60 
+Tablet Refills:*0
+3. Diazepam 20 mg PO HS 
+RX *diazepam 10 mg 2 tablets by mouth at bedtime Disp #*60 
+Tablet Refills:*0
+RX *diazepam 10 mg 2 tabs by mouth at night Disp #*12 Tablet 
+Refills:*0
+4. Albuterol Inhaler 2 PUFF IH Q6H:PRN shortness of breath 
+RX *albuterol sulfate 90 mcg ___ puffs by mouth every ___ hours 
+Disp #*1 Inhaler Refills:*0
+5. Fluticasone-Salmeterol Diskus (250/50)  2 INH IH BID 
+RX *fluticasone-salmeterol [Advair Diskus] 250 mcg-50 mcg/Dose 2 
+puffs inhaled twice daily Disp #*1 Inhaler Refills:*0
+6. Isosorbide Dinitrate ER 40 mg PO DAILY 
+Do not crush  
+RX *isosorbide dinitrate 40 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0
+7. Aspirin 325 mg PO DAILY 
+RX *aspirin 325 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+8. Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate [Toprol XL] 25 mg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*0
+9. Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0
+10. pramipexole *NF* 0.5 mg ORAL BID 
+RX *pramipexole 0.5 mg 1 tablet(s) by mouth twice daily Disp 
+#*60 Tablet Refills:*0
+11. Amoxicillin-Clavulanic Acid ___ mg PO Q12H Duration: 3 Doses 
+
+Take through ___ for pneumonia 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tablet by mouth 
+every 12 hours Disp #*3 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+- Cardiac arrest
+- Myocardial infarction
+- Aspiration pneumonia
+- Acute systolic congestive heart failure
+- Delirium
+ 
+SECONDARY DIAGNOSES:
+- Bipolar disorder
+- Chronic obstructive pulmonary disease
+- Substance abuse
+- Restless leg syndrome
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms ___, 
+ 
+You were admitted to ___ after 
+you had a heart attack and your heart stopped.  You were 
+resuscitated and put on a ventilator to help breathe for you.  
+You developed a pneumonia, which was treated with antibiotics 
+and has been improving. 
+  
+We felt that you were not quite ready to leave the hospital and 
+needed at least 1 more day of IV antibiotics, however you have 
+insisted on leaving against medical advice. 
+ 
+You were VERY seriously ill and almost died while you were here, 
+so it is extremely important that you follow up with your 
+doctors and take your medications. 
+ 
+Followup Instructions:
+___

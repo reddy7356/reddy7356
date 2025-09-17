@@ -1,0 +1,751 @@
+===== DISCHARGE NOTE =====
+note_id=11047975-DS-10 | hadm_id=23782032
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+ 
+History of Present Illness:
+Mr. ___ is a ___ with DM and CAD s/p CABG who presented to an 
+OSH on ___ with CP. He lives in ___ and was visiting family 
+for ___. He has chronic angina with baseline tolerance of 
+approximately 2 flights of stairs. He says he has had multiple 
+admissions for CHF exacerbations this year.
+.
+Over the week preceding his admission, he noticed that his chest 
+pain was occuring at lower levels of exertion, and was also 
+occuring at rest. The discomfort felt like a pressure sensation, 
+similar to past angina. It was substernal in location without 
+radiation. Symptoms were accompanied by dyspnea. He was woken up 
+from sleep with the chest discomfort the morning of admission, 
+with accompanying cough and diaphoresis. At that point, he 
+decided to seek evaluation at the OSH ED.
+.
+Of note, in the two weeks preceding his presentation he had 
+developed increased lower extremity edema and 15lb weight gain. 
+He denied PND but did have ___ pillow orthopnea. Had been told 
+by his PCP ~2 weeks PTA to discontinue lasix. Says he has been 
+otherwise compliant with his medications and salt restriction. 
+Of note, he had chronic nose bleeds ___ years, denies other 
+bleeding problems including melena or hematochezia. No fevers, 
+chills, sweats, change in bowel habits, or h/o thrombosis.
+.
+At the OSH, on admission to the ICU, vitals were T 97.7 P 92 BP 
+119/74 RR 20 O2 96% on 2L. His labs were notable for WBC 12, 
+Hb/Hct ___, Plts 216k, Cr 1.1, Tropn 0.04, CK 66, and BNP of 
+598. Stool was guiac negative. CXR reportedly was c/w mild 
+pulmonary edema. EKG at admission was significant for diffuse 
+TWI and ST depression in anterolateral leads. He was treated 
+with IV lasix and placed on a nitroglycerin drip, and was 
+transfused total of 4 units PRBCs. His troponin and CK reached 
+peaks of 13 and 349 respectively on ___.
+.  
+The patient was transferred to ___ on ___ for planned cardiac 
+catheterization on ___.
+.
+ 
+Past Medical History:
+* CAD 
+--s/p CABG (SVG->Diag, SVG->OM1, LIMA->LAD) ___
+--s/p PCI ___ with DES to ___ graft
+--by report has "4 stents"
+* CHF
+* h/o epistaxis
+--s/p cautery by ENT
+* h/o ascites and abdominal adenopathy ___
+* DM
+* Hyperlipidemia
+* HTN
+* Anemia
+* h/o GIB with report of EGD ___ showing gastritis
+* Hypothyroidism
+* GERD
+* Depression
+* h/o DJD spine
+ 
+Social History:
+___
+Family History:
+n/c
+ 
+Physical Exam:
+Vitals T 97 P 76 Bp 131/73 RR 18 O2 96% on 3L
+General Overweight man, pale but in no acute distress
+HEENT Sclera white, conjunctiva pink, MMM
+Neck JVP at earlobes with HOB at 30degrees, no bruits, carotids 
+2+
+CV Regular rate S1 S1 no m/r/g appreciated
+Pulm Lungs with crackles bilateral bases and to mid lung field 
+on R, no wheezing
+Abd Soft, obese, +bowel sounds, nontender
+Extrem Warm with 1+ bilateral lower extremity edema, 
+hyperpigmentation c/w venous stasis, 2+ distal pulses
+Neuro Alert and interactive
+ 
+Pertinent Results:
+___ 07:38PM BLOOD WBC-9.1 RBC-4.24* Hgb-11.0* Hct-34.2* 
+MCV-81* MCH-25.9* MCHC-32.2 RDW-15.5 Plt ___
+___ 07:38PM BLOOD Neuts-73.4* Bands-0 ___ Monos-6.1 
+Eos-1.8 Baso-0.3
+___ 07:38PM BLOOD ___ PTT-42.8* ___
+___ 07:38PM BLOOD Glucose-193* UreaN-19 Creat-1.1 Na-139 
+K-4.2 Cl-104 HCO3-23 AnGap-16
+___ 07:38PM BLOOD ALT-18 AST-39 CK(CPK)-204* AlkPhos-78 
+TotBili-0.7
+___ 07:38PM BLOOD CK-MB-8 cTropnT-0.45*
+___ 05:20AM BLOOD CK-MB-4 cTropnT-0.35*
+___ 05:20AM BLOOD calTIBC-451 VitB12-216* Folate-14.6 
+Ferritn-36 TRF-347
+___ 07:38PM BLOOD %HbA1c-7.3*
+___ 07:38PM BLOOD TSH-6.6*
+___ 05:20AM BLOOD Free T4-1.2
+___ 07:38PM BLOOD Triglyc-132 HDL-41 CHOL/HD-3.0 LDLcalc-58
+.
+At OSH 
+___ CBC 7.9>9.5<28.9
+Chem ___, Ca 8.4, Mag 1.7, Phos 3.8
+___ peak CK 349, Mb 34, MBI 9.7, Tropn ___ BNP ___ B12 216, Iron 29, Ferritin 36, TRF 347, TIBC 451
+___ TSH 6.6, FT4 1.2, Tchol 125, ___ 132, HDL 41, LDL58, A1c 7.3
+___ C. diff toxin negative x1
+.
+WBC 7.4, Hb/Hct 10.7/33.8, Plts 172
+Chem ___
+.
+EKG ___ ___:
+SR @68bpm, left axis, QTC 486, RBBB. Diffuse TWIs and ST 
+depressions (concordant laterally)
+EKG ___: SR @95, nl axis, QTc 513, RBBB. TWIs in V1-V3 and vL. 
+ST depressions in V2-V6, I,II,vL. STE in aVR. 
+.
+TTE ___
+EF 55%, mild MR and TR
+.
+ETT ___t submaximal HR of 112bpm with associated >1mm ST 
+depressions Moderate apical defect on MIBI (unclear if 
+reversible)
+EF est. 57%
+.
+Cardiac cath ___ OSH -- no intervention done at this time
+LMCA mild diffuse
+LAD ___ 100% occl.
+LCX 60% mid
+RCA 100% mid, but collateralized
+SVG->OM1 70%
+SVG->D1 occluded
+LIMA->LAD distal to ___ 90%
+.
+ETT MIBI (___): The patient exercised for 7 minutes on a 
+modified ___ protocol and stopped for progressive shortness of 
+breath 
+and fatigue. The estimated peak MET capacity was 4.9 which 
+represents a 
+poor exercise tolerance for his age. The patient denied any arm, 
+neck, 
+back, or chest discomfort throughout the procedure. In the 
+setting of 
+RBBB, the ST-T wave changes noted anteriorally are 
+uninterpretable for 
+ischemia. During exercise, nonspecific T wave normalization was 
+noted 
+inferiorally. No additional ST-T wave changes were noted in the 
+lateral 
+precordial leads during the procedure. The rhythm was sinus with 
+rare 
+isolated VPBs. The hemodynamic response to exercise was 
+appropriate. IMPRESSION: Limited functional exercise tolerance. 
+No anginal type 
+symptoms. Anterior ST-T wave changes are uninterpretable in the 
+presence 
+of the RBBB. Non-specific T wave normalization noted 
+inferiorally. 1.  Normal myocardial perfusion. 2.  Mild global 
+hypokinesis is consistent with cardiomyopathy, perhaps from 
+multi-vessel disease. Septal dyskinesis is likely post-surgical. 
+ EF=48%.
+.
+Cardiac cath (___): Severe native vessel disease with 
+patent stents.
+.
+TTE (___):
+The left atrium is elongated. The right atrium is moderately 
+dilated. There is mild symmetric left ventricular hypertrophy. 
+The left ventricular cavity size is normal. Overall left 
+ventricular systolic function is mildly depressed (LVEF= 40-50 
+%) secondary to hypokinesis of the inferior septum, inferior 
+free wall, and posterior wall. There is no ventricular septal 
+defect. The right ventricular cavity is dilated with borderline 
+normal free wall function. The aortic root is moderately dilated 
+at the sinus level. The aortic arch is mildly dilated. There are 
+focal calcifications in the aortic arch. The aortic valve 
+leaflets (3) are mildly thickened but aortic stenosis is not 
+present. No aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. There is no mitral valve 
+prolapse. Mild to moderate (___) mitral regurgitation is seen. 
+Moderate [2+] tricuspid regurgitation is seen. The estimated 
+pulmonary artery systolic pressure is normal. There is no 
+pericardial effusion.  
+ 
+Brief Hospital Course:
+1. NSTEMI, coronary artery disease
+Mr. ___ ruled in for a NSTEMI at the outside hospital and had 
+been started on a heparin drip prior to transfer, but did not 
+receive a GPIIbIIIa antagonist. Here, his cardiac enzymes 
+continued to trend down and he had no further episodes of chest 
+pain or shortness of breath. Given his significant epistaxis 
+with Hct of 24 at admission, demand ischemia was an important 
+consideration. The patient went to exercise stress test with 
+perfusion imaging to help assess whether his chest pain 
+represented severe demand ischemia in the setting of recent 
+blood loss vs. an ACS event that resolved. Stress testing 
+revealed depressed exercise capacity without conclusive EKG 
+changes and no perfusion defects. Despite the negative stress 
+test, the team was concerned about the possibility of in-stent 
+restenosis so the patient was taken to cardiac catheterization. 
+Cardiac cath revealed severe native vessel disease with patent 
+stents. No intervention was undertaken, and the plan was to 
+intensify medical management. He will continue aspirin, plavix, 
+metoprolol, lisinopril, atorvastatin, and isosorbide mononitrate 
+as an outpatient. The patient's lipids were under excellent 
+control and A1c returned at 7.3, showing only fair diabetes 
+control. The patient was given clear instructions to call and 
+follow-up with his primary cardiologist and primary care 
+physician in ___ next week.
+
+2. CHF, acute on chronic, systolic
+The patient's symptoms of weight gain and lower extremity edema 
+were concerning for exacerbation of his known CHF. Upon 
+transfer, he did have evidence of pulmonary edema on exam and on 
+his chest film and was therefore diuresed with lasix. An 
+echocardiogram was repeated which showed depressed systolic 
+function with EF 40-50% and hypokinesis of the 
+inferior/posterior LV. He will continue his beta blocker and 
+ACEI and follow up with his outpatient cardiologist. At 
+discharge, he was breathing comfortably on ambient air and 
+ambulating independently. However as he did still appear to be 
+somewhat volume overloaded, he was discharged on PO lasix, which 
+he will continue as an outpatient. He was instructed to weigh 
+himself daily. He will need further titration of his diuretic 
+regimen as an outpatient. 
+
+3. Anemia with acute blood loss, history of epistaxis
+The patient had no significant gross bleeding in hospital, but 
+did report recent epistaxis. He had been transfused with 4units 
+PRBCs prior to transfer, but did not require additional 
+transfusions at this admission. He apparently has required 
+cautery by ENT as an outpatient. Workup of his anemia showed 
+evidence of iron deficiency and also B12 deficiency, so he was 
+started on both iron supplements and B12 supplementation. He 
+will need to follow up with ENT and his PCP as an outpatient.
+
+4. Heme positive stools
+The patient's stools were noted to be hemoccult positive, 
+possibly due to swallowed blood from his epistaxis. He did have 
+history of gastritis at endoscopy in past per outside records. 
+He will need to followup with his PCP for consideration of 
+repeat EGD and colonoscopy to rule out other sources of GI 
+bleeding.
+
+5. Hypothyroidism
+The patient was continued on his home dose of levothyroxine. His 
+TSH was mildly elevated when checked here. He should have a 
+thyroid function panel rechecked as an outpatient.
+
+6. Diabetes
+The patient's oral agents were held in hospital, and he was 
+convered with insulin sliding scale. His HbA1c was 7.3 showing 
+only fair glucose control. He should followup with his PCP for 
+further adjustment to his diabetes medications.
+
+7. Transient Heart block
+On the morning of discharge, the patient had 2 dropped beats 
+(consistent with Mobitz II block) without clinical sequelae 
+occurring at 2AM with sleep on telemetry. This was felt likely 
+secondary to high vagal tone +/- a complication of OSA. The 
+patient had no other similar findings on telemetry throughout 
+his hospitalization. Per discussion with EP, no further 
+inpatient workup was required and he should followup with his 
+cardiologist.
+
+8. Diarrhea
+The patient developed some loose stools prior to discharge, but 
+abdomen was benign without fever or leukocytosis. Stool was sent 
+for C. diff toxin x1, returned negative. Patient advised not to 
+take anti-motility agents at home and to return should his 
+diarrhea worsen, or if he were to develop abdominal pains or 
+fevers. He understood this plan.
+ 
+Medications on Admission:
+ASA 81mg PO daily
+Plavix 75mg PO daily
+Metoprolol 50mg PO BID
+Nitroglycerin 0.4mg SL prn
+Norvasc 10mg PO daily
+Isosorbide mononitrate 60mg PO daily
+Glipizide 10mg PO BID
+Janumet (sitagliptin/metformin) 1000mg PO BID
+Synthroid ___ PO daily
+Prilosec 20mg PO BID
+Zocor 40 mg PO daily
+Zoloft 50mg PO daily
+KlorCon
+.
+Transfer
+Metoprolol 25mg PO BID
+Lisinopril 2.5mg PO daily
+ASA 81mg PO daily
+Plavix 75mg PO daily
+Norvasc 10mg PO daily
+Isosorbide mononitrate 60mg PO daily
+Nitroglycerin drip @25mcg/min
+Zocor 40mg daily
+Insulin sliding scale
+Synthroid ___ PO daily
+Esomeprazole 40mg PO daily
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+4. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: as directed 
+tablet Sublingual as directed as needed for chest pain: Take 1 
+tab every 5 minutes for max 3 tablets for chest pain. If pain 
+not relieved 5 minutes after 1 tab call ___. Call your doctor if 
+CP resolved after 1 tab.  
+5. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr 
+Sig: Three (3) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*90 Tablet Sustained Release 24 hr(s)* Refills:*2*
+8. Omeprazole 20 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO twice a day.  
+9. Glipizide 10 mg Tablet Sig: One (1) Tablet PO twice a day.  
+10. Janumet 50-1,000 mg Tablet Sig: One (1) Tablet PO twice a 
+day.  
+11. Zoloft 50 mg Tablet Sig: One (1) Tablet PO once a day.  
+12. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+13. Cyanocobalamin 2,000 mcg Tablet Sustained Release Sig: One 
+(1) Tablet Sustained Release PO once a day.
+Disp:*30 Tablet Sustained Release(s)* Refills:*2*
+14. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+15. Lasix 80 mg Tablet Sig: One (1) Tablet PO once a day: Please 
+weight yourself every day. Take an additional evening dose if 
+your weight increases >3lbs and call your cardiologist Dr. ___.
+Disp:*30 Tablet(s)* Refills:*2*
+16. Outpatient Lab Work
+Please have a complete metabolic panel (including potassium, 
+BUN, Cr) and complete blood count measured within one week of 
+discharge and have the results sent to Dr. ___ 
+___ phone ___
+17. Klor-Con M20 20 mEq Tab Sust.Rel. Particle/Crystal Sig: One 
+(1) Tab Sust.Rel. Particle/Crystal PO once a day.
+Disp:*30 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+1. Non ST elevation myocardial infarction
+2. Coronary artery disease
+3. Congestive heart failure, acute on chronic, systolic
+4. Epistaxis and anemia
+5. B12 deficiency, likely iron deficiency
+6. Heme positive stools
+Secondary
+1. Hypertension
+2. Diabetes mellitus
+3. Hypothyroidism
+
+ 
+Discharge Condition:
+Good, hemodynamically stable, without chest pain and with stable 
+hematocrit
+
+ 
+Discharge Instructions:
+You were transferred to ___ for further 
+evaluation of your heart disease. At the other hospital, you had 
+blood tests that showed evidence of a heart attack. This was 
+treated with medicines. You underwent a stress test that showed 
+no new areas of the heart with poor function. You also had a 
+cardiac catheterization which showed narrowing of the coronary 
+vessels, but your prior cardiac stents and grafts from the CABG 
+surgery were open. You did not have any additional stents placed 
+here. 
+.
+Your heart medicines were adjusted here, but you will need 
+close, regular follow up with your home cardiologists for 
+further management of your heart disease. You should also follow 
+up with your ear,nose,throat specialist for further management 
+of your nose bleeds. You did have evidence of blood in your 
+stools by chemical testing. This may be due to swallowed blood 
+from nosebleeds, but you  should follow up with your primary 
+care doctor in the next month for further evaluation and 
+possible repeat endoscopy studies. You were also to have low 
+levels of vitamin B12, which is contributing to your anemia. 
+Your thyroid function tests (TSH) were up a little bit here. You 
+should have your thyroid panel repeated as an outpatient.
+.
+Please take your medications as directed and keep your followup 
+appointments. Please adhere to your low salt diet. Weigh 
+yourself every day and call your cardiologist if your weight 
+increases by more than 3 pounds.
+.
+Call your doctor and seek medical attention at once if you 
+develop:
+*** worsening chest pain, shortness of breath, lightheadedness 
+or dizziness, severe bleeding, black or bloody stools, worsening 
+diarrhea especially if accompanied by fever or abdominal pain, 
+or any other symptoms that worry you
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11047975-DS-11 | hadm_id=25154337
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope, confusion
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HPI: Mr. ___ is a ___ man with recurrence of HCC 
+(cycle ___ ___, CAD s/p 3v-CABG with PCI and DES, CHF 
+(LVEF 40%), DM2, and HTN who presents to the ED with confusion 
+and syncope.  On the morning of admission, he was attempting to 
+get out of bed, but said he lost his footing and fell, 
+fortunately without any acute injury, but felt very disoriented 
+afterwards.  His fall was unwitnessed, and he has difficulty 
+articulating the events preceding and during the fall.  He is 
+unsure if he lost consciousness, but did remember feeling very 
+weak and confused afterwards. His sister, with whom he lives, 
+reports she first noticed his altered state when he exhibited 
+strange perseverative behavior, looking through papers to find a 
+phone number, but would repeatedly lose his train of thought 
+midway.  No chest pain, shortness of breath, or prodromal 
+symptoms such as feeling warm, N/V, diaphoresis, or 
+lightheadedness prior to the fall.  He recalled that he ate a 
+late lunch and thus skipped dinner, but took his evening insulin 
+dose.  He did not check his FSBG in the morning.  He reports 
+that he had been hydrating well, but may not have been enough.  
+He was scheduled for cycle ___ ___ treatment for 
+recurrence of his focal HCC this morning, but due to his acutely 
+altered mental status s/p fall, was referred to the ED for 
+further evaluation. 
+
+In the ED, his intial vitals were: 98.5 71 116/60 16 97%RA.  
+Labs were notable for FSBG 400s, anemia with HCT 28.1, 
+thrombocytopenia with platelet of 132, hyponatremia to 129, 
+creatinine of 1.1, AST of 61, ALP of 431 with normal synthetic 
+liver function (INR of 1.2 and T. Bili of 0.7), normal UA except 
+glycosuria and troponin < 0.01. CT head was normal.  CXR was 
+normal.  ECG was unchanged from prior.  He was given insulin for 
+hyperglycemia with good response.  He had a asymptomatic 10-beat 
+run wide-complex tachycardia which was either NSVT or artifact 
+(he was shifting during the event). He was subsequently admitted 
+to medicine for further evaluation and management.
+
+On the floor, he continued to endorse weakness and fatigue, but 
+no CP/SOB/LH/N/V, no fevers or chills. 
+ 
+Past Medical History:
+* CAD 
+--s/p CABG (SVG->Diag, SVG->OM1, LIMA->LAD) ___
+--s/p PCI ___ with DES to ___ graft
+--by report has "4 stents"
+* CHF
+* h/o epistaxis
+--s/p cautery by ENT
+* h/o ascites and abdominal adenopathy ___
+* DM
+* Hyperlipidemia
+* HTN
+* Anemia
+* h/o GIB with report of EGD ___ showing gastritis
+* Hypothyroidism
+* GERD
+* Depression
+* h/o DJD spine
+ 
+Social History:
+___
+Family History:
+No history of sudden cardiac death.
+ 
+Physical Exam:
+PHYSICAL EXAM:  
+VS: T 99.7 BP 108/59 HR 65 RR 13 97% RA
+GENERAL: Fatigued but conversive
+HEENT: NC/AT, PERRL, EOMI, sclerae anicteric, dry MM, OP clear  
+NECK: supple, no thyromegaly, no JVD
+HEART: RRR, ___ SEM loudest at ___ R ICS. Nl S1-S2.
+LUNGS: CTAB, no r/rh/wh, good air movement. 
+ABDOMEN: NABS, soft/NT/ND, no rebound/guarding  
+EXTREMITIES: WWP, no c/c/e, 2+ DP pulses  
+SKIN: No rashes or lesions
+NEURO: A&Ox3, CNs II-XII grossly intact, muscle strength ___ 
+throughout, sensation grossly intact throughout
+
+DISCHARGE PHYSICAL EXAM:
+T98.3  BP111/57  HR62  RR20  98% RA
+General: NAD, still a little wobbly on feet
+HEENT: NC/AT, PERRL, EOMI, sclerae anicteric, dry MM, OP clear  
+NECK: supple, no thyromegaly, no JVD
+HEART: RRR, ___ SEM loudest at ___ R ICS. Nl S1-S2.
+LUNGS: CTAB, no r/rh/wh, good air movement. 
+ABDOMEN: NABS, soft/NT/ND, no rebound/guarding  
+EXTREMITIES: WWP, no c/c/e, 2+ DP pulses  
+SKIN: No rashes or lesions
+NEURO: A&Ox3, CNs II-XII grossly intact, muscle strength ___ 
+throughout, sensation grossly intact throughout
+ 
+Pertinent Results:
+___ 09:10AM   WBC-8.1 RBC-3.14* HGB-9.1* HCT-28.1* MCV-90 
+MCH-29.0 MCHC-32.4 RDW-17.0*
+___ 09:10AM   NEUTS-83.1* LYMPHS-10.2* MONOS-5.6 EOS-1.0 
+BASOS-0.2
+___ 09:10AM   PLT COUNT-132*
+___ 09:10AM   ___ PTT-36.1 ___
+
+___ 04:35PM   GLUCOSE-213* NA+-135 K+-3.9 CL--103 TCO2-24
+___ 09:10AM   ALBUMIN-3.1* CALCIUM-8.6 PHOSPHATE-3.0 
+MAGNESIUM-2.0
+___ 09:10AM   ALT(SGPT)-40 AST(SGOT)-61* ALK PHOS-431* TOT 
+BILI-0.7
+___ 10:18AM   LACTATE-1.5
+
+___ 09:10AM   cTropnT-0.01
+
+___ 10:18AM   ___ PO2-41* PCO2-40 PH-7.42 TOTAL CO2-27 
+BASE XS-0
+
+___ 01:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-NEG
+___ 01:20PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ man with recurrence of HCC (cycle 
+___ ___, CAD s/p 3v-CABG with PCI and DES, CHF (LVEF 
+40%), DM2, and HTN who presents to the ED with confusion s/p an 
+unwitnessed fall, appears to be syncopal with inability to 
+recall details of the fall. 
+
+# Syncope: s/p unwitnessed fall, altered sensorium after fall, 
+no injuries. Appears to have been a sudden fall, likely with 
+loss of consciousness, as patient had no recollection of events 
+of fall, except disorientation after the fall.  Syncope may be 
+attributable to cardiac syncope, given his significant cardiac 
+clinical history, or orthostasis, as patient was being 
+aggressively diuresed with lasix with concomitant decreased 
+po/fluid intake with recent ___ treatments. On admission, 
+he was afebrile, SBP 110's, and his labs were notable for FSBG 
+400s, anemia with hct 28.1, plt 132, he was slightly pre-renal 
+with Cr of 1.1, transaminitis of AST of 61, elevated ALP of 431, 
+and glycosuria. Negative cardiac enzymes x 2, EKG unchanged from 
+prior. CT head was normal. CXR was normal. He was given insulin 
+for hyperglycemia with good response. He had two asymptomatic 
+runs of ___ NSVT. Etiology unclear, but cardiac syncope is 
+possible given his clinical history of CAD s/p 3v-CABG, CHF with 
+low LVEF, prior NSTEMI, intermittent palpitations, and recurrent 
+runs of non-sustained VT since admission.  Unstable 
+angina/NSTEMI unlikely, given absence of ischemia on EKG and 
+normal initial troponins.  Patient reports never having had any 
+heart murmurs, but on exam, a ___ systolic ejection murmur could 
+be auscultated, loudest at the R ___ ICS. Unclear if this is 
+new. Patient denies knowledge of any heart murmurs, such as 
+aortic stenosis.  He had an NSTEMI in ___, and prior 
+cardiac echos in ___ and ___ revealed changes in systolic 
+CHF with LVEF 60%->35%, and development of valvular dysfunction, 
+including aortic sclerosis.  We continued to monitor him on 
+telemetry, without significant arrhythmias detected. 
+Differential also included orthostatic hypotension, as his BP 
+was low, he had positive orthostatic vital signs, he was 
+pre-renal, and he had reported feeling dehydrated on the evening 
+of his fall.  He improved on IV fluids and we adjusted his 
+insulin regimen, but feel that his current home insulin regimen 
+may need to be reduced as his po intake has decreased over the 
+past month, likely due to the recurrence of his HCC and 
+___ treatments. He has follow-up with cardiology and 
+endocrinology as an outpatient following discharge.    
+
+# DM2: Hyperglycemic with significant glucosuria on admission as 
+well as the following morning, so we resumed his home evening 
+lantus at a reduced dose of 60U (home is 70U).  On his home dose 
+of bedtime lantus, he became hypoglycemic with BS 59 in the 
+morning.  We held his home glimepride, continue lantus but at 50 
+units QHS and humalog insulin sliding scale.  We recommend 
+adjusting his home lantus and HISS, as it may be too aggressive 
+for his current degree of po intake.  Plan for follow-up with 
+outpatient endocrinologist.
+
+# Anemia: Hct 28.1 Baseline hct mid-30s. MCV ___. Normocytic 
+anemia with downward trending hct. Likely anemia of chronic 
+disease.  No evidence of bleeding during hospitalization.  We 
+trended his hcts, which were stable.
+
+# CAD: s/p 3v-CABG (SVG->Diag, SVG->OM1, LIMA->LAD) ___ and PCI 
+___ with DES to ___ graft.  Patient did not complain 
+of chest pain, no e/o ischemia on EKG. Troponin < 0.01.  We 
+continued him on his home ASA, plavix, metoprolol, atorvastatin, 
+losartan, and imdur.
+
+# CHF: stable, chronic, LVEF of 40% in ___ by TTE.  We 
+continued him on his home lasix dose.  No edema on exam.
+
+# Thrombocytopenia: Stable, Plt 132. Baseline plts 200s. Likely 
+medication related, though need to consider hypersplenism, or 
+consumptive process such as DIC, TTP.  We trended his plts, 
+which remained stable.
+
+# Hypothyroidism: We continued his levothyroxine.  TSH was wnl.
+
+# HCC: recurrence of HCC, on cycle ___ of ___ mild 
+transaminitis AST 61, elevated ALP 431, alb 3.1, with otherwise 
+normal synthetic liver function (INR of 1.2 and T. Bili of 0.7)
+
+# GERD: We continued his home pantoprazole
+
+# FEN: IVFs / replete lytes prn / heart healthy diabetic diet 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 10 mg PO DAILY 
+2. Atorvastatin 40 mg PO DAILY 
+3. Clopidogrel 75 mg PO DAILY 
+4. Furosemide 40 mg PO DAILY 
+5. glimepiride *NF* 1 mg Oral daily 
+6. Lantus *NF* (insulin glargine) 80 units Subcutaneous hs 
+7. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+8. Levothyroxine Sodium 150 mcg PO DAILY 
+9. Losartan Potassium 25 mg PO DAILY 
+10. Metoprolol Tartrate 25 mg PO BID 
+11. Nitroglycerin SL 0.4 mg SL PRN chest pain 
+12. OxycoDONE (Immediate Release)  5 mg PO BID 
+13. Pantoprazole 40 mg PO Q24H 
+14. Potassium Chloride 20 mEq PO DAILY 
+Hold for K > 
+15. Aspirin 81 mg PO DAILY 
+16. Vitamin D 1000 UNIT PO DAILY 
+17. Cyanocobalamin 500 mcg PO DAILY 
+18. Ferrous Sulfate 236 mg PO DAILY 
+19. Acidophilus *NF* (L.acidoph & 
+___ acidophilus) uncertain  
+Oral daily 
+20. Glargine 80 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 40 mg PO DAILY 
+4. Clopidogrel 75 mg PO DAILY 
+5. Cyanocobalamin 500 mcg PO DAILY 
+6. Ferrous Sulfate 236 mg PO DAILY 
+7. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+8. Losartan Potassium 25 mg PO DAILY 
+9. Metoprolol Tartrate 25 mg PO BID 
+10. Nitroglycerin SL 0.4 mg SL PRN chest pain 
+11. Vitamin D 1000 UNIT PO DAILY 
+12. Pantoprazole 40 mg PO Q24H 
+13. Levothyroxine Sodium 150 mcg PO DAILY 
+14. Potassium Chloride 20 mEq PO DAILY 
+15. OxycoDONE (Immediate Release)  5 mg PO BID 
+16. Furosemide 40 mg PO DAILY 
+17. Glargine 50 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+18. Acidophilus *NF* (L.acidoph & 
+___ acidophilus) uncertain  
+ORAL DAILY 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Syncope, confusion
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you during your hospitalization 
+at ___.  As you know, you were admitted after having confusion 
+following a fall at home.  You were admitted with blood sugars 
+of 434 and confusion.  We adjusted your insulin regimen, gave 
+you fluids, and your confusion improved.  We recommend that you 
+see your endocrinologist (see below) for further adjustments in 
+your insulin.  We performed a head CT scan and chest x-ray which 
+were both reassuring.  We also monitored your heart activity 
+with an EKG throughout your hospitalization.  You developed a 
+few episodes of abnormal rhythms of a few beats during your 
+hospitalization, and we spoke with your cardiologist. We 
+recommend that you follow-up with her following your 
+hospitalization (as below) as well.  
+
+Please see the attached list for changes to your medications.
+The only medication change is to stop your glimepazide, decrease 
+your lantus dose to 50 Units and adjusted insulin sliding scale.
+
+Additionally, please continue to weigh yourself as you are doing 
+every morning, call MD if weight goes up more than 3 lbs.
+
+It was a pleasure caring for you,
+Your ___ Doctors
+ 
+___ Instructions:
+___

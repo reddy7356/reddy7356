@@ -1,0 +1,233 @@
+===== DISCHARGE NOTE =====
+note_id=10201253-DS-3 | hadm_id=25336740
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain, bradycardia  
+ 
+Major Surgical or Invasive Procedure:
+Stress Echocardiogram
+
+ 
+History of Present Illness:
+ Mrs. ___ is a ___ year old ___ speaking female 
+with a history of DM2, HTN, HLD, and OSA who presents with chest 
+pain and bradycardia.  History per neice was noted for pt has 
+had intermittant episodes of chest pain, lightheadedness, and 
+shortness of breath for the past three weeks. She has also had 
+some nausea and occasional vomiting in association with these 
+symptoms and has had to eat lighter meals as a result. She also 
+reports increased pain in her hands during this time. She denies 
+abdominal pain or changes in bowel habits. She has been taking 
+sublingual nitroglycerin every morning, but does not feel that 
+this helps her symptoms. She was recently seen by her PCP for 
+these symptoms and a stress-thallium study was ordered.  
+.  
+Yesterday she was with her niece and it was noted that she had 
+to stop frequently while walking due to lightheadedness and 
+shortness of breath. Today she developed chest pain and 
+dizziness in the afternoon. On arrival by EMS she was found to 
+be bradycardic with a junctional rhythm in the ___. She received 
+1.5 mg of atropine in the field, her chest pain resolved, and 
+her heart rate came up to the ___. No ischemic changes were 
+noted on EKG.  
+.  
+In the ED initial vital signs were T 97.8, HR 62, BP 116/58, RR 
+16, O2 sat 99%. Exam and CXR were unremarkable. While in the ED 
+she became bradycardic to the ___ again and hypotensive with BP 
+79/57. She received 0.5 mg atropine and heart rate improved to 
+the ___ and SBP to the 100s. She remained in sinus rhythm and 
+was seen by cardiology who felt she was appropriate for the 
+floor. She also received aspirin 325 mg. Vital signs on sign out 
+were T 97, HR 58, BP 112/56, 100% RA.  
+.  
+
+ 
+Past Medical History:
+Cardiac Risk Factors: (+)Diabetes, (+)Dyslipidemia, 
+(+)Hypertension  
+.  
+Cardiac History: no hx of CABG, PCI, or pacemaker/ICD  
+.  
+Other Past History:  
+Obesity  
+Sleep apnea  
+H/o Dyspnea on exertion. 
+ 
+Social History:
+___
+Family History:
+There is no family history of premature coronary artery disease 
+or sudden death. Family history is notable for multiple family 
+members with blood clots, diabetes, and hypertension.  
+ 
+Physical Exam:
+VS: BP 138/77, HR 54, RR 20, O2 sat 97% RA, wt 89.3 kg  
+Gen: Obese ___ female in NAD. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+Neck: Supple, no lymphadenopathy, JVP not elevated.  
+CV: PMI located in ___ intercostal space, midclavicular line. 
+Bradycardic, regular rhythm, normal S1, S2. No m/r/g. No 
+thrills, lifts. No S3 or S4.  
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+Abd: Soft, NTND. No HSM or tenderness. No abdominial bruits.  
+Ext: No c/c/e. 2+ DP pulses bilaterally.  
+Skin: No stasis dermatitis, ulcers, or xanthomas. 
+ 
+Pertinent Results:
+___ 01:15PM BLOOD WBC-8.7 RBC-4.45 Hgb-11.5* Hct-36.2 
+MCV-82 MCH-25.7* MCHC-31.6 RDW-16.7* Plt ___
+___ 01:15PM BLOOD ___ PTT-22.8 ___
+___ 01:15PM BLOOD Glucose-145* UreaN-22* Creat-1.0 Na-140 
+K-4.6 Cl-105 HCO3-26 AnGap-14
+___ 01:15PM BLOOD cTropnT-<0.01
+___ 10:30AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 01:15PM BLOOD Calcium-9.0 Phos-4.5 Mg-2.5
+/___ AP CXR - IMPRESSION: No acute intrathoracic process. 
+Limited exam.  
+.  
+EMS EKG & tracings - sinus brady with junctional escape beats.  
+.  
+EKG 13:06 - Junctional rhythm at 60 bpm. T wave flattening is 
+more pronounced since ___.  
+.  
+2D-ECHOCARDIOGRAM performed on ___ demonstrated: The left 
+atrium and right atrium are normal in cavity size. Left 
+ventricular wall thickness, cavity size and regional/global 
+systolic function are normal (LVEF >55%) Right ventricular 
+chamber size and free wall motion are normal. The ascending 
+aorta is mildly dilated. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+regurgitation. The mitral valve appears structurally normal with 
+trivial mitral regurgitation. There is no mitral valve prolapse. 
+The pulmonary artery systolic pressure could not be determined. 
+There is no pericardial effusion.  
+Compared with the report of the prior study (images unavailable 
+for review) of ___, the findings are similar.  
+.  
+ETT performed on ___ demonstrated: INTERPRETATION: This ___ 
+year old woman was referred for a chest pain evaluation. She 
+exercised for 7.5 minutes of a modified ___ protocol and 
+stopped for fatigue. This represents a limited physical working 
+capacity. No arm, neck, back, or chest discomforts were reported 
+by the patient throughout the procedure. No ST segment changes 
+were noted during exercise or recovery periods. The rhythm was 
+sinus with rare isolated APBs. Hemodynamic response to exercise 
+was appropriate.  
+ 
+IMPRESSION: No anginal type symptoms with no ischemic EKG 
+changes at  
+the achieved workload.  
+
+ 
+Brief Hospital Course:
+___ year female with a history of DM2, HTN, HLD, and OSA who 
+presents with chest pain, lightheadedness, and bradycardia.  
+
+Mrs ___ presented with chest pain, lightheadedness, and 
+bradycardia.  She did not continue to have chest pain while in 
+hospital and she was ruled out for MI.  It was noted that she 
+had bradycardia only in the setting of sleeping.  She has very 
+bad sleep apnea according of to her daughter.  She underwent 
+stress echo which showed fair functional exercise capacity.  She 
+was discharged in stable condition with close follow up.  
+
+Code: Full code  
+
+Contact: Daughter ___ ___ Niece ___ ___. 
+ 
+ 
+
+ 
+___ on Admission:
+CURRENT MEDICATIONS:  
+AMLODIPINE [NORVASC] - 5 mg daily  
+ATORVASTATIN [LIPITOR] - 40 mg daily  
+LISINOPRIL - 20 mg daily  
+METOPROLOL SUCCINATE - 50 mg SR daily  
+NITROGLYCERIN - 0.4 mg prn  
+ACETAMINOPHEN - 1000 mg BID - TID prn pain  
+ASPIRIN - 81 mg daily  
+KETOTIFEN FUMARATE [ZADITOR] - 0.025 % Drops - 1 drop(s) ___ BID 
+prn  
+NPH INSULIN HUMAN RECOMB [HUMULIN N] - 85 units qam and 45 units 
+qpm  
+PEG 400-PROPYLENE GLYCOL [SYSTANE] - 0.3 %-0.4 % 1 drop ___  
+ 
+Discharge Medications:
+1. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+5. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO twice a 
+day as needed for pain.  
+6. Ketotifen Fumarate 0.025 % Drops Sig: One (1) drop both eyes 
+Ophthalmic twice a day as needed for eye pain.  
+7. PEG 400-Propylene Glycol 0.4-0.3 % Drops Sig: One (1) drop 
+both eyes Ophthalmic four times a day as needed for dry eyes.  
+8. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1)  
+Sublingual prn as needed for chest pain: please take one tab 
+every 5 minutes for a total of 3 doses.  If Chest pain does not 
+resolve after first dose, please call ___. .  
+9. NPH Insulin Human Recomb 100 unit/mL Suspension Sig: 85 units 
+qam and 45 units qpm   Subcutaneous once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+bradycardia
+OSA
+
+HTN
+HLD
+Knee pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You came to the hospital with chest pain and slow heart rate. We 
+determined that you have slow heart rate due to sleep apnea.  
+However, you need to be properly diagnosed with sleep apnea with 
+a sleep study.  You also underwent a stress test which 
+showed....  You were discharged in stable condition. 
+
+Please follow up with your doctors.
+
+Please note, we made the following changes to your medications.
+CHANGED:
+Amlodipine 5 mg a day to 10mg a day.
+
+It was a pleasure taking care of you.  We wish you a speedy 
+recovery. 
+
+ 
+Followup Instructions:
+___

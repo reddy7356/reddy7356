@@ -1,0 +1,660 @@
+===== DISCHARGE NOTE =====
+note_id=11563252-DS-11 | hadm_id=22417195
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Chocolate Flavor
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+Laparoscopic cholecystectomy with cholangiogram
+
+ 
+History of Present Illness:
+This ___ gentleman has now presented with 4 episodes of 
+recurrent acute pancreatitis in a relapsing form. His most 
+recent attack was last week and he was treated here for the 
+first time and he recovered from this. He was already set up for 
+laparoscopic cholecystectomy prior to that attack. We let that 
+cool-down and he returns now for a definitive cholecystectomy to 
+help with diagnosis and possible therapeutics for his relapsing 
+pancreatitis.
+
+ 
+Past Medical History:
+PMHx:  pancreatitis, DM2, R eye blindness
+.
+PSHx: R eye surgery
+
+ 
+Social History:
+___
+Family History:
+Relative with ___ polyp
+
+ 
+Physical Exam:
+On Admission:
+AVSS/afebrile. 
+GEN: A+Ox3. In NAD.
+HEENT: Sclerae anicteric. O-P clear.
+COR: RRR
+LUNGS: CTAB
+ABDOMEN: Minimally tender to palpation (R)UQ. Soft/ND.
+EXTREM: No c/c/e.
+
+ 
+Pertinent Results:
+___ 10:30PM   ___ 10:30PM   LIPASE-4460*
+___ 12:42PM   ___ PTT-28.2 ___
+___ 07:25AM BLOOD WBC-8.9# RBC-4.31* Hgb-12.4* Hct-34.5* 
+MCV-80* MCH-28.7 MCHC-35.8* RDW-14.9 Plt ___
+___ 06:45AM BLOOD Glucose-127* UreaN-11 Creat-0.9 Na-136 
+K-3.8 Cl-99 HCO3-26 AnGap-15
+___ 10:30PM BLOOD ___ 10:30PM BLOOD Lipase-___*
+___ 06:25AM BLOOD ALT-169* AST-30 AlkPhos-108 Amylase-80 
+TotBili-1.0
+___ 06:25AM BLOOD Lipase-68*
+.
+___ Pathology SPECIMEN SUBMITTED: GALLBLADDER:
+DIAGNOSIS:  
+Gallbladder, cholecystectomy: 
+Chronic cholecystitis.
+Clinical: Cholelithiasis.
+Gross: 
+
+The specimen is received fresh in one part in a container 
+labeled ___, the medical record number and 
+"gallbladder". It consists of previously opened tan-pink 
+gallbladder measuring 10.5 x 3.5 x 1.3 cm. The cystic duct 
+margin is identified and is clipped closed. No cystic duct lymph 
+node is grossly identified. The specimen has been previously 
+opened along the fundus to reveal velvety red mucosa. No stones 
+are grossly identified. The gallbladder wall measures up to 0.3 
+cm in greatest thickness. The specimen is represented as 
+follows: A = cystic duct margin and wall, B = wall.
+.
+
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the hospital and taken to the 
+Operating Room where he underwent laparoscopic cholecystectomy 
+with cholangiogram.  He tolerated the procedure well and 
+returned to the PACU in stable condition. After full recovery 
+from anesthesia he complained on nausea and ___ abdominal pain 
+and was therefore hospitalized overnight.
+
+Pain continued to be an issue and STAT amylase and lipase were 
+___ and ___ respectively.  He was maintained with IV fluids 
+and kept NPO.  It seemed that the intra-operative cholangiogram 
+induced acute pancreatitis.
+
+His amylase and lipase dropped dramatically over the next ___ 
+hours and he was gradually able to tolerate liquids and then 
+advanced to diabetic, low fat regular diet.  His pain was better 
+controlled, and he was up and walking without difficulty.
+
+Cholangiogram identified an anatomic abnormality with ductal 
+drainage in the pancreas and ERCP was indicated. However, due to 
+his pancreatic flare up while hospitalized, the ERCP will be 
+performed on an out patient basis.
+
+At the time of discharge on ___, the patient was doing well, 
+afebrile with stable vital signs.  The patient was tolerating a 
+diabetic, low fat regular diet, ambulating, voiding without 
+assistance, and pain was well controlled.  The patient was 
+discharge home without services. The patient received discharge 
+teaching and follow-up instructions with understanding 
+verbalized and agreement with the discharge plan.
+ 
+Medications on Admission:
+1. GlyBURIDE 2.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+
+2. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+3. Acyclovir 5 % Ointment Sig: One (1) Appl Topical ASDIR 
+4. Percocet ___ mg Tablet Sig: One (1) Tablet PO every four(4) 
+hours as needed for pain.
+5. Levoquin 500 mg PO daily for UTI started ___
+
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Glyburide 2.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+4. Oxycodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+every ___ hours as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as 
+needed for constipation: Over-the-counter.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Gallstone pancreatitis.
+2. Possible choledochocele
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+Please call your doctor or nurse practitioner or return to the 
+Emergency Department for any of the following:
+
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+
+*New or worsening cough, shortness of breath, or wheeze.
+
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+
+*Your pain in not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+Please resume all regular home medications , unless specifically 
+advised not to take a particular medication. Also, please take 
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids. Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon.
+
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+
+Incision Care:
+
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site.
+
+*Avoid swimming and baths until your follow-up appointment.
+
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water. Gently pat the area dry.
+
+*If you have staples, they will be removed at your follow-up 
+appointment.
+
+*If you have steri-strips, they will fall off on their own. 
+Please remove any remaining strips ___ days after surgery.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11563252-DS-10 | hadm_id=25849865
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ M with history of recurrent severe pancreatitis for which he
+was hospitalized for 21 days in ___, now returns with c/o
+abdominal pain in epigastrium.  He awoke with pain this morning
+and diaphoresis.  Denies fevers, chills, nausea, vomiting,
+diarrhea, dysuria, CP, SOB.  He was scheduled to see Dr. ___ week.  previous MRCP shows cholelithiasis.  He has seen Dr.
+___ feels it is secondary to microlithiasis.  EUS
+negative, HIDA negative.  He feels well and pain has resolved,
+although he has received Dilaudid.    
+
+ 
+Past Medical History:
+PMH:  pancreatitis, DM2, R eye blindness
+
+PSH: R eye surgery
+
+ 
+Social History:
+___
+Family History:
+relative with ___ polyp
+
+ 
+Physical Exam:
+PE: 97.7 73 176/93 16 100 
+AAOX3 NAD
+no icterus or jaundice
+RRR
+CTAB
+soft, non-tender, mild distension
+no edema, etxrem warm, no gaurding or rebound
+ 
+Pertinent Results:
+___ 05:12AM   WBC-5.7 RBC-4.55* HGB-13.3* HCT-36.8* MCV-81* 
+MCH-29.1 MCHC-36.0* RDW-15.4
+___ 05:12AM   NEUTS-72.0* ___ MONOS-4.0 EOS-3.7 
+BASOS-0.6
+___ 05:12AM   PLT COUNT-265
+___ 05:12AM   ALT(SGPT)-107* AST(SGOT)-154* ALK PHOS-88 TOT 
+BILI-0.7
+___ 05:12AM   LIPASE-4710*
+___ 05:12AM   GLUCOSE-174* UREA N-18 CREAT-1.1 SODIUM-142 
+POTASSIUM-3.9 CHLORIDE-105 TOTAL CO2-26 ANION GAP-15
+___ 06:10AM   ___ PTT-26.1 ___ ___ ultrasound: 1. Sludge-filled gallbladder, but 
+no stones. No pericholecystic fluid and no 
+gallbladder wall thickening to suggest cholecystitis. 
+2. Increased echogenicity of the liver, which may be due to 
+fatty 
+infiltration; however, other forms of liver disease including 
+hepatic 
+cirrhosis and/or fibrosis cannot be fully excluded. 
+
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the hospital, made NPO and 
+hydrated with IV fluids. His initial lipase was >4000 and he had 
+diffuse abdominal tenderness.  After 24 hours he felt much 
+better, denied abdominal pain and gradually began taking clear 
+liquids.  His lipase dramatically decreased to 63 and he 
+continued to improve.
+
+His diet was gradually advanced and he continued to make good 
+progress.
+He developed a herpetic lesion on his right upper lip and was 
+treated with Acyclovir ointment with improvement.
+
+His lipase continued to decrease while on a regular, low fat 
+diet and after an uncomplicated course he was discharged home on 
+___ and will return on ___ for cholecystectomy.  
+His pre op testing including an anesthesia consult was completed 
+prior to discharge.
+
+ 
+Medications on Admission:
+glyburide 2.5 mg PO daily
+simvastatin 20 mg PO daily
+ 
+Discharge Medications:
+1. GlyBURIDE 2.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+2. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+3. Acyclovir 5 % Ointment Sig: One (1) Appl Topical ASDIR (AS 
+DIRECTED).  
+4. Percocet ___ mg Tablet Sig: One (1) Tablet PO every four 
+(4) hours as needed for pain.
+Disp:*20 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+gallstone pancreatitis
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+Please call your doctor or nurse practitioner or return to the 
+Emergency Department for any of the following:
+
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+
+*New or worsening cough, shortness of breath, or wheeze.
+
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+
+*Your pain in not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+Please resume all regular home medications , unless specifically 
+advised not to take a particular medication. Also, please take 
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids. Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon.
+
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11563252-DS-12 | hadm_id=27033504
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: UROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Prostate cancer
+Bladder diverticulum
+
+ 
+Major Surgical or Invasive Procedure:
+___ PROCEDURES PERFORMED:
+1.  Laparoscopic partial cystectomy of huge bladder
+diverticulum.
+5.  Robotic-assisted laparoscopic radical prostatectomy, right
+full nerve sparing, left non-nerve sparing.
+3.  Laparoscopic bilateral pelvic lymph node dissection.
+
+ 
+History of Present Illness:
+___ s/p RALP, B PLND, bladder diverticula 
+ 
+Past Medical History:
+PMH: DM2, HTN, hx pancreatitis, ?PVD
+
+DM type II for ___ yrs
+HTN
+CCE ___
+vasectomy
+in ___ for pancreatitis then CCE
+possible femoral stenting for claudication
+PROSTATE CANCER                            
+ 
+Social History:
+___
+Family History:
+Relative with ___ polyp
+
+Nephrolithiasis - no 
+Renal Cell CA   - no
+Prostate CA     - no
+Bladder CA      - no   
+ 
+Physical Exam:
+WDWN, NAD, AVSS
+Abdomen soft, non-distended, appropriately tender along incision 
+sites
+Incisions C/D/I
+drain has been removed. 
+Foley in place, secured to medial thigh. 
+Bilateral lower extremities w/out edema, pitting or pain to deep 
+palpation of calves
+
+ 
+Pertinent Results:
+___ 06:49AM BLOOD WBC-6.1 RBC-3.68* Hgb-10.5* Hct-29.9* 
+MCV-81* MCH-28.5 MCHC-35.1 RDW-13.2 RDWSD-38.6 Plt ___
+___ 06:49AM BLOOD Glucose-191* UreaN-17 Creat-1.0 Na-138 
+K-4.4 Cl-100 HCO3-28 AnGap-10
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the Urology Service after 
+undergoing robotic assisted laparoscopic prostatectomy. No 
+concerning intra-operative events occurred; please see dictated 
+operative note for full details.  The patient received 
+___ antibiotic prophylaxis.  At the end of the 
+procedure the patient was extubated and transported to the PACU 
+for further recovery before being transferred to the floor.  He 
+was transferred from the PACU in stable condition. On POD0, pain 
+was well controlled on PCA, hydrated with intravenous fluids for 
+urine output >30cc/hour, provided with pneumoboots and incentive 
+spirometry for prophylaxis, and he ambulated once. On POD1, the 
+patient was restarted on home medications, basic metabolic panel 
+and complete blood count were checked, pain control was 
+transitioned from PCA to oral analgesics, diet was advanced to a 
+clears/toast and crackers diet for breakfast and lunch.  Diet 
+was advanced to regular after lunch and with further ambulation, 
+the JP drain was removed.  Foley catheter care and leg bag 
+teaching was provided by nursing. The remainder of the hospital 
+course was unremarkable. The patient was discharged in stable 
+condition, eating well, ambulating independently, and with pain 
+control on oral analgesics. On exam, incision was clean, dry, 
+and intact, with no evidence of hematoma collection or 
+infection. The patient was given explicit instructions to 
+follow-up in one week for post-operative evaluation and trial of 
+voiding.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. GlyBURIDE 5 mg PO BID 
+2. Lisinopril 20 mg PO DAILY 
+3. MetFORMIN (Glucophage) 1000 mg PO BID 
+4. Rosuvastatin Calcium 20 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  Bacitracin Ointment 1 Appl TP TID  
+3.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 3 Days 
+start one day before the scheduled void trial/foley removal 
+RX *ciprofloxacin HCl 500 mg ONE tab by mouth twice a day Disp 
+#*6 Tablet Refills:*0 
+4.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg ONE capsule(s) by mouth 
+twice a day Disp #*60 Capsule Refills:*0 
+5.  Ibuprofen 600 mg PO Q8H:PRN Pain - Mild 
+RX *ibuprofen 600 mg one tablet(s) by mouth q8hrs Disp #*30 
+Tablet Refills:*0 
+6.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg one tablet(s) by mouth q4hrs Disp #*30 Tablet 
+Refills:*0 
+7.  Senna 8.6 mg PO BID  
+8.  GlyBURIDE 5 mg PO BID  
+9.  MetFORMIN (Glucophage) 1000 mg PO BID  
+10.  Rosuvastatin Calcium 20 mg PO QPM  
+11. HELD- Lisinopril 20 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until ___ PILL LOG
+***please keep track of pain pills and narcotics used on the 
+provided Pain Pill Log (orange sheet) over the week and return 
+the log sheet at your follow up appointment. 
+
+Remember to also bring a pad/diaper, and the narcotic 
+prescription bottle with you to follow up. 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PREOPERATIVE DIAGNOSES:
+1.  Bladder diverticulum.
+2.  Prostate cancer.
+
+POSTOPERATIVE DIAGNOSES:
+1.  Bladder diverticulum.
+2.  Prostate cancer.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+***please keep track of pain pills and narcotics used on the 
+provided Pain Pill Log (orange sheet) over the week and return 
+the log sheet at your follow up appointment. Remember to also 
+bring a pad/diaper, and the narcotic prescription bottle with 
+you to follow up. 
+
+-Please also reference the additional handout provided by your 
+urologist with instructions and information about your surgery 
+and post-operative plan of care.
+
+-Please also reference the instructions provided by nursing on 
+Foley catheter care, hygiene and waste elimination. 
+
+-ALWAYS follow-up with your referring provider ___ your PCP 
+to discuss and review your post-operative course and 
+medications.  Any NEW medications should also be reviewed with 
+your pharmacist.
+
+-Resume your pre-admission medications except as noted AND you 
+note that you NO longer need to take medications that shrink 
+your prostate (Hytrin, Avodart, Flomax, etc.)
+
+-You may take ibuprofen and the prescribed narcotic together for 
+pain control. FIRST, use Tylenol and Ibuprofen.  Add the 
+prescribed narcotic (examples: Oxycodone, Dilaudid, 
+Hydromorphone) for break through pain that is >4 on the pain 
+scale.
+
+-The maximum dose of Tylenol (ACETAMINOPHEN) is 3- 4 grams (from 
+ALL sources) PER DAY.
+
+-Ibuprofen should always be taken with food. If you develop 
+stomach pain or note black stool, stop the Ibuprofen.  Ibuprofen 
+works best when taken “around the clock.”
+
+-For your safety and the safety of others; PLEASE DO NOT drive, 
+operate dangerous machinery, or consume alcohol while taking 
+narcotic pain medications. 
+
+-Do NOT drive while Foley catheter is in place.
+
+-AVOID lifting/pushing/pulling items heavier than 10 pounds (or 
+3 kilos; about a gallon of milk) or participate in high 
+intensity physical activity (which includes intercourse) until 
+you are cleared by your Urologist in follow-up. Generally about 
+FOUR weeks. Light household chores are generally “ok”.  Do not 
+vacuum. 
+
+-No DRIVING for THREE WEEKS or until you are cleared by your 
+Urologist
+
+-Do not drive or drink alcohol while taking narcotics and do not 
+operate dangerous machinery
+
+-You may be given “prescriptions” for a stool softener ___ a 
+gentle laxative. These are  over-the-counter medications that 
+may be “health care spending account reimbursable.” 
+
+-Colace (docusate sodium) may have been prescribed to avoid 
+post-surgical constipation or constipation related to use of 
+narcotic pain medications. Discontinue if loose stool or 
+diarrhea develops. Colace is a stool-softener, NOT a laxative.
+
+-Senokot (or any gentle laxative) may have been prescribed to 
+further minimize your risk of constipation. 
+
+-You may shower 2 days after surgery, but do not tub bathe, 
+swim, soak, or scrub incision for 2 weeks
+
+-If you had a drain removed from your abdomen, bandage strips 
+called “steristrips” have been applied to close the wound. Allow 
+these bandage strips to fall off on their own ___ days).  
+PLEASE REMOVE any remaining dressings w/ gauze within 2 days of 
+discharge.  You may get the steristrips wet.
+
+-___ medical attention for fevers (temp>101.5), worsening pain, 
+drainage or excessive
+bleeding from incision, chest pain or shortness of breath.
+
+-Your Foley should be secured to the catheter secure on your 
+thigh at ALL times until your follow up with the surgeon.
+
+-Follow up in 1 week for wound check and Foley removal. DO NOT 
+allow anyone that is outside of the urology team remove your 
+Foley for any reason.
+
+-Wear Large Foley bag for majority of time; the leg bag is only 
+for short-term when leaving the house, etc.
+
+-Take prescribed antibiotic for Foley catheter removal as 
+directed
+
+-resume regular home diet and remember to drink plenty of fluids 
+to keep hydrated and to minimize risk of constipation. For the 
+first few days at home, you should eat SMALL PORTIONS.  Avoid 
+high fat, bulky or fried foods. 
+
+ 
+Followup Instructions:
+___

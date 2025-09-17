@@ -1,0 +1,193 @@
+===== DISCHARGE NOTE =====
+note_id=10296093-DS-7 | hadm_id=20895743
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ yo male with no significant PMhx presented to ED with 4 days 
+of progressive chest and right flank pain with a pleuritic 
+component.  Chest CT showed a large saddle Right pulmonary 
+embolus and the patient was placed on heparin.  He denied any 
+recent long travel or stasis periods, prior clots, family 
+history of clots or bleeding.  No testicular lumps, weight 
+changes, lymphadenopathy.
+ 
+Past Medical History:
+none
+no surgical history
+ 
+Social History:
+___
+Family History:
+no history of cancer or clots
+ 
+Physical Exam:
+Afebrile, VSS
+NAD, A&Ox3
+PERRL, EOMI
+CV: ___ s1s2 no murmur, no heave
+Pulm:  decreased breath sounds at right base
+GI:  soft/NT/ND +BS
+Ext: no calf tenderness, no erythema or swelling
+ 
+Pertinent Results:
+___ 03:25PM   PTT-58.9*
+___ 01:10PM   HOMOCYSTN-8.6
+___ 09:15AM   PTT-86.7*
+___ 06:57AM   ___ PTT-150* ___
+___ 03:00AM   D-DIMER-2485*
+___ 01:25AM   GLUCOSE-103 UREA N-13 CREAT-1.1 SODIUM-137 
+POTASSIUM-4.3 CHLORIDE-102 TOTAL CO2-27 ANION GAP-12
+___ 01:25AM   ALT(SGPT)-32 AST(SGOT)-38 ALK PHOS-110 TOT 
+BILI-0.3
+___ 01:25AM   IRON-30* CHOLEST-147
+___ 01:25AM   calTIBC-365 FERRITIN-102 TRF-281
+___ 01:25AM   TRIGLYCER-92 HDL CHOL-70 CHOL/HDL-2.1 
+LDL(CALC)-59
+
+CTA CHEST W&W/O C&RECONS, NON-CORONARY  ___ 5:02 AM
+
+CTA CHEST W&W/O C&RECONS, NON-; CT ABD W&W/O C
+
+Reason: EVAL FOR PE/STONE
+Field of view: 36 Contrast: OPTIRAY
+
+UNDERLYING MEDICAL CONDITION:
+___ year old man with left chest pain, worse with inspiration 
+REASON FOR THIS EXAMINATION:
+eval for pe 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: Left chest pain. Evaluate for pulmonary embolism or 
+renal stone.
+
+TECHNIQUE: Noncontrast MDCT through the abdomen and pelvis 
+followed by Contrast-enhanced MDCT of the chest, abdomen and 
+pelvis. Multiplanar reformations were provided.
+
+COMPARISON: None.
+
+CT CHEST WITH CONTRAST: There is a saddle embolus at the 
+bifurcation of the right middle and right lower lobe pulmonary 
+artery with extension of clot distally into the segmental and 
+subsegmental branches. There may be left sided pulmonary embolus 
+in the left lower lobe superior segmental branch, seen only on a 
+single image (S3a:I22). The heart and great vessels of the 
+mediastinum are otherwise unremarkable. There is residual thymic 
+tissue. There is no pathologic adenopathy. The lungs are clear 
+asiode from minimal atelectasis at the right lung base. There is 
+no left pleural effusion. A tiny right pleural effusion is 
+noted. The airways are patent to the subsegmental level. 
+CT ABDOMEN WITH CONTRAST: The liver, gallbladder, pancreas, 
+spleen, adrenal glands, kidneys and small bowel loops are 
+normal. There is no free air, free fluid or pathologic 
+adenopathy. Multiple small mesenteric lymph nodes do not meet 
+pathologic criteria.
+
+CT PELVIS WITH CONTRAST: The rectum, sigmoid, large bowel, 
+prostate, seminal vesicles, bladder and pelvic small bowel loops 
+are normal. There is no free air, free fluid or pathologic 
+adenopathy. 
+
+BONE WINDOWS: The osseous structures are normal. Note is made of 
+a bone island in the left acetabular roof.
+
+IMPRESSION: 
+
+1. Right interlobar (saddle) PE extending into right middle and 
+lower ___ branches. Probable small left lower lobe segmental 
+PE. Tiny right pleural effusion, minimal right basilar 
+atelectasis.
+
+2. No acute intra-abdominal process.
+
+___ bilateral ___ venous doppler U/S
+IMPRESSION: No evidence of DVT in the bilateral lower 
+extremities.
+
+CHEST TWO VIEWS ___
+
+CLINICAL INFORMATION: Alcohol withdrawal, fever, question 
+pneumonia.
+
+No prior chest x-rays for comparison.
+
+At the right lung base, there is focal consolidation. There is 
+also a focal opacity within the right middle lobe. These 
+findings would be consistent with either pneumonia or 
+aspiration. There is also a small right pleural effusion. The 
+left lung is relatively clear. Cardiomediastinal silhouette is 
+unremarkable. Visualized osseous structures are unremarkable.
+
+IMPRESSION:
+1. Focal infiltrate/consolidation and right middle lobe and 
+lower lobe consistent with aspiration versus pneumonia.
+2. Small right pleural effusion.
+
+ 
+Brief Hospital Course:
+This ___ yo male with no significant PMHx was admitted for right 
+sided saddle PE.
+
+1.  PE:  the patient was placed on heparin gtt after receiving a 
+bolus and subsequently started on coumadin therapy.  His 
+pleuritic chest pain was managed initially with IV dilaudid, 
+then transitioned to oral analgesics.  The patient was deemed a 
+poor candidate for lovenox bridge while on coumadin because of 
+difficulty understanding the seriousness of his diagnosis.  A 
+hypercoaguable work up for the etiology for his PE was 
+initiated, given no instigating event or family history.  The 
+patient had a negative testicular exam and no evidence of any 
+LAD on a pelvic CT scan performed on admission.  His labs 
+(factor V leiden, prothrombin mutation) were pending on 
+discharge.  His INR was 2.0 on ___ and 2.3 on ___.  A nursing 
+appointment was arranged at ___ for INR on ___.
+
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1. Percocet ___ mg Tablet Sig: One (1) Tablet PO every ___ 
+hours as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Warfarin 2.5 mg Tablet Sig: Two (2) Tablet PO once a day.
+Disp:*60 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+pulmonary embolus
+
+ 
+Discharge Condition:
+stable, on no supplemental oxygen
+
+ 
+Discharge Instructions:
+You were admitted with chest pain and found to have a pulmonary 
+embolus (a large blood clot in your lung ateries).  You will 
+need to continue on coumadin for at least 6 months.  
+ 
+Followup Instructions:
+___

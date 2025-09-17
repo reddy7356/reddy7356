@@ -1,0 +1,450 @@
+===== DISCHARGE NOTE =====
+note_id=10427443-DS-6 | hadm_id=26245059
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea
+
+ 
+Major Surgical or Invasive Procedure:
+s/p cardiac catheterization with DES to the LAD ___
+s/p ICD placement on ___
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with PMH of HTN, poorly controlled diabetes 
+who was admitted to CCU for management of LAD STEMI. Patient 
+reports episodes of severe chest pain associated with shortness 
+of breath, palpitations, diaphoresis and nausea about three 
+weeks ago. He went to ___ at that time and was 
+treated with Levaquin for pneumonia.  He reports not being able 
+to sleep for 3 nights due to chest pain and shortness of breath. 
+ His symptoms then improved however he was still not back to his 
+baseline.  He overall felt more tired and fatigue.  Then last 
+night he had recurrence of his chest chest tightness of ___ 
+associated with tachycardia and shortness of breath. He then 
+presented to ___ this morning and was found to have 
+wide-complex tachycardia and HR in the 190s. He was then given 2 
+doses of adenosine and 1 dose of amiodarone with no relief of 
+symptoms. He was then cardioverted successfuly with 200J then 
+360J. Repeat EKG showed sinus rhythm with ST Elevations of 2mm 
+in V2, 0.5mm in V1 and 1mm in V3. He was then asymptomatic with 
+no chest pain or shortness of breath. He was given aspirin and 
+started on Heparin gtt. He was then transferred to ___ for 
+further evaluation and management.
+
+He was taken directly to cath lab for concern of STEMI.  In the 
+cath lab, he was found to have complete occlusion of mid LAD 
+which was stented with DES through right radial access. He was 
+started on Tirofiban and was 600mg plavix loaded. Subsequently 
+admitted to the CCU for further monitoring.
+
+Currently patient reports shortness of breath and chest pain has 
+resolved.  He reports episodes of shortness of breath, orthopnea 
+and PND in the past three weeks.  
+
+ 
+Past Medical History:
+Hypertension
+Diabetes Mellitus
+Retinitis Pigmentosa
+ 
+Social History:
+___
+Family History:
+Father had a 6way heart bypass at age ___
+Mother passed away of stroke at age ___ 
+ 
+Physical Exam:
+ADMISSION EXAM:
+VS: T=98.1 BP=130/87 (SBP=130-153/DBP=86-106) HR=109-114 
+___ O2sat= 96-99% on 4L
+Gen: Well appearing gentleman not in acute distress
+HEENT: PER, No cervical lymphadenopathy
+NECK: JVP at around 14
+CV: RRR, II/VI systolic murmur at apex
+LUNGS: Mild bilateral basal crackles
+ABD: Normal bowel sounds, soft, no tenderness
+EXT: 2+ Bilateral lower extremity edema
+PULSES: Full and equal
+SKIN: Warm and moist
+NEURO: Oriented
+
+DISCHARGE EXAM:
+VS: Tmax/Tcurrent: Afebrile, 120-138/78-101, HR 86-92sinus, 97% 
+RA. I/O:  24h:  600/375 8h:  440/525 +++
+Weight: 134kg (136.3kg)
+Gen: Well-appearing gentleman sitting up in bed, speaking 
+comfortably in full sentences, not in acute distress.
+HEENT: No cervical lymphadenopathy
+NECK: Cannot appreciate JVD. 
+CV: RRR, II/VI systolic murmur at apex
+LUNGS: CTAB
+ABD: Normal bowel sounds, soft, no tenderness
+EXT: trace lower extremity edema. right wrist with normal CSM.
+PULSES: Full and equal
+SKIN: Warm and moist. Left chest wall with patent gauze/tegaderm 
+dssing. No bleeding/hematoma. Normal CSM to left arm
+NEURO: Oriented
+ 
+Pertinent Results:
+ADMISSION LABS:
+=================
+___ 07:30AM BLOOD WBC-11.8* RBC-5.46 Hgb-15.5 Hct-46.4 
+MCV-85 MCH-28.4 MCHC-33.4 RDW-13.8 Plt ___
+___ 07:30AM BLOOD Neuts-68.2 ___ Monos-5.3 Eos-1.6 
+Baso-0.4
+___ 07:30AM BLOOD ___ PTT-83.8* ___
+___ 07:30AM BLOOD Glucose-433* UreaN-14 Creat-0.9 Na-136 
+K-4.8 Cl-99 HCO3-21* AnGap-21*
+___ 03:37AM BLOOD ALT-27 AST-18 LD(LDH)-261* AlkPhos-90 
+TotBili-0.6
+___ 07:30AM BLOOD cTropnT-0.23*
+___ 07:30AM BLOOD Calcium-9.0 Phos-3.6 Mg-1.8
+
+PERTINENT LABS:
+=================
+___ 05:27PM BLOOD cTropnT-0.30*
+___ 03:37AM BLOOD cTropnT-0.32*
+___ 07:30AM BLOOD %HbA1c-12.6* eAG-315*
+___ 05:27PM BLOOD Triglyc-165* HDL-43 CHOL/HD-5.2 
+LDLcalc-148*
+___ 05:27PM BLOOD TSH-1.9
+
+DISCHARGE LABS:
+=================
+___ 05:00AM BLOOD WBC-9.6 RBC-5.14 Hgb-14.9 Hct-43.0 MCV-84 
+MCH-29.0 MCHC-34.7 RDW-14.1 Plt ___
+___ 05:00AM BLOOD ___ PTT-41.5* ___
+___ 05:00AM BLOOD Glucose-184* UreaN-13 Creat-0.9 Na-137 
+K-4.1 Cl-100 HCO3-28 AnGap-13
+___ 05:00AM BLOOD Calcium-8.7 Phos-4.1 Mg-1.9
+
+MICROBIOLOGY:
+=================
+___ 10:23 am MRSA SCREEN      Source: Nasal swab. 
+   MRSA SCREEN (Final ___:    No MRSA isolated. 
+
+STUDIES:
+=================
+ECGStudy Date of ___  12:00:42 ___
+Sinus tachycardia. Leftward axis. Inferior wall myocardial 
+infarction of indeterminate age. Anterior wall myocardial 
+infarction of indeterminate age with ST segment elevation in the 
+mid-precordial leads consistent with ST elevation myocardial 
+infarction. Low voltage in the limb leads. Clinical correlation 
+for ST elevation myocardial infarction is suggested. No previous 
+tracing available for comparison.
+ IntervalsAxes
+___
+___
+
+CARDIAC CATH (___):
+- Dominance: Right
+- LMCA: normal
+- LAD: totally occluded after D1
+- LCX: normal
+- RCA: normal
+- Using an XBLAD 3.5 guide, the LAD occlusion was crossed with a 
+Pilot 50 wire and dilated with a 2.5 balloon restoring flow. 
+This was then stented with a 2.75 x 22 Resolute ___ 
+postdilated to 3.0 mm with no residual and restoration of near 
+normal flow. The mid and distal LAD had diffuse disease to 60%. 
+Time to intervention was delayed due to initial ventricular 
+tachycardia and transfer from ___. 
+RECOMMENDATIONS:
+- Monitor in CCU
+- Follow enzymes. Cardiac ECHO.
+- Continue aspirin indefinitely, clopidogrel minimum ___ year. 
+
+ECG Study Date of ___  7:38:44 AM 
+Sinus tachycardia. Probable inferior wall myocardial infarction 
+of 
+indeterminate age. Loss of R waves in the anterolateral leads 
+suggests 
+extensive myocardial infarction of indeterminate age. Low QRS 
+voltages in the limb leads. Modest diffuse ST-T wave changes.  
+TRACING #1 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+112 166 74 332/423 35 -13 145 
+ 
+Portable TTE (Complete) Done ___ at 4:02:31 ___      FINAL 
+The left atrium is mildly dilated. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size. Overall left 
+ventricular systolic function is moderately depressed (Biplane 
+LVEF= 30%) secondary to akinesis of the apex, septum, and distal 
+anterior and inferior walls. A large (2.7 x 2.3 cm) apical 
+thrombus is seen in the left ventricle. Two smaller thrombi are 
+also appreciated along the distal inferior wall. The ascending 
+aorta is mildly dilated. The aortic arch is mildly dilated. The 
+aortic valve leaflets (3) appear structurally normal with good 
+leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve leaflets are structurally 
+normal. Trivial mitral regurgitation is seen. The estimated 
+pulmonary artery systolic pressure is normal. There is no 
+pericardial effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+moderate-severe regional and global systolic dysfunction c/w 
+CAD. Multiple LV thrombi as described above. Restrictive LV 
+filling. No significant valvular disease.
+
+ECG Study Date of ___  7:46:30 AM 
+Sinus tachycardia. Compared to tracing #1 multiple described 
+abnormalities persist. TRACING #2 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+111 162 76 336/425 37 -10 147 
+ 
+ECG Study Date of ___  9:26:30 AM 
+Sinus tachycardia. Compared to tracing ___ 
+segment appears to be elevated with more biphasic T waves 
+suggestive of acute myocardial injury pattern. Compared to 
+tracing ___ segment elevation appears more 
+pronounced. Clinical correlation is suggested.  TRACING #3 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+110 174 80 340/427 57 -9 141 
+
+CHEST (PORTABLE AP) Study Date of ___ 9:47 ___ 
+IMPRESSION:  
+The lung volumes are low. Minimal blunting of the left 
+costophrenic sinus 
+could be caused by a minimal pleural effusion. The retrocardiac 
+atelectasis is visualized. Mild pulmonary edema is present.  No 
+evidence of pneumonia. No pneumothorax. Borderline size of the 
+cardiac silhouette. 
+
+ECG Study Date of ___  4:04:56 ___ 
+Sinus tachycardia. Inferior myocardial infarction of 
+indeteminate age. 
+Anterior wall myocardial infarction which could be recent/acute. 
+Low 
+QRS voltage in the limb leads. Compared to the previous tracing 
+of ___ no significant change. 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+113 160 86 330/422 31 -24 135 
+ 
+ECG Study Date of ___  8:49:52 AM 
+Sinus rhythmm. Left atrial abnormality. Prior inferior 
+myocardial infarction and prior anteroseptal and lateral 
+myocardial infarction with continued ST segment elevation which 
+is upward coved in leads V1-V6 consistent with ongoing or recent 
+anteroseptal, lateral and apical myocardial infarction. Followup 
+and clinical correlation are suggested. Compared to the previous 
+tracing of ___ no diagnostic interim change. 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+96 158 82 370/433 23 -9 161 
+
+CHEST (PA & LAT) Study Date of ___ 9:38 AM 
+IMPRESSION:  
+Small left pleural effusion and moderate left lower lobe 
+atelectasis are 
+probably unchanged since ___.  There is no pneumothorax. 
+Transvenous right atrial pacer and right ventricular pacer 
+defibrillator leads follow their expected courses from the left 
+pectoral generator.  Heart is normal size.  There is no 
+mediastinal widening.  Right lung is clear. 
+
+ 
+
+ 
+
+ 
+Brief Hospital Course:
+___ with PMH of HTN, poorly controlled diabetes who was admitted 
+to CCU for management of LAD STEMI s/p DES. Now s/p ICD for VT 
+and newly-dx LV thrombi being managed with Coumadin. 
+
+#) ACUTE CORONARY SYNDROME: Patient most likely had the LAD 
+STEMI about three weeks ago as evidenced by his q waves. He had 
+complete occlusion of his LAD s/p ___ on ___. Was 
+subsequently treated with tirofiban for 8 hours, and was started 
+on Aspirin 81mg daily, Clopidogrel 75mg daily (after being 
+loaded with 600 mg initially), and Atorvastatin 80mg Daily. Also 
+treated with heparin gtt for multiple LV thrombi seen on ECHO 
+(as below). Dose of lisinopril increased from 10 mg to 40 mg 
+daily. Was started on metoprolol succinate 100mg po qam and 50mg 
+po qpm.  
+
+#) APICAL THROMBUS: multiple LV thrombi seen on ___ ECHO - a 
+large (2.7 x 2.3 cm) apical thrombus, as well as two smaller 
+thrombi along the distal inferior wall. Heparin gtt started 
+___. Started on coumadin, which was titrated to 4 mg qd on 
+discharge. INR on ___ was 3.5. Patient will f/u with Dr. ___ 
+___ for INR management. Will need repeat ECHO in 3 months to 
+reassess LV thrombi. 
+
+#) SYSTOLIC HEART FAILURE, TTE ___ with EF 30%: Patient has 
+clinical symptoms of heart failure with shortness of breath, 
+orthopnea and PND for the past three weeks.   Patient initially 
+diuresed with 20 mg IV lasix, and then transitioned to 40 mg PO 
+lasix daily.  Managed with metoprolol and ACEI as above. 
+
+#) V TACH: initially presented to ___ on ___ with 
+ventricular tachycardia @ 205 bpm.  VT likely in setting of 
+infarct. Was cardioverted to sinus rhythm, and transferred to 
+___ for further management. On ___, a ___ 
+Energen dual-chamber ICD was successfully implanted for 
+secondary prevention of sudden cardiac death. Patient was 
+treated with 1 dose of vancomycin, followed by 3 days of 
+cephalexin. Will f/u with EP and device clinic. 
+
+#) DIABETES: Uncontrolled; HbA1c now 12.6. ___ consulted. 
+Patient treated with lantus + HISS while in-house. Patient will 
+be discharged with ___ f/u, on Lantus + Humalog ISS, while 
+continuing metformin. 
+
+#)HYPERTENSION: increased dose of lisinopril and started on 
+metoprolol as above.
+
+TRANSITIONAL ISSUES:
+# CODE: Full
+# CONTACT:  ___ (___)
+- ICD placed; will f/u with EP and device clinic
+- Started on warfarin for anticoagulation given LV thrombus; 
+will f/u with Dr. ___ for INR management. 
+- Will need repeat ECHO in 3 months to reassess LV thrombi. 
+- Started on Aspirin 81mg daily, Clopidogrel 75mg daily, 
+Atorvastatin 80mg Daily, Metoprolol succinate 100mg po qam and 
+50mg po qpm.
+- Started on Furosemide 40 mg PO DAILY for ___
+- Started on lantus + humalog SSI, in addition to metformin - 
+for better control of DM
+- Dose of lisinopril increased from 10 mg to 40 mg daily
+- Needs to complete 3 more doses of cephalexin s/p ICD placement
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetFORMIN (Glucophage) 1000 mg PO BID 
+2. Lisinopril 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin EC 81 mg PO DAILY 
+2. Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*3
+3. Clopidogrel 75 mg PO DAILY 
+DO NOT STOP unless TOLD TO BY ___ 
+___ *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*11
+4. Furosemide 40 mg PO DAILY 
+RX *furosemide 40 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*3
+5. Glargine 20 Units Breakfast
+Humalog 6 Units Breakfast
+Humalog 6 Units Lunch
+Humalog 8 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+RX *insulin glargine [Lantus] 100 unit/mL AS DIR 20 Units before 
+BKFT; Disp #*2 Vial Refills:*1
+RX *insulin lispro [Humalog] 100 unit/mL AS DIR Up to 12 Units 
+QID per sliding scale Disp #*1 Vial Refills:*0
+RX *insulin syringe-needle U-100 [BD Insulin Syringe Ultra-Fine] 
+31 gauge x ___ for insulin injections up to five times a day 5 
+x daily Disp #*150 Syringe Refills:*1
+6. Lisinopril 40 mg PO DAILY 
+RX *lisinopril 40 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*3
+7. Metoprolol Succinate XL 100 mg PO DAILY 
+RX *metoprolol succinate 100 mg 1 tablet(s) by mouth daily in am 
+Disp #*30 Tablet Refills:*3
+8. Metoprolol Succinate XL 50 mg PO QPM 
+RX *metoprolol succinate 50 mg 1 tablet(s) by mouth daily in pm 
+Disp #*30 Tablet Refills:*3
+9. Cephalexin 500 mg PO Q8H Duration: 3 Doses 
+RX *cephalexin 500 mg 1 capsule(s) by mouth three times a day 
+Disp #*3 Capsule Refills:*0
+10. Outpatient Lab Work
+420.0
+INR draw ___
+RESULTS sent to: Dr. ___: ___  Fax: ___ 
+
+11. Outpatient Lab Work
+420.0
+INR/ Chem 7 draw ___
+RESULTS sent to: Dr. ___: ___  Fax: ___ 
+
+12. MetFORMIN (Glucophage) 1000 mg PO BID 
+13. Warfarin 4 mg PO DAILY16 
+Dr. ___ will call you to tell you what to take after you have 
+your INR drawn 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+ventricular tachycardia 
+acute coronary syndrome s/p DES to the LAD
+poorly controlled diabete Type II
+systolic heart failure (EF 30%)
+LV thrombus (on coumadin)
+s/p ICD placement ___ 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___, 
+You were transferred to ___ for treatment of your chest 
+pain and arrythmia. You EKG was concerning and upon arrival you 
+were taken to the cardiac cathterization lab where a blockage 
+was found in the left anterior descending artery. A ___ was 
+placed to open the blockage successfully. Following the cardiac 
+cathterization an ultrasound of the heart called an 
+echocardiogram was done which revealed a clot in the left 
+ventricle which puts you at risk for stroke. You were started on 
+anticoagulation called coumadin which we are monitoring its 
+effectiveness by drawing a lab called an INR. Dr. ___ will call 
+you to dose your coumadin appropriately based on these labs. You 
+will receive lab slips for the outpatient lab work. 
+
+Because you had a lethal arrythmia called ventricular 
+tachycardia you needed an ICD, defibrillator which was placed in 
+the chest and will activate if you go into another lethal 
+arrythmia while at home. You have a follow up in the device 
+clinic to assess the site and the settings.
+
+You now have a history of heart failure and need to weigh 
+yourself every day. If your weight goes up more than 3 pounds in 
+1 day or more than 5 pounds in 2 days please call Dr. ___. Your 
+weight on day of discharge is 295 pounds. 
+
+You have been started on insulin for your blood sugars which was 
+not well controlled on pills alone and have been given injection 
+teaching and wil have a follow up with ___ for care in the 
+next week. 
+
+You have been given an updated list of the medications you are 
+taking on discharge. 
+
+Activity restrictions per nursing. 
+
+It was a pleasure taking care of you this hospitalization. If 
+you have any queations related to your stay please feel free to 
+contact the heartline. 
+ 
+Followup Instructions:
+___

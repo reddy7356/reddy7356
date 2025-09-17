@@ -1,0 +1,263 @@
+===== DISCHARGE NOTE =====
+note_id=10300512-DS-11 | hadm_id=21258623
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / tetanus toxoid, adsorbed
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left foot pain
+ 
+Major Surgical or Invasive Procedure:
+Incision and drainage of left foot abscess with gram stain of 
+abscess fluid growing gram-positive cocci in clusters, not 
+speciated at time of discharge.
+
+ 
+History of Present Illness:
+Patient is a ___ man with h/o DM, HTN, HLD, NASH, and recurrent 
+cellulitis/abscesses who presented with a left foot infection 
+s/p I&D in the ED and admitted for IV antibiotics. Patient 
+reports that 1 week ago, he felt a scratch from something like a 
+pebble in his shoe. When he took his shoe off, he noticed a 
+small open cut on the plantar surface of his left foot. He noted 
+it was pruritic and was scratching it throughout the day. The 
+next morning he noticed redness around the cut and said it had 
+turned into a painful boil. Over the next two days, he was 
+unable to walk due to the pain and he admitted to dull bifrontal 
+headache as well. He went to the ___ ED where he was determined 
+to have an abscess that was drained and he was discharged on 
+ciprofloxacin 500mg BID. 
+
+Since discharge from ___, he has been doing well, with stable 
+but not increasing pain, no redness or purulent drainage from 
+the site of the I&D, and no spreading erythema. He does admit to 
+some swelling of his left foot and ankle, but has full range of 
+motion. He says he has had a h/o abscesses thoughout his life, 
+including on his ear, over his chest, and on his testicle as 
+well as cellulitis over his wrists. He denies any fevers/chills, 
+nausea/vomiting, SOB/CP, abdominal pain, or any other joint 
+pains. He does admit to a fungal rash over his right chest and 
+shoulder for which he uses nystatin cream.
+
+In the ED, initial VS: T 98.2 HR 79 BP 135/90 RR 16 O2Sat 99%RA. 
+Labs were remarkable for Hct 37.6, BG 312. L foot XR showed soft 
+tissue swelling, no osteomyelitis. Podiatry was consulted, and 
+I&D was performed. Wound cultures and blood cultures were sent. 
+Patient was given vanc, cipro, flagyl, and tylenol. 
+ 
+On the floor, VS: T 97.9 HR 66 BP 121/73 RR 16 O2Sat 97%RA. He 
+was given one dose of IV vancomycin 1g and one dose of oxycodone 
+5mg for pain.
+ 
+Past Medical History:
+DM  
+HTN  
+HLD  
+Sleep apnea    
+Steatohepatitis
+PTSD/Depression  
+OCD  
+Asthma: Multiple ED visits. No hospitalizations at ___. PFT 
+___ -mild OVD with good BD response. Baseline peak flow ~650.  
+
+Thalessemia trait with splenomegaly 
+
+ 
+Social History:
+___
+Family History:
+The patient states his mother, father, and 4 brothers have a
+history of alcohol dependence.  He states two of his brothers 
+suffer from depression and 1 committed suicide.
+
+ 
+Physical Exam:
+ADMISSION:
+Vitals- 98.1 122/71 71 18 99%RA  
+General- Alert, oriented, flat affect but pleasant, NAD  
+HEENT- Sclera anicteric, MMM  
+Neck- supple, JVP low, no LAB  
+Lungs- Clear to auscultation bilaterally, moving air well and 
+symmetrically, no wheezes, rales or ronchi  
+CV- Regular rate and rhythm, S1 + S2 clear and of good quality, 
+no murmurs, rubs, gallops appreciated  
+Abdomen- soft, non-tender, non-distended, normoactive bowel 
+sounds Ext- warm, well perfused, 2+ pulses, no clubbing, 
+cyanosis or edema. ON plantar aspect of left lateral foot there 
+is a small 2 cm linear superficial incision without expressible 
+fluid. It is tender to palpatin, there is no surrounding 
+erythema but is slightly indurated. No warm to touch. There is a 
+surrounding area of hypopigmentation encircling lesion.  
+Neuro- CNs2-12 intact, motor function grossly normal, sensation 
+in feet intact. 
+
+DISCHARGE:
+VS: Tm 98.1 Tc 97.7 BP 107/56 (107-122/56-71) HR 66 (66-71) RR 
+18 O2Sat 96-99%RA
+General: NAD, comfortable
+HEENT: NCAT, PERRL, EOMI, OP clear, MMM  
+Neck: supple, no LAD, no masses  
+CV: RRR, normal S1/S2, no murmurs 
+Lungs: CTAB, no wheezing or crackles
+Chest: ring-like tan-colored splotchy macular rash with 
+irregular borders over right shoulder and chest
+Abdomen: soft, non-tender, non-distended, +BS, liver and spleen 
+no palpable 
+Ext: clean, dry incision from I&D over plantar surface of left 
+foot with surrounding yellowing, erythema and warmth, no 
+induration, fluctuance, purulence, pain on palpation. 1+ 
+non-pitting edema around L ankle, not tender to palpation, no 
+erythema or warmth, full range of passive and active motion    
+Neuro: A&Ox3, no focal deficits
+ 
+Pertinent Results:
+ADMISSION:
+
+___ 04:40PM BLOOD WBC-7.3 RBC-6.43* Hgb-12.5* Hct-37.6* 
+MCV-59* MCH-19.4* MCHC-33.1 RDW-14.7 Plt ___
+___ 04:40PM BLOOD Neuts-60.0 ___ Monos-4.5 Eos-2.5 
+Baso-0.8
+___ 04:40PM BLOOD Plt ___
+___ 04:40PM BLOOD Glucose-312* UreaN-14 Creat-0.8 Na-133 
+K-4.1 Cl-102 HCO3-29 AnGap-6*
+___ 05:02PM BLOOD Lactate-1.6
+
+Left foot XR (___): Soft tissue swelling without 
+radiographic evidence of osteomyelitis.  Focal lucency/gas 
+projecting over the soft tissues adjacent to the ___ metatarsal 
+head could be related to recent incision and drainage but 
+clinical correlation is suggested.
+
+DISCHARGE:
+
+___ 08:35AM BLOOD WBC-7.0 RBC-6.07 Hgb-11.6* Hct-35.6* 
+MCV-59* MCH-19.1* MCHC-32.5 RDW-14.7 Plt ___
+___ 08:35AM BLOOD ___
+___ 08:35AM BLOOD Plt ___
+___ 08:35AM BLOOD Glucose-171* UreaN-15 Creat-0.7 Na-140 
+K-4.0 Cl-105 HCO3-26 AnGap-13
+___ 08:35AM BLOOD Calcium-8.7 Phos-4.0 Mg-1.___SSESSMENT AND PLAN:
+___ man with h/o DM, HTN, HLD, ___, and recurrent 
+cellulitis/abscesses who presented with a left foot infection 
+s/p I&D in the ED and admitted for IV antibiotics  
+
+Active Issues
+# Abscess/cellulitis: likely ___ to cut and open wound on 
+plantar surface of left foot from 1 week ago. Treated at ___ ED 
+with I&D and ciprofloxacin likely due to diabetes and 
+predisposition for GNR infection; however, no gram positive 
+coverage given. Abscess did not resolve and presented to ___ 
+ED with left foot pain, now s/p I&D, IV vanc/cipro/flagyl. Low 
+suspicion for osteomyelitis given superficial abscess, no 
+tenderness to palpation of metatarsals or ankle, full range of 
+passive/active motion. Some slight erythema and warmth 
+surrounding incision site, but no induration, fluctuance, or 
+purulence. Abscess fluid culture sent and growing GPCs in 
+clusters, this most likely represents staph and patient has 
+history of MSSA abscess but ___ years prior. Blood cultures 
+pending. Hemodynamically stable, meeting ___ SIRS criteria, low 
+suspicion for sepsis, but received 1L NS bolus. Will cover with 
+PO clindamycin for MRSA, GPCs given penicillin allergy. Received 
+oxycodone for pain.
+- Continue clindamycin 300mg PO TID for 10 days
+- Follow-up wound/blood cultures 
+
+Chronic Issues
+# Diabetes Mellitus: Chronic DMII, followed at ___, insulin 
+dependent and poorly controlled with last HbA1c of 11.6%, 
+complicated by peripheral neuropathy.  
+- Continue home insulin regimen  
+ 
+# HTN: Chronic, stable and admitted in good control  
+- Continue Lisinopril 2.5 mg PO DAILY  
+ 
+# HLD: Chronic, stable, patient no longer taking fish oil or 
+fenofibrate  
+ 
+# Psych: Chronic, recently hospitalized at ___ for depression 
+this past ___. Currently denies SI. Patient no longer taking 
+Sertraline 100 mg PO DAILY or ClonazePAM 0.5 mg PO TID  
+- Continue MethylPHENIDATE (Ritalin) 10 mg PO BID   
+ 
+# OSA: Chronic, stable, not using CPAP at home  
+ 
+# FEN: IVFs, replete electrolytes, Diabetic diet  
+# PPX: Heparin sq, senna/colace, pain meds (no acetominophen)  
+# ACCESS: PIV
+# CODE: Full  
+# CONTACT: ___ (mother) ___  
+
+# Transitonial Issues: Plan for patient to be discharged home on 
+PO antibiotics covering for MRSA and GPCs.
+- Follow-up with PCP ___ 1 week.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Gabapentin 300 mg PO TID 
+2. Aspart 30 Units Breakfast
+Aspart 30 Units Lunch
+Aspart 30 Units Dinner
+Levemir 30 Units Breakfast
+Levemir 30 Units Dinner
+Insulin SC Sliding Scale using Aspart Insulin
+3. Lisinopril 2.5 mg PO DAILY 
+4. MethylPHENIDATE (Ritalin) 10 mg PO BID 
+5. Nystatin 100,000 units/g topical cream BID
+ 
+Discharge Medications:
+1. Gabapentin 300 mg PO TID 
+2. Aspart 30 Units Breakfast
+Aspart 30 Units Lunch
+Aspart 30 Units Dinner
+Levemir 30 Units Breakfast
+Levemir 30 Units Dinner
+Insulin SC Sliding Scale using Aspart Insulin
+3. Lisinopril 2.5 mg PO DAILY 
+4. MethylPHENIDATE (Ritalin) 10 mg PO BID 
+5. Clindamycin 300 mg PO Q8H Duration: 10 Days 
+RX *clindamycin HCl 300 mg 1 capsule(s) by mouth q8 Disp #*27 
+Capsule Refills:*0
+6. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN Pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Left foot abscess and cellulitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the ___ inpatient medicine service for an 
+infection and abscess on your left foot. An incision and 
+drainage was performed in the ED and you were treated with IV 
+antibiotics. Your vital signs were stable throughout your 
+admission and you never had a fever. You were discharged on oral 
+antibiotics (clindamycin 300mg) that you should continue taking 
+3 times per day for 10 days. 
+
+You should follow-up with your PCP ___ 2 weeks.
+ 
+Followup Instructions:
+___

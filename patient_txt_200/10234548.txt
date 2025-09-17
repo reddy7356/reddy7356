@@ -1,0 +1,243 @@
+===== DISCHARGE NOTE =====
+note_id=10234548-DS-16 | hadm_id=23854042
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p Multiple stab wound assault
+ 
+Major Surgical or Invasive Procedure:
+___ Repair of diaphragm and liver injuries; repair of tracheal 
+and esophageal lacerations; repair of head/facial lacerations
+
+___ Tracheal & esophageal repair; right VATS; mediastinal 
+drainage and G/J tube placement
+
+___ Bronchoscopy
+
+___ RUQ ultrasound
+
+___  RUQ ultrasound w/aspiration
+
+___ UGI series
+
+ 
+History of Present Illness:
+___ year-old male s/p multiple stab wounds to his head, face, 
+neck, right shoulder, right arm and abdomen. He was taken to an 
+area hospital where a right chest tube was placed which drained 
+about 100 cc of blood. He was then transported to ___ via 
+Medflight; he was hemodynamically stable upon arrival to the 
+Emergency department. On initial work-up, chest x-ray showed an 
+expanded right lung with a chest tube in place. His airway was 
+intact, although he had an anterior stab wound to the neck which 
+showed gurgling sounds of air emanating at inspiration. The fast 
+examination in the trauma bay was positive and he was taken to 
+the operating room immediately for an exploratory laparotomy
+and repair of his mulitple injuries.
+ 
+Past Medical History:
+None
+ 
+Family History:
+Noncontributory
+ 
+Pertinent Results:
+___ Urine cx: no growth
+___ Urine cx: no growth
+___ Sputum cx: mod OPF
+___ Sputum cx: mod growth Haemophilus Influenzae, beta-lact 
+neg, presumptively sensitive to Ampicillin-beta lactamase 
+sensitive
+___ MRSA screen: negative
+___ Urine cx: no growth
+___ tissue cx:2+ PMN, prelim G+ cocci in pairs-coag neg staph
+___ abscess: 4+ PMN, 2+ G+ cocci in pairs:  strep viridans, 
+___ albicans, staph coag negative 
+___ pleural fluid: no growth
+___ blood cx: final no growth
+___ blood cx: final no growth
+___ tissue cx: 2+ PMN, prelim G+ cocci in pairs
+___ urine cx: no growth
+___ Sputum cx: no growth
+___ urine cx: Neg
+___ blood cx: pending
+___ blood cx: pending
+___ BAL: 2+ PMN, 1+ G+ cocci in pairs and clusters (neg cx - no 
+growth, no fungus)
+___ CDiff -negative
+___ blood cx: pending
+___ blood cx: pending
+___ sputum: invalid, contaminated
+___ urine cx: no growth
+___ CVL tip cx: (prelim) no signif growth
+
+Imaging:
+___ CXR:  Pneumomediastinum.  Possible small right ptx. 
+Extensive subcutaneous emphysema, particularly of the shoulders 
+and neck. 
+___ postop CXR: Small apical PTX on L.  Retrocardiac opacity 
+c/w atelectasis.  L brachiocephalic CVL passing across chest 
+into L brachiocephalic vein. 
+___ CT head:  No IC hemorrhage or mass effect. Extensive soft 
+tissue emphysema of the neck which traverses fascial planes
+___ CT c-spine: No cervical spine fracture or malalignment. 
+Extensive subcutaneous and intramuscular emphysema throughout 
+the anterior neck which extends through fascial planes to 
+involve the prevertebral, masticator, and carotid spaces as well 
+as superior anterior mediastinum. The sites of penetrating 
+trauma are difficult to define given extent of emphysema. No 
+discrete hematoma is seen. Small biapical pneumothoraces. 
+___: CXR - No PTX, widening of the paraverterbral stripe
+___: CXR - multifocal pneumonia, resolution of pneumo from 
+earlier in day
+___: CXR - improved aeration of R lung, slight increase in 
+opacity in L mid lung. 
+___: CXR - (post WS) No PTX.  RM lung opacity unchanged.  
+Additional clearing in RUL, stable density LLL. No change in NGT 
+and trach position. Better aeration L mid lung.
+___: CT neck/chest-Air collections-post-cricoid region/proximal 
+esophagus to R of midline, retropharyngeal space inferiorly into 
+the posterior superior mediastinum w/ air and soft tissue 
+density-mediastinitis. rim- enhancing collection in the 
+posterior and right 
+superior mediastinum ? abscess.
+___: CXR-Patchy areas of opacification could well represent 
+pulmonary contusion or postoperative atelectasis. CVL placed.
+___: CT neck/chest - soft tissue swelling, gas in the 
+prevertebral space, no fluid collect. Locules of gas in the 
+mediastinum c/w mediastinitis. no drainable collect. Liver lac.
+___: CT c/a/p - no signif change from 1 day ago.  Extensive 
+mediastinal inflammatory change with fluid and gas with 
+mediastinal drain in place and no drainable fluid collection.  
+Unchanged extensive pneumonia of lower lobes bilaterally. 
+Unchanged hepatic lacerations with layering hematoma.  No 
+intra-abd or pelvic abscess 
+___: Bedside bronch by IP:  Tracheal anastamosis with 
+granulation tissue, no signif stenosis, site healing still 
+slightly friable.
+
+ 
+Brief Hospital Course:
+He was admitted to the Trauma Service and taken immediately to 
+the operating room for repair of his injuries; there was an 
+approximate 800 cc blood loss intraoperatively. Postoperatively 
+he was taken to the Trauma ICU for close monitoring. Thoracics 
+was consulted given his esophageal and tracheal injuries; he was 
+taken to the operating room on ___ for right VATS mediastinal 
+drainage, laparotomy with tube gastrostomy and tube jejunostomy, 
+cervical exploration and drainage and primary repair of trachea 
+and esophagus with a sternohyoid muscle flap buttress. There 
+were no intraoperative complications. On ___ he was extubated 
+without incident. He was taken back to the operating room on 
+___ for a bronchoscopy in order to verify the anastomotic site 
+within the trachea. He was placed on IV antibiotics and will 
+need to continue the course for a total of 6 weeks following 
+repair. 
+
+His hematocrit began to drop; he underwent a tagged RBC scan on 
+___ which showed immediate pooling of tracer in the left 
+abdomen, likely within loops of
+jejunum. Gastroenterology was consulted; he required blood 
+transfusions and was started on IV PPI twice daily. His 
+hematocrits were followed closely; Hct as of ___ was 33.
+
+He underwent an upper GI series on ___ which showed no 
+evidence of esophageal leak. He was started on a clear liquid 
+diet and eventually upgraded to full liquids.
+
+Infectious Disease was consulted for recommendations on home 
+antibiotics; it was recommended that he remain on Vancomycin and 
+Augmentin until follow up in ___ clinic early ___.
+
+Social work was involved early on due to the nature of his 
+traumatic injuries. The ___ Violence Prevention and 
+Recovery were consulted; he was provided with counseling 
+services post hospital discharge. He has been receiving Ativan 
+for anxiety associated with the assault and Ambien prn for 
+sleep.
+
+He was evaluated by ___ and determined to be independent with 
+functional activities. He will require skilled nursing at home 
+for overall respiratory, gastrointestinal/nutrition and 
+skin/wound assessments.
+
+ 
+ 
+
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1. Zolpidem 5 mg Tablet Sig: ___ Tablets PO HS (at bedtime) as 
+needed for sleep.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Oxycodone-Acetaminophen ___ mg/5 mL Solution Sig: ___ MLs 
+PO Q4H (every 4 hours) as needed for pain.
+Disp:*750 ML(s)* Refills:*0*
+3. Vancomycin 500 mg Recon Soln Sig: Seven Hundred Fifty (750) 
+MG Intravenous every twelve (12) hours for 3 weeks.
+Disp:*qs * Refills:*0*
+4. Normal Saline Flush 0.9 % Syringe Sig: Five (5) ML's 
+Injection every twelve (12) hours for 3 weeks: Flush with 5 ML's 
+before and after medication administration.
+Disp:*qs * Refills:*1*
+5. Augmentin 250-62.5 mg/5 mL Suspension for Reconstitution Sig: 
+Ten (10) ML's PO three times a day for 3 weeks.
+Disp:*qs * Refills:*0*
+6. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Five 
+(5) ML Intravenous every twelve (12) hours.
+Disp:*60 ML(s)* Refills:*0*
+7. Outpatient Lab Work
+Vancomycin peak and trough level weekly & prn based on dose 
+changes. Weekly CBC w/ diff; LFT's
+Next draw date on ___ with results called to ID Fellow on 
+call; call ___ and ask to have the ID Fellow/Resident 
+paged.
+8. Colace 50 mg/5 mL Liquid Sig: Ten (10) ML's PO twice a day as 
+needed for constipation.
+Disp:*500 ML's* Refills:*0*
+9. Milk of Magnesia 800 mg/5 mL Suspension Sig: Thirty (30) ML's 
+PO twice a day as needed for constipation.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___.
+ 
+Discharge Diagnosis:
+s/p Multiple stab wounds
+Head/facial lacerations
+Esophageal and Tracheal lacerations
+Diaphragmatic injury
+Liver injury
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Return to the Emergency room if you develop any fevers, chills, 
+headache, dizziness, chest pain, shortness of breath, chest 
+tightness, abdominal pain, nausea, vomiting, diarrhea, increased 
+redness/drainage from your surgical incision/sites and/or any 
+other symptoms that are concerning to you.
+ 
+Followup Instructions:
+___

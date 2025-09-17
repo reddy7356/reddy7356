@@ -1,0 +1,1449 @@
+===== DISCHARGE NOTE =====
+note_id=10303040-DS-16 | hadm_id=21131504
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+ Intractable pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ PMH of COPD, Metastatic Lung Cancer (significant bony
+disease, now transitioning off of treatment), Acute on chronic
+malignant back pain, PE/DVT, who presented from clinic with
+intractable back pain for pain control
+
+As per review of outpatient notes, patient has been struggling
+with pain control and was recently discharged on MS contin 60mg
+TID with Oxycodone 30mg q3h. In the days since, he called in 
+with
+worsening pain, likely ___ widespread bony metastases seen on 
+MRI
+Spine from early ___. Dr ___ admission but 
+patient
+declined so increased PO oxycodone to 60mg as needed. In clinic
+this afternoon patient was in intractable pain so Dr ___ admission and patient was in agreement. As per Dr
+___ will not be offered further chemotherapy, 
+and
+should transition to hospice if in agreement, with radiation to
+spine for palliation of symptoms. Radiation oncology evaluated
+patient and are to start radiation tomorrow
+
+Pt reports that since last discharge he has had left leg pain
+which is posterior and then travels across his lower back,
+occasionally with right posterior leg pain as well. He noted 
+that
+it comes and goes without clear provoking factors, possibly
+movement makes it worse. He noted that when he was discharged 
+the
+30mg oxycodone was insufficient, but that 60mg oxycodone worked
+for a short period of time until today. He noted that intensity
+continues to escalate and today was ___ or more. He noted that
+the location/sharp quality of pain and associated right lower
+extremity weakness is unchanged. He stated that 2mg of IV
+dilaudid in clinic did not help but 4mg IV dilaudid immediately
+resolved his pain, and is now ___.
+
+He noted that given his overall worsening function, and fact 
+that
+further chemotherapy will not be offered, noted that he would 
+not
+want extremely aggressive measures pursued such as surgery. He
+stated that he does not want to increase his steroid dose as it
+caused significant thrush in the past. He noted that his goal
+would be to have better symptom control with radiation and
+augmented pain regimen so that he could return home. He noted
+that he would be open to considering hospice but would like to
+talk to his wife first. 
+ 
+REVIEW OF SYSTEMS:  
+A complete 10-point review of systems was performed and was
+negative unless otherwise noted in the HPI. 
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY: 
+As per last note by Dr ___:
+"- ___: developed fatigue and headaches which gradually 
+became
+ worse. Also had occasional confusion
+- ___: presented to OSH where head CT showed multiple 
+brain
+masses and he was transferred to ___. He was seen by
+neurosurgery and there was no role for surgical intervention.
+- ___: underwent biopsy of right sided lung nodule by ___.
+ Path showed adenocarcinoma  
+- ___: WBRT
+- ___: ___ C1D1 
+- ___: ___ C2D1
+- ___: Treatment held due to ___ esophagitis and patient
+admitted to hospital for poor PO intake. 
+- ___: ___ C3D1
+- ___: ___ C4D1
+- ___: pemetrexed maintenance C1
+- ___: pemetrexed maintenance C2
+- ___: CT torso with stable disease; pemetrexed maintenance
+C3
+- ___: hold treatment given fatigue thought related to
+chemotherapy
+-___: Pt admitted with chest and skeletal disease 
+progression,
+pain, new PE and LLE DVT" 
+ 
+PAST MEDICAL HISTORY: 
+- Lung cancer, as above
+- COPD
+- HLD 
+- Hernia s/p right sided hernia repair x 2 
+- Myofascial pain syndrome with shoulder and back pain, seen in
+pain clinic  
+- Neck injury with L hand numbness after a fall down a flight of
+stairs in ___
+- s/p C3-5 cervical spine fusion in ___ at ___ 
+- PE and LLE DVT: diagnosed ___, on therapeutic
+anticoagulation 
+ 
+Social History:
+___
+Family History:
+Father passed away of lung cancer at age ___.
+Mother is in her ___ in good health. Grandmother had "bone"
+cancer and passed away in her ___.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+=======================
+Vitals: 24 HR Data (last updated ___ @ 1620)
+    Temp: 97.8 (Tm 97.8), BP: 118/73, HR: 80, RR: 20, O2 sat:
+98%%, O2 delivery: RA   
+GENERAL: sitting in bed, occasionally tearful due to our
+conversation but not pain, NAD, pleasant
+EYES: PERRLA
+HEENT: MMM, thrush on tongue
+NECK: supple 
+LUNGS:  CTA b/l, no wheezes/rales/rhonchi, normal RR, speaking 
+in
+full sentences
+CV: RRR, normal distal perfusion without edema
+ABD: Soft, NT, ND, normoactive BS, no rebound or guarding
+GENITOURINARY: no foley
+MSK:  ___ weakness on right leg, ___ in left leg, does not
+grimace with movement, has minimal tenderness on r/l flank at
+lower lumbar level but no spinal tenderness
+SKIN: warm, dry, no rash  
+NEURO: AOx3, fluent speech
+PSYCH: Normal insight/judgment, appropriate mood
+ACCESS: PIV
+
+DISCHARGE PHYSICAL EXAM:  
+
+VS: 97.7 112/66 70 18 96%RA
+GENERAL: Chronically-ill appearing gentleman, lying in bed in no
+distress.
+EYES: PERRLA
+HEENT: MMM, thrush on tongue resolved
+NECK: supple 
+LUNGS:  CTA b/l, no wheezes/rales/rhonchi
+CV: RRR, no murmurs
+ABD: Non-distended, normal bowel sounds, soft, non-tender, no
+masses
+GENITOURINARY: no foley
+MSK:  4+/5 weakness on right leg, ___ in left leg
+SKIN: warm, dry, no rash  
+NEURO: AOx3, fluent speech
+PSYCH: Normal insight/judgment, appropriate mood
+ACCESS: PIV
+ 
+Pertinent Results:
+___ 10:58AM BLOOD WBC-11.8* RBC-4.60 Hgb-13.7 Hct-41.5 
+MCV-90 MCH-29.8 MCHC-33.0 RDW-12.8 RDWSD-42.2 Plt ___
+___ 06:40AM BLOOD WBC-9.9 RBC-4.52* Hgb-13.5* Hct-40.8 
+MCV-90 MCH-29.9 MCHC-33.1 RDW-12.7 RDWSD-42.0 Plt ___
+___ 10:58AM BLOOD UreaN-8 Creat-0.6 Na-140 K-4.2
+___ 06:40AM BLOOD Glucose-117* UreaN-16 Creat-0.6 Na-141 
+K-4.0 Cl-96 HCO3-30 AnGap-15
+___ 10:58AM BLOOD ALT-189* AST-93* AlkPhos-260* TotBili-0.2
+___ 06:24AM BLOOD ALT-113* AST-29 LD(LDH)-467* AlkPhos-283* 
+TotBili-0.2
+___ 07:10AM BLOOD Calcium-9.9 Phos-3.5 Mg-2.0
+___ 06:40AM BLOOD Calcium-10.3 Phos-3.7 Mg-2.1
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year-old gentleman with COPD, metastatic 
+NSCLC (significant bony disease, now transitioning off of 
+treatment), acute on chronic malignant back pain, PE/DVT, who 
+presented from clinic with intractable back pain for pain
+control, now transitioned to methadone and increased frequency 
+of oxycodone. 
+
+#Acute on Chronic Malignant Back Pain
+Patient with stable right leg weakness in last month but 
+escalating intensity of posterior thigh and lower back pain. 
+Etiology likely due to extensive metastatic lesions noted on 
+recent MRI from 2 weeks ago. No cord compression was seen on 
+that
+MRI, and right leg weakness and hesitancy with urination is 
+unchanged for 1 month without any new fecal incontinence so 
+cauda equina unlikely. Moreover patient clearly states that he 
+would not want any surgical intervention. He was started on 
+palliative radiation therapy. With the assistance of palliative 
+care patient's ms contin was transitioned to methadone, his prn 
+oxycodone was increased in frequency and he was started on low 
+dose gabapentin. His QTc remained under 400ms, he had mild 
+confusion on the day of initiation that cleared. Dexamethasone 
+was left at 2mg to avoid him from having further episodes of 
+candidal stomatitis. 
+
+#Opioid induced constipation: Patient experienced severe 
+constipation which responded to polyethyleneglycol 17g bid, 
+bisacodyl 10mg qod and magnesium citrate 300mL PRN. 
+
+___ stomatitis: Did not respond to initial treatment with 
+nystatin. Received fluconazole for 5 days with resolution. 
+
+#PE/DVT: Previously on enoxaparin, at the request of  Dr. 
+___ was transitioned to rivaroxaban.
+
+#Metastatic Lung Cancer: During admission patient and family had 
+meeting with Dr. ___ it was communicated that no 
+other chemotherapy options were available at the time. Plan is 
+to transition to hospice once he completes radiation treatmen.
+
+TRANSITIONAL ISSUES:
+=====================
+#PAIN REGIMEN:
+-Discharged with 3-day (48 x 30mg oxycodone tablets) supply, 
+prior authorization submitted by outpatient team and pending at 
+time of discharge, patient given physical prescription and list 
+of pharmacies with supply
+-Please uptitrate methadone as needed, continue to monitor QTc
+-Uptitrated bowel regimen to miralax 17g bid, bisacodyl 10mg 
+qod, responded well to magnesium citrate in house, consider 
+repeating if needed
+-Started on gabapentin 100mg tid, previously was somnolent with 
+200mg, may consider careful uptitration
+#RADIATION TREATMENTS: Arranged for radiation treatments to 
+resume on ___
+
+This patient's discharge plan took 120 minutes to formulate and 
+coordinate.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Enoxaparin Sodium 60 mg SC Q12H 
+2. OxyCODONE (Immediate Release) 60 mg PO Q4H:PRN Pain - 
+Moderate 
+3. Acetaminophen ___ mg PO Q8H:PRN Pain - Mild 
+4. Dexamethasone 2 mg PO DAILY 
+5. Diazepam 5 mg PO BID:PRN pain 
+6. Docusate Sodium 100 mg PO BID:PRN constipation 
+7. FoLIC Acid 1 mg PO DAILY 
+8. LevETIRAcetam 1000 mg PO Q12H 
+9. MethylPHENIDATE (Ritalin) 10 mg PO BID 
+10. Mirtazapine 30 mg PO QHS 
+11. Omeprazole 40 mg PO BID 
+12. Senna 8.6 mg PO BID:PRN constipation  
+13. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+14. Tamsulosin 0.4 mg PO QHS 
+15. Vitamin D ___ UNIT PO DAILY 
+16. Ondansetron 8 mg PO Q8H:PRN nausea/vomiting 
+17. Prochlorperazine 10 mg PO Q6H:PRN nausea/vomiting   
+18. Morphine SR (MS ___ 60 mg PO Q8H 
+
+ 
+Discharge Medications:
+1.  Benzonatate 100 mg PO TID  
+2.  Bisacodyl 10 mg PO EVERY OTHER DAY 
+RX *bisacodyl 5 mg 2 tablet(s) by mouth every other day Disp 
+#*30 Tablet Refills:*0 
+3.  Gabapentin 100 mg PO TID 
+RX *gabapentin 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*90 Capsule Refills:*0 
+4.  Methadone 10 mg PO QAM 
+at 6 AM, do NOT change dose without talking with 
+oncology/palliative care 
+RX *methadone 10 mg ___ tablets by mouth three times a day 
+Disp #*105 Tablet Refills:*0 
+5.  Methadone 10 mg PO QNOON 
+take at noon, do NOT change dose without talking with 
+oncology/palliative care  
+6.  Methadone 15 mg PO QPM 
+take at 8pm, do NOT change dose without talking with 
+oncology/palliative care  
+7.  Polyethylene Glycol 17 g PO BID 
+RX *polyethylene glycol 3350 17 gram/dose 1 capful by mouth 
+twice a day Refills:*0 
+8.  Rivaroxaban 15 mg PO BID Duration: 21 Days 
+RX *rivaroxaban [___] 15 mg 1 tablet(s) by mouth every 
+twelve (12) hours Disp #*30 Tablet Refills:*0
+RX *rivaroxaban [Xarelto] 20 mg 1 tablet(s) by mouth every night 
+with dinner Disp #*30 Tablet Refills:*0 
+9.  OxyCODONE (Immediate Release) 60 mg PO Q3H:PRN Pain - 
+Moderate 
+RX *oxycodone 30 mg 2 tablet(s) by mouth up to every three hours 
+Disp #*480 Tablet Refills:*0 
+10.  OxyCODONE (Immediate Release) 60 mg PO DAILY  
+11.  Acetaminophen ___ mg PO Q8H:PRN Pain - Mild  
+12.  Dexamethasone 2 mg PO DAILY  
+13.  Diazepam 5 mg PO BID:PRN pain  
+14.  Docusate Sodium 100 mg PO BID:PRN constipation  
+15.  FoLIC Acid 1 mg PO DAILY  
+16.  LevETIRAcetam 1000 mg PO Q12H  
+17.  MethylPHENIDATE (Ritalin) 10 mg PO BID  
+18.  Mirtazapine 30 mg PO QHS  
+19.  Omeprazole 40 mg PO BID  
+20.  Ondansetron 8 mg PO Q8H:PRN nausea/vomiting  
+21.  Prochlorperazine 10 mg PO Q6H:PRN nausea/vomiting    
+22.  Sulfameth/Trimethoprim SS 1 TAB PO DAILY  
+23.  Tamsulosin 0.4 mg PO QHS  
+24.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute on chronic cancer related pain
+Opioid induced constipation
+Metastatic non-small cell lung cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent. Rarely confused.
+Activity Status: Ambulatory - requires cane.
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital with a pain crisis. With the 
+help of your palliative care doctors we switched your MS ___ 
+to methadone. Your pain is improved. We also switched your blood 
+thinner to a pill called xarelto. You will need to finish your 
+remaining radiation treatments as an outpatient. It was a 
+pleasure to take care of you. 
+
+Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10303040-DS-14 | hadm_id=24273276
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Not Eating
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ yo male with a history of metastatic NSCLC who is admitted
+with esophageal candidiasis and failure to thrive. The patient
+stats he has been overall feeling very fatigued and weak. He has
+had throat pain and not been eating much. He has lost 14 pounds
+in the last month. He was instructed to drink ensure but he has
+been unable to afford them. They also have other financial
+difficulties. He did have a fever yesterday but denies any new
+focal symptoms. He does have intermittent ongoing headaches and
+nausea. He denies any shortness of breath, diarrhea, or dysuria.
+He was seen in clinic today and admitted for generalized failure
+to thrive and treatment of esophageal candidiasis. 
+
+REVIEW OF SYSTEMS:
+- All reviewed and negative except as noted in the HPI. 
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (per OMR):
+- Stage IV lung adenocarcinoma
+- ___: developed fatigue and headaches which gradually became
+worse. Also had occasional confusion
+- ___: presented to OSH where head CT showed multiple 
+brain
+masses and he was transferred to ___. He was seen by
+neurosurgery and there was no role for surgical intervention.
+- ___: underwent biopsy of right sided lung nodule by ___.
+Path showed adenocarcinoma  
+- ___: WBRT
+- ___: ___ C1D1 
+- ___: ___ C2D1
+
+PAST MEDICAL HISTORY:
+- COPD
+- HLD 
+- hernia  
+- Myofascial pain syndrome with shoulder and back pain, seen in
+pain clinic  
+- Neck injury with L hand numbness after a fall down a flight of
+stairs in ___
+- s/p C3-5 cervical spine fusion in ___ at ___ 
+- right sided hernia repair x 2 
+
+ 
+Social History:
+___
+Family History:
+His father died of lung cancer at age ___. His dad was also a 
+smoker. His mother is in her ___ and is in good health. His 
+grandmother had bone cancer and died in her ___. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+General:  NAD
+VITAL SIGNS: T 98.6 BP 123/63 HR 65 RR 18 O2 95%RA
+HEENT:  MMM
+CV:  RR, NL S1S2
+PULM:  CTAB
+ABD:  Soft, NTND, no masses or hepatosplenomegaly
+LIMBS:  No edema, clubbing, tremors, or asterixis
+SKIN:  No rashes or skin breakdown
+NEURO: Alert and oriented, no focal deficits.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+General: NAD, sitting up in bed 
+VITAL SIGNS: 97.8 98/64 65 18 95 RA 
+HEENT:  PERRLA, EOMI, MMM, one white plaque on posterior
+oropharynx
+CV:  Regular rate and rhythm, no murmurs, rubs, gallops. 
+PULM: Clear to auscultation bilaterally, no wheezes, rales or
+rhonchi. 
+ABD: Soft, NTND, no masses or hepatosplenomegaly
+LIMBS:  No edema, clubbing, tremors, or asterixis
+SKIN:  No rashes or skin breakdown
+NEURO: Alert and oriented, CN II-XII intact. Mild symmetric
+weakness in upper and lower extremities. Rapid alternating
+movements intact. 
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+WBC-6.5 RBC-4.61 Hgb-14.2 Hct-42.0 MCV-91 MCH-30.8 MCHC-33.8 
+RDW-15.0 RDWSD-49.6* Plt ___
+UreaN-11 Creat-0.7 Na-139 K-4.8
+
+IMAGING:
+=========
+MRI HEAD ___:
+IMPRESSION: No new intracranial metastasis.  The previously 
+identified metastasis and associated vasogenic edema appears 
+stable or  less conspicuous from the ___ exam.  No 
+acute infarct or acute intracranial hemorrhage. 
+
+PET SCAN: ___
+IMPRESSION: 
+1. Known right middle lobe mass and right lower lobe nodule 
+demonstrate FDG avidity, consistent with known adenocarcinoma.  
+2. 1.1 x 1.0 cm left adrenal nodule with max SUV of 5.2, 
+concerning for 
+metastasis. 
+3. Known metastatic brain lesions are poorly visualized.  
+4. Previously seen omental fat stranding and diffuse omental 
+thickening are not seen, possibly due to exam technique.  
+5. The urinary bladder wall is thickened, which may be secondary 
+to 
+under-distention.   
+
+DISCHARGE LABS:
+===============
+WBC-6.2 RBC-4.34* Hgb-13.3* Hct-39.2* MCV-90 MCH-30.6 MCHC-33.9 
+RDW-15.0 RDWSD-49.3* Plt ___
+Glucose-110* UreaN-10 Creat-0.6 Na-139 K-4.1 Cl-98 HCO3-29 
+AnGap-12
+Calcium-9.9 Phos-4.0 Mg-2.___ yo male with a history of metastatic NSCLC to brain who was 
+admitted with esophageal candidiasis and failure to thrive, also 
+with difficult to control chronic headaches. For his headaches, 
+he had an MRI brain, which showed stable metastasis. Pain was 
+controlled with PO medications. He developed esophageal 
+candidiasis, so was started on PO Fluconazole and Magic mouth 
+wash, in addition to his home Nystatin. He was able to eat 
+throughout the admission, and received IVF as needed. Palliative 
+care was consulted, and assisted ___ with care coordination 
+and pain regimen. The medical team wanted to keep Mr. ___ 
+in the hospital for ___ more days for monitoring, IV fluids, and 
+to see improved oral intake. However, he and his wife really 
+wanted to leave, so we discharged him on ___ with detailed 
+instructions on warning signs (see below). At time of discharge, 
+his vitals and labs were stable, and pain was controlled with 
+oral meds. 
+
+TRANSITIONAL ISSUES:
+- QTC at time of discharge was 419 (prior was 443)
+- New Medications
+1.) Fluconazole 400mg daily (through ___
+2.) Magic mouth wash as needed
+3.) Multivitamin
+- Pain regimen was NOT adjusted on this hospitalization. He will 
+continue on MS ___ (a new 10-day script was provided) and 
+Oxycodone. Dilaudid made him fatigued, so this was not given at 
+time of discharge 
+- Oncology follow up: Patient will follow up with Dr. 
+___. We are working to schedule this appointment 
+- Patient was counseled on warning signs including worsening 
+throat/mouth pain, dark urine, dizziness, lightheadedness. He 
+was counseled to immediately seek medical attention if he has 
+these or any other concerning symptoms because he is at risk of 
+dehydration
+- He had some mild knee pain on the day of discharge, so was 
+counseled on the warning signs of DVT. 
+- Patient was mildly constipated on day of discharge. He was 
+encouraged to continue taking his Colace & senna, and to call 
+his doctor if he hasn't had a bowel movement in the next ___ 
+days. 
+
+#Contact: ___, Relationship: wife Phone: 
+___ 
+#Code Status:FULL CODE 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Diazepam 5 mg PO Q12H:PRN neck pain 
+2. OxyCODONE (Immediate Release) 20 mg PO Q6H:PRN Pain - Severe 
+3. Vitamin D ___ UNIT PO DAILY 
+4. HYDROmorphone (Dilaudid) 2 mg PO Q6H:PRN Pain - Severe 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+5. LevETIRAcetam 1000 mg PO Q12H 
+6. Senna 8.6 mg PO BID:PRN constipation  
+7. FoLIC Acid 1 mg PO DAILY 
+8. Docusate Sodium 100 mg PO BID:PRN Constipation 
+9. Omeprazole 20 mg PO DAILY 
+10. Ondansetron 8 mg PO Q8H:PRN Nausea 
+11. Prochlorperazine 10 mg PO Q6H:PRN Nausea 
+12. Dexamethasone 2 mg PO DAILY 
+13. Morphine SR (MS ___ 60 mg PO Q12H 
+14. Tamsulosin 0.4 mg PO QHS 
+15. Nystatin Oral Suspension 10 mL PO QID 
+16. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Fluconazole 400 mg PO Q24H Duration: 11 Days 
+RX *fluconazole 200 mg 2 tablet(s) by mouth daily Disp #*22 
+Tablet Refills:*0 
+2.  Maalox/Diphenhydramine/Lidocaine ___ mL PO TID:PRN throat 
+pain 
+RX *alum-mag hydroxide-simeth [Maalox Advanced] 200 mg-200 mg-20 
+mg/5 mL ___ mL by mouth TID prn Refills:*0 
+3.  Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+4.  Dexamethasone 2 mg PO DAILY  
+5.  Diazepam 5 mg PO Q12H:PRN neck pain  
+6.  Docusate Sodium 100 mg PO BID:PRN Constipation  
+7.  FoLIC Acid 1 mg PO DAILY  
+8.  LevETIRAcetam 1000 mg PO Q12H  
+9.  Morphine SR (MS ___ 60 mg PO Q12H 
+RX *morphine 60 mg 1 capsule(s) by mouth q12 hours Disp #*20 
+Capsule Refills:*0 
+10.  Nystatin Oral Suspension 10 mL PO QID  
+11.  Omeprazole 20 mg PO DAILY  
+12.  Ondansetron 8 mg PO Q8H:PRN Nausea  
+13.  OxyCODONE (Immediate Release) 20 mg PO Q6H:PRN Pain - 
+Severe 
+RX *oxycodone 20 mg 1 tablet(s) by mouth q6 hours prn Disp #*40 
+Tablet Refills:*0 
+14.  Prochlorperazine 10 mg PO Q6H:PRN Nausea  
+15.  Senna 8.6 mg PO BID:PRN constipation   
+16.  Sulfameth/Trimethoprim SS 1 TAB PO DAILY  
+17.  Tamsulosin 0.4 mg PO QHS  
+18.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+- Metastatic Adenocarcinoma of the Lung
+- Esophageal Candidiasis
+
+SECONDARY DIAGNOSES:
+- failure to thrive
+- headache
+- dehydration 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+It was a pleasure taking care of you.
+
+Why was I in the hospital?
+- You were admitted with headache and not doing well at home
+
+What happened while I was here?
+- You received pain medicines
+- You had an MRI of your brain that showed no new metastasis
+- You received IV fluids to improve dehydration
+- Your medical team wanted you to stay for another day for 
+monitoring, but we understand that you really want to go home. 
+
+What should I do when I go home?
+- Go to all of your follow up appointments (listed below)
+- Take all of your medicines. New medicines include Fluconazole 
+(to treat infection), Magic Mouth Wash (for mouth soreness), and 
+a multivitamin
+- If you have any dizziness, lightheadedness, worsening throat 
+pain, dark urine, or abdominal pain, please call your doctor 
+immediately. You are at risk for dehydration, so you may need IV 
+fluids soon. 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10303040-DS-13 | hadm_id=26164687
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Confusion and headaches x 3 weeks
+ 
+Major Surgical or Invasive Procedure:
+right lung biopsy CT guided ___
+
+ 
+History of Present Illness:
+The patient is a ___ year old male with h/o tobacco use who 
+presents with tobacco s/p neck surgery who presents with 
+headache and confusion x 3 weeks. He presented to an OSH where 
+his head CT demonstrated:
+" Multiple prominent areas of parenchymal hypodensity involving 
+the gray and white matter in the right frontoparietal right 
+frontal, right temporal and left frontal regions, suggesting 
+vasogenic edema. Superimposed subacute infarctions cannot be 
+excluded. 2: There is also suggestion of possible hyperdense 
+mass lesion in the right temporoparietal region, worrisome for 
+neoplasm"
+Upon presentation to the ED:
+VS: 3 |98.5 |42 |126/68|18 |98% RA|
+He was seen by neurosurgery. He was given: 
+Diazepam 5 mg|PO Acetaminophen 1000 mg| OxyCODONE (Immediate 
+Release) 20 mg|
+IV LevETIRAcetam (1000 mg ordered)|IV Dexamethasone 4 mg|
+Upon arrival to the floor he has a ___ headache which is c/w 
+the headache that he has been having for 3weeks. He has poor 
+vision at baseline and this is unchanged.  He has chronic back 
+and neck pain.  His headache, abdominal pain and LLE pain are 
+new and have been present for a month. He has been having 
+intermittent diarrhea.  He has not has blood in his stool. He 
+has a chronic cough. He had a brief episode of chest pain that 
+resolved with rest but he cannot remember what he was doing. + 
+diaphoresis associated with this but no nausea. He has been 
+having increasing confusion in that time as well. His cough is 
+intermittently productive. He got lost driving a ___ in 
+a city that he has lived all of his life which prompted his wife 
+to bring him to the emergency room today. He has also had 
+personality changes. He has had RLQ pain with a bulge in his 
+groin which "pops out" when he coughs. + 20 lb weight loss over 
+the past year. 
+All other ROS negative except as above.
+
+ 
+Past Medical History:
+- lung nodules with benign bronchial washings
+- hernia
+- ? myofascial pain syndrome with shoulder and back pain, seen 
+in
+pain clinic
+- L hand numbness, reportedly told this is due to his neck. Did
+have an injury to his head and neck ___ when he fell down a
+flight of stairs while the lights were out during a snow storm. 
+S/p neck fusion surgery with chronic pain for which he takes 
+oxycodone daily. 
+- HLD
+- h/o smoking
+
+COPD
+ 
+Social History:
+___
+Family History:
+His father died of lung cancer at age ___. His dad was also a 
+smoker. His mother is in her ___ and is in good health. His 
+grandmother had bone cancer and died in her ___. 
+ 
+Physical Exam:
+Vitals: 98.3 PO 100 / 51 52 18 96 Ra 
+CONS: He is holding his head in his hands and appears very 
+uncomfortable. 
+HEENT: ncat anicteric MMM    
+CV: s1s2 rr no m/r/g - very distant heart sounds  
+RESP: RLL crackles
+GI: +bs, soft, NT, ND, no guarding or rebound  
+GU: R inguinal tenderness with a reducible bulge present
+Normal external genitalia
+MSK:no c/c/e 2+pulses  
+SKIN: Multiple tatooes
+NEURO: face symmetric speech fluent  
+___ strength in b/l upper and lower extremities, no dysmetria
+PSYCH: calm, cooperative  
+LAD: No cervical LAD
+
+d/c exam: 
+
+Vitals: 98.2 96/56 64 18 99 
+
+Gen: Alert and oriented X 3. Pleasant and appropriate
+HEENT: anicteric, MMM, PERRLA  
+CV: rrr no m/r/g   
+RESP: CTA, biopsy site at right chest wall c/d/i  
+GI: +bs, soft, NT, ND, no guarding or rebound  
+GU: reducible right inguinal hernia. non tender. 
+Ext: no edema, no signs of DVT's
+SKIN: Multiple tatoos  
+NEURO: no facial droop, normal gross power and sensation.
+ 
+Pertinent Results:
+___ 06:57PM   LACTATE-1.0
+___ 06:40PM   GLUCOSE-91 UREA N-11 CREAT-0.6 SODIUM-142 
+POTASSIUM-3.8 CHLORIDE-109* TOTAL CO2-23 ANION GAP-14
+___ 06:40PM   estGFR-Using this
+___ 06:40PM   WBC-6.3 RBC-4.22* HGB-12.2* HCT-36.6* MCV-87 
+MCH-28.9 MCHC-33.3 RDW-13.2 RDWSD-41.7
+___ 06:40PM   NEUTS-62.3 ___ MONOS-8.1 EOS-2.1 
+BASOS-0.5 IM ___ AbsNeut-3.95 AbsLymp-1.69 AbsMono-0.51 
+AbsEos-0.13 AbsBaso-0.03
+___ 06:40PM   ___ PTT-29.4 ___
+___ 06:40PM   PLT COUNT-217
++++++++++++++++++++++++++
+ADMISSION BRAIN MRI
+Multiple enhancing intracranial lesions involving both cerebral 
+cortices are highly concerning for metastatic disease. Largest 
+lesions located in the left frontal and right temporal lobe 
+measuring 1.5 x 1.4 and 2.1 x 1.9 cm, respectively. The lesion 
+in the right temporal lobe demonstrates 
+susceptibility artifact, likely reflecting prior hemorrhage. 
+There is 
+extensive vasogenic edema causing on the right lateral 
+ventricle. In 
+addition, there is mild approximately 4 mm of midline shift to 
+the left. 
+.
+ADMISSON CXR: - Images reviewed by author
+There is a relatively rounded opacity projecting over the right 
+middle lobe measuring approximately 2.5 cm also seen on the 
+lateral view.  Streaky opacities also noted in the infrahilar 
+region on the right behind the heart, potentially in the 
+retrocardiac region on the lateral view.  The lungs are 
+hyperinflated but otherwise grossly clear.  Cardiomediastinal 
+silhouette is within normal limits.  Anterior cervical fixation 
+hardware is noted. 
+  
+IMPRESSION:  
+A 2.5 right middle lobe nodule and irregular right infrahilar 
+opacities likely within the right lower lobe.  If patient has 
+symptoms for infection, follow-up could be obtained after 
+treatment to document resolution however if no convincing 
+evidence of infection at this time, this could represent an 
+underlying primary malignancy and CT scan is suggested at this 
+time on a nonurgent basis. 
+
+CT chest ___:
+ 
+5 lung nodules ranging from 6 mm to 2.5 cm in diameter.  Any one 
+of these 
+could be a primary bronchogenic carcinoma, but the number 
+suggests metastases 
+from an extrathoracic primary malignancy.  The large right lower 
+lobe nodule 
+should be accessible to transthoracic needle aspiration.  
+Probable right hilar 
+adenopathy due to local spread of the lower lobe lesion. 
+  
+Mild emphysema, diffuse small airway inflammation and probable 
+respiratory 
+bronchiolitis all due to tobacco use. 
+  
+Mild coronary atherosclerosis. 
+
+CT abdomen/pelvis ___:
+IMPRESSION: 
+  
+  
+1. Omental fat stranding and diffuse mild mental thickening, 
+without masses, 
+likely represents metastatic disease. 
+2. A 1.3 cm hypodensity with peripheral enhancement in segment 
+II of the liver 
+likely represents a hemangioma. 
+3. A 2.5 cm fluid collection in the right inguinal region at the 
+site of prior 
+hernia repair is consistent with seroma. 
+4. Please refer to separate report of CT chest performed same 
+day for 
+description of thoracic findings. 
+
++++++++++++++++++++
+ d/c labs: 
+
+___ 07:45AM BLOOD WBC-11.9* RBC-4.83 Hgb-13.7 Hct-41.2 
+MCV-85 MCH-28.4 MCHC-33.3 RDW-13.4 RDWSD-41.9 Plt ___
+___ 07:45AM BLOOD Glucose-109* UreaN-21* Creat-0.5 Na-137 
+K-4.6 Cl-99 HCO3-26 AnGap-17
+___ 07:45AM BLOOD Calcium-9.4 Phos-4.5 Mg-2.___ tobacco smoker with h/o COPD, chronic facila pain syndrome  
+and s/p neck vertebral fusion surgery s/p ___ trauma who 
+presented to OSH (___) with headaches, confusion and 
+personality changed of 3 weeks duration and had head CT which 
+demonstrated "Multiple prominent areas of parenchymal 
+hypodensity involving the gray and white matter in the right 
+frontoparietal right frontal, right temporal and left frontal 
+regions, suggesting vasogenic edema. Superimposed subacute 
+infarctions cannot be excluded. 2: There is also suggestion of 
+possible hyperdense mass lesion in the right temporoparietal 
+region, worrisome for neoplasm". Referred to ___ ED where he 
+was afebrile and hemodynamically stable but with sinus 
+bradycardia. MRI brain showed multiple enhancing intracranial 
+lesions involving both cerebral cortices highly concerning for 
+metastatic disease and c/b vasogenic edema and midline shift to 
+the left.  Admitted to medicine where he was managed with PO 
+dexamethasoneand prophylactic po levetiracetam following IV 
+loads as well as home PO oxycodone and IV PRN hydromorphone for 
+pain control.  Underwent CT chest which was notable for 5 lung 
+nodules ranging from 6 mm to 2.5 cm in diameter any one of which 
+could be a primary bronchogenic carcinoma, but the number could 
+suggests metastases from an extrathoracic primary malignancy.  
+CT abd/pelvis did not show obvious primary but did show omental 
+fat stranding and diffuse mild omental thickening, without 
+masses, but which likely represent metastatic disease. Underwent 
+___ guided biopsy of right pulmonary nodule on ___ which he 
+tolerated well. Cytology of brushing was negative for malignant 
+cells and biopsy results are pending at discharge. Patient was 
+reviewed by oncology who provided guidance about their plan for 
+ongoing post d/c follow-up and their contact details. 
+
+Problem Summary: 
+
+- suspected Brain metastases per MRI
+
+- right lung nodule per CT chest: likley primary lung cancer, 
+biopsy pending. 
+
+- omental stranding/thickening per CT abdomen: ? metastatic 
+disease
+
+- right inguinal seroma at site of previous inguinal hernia 
+repair 
+
+- Sinus Bradycardia: ___ intracranial process/increased ICP? no 
+other signs of ___ reflex. Rate on previous ECG from ___ 
+is 57
+
+- hyperglycemia: no known history of DM. likely ___ to high-dose 
+steroids. Was put on conservative ISS but did not require 
+insulin doses. 
+
+- headaches - ___ to brain lesions
+
+- cognitive impairment - ___ brain lesions. Per OT review during 
+this admission has "evident impairments in attention, memory, 
+and executive
+function. At this time, recommend pt d/c home w/ direct
+supervision for IADLs (medication management, cooking, community
+integration).". Patient was ambulating independently throughout 
+admission and had no acute ___ needs. 
+
+- mild leukocytosis: ___ high dose steroids. 
+
+Chronic: 
+
+- h/o TOBACCO USE: on nicotine patches during this admission. 
+- chronic head aches
+- HLD
+  
+Plan: 
+
+Patient is stable for discharge with the following plan: 
+
+- patient's wife to provide direct supervision for IADLs 
+(medication management, cooking, community integration). 
+- continue PO oxycodone 20mg Q6H:PRN home regimen + PO 
+hydromorphone PRN  ___ records reviewed prior to 
+discharge)
+- continue  PO dexamethasone 4 mg q 6 hours  
+- continue keppra 1g BID
+- continue nicotine patches 
+- continue ensure enlive TID and MVI with minerals 
+- f/u with oncology who will follow-up on lung biopsy results 
+and coordinate further care as needed including engagement of 
+neuro-onc/rad-onc/neurosurgery as necessary.    
+-  continue to address goals of care following with tissue 
+biopsy results and as part of the big-picture prognosis 
+discussion once diagnosis confirmed. Code status presumed full 
+during this admission and not discussed.  
+- consider outpatient cognitive neurology consult to further 
+assess cognition, per oncology and PCP ___. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Simvastatin 10 mg PO QPM 
+2. Diazepam 5 mg PO Q12H:PRN neck pain 
+3. Ibuprofen 800 mg PO Q6H 
+4. OxyCODONE (Immediate Release) 20 mg PO Q6H:PRN Pain - Severe 
+5. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN 
+heartburn 
+RX *alum-mag hydroxide-simeth [Advanced Antacid-Antigas] 200 
+mg-200 mg-20 mg/5 mL ___ ml by mouth Q6H:PRN heartburn 
+Refills:*0 
+2.  Dexamethasone 4 mg PO Q6H 
+RX *dexamethasone 4 mg 1 tablet(s) by mouth every six (6) hours 
+Disp #*56 Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*28 Capsule Refills:*0 
+4.  HYDROmorphone (Dilaudid) 2 mg PO Q6H:PRN Pain - Severe 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *hydromorphone [Dilaudid] 2 mg 1 tablet(s) by mouth Q6H:PRN 
+Pain Disp #*46 Tablet Refills:*0 
+5.  LevETIRAcetam 1000 mg PO Q12H 
+RX *levetiracetam [Keppra] 1,000 mg 1 tablet(s) by mouth every 
+twelve (12) hours Disp #*28 Tablet Refills:*0 
+6.  Multivitamins W/minerals 1 TAB PO DAILY  
+7.  Naloxone 0.4 mg Subcut ONCE Duration: 1 Dose 
+RX *naloxone [Evzio] 0.4 mg/0.4 mL 1 injection ONCE:PRN opiate 
+overdose Refills:*0 
+8.  Nicotine Patch 21 mg TD DAILY 
+RX *nicotine [Nicoderm CQ] 21 mg/24 hour apply one patch Q24h 
+Disp #*14 Patch Refills:*0 
+9.  Ranitidine 150 mg PO DAILY 
+RX *ranitidine HCl [Acid Control (ranitidine)] 150 mg 1 
+tablet(s) by mouth daily Disp #*14 Tablet Refills:*0 
+10.  Senna 8.6 mg PO BID:PRN constipation  
+RX *sennosides [Evac-U-Gen (sennosides)] 8.6 mg 1 tab by mouth 
+BID:PRN constipation Disp #*28 Tablet Refills:*0 
+11.  Diazepam 5 mg PO Q12H:PRN neck pain  
+12.  OxyCODONE (Immediate Release) 20 mg PO Q6H:PRN Pain - 
+Severe 
+RX *oxycodone 20 mg 1 tablet(s) by mouth Q6H:PRN pain Disp #*40 
+Tablet Refills:*0 
+13.  ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q6H:PRN  
+14.  Simvastatin 10 mg PO QPM  
+15.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Suspected lung Ca with brain metastases 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___, 
+
+you were admitted to ___ due to severe headaches and 
+confusion. Imaging studies of your brain and body which showed 
+findings concerning for lung cancer with spread to the brain. 
+You underwent a lung biopsy and the results are pending at this 
+time. You will be followed up by the ___ oncology service. 
+
+You were also reviewed by our occupational therapist due to your 
+complaints about confusion and worsening of your functional 
+abilities. It is recommended that after discharge your wife 
+provides you with supervision for daily activities and 
+medications.   
+
+You are discharged with a prescription for oral Dilaudid which 
+you may use for pain control if you require something additional 
+to the oxycodone you were taking prior to this admission. Please 
+note that opiate pain medications may cause drowsiness and in 
+case over overdose suppression of consciousness, depressed 
+respiration, coma and death. You are also prescribed a naloxone 
+auto-injection to be used in case of concern for opiate 
+overdose. 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10303040-DS-15 | hadm_id=28605983
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+left leg swelling pain
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with history of
+metastatic lung adenocarcinoma to the brain s/p WBRT s/p 4 
+cycles
+of ___ now on pemetrexed maintenance who presents
+with left leg swelling and pain.
+
+Patient reports pain in his left calf and swelling for the past 
+1
+week. Pain with any active extension or flexion of his left 
+foot.
+Patient reports an episode of syncope in the context of 
+shortness
+of breath about 3 weeks ago. No recent syncope during the past
+week but did feel dizzy which resolved spontaneously 4 days ago.
+He notes intermittent chest pain. He has mild shortness of
+breath. He also has had mild abdominal pain. Patient was 
+supposed
+to go to ___ for his son's wedding but had to cancel the 
+trip
+at the airport due to the pain in his leg. Per mother, patient
+has had overall failure to thrive, general malaise, and is
+requesting an admission that she does not feel he is managing
+well at home.
+
+On arrival to the ED, initial vitals were 98.1 89 124/70 16 99%
+RA. Exam notable for left leg swelling, calf tenderness to
+palpation, and positive ___ sign. Labs were notable for WBC
+10.7, H/H 12.6/38.3, Plt 135, INR 1.2, Na 140, K 4.0, BUN/Cr
+___. Left lower extremity ultrasound showed extensive
+occlusive left lower extremity deep vein thrombosis. Head CT
+showed overall stable brain mets without evidence of 
+intracranial
+hemorrhage. CTA chest showed right segmental pulmonary emboli 
+and
+increase in size of pulmonary metastases. Patient was not 
+started
+on anticoagulation. Prior to transfer vitals were 98.5 82 112/61
+16 93% RA.
+On arrival to the floor, patient reports mild headache and ___
+abdominal pain. He denies fevers/chills, night sweats, headache,
+vision changes, weakness/numbness, cough, hemoptysis,
+palpitations, nausea/vomiting, diarrhea, hematemesis,
+hematochezia/melena, dysuria, hematuria, and new rashes.
+
+REVIEW OF SYSTEMS: A complete 10-point review of systems was
+performed and was negative unless otherwise noted in the HPI.
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+- ___: Developed fatigue and headaches which gradually became
+worse. Also had occasional confusion.
+- ___: Presented to OSH where head CT showed multiple 
+brain
+masses and he was transferred to ___. He was seen by
+neurosurgery and there was no role for surgical intervention.
+- ___: Underwent biopsy of right sided lung nodule by ___.
+Path showed adenocarcinoma.
+- ___: WBRT
+- ___: ___ C1D1 
+- ___: ___ C2D1
+- ___: Treatment held due to ___ esophagitis and patient
+admitted to hospital for poor PO intake. 
+- ___: ___ C3D1
+- ___: ___ C4D1
+- ___: pemetrexed maintenance C1
+- ___: pemetrexed maintenance C2
+- ___: CT torso with stable disease; pemetrexed maintenance
+C3
+- ___: Hold treatment given fatigue thought related to
+chemotherapy.
+
+PAST MEDICAL HISTORY:
+- Lung Cancer, as above
+- COPD
+- HLD 
+- hernia  
+- Myofascial pain syndrome with shoulder and back pain, seen in
+pain clinic  
+- Neck injury with L hand numbness after a fall down a flight of
+stairs in ___
+- s/p C3-5 cervical spine fusion in ___ at ___ 
+- s/p right sided hernia repair x 2 
+
+ 
+Social History:
+___
+Family History:
+Father passed away of lung cancer at age ___.
+Mother is in her ___ in good health. Grandmother had "bone"
+cancer and passed away in her ___.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: Temp 97.9, BP 113/73, HR 84, RR 18, O2 sat 88% RA.
+GENERAL: Fatigue-appearing man, flat affect, in no distress,
+lying in bed comfortably.
+HEENT: Anicteric, PERLL, OP clear.
+CARDIAC: RRR, normal s1/s2, no m/r/g.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: Soft, diffuse tenderness without rebound or guarding,
+non-distended, positive bowel sounds.
+EXT: Warm, well perfused, left leg swelling and tenderness ot
+palpation.
+NEURO: A&Ox3, good attention and linear thought, CN II-XII
+intact. Strength full throughout. Sensation to light touch
+intact.
+SKIN: No significant rashes.
+
+DISCHARGE PHYSICAL EXAM:
+VS: Temp 98.7, BP 112/72 , HR 80, RR 18, O2 sat 93 RA.
+GENERAL: NAD
+HEENT: Anicteric, PERLL, OP clear.
+CARDIAC: RRR, normal s1/s2, no m/r/g.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: Soft, diffuse tenderness without rebound or guarding,
+non-distended, positive bowel sounds.
+EXT: Warm, well perfused, left leg swelling and tenderness ot
+palpation.
+NEURO: A&Ox3, good attention and linear thought, CN II-XII
+intact. Strength full throughout. Sensation to light touch
+intact.
+SKIN: No significant rashes.
+
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 10:30PM BLOOD WBC-10.7* RBC-4.20* Hgb-12.6* Hct-38.3* 
+MCV-91 MCH-30.0 MCHC-32.9 RDW-13.0 RDWSD-42.8 Plt ___
+___ 10:30PM BLOOD Neuts-56.3 Lymphs-17.8* Monos-10.2 
+Eos-13.3* Baso-0.9 Im ___ AbsNeut-6.02 AbsLymp-1.90 
+AbsMono-1.09* AbsEos-1.42* AbsBaso-0.10*
+___ 10:30PM BLOOD ___ PTT-28.7 ___
+___ 10:30PM BLOOD Glucose-99 UreaN-11 Creat-0.6 Na-140 
+K-4.0 Cl-99 HCO3-26 AnGap-15
+___ 10:30PM BLOOD ALT-89* AST-58* LD(LDH)-495* AlkPhos-183* 
+TotBili-0.3
+___ 10:30PM BLOOD cTropnT-<0.01
+___ 10:30PM BLOOD proBNP-53
+___ 10:30PM BLOOD Albumin-4.2 Calcium-10.1 Phos-4.3 Mg-1.9
+
+Discharge Labs: 
+===============
+___ 07:55AM BLOOD WBC-9.5 RBC-4.41* Hgb-13.3* Hct-39.6* 
+MCV-90 MCH-30.2 MCHC-33.6 RDW-12.7 RDWSD-41.5 Plt ___
+___ 07:55AM BLOOD ___ PTT-31.4 ___
+___ 07:55AM BLOOD Glucose-88 UreaN-14 Creat-0.7 Na-140 
+K-3.8 Cl-98 HCO3-26 AnGap-16
+___ 07:55AM BLOOD ALT-96* AST-49* AlkPhos-199* TotBili-0.3
+___ 07:55AM BLOOD Calcium-10.1 Phos-3.7 Mg-2.0
+
+Imaging: 
+========
+___ CTA CHEST:
+1. Right upper and lower lobe segmental pulmonary emboli.  No 
+evidence of 
+right heart strain. 
+2. Interval worsening of right middle and lower lobe masses with 
+more proximal 
+obstruction of the right middle lobe bronchus resulting in 
+atelectasis and 
+post obstructive pneumonia. 
+3. Increased size of a precarinal lymph node.  Stage T3 
+vertebral metastasis. 
+
+___ MR ___ & W/O CONT:
+1. Diffuse bone metastasis throughout the thoracic and lumbar 
+spine is 
+identified. 
+2. No evidence of spinal cord compression.  There is cortical 
+expansion of 
+tumor from the T10 vertebral body into the epidural space 
+without significant 
+spinal canal narrowing.  No high-grade neural foraminal 
+narrowing. 
+3. Additional findings as described above. 
+
+___ MR ___ &W/O CONTR:
+1. Diffuse bone metastasis throughout the thoracic and lumbar 
+spine is 
+identified. 
+2. No evidence of spinal cord compression.  There is cortical 
+expansion of 
+tumor from the T10 vertebral body into the epidural space 
+without significant 
+spinal canal narrowing.  No high-grade neural foraminal 
+narrowing. 
+3. Additional findings as described above. 
+
+___ SKELETAL SURVEY:
+AP pelvis and femurs: No lytic or blastic lesions are 
+identified.  A lesion in the right femoral neck seen on previous 
+CT scan from ___ is not visible on this x-ray 
+study.  Clips are seen within the pelvis. Thoracic and lumbar 
+spine: Several sclerotic lesions are seen in the thoracic spine, 
+confirmatory of the MRI from the same day.  There is also a 
+sclerotic lesion within the L5 vertebral body.  This is also 
+seen to better advantage on the MRI examination. Degenerative 
+changes are evident.  Postoperative changes are noted in the 
+cervical spine. 
+Humeri: No lytic or blastic lesions are identified.  
+Degenerative changes are evident involving the left glenohumeral 
+joint. 
+Lateral skull x-ray: No lytic or blastic lesions are identified. 
+ The patient is edentulous. 
+
+ 
+Brief Hospital Course:
+___ tobacco smoker with h/o COPD, chronic facila pain syndrome 
+and s/p neck vertebral fusion surgery s/p ___ trauma who 
+presented to OSH (___) with headaches, confusion and 
+personality changed of 3 weeks duration and had head CT which 
+demonstrated "Multiple prominent areas of parenchymal 
+hypodensity involving the gray and white matter in the right 
+frontoparietal right frontal, right temporal and left frontal 
+regions, suggesting vasogenic edema. Superimposed subacute 
+infarctions cannot be excluded. 2: There is also suggestion of 
+possible hyperdense mass lesion in the right temporoparietal 
+region, worrisome for neoplasm". Referred to ___ ED where he 
+was afebrile and hemodynamically stable but with sinus 
+bradycardia. MRI brain showed multiple enhancing intracranial 
+lesions involving both cerebral cortices highly concerning for 
+metastatic disease and c/b vasogenic edema and midline shift to 
+the left. Admitted to medicine where he was managed with PO 
+dexamethasoneand prophylactic po levetiracetam following IV 
+loads as well as home PO oxycodone and IV PRN hydromorphone for 
+pain control. Underwent CT chest which was notable for 5 lung 
+nodules ranging from 6 mm to 2.5 cm in diameter any one of which 
+could be a primary bronchogenic carcinoma, but the number could 
+suggests metastases from an extrathoracic primary malignancy. CT 
+abd/pelvis did not show obvious primary but did show omental fat 
+stranding and diffuse mild omental thickening, without masses, 
+but which likely represent metastatic disease. Underwent ___ 
+guided biopsy of right pulmonary nodule on ___ which he 
+tolerated well. Cytology of brushing was negative for malignant 
+cells and biopsy results are pending at discharge. Patient was 
+reviewed by oncology who provided guidance about their plan for 
+ongoing post d/c follow-up and their contact details. 
+
+Problems Summary 
+
+- suspected Brain metastases per MRI
+
+- right lung nodule per CT chest: likley primary lung cancer, 
+biopsy pending. 
+
+- omental stranding/thickening per CT abdomen: ? metastatic 
+disease
+
+- right inguinal seroma at site of previous inguinal hernia 
+repair 
+
+- Sinus Bradycardia: ___ intracranial process/increased ICP? no 
+other signs of ___ reflex. Rate on previous ECG from ___ 
+is 57
+
+- hyperglycemia: no known history of DM. likely ___ to high-dose 
+steroids. Was put on conservative ISS but did not require 
+insulin doses. 
+
+- headaches - ___ to brain lesions
+
+- cognitive impairment - ___ brain lesions. Per OT review during 
+this admission has "evident impairments in attention, memory, 
+and executive
+function. At this time, recommend pt d/c home w/ direct
+supervision for IADLs (medication management, cooking, community
+integration).". Patient was ambulating independently throughout 
+admission and had no acute ___ needs. 
+
+- mild leukocytosis: ___ high dose steroids. 
+
+Chronic: 
+
+- h/o TOBACCO USE: on nicotine patches during this admission. 
+- chronic head aches
+- HLD
+
+Patient was discharged with the following plan: 
+
+- patient's wife to provide direct supervision for IADLs 
+(medication management, cooking, community integration). 
+- continue PO oxycodone 20mg Q6H:PRN home regimen + PO 
+hydromorphone PRN ___ records reviewed prior to discharge)
+- continue PO dexamethasone 4 mg q 6 hours 
+- continue keppra 1g BID
+- continue nicotine patches 
+- continue ensure enlive TID and MVI with minerals 
+- f/u with oncology who will follow-up on lung biopsy results 
+and coordinate further care as needed including engagement of 
+neuro-onc/rad-onc/neurosurgery as necessary. 
+- continue to address goals of care following with tissue biopsy 
+results and as part of the big-picture prognosis discussion once 
+diagnosis confirmed. Code status presumed full during this 
+admission and not discussed. 
+- consider outpatient cognitive neurology consult to further 
+assess cognition, per oncology and PCP discretion
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Dexamethasone 2 mg PO DAILY 
+2. Diazepam 5 mg PO BID:PRN pain 
+3. Docusate Sodium 100 mg PO BID:PRN constipation 
+4. FoLIC Acid 1 mg PO DAILY 
+5. LevETIRAcetam 1000 mg PO Q12H 
+6. Morphine SR (MS ___ 60 mg PO Q12H 
+7. Omeprazole 40 mg PO BID 
+8. Ondansetron 8 mg PO Q8H:PRN nausea/vomiting 
+9. Prochlorperazine 10 mg PO Q6H:PRN nausea/vomiting   
+10. Senna 8.6 mg PO BID:PRN constipation  
+11. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+12. Tamsulosin 0.4 mg PO QHS 
+13. Vitamin D ___ UNIT PO DAILY 
+14. OxyCODONE (Immediate Release) 20 mg PO Q4H:PRN Pain - 
+Moderate 
+15. Celecoxib 200 mg oral BID 
+16. MethylPHENIDATE (Ritalin) 10 mg PO BID 
+17. Mirtazapine 30 mg PO QHS 
+18. Acetaminophen ___ mg PO Q8H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 60 mg SC Q12H 
+RX *enoxaparin 60 mg/0.6 mL 0.6 mL SC every twelve (12) hours 
+Disp #*60 Syringe Refills:*0 
+2.  Morphine SR (MS ___ 60 mg PO Q8H 
+RX *morphine 60 mg 1 capsule(s) by mouth three times a day Disp 
+#*90 Capsule Refills:*0 
+3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 30 mg 1 tablet(s) by mouth q4h PRN Disp #*70 
+Tablet Refills:*0 
+4.  Acetaminophen ___ mg PO Q8H:PRN Pain - Mild  
+5.  Dexamethasone 2 mg PO DAILY  
+6.  Diazepam 5 mg PO BID:PRN pain  
+7.  Docusate Sodium 100 mg PO BID:PRN constipation  
+8.  FoLIC Acid 1 mg PO DAILY  
+9.  LevETIRAcetam 1000 mg PO Q12H  
+10.  MethylPHENIDATE (Ritalin) 10 mg PO BID  
+11.  Mirtazapine 30 mg PO QHS  
+12.  Omeprazole 40 mg PO BID  
+13.  Ondansetron 8 mg PO Q8H:PRN nausea/vomiting  
+14.  Prochlorperazine 10 mg PO Q6H:PRN nausea/vomiting    
+15.  Senna 8.6 mg PO BID:PRN constipation   
+16.  Sulfameth/Trimethoprim SS 1 TAB PO DAILY  
+17.  Tamsulosin 0.4 mg PO QHS  
+18.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Deep Vein Thrombosis 
+Pulmonary Embolism 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to ___ with leg swelling and shortness of 
+breath. You were found to have a blood clot in your left leg and 
+both lungs. You were started on a blood thinner called lovenox 
+to treat this and prevent future blood clots. Please continue to 
+take this. 
+
+Your pain regimen was also increased so that you can take up to 
+30mg of oxycodone every 4 hours as needed for pain. You will 
+also be taking the long-acting MS ___ three times a day 
+instead of twice a day. We have confirmed with your pharmacy 
+that these changes will not be too expensive, but please notify 
+your primary medical team immediately if you are having any 
+issues obtaining your medications. Lastly, you will need to stop 
+taking Celebrex (celecoxib) because it interacts with Lovenox. 
+
+Please follow up with all appointments as listed below.  
+
+It was a pleasure taking care of you, 
+Your ___ Oncology Team 
+ 
+Followup Instructions:
+___

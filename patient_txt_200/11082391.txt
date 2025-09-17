@@ -1,0 +1,425 @@
+===== DISCHARGE NOTE =====
+note_id=11082391-DS-2 | hadm_id=22596088
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+quinidine / Sulfa(Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+NSTEMI
+ 
+Major Surgical or Invasive Procedure:
+s/p lap chole ___ @ OSH with gangrenous cholecystits
+
+ 
+History of Present Illness:
+___ is a ___ M with history of coronary artery disease 
+s/p CABG in 1990s (4V: RIMA to LAD, LIMA to diagonal, SVG to OM, 
+SVG to PDA), CVA x2 since ___, on coumadin for strokes, also 
+history of IDDM and Renal Cell Carcinoma s/p unilateral 
+nephrectomy in ___ (unknown baseline Cr) who initially 
+presented to ___ with abdominal pain found to have 
+gangrenous cholecystitis s/p lap cholecystectomy and developed 
+acute myocardial infarction postop now transferred to our CCU 
+for futher management.
+ 
+Patient initially presented to ___ with 24 hours of 
+colicky abdominal pain, RUQ in nature also with associated 
+nausea and vomiting without diarrhea, hematemesis, GIB, chest 
+pain or dyspnea. CT abdomen performed which showed gallbladder 
+distension, wall thickening and pericholecystic stranding 
+consistent with cholecystitis. Labs notable for a lactate of 
+2.8, K of 5.0, Cr 2.3, T.bili or 0.8, normal ALT/AST/ALP, WBC of 
+22.4 with 75% PMNs and 16% bands. He was admitted to ___ 
+where he was treated with IV ABx and taken to the OR. In the OR 
+a Lap Chole was performed with drainage for gangrenous 
+cholecystitis with diffuse oozing from the liver bed requiring 4 
+units FFP to reverse coumadin therapeutic INR. He received 1 
+unit pRBCs post-op for 500cc of blood loss. He was kept 
+overnight in the ICU and was stable overnight. Post-op troponin 
+was 0.07 considered likely demand ischemia from sepsis and known 
+coronary artery disease. Around 5am of ___ patient 
+developed acute dyspnea without chest pain and desaturated to 
+high ___. Troponin checked during that time was 21 which 
+uptrended to 31.4 the morning of transfer on the ___. Unclear 
+if patient received a Plavix load but home medications document 
+he is on 75mg daily, he received a full dose aspirin but did not 
+receive aspirin or plavix this morning because patient unable to 
+swallow. He denied any chest pain during this troponin rise and 
+there were no events on telemetry. Morning of transfer the 
+patient was found to be in new acute renal failure to Cr of 3.0 
+along with the Troponin of 31. He was deemed not a 
+catheterization candidate given single kidney and acute renal 
+failure to Cr of 3.0. Additionally, patient found to have 
+pneumonia, CHF exacerbation and repeat TTE showed LVEF of 35% 
+with apical akinesis and diffuse hypokinesis. He was unable to 
+tolerate PO intake so received 5mg IV metoprolol and PR aspirin. 
+Also maintained on Heparin drip (started on ___ for NSTEMI 
+currently therapeutic PTT at Heparin 950units/hr. Patient has 
+been hemodynamically stable while on stress dosed steroids 
+(hydrocortisone 50mg IV BID) as pt takes fludrocortisone on 
+chronic basis. 
+   
+Vitals prior to transfer Sinus Rhythm at 80bpm, 134/92, 99% on 
+4LNC. Notable labs before transfer: Cr 2.4, wbc 19.7, hct 31.1 
+down from 37.6 (___), and TnI 24.3.
+  
+On arrival to the floor, patient saturations varying in ___ on 
+4L NC, on heparin gtt. On room air, sats drop to 83% and was put 
+on 50% face mask. Came to floor with Foley already placed with 
+cloudy urine. Patient A&Ox2 (cannot recall month). Denies 
+CP/SOB, palpitations, n/v, headache, weakness.
+   
+REVIEW OF SYSTEMS  
+On review of systems, s/he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. S/he denies recent fevers, chills or 
+rigors. S/he denies exertional buttock or calf pain. All of the 
+other review of systems were negative.  
+ 
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope or presyncope.  
+ 
+Past Medical History:
+- Coronary Artery Disease s/p CABG (4V: RIMA to LAD, LIMA to 
+diagonal, SVG to OM, SVG to PDA) ___
+- Hypertension
+- Hyperlipidemia
+- s/p Two strokes since ___ with near complete recovery (mild 
+balance issues), on coumadin for strokes
+- Diabetes Mellitus (control? Insulin?), A1c 6.5% recently
+- Renal Cell Carcinoma s/p nephrectomy ___
+- Cataracts
+ 
+PAST SURGICAL HISTORY:
+- s/p appendectomy 
+- s/p nephrectomy
+- s/p cholecsytectomy with drainage
+ 
+Social History:
+___
+Family History:
+Difficult to obtain given mental status
+ 
+Physical Exam:
+ADMISSION
+VS: T= 97.4 BP= 130/79 HR=80 RR=22 O2 sat=95% on 50% shovel mask 
+ 
+GENERAL: in NAD. Oriented x2. Mood, affect appropriate. Appears 
+drowsy and intermittently gives inappropriate responses.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma. 
+NECK: Supple with JVP of 5cmH20
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. +L sided crackles, R 
+side with diminished breath sounds to base, no wheezes or 
+rhonchi.  
+ABDOMEN: Soft, ND, appropriately tender. Dressings to RUQ c/d/i, 
+No HSM or tenderness. Abd aorta not enlarged by palpation. No 
+abdominial bruits.  
+EXTREMITIES: No peripheral edema, weak pedal pulses, cool distal 
+toes  
+SKIN: +vertical sternotomy scar, dry, No stasis dermatitis, 
+ulcers, or xanthomas 
+ 
+DISCHARGE
+VS: Tcurrent: 98.2, Tmax 98.8, BP 128-154/74-83, HR 76, 97% on 
+RA. 
+GENERAL: in NAD. Oriented x 2. Mood, affect appropriate. With 
+decreased energy.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+NECK: Supple, with JVP of 5cmH20
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. diminished breath 
+sounds at bases, no wheezes or rhonchi.  
+ABDOMEN: Soft, ND, appropriately tender. Dressings to RUQ c/d/i, 
+No HSM or tenderness. Abd aorta not enlarged by palpation. No 
+abdominial bruits.  
+EXTREMITIES: No peripheral edema, weak pedal pulses, cool distal 
+toes  
+SKIN: +vertical sternotomy scar, dry, No stasis dermatitis, 
+ulcers, or xanthomas 
+ 
+Pertinent Results:
+ADMISSION
+___ 01:00PM   WBC-17.2* RBC-3.37* HGB-10.0* HCT-31.2* 
+MCV-93 MCH-29.6 MCHC-32.0 RDW-14.8
+___ 01:00PM   NEUTS-93.6* LYMPHS-3.5* MONOS-2.8 EOS-0.1 
+BASOS-0
+___ 01:00PM   ___ PTT-55.4* ___
+___ 01:00PM   CALCIUM-8.3* PHOSPHATE-4.8* MAGNESIUM-2.2
+___ 01:00PM   %HbA1c-6.6* eAG-143*
+___ 01:00PM   ALT(SGPT)-29 AST(SGOT)-59* CK(CPK)-135 ALK 
+PHOS-94 TOT BILI-0.3
+___ 01:00PM   CK-MB-26* MB INDX-19.3* cTropnT-2.11*
+___ 01:00PM   CALCIUM-8.3* PHOSPHATE-4.8* MAGNESIUM-2.2
+___ 01:00PM   GLUCOSE-157* UREA N-59* CREAT-2.5* SODIUM-145 
+POTASSIUM-3.9 CHLORIDE-105 TOTAL CO2-27 ANION GAP-17
+___ 01:26PM   LACTATE-2.1*
+___ 01:26PM   ___ PO2-24* PCO2-53* PH-7.34* TOTAL 
+CO2-30 BASE XS-0
+ 
+OTHER STUDIES
+CK-MB: 26 -> 13 -> 8
+Trop: 2.11 -> 1.74 -> 1.34
+ 
+ 
+MICRO 
+___ CULTURE-NO GROWTH
+___ Culture, Routine-PENDING
+___ SCREEN-PENDINGINPATIENT
+___ CULTURE-NO GROWTH
+___ Culture, Routine-PENDING
+ 
+TRANSTHORACIC ECHO: The left atrium is mildly dilated. No atrial 
+septal defect is seen by 2D or color Doppler. Left ventricular 
+wall thicknesses are normal. The left ventricular cavity size is 
+normal. Overall left ventricular systolic function is severely 
+depressed (LVEF= 25 %) with global LV hypokinesis and regional 
+mid to distal inferior/infero-apical akinesis. Portions of the 
+basal to mid septum are near akinetic. No masses or thrombi are 
+seen in the left ventricle. There is no ventricular septal 
+defect. Right ventricular chamber size is normal with mild 
+global free wall hypokinesis. The aortic root is mildly dilated 
+at the sinus level. The aortic valve leaflets (3) are mildly 
+thickened but aortic stenosis is not present. No aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. Mild (1+) mitral 
+regurgitation is seen. The tricuspid valve leaflets are mildly 
+thickened. There is moderate pulmonary artery systolic 
+hypertension. There is no pericardial effusion. IMPRESSION: 
+Severely depressed LVEF suggestive of multivessel CAD.
+ 
+CXR ___: 
+1.  Moderate interstitial edema.  
+2.  Bilateral small-to-moderate pleural effusion.
+ 3.  Bibasilar consolidations are probably atelectases; however, 
+aspiration or pneumonia cannot be excluded.
+ 
+CXR ___: In comparison with the study of ___, there are 
+continued low lung volumes with moderate pulmonary edema and 
+bilateral layering effusions with compressive atelectasis at the 
+bases.  No evidence of acute focal pneumonia, though this could 
+well be hidden on the single frontal view in view of the other 
+pulmonary findings. 
+___ ___  ___  ___ 
+ 
+CXR: ___:   
+IMPRESSION:   
+1.Unchanged bibasilar atelectasis and bilateral 
+small-to-moderate pleural 
+effusions.  
+2.Possible mild pulmonary edema. 
+  
+DISCHARGE:
+___ 07:40AM BLOOD WBC-13.4* RBC-3.47* Hgb-10.1* Hct-31.9* 
+MCV-92 MCH-29.2 MCHC-31.8 RDW-15.2 Plt ___
+___ 06:15AM BLOOD Neuts-86.3* Lymphs-6.6* Monos-6.6 Eos-0.4 
+Baso-0.1
+___ 07:40AM BLOOD Plt ___
+___ 07:40AM BLOOD ___ PTT-34.3 ___
+___ 07:40AM BLOOD Glucose-163* UreaN-71* Creat-2.1* Na-143 
+K-3.7 Cl-106 HCO3-28 AnGap-13
+___ 07:40AM BLOOD Calcium-8.1* Phos-3.6 Mg-2.0
+___ 01:00PM BLOOD %HbA1c-6.6* eAG-143*
+ 
+Brief Hospital Course:
+___ M with history of insulin dependent diabetes mellitus, 
+coronary artery disease s/p CABG, admitted to ___ initially 
+with cholecystitis s/p cholecystectomy who developed acute MI 
+and respiratory distress from CHF exacerbation, transferred to 
+___ for further management without percutaneous coronary 
+intervention due to tenuous renal status.
+   
+# NSTEMI: Patient presented with troponinemia in the postop 
+setting (s/p cholecystectomy), likely demand ischemia. EKG 
+without significant ST or other worrisome changes. He did not 
+have chest pain and remained hemodynamically stable. However, he 
+has poor functional status at baseline, with multiple 
+comorbidities as well as CKD, and thus risks of intervention 
+would seem to outweigh benefits. A TTE showed severely decreased 
+left ventricular ejection fraction (25%), with global LV 
+hypokinesis and regional mid to distal inferior/infero-apical 
+akinesis. He was initially managed with heparin drip, and was 
+later transitioned to ASA 81 / Plavix 75mg / Coumadin 3mg / 
+Metoprolol 25mg TID / Atorvastatin 80mg. At the time of 
+discharge, he remained asymptomatic. Would consider restarting 
+ACE-I given SCHF and CAD for afterload reduction as outpatient. 
+  
+# CHF exacerbation: Chronic systolic CHF with LVEF of 25%. 
+Patient does not use O2 at home, however presented with a new 
+oxygen requirement. Pt with pleural effusion and congestion 
+consistent with acute exacerbation of systolic CHF, ejection 
+fraction 25%. He did not have cough or sputum production to 
+suggest pneumonia. A TTE showed severely decreased left 
+ventricular ejection fraction (25%), with global LV hypokinesis 
+and regional mid to distal inferior/infero-apical akinesis. He 
+was treated with lasix for diuresis, and was started on 
+metoprolol as well as nitroprusside. ACE-I was held given his 
+___ (see below). At the time of discharge, he maintained high 
+oxygen saturation without supplemental O2. 
+ 
+#AOCKD: Unknown baseline Cr but patient with history of CKD, s/p 
+nephrectomy as pt with h/o RCC s/p nephrectomy and with Cr 
+ranging from 2.2 to 2.6 at OSH. Patient with sepsis 
+(cholecystitis source) and thus hypovolemia/prerenal azotemia 
+likely cause of ___. This was worsened with diuresis for his 
+sCHF. ACE-I was held during this admission, and his renal 
+function improved with discontinuation of diuresis. At the time 
+of discharge his Cr was 2.1 and thought to be back to baseline.
+ 
+# Cholecystitis: s/p Lap Chole with 3 drains placed (and d/c'd) 
+for continued oozing and gangrenous cholecystitis. Bile cx from 
+OSH grew Klebsiella, sensitive to levofloxacin. He was treated 
+with levofloxacin and flagyl from ___ to ___, and was 
+transitioned to ciprofloxacin alone. On day of discharge day 8 
+out of 14 day course of Ciprofloxacin. On discharge remains with 
+slight leukocytosis of 13.4 however afebrile wihtout evidence of 
+active infection.  
+   
+# Delirium: A&Ox2 on admission with unknown baseline after 
+suffering two CVAs in past. ___ have vascular dementia with 
+acute delirium postoperatively. No neuro deficits on exam. Urine 
+on admission cloudy, and with leukocytosis. He was treated with 
+antibiotics for his klebsiella intra-abdominal infection, and 
+his leukocytosis and his mental status improved. 
+  
+# CAD: s/p CABG in 1990s, without chest pain during admission. 
+His troponin was high on admission, likely due to demand 
+ischemia and AOCKD. He was treated with ASA, statin, plavix, and 
+beta blocker.
+    
+# Hypertension: he was continued on his home metoprolol. His 
+fludrocortisone (for orthostatic hypotension) was initially held 
+and resumed prior to discharge. 
+ 
+# Hyperlipidemia: continued atorvastatin 80mg.
+  
+# Diabetes: Chronic Insulin Dependent Diabetes Mellitus, Type 
+II, in good contgrol with HgA1C was 6.6 on admission. Treated 
+with ISS while hospitalized.
+   
+Transitional Issues:
+- Restart ACE-I given LVEF of 25%
+- Patient has history of hemorrhagic stroke and is on plavix and 
+warfarin so cautious with additional 
+antiplatelets/anticoagulation
+- Return to coumadin 5mg as outpatient when cipro course 
+completed
+- Monitor improvement in fever curve and leukocytosis as an 
+outpatient with completion of Cipro course
+- CODE: Full Code
+- EMERGENCY CONTACT: Wife and HCP ___ ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Clopidogrel 75 mg PO DAILY 
+2. Fludrocortisone Acetate 0.1 mg PO DAILY 
+3. Allopurinol ___ mg PO DAILY 
+4. Metoprolol Succinate XL 12.5 mg PO BID 
+5. Docusate Sodium 100 mg PO BID 
+6. Warfarin 5 mg PO DAILY16 
+7. Humalog 8 Units Breakfast
+Humalog 8 Units Lunch
+Humalog 8 Units Dinner
+Levemir 24 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+8. Multivitamins 1 TAB PO DAILY 
+9. Atorvastatin 80 mg PO DAILY 
+10. traZODONE 50 mg PO HS 
+11. Vitamin D Dose is Unknown  PO DAILY 
+
+ 
+Discharge Medications:
+1. Allopurinol ___ mg PO DAILY 
+2. Atorvastatin 80 mg PO DAILY 
+3. Clopidogrel 75 mg PO DAILY 
+4. Fludrocortisone Acetate 0.1 mg PO DAILY 
+5. Glargine 8 Units Bedtime
+Insulin SC Sliding Scale using REG Insulin
+6. Metoprolol Succinate XL 75 mg PO DAILY 
+7. Multivitamins 1 TAB PO DAILY 
+8. Vitamin D 800 UNIT PO DAILY 
+9. traZODONE 50 mg PO HS 
+10. Warfarin 3 mg PO DAILY16 
+11. Acetaminophen 325-650 mg PO Q6H:PRN Pain or Fever 
+12. Ciprofloxacin HCl 500 mg PO Q24H Duration: 6 Days 
+13. Docusate Sodium (Liquid) 100 mg PO BID 
+14. HydrALAzine 20 mg PO TID 
+15. Senna 1 TAB PO BID:PRN Constipation 
+16. Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol 
+17. Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol 
+18. Sodium Chloride 0.9%  Flush 3 mL IV Q8H:PRN line flush 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+NSTEMI (non ST elevation myocardial infarction) 
+CAD (coronary artery disease) s/p CABG in ___ 
+Acute on chronic systolic heart failure 
+Acute on Chronic kidney disease 
+Leukocytosis (high white blood cell count) 
+Cholecystitis s/p laprascopic cholecystectomy c/b gangrenous 
+cholecystitis 
+Hypertnesion 
+Hyperlipidemia 
+Insulin Dependent Diabetes Mellitus 
+s/p Two strokes since ___ with near complete recovery (mild 
+balance issues), on coumadin for strokes 
+Renal Cell Carcinoma s/p nephrectomy ___ 
+Cataracts 
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital because after having your 
+gallbladder taken out you were having a heart attack as well as 
+a heart failure (decreased pumping function) exacerbation with 
+shortness of breath and respiratory failure. At the same time 
+your kidney funciton was poor likely in the setting of low 
+perfusion or blood flow to the kidneys. 
+
+Because your preexisting conditions and your acute kidney 
+failure, we decided that the risk outweighed the benefit of 
+percutaneous coronary intervention and decided to manage your 
+heart attack with medications. 
+
+You also developed an infection at the site of where your 
+gallbladder was removed. Because of this you are on antibiotics 
+and will continue them for a total of 14 days.   
+
+Because of your heart failure it is important that you weigh 
+yourself every morning, call MD if weight goes up more than 3 
+lbs in two days.
+ 
+Followup Instructions:
+___

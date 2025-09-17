@@ -1,0 +1,279 @@
+===== DISCHARGE NOTE =====
+note_id=10688130-DS-17 | hadm_id=26449598
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: PLASTIC
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Comminuted anterior and posterior
+frontal sinus fracture.
+
+ 
+Major Surgical or Invasive Procedure:
+PROCEDURES PERFORMED (___)
+1. Cranialization of the frontal sinus.
+2. Open reduction, internal fixation of anterior frontal
+    sinus fracture.
+3. Autologous fat grafting.
+4. Pericranial flap.
+
+ 
+History of Present Illness:
+___ male with history of having sustained a frontal 
+sinus injury
+during a motor vehicle collision vesus a tree, and he presents 
+with
+frontal sinus fractures which are comminuted in posterior
+table, as well as rhinorrhea. Unknown speed of vehicle at time 
+of accident and the circumstances surrounding the accident are 
+unclear. At the scene of the accident the patient was GCS 15 and 
+self extracted. 
+ 
+Past Medical History:
+None 
+ 
+Social History:
+___
+Family History:
+Non-contributory 
+ 
+Physical Exam:
+Constitutional: Comfortable, No acute distress, A+O x 3
+Head/Eyes: Well healing bitemporal incision without erythema, 
+edema, or purulence 
+Pupils equal, round, reactive to light
+ENT/Neck: No midline tenderness
+Chest/Resp: No chest wall tenderness or crepitus, bilateral
+breath sounds present
+Cardiovascular: Regular rate and rhythm
+GI/Abdominal: Soft, nontender, nondistended
+GU/Flank: No Costovertebral angle tenderness
+Musculoskeletal: No deformity
+Skin: No abrasions, lacerations, ecchymosis
+Neuro: GCS 15, spontaneously moves all extremities to
+command.
+Psych: Normal mood, normal affect 
+
+ 
+Pertinent Results:
+IMAGING:
+
+CT HEAD With and Without Contrast ___- 
+IMPRESSION: 
+1.  Early visualization of the right cavernous sinus suspicious 
+for carotid 
+cavernous fistula given the extensive skull base fractures.  
+Cerebral 
+angiography can confirm this finding if clinically indicated. 
+2.  Patent anterior and posterior circulations.  No aneurysm 
+greater than 2 mm 
+in size. 
+3.  Comminuted extensive skull base frontal bone fractures and 
+small subdural 
+hematoma and intraparenchymal hematoma and pneumocephalus as on 
+the outside 
+CT. 
+4.  Bilateral maxillary and ethmoid fractures and sphenoid sinus 
+fractures 
+with blood and fluid within the sinuses. 
+
+Cerebral Angiogram ___ -
+IMPRESSION: ___ underwent diagnostic cerebral angiogram 
+which 
+demonstrates low flow right carotid cavernous fistula.  No 
+aneurysm is 
+visualized.  Drainage appears to be via the petrosal sinuses, 
+without enlarged orbital vessels identified.  There is no supply 
+via the external carotid 
+artery. 
+
+CT Head Without Contrast - ___
+IMPRESSION:  Interval improved alignment of comminuted frontal 
+fractures with 
+decreased pneumocephalus, trace frontal subdural fluid, and 
+overlying 
+subgaleal air.  Frontal contusions, left greater than right, are 
+again seen 
+with increased adjacent edema. 
+
+CT Head Without Contrast - ___
+1.  Status post frontal bone fracture fixation with near 
+resolution of 
+pneumocephalus and stable small frontal subdural blood product 
+and fluid.  No 
+evidence for new mass effect or hydrocephalus.   
+  
+2.  Persistent bifrontal parenchymal contusions with adjacent 
+edema. 
+
+ADMIT LABS:
+
+___ 01:50AM BLOOD Glucose-141* Lactate-2.6* Na-141 K-4.3 
+Cl-105 calHCO3-22
+___ 01:40AM BLOOD ASA-NEG Ethanol-31* Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 12:35AM BLOOD Glucose-103* UreaN-8 Creat-0.9 Na-150* 
+K-4.2 Cl-113* HCO3-28 AnGap-13
+___ 01:40AM BLOOD Plt ___
+___ 03:33AM BLOOD ___ PTT-24.2* ___
+___ 01:40AM BLOOD WBC-14.3* RBC-5.04 Hgb-15.2 Hct-43.2 
+MCV-86 MCH-30.2 MCHC-35.2* RDW-12.8 Plt ___
+
+DISCHARGE LABS:
+
+___ 04:50AM BLOOD Calcium-8.9 Phos-3.3 Mg-2.1
+___ 04:50AM BLOOD Glucose-99 UreaN-13 Creat-0.8 Na-139 
+K-3.6 Cl-102 HCO3-26 AnGap-15
+___ 06:17AM BLOOD Plt ___
+___ 06:17AM BLOOD WBC-8.0 RBC-3.96* Hgb-11.8* Hct-33.9* 
+MCV-86 MCH-29.7 MCHC-34.7 RDW-12.5 Plt ___ restrained passenger in single vehicle crash vs. tree. + 
+airbag deployment, self extricated. No LOC. Brought to outside 
+hospital and found to have bifrontal contusions, frontal SDH, 
+facial fractures, depressed skull fracture. CTA showed right 
+carotid/cavernous sinus fistula but no dissection. Neurosurgery 
+and ophtho evaluated the patient and it was decided that no 
+intervention was necessary. Pt was also seen by plastics surgery 
+and he is scheduled to have surgery on ___ for his facial 
+fracture and malocclusion. On ___, pt pain was well 
+controlled, his vital signs were stable, he was tolerating clear 
+diet. pt was stable for transfer to floor. The rest of his 
+hospital course by systems are detailed below 
+  
+Neurologic:  
+- presently AAO x 3  
+- HOB elevated  
+- pain control with dilaudid pca, tylenol prn  
+- q4 neuro checks  
+- keppra bid  
+- Hypernatremia with increased dilute urine output c/w DI, 
+resolving with free water, D5W at 100cc/hr. Continue to monitor 
+sodium level.  
+
+ENT/Facial/Ophtho  
+- ophtho c/s: intraoccular pressures wnl, out pt f/u in 2weeks  
+- dc'd augmentin started for facial fractures by plastics  
+- q4 vision checks  
+- observe for proptosis/eye pain in R w/ known carotid/cavernous 
+fistula. He is set up for an MRI in 1 month. 
+
+Cardiovascular:  
+- stable
+
+Pulmonary:  
+- no issues 
+ 
+Gastrointestinal / Abdomen:  
+- clear diet->ADAT, NPO at midnight for OR tomorrow  
+- zofran prn  
+- famotidine  
+
+Renal:  
+- no Foley needed, good UOP
+  
+Hematology:  
+- no issues  
+
+Endocrine:  
+- no issues  
+
+Infectious Disease:  
+-d/c augmentin for facial fractures, plastics team notified  
+-Monitor for signs of infection  
+ 
+Prophylaxis:  
+- DVT: Boots  
+- Stress ulcer: famotidine  
+  
+
+ 
+Medications on Admission:
+None
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1) anterior/posterior table comminuted fracture of frontal bone
+2) bilateral small frontal contusions, and associated SDH
+3) carotid cavernous fistula 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted on ___ for observation after a motor 
+vehicle accident and treatment of your injuries. Please follow 
+these discharge instructions:
+-You may shower from the neck down.  You should keep your scalp 
+sutures/incision dry and clean until you follow up with Dr. ___.
+.
+Medications:  
+* You may take your prescribed pain medication for moderate to 
+severe pain. You may switch to Tylenol or Extra Strength Tylenol 
+for mild pain as directed on the packaging. Please note that 
+Percocet and Vicodin have Tylenol as an active ingredient so do 
+not take these meds with additional Tylenol. 
+* Take prescription pain medications for pain not relieved by 
+tylenol. 
+* Take your antibiotic as prescribed. 
+* Take Colace, 100 mg by mouth 2 times per day, while taking the 
+prescription pain medication. You may use a different 
+over-the-counter stool softener if you wish. 
+. 
+Call the office IMMEDIATELY if you have any of the following: 
+* Signs of infection: fever with chills, increased redness, 
+swelling, warmth or tenderness at the surgical site, or unusual 
+drainage from the incision(s) and/or your nose. 
+* A large amount of bleeding from the incision(s). 
+* Fever greater than 101.5 oF 
+* Severe pain NOT relieved by your medication. 
+. 
+Return to the ER if: 
+* If you are vomiting and cannot keep in fluids or your 
+medications. 
+* If you have shaking chills, fever greater than 101.5 (F) 
+degrees or 38 (C) degrees, increased redness, swelling or 
+discharge from incision, chest pain, shortness of breath, or 
+anything else that is troubling you. 
+* Any serious change in your symptoms, or any new symptoms that 
+concern you. 
+* Do not drive or operate heavy machinery while taking any 
+narcotic pain medication. You may have constipation when taking 
+narcotic pain medications (oxycodone, percocet, vicodin, 
+hydrocodone, dilaudid, etc.); you should continue drinking 
+fluids, you may take stool softeners, and should eat foods that 
+are high in fiber. 
+.
+Activities:
+* No strenuous activity 
+* Exercise should be limited to walking; no lifting, straining, 
+or excessive bending.
+* Unless directed by your physician, do not take any medicines 
+such as Motrin, Aspirin, Advil or Ibuprofen etc
+.
+Comments:
+* Please sleep on several pillows and try to keep your head 
+elevated to help with drainage.  
+* Please continue your oral antibiotics until finished. 
+* Please avoid blowing your nose. 
+* Sneeze with your mouth open 
+* Try to avoid sipping liquids through a straw 
+
+ 
+Followup Instructions:
+___

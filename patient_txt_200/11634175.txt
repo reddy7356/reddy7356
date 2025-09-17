@@ -1,0 +1,364 @@
+===== DISCHARGE NOTE =====
+note_id=11634175-DS-21 | hadm_id=29207403
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Cipro / erythromycin base / meclizine / Penicillins / amlodipine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+anemia
+ 
+Major Surgical or Invasive Procedure:
+None (during hospitalization at ___
+ 
+History of Present Illness:
+Ms. ___ is a ___ with history of ulcerative colitis, 
+rheumatoid arthritis, and psoriasis on infliximab and 
+methotrexate as well as sick sinus syndrome with atrial 
+fibrillation s/p PPM who presents upon transfer from ___ 
+___ ICU given concern for TTP.
+
+The patient has had a prolonged course at ___ 
+prior to transfer. Ms. ___ was initially admitted on 
+___ complaining of fatigue and acute kidney injury with 
+creatinine of 1.9. The patient recieved IVF, though developed an 
+oxygen requirement and fevers. She was treated with vancomycin, 
+ceftazidime, and azithromycin for a multifocal pneumonia with 
+steroids given concern for an autoimmune process. Given her 
+worsening respiratory status, she was transferred to the OSH ICU 
+on ___. She was treated for PCP pneumonia given an elevated LDH 
+to 1000, though this was stopped on ___ as her bronch was 
+negative for PCP. There was ___ on her BAL and a urine 
+culture, thus she was started on fluconazole instead. The 
+patient ultimately underwent VATS on ___ which showed edema 
+versus pulmonary fibrosis, though pathology later returned with 
+"foamy histiocytes and foamy eosinophilic exudates with negative 
+silver stain." Due to concern for PCP, she was restarted back on 
+high-dose TMP-SMX on ___. She developed worsening respiratory 
+status and was intubated on ___. A pulmonary artery catheter was 
+not consistent with cardiogenic shock. Given ongoing respiratory 
+failure, the patient underwent tracheostomy on ___, though this 
+was soon displaced and the patient was reintubated. Trach was 
+replaced several days later. Sputum cultures returned on ___ 
+with pseudomonas, thus she was started on inhaled tobramycin. 
+She also had several intermittent episodes of atrial 
+fibrillation with RVR requiring amiodarone and digoxin and 
+cardioversion. After starting on the dilt drip, she required 
+phenylephrine to maintain her BP. Furosemide was used for volume 
+overload, but due to lack of response she was initiated on HD on 
+___. Her course was further complicated by pneumothorax after 
+subclavian line placement on ___ and after reintubation after 
+tracheostomy dislodged, eventually requiring bilateral chest 
+tubes.
+
+On ___, the patient's platelets fell to 60k and fibrinogen was 
+found to be 85, thus the patient was given cryoprecipitate and 
+PRBCs for presumed DIC. This lasted several days, then 
+normalized. Given persistent anemia requiring transfusion 
+support, Hematology was consulted who could not rule out TTP in 
+setting of elevated LDH and few schistocytes on smear. Bloody 
+output and melena were noted thus patient was started on a PPI 
+gtt. Prior to transfer, she received a total of 18 units PRBCs, 
+4 units FFPc, 1 cryo, 1 platelets.
+
+Finally, prior to transfer, the patient had worsening mental 
+status, thus she underwent CT head which showed findings of old 
+subacute infarcts. During her admission, she also had a CT torso 
+which demonstrated residual left pneumothorax, pneumonia, and 
+concern for cholecystitis.
+  
+On arrival to the FICU, she was intubated and not responding to 
+commands. 
+
+ 
+Past Medical History:
+-Ulcerative colitis
+-Rheumatoid arthritis
+-Psoriasis
+-Sick sinus syndrome s/p pacemaker on warfarin
+-Venous insufficiency
+-Hypertension
+-Hyperlipidemia
+ 
+
+ 
+Social History:
+___
+Family History:
+unknown.
+
+ 
+Physical Exam:
+ADMISSION
+Vitals: 98.4 74 141/61 20 97% on 100% FiO2 
+GENERAL: Intubated, not following commands 
+HEENT: Serous drainage from left eye. Bloody drainage for NG 
+tube, but clear on lavage 
+LUNGS: Coarse breath sounds b/l  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, unable to assess for tenderness given non-responsive 
+but no guarding or rigidity
+EXT: Warm, well perfused, grossly anasarcic with pitting edema 
+throughout b/l upper and lower extremities and abdomen 
+SKIN: diffuse ecchymoses and oozing throughout torso
+NEURO: not following commands 
+
+DISCHARGE:
+General: No visible breathing
+CV: No heart sounds
+Lungs: No breath sounds
+Neuro: No pupillary reflex
+ 
+Pertinent Results:
+ADMISSION:
+============
+___ 12:59PM BLOOD WBC-23.7* RBC-3.73* Hgb-11.3* Hct-31.0* 
+MCV-83 MCH-30.2 MCHC-36.3* RDW-15.5 Plt Ct-48*
+___ 12:59PM BLOOD Neuts-96* Bands-0 Lymphs-1* Monos-2 Eos-0 
+Baso-0 ___ Metas-1* Myelos-0 NRBC-7*
+___ 12:59PM BLOOD ___ PTT-34.3 ___
+___ 12:59PM BLOOD Plt Smr-VERY LOW Plt Ct-48*
+___ 12:59PM BLOOD ___
+___ 12:59PM BLOOD FDP-40-80*
+___ 05:46PM BLOOD Ret Aut-1.3
+___ 09:05PM BLOOD Fact V-43* FacVIII-269*
+___ 12:59PM BLOOD Glucose-270* UreaN-168* Creat-3.0* Na-143 
+K-4.3 Cl-95* HCO3-27 AnGap-25*
+___ 12:59PM BLOOD ALT-305* AST-622* ___ 
+AlkPhos-398* TotBili-12.7* DirBili-9.0* IndBili-3.7
+___:59PM BLOOD Albumin-3.2* Calcium-9.0 Phos-7.4* Mg-2.0 
+Iron-130
+___ 12:59PM BLOOD calTIBC-114 Hapto-<5* ___ 
+TRF-88*
+___ 09:05PM BLOOD ___
+___ 02:26AM BLOOD Triglyc-479*
+___ 01:01PM BLOOD Type-ART pO2-78* pCO2-51* pH-7.36 
+calTCO2-30 Base XS-1
+___ 01:13PM BLOOD Type-MIX pO2-45* pCO2-55* pH-7.33* 
+calTCO2-30 Base XS-0
+___ 01:01PM BLOOD Lactate-4.3*
+___ 01:13PM BLOOD Lactate-4.3*
+___ 01:13PM BLOOD O2 Sat-75
+___ 09:12PM BLOOD freeCa-0.99*
+
+IMAGING/STUDIES:
+==================
+___ RUQ U/S:
+Extremely limited exam, which is nondiagnostic.  Gallbladder is 
+not 
+visualized. 
+
+___ CXR:
+Into beading tube is 5.7 cm above the carinal.  Right PICC line 
+tip is at the level of cavoatrial junction. Most likely hema 
+dialysis catheter is deep in the right atrium. NG tube tip is in 
+the stomach. Left chest tube is in place. 
+  
+There is extensive involvement of the lungs by a widespread 
+consolidations. There is also substantial amount would of what 
+appears to be air within the soft tissues in both left and right 
+hemothorax. It can potentially be originating from the left lung 
+with a adjacent air within the left breast tissue. 
+  
+No substantial pleural effusion is seen. Upper mediastinal might 
+be 
+potentially dilated. Father assessment with chest CT is required 
+
+
+___ TTE:
+Very poor image quality. The left ventricle is not well seen. RV 
+with normal free wall contractility. Tricuspid regurgitation is 
+present but cannot be quantified. There is moderate pulmonary 
+artery systolic hypertension. There is no pericardial effusion.  
+
+
+___ CXR: 
+Severe pulmonary edema has worsened.  Heart size top-normal.  A 
+pocket of 
+subcutaneous emphysema in the left chest wall is presumably 
+related to the indwelling left apical pleural thoracostomy tube. 
+ Left pneumothorax is still very small. 
+  
+Lung tracheostomy midline.  Right PIC or subclavian line ends in 
+the low SVC.  Transvenous right atrial right ventricular pacer 
+leads in standard placements. Esophageal drainage tube passes 
+into the stomach and out of view. 
+
+DISCHARGE LABS:
+===============
+deceased
+
+ 
+Brief Hospital Course:
+Ms. ___ was a ___ with ulcerative colitis and psoriatic 
+arthritis on infliximab and methotrexate at home, sick sinus 
+syndrome, and hypertension who presented upon transfer from 
+___ ICU for ongoing anemia and coagulopathy 
+concerning with course complicated by respiratory failure, 
+pneumonia, atrial fibrillation with RVR, and renal failure.
+
+# Hypoxemic respiratory failure / goals of care: patient 
+developed respiratory failure one month ago after receiving IV 
+fluids for acute kidney injury. Initially managed with bipap, 
+though later required intubation. Underwent tracheostomy which 
+was soon dislodged, then replaced. Course complicated by 
+bilateral pneumothorax from subclavian line placement and 
+intubation. Likely multifactorial secondary to pneumonia, and 
+volume overload. ___ also have parenchymal disease, ARDS, 
+transfusion reactions (TRALI vs. TACO), and pulmonary hemorrhage 
+in the setting of coagulopathy. Did not tolerate AC ventilation, 
+require AVRP. Unable to wean ventillation with increased pressor 
+requirement. Given severity of respiratory distress, 
+coagulopathy and continued hypotension requiring increased 
+pressors all leading to multiple organ failure, goals of care 
+discussion initiated with family including niece/healthcare 
+proxy with aide of social work. Decision made to extubate 
+patient, after which she passed away at 1401 on ___. Family 
+requested autopsy, which is pending at time of dc summary.
+
+# Anemia, thrombocytopenia, coagulopathy: developed progressive 
+anemia requiring significant transfusion support with concurrent 
+thrombocytopenia. Hematology evaluated patient here and could 
+not rule out TTP, but felt that likelihood was low given very 
+few schistocytes on smear. She does have altered mental status 
+and ___, but has alternative explanations for both. Normal PTT 
+is inconsistent with DIC. Elevated ___ may have been secondary to 
+combination of nutritional deficiencies and liver failure. 
+Evidence of hemolysis with haptoglobin <5. Part of her elevation 
+in bilirubin and LD is likely due to liver failure, particularly 
+given that most of her hyperbilirubinemia is direct. Given her 
+multiple autoimmune conditions, risk of antiphospholipid 
+syndrome. She also has ongoing acute blood loss contributing to 
+her anemia. Thrombocytopenia may also be secondary to sepsis or 
+liver failure with splenic sequestration. Hemolysis labs are 
+somewhat difficult to interpret in the setting of likely liver 
+failure and multiple transfusions. Heme consulted, suggested 
+potential for HLH. A number of serologies were ordered and 
+pending to evaluate her coagulopathy at the time in which her 
+family decided to extubate the patient per above.
+
+# GI bleeding: likely contributing to anemia, as above. Patient 
+noted to have bloody OG output and melena. No clear etiology. 
+Given prolonged ICU course, may have been related to stress 
+ulceration. ___ have even very superficial ulceration causing 
+bleeding in the setting of coagulopathy. Bloody discharge from 
+NG tube but clear on lavage, suggesting no active large scale 
+bleed on admission. GI consulted, recommended IV PPI but given 
+instability, deferred initial endoscopic evaluation. Supported 
+with transfusions per above.
+ 
+# Hypotension: Thought to be related to sepsis / potentially 
+iatrogenic. Patient presenting with hypotension requiring 
+phenylephrine in the setting of diltiazem administration. Other 
+possible etiologies include sepsis given concern for pneumonia 
+and possible cholecystitis or other distributive shock given 
+inflammatory state, hypovolemic/hemorrhagic shock in setting on 
+ongoing bleeding, or cardiogenic in setting of atrial 
+fibrillation. Required greater vasopressor requirement involving 
+norepinephrine and vasopressin as hospital course progressed. 
+Goals of care discussed per above. 
+
+# Hepatitis: significant transaminitis with conjugated 
+hyperbilirubinemia. Likely shock liver. Had some evidence of 
+failure given elevated INR and low albumin.
+ 
+# Pneumonia: patient with concern for clinical and radiographic 
+evidence of pneumonia. Sputums later grew Pseudomonas with 
+sensitivities revealing resistance to most antibiotics except 
+ceftazidime and zosyn. Patient transferred on inhaled vancomcyin 
+and tobramycin, high dose TMP-SMX, ceftazadime, metronidazole as 
+well as high dose steroids. Covered empirically with vancomycin, 
+cefepime, flagyl, and bactrim for PCP coverage through 
+admission.
+ 
+# Cholecystitis: patient found to have CT imaging concerning for 
+cholecysitis. Possibly acalculous in setting of prolonged 
+critical illness. Patient has WBC 23.7. RUQ was limited. ___ 
+consulted, would be possible to perform CT-guided drainage but 
+given instability, coagulopathy unable to be performed.
+
+# Acute kidney injury: patient with elevated creatinine over 
+course of hospital stay attributed to diuresis, possible sepsis 
+with hypotension. Recently initiated on hemodialysis for volume 
+overload as patient was not responding to furosemide gtt. Given 
+the complicated hospital course with likely administration of 
+nephrotoxic medications, possible hypotension, etiology is 
+likely multifactorial and unclear at this time. Nephrology 
+consulted, initiated CVVH. Pt did not tolerate well, with 
+increasing pressure requirement to maintain blood pressure. 
+Further treatment deferred per goals of care above. 
+
+# Atrial fibrillation: patient with history of sick sinus 
+syndrome with prior pacemaker placement. On warfarin for 
+anticoagulation as outpatient. Hospital course complicated by 
+atrial fibrillation with rapid ventricular response, now s/p 
+amiodarone and digoxin loading. Used diltiazem gtt as needed for 
+rate control during admission.
+ 
+# Malnutrition: patient started on TPN prior to transfer. 
+Underwent PEG placement at time of tracheostomy, though tube 
+feeds initially held given high residuals and concern for GI 
+bleed. 
+ 
+# Diabetes mellitus: found to have A1c 9% on admission which was 
+newly discovered. Maintained on HISS. 
+
+# Ulcerative colitis, rheumatoid arthritis:
+Held infliximab and methotrexate given acute processes.
+
+# Pulmonary nodules: incidentally identified 2-3mm nodules in 
+the RLL found on CT chest. Planned for outpatient follow-up.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Atorvastatin 40 mg PO QPM 
+2. Propafenone HCl 150 mg PO TID 
+3. Furosemide 80 mg PO BID 
+4. Vitamin D ___ UNIT PO 1X/WEEK (___) 
+5. ClonazePAM 0.5 mg PO QHS 
+6. Leucovorin Calcium 5 mg PO DAILY 
+7. Mesalamine 1600 mg PO TID 
+8. Metolazone 2.5 mg PO EVERY OTHER DAY 
+9. Potassium Chloride 40 mEq PO DAILY 
+10. Ezetimibe 10 mg PO DAILY 
+11. Losartan Potassium 25 mg PO DAILY 
+12. Metoprolol Succinate XL 100 mg PO DAILY 
+13. Gabapentin 600 mg PO DAILY 
+14. Omeprazole 20 mg PO DAILY 
+15. Spironolactone 25 mg PO DAILY 
+16. Hydrochlorothiazide 25 mg PO DAILY 
+17. Warfarin Dose is Unknown  PO DAILY16 
+18. Loratadine 10 mg PO DAILY 
+19. PredniSONE 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+Deceased
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Deceased
+ 
+Discharge Condition:
+Deceased
+ 
+Discharge Instructions:
+Deceased
+ 
+Followup Instructions:
+___

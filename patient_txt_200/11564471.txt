@@ -1,0 +1,894 @@
+===== DISCHARGE NOTE =====
+note_id=11564471-DS-7 | hadm_id=20694426
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Shellfish
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain, vomiting
+ 
+Major Surgical or Invasive Procedure:
+EGD ___:
+
+Erythema, congestion, and ulceration in the antrum (biopsy) 
+Ulcers in the incisura of the stomach, antrum and pylorus 
+Nodule in the fundus 
+Ulcers in the gastroesophageal junction (biopsy) 
+Otherwise normal EGD to third part of the duodenum
+
+ 
+History of Present Illness:
+___ F w/history of achalasia s/p ___ myotomy w/partial  
+fundoplication in ___ referred from PCP ___ ___ weeks of 
+worsening epigastric pain. She had been in her usual state of 
+health until a few months ago, when she began having 
+intermittent epigastric pain, which has become increasing in 
+severity, frequency, and duration for the past ___ weeks. The 
+pain is a dull pressure, ___ at its worst, radiates to the 
+chest, left upper quadrant, and at its most severe to the back. 
+The pain is still intermittent, occurs about ___ times a week 
+___ hours after eating, mostly at night, lasts for hours each 
+time before resolving spontaneously, waking her up from sleep. 
+The pain was associated with nausea and nonbloody non-bilious 
+emesis when at its most severe. Is nonexertional. Nothing makes 
+the pain better though she has not tried antacids or PPIs. Has 
+been taking advil and motrin for the pain, which has not helped 
+(took 4 tablets yesterday).  
+She has mild reflux symptoms which have worsened since onset of 
+pain. She also notes a "soreness" in her chest when swallowing 
+that is new in the last 3 weeks, and has been eating less 
+because of this. The patient denies shortness of breath, cough, 
+chest pain, change in bowel or bladder habits, unexplained 
+weight loss, fever/chills. She has not experienced any melena or 
+BRBPR. Last bowel movement was 2 days ago.  
+ 
+In the ED intial vitals were: Pain 7 97.3 60 173/91 18 100%. Pt 
+had CT scan abd/pelvis demonstrating antral gastric wall 
+thickening suggesting antral gastritis or peptic ulcer disease 
+w/o evidence of technical complication from prior surgery. EKG 
+showed no ischemic changes. Troponin negative. Pain was 
+controlled with morphine and zofran. Pt received 1L IVF. Surgery 
+was consulted and recommended medicine admission with further GI 
+workup. On transfer, vitals were 97.7 60 120/68 14 97% RA.  
+On the floor, she is resting comfortably, and notes no abdominal 
+pain or nausea 
+
+ 
+Past Medical History:
+Achalasia s/p Laparoscopic ___ myotomy/fundoplication  
+Asthma  
+Hgb SC  
+Vitamin D deficiency 
+
+ 
+Social History:
+___
+Family History:
+Cancer - Breast Mother at age ___ and she now has dementia.  
+Alcoholism - Father- passed away at ___ from ETOH  
+Hypertension- grandmother  
+No one else in her family has other cancers or GI disorders.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+
+Vitals- 98.2 135/75 64 16 100 RA 
+General- Alert, oriented, no acute distress  
+HEENT- Sclera anicteric, MMM, oropharynx clear  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- Scattered inspiratory wheezes throughout, rhonchi at R 
+base, no rales
+CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen- soft, tender to palpation in mid-epigastric area and 
+RUQ, + ___ sign, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro- CNs2-12 intact, motor function grossly normal 
+
+DISCHARGE PHYSICAL EXAM:
+
+Vitals- 98.5 ___ 58-66 16 100 RA 
+General- Alert, oriented, no acute distress  
+HEENT- Sclera anicteric, MMM, oropharynx clear  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- Scattered inspiratory wheezes throughout, rhonchi at R 
+base, no rales
+CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen- soft, mildly tender to palpation in mid-epigastric area 
+and RUQ, non-distended, bowel sounds present, no rebound 
+tenderness or guarding, no organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro- CNs2-12 intact, motor function grossly normal 
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 08:00PM BLOOD WBC-8.2 RBC-5.60* Hgb-15.8 Hct-44.2 
+MCV-79* MCH-28.3 MCHC-35.8* RDW-13.8 Plt ___
+___ 08:00PM BLOOD ___ PTT-31.3 ___
+___ 08:00PM BLOOD Glucose-112* UreaN-7 Creat-0.7 Na-137 
+K-4.6 Cl-102 HCO3-27 AnGap-13
+___ 08:00PM BLOOD ALT-12 AST-17 AlkPhos-76 TotBili-0.6
+___ 08:00PM BLOOD Lipase-18
+___ 08:00PM BLOOD cTropnT-<0.01
+___ 08:00PM BLOOD Albumin-4.4 Calcium-9.8 Phos-3.2# Mg-2.3
+___ 08:00PM BLOOD 25VitD-14*
+
+DISCHARGE LABS:
+
+___ 07:00AM BLOOD WBC-5.1 RBC-5.11 Hgb-14.0 Hct-39.9 
+MCV-78* MCH-27.4 MCHC-35.0 RDW-14.1 Plt ___
+___ 07:00AM BLOOD Glucose-87 UreaN-7 Creat-0.9 Na-143 K-4.0 
+Cl-105 HCO3-31 AnGap-11
+
+___ CT ABDOMEN:
+IMPRESSION: Antral gastric wall thickening suggests antral 
+gastritis or peptic ulcer disease.  Correlate with symptoms to 
+determine role of nonemergent barium upper GI or endoscopy. 
+
+___ EGD:
+•Erythema, congestion, and ulceration in the antrum (biopsy)
+•Ulcers in the incisura of the stomach, antrum and pylorus
+•Nodule in the fundus
+•Ulcers in the gastroesophageal junction (biopsy)
+•Otherwise normal EGD to third part of the duodenum
+
+___ Biopsies:
+1. Gastroesophageal junction:
+- Severely active esophagitis with focal ulceration and 
+fibrinopurulent
+exudate.
+- Special study results for fungi and HSV will be reported in a 
+revised
+report.
+- Cardiac-type mucosa with chronic inflammation; no intestinal
+metaplasia seen.
+
+2. Antrum:
+Antral mucosa with focal foveolar zone hyperplasia; no 
+significant
+inflammation identified. See note.
+Note:  The findings are non-specific, but may be seen with 
+adjacent
+ulceration. Correlation with endoscopic findings is recommended.
+
+ 
+
+ 
+Brief Hospital Course:
+___ w/history of achalasia s/p ___ myotomy/fundoplication 
+presents with abdominal pain and vomiting found to have multiple 
+gastric ulcers.  
+
+ACTIVE ISSUES:  
+ 
+# Gastric ulcers:  
+Patient's epigastric pain, nausea and vomiting, and imaging 
+findings of antral thickening were consistent w/gastritis vs. 
+peptic ulcer disease. There was no evidence of acute GI 
+bleeding. An EGD was done that showed erythema, congestion, and 
+ulceration in the antrum (biopsied), ulcers in the incisura of 
+the stomach, antrum and pylorus, nodule in the fundus, and 
+ulcers in the gastroesophageal junction (biopsied). She was 
+treated with 40mg omeprazole BID, sucralfate 1gm QID, standing 
+calcium carbonate, and maalox/diphenhydramine/lidocaine with 
+great improvement in abdominal pain. She was tolerating a 
+regular diet when discharged. H. pylori serology was obtained 
+and pending at time of discharge. She was afebrile and 
+hemodynamically stable throughout hospitalization.
+   
+CHRONIC ISSUES: 
+ 
+# Asthma: Patient reported not being consistent with taking 
+Flovent though had not had any recent asthma attacks. Denied 
+wheezing or shortness of breath. However, there was wheezing on 
+auscultation throughout her stay. She did not need further 
+treatment for her asthma during this hospitalization. She was 
+discharged on Flovent 2 puffs BID, pt advised to adhere to this 
+regimen daily, as well as Albuterol inhaler PRN. Can optimize 
+asthma treatment as outpatient. 
+ 
+# Vitamin D deficiency: Patient had not been taking Vitamin D. 
+Vitamin D level came back low at 14. Consider repletion as 
+outpatient.
+
+TRANSITIONAL ISSUES:  
+- f/u H. pylori serology to determine whether triple-therapy 
+indicated -> returned negative
+- f/u stomach biopsies
+- Will need to stay on omeprazole 40mg BID, sucralfate 1gm QID, 
+and calcium carbonate PRN for 8 weeks
+- Will need repeat EGD in 8 weeks to assess for healing, and 
+consider EUS at that time as well to further evaluate submucosal 
+nodule in the fundus
+- With regards to asthma, was discharged on Flovent 2 puffs BID, 
+pt advised to adhere to this regimen daily, as well as Albuterol 
+inhaler PRN. Can optimize asthma treatment as outpatient. 
+- Vitamin D level low at 14, recommend repletion as outpatient
+- Avoid all NSAIDS. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone Propionate 110mcg 4 PUFF IH BID 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN pain 
+2. Omeprazole 40 mg PO BID 
+RX *omeprazole 40 mg 1 capsule,delayed ___ by 
+mouth twice a day Disp #*60 Capsule Refills:*1
+3. Sucralfate 1 gm PO QID 
+RX *sucralfate 1 gram 1 tablet(s) by mouth four times a day Disp 
+#*120 Tablet Refills:*1
+4. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+RX *fluticasone [Flovent HFA] 110 mcg/actuation 2 PUFFS INHALED 
+Twice a day Disp #*1 Inhaler Refills:*0
+5. Albuterol Inhaler 2 PUFF IH Q4H:PRN wheezing 
+RX *albuterol sulfate 90 mcg 2 PUFFS INHALED Four times a day 
+Disp #*1 Inhaler Refills:*1
+6. Calcium Carbonate 500 mg PO QID:PRN abdominal pain 
+RX *calcium carbonate 500 mg calcium (1,250 mg) 1 
+tablet,chewable(s) by mouth Four times a day Disp #*60 Tablet 
+Refills:*0
+7. ___ 200-25-400-40 mg/30 mL mucous 
+membrane qid prn abdominal discomfort 
+RX ___ [FIRST-Mouthwash ___] 400 
+mg-400 mg-40 mg-25 mg-200 mg/30 mL ___ by mouth Every ___ 
+hours Disp #*1 Bottle Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Gastric ulcers
+
+Secondary:
+Asthma
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,
+
+___ was a pleasure taking care of you at the ___. As you know, 
+you were admitted for abdominal pain and vomiting. You had an 
+endoscopy which showed many ulcers in your stomach that caused 
+your pain and vomiting. You were treated with high-dose acid 
+blocking medicines, sucralfate, and tums with significant 
+improvement in your abdominal pain. You were considered safe for 
+discharge as you were tolerating a regular diet without issue. 
+
+It is very important to stay on these medications for the next 8 
+weeks to allow the ulcers in your stomach to heal. Please 
+follow-up with your PCP as scheduled below. You will need a 
+repeat endoscopy in 8 weeks to ensure healing of the ulcers. We 
+also checked for the presence of H. pylori, a bacteria that can 
+cause stomach ulcers. The results of this test are still pending 
+and will be communicated to your PCP. 
+
+In the meantime, it is extremely important to avoid all NSAIDS 
+(ibuprofen, advil, motrin, aleve, etc.), as use of these 
+medications can worsen ulcer disease.
+
+As for your asthma, we noticed some mild wheezing while you were 
+in the hospital. It is important to take Flovent as prescribed 
+on a daily basis regardless of how your breathing feels. You 
+will be going home with an albuterol inhaler that you can use 
+for shortness of breath and wheezing as needed.
+
+We wish you the best of luck!
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11564471-DS-6 | hadm_id=21894143
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Achalasia
+ 
+Major Surgical or Invasive Procedure:
+___ Myotomy with gastric fundoplication.  
+
+ 
+History of Present Illness:
+Mrs. ___ is a ___ woman who has a two-year history of 
+ difficulty swallowing.  This became worse this ___.  She is 
+having trouble with both solids and liquids.  She has had a 
+workup, which includes a barium swallow, which showed some 
+narrowing.  An endoscopy showed somewhat elevated lower 
+esophageal sphincter pressure.  Manometric evaluation showed a 
+resting pressure of 27 mmHg with failure to relax and 
+aperistalsis, which is consistent with achalasia.  Dr. ___ 
+___ an endoscopy and did Botox treatment, which has 
+relieved her symptoms.  A question of a small nodule was also 
+noted, which was biopsied and then clipped.  Endoscopic 
+ultrasound of this area was not able to be done due to the 
+presence of clips. 
+She presented to Dr. ___ office with the above findings 
+and after discussion of possible treatment alternatives 
+including continued Botox injections, balloon dilation, and 
+___ myotomy she elected for surgical intervention 
+to treat her achalasia after a trial waiting period after the 
+first Botox treatment.  
+ 
+Past Medical History:
+ASTHMA  
+VITAMIN D DEFIC, UNSPEC  
+ANEMIA  
+HEMOGLOBINOPATHY SC trait 
+OBESITY  
+RHINITIS - ALLERGIC, UNSPEC CAUSE  
+
+ 
+Social History:
+___
+Family History:
+Asthma                                               
+Cancer - Breast Mother  at age ___ and she now has dementia. 
+Alcoholism - Father- passed away at ___ from ETOH                
+Hypertension- grandmother
+No one else in her family has other cancers or GI disorders. 
+
+ 
+Physical Exam:
+On Discharge:
+Vitals: T 99.5 HR 76  BP 126/80  RR 16  O2 96RA
+GEN: NAD, Comfortable, AOx3
+HEENT:  NCAT, anicteric sclera
+CV:  RRR, nl S1 and S2
+PULM:  CTA b/l
+ABD:  Soft, non-tender, no distended.  Incisions clean and dry.
+Ext:  No calf tenderness
+
+ 
+Pertinent Results:
+___ 07:15AM BLOOD WBC-9.7# RBC-5.06 Hgb-14.0 Hct-37.1 
+MCV-74* MCH-27.7 MCHC-37.7* RDW-14.1 Plt ___
+___ 07:15AM BLOOD Glucose-100 UreaN-9 Creat-0.8 Na-137 
+K-4.2 Cl-99 HCO3-31 AnGap-11
+___ 07:15AM BLOOD Calcium-9.2 Phos-5.0* Mg-2.1
+ 
+Brief Hospital Course:
+Mrs. ___ arrived on ___ for elective ___ 
+myotomy for treatment of achalasia (reader referred to operative 
+note for complete details).  After an uneventful stay in the 
+PACU, the patient arrived on the floor NPO, with NGT, and foley 
+in place.  She remained stable overnight, putting out good 
+urine, and she had her NGT and foley removed, diet advanced, and 
+transitioned to PO medications on POD#1.  She voided without 
+assistance, was pain free requiring little narcotics, tolerated 
+a diet well, and was ambulating and passing flatus.  She 
+remained hemodynamically stable throughout her stay.  
+
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs.  The patient was tolerating a regular, 
+soft diet, ambulating, voiding without assistance, and pain was 
+well controlled.  The patient received discharge teaching and 
+follow-up instructions with understanding verbalized and 
+agreement with the discharge plan.
+ 
+Medications on Admission:
+Flovent HFA, omeprazole 20mg daily
+ 
+Discharge Medications:
+1. acetaminophen 500 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain/fever.
+Disp:*30 Tablet(s)* Refills:*2*
+2. oxycodone 5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 hours) 
+as needed for pain.
+Disp:*45 Tablet(s)* Refills:*0*
+3. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+4. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as 
+needed for constipation: Take if requiring continued oxycodone 
+for pain control.  .
+Disp:*30 Capsule(s)* Refills:*1*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Achalasia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you during your stay at ___.  
+
+Please resume all regular home medications.  Also, please take 
+any new medications as prescribed.
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids.  Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon, who will instruct you further regarding activity 
+restrictions.
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+Incision Care:
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site.
+*Avoid swimming and baths until your follow-up appointment.
+*You may remove the outer dressing (clear plastic and gauze) 
+tomorrow ___.  Please leave the steri-strips (small bandages) 
+in place.  
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water.  Gently pat the area dry.
+*Your Steri-strips will fall off on their own.  Please remove 
+any remaining strips ___ days after surgery.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11564471-DS-5 | hadm_id=29213711
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+"I haven't eaten a good meal in a long while. "
+ 
+Major Surgical or Invasive Procedure:
+Upper endoscopy
+
+ 
+History of Present Illness:
+___ MEDICINE ATTENDING ADMISSION NOTE .
+
+ 
+
+Date: ___
+
+Time: ___
+
+_
+________________________________________________________________
+
+Name: ___. 
+Location: ___ 
+Address: ___ 
+Phone: ___ 
+Fax: ___ 
+.
+GI: ___
+_
+________________________________________________________________
+___ yo F w/ increasing difficulty swallowing over the last 2 
+days. She first developed this problem ___ years ago (___) 
+and underwent EGD (___) and a barium swallow which 
+demonstrated some dysmotility. She was prescribed omeprazole 
+which was not helpful. Her symptoms persisted for one and half 
+year but she ignored it as she was busy with work and was often 
+travelling between ___ and ___. She saw GI at ___ on 
+___ and was scheduled for and EGD on ___. She was 
+prescribed reglan ___ but her symptoms progressed. 
+She felt so weak because she hadn't eaten in days as nothing was 
+staying down solids nor liquids. Whenever she ate the food would 
+get stuck at the level of her thyroid and she would then 
+regurgitate the food.  When the food got stuch she would 
+experience a tightness in throat prior to the food being 
+regurgitated. She has lost ___ lbs in the past 4 months.  As 
+long as she is not trying to eat she is pain free. She was only 
+able to tolerate ice chips. Even drinking water resulted in 
+regurgitation. Over the past two days at night she developed a 
+productive cough of watery phlegm. The day prior to admission 
+whenver she coughed she would hear an airway sound ? stridor 
+which has since resolved. No associated abdominal pain. 
+.
+A few weeks ago she had constipation but that has since resolved 
+without intervention. No black or bloody stools. Her bowel 
+habits have since returned to normal. 
+.
+In ER: (Triage Vitals: 0 99.6 98 138/86 14 100% RA  ) 
+Meds Given: 99.6, 138/66, 98, 14
+Fluids given: 1LNS
+Radiology Studies: none
+consults called: none
+
+.
+
+PAIN SCALE: 
+She has a mild discomfort from something/residue being stuck in 
+her throat ___ 
+
+________________________________________________________________
+REVIEW OF SYSTEMS:
+CONSTITUTIONAL:        [] All Normal
+[ ] Fever  [ ] Chills   [+ ] Sweats at night but she attributed 
+this to menopause  [ ] Fatigue   [ ] Malaise   [ ]Anorexia  [ 
+]Night sweats
+[+ ] ___15__ lbs.    weight  loss/     over _____ months
+
+HEENT:          [X] All Normal
+[ ] Blurred vision   [ ] Blindness  [ ] Photophobia
+[ ] Decreased acuity [ ] Dry mouth  [ ] Bleeding gums
+[ ] Oral ulcers  [ ] Sore throat    [ ] Epistaxis  [ ] Tinnitus
+[ ] Decreased hearing    [ ]Tinnitus [ ] Other:
+
+RESPIRATORY:    [] All Normal
+[ ] SOB     [ ] DOE    [ ] Can't walk 2 flights     [ +] 
+nocturnal cough
+[ ] Wheeze  [ ] Purulent sputum    [ ] Hemoptysis   [ ]Pleuritic 
+pain 
+[ ] Other:
+
+CARDIAC:        [X]  All Normal
+[ ] Angina    [ ] Palpitations   [ ] Edema   [ ] PND
+[ ] Orthopnea    [- ] Chest Pain [ ] Other:
+
+GI:             [] All Normal
+[ ] Blood in stool     [ ] Hematemesis     [ ] Odynophagia
+[ ] Dysphagia:   [ ] Solids    [ ] Liquids
+[ ] Anorexia    [] Nausea  [+] Vomiting   [ ] Reflux
+[ ] Diarrhea    [ ] Constipation  [-]  Abd pain  [ ] Other:
+
+GU:             [X] All Normal
+[ ] Dysuria      [ ] Frequency    [ ] Hematuria  [-]Discharge 
+[]Menorrhagia  
+LMP 
+
+SKIN:           [X] All Normal
+[ ] Rash        [ ] Pruritus
+
+MS:             [X] All Normal
+[ ] Joint pain    [ ] Jt swelling   [ ] Back pain  [ ] Bony pain
+
+NEURO:          [X] All Normal
+[ ] Headache    [ ] Visual changes   [ ] Sensory change [ 
+]Confusion [ ]Numbness of extremities
+[ ] Seizures   [ ] Weakness [ ] Dizziness/Lightheaded [ ]Vertigo 
+[ ] Headache
+
+ENDOCRINE:     [X] All Normal
+[ ] Skin changes  [ ] Hair changes   [ ] Temp subjectivity
+
+HEME/LYMPH:    [X] All Normal
+[ ] Easy bruising   [ ] Easy bleeding    [ ] Adenopathy
+
+PSYCH:         [X] All Normal
+[ ] Mood change        []Suicidal Ideation  [ ] Other:  
+
+[X]all other systems negative except as noted above 
+
+ 
+Past Medical History:
+ASTHMA  
+VITAMIN D DEFIC, UNSPEC  
+ANEMIA  
+HEMOGLOBINOPATHY SC trait 
+OBESITY  
+RHINITIS - ALLERGIC, UNSPEC CAUSE  
+
+ 
+Social History:
+Pt is married, has one child. Enjoys cooking,___, ___ 
+activities. 
+She works in ___ in the ___.  She manages a 
+___ in ___ and ___ with the ___ ___. She is 
+originally from ___ and emigrated her in ___. 
+< ___
+Cigarettes: [X ] never  [ ] ex-smoker   [] current Pack-yrs: 10
+                       quit: ______
+ETOH:       [x] No   [ ] Yes     drinks/day: _____
+Drugs: none
+
+Marital Status: [X ] Married  [] Single
+Lives:          [ ] Alone    [] w/ family  [ ] Other:
+
+Received influenza vaccination in the past 12 months [X ]Y [ ]N
+
+Received pneumococcal vaccinationin the past 12 months [ ]Y [X]N
+
+ 
+Family History:
+Asthma                                               
+Cancer - Breast Mother  at age ___ and she now has dementia. 
+Alcoholism - Father- passed away at ___ from ETOH                
+Hypertension- grandmother
+No one else in her family has other cancers or GI disorders. 
+
+ 
+Physical Exam:
+PAIN SCORE ___  in R neck
+
+VS:  T = 98.3 P = 67 BP = 138/72 RR = 17 O2Sat = 98% RA 
+GENERAL:  Very pleasant female who looks ___ years younger than 
+her age. 
+Nourishment: good  
+She drank approximately 100 cc of water and half a saltine. At 
+first she was able to keep the water down but then eventually 
+regurgitated some of the cracker and the 20 cc of water 5 mins 
+later. It was also painful for her to swallow this. 
+Grooming: good  
+Mentation: Alert, speaks in full sentences  
+Eyes:NC/AT, no scleral icterus noted  
+Ears/Nose/Mouth/Throat: MMM, no lesions noted in OP  
+Neck: supple, no stridor. I palpate the area of the R neck which 
+the patient reports as painful but I cannot appreciate a mass or 
+an outpouching. 
+Respiratory: Initial opening wheezes which clear with repeat 
+insipration 
+Cardiovascular: RRR, nl. S1S2, no M/R/G noted  
+Gastrointestinal: soft, NT/ND, normoactive bowel sounds, no 
+masses or organomegaly noted.  
+Genitourinary:  WNL
+Rectal: guiac negative brown soft stool. 
+Skin: no rashes or lesions noted. No pressure ulcer  
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses b/l.  
+Lymphatics/Heme/Immun: No cervical lymphadenopathy noted.  
+Neurologic:  
+-mental status: Alert, oriented x 3. Able to relate history 
+without difficulty.  
+-cranial nerves: II-XII intact  
+-motor: normal bulk, strength and tone throughout. No abnormal 
+movements noted.  
+Psychiatric:  WNL 
+
+ACCESS: [x]PIV []CVL site ______
+
+FOLEY: []present [X]none 
+
+TRACH: []present [X]none  
+
+PEG:[]present [X]none  [ ]site C/D/I 
+
+COLOSTOMY: :[]present [X]none  [ ]site C/D/I 
+
+ 
+Pertinent Results:
+___ 02:39PM   UREA N-11 CREAT-0.8 SODIUM-141 POTASSIUM-3.7 
+CHLORIDE-104 TOTAL CO2-27 ANION GAP-14
+___ 02:39PM   estGFR-Using this
+___:39PM   WBC-8.3 RBC-5.07 HGB-14.2 HCT-39.3 MCV-78* 
+MCH-28.1 MCHC-36.2* RDW-14.3
+___ 02:39PM   NEUTS-77.1* LYMPHS-16.4* MONOS-3.6 EOS-2.3 
+BASOS-0.6
+___ 02:39PM   PLT COUNT-210
+.
+LABS: see below
+
+.
+
+EKG: NONE
+
+.
+
+CXR: 
+FINDINGS: No previous images. The heart is normal in size and 
+lungs are 
+clear without vascular congestion or pleural effusion. 
+
+.
+
+CT SCAN NECK (WET READ):
+1. No neck mass, fluid collection, or lymphadenopathy seen. 
+2. Moderately distended fluid-filled proximal esophagus warrants 
+further 
+evaluation with an esophagram. 
+3. Moderate maxillary and ethmoid sinus disease. 
+4. 5-mm right thyroid nodule. 
+
+.
+
+BLOOD/URINE CULTURE: NGTD 
+.
+
+OTHER DIAGNOSTICS:
+PROCEDURES
+
+Last Colonoscopy  ___
+ Diminuitve nodules bx removed at 30 and 20cms.
+PATH: hyperplastic
+
+___ EGD
+
+Mucosal inflammation noted in the antrum with streaky erythema. 
+Biopsy obtained, results pending. 
+Esophageal biopsies obtained from the mid-proximal portion of 
+the esophagus. Some white plaques seen in esophagus which I 
+believe is residual cetacaine
+
+.
+1. RANDOM GASTRIC ANTRUM BIOPSY:
+Antral mucosa with mild chronic gastritis and increased 
+eosinophils.
+Giemsa stain is negative for increased mast cells and highlights 
+the
+eosinophils.
+Multiple levels examined.
+Immunohistochemical stain for H. pylori is NEGATIVE (appropriate
+control slides reviewed).
+.
+2. ESOPHAGUS BIOPSY:
+Squamous esophageal mucosa, negative for diagnostic abnormality.
+PAS stain is negative for yeast.
+
+IMAGING
+Barium swallow: ___ 
+The swallowing mechanism appears normal. No esophageal mass, 
+ulcer, or constricting or obstructing lesion is demonstrated. 
+There was some degree of stasis of barium in the esophagus with 
+the patient upright. The barium refluxed from the mid and lower 
+esophagus toward the upper esophagus at this time. This resolved 
+spontaneously over approximately 1 minute. Some tertiary 
+contractions are noted in the distal half of the esophagus. No 
+hiatus hernia or gastroesophageal reflux was demonstrated. 
+Barium was observed to flow freely into the stomach and from the 
+stomach into the duodenum and proximal small bowel. 
+IMPRESSION: 
+1. Mild transient stasis and tertiary contractions in the 
+esophagus. This may signify dysfunctional motility. 
+2. Otherwise, negative examination. Specifically no mass, ulcer, 
+or evidence of obstruction. 
+.
+___ ___ s/p polypectomy with path demonstrating benign polyps 
+per patient. 
+
+.
+EGD (___):
+There was spasm at the LES making it difficult to pass the scope 
+into the stomach. The esophagus appeared mildly tortuous without 
+dilation. There were multiple tertiary contractions. (biopsy, 
+biopsy)
+Erythema, friability and ulceration in the antrum compatible 
+with erosive gastritis (biopsy)
+Erythema and friability in the duodenal bulb compatible with 
+mild duodenitis (biopsy)
+Nodule in the fundus (biopsy, endoclip)
+Polyp in the fundus (biopsy)
+Otherwise normal EGD to third part of the duodenum
+
+ 
+Brief Hospital Course:
+HOSPITAL COURSE:
+The patient is a delightful ___ year old female with a history of 
+asthma who presents with a ___ year history of dysphagia more 
+recently with odynophagia and weight loss. 
+.
+Dysphagia, Odynophagia and Weight loss: Likely due to a motility 
+disorder, such as achalasia.  A upper endoscopy was performed 
+which showed a spasm in esophagus suspicious for achalasia.  It 
+also showed a nodule in the fundus suspicious for leiomyoma, 
+this was biopsied.  It showed posibble eosinophilic 
+esophagitis/gastritis and biopsies were taken to look for this.  
+These biopsies should be followed up.  Also, she may require 
+therapy if they show eosinophilic infiltrates.  Given the 
+gastritis, her omeprazole dose was increased to 40 mg twice 
+daily.  Serologies were sent for Chagas disease and were pending 
+at the time of discharge.  These will also need to be 
+followed-up.  We were unable to complete the motility work-up as 
+an inpatient as these studies are not done for inpatients.  The 
+patient was tolerating fluids and mechanical soft diet at the 
+time of discharge.  Her labs were notably not consistent with 
+dehydration indicating that she is able to maintain hydration as 
+an outpatient.  Also, a CT neck was performed given her 
+complaint of a neck mass and this was notable only for 
+dilitation of the esophagus but negative for any neck masses or 
+lymphadenopathy.  
+Of note, the neck CT also showed a small thyroid nodule.  
+Further work-up deferred to outpatient.
+. 
+Asthma: She was continued on her flovent.  
+.
+Low grade temp on admission and coughing:  She remained afebrile 
+during her time in the hospital.  A CXR was performed and was 
+negative.  Blood and urine cultures were NGTD at the time of 
+discharge.  Suspect cough more likely to be due to her asthma.  
+.
+FOLLOW-UP/PENDING TESTS:
+- esophageal and gastric biopsies
+- final read of neck CT scan
+- further work-up of thyroid nodule as indicated.
+
+ 
+Medications on Admission:
+Metoclopramide 10 mg Oral Tablet take up to qid ac meals and at 
+hs x 5 days 
+Fluticasone (FLOVENT HFA) 110 mcg/Actuation Inhalation Aerosol 
+inhale 2 puffs TWICE DAILY and rinse your mouth thoroughly 
+afterward (flovent hfa) 
+Albuterol Sulfate (PROAIR HFA) 90 mcg/Actuation Inhalation HFA 
+Aerosol Inhaler ___ puffs every ___ as needed; She hasn't 
+needed her albuterol inhaler in the past ___ years
+OMEPRAZOLE 20 MG CAP, DELAYED RELEASE take 1 capsule 30 minutes 
+before first meal of day 
+
+ 
+Discharge Medications:
+1. fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff 
+Inhalation BID (2 times a day).  
+2. omeprazole 20 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO twice a day.
+Disp:*120 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Dysphagia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with difficulty swallowing.  
+You had an upper endoscopy that showed inflammation of your 
+stomach as well as in your esophagus.  You will need to 
+follow-up with your gastroenterologist to find out about the 
+results of the biopsies that were done while you were here.  You 
+will need to have motility testing as an outpatient, already 
+scheduled for next ___.  
+...
+MEDICATION CHANGES: 
+- INCREASE Omeprazole to 40 mg (two pills) twice daily
+- STOP Reglan (since it wasn't helping you).
+ 
+Followup Instructions:
+___

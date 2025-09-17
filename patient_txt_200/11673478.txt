@@ -1,0 +1,622 @@
+===== DISCHARGE NOTE =====
+note_id=11673478-DS-18 | hadm_id=21539965
+
+ 
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Weakness
+ 
+Major Surgical or Invasive Procedure:
+Midline placement
+
+ 
+History of Present Illness:
+The pt is a ___ yo F with RRMS (pt of Dr. ___ who presents 
+with chronic progressive fatigue, weakness and possible UTI.
+
+Pt was last seen in clinic with Dr. ___ week. At that 
+time she was noted to have had a worsening of her MS symptoms, 
+specifically her weakness in the R lower extremity. She had 
+missed two Tysabri doses over the preceding months because of 
+hospitalization including an admission with UTI/pyelonephritis 
+and a fifth metarsal fracture in the right foot. Dr. ___ debated treating these symptoms with a course high 
+dose steroids but opted to give her the scheduled Tysabri 
+infusion. 
+
+Since her appointment last week, the patient has noticed 
+progression of all her symptoms including fatigue, gait, 
+weakness, (generalized as well as more specifically in the RLE 
+and RUE as well). She is unable to walk unassisted at this point 
+given the weakness and an overall sense of imbalance. 
+
+She has a chronic headache which is nothing new. She has nausea 
+though and is unable to tolerate being in the car because of the 
+back and forth movement. 
+
+Of note, she has recently completed two Abx courses for 
+recurrent UTI/pyelonephritis and has felt the recurrence of 
+frequency and
+burning and believes she might have a repeat UTI. 
+
+She notes that tysabri infusions have always been well tolerated 
+in the past and that she would typically get a "boost" in her 
+energy. However this time she did not experience any beneficial 
+effects. 
+ 
+Past Medical History:
+- MS, dx ___  
+- GERD  
+- Lumbar disc disease L3-5  
+
+ 
+Social History:
+___
+Family History:
+NC, no CVA, Sz, CA, MS. 
+ 
+___ Exam:
+Vitals: T: 98 P: 70  R: 16  BP: 118/77 SaO2: 100%RA 
+General: Awake, cooperative, NAD. 
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx 
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity 
+Pulmonary: Lungs CTA bilaterally without R/R/W 
+Cardiac: RRR, nl. S1S2, no M/R/G noted 
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted. 
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally. 
+Skin: no rashes or lesions noted.
+ 
+Neurologic: 
+
+-Mental Status: Alert, oriented x 3.  Able to relate history 
+without difficulty but with some memory lapses that must be 
+filled in by husband.  ___, able to name ___ backward 
+without difficulty.  Language is fluent with intact repetition 
+and comprehension.  Normal prosody.  There were no paraphasic 
+errors.  Pt. was able to name both high and low frequency
+objects.  Able to read without difficulty.  Speech was not 
+dysarthric. Able to follow both midline and appendicular 
+commands. Verbal memory not tested, the pt. had good knowledge 
+of current events.  There was no evidence of apraxia or neglect.
+  
+-Cranial Nerves: 
+I: Olfaction not tested.  
+II: PERRL 3 to 2mm and brisk.  VFF to confrontation. Funduscopic
+exam revealed no papilledema, exudates, or hemorrhages. 
+III, IV, VI: EOMI without nystagmus.  Normal saccades. No
+diplopia. 
+V: Facial sensation intact to light touch. 
+VII: No facial droop, facial musculature symmetric. 
+VIII: Hearing intact to finger-rub bilaterally.  
+IX, X: Palate elevates symmetrically.  
+XI: ___ strength in trapezii and SCM bilaterally. 
+XII: Tongue protrudes in midline.
+ 
+-Motor: Normal bulk,  tone was spastic but more so in the legs 
+than arms b/l. Pronator drift on the right with pseudoathetosis
+
+No adventitious movements, such as tremor, noted. No asterixis
+noted.
+
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___ 
+L  5    ___   5  4+ 4+ 4+  5    4  5     5     5   5 
+R  4    4+  ___   4+   4- 4     4+    4   4
+ 
+-Sensory: Decreased to vibration/pinprick/temperature over right 
+leg to just above the knee and R arm to elbow. Proprioception 
+impaired at great toes on the right. No extinction to DSS.
+ 
+-DTRs: 
+  Bi Tri ___ Pat Ach 
+L  3  3    3    2   0 
+R  3  3    3    2   0
+Plantar response was extensor bilaterally.
+ 
+-Coordination: No intention tremor, no dysdiadochokinesia noted.
+No dysmetria on FNF or HKS bilaterally.
+ 
+-Gait: defered
+
+Discharge Physical Exam: 
+ 
+Pertinent Results:
+___ 11:40PM URINE  COLOR-Yellow APPEAR-Hazy SP ___
+___ 11:40PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-MOD
+___ 11:40PM URINE  RBC-1 WBC-4 BACTERIA-FEW YEAST-NONE 
+EPI-10
+___ 11:40PM URINE  CA OXAL-RARE
+___ 11:40PM URINE  MUCOUS-RARE
+___ 09:10PM   GLUCOSE-131* UREA N-15 CREAT-0.7 SODIUM-136 
+POTASSIUM-4.3 CHLORIDE-103 TOTAL CO2-22 ANION GAP-15
+___ 09:10PM   estGFR-Using this
+___ 09:10PM   ALT(SGPT)-13 AST(SGOT)-20 ALK PHOS-38 TOT 
+BILI-0.2
+___ 09:10PM   ALBUMIN-4.2 CALCIUM-9.0 PHOSPHATE-3.7 
+MAGNESIUM-2.2
+___ 09:10PM   LACTATE-2.3*
+___ 09:10PM   WBC-8.4 RBC-4.80 HGB-13.9 HCT-41.9 MCV-87 
+MCH-29.0 MCHC-33.2 RDW-15.1
+___ 09:10PM   NEUTS-56.0 ___ MONOS-4.4 EOS-2.3 
+BASOS-0.6
+___ 09:10PM   PLT COUNT-234
+___ 09:10PM   ___ PTT-28.3 ___
+ 
+Brief Hospital Course:
+The pt is a ___ yo F w RRMS with progressive worsening of MS 
+symptoms in the setting of 2 missed tysabri infusions over past 
+months. Etiologies include ___, MS flare and patient found to 
+have multiple small enhancing lesions on MRI imaging. Patient 
+was admitted and following MRI results was started on 9 day IV 
+steroid regiment. The patient slowly did better over the weekend 
+and was followed by ___. She has excellent home services and was 
+reluctant to got to an ___ rehab setting. She was followed 
+by ___ inpatient and tolerated the steroids well. She was 
+discharged home to continue the steroids and home ___. 
+
+She will have follow-up with Dr. ___ to contact her 
+office with questions or concerns. 
+ 
+Medications on Admission:
+Adderall 20 mg p.o. q.a.m., 10 mg p.o. noon. 
+Desonide lotion to chest rash as needed, 
+Vicodin 7.5/750 taken about once a day or less for back pain, 
+Tysabri infusions q6weeks
+pantoprazole 40 mg one p.o. daily,
+sertraline 150 mg p.o. q.a.m. (interaction with both amphetamine
+salts and sumatriptan underscored with the patient), 
+sumatriptan succinate 100 mg at onset of migraine.
+
+ 
+Discharge Medications:
+1. Adderall *NF* (amphetamine-dextroamphetamine) 10 mg Oral BID 
+Reason for Ordering: Wish to maintain preadmission medication 
+while hospitalized, as there is no acceptable substitute drug 
+product available on formulary.
+2. Desonide 0.05% Cream 1 Appl TP DAILY apply to chest as needed 
+
+3. Sertraline 150 mg PO DAILY 
+4. Omeprazole 40 mg PO DAILY 
+5. MethylPREDNISolone Sodium Succ 500 mg IV Q24H Duration: 3 
+Days 
+RX *Solu-Medrol 500 mg 1 dose over 8 hours daily Disp #*3 Each 
+Refills:*0
+6. MethylPREDNISolone Sodium Succ 250 mg IV Q24H Duration: 3 
+Days 
+RX *Solu-Medrol 500 mg 250 mg over 8 hours daily Disp #*3 Each 
+Refills:*0
+7. MethylPREDNISolone Sodium Succ 1000 mg IV Q24H Duration: 1 
+Doses 
+If discharged ___ patient can receive 3rd dose at home.  
+RX *methylprednisolone sodium succ 1,000 mg 1 dose over 8 hours 
+daily Disp #*1 Each Refills:*0
+8. Quetiapine Fumarate ___ mg PO HS insomnia 
+RX *quetiapine 25 mg ___ Tablet(s) by mouth at bedtime Disp #*10 
+Each Refills:*0
+9. Hydrocodone-Acetaminophen (5mg-500mg ___ TAB PO Q4H:PRN pain 
+
+1. Adderall *NF* (amphetamine-dextroamphetamine) 10 mg Oral BID 
+Reason for Ordering: Wish to maintain preadmission medication 
+while hospitalized, as there is no acceptable substitute drug 
+product available on formulary.
+2. Desonide 0.05% Cream 1 Appl TP DAILY apply to chest as needed 
+
+3. Sertraline 150 mg PO DAILY 
+4. Omeprazole 40 mg PO DAILY 
+5. MethylPREDNISolone Sodium Succ 500 mg IV Q24H Duration: 3 
+Days 
+RX *Solu-Medrol 500 mg 1 dose over 8 hours daily Disp #*3 Each 
+Refills:*0
+6. MethylPREDNISolone Sodium Succ 250 mg IV Q24H Duration: 3 
+Days 
+RX *Solu-Medrol 500 mg 250 mg over 8 hours daily Disp #*3 Each 
+Refills:*0
+7. MethylPREDNISolone Sodium Succ 1000 mg IV Q24H Duration: 1 
+Doses 
+If discharged ___ patient can receive 3rd dose at home.  
+RX *methylprednisolone sodium succ 1,000 mg 1 dose over 8 hours 
+daily Disp #*1 Each Refills:*0
+8. Quetiapine Fumarate ___ mg PO HS insomnia 
+RX *quetiapine 25 mg ___ Tablet(s) by mouth at bedtime Disp #*10 
+Each Refills:*0
+RX *quetiapine 25 mg ___ Tablet(s) by mouth at bedtime Disp #*14 
+Each Refills:*0
+9. Hydrocodone-Acetaminophen (5mg-500mg ___ TAB PO Q4H:PRN pain 
+10. Potassium Chloride 20 mEq PO DAILY Duration: 24 Hours 
+RX *potassium chloride 20 mEq 20 mEq by mouth Daily Disp #*6 
+Each Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1. MS ___ VS ___
+
+ 
+___ Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+Neuro Exam: AOx3, right hemiparesis, ___ weaker than UE. 
+
+ 
+Discharge Instructions:
+Ms ___, You were admitted with MS flare. You were treated 
+with IV steroids and are beginning to make improvements. You 
+should continue to make improvements at home while completing 
+the steroid course. Please call Dr. ___ office with any 
+questions or concerns regarding the steroid treatment. You 
+should continue taking all of your regular home medications.  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11673478-DS-17 | hadm_id=26914316
+
+ 
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+balance difficulties and leg numbness
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+The pt is a ___ year-old R-handed W w/ hx of MS who presents with 
+worsening leg weakness, blurred vision, fatigue and gait 
+instability. She states that she has had worsening ___ weakness 
+and difficulty with balance over the past 6mo (prior to this, 
+was able to go on hikes and long walks). Her ___ weakness has 
+been getting progresively worse and significantly worsened ~ 1mo 
+ago. She was seen by her neurologist and was treated w/ 5 days 
+of 1g methylprednisone ___. With this treatment it appears 
+that her vision has improved, however there was no apparent 
+change in her weakness. In fact, since completion of steroids, 
+her ___ weakness has deteriorated further, with an acute change 
+over the past 3 days. She describes this as mostly L foot drop. 
+1mo ago, she as able to walk ___ and ~ ___ yards and now 
+she is able to stand only ___ yards.  
+
+She was seen by Dr. ___ on day of admission and was referred 
+for an elective admission for an MS flare. She underwent 
+laboratory studies including CBC, BMP, UA which were negative. 
+Reportedly had a CXR, which was negative for acute thoracic 
+process.
+  
+On neuro ROS, she endorses urinary incontinence for ___ years. She 
+has had numbness of her throat, lasting 2 days, resolved 3 days 
+ago. Endorses worsening fatigue. She reports chronic mild HAs 
+she has had for years, as well as episode of diplopia 3mo ago. 
+She denies pain on eye movements, dysarthria, dysphagia, 
+lightheadedness, vertigo. Denies difficulties producing or 
+comprehending speech. Denies focal numbness, parasthesiae.  
+ 
+On general review of systems reportds non-productive cough, post 
+nasal drip, but no sinus tendernes x 2 days. Denies recent fever 
+or chills. No weight loss or gain. No shortness of breath. 
+Denies chest pain or tightness, palpitations. Denies nausea, 
+vomiting, diarrhea, constipation or abdominal pain. No dysuria. 
+Denies arthralgias or myalgias. Denies rash.  
+ 
+Past Medical History:
+- MS, dx ___  
+- GERD  
+- Lumbar disc disease L3-5  
+
+ 
+Social History:
+___
+Family History:
+NC, no CVA, Sz, CA, MS. 
+ 
+___ Exam:
+Vitals: T: 97.5F P:61 R: 16 BP:108/61 SaO2:98%RA  
+General: Awake, cooperative.  
+HEENT: NC/AT, no scleral icterus noted, MMM  
+Neck: Supple, no meningismus.  
+Pulmonary: Lungs CTA bilaterally  
+Cardiac: RRR, nl. S1S2, no M/R/G noted  
+Abdomen: soft, NT/ND, normoactive bowel sounds, no suprapubic 
+tenderness.  
+Extremities: No edema, warm, 2+ DP pulses bilaterally.  
+Skin: no rashes or lesions noted.  
+ 
+Neurologic:  
+-Mental Status:  
+Alert, oriented x 3. Able to relate history without difficulty. 
+Attentive, able to name ___ backward without difficulty.  
+Language is fluent with intact repetition and comprehension. 
+Normal prosody. There were no paraphasic errors. Pt. was able to 
+name both high and low frequency objects. Able to read without 
+difficulty. Speech was not dysarthric. Able to follow both 
+midline and appendicular commands. Pt. was able to register 3 
+objects and recall ___ at 5 minutes. The pt. had good knowledge 
+of current events.  
+There was no evidence of apraxia or neglect.  
+ 
+-Cranial Nerves:  
+I: Olfaction not tested.  
+II: PERRL 4 to 2mm and brisk. VFF to confrontation.  
+III, IV, VI: EOMI without nystagmus. Saccades overshoot 2bts.  
+V: Facial sensation intact to light touch.  
+VII: No facial droop, facial musculature symmetric.  
+VIII: Hearing intact to finger-rub bilaterally.  
+IX, X: Palate elevates symmetrically.  
+XI: ___ strength in trapezii and SCM bilaterally.  
+XII: Tongue protrudes in midline.  
+ 
+-Motor: Normal bulk, tone throughout.  
+No adventitious movements, such as tremor, noted. No asterixis 
+noted.  
+ 
+  Delt Bic Tri WrE FFl FE IP Quad Ham TA ___  
+L  4+  4+  4+  4+  ___- 4+   4-  4   5       4+ 4+  
+R  4+  4+  4+  4+  ___- 4+   4-  4   5       4+ 4+  
+ 
+-Sensory:  
+Light touch - intact  
+Pinprick - impaired C7-T1; L4-S1.  
+Cold sensation - intact in ___  
+Vibratory sense - impaired toes b/l ___  
+Proprioception - intact  
+No extinction to DSS.  
+ 
+-DTRs:  
+  Bi Tri ___ Pat Ach  
+L ___    3    2  
+R ___    3    2  
+ 
+Plantar response was extensor bilaterally.  
+L foot clonus  
+ 
+-Coordination: No intention tremor, no dysdiadochokinesia noted. 
+No dysmetria on FNF. Pt. could not perform HKS bilaterally.  
+ 
+-Gait: Able to stand on own power, however on ambulation drags 
+b/l soles of feet, able to dorsiflx feet.  
+Romberg present.  
+
+Exam at time of discharge (changes from admission exam only):
+
+UE strength bilaterally, IP 4 b/l, Hamstrings 4+ b/l, TA 4+ b/l, 
+Quads, Gastroctnemius, ___ and ___ ___ b/l.  Her gait was 
+improved, but remained spastic, with circumduction of RLE.  Her 
+toes were upgoing bilaterally.  
+
+Sensory: Decreased pinprick and temp below L4, and vibration 
+decreased in toes; joint position sensation normal. 
+Cerebellar/associated motor:  Rapid alternating movements, 
+finger-to-nose normal.
+ 
+Pertinent Results:
+Labs on admission:
+
+___ 06:05AM BLOOD WBC-4.5 RBC-3.96* Hgb-12.3 Hct-36.6 
+MCV-92 MCH-31.0 MCHC-33.6 RDW-13.0 Plt ___
+___ 05:10AM BLOOD WBC-17.7*# RBC-3.96* Hgb-11.8* Hct-36.1 
+MCV-91 MCH-29.7 MCHC-32.6 RDW-13.3 Plt ___
+___ 06:05AM BLOOD ESR-4
+___ 06:05AM BLOOD Glucose-103 UreaN-14 Creat-0.7 Na-142 
+K-4.1 Cl-110* HCO3-23 AnGap-13
+___ 05:10AM BLOOD Glucose-137* UreaN-16 Creat-0.7 Na-142 
+K-4.1 Cl-110* HCO3-23 AnGap-13
+___ 06:05AM BLOOD Calcium-8.6 Phos-4.1 Mg-2.2
+
+MRI C and T spine ___:
+
+EXAM: MRI of the cervical and thoracic spine. 
+  
+CERVICAL SPINE: 
+  
+FINDINGS: There is inhomogeneous signal visualized within the 
+cervical spinal cord with foci of signal abnormalities at C2-3, 
+C4-5 and C7-T1 levels consistent with diagnosis of multiple 
+sclerosis with multiple sclerosis plaques. No enhancement is 
+seen on the post-gadolinium images. Degenerative changes are 
+seen in the cervical spine with mild bulging at C4-5 and C5-6. 
+No evidence of high-grade spinal stenosis is seen. 
+  
+IMPRESSION: Foci of signal abnormalities in cervical spinal cord 
+indicative of multiple sclerosis plaques. No enhancing lesions 
+are seen. 
+  
+THORACIC SPINE: 
+  
+TECHNIQUE: T1, T2 and inversion recovery sagittal and T2 axial 
+images of 
+thoracic spine were acquired before gadolinium. T1 sagittal and 
+axial images were obtained following gadolinium. 
+  
+FINDINGS: Multiple foci of signal abnormalities are seen within 
+the thoracic spinal cord including T5, T7-8, T10 levels 
+indicative of diagnosis of multiple sclerosis. Following 
+gadolinium administration no enhancing lesions are identified in 
+the thoracic region. Mild degenerative disc disease is 
+identified. 
+  
+IMPRESSION: Multiple foci of signal abnormalities within the 
+thoracic spinal cord indicative of diagnosis of multiple 
+sclerosis. No definite enhancing lesions are seen. 
+ 
+Brief Hospital Course:
+The pt is a ___ year-old W w/ hx of relapsing remitting MS who 
+presents with worsening leg weakness, blurred vision, fatigue 
+and gait instability. Although her blurred vision is unchanged, 
+her gait symptosm appear to have progressed over the past 3 
+days. Her exam is remarkable for ___ weakness in UMN 
+distribution, hyperreflexia b/l, clonus on L and gait consistent 
+with IP and TA dysfunction. Her sx appear to be consistent w/ an 
+MS exacerbation. It is unclear what is the actual course of her 
+dz and her the neuroanatomical basis of her lesions was also 
+unknown at time of admission. She does have L spine dz, and her 
+exam is consistent w/ both UMN and LMN disease. 
+
+She was admitted for high dose steroid treatment per protocol 
+designed by Dr. ___.  1g of Solumedrol x 3 days, then 500mg x 
+3 days, then 250mg x3 days.  She was ruled out for infections 
+prior to starting of steroids.  She was started on Protonix 40mg 
+BID, ISS and Seroquel 50mg HS for possible psychosis (severe 
+agitation, flight of ideas, pressured thoughts, irritability 
+noted during previous steroid treatments).
+She was also treated with KCL 10mEq TID for replacement of 
+potential losses.  Her SSRI was held during this time.  
+Ibuprofen 600mg Q8H prn was used for pain control.
+
+With this treatment, by HD3, her ___ weakness improved 
+significantly and lateralized with slightly greater weakness on 
+the L.  Her gait improved significantly (still w/ mildly wide 
+base and trace b/l foot drop), as did UEs strength (full).
+        
+     IP  Quad  Ham   TA  ___  ___  
+L    4-    4    4       4     5    4
+R    4     4+   4       4     5    4+
+
+MRI of the cervical and thoracic spine, with and without 
+gadolinium revealed C2-5, C7-T1 and T5, T7-8, T10 levels of 
+plaque lesions without enhancement after gadolinium.  
+
+Her mood remained euthymic until ___ and on ___ did develop 
+irritability and labile mood. Patient felt that this could be 
+managed with Seroquel 75mg daily for now.  Should she develop 
+worsening manic symptoms, the dosage could be increased and her 
+outpatient neurologist could be contacted, Dr. ___ at ___, 
+as she has had specific regimens for treatment of these symptoms 
+in the past.
+
+On day of discharge, her examination was remarkable for intact 
+UE strength bilaterally, IP 4 b/l, Hamstrings 4+ b/l, TA 4+ b/l, 
+Quads, Gastroctnemius, ___ ___ b/l.  Her gait was improved, but 
+remained spastic, with circumduction of RLE.  Her toes were 
+upgoing bilaterally.  
+
+She will require a total of 9 days of steroid treatment (see 
+above for regimen, day 1 = ___.  She will require continuation 
+of PPI BID and ISS for the duration of the treatment, as well as 
+Seroquel 75mg QHS, this may be uptightrated.  She may be resumed 
+on her home medications, excluding Rebif after completion of her 
+ treatment with steroids.  She will require potassium repletion 
+to a goal of 4. 
+ 
+Medications on Admission:
+- Protonix 40mg daily  
+- Rebiff 40micrograms daily (takes sporadically)  
+- Lexapro 20mg daily  
+- Aleve prn back pain  
+
+ 
+Discharge Medications:
+1. Lab work
+Patient will require daily CBC and Chem 10 labs while on 
+steroids, KCL and Mg should be repleted prn.
+2. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 
+6 hours) as needed for pain.  
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+4. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day).  
+5. Oxazepam 15 mg Capsule Sig: One (1) Capsule PO HS (at 
+bedtime) as needed for anxiety.  
+6. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours) as needed for Pain.  
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).  
+8. Potassium Chloride 10 mEq Tablet Sustained Release Sig: One 
+(1) Tablet Sustained Release PO BID (2 times a day) for 5 days: 
+duration of steroid treatment.  
+9. Quetiapine 25 mg Tablet Sig: Three (3) Tablet PO QHS (once a 
+day (at bedtime)) as needed for sleep.  
+10. Insulin Lispro 100 unit/mL Solution Sig: One (1) see flow 
+sheet Subcutaneous ASDIR (AS DIRECTED).  
+11. Heparin Flush (10 units/ml) 2 mL IV PRN line flush 
+Mid-line, heparin dependent: Flush with 10 mL Normal Saline 
+followed by Heparin as above, daily and PRN per lumen. 
+12. Methylprednisolone Sodium Succ 500 mg Recon Soln Sig: Five 
+Hundred (500) mg Intravenous once a day for 2 days: Please start 
+infusion at 0700hrs on ___. Please infuse over 5 hrs in 500ml 
+of D5W.  
+13. Methylprednisolone Sodium Succ 500 mg Recon Soln Sig: Two 
+Hundred Fifty (250) mg Intravenous once a day for 3 days: Please 
+start infusion at 0700hrs on ___. Please infuse over 3hrs in 
+250ml of D5W.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: Remitting relapsing MS
+Secondary: none
+
+ 
+Discharge Condition:
+Improved leg weakness, improved blurred vision.
+
+ 
+Discharge Instructions:
+You were admitted to ___ with worsening weakness in your legs, 
+blurred vision.  These were felt to be a manifestation of 
+worsening of your multiple sclerosis.  For this you were treated 
+with intravenous high dose steroids.  
+
+With this treatment your symptoms improved, your leg strengh 
+increased and your gait improved, however not to your baseline.  
+
+
+The following changes were made to your medications:
+- IV steroids as per medication list
+- Started on Seroquel 75mg HS for agitation, mood symptoms
+- Insulin sliding scale adjusted for you BGs
+- Protonix 40mg every 12 hours while on steroids
+- Rebif was held during your hospital stay, while on steroids.
+
+You should continue your regular medications as previously 
+prescribed once you are discharged from the rehabilitation 
+facility.
+
+Should you develop further weakness, difficulties with balance, 
+new sensory symptoms, worsening vision, pain on moving your 
+eyes, fever, chills, difficulty breathing, rashes or any other 
+symptom concerning to you, please call your neurologist or go to 
+the emergency room.
+ 
+Followup Instructions:
+___

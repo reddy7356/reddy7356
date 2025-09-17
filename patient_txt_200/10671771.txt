@@ -1,0 +1,293 @@
+===== DISCHARGE NOTE =====
+note_id=10671771-DS-9 | hadm_id=22950567
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+SOB
+ 
+Major Surgical or Invasive Procedure:
+TRANSCATHETER AORTIC VALVE REPLACEMENT - TRANSFEMORAL 
+Transcatheter aortic valve replacement Catheter Placement, 
+___ Fr Sheath Left Femoral Vein Catheter Placement, 
+___ Fr Sheath Left Femoral Artery Catheter Placement, 
+___ Fr E Sheath Right Femoral Artery Catheter Placement 
+___ Fr sheath right radial artery Aortography, Ascending Aorta 
+Sentinel Device: 
+Right radial artery to right innominate and left carotid 
+Transcatheter Aortic Valve Replacement 
+Co-Surgeon: ___, MD 
+Co-Surgeon: ___, MD 
+Co-Surgeon: ___, MD 
+Co-Surgeon: ___, MD 
+___: 23 ___ 3 
+The case complexity required a multidisciplinary approach with 
+Cardiac Surgery 
+and Interventional Cardiology. 
+Vascular access was obtained in left common femoral using 
+vascular ultrasound techniques. 
+The left femoral artery was used to advance a ___ Fr Pigtail 
+catheter to the right coronary sinus. 
+A ___ Fr temporary pacemaker was placed in the right ventricle 
+from the left femoral vein through a 
+long ___ Fr sheath. 
+Vascular access was obtained in the right femoral artery using 
+vascular ultrasound guidance. 
+A ___ Fr E sheath was placed Unfractionated heparin was given to 
+achieve an ACT > 250 seconds. 
+ 
+Aortography was used to obtained the coplanar view. 
+A Sentinel device was deployed in the right subclavian artery 
+and left common carotid artery. 
+After the procedure, there were small bits of particulate debris 
+in the filter. 
+The aortic valve was crossed with a Straight wire and a JR4 was 
+advance into the ventricle. 
+A Pigtail catheter was exchanged and positioned in the LV apex. 
+Simultaneous left ventricular and aortic pressures were recorded 
+and demonstrated 
+severe aortic stenosis. 
+Mean gradient: 61 mmHg 
+The 0.035" exchange "J" wire was exchanged for a 0.035" Confida 
+wire and the Pigtail was removed. 
+A 23 ___ 3 with proper fluoroscopic loading was then 
+advanced to the aortic valve and inflated TTE showed trace mild 
+aortic regurgitation. 
+Aortography ___ d mild AR and patent coronaries. 
+Mean gradient: 8 mmHg 
+The right groin was closed with a two Proglides in a Pre-Close 
+fashion and a one ___ Fr Angioseal 
+The SFA was closed with a ___ Fr Angioseal. 
+The patient was transported to the PACU in stable condition. 
+Complications: There were no clinically significant 
+complications. 
+Impression 
+• Successful transcatheter aortic valve replacement 
+Recommendations 
+• ASA 81mg per day. 
+• Plavix 75mg/day 
+
+ 
+History of Present Illness:
+___ is a ___ female with past medical history
+significant for severe aortic stenosis has been experiencing
+worsening dyspnea on exertion as well as lower extremity edema
+for the past few months.  She denies any dizziness,
+lightheadedness, presyncope or syncope.  She denies any chest
+pain.
+
+She is followed by Dr. ___ underwent a stress
+echocardiogram which confirmed severe aortic stenosis.  She had
+very poor exercise capacity involve less than a minute on a
+treadmill limited by dyspnea and fatigue.  Echo showed severe
+stenosis with V-max 4.6, peak/mean gradient of 111/58 mmHg (LVOT
+diameter 2.0) preserved LVEF of 60-65%.  Also noticed to have
+pulmonary hypertension with RVSP of 51+ RA.
+
+NYHA Class: III
+
+ 
+Past Medical History:
+Hypertension
+Chronic kidney disease (but creatinine in OMR normal here?)
+Glaucoma
+Hypothyroidism
+Allergic rhinitis
+Urinary urgency
+
+ Past Surgical History:
+C-section
+Left breast lumpectomy
+Thyroid lobectomy right lobe
+
+ 
+Social History:
+___
+Family History:
+ No family history of premature coronary disease,
+CVA or sudden cardiac death.
+ 
+Physical Exam:
+Admission:
+ VS: 137/45, 76, 21, 95% 2Lnc 
+ Gen:  very pleasant elderly woman lying flat in bed in NAD
+ Neuro:  alert and oriented without focal deficts
+ CV:  RRR, no M/R/G
+ Chest:  ls CTA bilat anterior and lateral
+ ABD:  soft NT/ND
+ Extr:  WWP, DP palp bilat  
+ Access sites:  right groin with serosang drainage on dsg, left
+groin CD+I, right wrist w/o hematoma
+ GU:  External catheter draining CYU
+.
+Discharge:
+General: pleasant elderly woman sitting up in bed in NAD
+Neuro: alert and oriented w/o focal deficits
+Cardiac: RRR, no M/R/G
+Lungs: CTA bilat anterior and posterior, breathing regular and
+unlabored
+Abd:  soft NT
+Extremities: WWP, DP palp bilat
+Access Sites: sm right suprapubic hematoma, small ecchymosis no
+ooze. No bruit. Left groin w/o ecchymosis, ooze or hematoma. No
+bruit. right radial site OTA w/o ooze or hematoma.
+ 
+Pertinent Results:
+Admission labs: 
+___ 01:25PM BLOOD WBC-10.5* RBC-3.57* Hgb-10.7* Hct-33.8* 
+MCV-95 MCH-30.0 MCHC-31.7* RDW-13.1 RDWSD-45.1 Plt ___
+___ 01:25PM BLOOD Glucose-94 UreaN-15 Creat-0.9 Na-142 
+K-3.9 Cl-102 HCO3-26 AnGap-14
+___ 01:25PM BLOOD Calcium-9.2 Phos-4.8* Mg-1.9
+.
+ECHO ___:
+IMPRESSION: Well-seated, normally functioning ___ 3 aortic 
+bioprosthesis with trace
+paravalvular leak. Mid-cavitary LVOT obstruction in the setting 
+of vigorous left ventricular systolic
+function. Moderate mitral regurgitation. Mild tricuspid 
+regurgitation. Mild pulmonary hypertension.
+Compared with the prior TTE (images reviewed) of ___ , 
+the aortic valve has been replaced with a
+normally functioning TAVR. Severe aortic stenosis and mild to 
+moderate aortic regurgitation are no longer
+appreciated. The pulmonary pressure is lower.
+.
+ECG ___:
+Normal sinus rhythm
+T wave abnormality, consider lateral ischemia
+Abnormal ECG
+When compared with ECG of ___ 10:06,
+Non-specific change in ST segment in Anterior leads
+.
+labs at discharge:
+
+___ 05:31AM BLOOD WBC-12.2* RBC-3.04* Hgb-9.1* Hct-28.2* 
+MCV-93 MCH-29.9 MCHC-32.3 RDW-13.2 RDWSD-44.4 Plt ___
+___ 05:31AM BLOOD UreaN-23* Creat-0.8 Na-139 K-4.3 Cl-105 
+HCO3-23 AnGap-___ssessment: ___ year old woman with serve aortic stenosis
+s/p TAVR complicated by LBBB now resolved
+
+ # Severe AS: pre peak/mean 111/58. Now s/p TAVR 23 ___
+with Cerebral protection. Post Echo with peak/mean ___. Start 
+Plavix for 3 months and ASA for life. SBE prophylaxis info at 
+___. Ziopatch at discharge for LBBB noted post procedure but 
+resolved. 
+
+ # LBBB: Seen right after procedure, now resolved. Amlodipine 
+restarted yesterday. EKG showed resolution by the next day. 
+Patient will get ___ of Hearts monitor at discharge.
+
+ # HTN: Currently well controlled on amlodipine.
+
+# CAD: 2VD 70% Lcx and 80% LAD. No CP
+Asked patient if she was taking a cholesterol medication and she
+believes she was taking a medication for cholesterol but is
+uncertain the name, thinks the dose is 25mg. No statin on
+medication history in OMR.
+-Continue Aspirin
+-start Atorvastatin 40mg 
+
+ # Hypothyroid: stable. Continued Synthroid
+
+ # Glaucoma: Continued Xalatan and timolol
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Timolol Maleate 0.5% 1 DROP BOTH EYES DAILY 
+2. amLODIPine 5 mg PO DAILY 
+3. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+4. Levothyroxine Sodium 75 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atorvastatin 40 mg PO QPM  
+3.  Clopidogrel 75 mg PO DAILY  
+4.  Ramelteon 8 mg PO QHS:PRN insomnia  
+5.  amLODIPine 5 mg PO DAILY  
+6.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+7.  Levothyroxine Sodium 75 mcg PO DAILY  
+8.  Timolol Maleate 0.5% 1 DROP BOTH EYES DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Aortic stenosis
+Hypertension
+Chronic kidney disease
+Hypothyroidism
+Transient Left Bundle branch block
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+ You were admitted for a trans catheter aortic valve replacement 
+(TAVR) to treat your aortic valve stenosis which was done on 
+___. By repairing the valve your heart can pump blood more 
+easily and your shortness of breath should improve. It was noted 
+that you had an abnormal heart rhythm during the procedure that 
+has now resolved.  
+
+ It is very important to take all of your heart healthy 
+medications. In particular, you are now taking Aspirin and 
+Clopidogrel (Plavix). These medications help to prevent blood 
+clots from forming on the new valve. If you stop these 
+medications or miss ___ dose, you risk causing a blood clot 
+forming on your new valve. This could cause it to malfunction 
+and it may be life threatening. Please do not stop taking 
+Aspirin or Plavix without taking to your heart doctor, even if 
+another doctor tells you to stop the medications.  
+
+ You will need prophylactic antibiotics prior to any dental 
+procedure. Please inform your dentist about your recent cardiac 
+procedure, and obtain a prescription from your doctor before any 
+procedure. 
+ Please weigh yourself every day in the morning after you go to 
+the bathroom and before you get dressed. If your weight goes up 
+by more than 3 lbs in 1 day or more than 5 lbs in 3 days, please 
+call your heart doctor or your primary care doctor and alert 
+them to this change. Your weight at discharge is 121 pounds.
+
+You will wear a monitor a home called a Ziopatch for a few weeks 
+to make sure that you remain in a normal rhythm. 
+ 
+ We have made changes to your medication list, so please make 
+sure to take your medications as directed. You will also need to 
+have close follow up with your heart doctor and your primary 
+care doctor.  
+ If you have any urgent questions that are related to your 
+recovery from your procedure or are experiencing any symptoms 
+that are concerning to you and you think you may need to return 
+to the hospital, please call the ___ Heart Line at 
+___ to speak to a cardiologist or cardiac nurse 
+practitioner.
+  
+ It has been a pleasure to have participated in your care and we 
+wish you the best with your health.  
+
+ 
+Followup Instructions:
+___

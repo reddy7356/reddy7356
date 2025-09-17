@@ -1,0 +1,263 @@
+===== DISCHARGE NOTE =====
+note_id=10459635-DS-6 | hadm_id=27292017
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+Chief Complaint:
+Right facial droop, slurred speech, confusion
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr ___ is a ___ year old ___ man with a PMH significant for 
+hypertension, hyperlipidemia, glucose intolerance who presented 
+with altered mental status, slurred speech and instability. The 
+night of admission Mr ___ was at his baseline (active: 
+exercises every morning walking for 1h w/o a cane or a walker,
+manages the home finances). At 21:30 he was watching tv with his 
+wife and felt tired and sleepy. He stood up and experienced 
+imbalance (walked a couple of steps forward, almost fell, and 
+regained his equilibrium on his own). There was no headache, 
+chest pain, or rotatory sensation. He reports things were 
+blurry, but there was no diplopia. He then walked toward the 
+kitchen, poured a glass of milk without experiencing any 
+weakness, and had it with cookies without any difficulties to 
+swallow. He felt just sleepy and tired. However, there was no 
+numbness, tingling, needle sensation in his skin. He reports no 
+weakness. His wife became concerned and called his daughter. She 
+states he had a fluent speech and was able to produce 
+intellegible sentences. However, they were out of context. He 
+would discuss events that happened many years ago, instead of 
+following the conversation that was ongoing. She also felt he 
+had a slurred speech. They failed to notice any other deficits, 
+but remark he had a RIGHT facial droop. All these symptoms 
+occurred simultaneously and lasted from 21:30 till 22:30. 
+Conversely, he denies any symptoms at all, but remembers the 
+events. He had no chest pain or SOB. There was no presyncopal or 
+syncopal event. He had never experienced this type of a 
+situation before. Mr. ___ seems to be compliant with his 
+medications and carries out with a healthy life style (as 
+explained above). Given the situation, his daughter became 
+alarmed around 22:15 and a while later, brought him to the 
+hospital. Once at ___, he was triaged at 23:48 (___ then 153). 
+At this time, he had a RIGHT facial droop. BP 146/ 76, 88 bpm, 
+RR 12 in RA at SO2 97%. Afebrile. FSG 103. A code stroke was 
+called at 23:53 and the neurology resident arrived to at the 
+scene at 23:55. 
+
+NIHSS: 1.
+
+ROS: general and neurological: non-contributory. 
+ 
+Past Medical History:
+Hypertension
+Dyslipidemia
+Glucose intolerance
+S/p Cardiac cath in ___: normal coronary arteries. 
+Carotid dupplex ___: no evidence of stenosis. 
+___ Bilateral inguinal hernia repairs w/ mesh
+Prostate cancer diagnosed ___ years ago, s/p radical prostatectomy
+
+ 
+Social History:
+___
+Family History:
+No family history of Seizures, stroke, CAD at an early age.
+
+ 
+Physical Exam:
+140/ 70, 70 bpm. RR 12, SO2 99% in 2l NC. Speaking in full 
+sentences. Afebrile. 
+
+Gen: Lying in bed, NAD. 
+HEENT: NC/AT, moist oral mucosa
+Neck: supple, no carotid or vertebral bruit
+Back: No point tenderness or erythema
+CV: tachycardic, Nl S1 and S2, no murmurs/gallops/rubs
+Lung: Clear to auscultation bilaterally
+Abd: Soft, nontender, non-distended.  No masses or megalies. 
+Percussion within normal limits. +BS.
+Ext: no edema, no DVT data. Pulses ++ and symmetric.
+
+Neurologic examination:
+MS:
+General:  alert, awake, normal affect
+Orientation:  oriented to person, place, date, situation.
+Attention: Months of the year backwards +. Follows 
+simple/complex apendicular and axial commands.
+Speech/Language: fluent w/o paraphasic errors; Normal 
+comprehension, repetition, naming. According to his daughter he 
+is slightly slurred. Reading not tested (glasses not available). 
+
+Memory: Registers ___ and Recalls ___ when given semantic cuing.
+Noevidence of apraxis/ agnosia.
+No field cuts.
+
+CN:
+I: not tested
+II,III:  VFF to confrontation, PERRL 4mm to 2mm, fundi normal
+III,IV,VI: EOMI, no ptosis. No nystagmus
+V:  sensation intact V1-V3 to LT
+VII:  Facial strength intact/symmetrical
+VIII:  hears finger rub bilaterally
+IX,X:  palate elevates symmetrically, uvula midline
+XI:  SCM/trapezeii ___ bilaterally
+XII:  tongue protrudes midline, no dysarthria
+
+Motor: Normal bulk.  
+No tremor, no asterixis or myoclonus. No pronator drift.       
+       Delt;C5 bic:C6 Tri:C7 Wr ext:C6 Fing ext:C7 Grip:C8/ T1 
+Interosseous
+Left     5      5      5       5          5             5        
+5
+Right    4      5      5       5          5             5        
+5    
+     IP:L2 Quad:L3  Hamst:L4-S1 Dorsiflex:L4 ___ 
+Pl.flex:S1-S2
+Left  5      5      5           5          5        5
+Right 5      5      5           5          5        5 
+Deep tendon Reflexes: No clonus.      
+Bicip:C5 Tric:C7 Brachial:C6 Patellar:L4     Toes:
+Right   1        1         1          1     DOWNGOING
+Left    1        1         1          1     DOWNGOING 
+
+Sensation: Intact to light touch, vibration, proprioception, and 
+temperature.
+
+Coordination:
+*Finger-nose-finger normal with the RIGHT hand. 
+*There is an intentional tremor with the LEFT hand. 
+*Rapid Arm Movements normal. 
+*Fine finger tapping: normal b/l (including tapping the crease).
+*Gait/Romberg: Would not cooperate (will do it tomorrow). 
+ 
+Pertinent Results:
+LABS:
+___ 11:30PM BLOOD WBC-7.7# RBC-4.17* Hgb-13.8* Hct-39.1* 
+MCV-94 MCH-33.0* MCHC-35.2* RDW-12.7 Plt ___
+___ 05:35AM BLOOD WBC-7.3 RBC-4.08* Hgb-13.3* Hct-38.9* 
+MCV-95 MCH-32.7* MCHC-34.3 RDW-12.5 Plt ___
+___ 11:30PM BLOOD Neuts-70.8* ___ Monos-4.4 
+Eos-5.9* Baso-0.3
+___ 11:30PM BLOOD ___ PTT-29.2 ___
+___ 11:30PM BLOOD Glucose-102 UreaN-20 Creat-0.9 Na-136 
+K-3.7 Cl-100 HCO3-29 AnGap-11
+___ 05:35AM BLOOD Glucose-122* UreaN-15 Creat-1.0 Na-139 
+K-4.3 Cl-103 HCO3-30 AnGap-10
+___ 11:30PM BLOOD Glucose-102 UreaN-20 Creat-0.9 Na-136 
+K-3.7 Cl-100 HCO3-29 AnGap-11
+___ 05:35AM BLOOD Glucose-122* UreaN-15 Creat-1.0 Na-139 
+K-4.3 Cl-103 HCO3-30 AnGap-10
+___ 11:30PM BLOOD CK(CPK)-124
+___ 05:35AM BLOOD ALT-30 AST-22 LD(LDH)-149 CK(CPK)-118 
+AlkPhos-47 Amylase-60 TotBili-0.8
+___ 05:35AM BLOOD Lipase-32
+___ 11:30PM BLOOD CK-MB-3
+___ 11:30PM BLOOD cTropnT-<0.01
+___ 05:35AM BLOOD CK-MB-3 cTropnT-<0.01
+___ 05:35AM BLOOD Albumin-3.6 Calcium-8.6 Phos-2.2* Mg-2.3 
+UricAcd-3.4 Iron-67 Cholest-151
+___ 05:35AM BLOOD calTIBC-261 Ferritn-304 TRF-201
+___ 05:35AM BLOOD %HbA1c-PND
+___ 05:35AM BLOOD Triglyc-588* HDL-26 CHOL/HD-5.8
+___ 05:35AM BLOOD TSH-0.67
+___ 05:35AM BLOOD Ethanol-NEG Bnzodzp-NEG Barbitr-NEG
+
+IMAGING:
+CT Head (___): IMPRESSION: No acute intracranial pathology 
+including no hemorrhage.
+
+CXR (___): IMPRESSION: No acute intrathoracic pathology.
+
+MR/MRA Head (___): Pending at the time of discharge
+
+ 
+Brief Hospital Course:
+The patient is a ___ year old man with a history of hypertension, 
+dyslipidemia, and glucose intolerance who presents with a one 
+day history of right facial droop, slurred speech, and slight 
+confusion in the setting of taking 2 Tylenol ___ and 1 Ambien for 
+insomnia on the evening prior to admission. CEs were negative, 
+TSH 0.67, Chol 151, HDL 26, ___ 588. CT Head showed no acute 
+intracranial pathology including no hemorrhage. MRI/MRA head 
+showed no diffusion abnormalities. There was a FLAIR 
+hyperintensity in the right fronto-temporal lobe, and the 
+patient was instructed to have a repeat MRI head with contrast 
+as an outpatient. The MRI/MRA final read was pending at the time 
+of discharge. He was continued on ASA 325 mg daily, Benicar HCT 
+___ mg 1 tablet daily, Metoprolol 50 mg bid, and Vytorin ___ 
+1 tablet qhs. Per his family, he was back to baseline at the 
+time of discharge. He was instructed to follow up with Neurology 
+as an outpatient.
+
+ 
+Medications on Admission:
+Aspirin 325mg daily 
+Benicar HCT ___, one tablet every morning
+Metoprolol 50mg one tablet twice a day
+Vytorin ___ one tablet every evening after supper
+Calcium citrate
+Fish oil
+MVI
+Vitamin E 400 IU daily every morning
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Benicar HCT ___ mg Tablet Sig: One (1) Tablet PO qAM.  
+3. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO twice 
+a day.  
+4. Vytorin ___ mg Tablet Sig: One (1) Tablet PO at 
+bedtime. Tablet(s) 
+5. Calcium Citrate  Oral
+6. Fish Oil  Oral
+7. Multivitamin  Oral
+8. Vitamin E 400 unit Tablet Sig: One (1) Tablet PO once a day.  
+
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+Transient Confusion likely secondary to sleeping medications
+
+ 
+Discharge Condition:
+Stable, back to baseline
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with right facial droop and 
+slurred speech, in the setting of taking Tylenol ___ and Ambien 
+to help with sleep. An MRI of your head did not show any 
+evidence of a stroke. You should follow up with Neurology as an 
+outpatient, with consideration of a repeat head MRI with 
+contrast in the future (given one bright spot found on the MRI 
+head in the hospital).
+
+There were no changes made to your medications. You should 
+continue taking Aspirin 325 mg daily.
+
+If you develop weakness or numbness, difficulty speaking or 
+swallowing, loss of vision or blurry vision, nausea/vomiting, 
+fevers/chills, or any other symptoms that concern you, call your 
+PCP or return to the ED.
+ 
+Followup Instructions:
+___

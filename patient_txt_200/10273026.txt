@@ -1,0 +1,236 @@
+===== DISCHARGE NOTE =====
+note_id=10273026-DS-15 | hadm_id=20805501
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Bactrim / Penicillins / Codeine / Motrin / Amoxicillin / 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+lethargy, IPH
+ 
+Major Surgical or Invasive Procedure:
+EVD placement
+Intubation
+ 
+History of Present Illness:
+Patient is a ___ Female with DM, HTN, HL, avscular dementia,
+DVTs on Coumadin who was found lethargic in bed this AM at her
+assisted living facility ___). By report there was no
+report of any trauma or fall. She was taken to  ___
+where she was reported to be GCS 14. A head CT revealed a large
+Right occipital hemorrhage. She was given 1u of  FFP and 10mg of
+Vit. K for an INR=1.9. 
+
+She was intubated with etomidate, succinylcholine and versed 
+then
+transferred to ___ for further care. 
+
+She was then seen by neurosurgery who recommended repeat NCHCT
+with EVD if worsening bleed, loading with Keppra and HTN goals
+<140.
+
+Neurology is consulted for recs regarding BP goals and stroke
+workup.
+
+Of note, at baseline, patient is oriented to person only and is
+wheelchair dependent. 
+
+ROS: unable to perform
+ 
+Past Medical History:
+DM on insulin
+HL
+HTN
+Vasc. dementia
+GERD
+Anemia
+diabetic neuropathy s/p amputation toe
+DVT on coumadin
+Anxiety /Depression
+Hypothyroid
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+Vitals: T:afebrile  P: 86  R: 16  BP: 133/86  SaO2: 99% 
+Intubated
+General: Sedated intubatd
+HEENT: NC/AT, no scleral icterus noted, MMM, slight blood tinged
+oozing from mouth
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity 
+Pulmonary: Lungs CTA bilaterally without R/R/W 
+Cardiac: RRR, nl. S1S2, no M/R/G noted 
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted. 
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally. 
+Skin: no rashes or lesions noted.
+ 
+Neurologic: 
+
+-Mental Status: Intubated, sedated, does not open eyes to voice
+or command, withdraws with pain in all limbs
+  
+-Cranial Nerves: 
+I: Olfaction not tested.  
+II: PERRL 3 to 2mm and brisk.  VFF to confrontation. Funduscopic
+exam revealed no papilledema, exudates, or hemorrhages. 
+III, IV, VI: EOMI without nystagmus.  Normal saccades. 
+V: Facial sensation intact to light touch. 
+VII: No facial droop, facial musculature symmetric. 
+VIII: Hearing intact to finger-rub bilaterally.  
+IX, X: Palate elevates symmetrically.  
+XI: ___ strength in trapezii and SCM bilaterally. 
+XII: Tongue protrudes in midline.
+ 
+-Motor: Normal bulk, tone throughout.
+
+No adventitious movements, such as tremor, noted. 
+ 
+-Sensory: Withdraws purposefully to painful stimuli in all limbs
+except left lower extremity
+ 
+-DTRs: 
+  Bi Tri ___ Pat Ach 
+L  2  2    2    3   1 
+R  2  2    2    3   1
+Plantar response was mute b/l.
+ 
+-Coordination: defered.
+ 
+-Gait: defered
+ 
+Pertinent Results:
+___ 09:35PM   TYPE-ART TEMP-35.8 PO2-215* PCO2-38 PH-7.46* 
+TOTAL CO2-28 BASE XS-3 -ASSIST/CON INTUBATED-INTUBATED
+___ 06:11PM   TYPE-ART RATES-14/ TIDAL VOL-480 PEEP-5 O2-40 
+PO2-191* PCO2-27* PH-7.61* TOTAL CO2-28 BASE XS-6 -ASSIST/CON 
+INTUBATED-INTUBATED
+___ 06:11PM   LACTATE-1.9
+___ 06:11PM   freeCa-1.19
+___ 05:44PM   GLUCOSE-161* UREA N-23* CREAT-0.8 SODIUM-140 
+POTASSIUM-3.2* CHLORIDE-104 TOTAL CO2-26 ANION GAP-13
+___ 05:44PM   CALCIUM-9.6 PHOSPHATE-2.1* MAGNESIUM-1.6
+___ 05:44PM   WBC-11.3* RBC-3.33* HGB-9.5* HCT-29.7* MCV-89 
+MCH-28.6 MCHC-32.1 RDW-12.8
+___ 05:44PM   PLT COUNT-330
+___ 01:00PM URINE  HOURS-RANDOM
+___ 01:00PM URINE  HOURS-RANDOM
+___ 01:00PM URINE  UHOLD-HOLD
+___ 01:00PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 01:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-10 BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 12:48PM   TYPE-ART TIDAL VOL-480 O2-100 PO2-472* 
+PCO2-25* PH-7.62* TOTAL CO2-27 BASE XS-5 AADO2-226 REQ O2-45 
+-ASSIST/CON INTUBATED-INTUBATED
+___ 11:50AM   VoidSpec-SAMPLE QNS
+___ 11:30AM   GLUCOSE-161* LACTATE-2.9* NA+-135 K+-4.3 
+CL--98 TCO2-25
+___ 11:20AM   UREA N-26* CREAT-0.9
+___ 11:20AM   estGFR-Using this
+___ 11:20AM   LIPASE-24
+___ 11:20AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 11:20AM   WBC-12.1* RBC-4.07* HGB-11.8* HCT-37.5 MCV-92 
+MCH-29.0 MCHC-31.5 RDW-12.7
+___ 11:20AM   ___ PTT-36.0 ___
+___ 11:20AM   PLT COUNT-385
+___ 11:20AM   ___
+
+CT head ___:
+IMPRESSION: 
+1. Enlarging right occipital and parietal intraparenchymal 
+hemorrhage with 
+extension into the ventricle and extension into the subarachnoid 
+space. No 
+shift of midline structures or herniation is evident. A brain 
+MRI is 
+recommended to rule out underlying hemorrhagic tumor or 
+infarction. 
+2. No actively bleeding vessel identified on the technically 
+limited CTA. 
+3. Atherosclerotic disease involving the bilateral vertebral and 
+cavernous 
+carotid arteries.
+
+CT head ___:
+IMPRESSION: 
+1. Stable overall appearance of hemorrhage with some 
+redistribution of blood products into the contralateral 
+occipital horn of the lateral ventricle. 
+2. Stable mass effect causing effacement of the right occipital 
+horn of the lateral ventricle. No evidence of shift of midline 
+structures or herniation. 
+3. Areas of unchanged hypodensity within the hemorrhage must be 
+followed 
+closely for stability, as extension of these regions would 
+represent active bleeding/ adjacent edema. Further workup for 
+underlying cause as clinically indicated. 
+
+CXR ___:
+FINDINGS: In comparison with the study of ___, the monitoring 
+and support 
+devices are in unchanged position. The left hemidiaphragm is not 
+as sharply seen, consistent with volume loss in the left lower 
+lobe combined with small effusion. In the appropriate clinical 
+setting, supervening pneumonia would have to be considered. 
+
+ 
+Brief Hospital Course:
+Pt was admitted to the neurosurgery service on ___ as a 
+transfer from ___. Repeat CT showed enlarging R 
+occipital hemorrhage. EVD was placed. INR was reversed with 1u 
+of FFP and 10mg of Vit K. Given her declining neurologic status 
+and poor prognosis, a family meeting was held and the decision 
+was made to make the pt CMO. EVD was removed, she was extubated 
+and transferred to the neurology floor. She was started on a 
+morphine drip and hyoscyamine patch, and was then transitioned 
+to a dilaudid drip along with prn ativan IV for respiratory 
+distress. She passed away comfortably at ___ on ___. Family 
+declined autopsy.
+ 
+Medications on Admission:
+Coumadin ___ QD, 
+Synthroid 12mcg QD, 
+Cymbalta 30mg QD, 
+Donepezil 10mg QD, 
+Simvastatin 20mg QD, 
+Humalog SS, 
+Florastor 250mg BID, 
+Doxycycline 100mg BID,
+Prilosec 10mg QD, 
+Vit. D 1000u, 
+Tramadol PRN, 
+Ativan PRN
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Patient expired at 2024hrs on ___. Family was 
+informed, and they declined an autopsy at that time. 
+ 
+Discharge Condition:
+Expired
+ 
+                             ___, PHD ___
+ 
+Completed by: ___

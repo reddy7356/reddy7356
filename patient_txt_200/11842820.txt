@@ -1,0 +1,230 @@
+===== DISCHARGE NOTE =====
+note_id=11842820-DS-11 | hadm_id=23014583
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: PSYCHIATRY
+ 
+Allergies: 
+Penicillins / Compazine / Paxil
+ 
+Attending: ___
+ 
+Chief Complaint:
+"I was paralyzed"
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo man with a PPHx of GAD, Substance 
+Dependence and Adjustment Disorder who presents to ___ ED with 
+worsening anxiety and substance abuse. He reports that for the 
+past 3 days he has been "paralyzed" in his apartment. He notes 
+one day he woke up and didn't want to go anywhere or do 
+anything. He felt increasing symptoms of anxiety, he began 
+drinking increasing amounts of alcohol (up to 1 quart of vodka a 
+day) after reportedly being sober for the past 7 months. His 
+last drink was yesterday evening prior to presentation. Although 
+he states that he has a hx of depression, he relates that his 
+depression has worsened significantly in the past few days.  
+This has been in the context of medication noncompliance and 
+final recent break-up with boyfriend of ___ years. Currently 
+denies SI/HI.  He notes that he ran out of his medications this 
+past week--notably his seroquel and clonidine that are being 
+prescribed to him by his psychiatrist at the ___, although he 
+has not attended in the past few days. He relates that his 
+medications were somehow altered last week by his doctor but is 
+unable to provide details of the changes, but that this made him 
+feel worse. He notes over the past 3 days that he has not been 
+taking good care of himself-- didn't shave or shower, and 
+couldn't leave the house to go to work, his program, or his PCP 
+___. He notes poor sleep, low energy, poor concentration. He 
+admits that he forced himself to call a taxi to bring him to 
+___ because he didn't know what else to do. "I was scaring 
+myself."
+ 
+Past Medical History:
+HIV x ___ years 
+Hep C 
+Lyme disease 
+h/o aspectic meningitis 
+LLE cellulitis 
+hypothyroid 
+h/o SCC lower lip 
+
+ 
+Social History:
+___
+Family History:
+father=alcoholism
+grandmother = h/o psychotic depression
+mother = depression
+ 
+Physical ___:
+Obj: T 98.2  BP 126/80  HR 97  O2 sat 98% on RA
+MSE:
+Appearance: Somewhat disheveled in street clothes.  
+Tired-looking caucasian male, unshaven, appropriate for age.
+Behaviour: Normal gait, slightly slouched posture and 
+appropriate eye contact.
+Speech: Normal rate and volume. Somewhat monotone.
+Mood: "tired and anxious"
+Affect: Appropriate, not labile.
+Thought process: logical, goal directed.
+Thought content:  Denies auditory hallucinations, paranoid 
+thoughts.
+SI/HI: Says that he thought about "not living" a week ago and 
+spoke to his psychiatrist, but has not had any active planning.  
+No history of suicide attempts.  No HI.
+Cognitive Exam: Alert and oriented x3.  Recalls and can explain 
+recent events coherently and without difficulty.
+ 
+Pertinent Results:
+___ 08:45AM   VIT B12-518 FOLATE-13.3
+___ 08:45AM   TSH-11*
+___ 08:25PM   GLUCOSE-121* UREA N-12 CREAT-1.0 SODIUM-138 
+POTASSIUM-4.0 CHLORIDE-96 TOTAL CO2-25 ANION GAP-21*
+___ 08:25PM   ASA-NEG ___ ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 08:25PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-POS amphetmn-NEG mthdone-NEG
+___ 08:25PM   WBC-5.9 RBC-4.75 HGB-16.8 HCT-46.2 MCV-97 
+MCH-35.4* MCHC-36.5* RDW-14.2
+___ 08:25PM   NEUTS-44.3* LYMPHS-48.5* MONOS-4.7 EOS-1.7 
+BASOS-0.9
+___ 08:45AM BLOOD ALT-220* AST-204* AlkPhos-269* 
+TotBili-1.4
+ 
+Brief Hospital Course:
+Psychotherapy: Mr. ___ was tired and anxious on admission and 
+felt unable to care for himself. Given his recent alcohol intake 
+of approximately a quart of EtOH per day, he was put on a CIWA 
+scale with Ativan for possible withdrawl.  He required Seroquel 
+for anxiety, but did not show significant signs of alcohol 
+withdrawl.  He was continued on his Celexa from admission over 
+the weekend ___ and ___ and showed signs of 
+improvement.  The morning of ___ he reported that he had 
+slept well and was ready for discharge.  He had consistently 
+denied suicidal ideation, and was future oriented.
+There was some difficulty arranging his outpatient partial 
+program and insurance approval could not be obtained before 
+noon.  Mr. ___ had planned on a noon departure and had 
+apparently made several appointments for the afternoon.  He was 
+informed that it would be better if he stayed until these 
+arrangements could be made, but he insisted on leaving at noon 
+as planned.  His application to rejoin the ___ partial 
+program at the ___, which he has used in the past, was 
+declined (the insurance company later approved IOP treatment).  
+However, he will attempt to go to the program tomorrow morning 
+(___) and has an appointment with his psychiatrist Dr. 
+___ same morning.
+
+Pyschopharmacology: Maintained on Celexa 20mg daily throughout.  
+Patient had recurring anxiety for which he received seroquel, 
+starting at 30mg TID and increased to 50mg Q4hrs PRN.  He 
+generally took 3 or so doses per day.  He also had trouble 
+sleeping, for which he received Zolpidem his first night and 
+Doxepin 10mg other nights.  He also took Seroquel 400mg QHS.  
+Finally, he requested a Nicotine patch as he usually smokes a 
+pack a day.
+
+Medical: Maintained on HIV medications (ritonavir, truvada and 
+atazanavir) throughout.  Maintained on Synthroid 50mcg daily.  
+Requested acyclovir ointment for a breakout of oral herpes.  On 
+___, it was noticed that the patient had elevated liver 
+enzymes (ALT-220, AST-204, AlkPhos-269).  He has follow-up with 
+his PCP who may wish to repeat these labs or pursue further 
+follow-up.
+
+Family/Social Work: Mr. ___ declined permission to contact 
+his family.  He has been set up with the ___ program at the 
+___, where he also has a psychiatrist.
+
+ 
+Medications on Admission:
+1. Seroquel 400 mg PO QHS
+
+2. Clonidine- dose unknown
+
+3. Doxepin- dose unknown
+
+4. Ritonavir 100 mg po daily with 1 capsule of Rayataz 150 mg
+
+5. Truvada 200/300 mg po daily
+
+6. Celexa 20 mg po daily
+ 
+7. Levothyroxine 50 mg po daily
+ 
+Discharge Medications:
+Citalopram [Celexa]
+20mg by mouth once daily
+
+Ritonavir [Norvir]
+100mg by mouth once daily
+
+Emtricitabine-Tenofavir [Truvada]
+300/200mg by mouth once daily
+
+Levothyroxine [Synthroid]
+50mcg by mouth once daily
+
+Atazanavir [Reyataz]
+300mg by mouth once daily
+
+Acyclovir 5% ointment
+One topical application every 4 hours as needed.
+
+Quetiapine [Seroquel]
+400 mg by mouth at bedtime as needed for insomnia
+
+Quetiapine [Seroquel]
+50mg by mouth every 4 hours as needed for anxiety
+
+Doxepin
+10mg by mouth at bedtime
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Axis I:Generalized Anxiety Disorder, Major Depressive Disorder, 
+Alcohol dependence
+Axis II:defer 
+Axis III:HIV, HCV, Hypothyroid 
+Axis IV: Substance abuse, lack of social supports 
+Axis V: GAF=50 
+ 
+Discharge Condition:
+Stable
+
+Discharge MSE:
+Appearance: Well-groomed, casually dressed caucasian male.  
+Tired-looking, appropriate for age.
+Behaviour: Normal gait and appropriate eye contact.
+Speech: Normal rate and volume.
+Mood: "anxious to be discharged"
+Affect: Appropriate, not labile.
+Thought process: logical, goal directed.
+Thought content:  Denies auditory hallucinations, paranoid 
+thoughts.
+SI/HI: Says that he thought about "not living" a week ago and 
+spoke to his psychiatrist, but has not had any active planning.  
+No history of suicide attempts.  No HI.
+Cognitive Exam: Alert and oriented x3.
+ 
+Discharge Instructions:
+Please continue to take medications as prescribed and keep all 
+outpatient appointments.
+Please return to an emergency room for evaluation if symptoms 
+worsen, including inability to care for self or thoughts of 
+suicide.
+ 
+Followup Instructions:
+___

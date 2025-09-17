@@ -1,0 +1,233 @@
+===== DISCHARGE NOTE =====
+note_id=11500724-DS-14 | hadm_id=24176060
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Assault
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+This is a ___ year old male transferred to ___ from OSH
+status post assault. The patient states that he was walking home
+this evening when he was assaulted by 3 men. He states that he
+was struck in the head and kicked in his legs. He denies LOC. On
+arrival to ___ patient complained of mild right frontal
+headache. Denies visual changes. Denied chest pain, shortness of
+breath. Complained of right knee, ankle and foot pain. Head CT 
+for
+OSH shows right frontal SDH.
+
+ 
+Past Medical History:
+HTN
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+PHYSICAL EXAMINATION ON ADDMISON:
+Vitals: T: 96.7 BP:163 / 101        HR: 68   R    16   O2Sats
+100%
+Gen: WD/WN, comfortable, NAD.
+HEENT: Atraumatic, normocephalic. PERRLA.  EOMs intacat
+Neck: Supple.
+Extrem: Warm and well-perfused.
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, to
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+PHYSICAL EXAM ON DISCHARGE: 
+
+Gen: WD/WN, comfortable, NAD.
+HEENT: Atraumatic, normocephalic. PERRLA.  EOMs intacat
+Neck: Supple.
+Extrem: Warm and well-perfused.
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, to
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+ 
+Pertinent Results:
+___ 01:23PM   WBC-6.8 RBC-4.60 HGB-14.3 HCT-43.5 MCV-95 
+MCH-31.0 MCHC-32.8 RDW-14.1
+___ 01:23PM   PLT COUNT-206
+
+___: NCHCT:
+Right frontal SDH 4.9 mm in length, no midline shift, no mass 
+effect, no hydronephrosis. 
+
+___
+NCHCT:
+IMPRESSION: 
+ Re-distribution of small right subdural hematoma, now layering 
+over the 
+superior aspect of the parietal lobe, causing mild sulcal 
+effacement but no midline shift or central herniation.  No 
+definite new intracranial hemorrhage. 2.2 cm hypodense region in 
+the right frontal lobe, unchanged compared to the prior CT from 
+___, possibly a site of contusion or old infarct. 
+No acute large vascular territorial infarction.
+
+ 
+___ Chest x-ray: No acute cardiopulmonary changes
+
+___: Tib/fib, foot: 
+RIGHT TIBIA/FIBULA:  There are severe tricompartmental 
+degenerative changes of the right knee.  However, there is no 
+fracture or dislocation.  Moderate suprapatellar effusion is 
+noted.  The ankle mortise is preserved on this non-stress view.  
+There is no abnormality in ___ fat pad. 
+  
+RIGHT FOOT:  Hallux valgus deformity is noted.  There is no 
+fracture or 
+dislocation. 
+  
+LEFT TIBIA/FIBULA:  Degenerative changes are severe in the 
+lateral and 
+patellofemoral compartments.  There is a mild suprapatellar 
+effusion.  There 
+is no fracture or dislocation.  The ankle mortise is preserved 
+on this 
+non-stress view. 
+  
+LEFT FOOT:  Mild DJD of the first TMT joint is seen.  Mild 
+hallux valgus 
+deformity is also noted.  There is no fracture or dislocation.  
+Superior 
+calcaneal spur is also noted. 
+
+ 
+Brief Hospital Course:
+The patient was admitted to the neurosurgery service on ___ 
+with a right frontal SDH.   Neuro exam was intact. The patient 
+was admitted for continued neurologic checks. 
+
+Neuro: Patient complained of a mild headache. Denied vision 
+changes, focal weakness, numbness, tingling, difficulty 
+producing or comprehending language, dysarthria, dysphagia. 
+Neuro exam remained stable at baseline during his admission.
+
+CV: The patient was stable from a cardiovascular standpoint; 
+vital signs were routinely monitored.
+
+Hematology:  The patient was hemodynamically stable.
+
+Pulmonary: The patient was stable from a pulmonary standpoint; 
+vital signs were routinely monitored.
+
+GI/GU: Patient was also started on a bowel regimen to encourage 
+bowel movement. 
+
+ID:  The patient's temperature was closely watched for signs of 
+infection.
+
+At the time of discharge on ___, the patient was doing well, 
+afebrile with stable vital signs, tolerating a regular diet, 
+ambulating, voiding without assistance, stable neuro exam and 
+pain was well controlled.  The patient was given written 
+instructions concerning precautionary instructions and the 
+appropriate follow-up care.  All questions were answered prior 
+to discharge.  The patient agreed with hospital management and 
+verbalized discharge instructions prior to discharge.
+
+ 
+Medications on Admission:
+Lisinopril 20 mg PO daily
+ 
+Discharge Medications:
+1. Lisinopril 20 mg PO DAILY 
+2. OxycoDONE (Immediate Release)  ___ mg PO Q6H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth Q6 hours Disp #*45 
+Tablet Refills:*0
+3. Senna 1 TAB PO BID 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth daily Disp #*30 
+Tablet Refills:*0
+4. LeVETiracetam 500 mg PO BID Duration: 5 Days 
+RX *levetiracetam 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*10 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+___
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+•Take your pain medicine as prescribed.
+•Exercise should be limited to walking; no lifting, straining, 
+or excessive bending.
+•Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+•Unless directed by your doctor, do not take any 
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, or 
+Ibuprofen etc. 
+•You have been discharged on Keppra (Levetiracetam), you will 
+not require blood work monitoring. Please take for 5 more days.
+ 
+Followup Instructions:
+___

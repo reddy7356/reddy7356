@@ -1,0 +1,2926 @@
+===== DISCHARGE NOTE =====
+note_id=11425766-DS-8 | hadm_id=21472198
+
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+cefepime / Advil / antibiotics - due to C. diff -Must use oral 
+vancomycin with ALL ABX
+ 
+Attending: ___
+ 
+___ Complaint:
+Altered mental status
+Lethargy
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with history of major 
+neurocognitive disorder, orthostatic hypotension, osteoporosis, 
+recent admission for fall complicated by subdural hematoma now 
+presenting with altered mental status. 
+
+Per ED report, the patient had been doing well at home since 
+discharge but the daughter noticed that she was difficult to 
+arouse today and has been acting off of her baseline - she is 
+more withdrawn and sleeping more. The daughter also notes she is 
+eating more than usual but is using her hands and not utensils. 
+No additional falls. She also has a new swollen left wrist 
+although there is no report of trauma. It is unclear if there is 
+pain with movement and extension of her left ring and third 
+finger as it is different between providers. She denies fevers, 
+chest pain, dyspnea, abdominal pain, diarrhea, urinary changes, 
+or weakness. 
+
+In the ED, initial vitals: 97.4 86 129/77 14 98% NC Exam notable 
+for: - Gen: well appearing, NAD, follows commands although she 
+takes extra time to do so and the daughter says this is not her 
+baseline as the patient is normally very talkative and 
+interactive, A&Ox2 - Ext: Dorsum of left hand is swollen but 2+ 
+pulses. Full ROM of wrist without pain. Possible tenderness 
+moving middle and ring fingers Labs notable for: WBC 5.9 Hb 9.6, 
+BUN/Cr ___ UA with many bacteria, WBC>182, RBC 136, lg leuks
+
+On arrival to the floor, the patient reports that her daughter 
+was worried she was confused. She denies any pain. No headache. 
+No fever. No dysuria. No wrist pain. No other complaints at this 
+time.
+ 
+Past Medical History:
+- Cefepime toxicity requiring Dialysis  
+- ___ status epilepticus  
+- Subdural hematoma
+- Anemia  
+- Osteomyelitis  
+- Hypertension  
+- Subdural hematoma s/p burrhole in ___  
+- Osteoarthritis  
+- shingles infection in ___  
+- Orthostatic hypotension
+- Asymptomatic bacteriuria
+- C. difficile colitis
+- Spinal stenosis
+- Anxiety
+- Dysphagia
+- Constipation
+- Gait disorder
+- Major neurocognitive disorder
+- Hypothyroidism
+- Osteoporosis                                                   
+
+                 
+ 
+Social History:
+___
+Family History:
+Mother deceased age ___, chronic obstructive pulmonary disease.  
+Father deceased age ___, stroke.
+ 
+Physical Exam:
+ADMISSION EXAM: 
+==============
+VITALS: 98.0 128/62 ___ 18 ___ RA 
+GENERAL: Alert and in no apparent distress; staples 
+clean/dry/intact
+EYES: Anicteric, pupils equally round (cataracts bilaterally)
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally. Breathing is ___
+GI: Abdomen soft, ___ to palpation. Bowel 
+sounds present. 
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs; right wrist and digits 
+swollen but nontender to palpation
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented to self, face symmetric, gaze conjugate 
+with EOMI, speech fluent, moves all limbs, sensation to light 
+touch grossly intact throughout
+PSYCH: Pleasant, appropriate affect
+
+DISCHARGE EXAM: 
+==============
+VITALS: Afebrile, BP 131/75, HR ___, RR 18, 96% on room air
+GENERAL: Awake, alert and in no apparent distress, sitting 
+inchair, appears comfortable
+HEENT: Sclera anicteric.  Ears and nose without visible 
+erythema, masses, or trauma.  Oropharynx without visible lesion, 
+erythema or exudate. Moist mucus membranes.  Ecchymosis with 
+black scab on right temple.
+CV: Heart regular, no murmur, no S3, no S4. 2+ radial pulses 
+bilaterally.
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally.  Breathing is ___ on room air.
+GI: Abdomen soft, ___ to palpation.  Bowel 
+sounds present.  
+GU: No suprapubic fullness or tenderness to palpation, no Foley
+MSK: Moves all extremities, no peripheral edema
+SKIN: No rashes or ulcerations noted; skin tear on right forearm 
+covered with clean dressing; ecchymosis on dorsal left wrist
+NEURO: Alert, oriented to first name only, not to time or place; 
+face symmetric,
+speech fluent, follows simple commands
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+#ADMISSION/SIGNIFICANT LABS: 
+___ 08:30PM BLOOD ___ 
+___ Plt ___
+___ 08:30PM BLOOD ___ 
+___, ___ 07:06AM BLOOD ___
+============================
+#DISCHARGE LABS:
+___ 07:05AM BLOOD ___ 
+___ Plt ___
+___ 07:10AM BLOOD ___ 
+___
+___ 07:10AM BLOOD ___
+============================
+#MICRO: 
+___ 10:30 pm URINE
+   URINE CULTURE (Final ___: 
+      PRESUMPTIVE STREPTOCOCCUS BOVIS.    >100,000 CFU/mL. 
+___ 8:30 pm BLOOD CULTURE
+   Blood Culture, Routine (Pending):    No growth to date. 
+============================
+#IMAGING/OTHER STUDIES: 
+CT ___ without contrast (___): 
+1. No fracture or acute traumatic malalignment. 2. Severe 
+degenerative changes within the cervical spine, similar compared 
+to prior, as described above. Moderate to severe spinal canal 
+narrowing at ___. 3. 1.5 cm hypodense nodule within right lobe 
+of the thyroid. Thyroid ultrasound is recommended.
+
+___ CT head (___): 
+1. There is a hyperdense subdural hematoma abutting the right 
+tentorial leaflet measuring up to 2 mm. While this was not seen 
+on CT head ___, this is likely due to redistribution 
+from patient's other foci of intracranial hemorrhage. 2. Right 
+frontal subdural hematoma and left frontal subarachnoid hematoma 
+are decreased in size from ___. 
+
+CXR (___): 
+Focal opacity at the left lung base which could represent 
+pneumonia in the proper clinical setting. 
+
+Left wrist/hand ___ (___): 
+1. No acute fracture. 2. As seen on recent prior study, there 
+are severe degenerative changes as previously detailed. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with history of major 
+neurocognitive disorder, orthostatic hypotension, osteoporosis, 
+recent admission for fall complicated by subdural hematoma now 
+presenting with altered mental status. 
+
+# Encephalopathy 
+# Major cognitive decline: 
+Patient with history of significant cognitive decline likely due 
+to late onset Alzheimer disease. Per prior notes, AOx1 at 
+baseline. Cognitive decline complicated by impulsive behavior, 
+agitation at night. Patient presented with question of acute on 
+chronic encephalopathy as manifested by increased lethargy, new 
+behaviors (such as eating with hands and not utensils), as well 
+as no longer recognizing family members. Although difficult to 
+exclude progression of underlying advanced Alzheimer's, 
+particularly in setting of recent SDH, the acuity of the change 
+in addition to features of waxing/waning alertness is consistent 
+with a superimposed delirium. While patient does have a history 
+NSCE, patient without witnessed unresponsive episodes. NCHCT 
+this admission with evolving prior SDH and SAH but no acute 
+process. CXR with LLL opacity but patient without clinical 
+evidence of pneumonia. No fevers or leukocytosis, and no 
+apparent signs or symptoms of overt infection, however, in 
+setting of advanced dementia, eliciting symptoms was 
+challenging. She seemed back to baseline mental status (oriented 
+to person only) and energy level (accordingly to family 
+including granddaughter who is HCP) at discharge.  Her home 
+Tramadol was held during admission due to concern that it could 
+be causing drowsiness and not resumed on discharge.  She did not 
+appear to be in pain and plan was discussed with her healthcare 
+proxy to discuss the Tramadol further with PCP.
+
+#Urinary tract infection:
+Given her markedly positive UA, and possible endorsement of 
+urinary frequency, she was initiated on Ceftriaxone for 
+treatment of UTI. Urine Cx ultimately grew Strep Bovis and she 
+completed a five day course of Ceftriaxone on ___.  She had 
+no reported symptoms, but eliciting history was extremely 
+difficult due to her dementia, so it was difficult to follow 
+clinical response.  She remained afebrile without leukocytosis.
+
+# Recent fall with subdural hematoma: 
+___ this admission with evolution of hematoma, thought to be 
+due to redistribution of blood products. Overall SDH resorbing 
+and no evidence of mass efffect. She completed a 7 day course of 
+Keppra for seizure ppx. SDH thought to be unlikely cause of AMS 
+as noted interval improvement on CT scans. Some component of 
+increased lethargy may be due to side effect of keppra, which 
+she is now no longer taking as of ___. 
+
+# Wrist swelling: 
+Patient's left wrist and fingers were edematous. Neurovascularly 
+intact, motor function grossly intact (patient squeezes to 
+command). No apparent pain or tenderness. Per ACS note from 
+prior admission, patient had swelling of left third finger. No 
+evidence of cellulitis. No fracture on admission ___. 
+
+CHRONIC/STABLE PROBLEMS: 
+# Orthostatic hypotension: Encouraged oral hydration and she was 
+continued on home fludricortisone.  Home salt tabs were held and 
+recommended to discuss with her PCP on discharge.
+
+# Osteoporosis: 
+Patient is followed as outpatient by endocrinology. On Prolia 
+every 6 months. Continued home calcium and vitamin D. 
+
+# Subclinical Hypothyroidism: 
+# Thyroid nodules: 
+She was noted on prior imaging to have multinodular thyroid 
+gland for which thyroid ultrasound was recommended for further 
+evaluation, however, given patient's age and cognitive decline 
+this was not pursued. TSH within normal limits. 
+
+TRANSITIONAL ISSUES: 
+==================
+- Advised patient's HCP to discuss the salt tabs and Tramadol 
+with PCP
+- ___ was discharged home with home ___.  ___ had recommended 
+rehab, but her HCP (after long discussion) decided home with 
+services would be better.
+- Confirmed with her HCP (granddaughter) ___ that 
+the patient is DNR/DNI.  MOLST was completed.
+- Blood cultures from admission ___ were still not finalized 
+at discharge, but had no growth to date as of ___.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Acetaminophen 650 mg PO ASDIR 
+2. Fludrocortisone Acetate 0.1 mg PO DAILY 
+3. Lidocaine 5% Patch 1 PTCH TD QAM 
+4. Polyethylene Glycol 17 g PO DAILY 
+5. TraMADol 50 mg PO QID 
+6. TraZODone 50 mg PO QHS 
+7. Calcium 600 + D(3) (calcium ___ D3) 600 
+mg(1,500mg) -400 unit oral BID 
+8. cranberry extract ___ mg oral BID 
+9. diclofenac sodium 1 % topical QID:PRN pain 
+10. Sodium Chloride 1 gm PO ASDIR 
+11. vancomycin 125 mg oral ASDIR 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Calcium 600 + D(3) (calcium ___ D3) 600 
+mg(1,500mg) -400 unit oral BID  
+3.  cranberry extract ___ mg oral BID  
+4.  diclofenac sodium 1 % topical QID:PRN pain  
+5.  Fludrocortisone Acetate 0.1 mg PO DAILY  
+6.  Lidocaine 5% Patch 1 PTCH TD QAM  
+7.  Polyethylene Glycol 17 g PO DAILY  
+8.  TraZODone 50 mg PO QHS  
+9. HELD- Sodium Chloride 1 gm PO ASDIR  This medication was 
+held. Do not restart Sodium Chloride until discuss with your 
+primary doctor
+10. HELD- TraMADol 50 mg PO QID  This medication was held. Do 
+not restart TraMADol until discuss with your primary doctor
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+# Altered mental status
+# Urinary tract infection
+# Fall
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a privilege to care for you at the ___ 
+___. You were admitted for worsening lethargy and 
+confusion. After an extensive workup, the only possible etiology 
+determined to explain your symptoms is a urinary tract 
+infection. You were treated with antibiotics for 5 days and 
+seemed to have improvement in confusion and energy level.
+
+Please continue to take all medications as prescribed. We 
+recommend no longer taking the medication tramadol as this 
+medication can cause confusion and lethargy in some people. 
+
+You were also evaluated by physical therapy due to history of 
+falls and we are setting you up to have physical therapy in your 
+home.  You had wrist pain but fortunately an ___ showed there 
+was no fracture.
+
+We wish you the best!
+
+Sincerely, 
+Your ___ team 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11425766-DS-3 | hadm_id=22141338
+
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+cefepime
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Diarrhea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS:  
+___ hx of recent dx of UTI recently switched to levaquin on ___ 
+___s recent prolonged antibiotics of vanc/cefepime for 
+discitis ___ who p/w frequent episodes of watery 
+nonbloody stools, with diffuse abdominal pain; had intermittent 
+soft stools over the past week while taking another unknown 
+antibiotic but was noted to have elevated leukocytosis two days 
+ago so switched to levaquin, today developed abdominal pain, 
+diarrhea; denies fever , chills; + nausea no emesis; no urinary 
+symptoms;  
+In the ED, initial vitals were: 99.8 110 138/70 18 97% RA. Labs 
+were significant for WBC 25.6 (82%N) hgb 115, plts 264, Cr 1, 
+Gap 12. Imaging revealed Pancolitis although with some relative 
+sparing of the descending colon. Inflammatory change along the 
+bladder dome, possibly secondary to sigmoid colitis; however 
+correlation is suggested with urinalysis. The patient was given 
+500mg IV flagyl x2, 1L NS, 100mg IVTylenol, ___ PO Vanc,  
+Vitals prior to transfer were: 98.3 91 124/69 18 99% RA  
+REVIEW OF SYSTEMS:  
+(+) chills, Diarrhea, abd pain  
+(-) cough, CP, SOB, Fvers  
+
+ 
+Past Medical History:
+  
+PAST MEDICAL & SURGICAL HISTORY: (per OMR, unable to verify with 
+patient)  
+- Cefepime Toxicity requiring Dialysis  
+- Non-convulsive status epilepticus  
+- Anemia  
+- Osteomyelitis  
+- Hypertension  
+- Subdural hematoma s/p burrhole in ___  
+- osteoarthritis  
+- shingles infection in ___  
+
+ 
+Social History:
+___
+Family History:
+ Son passed away due to "choking episode" per ___. ___ 
+records 
+ 
+Physical Exam:
+Admission Physical Exam
+Vitals: 98.1 107 133/59 98% RA  
+General:Frail appearing appears uncomfortable AAOx name, ___ 
+\  
+___: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: Supple, JVP not elevated, no LAD  
+CV: tachycardic, regular  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+
+Discharge Physical Exam
+Vitals: T:97.5 BP:120/69 P:83 R:18 O2:98% RA
+General: Alert, oriented, ___ 
+___: Sclera anicteric, MMM, oropharynx clear, neck supple   
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, minimially tender to palpation RLQ and LLQ > RUQ 
+and LQU. Non-distended, bowel sounds present, no rebound 
+tenderness or guarding, no organomegaly  
+Ext: Frail, cool lower extremities with 1+ pulses, warm upper 
+extremity with 2+ pulses, no clubbing, cyanosis or edema  
+Skin: variety of lentiginous markings
+Neuro: AOx2, strength not assessed, general sensation in tact
+
+ 
+Pertinent Results:
+<<<Admission Labs
+
+___ 04:34PM   WBC-25.6* RBC-3.61* HGB-11.5 HCT-34.9 MCV-97 
+MCH-31.9 MCHC-33.0 RDW-13.6 RDWSD-48.4*
+___ 04:34PM   NEUTS-82* BANDS-2 LYMPHS-8* MONOS-6 EOS-2 
+BASOS-0 ___ MYELOS-0 AbsNeut-21.50* AbsLymp-2.05 
+AbsMono-1.54* AbsEos-0.51 AbsBaso-0.00*
+___ 04:34PM   GLUCOSE-106* UREA N-22* CREAT-1.0 SODIUM-133 
+POTASSIUM-4.1 CHLORIDE-104 TOTAL CO2-17* ANION GAP-16
+___ 04:46PM   LACTATE-1.2
+___ 08:35PM URINE  RBC-1 WBC-80* BACTERIA-FEW YEAST-NONE 
+EPI-3
+___ 10:00 am C. difficile DNA amplification assay (Final 
+___: CLOSTRIDIUM DIFFICILE. Positive for toxigenic C. 
+difficile by the Illumigene DNA amplification.(Reference 
+Range-Negative). 
+
+<<<Other Labs
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+   OVA + PARASITES (Final ___: 
+      NO OVA AND PARASITES SEEN. 
+      This test does not reliably detect Cryptosporidium, 
+Cyclospora or
+      Microsporidium. While most cases of Giardia are detected 
+by routine
+      O+P, the Giardia antigen test may enhance detection when 
+organisms
+      are rare. 
+
+   FECAL CULTURE - R/O VIBRIO (Final ___:    NO VIBRIO 
+FOUND. 
+
+   FECAL CULTURE - R/O YERSINIA (Final ___:    NO YERSINIA 
+FOUND. 
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: 
+      NO E.COLI 0157:H7 FOUND. 
+
+   Cryptosporidium/Giardia (DFA) (Final ___: 
+      NO CRYPTOSPORIDIUM OR GIARDIA SEEN. 
+
+<<<Discharge Labs
+___ 04:40AM BLOOD WBC-9.9 RBC-3.32* Hgb-10.6* Hct-31.6* 
+MCV-95 MCH-31.9 MCHC-33.5 RDW-13.9 RDWSD-47.9* Plt ___
+___ 04:40AM BLOOD Glucose-79 UreaN-12 Creat-0.8 Na-136 
+K-4.3 Cl-104 HCO3-22 AnGap-14
+___ 04:40AM BLOOD Calcium-8.6 Phos-3.6 Mg-2.0
+
+<<<Imaging 
+CT A/P ___. Pancolitis although with some relative sparing of the 
+descending colon. Differential considerations are infectious 
+versus inflammatory.  
+2. Inflammatory change along the bladder dome, possibly 
+secondary to sigmoid colitis; however correlation is suggested 
+with urinalysis.  
+3. Moderate inferior endplated L3 compression fracture with 
+visible lucency, either recent on-set or perhaps older fracture 
+with poor healing response
+
+ 
+Brief Hospital Course:
+___ hx of recent dx of UTI recently switched to levaquin on ___ 
+___s recent prolonged antibiotics of vanc/cefepime for 
+discitis ___ who p/w frequent episodes of watery 
+nonbloody stools, with diffuse abdominal pain; C. diff positive.
+
+Active Issues
+# Severe C. difficle colitis: met criteria for severe based on 
+WBC count. Stool C. diff PCR positive; other bacterial studies 
+negative. Abdominal exam remained benign and non-surgical. 
+Treated with IV metronidazole and PO vancomycin while in house 
+and leukocytosis downtrended. On discharge, WBC 9. Discharged 
+with PO vancomycin monotherapy to continue for 14 day course 
+(___). 
+
+# Leukocytosis: secondary to C. difficle infection. Treatment as 
+above. 
+
+Chronic Issues
+# Anemia: Hgb remained stable while in house at baseline ___. 
+Receives outpatient transfusions, last received 2 u pRBC on 
+___, prior ot admission. Attributed to chronic disease vs. 
+anemia of CKD. Guaiacs negative while in house. 
+
+# Osteoarthritis: tramadol for pain. 
+
+*** Transitional Issues ***
+- ANTIBIOTICS: will need to continue oral vancomycin for a total 
+of 14 days until and including ___
+- ANEMIA: to follow up with PCP and hematology for transfusions 
+PRN 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Docusate Sodium 100 mg PO BID 
+2. Polyethylene Glycol 17 g PO DAILY 
+3. Senna 8.6 mg PO BID:PRN Constipation 
+4. Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain 
+5. Bisacodyl ___AILY:PRN Constipation 
+6. Lidocaine 5% Patch 1 PTCH TD QAM 
+7. Ascorbic Acid ___ mg PO BID 
+8. ___ 500 mg (cranberry fruit concentrate) 500 mg oral BID 
+
+9. Vitamin D 1000 UNIT PO BID 
+10. TraMADOL (Ultram) 50 mg PO TID 
+
+ 
+Discharge Medications:
+1. Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain 
+2. Lidocaine 5% Patch 1 PTCH TD QAM 
+3. TraMADOL (Ultram) 50 mg PO TID 
+RX *tramadol 50 mg 1 tablet(s) by mouth three times a day Disp 
+#*30 Tablet Refills:*0
+4. Miconazole 2% Cream 1 Appl TP BID 
+5. Vancomycin Oral Liquid ___ mg PO Q6H 
+Continue taking this medication until & including ___  
+6. Ascorbic Acid ___ mg PO BID 
+7. Bisacodyl ___AILY:PRN Constipation 
+8. ___ 500 mg (cranberry fruit concentrate) 500 mg oral BID 
+
+9. Docusate Sodium 100 mg PO BID 
+10. Polyethylene Glycol 17 g PO DAILY 
+11. Senna 8.6 mg PO BID:PRN Constipation 
+12. Vitamin D 1000 UNIT PO BID 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnoses: severe C. diff Colitis
+Secondary diagnoses: HTN, anemia, Osteoarthritis 
+ 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___, 
+
+It was a pleasure taking care of you at ___. Briefly, you were 
+hospitalized due to a bacterial infection in your GI track 
+called Clostridium difficile (C. diff) that caused you to have 
+diarrhea. You were treated with 2 different antibiotics 
+(Vancomycin and Metronidazole) and given fluids through your IV 
+to help you from becoming dehydrated. 
+
+Please continue to take your antibiotics as instructed upon 
+leaving the hospital. 
+
+Best, 
+Your ___ Treatment Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11425766-DS-5 | hadm_id=25080812
+
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ___
+ 
+Allergies: 
+cefepime / Advil / antibiotics - due to C. diff -Must use oral 
+vancomycin with ALL ABX
+ 
+Attending: ___.
+ 
+Chief Complaint:
+bright red bleeding per rectum x1
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ with PMHx significant for moderate to severe osteoarthritis 
+and recurrent severe c diff colitis presenting with 1 episode of 
+painless hematochezia from home.
+ Pt is with her family friend ___ at bedside. States that this 
+morning in her home in ___ she was getting help from 
+family friend assisting with toileting when they noticed a 
+"coffee mug" sized volume of thickened bright red blood pass. 
+She noted that prior to this episode she had been in her usual 
+state of health and no illness or sick contacts. She had some 
+urgency prior to passing this volume of blood w/o stool. 
+ This is the first time this had happened. She does endorse some 
+mild chronic LLQ intermittent pain that is dull and nonspecific. 
+She is not on anticoagulation and takes no ASA or nsaid. She 
+denies any abdominal pain with BM and this particular episode. 
+Of note she states that 3 weeks ago she was in her yard and cut 
+her hand on her iron fence. She was admitted to the ED and 
+received stiches to the palm of her right hand and a 5 day 
+course of cephalexin. 
+  She denies any changes in her bowel movements, but endorses 
+intermittent constipation which responds to prn PR suppository.
+  Denies chest pain, sob, palpitations, nausea, vomiting, fever, 
+chills, light headedness, dizziness or syncope. Denies increase 
+in urinary frequency, dysuria or foul odor.  States her last 
+colonoscopy was many years ago. No personal cancer history or 
+abnormal colonoscopies. Endorses some diminished appetite x3-4 
+months.
+
+ 
+Past Medical History:
+  
+PAST MEDICAL & SURGICAL HISTORY: (per OMR, unable to verify with 
+patient)  
+- Cefepime Toxicity requiring Dialysis  
+- Non-convulsive status epilepticus  
+- Anemia  
+- Osteomyelitis  
+- Hypertension  
+- Subdural hematoma s/p burrhole in ___  
+- osteoarthritis  
+- shingles infection in ___  
+
+ 
+Social History:
+___
+Family History:
+ Son passed away due to "choking episode" per ___ 
+records 
+ 
+Physical Exam:
+ADMISSION EXAM: 
+
+ Vitals- 97.7 90 105/58 18 96% RA 
+ General:  AOx3 NAD. very pleasant
+ HEENT:  EMOI, PERRLA. conjunctiva non injected w/o pallor. MMM. 
+
+ Neck: supple NT. Normal ROM. No carotid bruit
+ CV: RRR no MGR
+ Lungs:  CTA B/L w/o moderate chest wall excursion. ?minimal 
+dependent rales b/l
+ Abdomen: +BS, infrequent. Non distended. Possible minimal LLQ 
+tenderness. 
+ GU:  no foley
+ Ext:  thin, some ___ ecchymoses. Healing right palm 
+laceration-w/o e/o cellulitis or infection. Pulses radial and dp 
+2+ b/l
+ Neuro:  CN II-XII intact
+ Skin:  as above
+
+DISCHARGE EXAM: 
+
+ Vitals- 97.7 90 105/58 18 96% RA 
+ General:  AOx3 NAD. very pleasant
+ HEENT:  EMOI, PERRLA. conjunctiva non injected w/o pallor. MMM. 
+
+ Neck: supple NT. Normal ROM. No carotid bruit
+ CV: RRR no MGR
+ Lungs:  CTA B/L w/o moderate chest wall excursion. ?minimal 
+dependent rales b/l
+ Abdomen: +BS, infrequent. Non distended. Possible minimal LLQ 
+tenderness. 
+ GU:  no foley
+ Ext:  thin, some ___ ecchymoses. Healing right palm 
+laceration-w/o e/o cellulitis or infection. Pulses radial and dp 
+2+ b/l
+ Neuro:  CN II-XII intact
+ Skin:  as above
+ 
+Pertinent Results:
+ADMISSION LABS: 
+
+___ 02:59PM   LACTATE-1.1
+___ 12:20PM URINE  HOURS-RANDOM
+___ 12:20PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 12:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-MOD
+___ 12:20PM URINE  RBC-<1 WBC-25* BACTERIA-FEW YEAST-NONE 
+EPI-<1
+___ 11:17AM   GLUCOSE-79 UREA N-17 CREAT-0.9 SODIUM-137 
+POTASSIUM-4.6 CHLORIDE-104 TOTAL CO2-23 ANION GAP-15
+___ 11:17AM   estGFR-Using this
+___ 11:17AM   estGFR-Using this
+___ 11:17AM   WBC-10.1* RBC-2.96* HGB-9.9* HCT-30.7* 
+MCV-104* MCH-33.4* MCHC-32.2 RDW-11.9 RDWSD-45.0
+___ 11:17AM   NEUTS-69.1 LYMPHS-17.3* MONOS-10.0 EOS-2.1 
+BASOS-1.0 IM ___ AbsNeut-6.97*# AbsLymp-1.75 AbsMono-1.01* 
+AbsEos-0.21 AbsBaso-0.10*
+___ 11:17AM   PLT COUNT-236
+___ 11:17AM   ___ PTT-30.2 ___
+___ 11:00AM   GLUCOSE-73 UREA N-17 CREAT-0.9 SODIUM-134 
+POTASSIUM-4.4 CHLORIDE-103 TOTAL CO2-18* ANION GAP-17
+
+PERTINENT STUDIES: 
+
+___ ABD & PELVIS WITH CO
+IMPRESSION:
+1. Colitis of the descending and sigmoid colon, which is likely 
+infectious or
+inflammatory, ischemic colitis is included in the differential 
+diagnosis.  No
+evidence of free air or free fluid in the abdomen or pelvis.
+2. Mild diverticulosis of the sigmoid colon without evidence of
+diverticulitis.
+3. Moderate inferior endplate compression fracture of L3 is 
+minimally
+increased from ___.  No additional or new fractures are 
+identified.
+
+BLOOD CULTURES NO GROWTH TO DATE
+
+DISCHARGE LABS: 
+
+___ 07:45AM BLOOD WBC-9.1 RBC-3.18* Hgb-10.3* Hct-32.7* 
+MCV-103* MCH-32.4* MCHC-31.5* RDW-11.9 RDWSD-45.0 Plt ___
+ 
+Brief Hospital Course:
+  Ms. ___ is ___ yo female w/pmhx s/f moderate-severe 
+OA and recurrent c diff colitis (last ___ req. ICU) who 
+presented from home with single episode of hematochezia in AM, 
+HD stable, likely ___ diverticular bleed with need for 
+infectious rule out and monitoring of h/h.
+
+#GIB
+Most likely lower diverticular bleed or internal hemorrhoid. 
+Given CT findings oof diverticulosis w/o evidence of 
+diverticulitis was most likely. Pt w/o hx of inflammatory bowel 
+disease or colon cancer, though has not had colonoscopy in many 
+years. These are less likely given associated urgency and 
+abruptness of symptoms w/o any other constitutional symptoms. 
+Rapid UGIB less likely pt without hx of peptic/duodenal ulcer 
+and no sx of Epigastric discomfort. No excess nsaid or ASA use 
+and h/h trend on admission stable and improved w/o intervention.
+While patient has had no infectious symptoms, recent sick 
+contacts, or antibiotics, given nonspecific findings of colitis 
+in setting hematochezia and her history of severe c diff c/b 
+septic shock it is important to consider infectious causes, 
+however suspicion is very low at this time. Patient w/history of 
+c diff colitis following short course of cipro exposure. Given 
+x1 in ED which we immediately discontinued once on the floor. 
+Ms. ___ remained afebrile and without abdominal 
+complaints throughout her admission. There is some mild LLQ 
+chronic abdominal pain which is intermittent which may be 
+followed up as transitional issue w/r/t colonoscopy as 
+outpatient.
+
+#Asymptomatic Bacturia
+Patient AOx3 w/o hx of increased frequency, urgency or dysuria. 
+Prior admissions w/UCx growing yeast w/o specific bacterial 
+speciation. Did not give abx as no alteration in mental status, 
+functional capacity prior to admission or symptoms prior to or 
+during admission. Would follow up urine culture as outpatient. 
+
+#CHRONIC ISSUES:
+
+#Anemia
+Cont. Ascorbic Acid ___ mg PO BID 
+
+#Osteoarthritis 
+Cont. Lidocaine 5% Patch 1 PTCH TD QAM 
+Cont. TraMADOL (Ultram) 50 mg PO TID 
+Cont. Vitamin D 1000 UNIT PO BID 
+Cont. Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain 
+
+#Constipation
+Cont. Senna 8.6 mg PO BID:PRN Constipation 
+Cont. Bisacodyl ___AILY:PRN Constipation 
+
+#Diminished Appetite:
+Cont. Mirtazapine 7.5 mg PO QHS
+
+#Recurrent ___
+Cont. Miconazole 2% Cream 1 Appl TP BID to affected areas 
+
+#Other OTC Supplements: 
+- Cont. Non formulary ___ 500 mg (cranberry fruit 
+concentrate) oral BID 
+
+*****TRANSITION ISSUES*****
+# Code Status: FULL (confirmed)
+# Emergency Contact/HCP: Granddaughter: ___ ___
+# F/up with Dr. ___
+# Obtain outpatient laboratory work to monitor anemia on 
+___
+# Follow up urine culture.
+# Consider checking a Guaiac or C.Diff or stool cultures if has 
+more symptoms in the outpatient
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain 
+2. Ascorbic Acid ___ mg PO BID 
+3. Lidocaine 5% Patch 1 PTCH TD QAM 
+4. TraMADOL (Ultram) 50 mg PO QID 
+5. Vitamin D 1000 UNIT PO BID 
+6. Bisacodyl ___AILY:PRN Constipation 
+7. ___ 500 mg (cranberry fruit concentrate) 500 mg oral BID 
+
+8. Miconazole 2% Cream 1 Appl TP BID 
+9. Senna 8.6 mg PO BID:PRN Constipation 
+10. Mirtazapine 7.5 mg PO QHS 
+11. Duloxetine 20 mg PO DAILY 
+12. diclofenac sodium 1 % topical QID: PRN pain 
+
+ 
+Discharge Medications:
+1. Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain 
+2. Ascorbic Acid ___ mg PO BID 
+3. Bisacodyl ___AILY:PRN Constipation 
+4. Lidocaine 5% Patch 1 PTCH TD QAM 
+5. Miconazole 2% Cream 1 Appl TP BID 
+6. Mirtazapine 7.5 mg PO QHS 
+7. Senna 8.6 mg PO BID:PRN Constipation 
+8. TraMADOL (Ultram) 50 mg PO TID 
+9. Vitamin D 1000 UNIT PO BID 
+10. ___ 500 mg (cranberry fruit concentrate) 500 mg oral 
+BID 
+11. Outpatient Lab Work
+D64.9 Anemia  CBC, Chem 7 on ___
+Send to ___
+Fax: ___ 
+12. diclofenac sodium 1 % TOPICAL QID: PRN pain 
+13. Duloxetine 20 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Diverticular Bleeding
+
+Secondary: Osteoarthritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Ms. ___, 
+
+  You were admitted to the ___ 
+following a single episode of bright red bleeding per rectum. 
+Following an assessment in the emergency department we felt that 
+it would be best to observe you overnight to monitor for any 
+subsequent episodes of bleeding and your blood pressure. 
+  You had no further episodes of bleeding on this admission and 
+you remained stable throughout your admission. You exams and 
+laboratory results were very reassuring. 
+  With respect to the source of your bleeding, imaging revealed 
+"diverticulosis" with some non specific inflammation. As we 
+discussed bleeding is very common and often self limited with 
+diverticulosis. It will be very important for you to follow up 
+with your family physician, ___ ___ days to recheck 
+your blood work. 
+
+We are giving you a script to check your lab work on ___
+
+Please call your doctor if you have any more bleeding.
+
+  Ce fut un plaisir de prendre part à ___, Mme 
+___ année!
+
+Best, 
+
+Your ___ Deaconess ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11425766-DS-4 | hadm_id=25767268
+
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+cefepime / Advil
+ 
+Attending: ___
+ 
+Chief Complaint:
+fever and diarrhea
+
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ who recentlly returned home from rehab following her 
+hospitalization on ___ for c. diff colitis presents with fever 
+of 102. 5 days ago (2 days before discharge from rehab), the 
+patient was noted to be acting strangly, (calling her 
+granddaughter late at night, asking about traveling to ___ 
+and was found to have a UTI for which she was given 3 days of 
+ciprofloxacin. Last evening, the patient became incontinent of 
+urine and stool and fell down while trying to get out of bed. 
+The stool was noted to be diarrhea and nonbloody. She denies 
+hitting her head or LOC. 
+
+[+]nausea [-]vomitting [-]CP,SOB, cough or abd pain
+
+In the ED, VS: 98 98 107/41 16 99% RA 
+Notable labs: WBC 27 Cr 1.0 Lactate 3.0
+Imaging: NCHCT- no acute process
+CT Abd
+CT Chest
+Given 3L NS, vanc, zosyn, flagyl and APAP 1g
+
+On arrival to the FICU, she was afebrile, tach 110s, SBPs ___ 
+and satting 99 on RA. She was given 1L LR.
+
+ 
+Past Medical History:
+  
+PAST MEDICAL & SURGICAL HISTORY: (per OMR, unable to verify with 
+patient)  
+- Cefepime Toxicity requiring Dialysis  
+- Non-convulsive status epilepticus  
+- Anemia  
+- Osteomyelitis  
+- Hypertension  
+- Subdural hematoma s/p burrhole in ___  
+- osteoarthritis  
+- shingles infection in ___  
+
+ 
+Social History:
+___
+Family History:
+ Son passed away due to "choking episode" per ___ 
+records 
+ 
+Physical Exam:
+==================
+ADMISSION PHYSICAL
+==================
+Vitals: T: BP:94/41 P: 98 R: 16 O2: 94 ra  
+GENERAL: NAD
+HEENT: dry mucous membranes
+LUNGS: No increased WOB, clear anteriorly, no crackles. Crackles 
+R base. 
+CV: regular. Tachycardic. No murmurs
+ABD:  soft, NTND +BS
+EXT: No edema. Small abraison R knee
+
+============================
+PHYSICAL UPON ICU DISCHARGE
+============================
+Vitals: T: 98.1 BP: 136/74 HR: 92 R: 19 O2: 99 RA
+Gen: slightly confused, NAD
+___: regular
+Lungs: crackles R>L
+Abd: NTND
+Ext: no edema
+
+ 
+Pertinent Results:
+=============
+ADMISION LABS
+=============
+___ 10:05AM BLOOD WBC-27.1*# RBC-3.54* Hgb-11.5 Hct-38.0 
+MCV-107* MCH-32.5* MCHC-30.3* RDW-14.3 RDWSD-56.4* Plt ___
+___ 10:05AM BLOOD Neuts-92* Bands-0 Lymphs-4* Monos-4* 
+Eos-0 Baso-0 ___ Myelos-0 AbsNeut-24.93* 
+AbsLymp-1.08* AbsMono-1.08* AbsEos-0.00* AbsBaso-0.00*
+___ 10:05AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+ 
+Macrocy-2+ Microcy-NORMAL Polychr-NORMAL Ovalocy-1+ Tear Dr-1+
+___ 10:05AM BLOOD Glucose-104* UreaN-25* Creat-1.1 Na-129* 
+K-6.0* Cl-101 HCO3-12.0* AnGap-22*
+___ 12:44PM BLOOD Lactate-3.0* K-4.2
+
+==============
+PERTINENT LABS
+==============
+___ 12:44PM BLOOD Lactate-3.0* K-4.2
+___ 06:31AM BLOOD Lactate-1.1
+___ 06:15AM BLOOD Hapto-175
+___ 06:15AM BLOOD LD(LDH)-141 TotBili-0.1
+___ 10:05AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+ 
+Macrocy-2+ Microcy-NORMAL Polychr-NORMAL Ovalocy-1+ Tear Dr-1+
+==============
+MICROBIOLOGY
+==============
+___ 10:30 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile DNA amplification assay (Final ___: 
+      Reported to and read back by ___ ___ 9:40AM. 
+      CLOSTRIDIUM DIFFICILE. 
+         Positive for toxigenic C. difficile by the Illumigene 
+DNA
+         amplification.            (Reference Range-Negative). 
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+___ 10:30 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      YEAST.    <10,000 organisms/ml. 
+
+==============
+STUDIES
+==============
+___ NCHCT
+IMPRESSION:  
+  
+No acute intracranial process. 
+
+___ CT C-SPINE
+IMPRESSION: 
+   
+1. No acute fracture. 
+2. Severe cervical spondylosis with multilevel subluxation and 
+moderate to severe spinal canal narrowing, worst at C5-6.  The 
+latter finding predisposes the patient to spinal cord injury 
+with minor trauma. 
+
+___ CT CHEST/ABD/PELVIS
+IMPRESSION: 
+   
+1. No acute sequelae of trauma. 
+2. Mild pneumobilia was not seen on prior CT.  Correlate with 
+any history of prior sphincterotomy. 
+3. Proctocolitis, likely of infectious or inflammatory cause, 
+involving the entire colon rectum is not substantially changed.  
+No megacolon or focal fluid collections. 
+4. Subacute compression/burst fracture of L3 with retropulsion 
+of a small bony fragment is unchanged from prior CT. 
+
+ 
+
+ 
+Brief Hospital Course:
+___ presented to the ED with fever of 102 after recent d/c from 
+rehab after previous hosptialization for c. diff colitis s/p 3 
+days of cipro for UTI, who presented with severe sepsis and 
+shock now with hypotention and lactic acidosis.
+
+#Severe Complicated C. diff collitis and Septic shock: Patient 
+was febrile, hypotensive with leukocytosis, diarrhea and lactate 
+of 3.0 upon presentation in setting of previous history of c. 
+diff s/p 3 days of ciprofloxacin for UTI. In the ED she was 
+given IV vanc, zosyn and flagyl. On the floor she was switched 
+to flagyl IV, vancomycin PO and ceftriaxone (to treat a ?UTI). 
+C. Diff PCR was positive and urine culture were negative. Blood 
+cultures were NGTD. Her fever, leukocytosis, lactate and 
+hypotension all improved with fluid boluses of LR and 
+antibiotics and the patient did not require any pressors. Flagyl 
+was stopped on ___. Given first recurrence of severe c diff, is 
+to complete a 14d course of antibiotics to complete ___.
+
+#Altered Mental Status: Upon admission, the patient was slightly 
+confused, however oriented x3. The evening of ___ the patient 
+was given seroquel for insomnia and became agitated. During the 
+afternoon on ___, the patient became very agitated, demanding 
+that she be let outside. She was given haldol 2.5 IV x2. With 
+resolution of above metabolic abnormalities, this returned to 
+baseline. She has resumed her home low dose qhs mirtazapine on 
+discharge. 
+
+#Acute Kidney Injury: Although Cr was 1.0 on presentation, given 
+patient's age and weight her calculated GFR was 27. Secondary to 
+pre-renal azotemia given diarrhea as above. Cr improved with 
+IVF. Discharge cr 0.6. 
+
+#Hyponatremia: Hypovolemic hyponatremia from diarrhea. Improved 
+with administration of NS. Discharge Na 136.
+
+#Fall: No LOC, no head trauma. NCHCT negative. Occured with 
+change in position. Pre-syncope from hypovolemia.
+
+# chronic anemia: presented initially with hemoconcentration, 
+but with fluids hct returned to baseline (___) and remained 
+stable thereafter (discharge hct 27.7). Previous w/u has 
+included iron studies, B12, folate, which has been potentially 
+c/w anemia of chronic disease versus CKD-related. Consideration 
+can be made for checking an epo level as an outpatient. 
+
+# incidental findings: 
+# baseline severe spinal stenosis: known to have severe lumbar 
+spinal stenosis, and had been considering injections for pain as 
+an outpatient. Imaging here demonstrated severe spinal stenosis 
+(which could put her at risk for spinal injury with trauma) in 
+cervical area here, but asymptomatic from that perspective. 
+Consideration can be made as an outpatient to consider further 
+workup and management, though given age and co-morbidity and 
+goals of care, surgical intervention seems unlikely to be 
+beneficial. 
+
+# compression fx v burst fx on vertebral imaging: on home 
+vitamin D with recent level wnl, Ca wnl. Has already been 
+ordered for outpatient BMD imaging by PCP. Can consider 
+bisphosphonate pending results as an outpatient. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen (Liquid) 1000 mg PO Q8H:PRN Pain 
+2. Lidocaine 5% Patch 1 PTCH TD QAM 
+3. TraMADOL (Ultram) 75 mg PO TID 
+4. Ascorbic Acid ___ mg PO BID 
+5. Bisacodyl ___AILY:PRN Constipation 
+6. ___ 500 mg (cranberry fruit concentrate) 500 mg oral BID 
+
+7. Docusate Sodium 100 mg PO BID:PRN constipation 
+8. Vitamin D 1000 UNIT PO BID 
+9. Mirtazapine 7.5 mg PO QHS 
+
+ 
+Discharge Medications:
+1. Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain 
+2. Ascorbic Acid ___ mg PO BID 
+3. Lidocaine 5% Patch 1 PTCH TD QAM 
+4. TraMADOL (Ultram) 50 mg PO TID 
+5. Vitamin D 1000 UNIT PO BID 
+6. Vancomycin Oral Liquid ___ mg PO Q6H 
+Please take this for the last dose ___. Bisacodyl ___AILY:PRN Constipation 
+8. ___ 500 mg (cranberry fruit concentrate) 500 mg oral BID 
+
+9. Miconazole 2% Cream 1 Appl TP BID 
+10. Senna 8.6 mg PO BID:PRN Constipation 
+11. Mirtazapine 7.5 mg PO QHS 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Severe Complicated C. Diff collitis
+Septic Shock
+
+Secondary Diagnosis:
+Altered Mental Status
+ 
+Discharge Condition:
+A&Ox3, pleasant
+ambulatory with assistance
+
+ 
+Discharge Instructions:
+Dear ___ was a pleasure caring for you. You were admitted with a 
+severe recurrence of your colon infection/diarrhea from 
+clostridium difficile. This also caused a severe reaction and 
+low blood pressures. Thankfully, you got better with aggressive 
+fluids and antibiotics. Please complete the course of 
+antibiotics, which will complete ___.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11425766-DS-2 | hadm_id=26374071
+
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+AMS
+ 
+Major Surgical or Invasive Procedure:
+ICU stay, 
+Hemodialysis with RIJ HD line placement
+
+ 
+History of Present Illness:
+___ yo F PMHx L3/4 discitis on vancomycin/cefepie presents from 
+rehab with altered mental status, found to have cefepime 
+toxicity secondary to ___ complicated by nonconvulsive status 
+epilepticus.  
+Ms. ___ was initially admitted to ___ 
+___ on ___ with right hip pain. A lumbar spine 
+MRI demonstrated severe degenerative joint disease and discitis 
+at the level of L3-L4. Patient underwent CT guided biopsy, 
+however cultures did not grow an organism. ID was consulted, and 
+she was started on Vancomycin and Cefepime with plans for a 
+course ending ___.  
+Patient was discharged to rehab ___, was put on standing 
+ibuprofen, and was transferred to Epoch ___ as the family felt 
+she was not progressing in therapy and they were also concerned 
+that patient had developed mild confusion.  
+At Epoch, she was evaluated by the ___ MD ___ who noted that 
+she was very mildly confused but animated and alert. Per 
+records, patient had become increasingly confused over the past 
+two days. Her Cr was noted to have increased to 2.9 on ___ with 
+BUN of 45 from 0.9 the week prior. A foley was placed due to 
+concern for retention and 600cc of urine were removed. Despite 
+this, patient continued to have poor urine output and developed 
+worsening confusion, twitching, myoclonus, and weakness. There 
+was concern for cefepime toxicity, and her cefepime was dose 
+reduced to 1gm q12h on ___. Vancomycin was held on ___ due to 
+worsening renal function. Of note, Vanc trough ___ was 18 and 
+20.6 on ___. Over the past two days, she has also developed a 
+new oxygen requirement. Given progressive lethargy and decline 
+in mental status, she was referred to the ED.  
+In the ED, initial vitals were: 97.8 92 119/73 18 95% 3L. Labs 
+were significant for BUN/Cr 49/3.0, anion gap of 15, albumin 
+2.8, H/H 9.8/27.9 stable from 9.1/27.5 on ___, normal liver 
+chemistries. Imaging revealed no acute intracranial process and 
+left pleural effusion + atelectasis. The patient was given 1g 
+vancomycin (vancomycin level 32), 1L NS and 500 mg azithromycin 
+for pneumonia. She was noted to be minimally responsive, only 
+withdrawing to painful stimuli in the ED, which was a 
+progressive change from earlier in the evening. Vitals prior to 
+transfer were HR 93, 113/71, 18 95% 3L.  
+Upon arrival to the ___, she only withdrew to light shined in 
+her eye and moans to painful stimuli. Family shared that her 
+decline has been progressive from their perspective over the 
+past two weeks. Two weeks ago she had a brief trip away from 
+rehab, which was a rough time, during which she was shaking and 
+spilling her cup as well as acting confused. Since then, there 
+have been good and bad days. On ___ they noted that she had been 
+having trouble holding her fork, dropping things. On ___, the 
+patient was speaking in gibberish and was twitching. She told 
+her family that she was quite thirsty on ___. Patient had RASS 
+-4 on Medicine floor. She had a 20 minute EEG with page to 
+Medicine resident at 17:00 with read concerning for status 
+epilepticus. In discussion with floor team, Neurology, and 
+Nephrology, patient’s code status was reversed from DNR/DNI with 
+hope to avoid dialysis to DNR and okay to intubate and perform 
+HD with hope that her mental status could improve with HD/AEDs 
+to reverse status epilepticus and cefepime toxicity.  
+
+ 
+Past Medical History:
+ Subdural hematoma s/p burrhole in ___ in setting of fall off 
+bike onto railroad tracks  
+- Hypertension  
+- Osteoarthritis  
+- Zoster infection in ___  
+
+ 
+Social History:
+___
+Family History:
+ Son passed away due to "choking episode" per ___. ___ 
+records 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+==============================
+Vitals: 97.6 117/87 91 14 95% 3L
+General: obtunded, withdraws to light in her eyes and painful 
+stimuli
+HEENT: Sclera anicteric, MM dry, Pupils are ~3-4 mm and reactive 
+equally
+Neck: Supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2
+Lungs: decreased air entry at left base, mild ronchi vs rales at 
+left base
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding
+GU: foley
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+Neuro: 4 beats of clonus in ankles, low frequency twitching in 
+arms when extended at elbow, unable to appreciate hyperreflexia, 
+occasional myoclonic jerks but only after moving a limb
+
+DISCHARGE PHYSICAL EXAM:
+==============================
+Vitals: 97.8 129/61 79 16 100 on 4L 99RA.
+IO: inc
+Geneeral: Pleasant, cooperative, speaks fluently in ___ and 
+___, Follows simple commands.
+HEENT: Sclera anicteric, MMM, Pupils reactive b/l
+Neck: Supple, JVP not elevated, RIJ bandaged, HD line removed. 
+CV: Regular rate and rhythm, normal S1 + S2, no m/r/g
+Lungs: No tachypnea, bibasilar rales
+Abdomen: Soft, non-tender, non-distended, no organomegaly, no 
+rebound or guarding
+GU: foley
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+NEURO: MAE, no focal deficits. 
+
+ 
+Pertinent Results:
+ADMISSION LABS: 
+===========================
+___ 07:45PM BLOOD WBC-8.7 RBC-2.97* Hgb-9.8* Hct-27.9* 
+MCV-94 MCH-32.9* MCHC-35.0 RDW-12.3 Plt ___
+___ 07:45PM BLOOD Neuts-80.7* Lymphs-10.7* Monos-6.9 
+Eos-0.9 Baso-0.8
+___ 04:40AM BLOOD ___ PTT-36.5 ___
+___ 07:45PM BLOOD Glucose-142* UreaN-49* Creat-3.0* Na-136 
+K-3.8 Cl-104 HCO3-17* AnGap-19
+___ 07:45PM BLOOD ALT-16 AST-18 AlkPhos-84 TotBili-0.2
+___ 07:45PM BLOOD Albumin-2.8*
+___ 06:44AM BLOOD Calcium-8.7 Phos-4.8* Mg-1.8
+___ 06:44AM BLOOD cTropnT-0.05*
+___ 12:16AM BLOOD cTropnT-0.05*
+___ 04:40AM BLOOD CK-MB-3 cTropnT-0.05*
+___ 06:44AM BLOOD Vanco-32.5*
+___ 12:16AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 06:44AM BLOOD cTropnT-0.05*
+___ 12:16AM BLOOD cTropnT-0.05*
+___ 04:40AM BLOOD CK-MB-3 cTropnT-0.05*
+
+STUDIES
++ ___ ECHO: 
+The left atrium and right atrium are normal in cavity size. Left 
+ventricular wall thickness, cavity size and regional/global 
+systolic function are normal (biplane LVEF 66%). Tissue Doppler 
+imaging suggests an increased left ventricular filling pressure 
+(PCWP>18mmHg). Right ventricular chamber size and free wall 
+motion are normal. The diameters of aorta at the sinus, 
+ascending and arch levels are normal. The aortic valve leaflets 
+(3) appear structurally normal with good leaflet excursion and 
+no aortic stenosis or aortic regurgitation. The mitral valve 
+leaflets are mildly thickened. There is no mitral valve 
+prolapse. Trivial mitral regurgitation is seen. There is mild 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion.
+IMPRESSION: Normal biventricular cavity sizes with preserved 
+regional and global biventricular systolic function. Mild 
+pulmonary artery hypertension. Increased PCWP. No valvular 
+pathology or pathologic flow identified.
+
++ ___ Renal U/S:IMPRESSION:  
+Essentially normal renal ultrasound with bilateral simple cyst. 
+No evidence of hydronephrosis. 
+
++ CONTINUOUS EEG RECORDING: Began at 16:51 on the afternoon of ___ 
+___ and
+continued through 7:00 the following morning. From the 
+beginning, it showed
+very rhythmic generalized, frontally predominant sharp and slow 
+wave
+discharges recurring with a frequency of about 2.3 Hz. On video, 
+there were
+no clear signs of seizures such as focal motor jerking or 
+blinking, but there
+were independent reports of sporadic myoclonus. A diagnosis of 
+non-convulsive
+status epilepticus was made and communicated to the clinical 
+team. There was
+a marketed diminution in sharp wave discharges at about 19:45, 
+likely the
+result of medication administration. At that point, the 
+background was a
+slow, ___ Hz frequency in most areas with irregular and 
+infrequent bursts of
+generalized slowing or generalized sharp waves.
+Of note, one pushbutton activation at 19:45 for the 
+administration of 1
+mg of lorazepam; another at 19:55 reported the beginning of the 
+administration
+of 500 mg of phenytoin. In the last half hour of the recording, 
+the
+background frequency improved to about 6 Hz posteriorly. 
+Nevertheless,
+rhythmic sharp wave activity recurred at 6:50 following morning, 
+and a
+pushbutton activation at that point reported the administration 
+of 1 mg
+lorazepam. Within a minute, the sharp waves ceased.
+SPIKE DETECTION PROGRAMS: Showed the same high voltage sharp 
+wave discharges
+described above.
+SEIZURE DETECTION PROGRAMS: Showed some of the rhythmic sharp 
+waves described
+earlier.
+PUSHBUTTON ACTIVATIONS: There were six, three of which are 
+described above.
+Another at 21:33 was for the administration of medication. There 
+were no
+changes in the EEG at this time or for the rest of the 
+pushbutton activations
+until the final one at 6:50. At 23:22, there was concern about 
+posturing, but
+the EEG did not change at that time.
+SLEEP: No normal waking or sleep patterns were evident.
+CARDIAC MONITOR: Showed a generally regular rhythm.
+IMPRESSION: This telemetry captured six pushbutton activations, 
+as described
+above. The beginning of the record showed very rhythmic sharp, 
+high voltage
+epileptiform discharges strongly suggestive of non-convulsive 
+status
+epilepticus. This responded quickly to low doses of lorazepam 
+leaving a very
+encephalopathic record. There were no prominent focal 
+abnormalities but
+encephalopathies may obscure focal findings. The discharges 
+recurred at 6:50
+and were treated promptly, again successfully.
+
+DISCHARGE LABS: 
+==========================
+___ 05:42AM BLOOD WBC-7.9 RBC-2.69* Hgb-8.8* Hct-25.7* 
+MCV-95 MCH-32.8* MCHC-34.3 RDW-13.0 Plt ___
+___ 05:42AM BLOOD Glucose-102* UreaN-11 Creat-2.9* Na-140 
+K-3.5 Cl-100 HCO3-31 AnGap-13
+___ 05:29AM BLOOD WBC-6.6 RBC-2.58* Hgb-8.4* Hct-25.0* 
+MCV-97 MCH-32.5* MCHC-33.6 RDW-12.9 Plt ___
+___ 05:29AM BLOOD Plt ___
+___ 05:29AM BLOOD Glucose-90 UreaN-25* Creat-4.1* Na-140 
+K-3.4 Cl-102 HCO3-27 AnGap-___ on treatment for for discitis with vancomycin and cefepime, 
+presented with progressive decline in mental status and found to 
+be in non-convulsive status epilepticus, thought secondary to 
+cefepime toxicity with nonconvulsive status epilepticus from 
+NSAID-induced ___. 
+
+# Altered Mental Status: Patient presented with altered mental 
+status, myoclonus in the setting of cefepime use and acute renal 
+failure. EEG on admission showed non-convulsive status 
+epilepticus, a known complication of toxic levels of cefepime 
+which can develop with renal failure. She was given 1mg of 
+lorazepam, loaded with phenytoin and keppra which broke her 
+seizure activity. She underwent hemodialysis with clearance of 
+her mental status. She became alert and conversant with her 
+family. Given that her seizures were thought to be a medication 
+adverse effect and not from an underlying of seizure disorder, 
+anti-epileptic medications were discontinued. 
+
+# Acute Kidney Injury: Likely secondary to pre-renal secondary 
+to NSAIDs/poor PO intake/vancomycin toxicity.  Urine chemistries 
+on admission showed some evidence of acute tubular necrosis and 
+poor sodium avidity.  Renal ultrasound unremarkable for 
+post-renal pathology. Given patient experience of toxic side 
+effect of cefepime, hemodialysis was initiated to help clear 
+cefepime. She underwent multiple HD sessions with improvement in 
+her mental status. Between sessions she had stable electrolytes 
+but did have evidence of volume overload and rising creatinine. 
+She continued to have ongoing renal function with ongoing urine 
+output during admission. Given the stress of HD and evidence of 
+persistent renal function, decision was made to not initiate 
+long term hemodialysis. While hospitalized she was clinically 
+monitored assessing her regularly for need for HD. Her last HD 
+session was on ___ on day of discharge she had no need for HD. 
+Her electrolytes were stable (except for elevated creatinine), 
+she had ongoing urine output with stable oxygen requirement.
+
+# Recent Diskitis: Ms. ___ was initially admitted to 
+___ on ___ with right hip pain. A 
+lumbar spine MRI demonstrated severe degenerative joint disease 
+and discitis at the level of L3-L4. Patient underwent CT guided 
+biopsy, however cultures did not grow an organism. ID was 
+consulted, and she was started on Vancomycin and Cefepime with 
+plans for a course ending ___. 
+Obtained biopsy results from ___. E'___. Biospy was negative for 
+growth. No antibiotics were given during hospitalization and 
+patient had no evidence of infection.
+
+# Anemia: Noted on admission, thought likely anemia of chronic 
+disease from ?osteomyelitis/diskitis, versus anemia from CKD. 
+Blood counts were stable during admission.
+
+# Goals of Care: Patient has DNR/DNI form signed; family is very 
+clear on pt's desire for conservative measures ruling out long 
+term hemodialysis. At discharge her renal recovery was unclear. 
+She had evidence of severely depressed renal function but with 
+residual function. Given her unhappiness with medical setting 
+decision was made to transfer to rehab with close geriatric 
+followup while in rehab with possible transition to hospice care 
+if she showed signs decline from renal failure.
+
+TRANSITIONAL: 
+- CXR ___: Asymmetric right upper lobe subpleural opacity but 
+warrants re-evaluation with well positioned PA, lateral and 
+apical lordotic radiographs, prior to discharge the to exclude 
+active infection or malignancy. This was not done as it was felt 
+that it was not within the patient's goals of care. If Goals of 
+care change would recommend repeat CXR. 
+- Would recommend transition to hospice (at home or at rehab) if 
+patient declines from signs of renal failure
+- can consider periodic monitoring of renal function going 
+forward, with above goals of care in mind regarding need/desire 
+for HD
+- patient was not discharged on antibiotics as completed course 
+for osteomyelitis
+- patient was not discharged on anti-epileptics as presentation 
+was thought to be secondary to cefepime toxicity and not 
+intrinsic seizure disorder.
+
+# CODE STATUS:  Do not resuscitate (DNR/DNI) NO ICU TRANSFER, NO 
+BIPAP
+# CONTACT:  ___ (granddaughter, HCP) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Rhinocort Nasal Inhaler 1 spray Other BID 
+2. Docusate Sodium 100 mg PO BID 
+3. Mirtazapine 7.5 mg PO QHS 
+4. Amlodipine 5 mg PO DAILY 
+5. Polyethylene Glycol 17 g PO DAILY 
+6. Lidocaine 5% Patch 1 PTCH TD QAM 
+7. Senna 8.6 mg PO BID:PRN Constipation 
+8. Vancomycin 1000 mg IV Q 24H 
+9. CefePIME 1 g IV Q24H 
+10. Gabapentin 100 mg PO BID 
+11. Ibuprofen 400 mg PO TID:PRN Pain 
+
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg PO BID 
+2. Polyethylene Glycol 17 g PO DAILY 
+3. Senna 8.6 mg PO BID:PRN Constipation 
+4. Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain 
+5. Bisacodyl ___AILY:PRN Constipation 
+6. Lidocaine 5% Patch 1 PTCH TD QAM 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY: Acute Renal Failure, Cefepime Toxicity, Non-convulsive 
+status epilepticus
+SECONDARY: Anemia, Osteomyelitis
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure meeting you and taking care of you. You were 
+admitted with renal failure and seizure activity that we thought 
+was caused by a build up of a medication called cefepime in your 
+blood. We gave you medications to treat your seizures, which 
+resulted in an improvement in your mental state. We also 
+performed hemodialyssis to help clear cefepime and support you 
+while we gave your kidneys time to recover. Your kidneys showed 
+some improvement but have not improved to your previous 
+baseline. Given your desire to lead non-medicalized life that 
+focused on your comfort and dignity, we are transferring you to 
+a rehabilitation facility where the geriatrics team can continue 
+to follow you and we can continue to address your comfort. 
+
+We wish you the best, 
+
+Your ___ team 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11425766-DS-7 | hadm_id=26765216
+
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+cefepime / Advil / antibiotics - due to C. diff -Must use oral 
+vancomycin with ALL ABX
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p fall from wheelchair
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ w/PMH dementia (baseline oriented to self) hypotension, 
+prior
+kidney disease requiring hemodialysis w/R SDH with left frontal
+tSAH s/p fall from her wheelchair at 3 ___. She was brought from
+the scene by EMS to ___ ED - initially consciousness and was 
+at
+her baseline interacting with her family.  CT scan obtained at
+7pm - with declining cognition. Patient is not on antiplatelets
+or anticoagulants. 
+ 
+Past Medical History:
+- Cefepime Toxicity requiring Dialysis  
+- Non-convulsive status epilepticus  
+- Anemia  
+- Osteomyelitis  
+- Hypertension  
+- Subdural hematoma s/p burrhole in ___  
+- osteoarthritis  
+- shingles infection in ___  
+ 
+Social History:
+___
+Family History:
+Mother deceased age ___, chronic obstructive pulmonary disease.  
+Father deceased age ___, stroke.
+ 
+Physical Exam:
+on admission: 
+Physical Exam:
+Pulse: 100, RR: 16, BP: 137/85, O2 sat: 99, O2 flow: (Room Air).
+
+GCS at the scene: unknown
+
+GCS upon Neurosurgery Evaluation:  14    
+Time of evaluation: ___  ___
+
+Airway: [ ]Intubated   [x]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [x]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [x]4 Confused, disoriented
+ [ ]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+Gen: WD/WN, comfortable, NAD.
+
+HEENT:
+Pupils:  bilateral cataracts
+EOMs: unable to perform formal cardinal fields of gaze, but 
+tracks examiner and gaze crosses midline 
+
+Extrem: 
+warm and well perfused
+
+Neuro:
+Mental Status: Awake, alert, somewhat cooperative with exam
+
+Orientation: not oriented.
+
+Language: primary language is ___ and HCP is bedside 
+translating - however reports that her speech is normally clear 
+and is now non-sensical. 
+
+Cranial Nerves:
+I: Not tested
+II: Pupils w/bilateral cataracts
+III, IV, VI: Extraocular movements intact bilaterally without 
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+XII: Tongue midline without fasciculations.
+
+Motor: 
+Following only intermittent simple commands requiring 
+repetition.
+Unable to get patient to complete drift testing. MAE 
+antigravity.
+
+Patient does not complain of neck pain or restricted range of
+motion. 
+
+Sensation: Intact to light touch
+
+DISCHARGE PHYSICAL EXAM:
+24 HR Data (last updated ___ @ 428)
+    Temp: 98.1 (Tm 98.3), BP: 124/69 (124-159/62-77), HR: 93
+(91-112), RR: 20 (___), O2 sat: 94% (93-98), O2 delivery: Ra  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, PERRL, head abrasion
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally anteriorly, no wheezes,
+rales, rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+Neuro: alert, conversant but difficult to understand. not very
+cooperative with exam, moving all 4 extremities
+ 
+Pertinent Results:
+LABS:
+
+___ 08:35PM BLOOD WBC-13.3* RBC-3.48* Hgb-11.8 Hct-35.1 
+MCV-101* MCH-33.9* MCHC-33.6 RDW-12.4 RDWSD-45.5 Plt ___
+___ 05:50AM BLOOD WBC-8.6 RBC-3.01* Hgb-10.0* Hct-30.0* 
+MCV-100* MCH-33.2* MCHC-33.3 RDW-12.1 RDWSD-44.0 Plt ___
+___ 10:08AM BLOOD WBC-5.7 RBC-3.03* Hgb-10.2* Hct-30.5* 
+MCV-101* MCH-33.7* MCHC-33.4 RDW-12.2 RDWSD-44.8 Plt ___
+___ 08:35PM BLOOD ___ PTT-27.1 ___
+___ 09:35PM BLOOD Glucose-113* UreaN-17 Creat-0.7 Na-139 
+K-4.3 Cl-101 HCO3-27 AnGap-11
+___ 05:50AM BLOOD Glucose-101* UreaN-16 Creat-0.7 Na-140 
+K-4.1 Cl-101 HCO3-25 AnGap-14
+___ 10:08AM BLOOD Glucose-82 UreaN-11 Creat-0.7 Na-142 
+K-3.8 Cl-107 HCO3-22 AnGap-13
+___ 10:08AM BLOOD Calcium-8.2* Phos-2.3* Mg-1.9
+
+IMAGING:
+
+CT C-SPINE W/O CONTRASTStudy Date of ___ 7:04 ___
+1. No evidence of fracture or traumatic malalignment.
+2. Severe degenerative changes within the cervical spine with 
+moderate to
+severe spinal canal narrowing at C5-6, which is similar compared 
+to ___, but
+puts the patient at higher risk for spinal cord injury in the 
+setting of
+significant trauma.
+3. Opacification within the dependent portion of the upper lobes 
+bilaterally,
+incompletely evaluated on this examination, although this may 
+represent
+atelectasis.
+4. Multinodular thyroid gland.  Largest nodule measures 1.5 cm, 
+for which
+thyroid ultrasound is recommended.
+
+CT HEAD W/O CONTRASTStudy Date of ___ 7:04 ___
+1. Acute right cerebral subdural hematoma measuring 7 mm in 
+thickness.
+2. Small amount of acute subarachnoid hemorrhage within 
+bilateral frontal
+sulci.
+3. Large right frontal scalp hematoma without evidence of 
+underlying fracture.
+
+GLENO-HUMERAL SHOULDER (W/ Y VIEW) RIGHTStudy Date of 
+___ 10:48 ___
+No fracture or dislocation.
+
+MR CERVICAL SPINE W/O CONTRASTStudy Date of ___ 11:27 ___
+Aborted MRI exam due to the patient's uncooperativeness.  Single 
+sagittal T1
+sequence obtained is severely degraded by motion and only 
+vaguely
+re-demonstrates the severe degenerative changes of the cervical 
+spine and
+likely cord compression at the C5-C6 level.
+
+CT HEAD W/O CONTRASTStudy Date of ___ 8:19 AM
+1. Right cerebral hemisphere acute subdural hemorrhage with 
+maximal thickness
+of 6 mm and no midline shift, as described.
+2. Grossly stable small acute bifrontal subarachnoid 
+hemorrhages.
+3. Large right frontal scalp hematoma with no evidence of 
+underlying fracture.
+4. Paranasal sinus disease , as described.
+
+HAND (PA,LAT & OBLIQUE) LEFTStudy Date of ___ 4:24 ___
+No acute fracture.
+There are severe degenerative changes, some not in a typical 
+distribution for
+OA, raising possibility of intermixed CPPD, and/or erosive OA, 
+for clinical
+correlation.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a history of major 
+neurocognitive disorder, orthostatic hypotention, constipation, 
+and osteoperosis who presented to ___ with stable right 
+frontal SDH and who is at her mental baseline. She was evaluated 
+by interval CT scan and neurosurgery, who did not feel there was 
+any indication for surgery at this time. She was started on 
+Keppra for a 7-day course or seizure prophylaxis. While in the 
+hospital, she was managed with trazodone for delirium. 
+Ultimately, she was felt to be at her mental baseline and was 
+discharged.
+
+TRANSITIONAL ISSUES:
+[ ] Started on Keppra 500mg BID for 7 day course (last day ___ 
+
+[ ] Can follow with Traumatic Brain Injury Clinic
+[ ] No need for neurosurgery follow up
+[ ] Can have acetaminophen 1000mg TID for pain post fall
+[ ] Home ___
+[ ] Monitor for focal deficits or declining mental status in 
+coming days which could be sign of enlarging bleed
+
+ACUTE ISSUES:
+
+#Fall:
+#SDH:
+Patient suffered mechanical fall due to impulsive behavior. 
+History not suggestive of cardiogenic, neurogenic etiology of 
+fall. No further workup indicated. She has 24 hour care at home. 
+SDH stable on repeat CT with no plan for neurosurgical 
+intervention. Patient to continue keppra 500mg BID for 7 days 
+for seizure ppx ___, last day ___.
+
+#Major cognitive decline
+#Delirium prevention
+Patient with major congnitive decline likely due to late onset 
+Alzheimer. Cognitive decline complicated by impulsive behavior, 
+agitation at night. While hospitalized, patient will benefit 
+from maximal non-pharmacological management. In addition,
+patient received trazadone 50mg QHS for nighttime agitation.
+
+CHRONIC ISSUES
+
+#Orthostatic hypotension: 
+Patient with known orthostatic hypotension. Has been well 
+controlled with fludricortisone .1mg daily, which was continued. 
+Also very important to ensure good PO intake.
+
+#Osteoporosis: 
+-Patient followed by endocrinology.
+-Continues on Prolia every 6 months.
+-Continue ___ calcium and vitamin D.
+
+#Subclinical Hypothyroidism: 
+#Thyroid nodules
+TSH previously stable ___. Never on therapy. Patient 
+found
+to have Multinodular thyroid gland on Ct C-spine Largest nodule
+measures 1.5 cm, for which thyroid ultrasound is recommended.
+-Given patient age and cognitive decline, diagnostic thyroid US
+is not indicated.
+ 
+Medications on Admission:
+DICLOFENAC SODIUM [VOLTAREN] - Voltaren 1 % topical gel. apply 
+to
+right hip and knee four times a day as needed for pain
+FLUDROCORTISONE - fludrocortisone 0.1 mg tablet. 1 tablet(s) by
+mouth every day
+LIDOCAINE [LIDODERM] - Lidoderm 5 % topical patch. apply to
+bliateral legs for neuopathy once a day
+PHYSICAL THERAPY - physical therapy  . Evaluate and treatment 
+low
+back pain due to lumbar spinal stenosis. ICD #10: ___
+REMOVABLE HALF BED SIDE RAIL - Removable half bed side rail  .
+Use as directed on bed for fall prevention ICD 10# R26.9
+TRAMADOL - tramadol 50 mg tablet. 1 (One) tablet(s) by mouth 
+four
+times a day with food or snack
+TRAZODONE - trazodone 50 mg tablet. 1 tablet(s) by mouth daily
+before bed at 7 or 8pm
+VANCOMYCIN - vancomycin 125 mg capsule. 1 capsule(s) by mouth
+four times a day start when starting antibiotics and continue 
+for
+another 2 weeks after stopping antibiotic
+ 
+Medications - OTC
+ACETAMINOPHEN - acetaminophen ER 650 mg tablet,extended release.
+2 tablet(s) by mouth twice a day with breakfast and dinner take
+an additional tab at bedtime as needed for pain -  (OTC)
+CALCIUM CARBONATE-VITAMIN D3 [CALCIUM 600 WITH VITAMIN D3] -
+Calcium 600 with Vitamin D3 600 mg (1,500 mg)-500 unit capsule. 
+1
+capsule(s) by mouth twice a day
+CRANBERRY EXTRACT [CRANBERRY CONCENTRATE] - Cranberry 
+Concentrate
+500 mg capsule. 1 capsule(s) by mouth twice a day -  (OTC)
+MULTIVIT-IRON-MIN-FOLIC ACID [CENTRUM] - Centrum 3,500 unit-18
+mg-0.4 mg chewable tablet. 1 tablet(s) by mouth once a day - 
+(OTC)
+POLYETHYLENE GLYCOL 3350 [MIRALAX] - Miralax 17 gram/dose oral
+powder. 1 cap powder(s) by mouth daily prn -  (OTC)
+SODIUM CHLORIDE - sodium chloride 1 gram tablet. 1 tablet(s) by
+mouth ___ tablets every other day
+
+ 
+Discharge Medications:
+1.  LevETIRAcetam 500 mg PO BID Duration: 6 Days 
+RX *levetiracetam 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*12 Tablet Refills:*0 
+2.  Acetaminophen 650 mg PO ASDIR  
+3.  Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral BID  
+4.  cranberry extract ___ mg oral BID  
+5.  diclofenac sodium 1 % topical QID:PRN pain  
+6.  Fludrocortisone Acetate 0.1 mg PO DAILY  
+7.  Lidocaine 5% Patch 1 PTCH TD QAM  
+8.  Polyethylene Glycol 17 g PO DAILY  
+9.  Sodium Chloride 1 gm PO ASDIR  
+10.  TraMADol 50 mg PO QID  
+11.  TraZODone 50 mg PO QHS  
+12.  vancomycin 125 mg oral ASDIR  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+-subdural hematoma 
+-subarachnoid hemorrhage 
+-fall
+Secondary diagnosis:
+-major cognitive decline
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+================================================  
+Discharge Worksheet  
+================================================  
+Dear Ms. ___,
+  
+WHY WERE YOU ADMITTED?
+-You came to ___ because 
+
+WHAT WAS DONE WHILE YOU WERE IN THE HOSPITAL:  
+-In the hospital, you had brain scans which demonstrated some 
+bleeding.
+–You were evaluated by the neurosurgery team who did not feel 
+that you needed surgery
+-You were started on some new medications in the setting of your 
+fall
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE THE HOSPITAL:  
+- Please be sure to attend your follow up appointments (see 
+below)  
+- Please take all of your medications as prescribed (see below). 
+   
+- Please see below for additional instructions from your 
+neurosurgery team
+
+It was a pleasure participating in your care. We wish you the 
+best!  
+
+Sincerely,  
+Your ___ Care Team
+
+Discharge Instructions
+Brain Hemorrhage without Surgery
+ 
+Activity
+
+· We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+
+· You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+
+· No driving while taking any narcotic or sedating medication. 
+
+· If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+
+Medications
+
+· Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+
+· You have been discharged on Keppra (Levetiracetam). This 
+medication helps to prevent seizures. Please continue this 
+medication as indicated on your discharge instruction (for 7 
+days). It is important that you take this medication 
+consistently and on time. 
+
+· You may use Acetaminophen(Tylenol) for minor discomfort if you 
+are not otherwise restricted from taking this medication.
+ 
+
+What You ___ Experience:
+
+· You may have difficult paying attention, concentrating, and 
+remembering new information.
+
+· Emotional and/or behavioral difficulties are common. 
+
+· Feeling more tired, restlessness, irritability, and mood 
+swings are also common.
+
+· Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+Headaches:
+
+·  Headache is on eof the most common symptom after a brain 
+bleed. 
+
+· Most headaches are not dangerous but you should call your 
+doctor if the headache gets worse, develop arm or leg weakness, 
+increased sleepiness, and/or have nausea or vomiting with a 
+headache. 
+
+· Mild pain medications may be helpful with these headaches but 
+avoid taking pain medications on a daily basis unless prescribed 
+by your doctor. 
+
+· There are other things that can be done to help with your 
+headaches: avoid caffeine, get enough sleep, daily exercise, 
+relaxation/ meditation, massage, acupuncture, heat or ice packs. 
+
+ 
+
+When to Call Your Doctor at ___ for:
+
+· Nausea and/or vomiting
+· Extreme sleepiness and not being able to stay awake
+· Severe headaches not relieved by pain relievers
+· Seizures
+· Any new problems with your vision or ability to speak
+· Weakness or changes in sensation in your face, arms, or leg
+
+ 
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+· Sudden numbness sor weakness in the face, arm, or leg
+· Sudden confusion or trouble speaking or understanding
+· Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+· Sudden severe headaches with no known reason
+
+ 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11425766-DS-6 | hadm_id=29453880
+
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+cefepime / Advil / antibiotics - due to C. diff -Must use oral 
+vancomycin with ALL ABX
+ 
+Attending: ___.
+ 
+Chief Complaint:
+concern for seizure vs. syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ ___ speaking with hx of HTN, C.diff colitis, 
+chronic sterile pyuria, and lumbar spinal stenosis who presented 
+after 2 episodes of seizure-like activity since ___. 
+History obtained partially from patient, but mainly from 
+granddaughter and friend present in room.
+
+Pt in USOH until ___ afternoon. Had late lunch and went to 
+park with family afterwards. Soon after getting out of car, was 
+standing up and had ?rhythmic jerking of her UE and ___ with 
+apparent LOC. Did not fall (has significant help with ambulating 
+due to lumbar spinal stenosis). Lasted ~2min and then woke up 
+with no residual cognitive or motor deficits. Not on any 
+anti-hypertensives at home that she could have taken prior. Does
+take tramadol and duloxetine in AM for lumbar spinal stenosis. 
+Second episode occurred ___ AM while sitting on 
+toilet. Per report, observed by caregiver again with similar 
+movements and LOC with return to baseline immediately 
+afterwards. No reported incontinence.
+
+Pt emphatically endorses that she does not have as much PO fluid 
+intake as much as she should. Per granddaughter, she drinks 1+ 
+glasses of wine each day.
+
+Of note, pt at baseline is dependent in all ADLs and IADLS, 
+walks with a rolling walker and can only take a few steps on her 
+own. She has lost 20lb since ___. Her memory currently is 
+"terrible" per granddaughter; has declined considerably in past 
+___ years.
+
+Pt has constipation at baseline and has a home bowel reg which 
+helps. No recent fevers, chills, nausea, vomiting, diarrhea.
+
+ 
+Past Medical History:
+- Cefepime Toxicity requiring Dialysis  
+- Non-convulsive status epilepticus  
+- Anemia  
+- Osteomyelitis  
+- Hypertension  
+- Subdural hematoma s/p burrhole in ___  
+- osteoarthritis  
+- shingles infection in ___  
+ 
+Social History:
+___
+Family History:
+Mother deceased age ___, chronic obstructive pulmonary disease.  
+Father deceased age ___, stroke.
+ 
+Physical Exam:
+DISCHARGE PHYSICAL EXAM:
+========================
+Vitals: Tm 99.1, 155/81, 107, 18 98 RA
+  Orthostatic vitals ___ AM): 146/82 102 --> 96/56 107
+  Orthostatic vitals ___ AM): 149/76 91 --> 100/61 91  
+GENERAL: NAD, comfortable  
+HEENT: EOMI, PERRL, anicteric sclera, pink conjunctiva, MMM  
+NECK: supple, JVP flat  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB. Breathing unlabored.
+ABDOMEN: nondistended, nontender in all quadrants, no rebound or 
+guarding  
+EXTREMITIES: no cyanosis, clubbing, or edema. Significant ___ 
+onychomycosis  
+PULSES: 2+ DP pulses bilaterally
+SKIN: decreased turgor in UE and ___  
+NEURO: A&O to name and location (hospital). Able to answer 
+questions but tangential and easily distracted. Still cannot 
+give specifics about current reason for admission. 
+
+ADMISSION PHYSICAL EXAM:
+=======================
+Vitals: Tm 97.9, 124/71, 101, 18 91 RA
+   ___: 124/71 101 --> 81/46 109   
+GENERAL: NAD, comfortable  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM  
+NECK: supple, JVP 5  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: Dry crackles at bases b/l; CTAB otherwise. Breathing 
+unlabored.
+ABDOMEN: nondistended, nontender in all quadrants, no rebound or 
+guarding  
+EXTREMITIES: no cyanosis, clubbing, or edema. Significant ___ 
+onychomycosis  
+PULSES: 2+ DP pulses bilaterally
+SKIN: decreased turgor in UE and ___  
+NEURO: A&O to name and location (hospital). Able to answer 
+questions but tangential and easily distracted. Cannot give 
+specifics about current reason for admission.  
+ 
+Pertinent Results:
+ADMISSION LABS
+--------------
+___ 07:41PM BLOOD WBC-6.3 RBC-3.64* Hgb-12.1 Hct-37.6 
+MCV-103* MCH-33.2* MCHC-32.2 RDW-12.3 RDWSD-46.5* Plt ___
+___ 06:00AM BLOOD Glucose-84 UreaN-14 Creat-0.8 Na-141 
+K-4.3 Cl-101 HCO3-24 AnGap-16
+___ 07:41PM BLOOD cTropnT-<0.01
+___ 07:41PM BLOOD Calcium-9.9 Phos-3.8 Mg-2.0
+___ 07:49PM BLOOD Lactate-1.6 K-4.4
+
+PERTINENT LABS
+--------------
+___ 06:35AM BLOOD VitB12-754
+___ 06:35AM BLOOD %HbA1c-5.2 eAG-103
+___ 06:00AM BLOOD TSH-2.7
+___ 06:00AM BLOOD Free T4-1.0
+___ 09:36AM BLOOD Cortsol-11.4
+
+___ 02:07PM URINE RBC->50 WBC->50 Bacteri-MOD* Yeast-NONE 
+___ 02:07PM URINE Blood-LG* Nitrite-NEG Protein-100* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-0.2 pH-6.5 Leuks-MOD*
+
+PERTINENT MICRO
+---------------
+___ 2:07 pm URINE
+                            **FINAL REPORT ___
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION.  
+
+PERTINENT IMAGING
+-----------------
+T-SPINE and L-SPINE Study Date of ___ 11:30 AM
+FINDINGS: 
+Thoracic spine.
+There is mild multilevel degenerative discogenic change with 
+disc space
+narrowing and endplate spurring.  No aggressive focal bone 
+lesion.  No acute compression fracture is seen.  Visualized 
+lungs are unremarkable.  Lower cervical spine osteoarthritis is 
+incompletely assessed on this exam.
+ 
+Lumbar spine.
+There are 5 non rib-bearing lumbar type vertebral bodies.  There 
+is
+dextroconvex scoliosis, apex at L4-5.  There is mild rightward 
+listhesis of L4 respect to L5, and leftward listhesis of L3 
+respect to L4.  L3 demonstrates moderate compression deformity, 
+similar to previous MRI allowing for difference in technique.  
+Severe multilevel degenerative discogenic changes throughout the 
+lumbar spine are most marked at L2-3, and L3-4.  Mild bilateral 
+hip joint space narrowing and osteophytosis.  No erosion.  No 
+concerning bone lesion.  There is vascular calcification 
+involving the abdominal aorta.  There
+is straightening of the lumbar spine with loss of normal 
+lordosis.  There is severe lower lumbar spine facet joint 
+osteoarthritis.  Asymmetric lucency of the pubic bone on the AP 
+view is noted, uncertain if this is artifactual.  Tiny linear 
+density at the left greater trochanter may reflect sequela of 
+calcific tendinitis.
+ 
+IMPRESSION: 
+-Degenerative changes as detailed above.  Moderate compression 
+deformity of L3 similar to previous MRI allowing for difference 
+in technique.
+-Lucency at the left pubic bone could be artifactual.  Recommend 
+correlation with dedicated pelvis radiograph.
+
+DISCHARGE LABS
+---------------
+___ 07:25AM BLOOD Glucose-87 UreaN-10 Creat-0.7 Na-143 
+K-4.2 Cl-103 HCO3-24 AnGap-16
+___ 07:25AM BLOOD Calcium-9.3 Phos-3.6 Mg-1.7
+ 
+Brief Hospital Course:
+Ms. ___ is a lovely ___ ___ speaking lady 
+with hx of HTN, C.diff colitis, chronic sterile pyuria, and 
+lumbar spinal stenosis who presented after 2 witnessed episodes 
+of loss of consciousness along with bilateral jerking movements 
+of her arms and legs, likely orthostatic syncope ___ hypovolemia 
+from poor PO intake at home. Due to concern for seizure, 
+Neurology was consulted in the ED. She received a head CT which 
+was negative for acute intracranial pathologies. A spot EEG was 
+done which showed no focal abnormalities or epileptiform 
+discharges. She was monitored on telemetry and EKGs were 
+obtained which only showed non-specific ST changes. She was 
+found to have orthostatic hypotension which improved with IV 
+fluids, though pt still had orthostatic vitals at time of 
+discharge (likely her baseline). However, pt was clinically 
+well-appearing. At the time of discharge, her orthostatic vital 
+signs were BP 149/76 HR 91 lying down --> BP 100/61 HR 91 
+standing. Work up, including AM cortisol, B12, A1c, TFTs, and 
+spinal films were largely unremarkable. PEP, cortisol and RPR 
+pending on d/c. She was discharged home with instructions to 
+increase her water and salt intake, wear compression stockings, 
+decrease her daily alcohol intake, and ambulate/exercise as much 
+as tolerated. Her duloxetine was discontinued because it can 
+contribute to her orthostasis and did not seem to help 
+significantly with her spinal stenosis. We arranged for home ___ 
+services for 1 week to obtain daily orthostatic vital signs as 
+well as home physical therapy.
+
+Ms. ___ was otherwise continued on her home medications 
+during her stay with the exception of several dietary 
+supplements which were not on forumlary.
+
+Lastly, the patient's weight at discharge was 51 kg (112 lb).
+
+TRANSITIONAL ISSUES:
+====================
+- Results pending on discharge: SPEP, UPEP, RPR
+- Patient was started on fludrocortisone 0.1mg QAM for 
+orthostatic hypotension. Will require potassium check ~1 week 
+after discharge (___), to be drawn by ___. 
+- Patient has subclinical hypothyroidism and osteoporosis. She 
+was previously seen by Dr. ___ at ___. 
+We have scheduled her for follow-up.
+- Patient would benefit from further workup for etiology of her 
+orthostatic hypotension. She has been scheduled for follow-up in 
+Dr. ___ clinic.
+- Patient may benefit from downtitration of tramadol to reduce 
+polypharmacy considering her age, frailty, cognitive impairment, 
+and her reporting limited efficacy in relieving her pain.
+- Patient may benefit from referral to pain clinic as 
+nonsurgical treatment options for her lumbar spinal stenosis are 
+limited.
+- Patient complained of occasional pain on urination and 
+possible genital wound. ___ benefit from gynecological 
+evaluation.
+- Consider formal cognitive testing (e.g. MOCA, MMSE) to 
+evaluate and trend patient's reported recent cognitive decline.
+- Incidental findings on imaging: Lucency at the left pubic bone 
+could be artifactual. Recommend correlation
+with dedicated pelvis radiograph.
+- Code Status: Full (presumed) 
+- CONTACT: granddaughter ___ ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO BID 
+2. Lidocaine 5% Patch 1 PTCH TD QAM 
+3. Polyethylene Glycol 17 g PO DAILY 
+4. lactobacillus combination ___ billion cell oral DAILY 
+5. TraMADol 50 mg PO QID 
+6. cranberry extract ___ mg oral BID 
+7. diclofenac sodium 1 % topical QID 
+8. calcium carb and citrate-vitD3 300 mg-200 unit-13.5 mg tablet 
+ oral BID 
+9. DULoxetine 20 mg PO DAILY 
+10. Ascorbic Acid ___ mg PO BID 
+11. Vitamin D 1000 UNIT PO BID 
+12. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Fludrocortisone Acetate 0.1 mg PO DAILY 
+RX *fludrocortisone 0.1 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+2.  Sodium Chloride 1 gm PO TID 
+RX *sodium chloride 1 gram 1 tablet(s) by mouth three times a 
+day Disp #*90 Tablet Refills:*0 
+3.  Acetaminophen 650 mg PO BID  
+4.  Ascorbic Acid ___ mg PO BID  
+5.  calcium carb and citrate-vitD3 300 mg-200 unit-13.5 mg 
+tablet  oral BID  
+6.  cranberry extract ___ mg oral BID  
+7.  diclofenac sodium 1 % topical QID 
+apply to right hip and knee  
+8.  lactobacillus combination ___ billion cell oral DAILY  
+9.  Lidocaine 5% Patch 1 PTCH TD QAM  
+10.  Multivitamins 1 TAB PO DAILY  
+11.  Polyethylene Glycol 17 g PO DAILY  
+12.  TraMADol 50 mg PO QID  
+13.  Vitamin D 1000 UNIT PO BID  
+14. HELD- DULoxetine 20 mg PO DAILY  This medication was held. 
+Do not restart DULoxetine until discussing with your PCP
+15.Outpatient Lab Work
+Diagnosis: 458.0 (ICD10: I95.1) Orthostatic hypotension
+Labs: Chem 7
+When: On ___
+Please fax results to: ___ ___
+16.Compression Stockings
+Diagnosis: I95.1Orthostatic hypotension
+Condition: Good
+Length of Need: Ongoing
+
+Please provide below-the-knee compression stockings ___ mmHg
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+===================
+syncope
+
+SECONDARY DIAGNOSIS:
+====================
+sterile pyuria
+lumbar spinal stenosis
+cognitive impairment
+hypertension
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you here at ___. 
+
+Why was I admitted to the hospital?
+- You came to us after two episodes of fainting over the past 
+week.
+
+What happened while you were at the hospital?
+- You had imaging of your head which did not show any new 
+injuries.
+- You had an x-ray of your chest which was normal.
+- You had an electrocardiogram (EKG) of your heart which was 
+normal.
+- You had dizziness and low blood pressure when you stood up, 
+despite rehydration with IV fluid. This is a condition known as 
+orthostatic hypotension. You were started on a new medication 
+called fludrocortisone, started on salt tablets and given 
+compression stockings and your symptoms improved.
+
+What to do on discharge?
+- Please continue to take all your medications as prescribed 
+below.
+- Please attend all your follow-up appointments detailed below 
+(PCP, endocrine).
+- Please drink at least five 8 oz. glasses of water each day. 
+Drink at least 1 glass in the morning, 2 in the afternoon and 2 
+in the evening.
+- Please INCREASE your daily salt intake.
+- Please DECREASE your daily alcohol intake.
+- Please move around and exercise as much as you can as well as 
+work with physical therapists who will come to your home.
+- If you experience any of the danger signs below please call 
+your primary care provider or come to the emergency department 
+immediately.
+
+We are happy to see you feeling better and wishing you all the 
+best.
+
+Sincerely,
+Your ___ team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11425766-DS-9 | hadm_id=29909211
+
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+cefepime / Advil / antibiotics - due to C. diff -Must use oral 
+vancomycin with ALL ABX
+ 
+Attending: ___
+ 
+Chief Complaint:
+leg pain
+ 
+Major Surgical or Invasive Procedure:
+___ left hip ORIF 
+ 
+History of Present Illness:
+___ with hx of dementia (AO x 1 at baseline), anemia, HTN,
+arthritis, hx recurrent C. Diff, who is presenting with 2 days 
+of
+increasing fatigue and leg pain. 
+
+Per review of ED documentation and confirmed with granddaughter,
+her granddaughter lives next door and states that over the past 
+2
+days she has not been wanting to get out of bed, complaining of
+increasing leg discomfort and also having increasing difficulty
+breathing today. She has a caretaker at home ___ and states 
+that
+she had a slip yesterday for which the caretaker caught her and
+she did not fall or have a head strike that was witnessed. Since
+then, she has not been wanting to walk and has had increased
+respiratory difficulties and fatigue with generalized weakness.
+Granddaughter called PCP's office who recommended she present to
+ED for evaluation.
+
+In the ED,  
+
+Initial Vitals: 
+97 
+95 
+122/57 
+81% 2L NC
+
+And subsequently developed T to 100.4. Imaging revealed L
+subcapital femoral neck fracture, likely cystitis, "focal mild
+intrahepatic biliary duct dilatation in segment VIII with
+apparent surrounding mild hyperemia, concerning for 
+cholangitis,"
+with trace bilateral pleural effusions and adjacent atelectasis
+at the lung bases. She was given CTX, azithromycin, zosyn, PO
+vanc, and 100mg IV hydrocortisone.  
+
+Ortho consulted in ED, recommended keeping NPO for possible OR 
+in
+AM.
+
+ 
+Past Medical History:
+- Cefepime toxicity requiring Dialysis  
+- Non-convulsive status epilepticus  
+- Subdural hematoma
+- Anemia  
+- Osteomyelitis  
+- Hypertension  
+- Subdural hematoma s/p burrhole in ___  
+- Osteoarthritis  
+- shingles infection in ___  
+- Orthostatic hypotension
+- Asymptomatic bacteriuria
+- C. difficile colitis
+- Spinal stenosis
+- Anxiety
+- Dysphagia
+- Constipation
+- Gait disorder
+- Major neurocognitive disorder
+- Hypothyroidism
+- Osteoporosis 
+ 
+Social History:
+___
+Family History:
+Mother deceased age ___, chronic obstructive pulmonary disease.  
+Father deceased age ___, stroke.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+======================== 
+VS: Reviewed in metavision
+GEN: Lying in bed, NAD  
+EYES: PERRLA, EOMI, no scleral icterus 
+HENNT: Dry MM, no JVD 
+CV: RRR no r/m/g
+RESP: CTAB on anterior exam
+GI: Soft, NTND 
+EXT: WWP, no ___ edema  
+SKIN: Warm, dry
+NEURO: Alerts to examiner. Face symmetric, moving all
+extremities. 
+
+DISCHARGE PHYSICAL EXAM: 
+======================== 
+___ 0726 Temp: 97.9 PO BP: 132/67 HR: 95 RR: 18 O2 sat: 92%
+O2 delivery: Ra  
+GENERAL:  Speaking in ___ & ___, appears upbeat but not
+fully coherent.
+HEENT: JVD at mid neck at 30 degrees. negative HJR
+CARDIAC: Regular rhythm, normal rate. No murmurs auscultated.
+LUNGS: Crackles at right lung base. 
+ABDOMEN: Soft, nondistended, non-tender to palpation.
+EXTREMITIES: Feet are warm and well perfused. No lower extremity
+edema. Upper extremity cog wheeling appreciated
+MSK: L hip with dressing c/d/i, no bleeding, erythema, 
+purulence.
+No tenderness to palpation.
+NEUROLOGIC: Alert, as above.
+
+ 
+Pertinent Results:
+ADMISSION LABS: 
+===============
+___ 08:43PM BLOOD WBC-9.0 RBC-3.27* Hgb-10.6* Hct-33.1* 
+MCV-101* MCH-32.4* MCHC-32.0 RDW-13.1 RDWSD-48.6* Plt ___
+___ 08:43PM BLOOD Neuts-68.6 Lymphs-15.9* Monos-5.5 
+Eos-8.6* Baso-0.8 Im ___ AbsNeut-6.18* AbsLymp-1.43 
+AbsMono-0.49 AbsEos-0.77* AbsBaso-0.07
+___ 08:43PM BLOOD ___ PTT-28.0 ___
+___ 08:43PM BLOOD Glucose-110* UreaN-28* Creat-1.2* Na-139 
+K-5.6* Cl-103 HCO3-26 AnGap-10
+___ 08:43PM BLOOD ALT-20 AST-59* AlkPhos-83 TotBili-0.4
+___ 08:43PM BLOOD proBNP-2044*
+___ 08:43PM BLOOD cTropnT-<0.01
+___ 08:43PM BLOOD Albumin-3.3* Calcium-9.6 Phos-3.5 Mg-1.8
+___ 08:43PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-16 
+Tricycl-NEG
+___ 08:50PM BLOOD ___ pO2-33* pCO2-43 pH-7.43 
+calTCO2-29 Base XS-3 Intubat-NOT INTUBA
+
+LAST LABS PRIOR TO DISCHARGE
+============================
+___ 06:52AM BLOOD WBC-7.3 RBC-3.10* Hgb-9.9* Hct-31.4* 
+MCV-101* MCH-31.9 MCHC-31.5* RDW-13.1 RDWSD-48.6* Plt ___
+___ 07:44AM BLOOD Glucose-87 UreaN-30* Creat-0.8 Na-142 
+K-4.2 Cl-103 HCO3-25 AnGap-14
+___ 07:00AM BLOOD ALT-11 AST-20 AlkPhos-86 TotBili-0.4
+___ 07:00AM BLOOD ___ 07:44AM BLOOD Calcium-9.4 Phos-4.5 Mg-2.3
+
+STUDIES: 
+========
+CHEST (PORTABLE AP) Study Date of ___  
+1. No focal consolidation. 
+2. Interstitial markings appear slightly more prominent compared 
+with prior, and mild interstitial edema cannot be excluded.  No 
+large pleural effusion. 
+
+CTA CHEST  Study Date of ___  
+1. Evaluation of the segmental and subsegmental pulmonary 
+arteries is limited due to respiratory motion. No central 
+pulmonary embolism. 
+2. Trace bilateral pleural effusions and adjacent atelectasis at 
+the lung 
+bases. No convincing evidence for pneumonia, with evaluation of 
+the lung 
+parenchyma limited by respiratory motion. 
+3. New focal mild intrahepatic biliary duct dilatation in 
+segment VIII with apparent surrounding mild hyperemia, could 
+relate to cholangitis if this is of clinical concern. 
+4. Bladder wall thickening, hyperemia and surrounding fat 
+stranding, 
+concerning for cystitis.  Correlate with urinalysis. 
+5. Subcapital left femoral neck fracture. 
+
+CT HEAD W/O CONTRAST Study Date of ___ 
+1. Motion and dental amalgam streak artifact limits study. 
+2. No acute intracranial process.  Please note MRI of the brain 
+is more 
+sensitive for the detection of acute infarct. 
+3. Nonspecific complete opacification of the right mastoid air 
+cells, 
+increased compared with ___. 
+4. Paranasal sinus disease, grossly similar to priors. 
+
+CT C-SPINE W/O CONTRAST Study Date of ___ 
+1.  Dental amalgam and overlying hardware streak artifact and 
+diffuse 
+osteopenia limits study. 
+2.  Within limits of study, no definite evidence of acute 
+fracture or 
+traumatic malalignment. 
+3. Grossly stable extensive multilevel cervical spondylosis 
+compared to ___ prior exam, as described. 
+4. No significant change in a 1.5 cm right thyroid nodule, for 
+which 
+outpatient thyroid ultrasound could again be considered if 
+clinically 
+appropriate. 
+5. Motion degraded limited imaging of the lungs demonstrate 
+extensive probable pleuroparenchymal scarring, as described.  If 
+concern for pulmonary infectious, inflammatory, or neoplastic 
+opacities, consider correlation with dedicated chest imaging. 
+  
+RECOMMENDATION(S):  Outpatient thyroid ultrasound if clinically 
+appropriate. 
+
+PELVIS AP ___ VIEWS Study Date of ___  
+Possible nondisplaced left femoral neck fracture for which 
+dedicated views are needed to further assess. 
+
+HIP UNILAT MIN 2 VIEWS LEFT Study Date of ___ 
+Left subcapital femoral neck fracture.
+
+CHEST (PORTABLE AP) Study Date of ___  
+Finding suggests mild pulmonary edema.
+
+ 
+Brief Hospital Course:
+___ with hx of dementia (? ___ Body, described below), 
+arthritis, hx recurrent C. Diff who presented with weakness and 
+hypoxia in setting of a fall requiring admission to the MICU for
+hypoxia likely secondary to pulmonary edema, improved with 
+diuresis and now on room air. Hospital course otherwise notable 
+for L femoral neck fracture s/p ORIF and cystitis s/p abx 
+course.
+ 
+ACUTE ISSUES  
+=============== 
+#Hypoxia:
+#Pulmonary Edema
+
+Patient presented with elevated BNP and new oxygen requirement, 
+requiring non rebreather in the ED that was quickly reduced to 4 
+L nasal cannula. Patient BNP was elevated (___) and CXR showed 
+significant pulmonary edema. CTA partially exonerated PE-- 
+limited by respiratory
+motion but no central PE. Patient O2 requirement decreased with 
+fluid removal and was able to be weaned to room air at time of 
+discharge. She experienced occasional desaturations on nasal 
+cannula primarily in the setting of mouth breathing that 
+immediately resolved on delivery of equivalent oxygen with face 
+mask. She was initiated on PO Lasix 20 regimen for maintenance 
+after leaving the hospital.
+
+#L femoral neck fracture s/p ORIF
+Pt presented with leg pain after slipping at home. She was found 
+to have a left
+subcapital femoral neck fracture seen requiring ORIF on ___ 
+without any complications and minimal blood loss. She was given 
+standing Tylenol for post operative pain and evaluated by 
+physical therapy and orthopedic surgery throughout 
+hospitalization. She was maintained on Lovenox for DVT ppx. She 
+will be discharged to rehab and is being scheduled for 
+Orthopedics f/u.
+
+#UTI
+On arrival, patient found to have Leuks/nitrites in UA with 
+imaging findings c/w cystitis. Her urine culture grew pan 
+susceptible proteus. She was not  febrile or hemodynamically 
+unstable. Pt was initiated on zosyn however was able to be 
+switched to Ceftriaxone and completed a three day course.
+
+# Acute delirium on chronic Dementia
+# ___ Body Dementia
+Patient reported to have dementia with hallucinations at home, 
+as
+well as orthostatic hypotension and cogwheeling on exam. 
+Clinical
+picture most consistent with ___ body dementia. Patient mental
+status improved with family in the room and her poor mental 
+status throughout hospitalization (AOx0-1) most consistent with 
+delirium in setting of advanced dementia. 
+
+#Concern for Cholangitis:
+Imaging findings on CTA chest on admission concerning for 
+cholangitis.
+However, patient without obstructive LFT pattern, no clear RUQ
+pain and additional work up was deferred. 
+
+CHRONIC/STABLE ISSUES  
+===============  
+___, resolved: Cr 1.2 from baseline 0.8 on arrival, likely 
+pre-renal i/s/o
+decreased PO intake from AMS. Resolved after 1L IVF
+
+#Hx recurrent C. Diff
+-Patient was given PO Vancomycin with abx for ppx, which was 
+discontinued with completion of course
+
+#Orthostatic hypotension:
+-home fludrocortisone
+
+#Thyroid nodules
+TSH previously stable ___. Never on therapy. Patient 
+found
+to have Multinodular thyroid gland on prior CT C-spine. Largest
+nodule measures 1.5 cm, for which thyroid ultrasound is
+recommended. Given patient age and cognitive decline, diagnostic
+thyroid US was deferred.
+
+New Medications: Lasix 20 daily
+Changed Medications: None
+Held Medications: None
+[ ] Consider TTE for patient if pulmonary edema recurs
+[ ] Consider additional neurological work up for likely ___ 
+body dementia (currently undiagnosed)
+[ ] AVOID antipsychotics in patient with likely ___ body 
+dementia
+[ ] Ensure patient attends all post operative appointments 
+[ ] D/c Lovenox ppx after 4 weeks post surgery ___ last 
+day)
+#CODE STATUS: DNR/DNI  
+#EMERGENCY CONTACT:  
+Name of health care proxy: ___ (granddaughter)
+Phone number: ___ 
+ 
+___ on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+2. Fludrocortisone Acetate 0.1 mg PO DAILY 
+3. TraZODone 50 mg PO QHS 
+4. Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral BID 
+5. cranberry extract ___ mg oral BID 
+6. diclofenac sodium 1 % topical QID:PRN pain 
+7. Lidocaine 5% Patch 1 PTCH TD QAM 
+8. Polyethylene Glycol 17 g PO DAILY 
+9. TraMADol 50 mg PO QID 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 30 mg SC QHS  
+2.  Furosemide 20 mg PO DAILY  
+3.  Ipratropium-Albuterol Neb 1 NEB NEB Q6H  
+4.  Acetaminophen 1000 mg PO Q8H  
+5.  Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral BID  
+6.  cranberry extract ___ mg oral BID  
+7.  diclofenac sodium 1 % topical QID:PRN pain  
+8.  Fludrocortisone Acetate 0.1 mg PO DAILY  
+9.  Lidocaine 5% Patch 1 PTCH TD QAM  
+10.  Polyethylene Glycol 17 g PO DAILY  
+11.  TraZODone 50 mg PO QHS  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+=================
+Pulmonary Edema
+Hip Fracture
+
+SECONDARY DIAGNOSIS:
+===================
+___ Body Dementia
+Urinary Tract Infection
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+Thank you choosing to receive your care at ___.
+
+WHY WAS I HERE?
+-You came to the hospital after a fall in the setting of 
+shortness of breath.
+
+WHAT HAPPENED WHILE I WAS HERE?
+-You were found to have a fracture in the bone in your hip 
+requiring surgery that occurred without complication
+-You had difficulty breathing due to fluid in your lungs and 
+were given medication to help remove the fluid. Your breathing 
+improved.
+
+WHAT SHOULD I DO ONCE I LEAVE THE HOSPITAL?
+-Take all of your medications as prescribed
+-Continue to work with physical therapy to help you recover 
+after surgery.
+
+It was a pleasure taking care of you. We wish you the best.
+
+___ Care Team
+ 
+Followup Instructions:
+___

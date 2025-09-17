@@ -1,0 +1,1412 @@
+===== DISCHARGE NOTE =====
+note_id=11102747-DS-3 | hadm_id=20675191
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever, chills.
+ 
+Major Surgical or Invasive Procedure:
+___ line placement (___).
+Diagnostic and therapeutic paracentesis (___).
+Diagnostic paracentesis (___).
+
+ 
+History of Present Illness:
+___ man with history of HCV cirrhosis c/b esophageal 
+varices and ascites and multifocal HCC s/p cyberknife and TACE 
+who presents for evaluation after recent variceal bleed 
+requiring ICU stay in ___. There he reports undergoing 
+emergent banding of the varices with transfusion of 9 RBC's and 
+___omplicated by shock and renal dysfunction. 
+He was in the hospital for approximately two weeks and 
+discharged three days ago. Upon arrival to the ___, he called his 
+hepatologist Dr. ___. He reported worsening dry cough over 
+the past few days with fever and chills. He denies any further 
+hematemesis, BRBPR, or melena. He describes a heartburn 
+sensation which they told him was caused by the banding. Upon 
+arrival to the ED, he was febrile at 101.6 but was otherwise 
+hemodynamically stable on room air. Labs revealed a doubling in 
+his Tbili, with hyponatremia and an elevated creatinine. He 
+underwent CT of his torso which showed bilateral pleural 
+effusions, his known liver lesions and new right renal 
+hydronephrosis as well as other findings listed below. His 
+ascites was tapped and WBC was 14,500. Peritoneal fluid was sent 
+for culture, and he was started on vanc/zosyn. UA was positive 
+as well.  
+  
+On the floor, he reports feeling fatigued with chills. He notes 
+cough and shortness of breath. He denies CP or heartburn. His 
+urinary habits have been regular without dysuria or change in 
+frequency or urgency. He has had daily bowel movements since d/c 
+in ___ without melena or hematochezia. He denies abdominal 
+pain.  
+  
+ROS:  
++Per HPI.  
+-Denies night sweats, headache, bloody nose, rhinorrhea, 
+congestion, sore throat, shortness of breath, chest pain, 
+abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, 
+melena, hematochezia, dysuria, hematuria.  
+ 
+Past Medical History:
+-HCV cirrhosis c/b Esophageal varices and Ascites  
+-Multifocal HCC s/p cyberknife, TACE, with recently elevated AFP 
+tumor markers
+-Non-insulin dependent diabetes mellitus
+-Hx Shingles  
+-Echo ___: Severe pulmonary hypertension with hypertrophied  
+
+and dilated right ventricle. Peserved biventricular systolic  
+function. Mild mitral regurgitation
+
+ 
+Social History:
+___
+Family History:
+His mother had bladder cancer. 
+ 
+Physical Exam:
+Upon admission: 
+VS: 98.5 118/45 73 20 96% on RA 82.3kg ___ 143  
+I/O: 240+500/200  
+GENERAL: Well-appearing man in NAD, comfortable, appropriate.  
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.  
+NECK: Supple, JVD to mid-neck  
+HEART: ___ RR, no MRG, nl S1-S2.  
+LUNGS: Decreased bibasilar BS, clear at apices.  
+ABDOMEN: +BS, soft, moderate distention, mild TTP over diag para 
+site. Firm liver edge felt.  
+BACK: No CVA tenderness.  
+EXTREMITIES: WWP, 3+ pitting edema to upper thighs, 2+ 
+peripheral pulses.  
+NEURO: Awake, A&Ox3, CNs II-XII grossly intact, no asterixis.  
+
+At discharge:
+VS: 96.9 114/51 64 18 98%RA
+I/O: 1050/1300
+___: ___ 
+GENERAL: In NAD, comfortable lying in bed 
+HEENT: PERRLA, EOMI, sclerae anicteric, MMM, OP clear.  
+NECK: JVD to angle of the jaw 
+HEART: ___ RR, no MRG, nl S1-S2.  
+LUNGS: Improved breath sounds from yesterday.  Still with 
+crackles at lung bases. 
+ABDOMEN: +BS, soft, nontender moderate distention improved from 
+prior.
+BACK: No CVA tenderness.  
+EXTREMITIES:3+ pitting edema to upper thighs, 2+ peripheral 
+pulses.  
+NEURO: Awake, A&Ox3, CNs II-XII grossly intact, no asterixis.
+ 
+Pertinent Results:
+Labs upon admission: 
+___ 07:00PM BLOOD WBC-4.9 RBC-3.15* Hgb-11.1* Hct-32.2* 
+MCV-102*# MCH-35.3* MCHC-34.5 RDW-19.3* Plt Ct-66*
+___ 07:00PM BLOOD Neuts-80.8* Lymphs-13.2* Monos-3.3 
+Eos-2.1 Baso-0.6
+___ 07:00PM BLOOD ___ PTT-36.4* ___
+___ 07:00PM BLOOD Glucose-229* UreaN-21* Creat-1.3* Na-126* 
+K-7.3* Cl-91* HCO3-30 AnGap-12
+___ 07:00PM BLOOD ALT-26 AST-123* AlkPhos-209* TotBili-3.9*
+___ 07:00PM BLOOD Lipase-42
+___ 07:00PM BLOOD proBNP-1444*
+___ 07:00PM BLOOD cTropnT-<0.01
+___ 07:00PM BLOOD Albumin-2.5*
+___ 05:25AM BLOOD Albumin-3.5 Calcium-9.4 Phos-2.7 Mg-1.7
+
+Recent AFPs:
+___ 04:41    PND 
+___ 12:00    514.3*1 
+___ 10:30    197.4*1 
+___ 15:52    849.4*1 
+___ 13:13    713.2*1 
+___ 07:30    657.3*1 
+___ 11:45    414.9*1 
+___ 15:16    398.1*1 
+___ 16:52    254.1*1 
+___ 11:33    107.6*1 
+___ 15:00    43.6*1 
+___ 12:20    4.41 
+___ 12:15    5.91 
+___ 11:45    8.5* 
+___ 11:10    14.5* 
+
+Peritoneal fluid cellular analysis and chemistry:
+ASCITES ANALYSIS    WBC RBC Polys Lymphs Monos Mesothe Macroph 
+___ 14:20    25* ___ 28* 62* 0   10* 
+___ 00:10    ___ 5500* 25* 55* 0 4* 16*
+
+Micro:
+___ PERITONEAL FLUID GRAM STAIN-FINAL; FLUID 
+CULTURE-PRELIMINARY; ANAEROBIC CULTURE-PRELIMINARY INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+___ BLOOD CULTURE Blood Culture, Routine-PRELIMINARY 
+{GRAM NEGATIVE ROD(S)}; Anaerobic Bottle Gram Stain-FINAL 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+INPATIENT 
+___ URINE URINE CULTURE-PRELIMINARY {KLEBSIELLA 
+PNEUMONIAE} 
+___ PERITONEAL FLUID GRAM STAIN-FINAL; FLUID 
+CULTURE-PRELIMINARY; ANAEROBIC CULTURE-PRELIMINARY
+
+URINE CULTURE (Final ___: 
+KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML.. 
+         WARNING! This isolate is an extended-spectrum 
+beta-lactamase
+         (___) producer and should be considered resistant to 
+all
+         penicillins, cephalosporins, and aztreonam. Consider 
+Infectious
+         Disease consultation for serious infections caused by
+         ESBL-producing species. 
+         Piperacillin/Tazobactam sensitivity testing performed 
+by
+         Microscan.  Ertapenem SENSITIVITY REQUESTED BY ___ 
+___ ___. 
+         SENSITIVE TO Ertapenem. 
+         Ertapenem sensitivity testing performed by ___.
+                             SENSITIVITIES: MIC expressed in 
+MCG/ML
+                             KLEBSIELLA PNEUMONIAE
+                             |   
+AMIKACIN--------------    16 S
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------  =>64 R
+CEFTAZIDIME-----------  =>64 R
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------     1 S
+NITROFURANTOIN--------   256 R
+PIPERACILLIN/TAZO-----  =>64 R
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----  =>16 R
+
+Imaging:
+___ CXR: Frontal and lateral views of the chest are 
+obtained. There are small-to-moderate bilateral pleural 
+effusions with overlying atelectasis.  Anterolateral right 
+pleural thickening is again seen. Surgical clips are noted 
+projecting over the right lower hemithorax/right upper quadrant. 
+ Cardiac and mediastinal silhouettes are stable. IMPRESSION: 
+Bilateral pleural effusions with overlying atelectasis. 
+
+___ CT torso: 1. Loculated right pleural effusion with 
+peripheral calcifications, similar in appearance to prior study. 
+Small left pleural effusion is increased since the 
+abdomen/pelvis CT of ___. Increased bibasilar opacities 
+may relate to worsening atelectasis, although infection and/or 
+aspiration not excluded. 2. Persistent retroesophageal 
+lymphadenopathy. Mediastinal and retroperitoneal 
+lymphadenopathy, non-specific, but metastatic involvement cannot 
+be excluded; findings are similar to that on the prior study. 3. 
+Multiple known hepatic lesions, not optimally assessed on this 
+single-phase study, but as described above. Hepatic cirrhosis 
+and moderate to large amount of ascites. Areas of peritoneal 
+enhancement/thickening, as also seen previously, although may 
+have increased since the prior study. Findings may be 
+reactive/post-inflammatory, although infectious or malignant 
+ascites is not excluded. 
+4. Apparent mild thickening of the wall of the ascending colon, 
+could relate to portal colopathy or reactive from ascites, 
+although colitis (infectious, ischemic, or inflammatory) is not 
+entirely excluded. No pneumatosis or free air is seen. No bowel 
+obstruction. 5. Mild right hydronephrosis of uncertain etiology. 
+6. Destructive right iliac bone lesion with soft tissue 
+component, highly worrisome for metastatic disease. 7. Mild 
+compression of the superior endplate of the L1 vertebral body, 
+new since ___, but of otherwise indeterminate age.
+
+___ Bone scan:
+1. Heterogeneous tracer uptake in the area of the lytic, 
+destructive lesion in the right iliac bone seen on the recent CT 
+is concerning for a metastasis. 
+2. Two foci of mildly increased tracer uptake in the left ___ 
+and ___ anterolateral ribs correspond with sclerotic foci and 
+mild rib contour abnormalities on recent CT, more consistent 
+with post-traumatic changes.  
+3. Linear focus of increased tracer uptake at the superior 
+endplate of L1 corresponds with the compression fracture seen on 
+CT.
+ 
+Brief Hospital Course:
+In summary this ___ man with history of HCV cirrhosis 
+c/b esophageal varices and ascites and multifocal HCC s/p 
+cyberknife and TACE presented with fevers and chills after a 
+recent 2 week hospitalization for variceal bleed c/b hypotension 
+and renal failure in ___. He was found on admission to have 
+a urinary tract infection, bacteremia, and spontaneous bacterial 
+peritonitis.
+
+# Fever - bacteremia and urinary tract infection: He was found 
+to have a Klebsiella pneumoniae urinary tract infection. The 
+Klebsiella was sensitive to amikacin and meropenem and resistent 
+to all other abx (see resistance patterns above) - an ESBL 
+bacteria. On the second hospital day, blood cultures (___) were 
+also growing the same Klebsiella species. The patient was 
+treated initially with Zosyn; he defervesced and clinically 
+improved with this treatment, despite the fact that culture 
+sensitivities later showed resistence to Zosyn. When the 
+sensitivities returned, the patient was switched to meropenem. 
+Blood cultures have now cleared on three consecutive days of 
+surveillance cultures, and a PICC line has been placed in the 
+left arm. Placement of the PICC was confirmed radiographically, 
+and it is ready for use.
+
+The antibiotic course will be completed on ___. This will 
+complete a 14-day course of meropenem treatment for bacteremia. 
+Following this, the patient should be transitioned to 
+ciprofloxacin for spontaneous bacterial peritonitis prophylaxis 
+(see below).
+
+# Culture negative neutrophilic ascites: A diagnostic 
+paracentesis performed at the time of admission was consistent 
+with spontaneous bacterial peritonitis (ie. absolute neutrophil 
+count >250/mL). The LDH was slightly elevated (52), and the 
+total protein was low (0.9), all consistent with spontaneous 
+bacterial peritonitis. However, peritoneal fluid cultures 
+remained negative during the entirety of this admission. A 
+repeated paracentesis performed on the third hospital day showed 
+much decreased neutrophils (<10/mL), which suggests that there 
+was some response to antibiotic therapy; it is possible that the 
+SBP was partially treated at time of admission as patient was 
+taking ciprofloxacin prior to admission, a medicine that he had 
+received since his hospitalization in ___ two weeks ago for 
+variceal bleed. For this reason, we are recommending that the 
+patient continue prophylaxis for SBP after he finishes his 
+course of meropenem. Notably, the second paracentesis was large 
+volume (2L), and the patient was treated afterwards with 25 gm 
+of intravenous albumin. Fluid from this second paracentesis was 
+sent for cytology, given our concern of metastatic 
+hepatocellular cancer, and this will need to be followed up 
+after discharge (see below).
+
+# Hepatocellular carcinoma: He is s/p cyberknife and TACE 
+treatments. Recently his case was discussed at tumor board with 
+plans for close observation given his increasing AFP but no 
+clear liver lesions to target for treatment. CT scan from this 
+admission revealed a new lesion in the right iliac bone; this 
+was followed up with a bone scan, also suggestive of malignant 
+disease in the right ilium (see full reports above). The images 
+were reviewed with radiology. The patient was never complaining 
+of pain in the hips or back, even with ambulation, and the 
+decision was made to follow the lesion conservatively with 
+repeat imaging in one to two months. The patient will see his 
+outpatient oncologist in one to two weeks. An AFP is pending at 
+time of discharge. *The lytic right iliac lesion was discussed 
+with patient, and he agrees with the plan for now for active 
+surveillance.
+
+# Bilateral pleural effusions: Likely a contributing cause of 
+his cough and SOB. He was given a large volume of crystalloid 
+and colloid per his report when he was hospitalized in ___. 
+He has an element of diastolic dysfunction with an EF of >55% in 
+___. Once he clinically stabilized, his home diuretics were 
+resumed. His furosemide dose was increased from 40 mg twice 
+daily to 60 mg twice daily. Spironolactone dose remains the 
+same. The patient should take two more days of potassium 
+supplement due to the increased dose of Lasix. This course will 
+complete on ___.
+  
+# Acute kidney injury: This was most likely a result of his SBP. 
+His creatinine continued to improve with antibiotics and 
+albumin. In addition, his CT showed evidence of right 
+hydronephrosis without evidence of mass or stone. The images 
+were reviewed with radiology. This finding may be a result of 
+peristalsis with CT scan catching a transient hydronephrosis, or 
+a result of an acute angle of the ureter. It is possible that 
+inflammatory changes from SBP resulted in further strain and 
+angling of the ureter, thus causing a transient hydronephrosis. 
+His spironolactone and lasix were held until creatinine 
+improved, and then they were resumed. His renal function was at 
+baseline at time of discharge.
+  
+# HCV cirrhosis: He has known esophageal varices and ascites and 
+recently underwent emergent variceal banding in ___ (___). 
+He was continued on nadolol, with a plan for repeat EGD in three 
+weeks. His diuretics are as above. He can continue to take 
+lactulose as needed for constipation, although there is no 
+documented history of encephalopathy.
+
+# Diabetes mellitus, non-insulin dependent: He was continued on 
+___ and ISS while inpatient. His home glipizide and metformin 
+can be resumed after discharge.
+
+# Code Status: During this admission, the patient was confirmed 
+full code.   
+ 
+Medications on Admission:
+CIPROFLOXACIN 500 mg BID  
+FUROSEMIDE 40 mg BID  
+GLIPIZIDE 10 mg BID  
+LORAZEPAM 0.5 mg daily  
+METFORMIN 500 mg BID  
+NADOLOL 20 mg daily  
+PROCHLORPERAZINE MALEATE 10 mg q8 PRN  
+SPIRONOLACTONE 50 mg BID  
+URSODIOL 250 mg TID  
+RANITIDINE HCL 150 mg BID  
+VITAMIN E 400 unit daily  
+ 
+Discharge Medications:
+1. glipizide 10 mg Tablet Sig: One (1) Tablet PO twice a day.  
+2. furosemide 20 mg Tablet Sig: Three (3) Tablet PO BID (2 times 
+a day).  
+3. nadolol 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+as needed for Anxiety.  
+5. spironolactone 25 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day).  
+6. metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.  
+7. ursodiol 250 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day).  
+8. vitamin E 400 unit Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+9. ranitidine HCl 150 mg Capsule Sig: One (1) Capsule PO twice a 
+day.  
+10. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO 
+every eight (8) hours as needed for nausea.  
+11. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3 
+times a day) as needed for constipation.  
+12. acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H 
+(every 6 hours) as needed for pain, fever.  
+13. meropenem 500 mg Recon Soln Sig: One (1) Recon Soln 
+Intravenous Q6H (every 6 hours) for 9 days: Last dose on ___.  
+14. potassium chloride 20 mEq Packet Sig: One (1)  PO once a day 
+for 2 days: Please continue for three consecutive days and then 
+stop on ___.  
+15. ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO once a 
+day: Please do not begin treatment with ciprofloxacin until ___, after the patient has finished his course of ertapenam.  
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis: Urinary Tract Infection, Bacteremia, 
+Spontaneous Bacterial Pneumonitis
+Secondary Diagnosis: Hepatitis C Cirrhosis, Hepatocellular 
+Carcinoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you during your stay here at 
+___.
+
+You were admitted for fevers and chills. You were found to have 
+a urinary tract infection, a blood infection, and an infection 
+of the fluid within your abdomen. You were started on 
+antibiotics. 
+
+The following changes were made to your medication regimen:
+START meropenem: you will complete a 14-day course on ___.
+INCREASE furosemide: dose increased from 40 mg to 60 mg twice 
+daily.
+START ciprofloxacin: should start after the treatment course 
+with ertapenem is finished, on ___.
+START lactulose: for constipation.
+START potassium supplement: to take for two more days after 
+discharge.
+
+Please note your follow-up appointments below.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11102747-DS-5 | hadm_id=21106475
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Transfer from OSH after admission for hypoglycemia, anemia - 
+found to have bilateral pleural effusions, and klebsiella ESBL 
+bacteriuria.  
+
+ 
+Major Surgical or Invasive Procedure:
+paracentesis
+
+ 
+History of Present Illness:
+ Mr. ___ is a ___ year-old male with history of ESLD ___ HCV 
+complicated by ascites and esophageal varices (Grade II seen in 
+___, HCC s/p TACE in ___ and cyberknife in ___, 
+transferred from outside hospital at patient request. Patient 
+was admitted to ___ on ___ with hypoglycemia to 
+28. He was found unresponsive and EMS was called. Patient was 
+taken to ED and received an amp of D50 and his sugar improved to 
+156. This was in the setting of an increased dose of lantsus and 
+running out of strips for his ___. His lantus was held and 
+he was kept on an insulin sliding scale with resolution of the 
+hypoglycemia.  
+.  
+Other issues that came up during hospitalization are as follows: 
+ 
+1. Pleural effusions - found incidentally. Bilateral pleural 
+effusion diagnosed on CXR. Patient was asymptomatic. Patient did 
+not have oxygen requirement.  
+.  
+2. Klebsiella ESBL Bacteriuria: No dysuria. UA showed leukocyte 
+esterate, nitrite negative, 11 - 25 WBC, and 4 - 12 RBC with 
+bacteria present. Patient was put on contact precautions and 
+antibiotics were held. Patient is currently not symptomatic.  
+.  
+3. Anemia: Initial hgb was 7.9. Patient had an upper endoscopy 
+showing duodenitis, nonbleeding esophageal ulcer, and esophageal 
+varices. He was continued on PPI BID and got two units of pRBCs. 
+ 
+.  
+On the floor, patient is comfortable without complaints. His 
+peripheral edema is slightly improved from when he was admitted 
+to OSH. He denies chest pain, shortness of breath, dysuria, 
+fevers, chills.  
+.  
+.  
+ROS: Denies fever, chills, night sweats, headache, vision 
+changes, rhinorrhea, congestion, sore throat, shortness of 
+breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, 
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.  
+
+ 
+Past Medical History:
+MEDICAL & SURGICAL HISTORY:  
+-HCV cirrhosis c/b Esophageal varices and Ascites  
+-multifocal HCC status post chemoembolization and CyberKnife  
+-DM, insulin dependent  
+-Hx Shingles  
+-Echo ___: Severe pulmonary hypertension with hypertrophied 
+and dilated right ventricle. Peserved biventricular systolic 
+function. Mild mitral regurgitation.  
+
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY: Mother died of bladder cancer  
+
+ 
+Physical Exam:
+Admission PE: 
+VS:97.8, 107/52, 59, 22, 93% on RA  
+GENERAL: Jaundice elderly male, in no acute distress  
+HEENT: NC/AT, PERRLA, EOMI, sclerae icteric, MMM, OP clear.  
+NECK: Supple, no thyromegaly, no LAD.  
+HEART: RRR, no MRG, nl S1-S2.  
+LUNGS: Dullness at bases b/l, few bibasilar crackles  
+ABDOMEN: Distended, soft, non-tender, bowel sounds present  
+EXTREMITIES: 3+ pitting edema of lower extremtiy b/l to knees  
+SKIN: Jaundiced  
+NEURO: Awake, A&Ox3, CNs II-XII grossly intact  
+.
+Discharge PE:
+VS: Tm 97.0 Tc 95.9 101/56 (76-101/32-56) 64 (56-70) 20 97 on RA 
+FSG 163 (163-193)
+24 h 350+ out/420+250 in
+Gen: frustrated appearing elderly gentleman, NAD, laying in bed 
+comfortably 
+HEENT: moist mucous membranes
+neck: supple
+CV: RRR, S1, S2 no murmurs/rubs/gallops
+lungs: decreased breath sounds at bases b/l
+abdomen: nontender, distended and still a little firm, +BS
+ext: 3+ ___ pitting edema, anasarca ___ up thighs b/l
+Neuro: AAO x3, alert and appropriate 
+
+ 
+Pertinent Results:
+Admission labs:
+
+___ 01:46AM BLOOD WBC-6.4 RBC-2.90*# Hgb-10.4* Hct-32.0*# 
+MCV-110* MCH-35.8* MCHC-32.4 RDW-19.2* Plt Ct-82*#
+___ 06:14AM BLOOD WBC-7.1 RBC-2.81* Hgb-10.4* Hct-30.6* 
+MCV-109* MCH-36.9* MCHC-33.9 RDW-19.7* Plt Ct-68*
+___ 04:35AM BLOOD WBC-5.0 RBC-2.66* Hgb-9.6* Hct-29.8* 
+MCV-112* MCH-36.2* MCHC-32.3 RDW-19.2* Plt Ct-65*
+___ 01:46AM BLOOD ___ PTT-45.1* ___
+___ 06:14AM BLOOD ___ PTT-44.9* ___
+___ 04:35AM BLOOD ___
+___ 01:46AM BLOOD Glucose-205* UreaN-24* Creat-1.1 Na-132* 
+K-5.5* Cl-95* HCO3-35* AnGap-8
+___ 06:14AM BLOOD Glucose-167* UreaN-24* Creat-1.0 Na-128* 
+K-4.5 Cl-95* HCO3-31 AnGap-7*
+___ 07:05PM BLOOD Glucose-192* UreaN-22* Creat-1.0 Na-131* 
+K-4.4 Cl-93* HCO3-33* AnGap-9
+___ 04:35AM BLOOD Glucose-213* UreaN-21* Creat-1.0 Na-132* 
+K-4.1 Cl-93* HCO3-33* AnGap-10
+___ 02:40PM BLOOD Glucose-232* UreaN-22* Creat-1.1 Na-131* 
+K-4.6 Cl-92* HCO3-36* AnGap-8
+___ 01:46AM BLOOD ALT-31 AST-68* AlkPhos-171* TotBili-3.0*
+___ 06:14AM BLOOD ALT-30 AST-70* AlkPhos-177* TotBili-3.1*
+___ 04:35AM BLOOD ALT-28 AST-63* AlkPhos-166* TotBili-3.8*
+___ 05:20AM BLOOD ALT-27 AST-59* AlkPhos-164* TotBili-4.2*
+___ 05:30AM BLOOD ALT-26 AST-52* AlkPhos-162* TotBili-4.1*
+___ 01:46AM BLOOD Albumin-1.7* Calcium-9.2 Phos-2.1* Mg-1.9
+___ 06:14AM BLOOD Calcium-9.1 Phos-2.1* Mg-1.9
+___ 04:35AM BLOOD Albumin-2.6* Calcium-9.5 Phos-2.6* Mg-1.9
+.
+Discharge labs:
+
+___ 07:10AM BLOOD WBC-6.3 RBC-2.39* Hgb-8.8* Hct-26.9* 
+MCV-113* MCH-36.7* MCHC-32.6 RDW-18.1* Plt Ct-54*
+___ 05:18AM BLOOD WBC-6.4 RBC-2.30* Hgb-8.4* Hct-25.9* 
+MCV-113* MCH-36.6* MCHC-32.5 RDW-18.0* Plt Ct-61*
+___ 05:35AM BLOOD WBC-5.8 RBC-2.16* Hgb-7.9* Hct-24.5* 
+MCV-114* MCH-36.4* MCHC-32.0 RDW-18.2* Plt Ct-59*
+___ 07:10AM BLOOD ___
+___ 05:18AM BLOOD ___
+___ 05:35AM BLOOD ___
+___ 07:10AM BLOOD Glucose-246* UreaN-34* Creat-1.4* Na-128* 
+K-4.0 Cl-89* HCO3-35* AnGap-8
+___ 05:18AM BLOOD Glucose-172* UreaN-44* Creat-1.4* Na-132* 
+K-4.9 Cl-92* HCO3-37* AnGap-8
+___ 05:35AM BLOOD Glucose-146* UreaN-47* Creat-1.4* Na-130* 
+K-4.5 Cl-92* HCO3-35* AnGap-8
+___ 05:30AM BLOOD ALT-26 AST-52* AlkPhos-162* TotBili-4.1*
+___ 07:10AM BLOOD ALT-25 AST-49* AlkPhos-170* TotBili-4.4*
+___ 05:18AM BLOOD ALT-24 AST-53* AlkPhos-132* TotBili-5.3*
+___ 05:35AM BLOOD ALT-26 AST-61* AlkPhos-114 TotBili-4.7*
+___ 07:10AM BLOOD Albumin-2.0* Calcium-9.1 Phos-2.9 Mg-1.9
+___ 05:18AM BLOOD Calcium-9.7 Phos-3.2 Mg-2.0
+___ 05:35AM BLOOD Albumin-1.8* Calcium-10.1 Phos-3.6 Mg-2.0
+ 
+Brief Hospital Course:
+Mr. ___ a ___ M with history of ESLD ___ Hep C cirrhosis 
+c/b ascites, esophageal varices (Grade 2) s/p UGIB in ___ 
+s/p banding, ___ s/p TACE in ___, ___ transferred from 
+OSH for hypoglycemia, was initially being aggressively diuresed, 
+which has slowed down now secondary to his low blood pressures 
+and electrolyte abnormalities.
+.
+# ESLD ___ HCV Cirrhosis: The patient has a history of ESLD 
+complicated by ascites, SBP, varices s/p UGIB in ___.  His 
+LFTs are currently consistent with recent baseline. Patient now 
+with bilateral pleural effusions suggesting worsening of liver 
+failure.  The patient was initially started on IV lasix to 
+enhance his diueresis and the patient responded with good urine 
+output.  However, because of electrolyte abnormalities and the 
+patient's baseline low blood pressures (in the low ___ Lasix 
+was held.  The patient's spironolactone was also reduced to 50 
+mg BID, as well.  An attempt was made for paracentesis, however, 
+enough fluid for only a diagnositic para was obtained.  The 
+patient was negative for SBP on tap. He was continued on his 
+Cipro prophylaxis treatment while in patient.  He was also 
+continued on omeprazole, and ursodiol.  The patient also had 
+episodes of lethargy during this admission, which is most likely 
+due to hepatic encephalopathy.  Because of this, we started him 
+on a regimen of lactulose/rifaxamin with some improvement of his 
+mental status.  The patient was also continued on his nadolol 20 
+mg; however, it was held frequently given his low blood 
+pressures.  Attempts should be made for him to continue the 
+nadolol given his history of varices, however, should be held if 
+his systolic blood pressure are below 90.
+.
+# hypotension:  The patient has baseline low blood pressures; 
+during this admission his systolic pressures have been stably in 
+the mid80s-high ___.  He has been entirely asymptomatic and 
+comfortable with these pressures.  The patient's Lasix is being 
+held upon discharge, but he will be continued on his 
+Spironolactone 50 mg BID.  The patient will also be discharged 
+on his nadolol; however, holding parameters will be including 
+given his hypotension. 
+.
+# ___: The patient is s/p cyberknife and TACE treatment and has 
+a fairly poor prognosis and is a candidate for hospice care at 
+this point.  The patient, however, is not ready for hospice 
+care.  He is scheduled for outpatient oncology and liver follow 
+up.
+.  
+# goals of care:  The patient is reluctant to transition to 
+hospice care.  He has clear understanding of his prognosis, but 
+does not think that he is at the point for hospice yet.  He is 
+mentally intact, able to make decisions on his own.  Does not 
+demonstrate any confusion, but has been noted to be slightly 
+more lethargic.  He demonstrated episodes of somnolence during 
+this admission, likely hepatic encephalopathy from his ESLD.  We 
+attempted multiple discussions about goals of care with the 
+patient but he is not very open to discussing it, often 
+deferring to his primary hepatologist or his daughter.  A goals 
+of care discussion was initiated with his daughter, who is the 
+health care proxy because of this, as well as because he was 
+starting to develop the tendency to wax and wane with his mental 
+status.  After a long discussion, decision was made that patient 
+will be DNR/DNI with no escalation of medical care.  The patient 
+seems a lot more accepting of the notion of hospice now as 
+compared to when he was first admitted, but a goals of care 
+discussion needs to be readdressed in the near future.  He has 
+good insight into his illness, but it not quite ready to accept 
+the terminal stage of his disease.  Currently plans are to go 
+for rehabilitation with plans for transitioning to hospice care 
+in the future.
+.
+# ESBL bacteruria: The patient has history of ESBL bacteruria 
+(___), and is currently without any symptoms.  The patient 
+urine culture from this admission grew out Klebsiella that was 
+sensitive to Bactrim.  Because the patient was asymptomatic, he 
+was not treated as it is most likely a colonizer.
+.  
+# Anemia: The patient's hematocrit was 32 on admission and is 
+24.5 on discharge, likely slow GI bleed either from his varices 
+or from his liver lesions.  At OSH, the patient had an endoscopy 
+that showed duodenitis, nonbleeding esophageal ulcer, and 
+esophageal varices.  He was transfused 2U PRBC at the OSH before 
+transfer to ___. The patient never had an acute crit drop 
+while at ___ and he was never transfused.  Because of his 
+history of upper GI bleeding and esophageal varices, a crit goal 
+of 25 is ideal.  Please continue to follow his crit as an 
+outpatient.  If his hematocrit drops below ___, would 
+seriously consider having another goals of conversation with the 
+patient and his family regarding if he would like to transition 
+to hospice care, rather than reflexively readmitting to the 
+hospital.
+.  
+# Hyperkalemia: The patient was initially hyperkalemic on 
+admission, likey due to his spironolactone.  During the 
+hospitalization, his K was trended, and eventually normalized.
+.  
+# Hyponatremia: The patient was hyponatremic during this 
+admission, which sodium going as low as 127, likely due to his 
+diuretic therapy.  The patient was fluid restricted and his 
+lasix was held, to which his hyponatremia slowly improved.  At 
+discharge, the patient's sodium was 130.
+.  
+# DM: The patient was found to be hypoglycemic at OSH because he 
+took his lantus dose without eating dinner. The patient was 
+restarted on Lantus 10 u as inpatient, as well as sliding scale. 
+ At discharge his normal home dose of lantus was restarted (20 u 
+qhs).
+..
+Transitional issues:
+.
+# goals of care: The patient needs to have his goals of care 
+readdressed.  During this admission, the patient was reluctant 
+to turn to hospice care.  He has good insight into his condition 
+and his poor prognosis, but is not willing to take the step 
+towards hospice.  Multiple discussions were already undertaken 
+with patient and two daughters, but this issue needs to be 
+readdressed as outpatient.  The patient was made DNR/DNI, as per 
+HCP.
+.
+# hematocrit: The patient's hct was trending down during this 
+admission, likely from slow GI bleed from varices or portal 
+gastropathy, or from bleeding hepatocellular carcinoma tumors.  
+Please continue to follow his hematocrit.  If his hematocrit 
+drops below ___, would seriously consider having another goals 
+of conversation with the patient and his family regarding if he 
+would like to transition to hospice care, rather than 
+reflexively readmitting to the hospital.
+.
+# hypotension: The patient's blood pressures were running low 
+this admission (in the mid___-high ___ likely due to both his 
+cirrhosis and diuretic therapy.  We held the patient's lasix at 
+discharge and reduced his spironlactone dose to 50 mg BID.
+.
+# electroytes: please continue to follow sodium and potassium; 
+if sodium levels trend down, consider fluid restriction.
+ 
+Medications on Admission:
+BENZONATATE - 100 mg Capsule - 1 Capsule(s) by mouth three times 
+ 
+a day as needed for prn  
+Ciprofloxacin 250 mg daily  
+FUROSEMIDE 60 mg in AM, 40 mg in evening  
+Lantus - patient is unsure of dose, possibly 20 units at night  
+Humalog - patient unsure of dose  
+Lorazepam 0.5 mg PRN nausea, anxiety, insomnia  
+NADOLOL 20 mg daily  
+OMEPRAZOLE - (Prescribed by Other Provider) - Dosage uncertain  
+SPIRONOLACTONE [ALDACTONE] 25 mg in AM, 50 mg ___  
+URSODIOL 250 mg three times a day  
+VITAMIN E - 400 unit daily  
+
+ 
+Discharge Medications:
+1. ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours).  
+2. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).  
+3. benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+4. nadolol 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): 
+please hold for SBP <90, HR <55.  
+5. ursodiol 250 mg Tablet Sig: One (1) Tablet PO three times a 
+day.  
+6. vitamin E 400 unit Tablet Sig: One (1) Tablet PO once a day.  
+
+7. Lantus 100 unit/mL Solution Sig: Twenty (20)  Subcutaneous at 
+bedtime.  
+8. Humalog 100 unit/mL Solution Sig: as directed  Subcutaneous 
+three times a day: please take according to insulin sliding 
+scale.  
+9. spironolactone 50 mg Tablet Sig: One (1) Tablet PO twice a 
+day: please hold for SBP < 95.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+primary diagnosis:
+hepatocellular carcinoma
+Hepatitis C
+
+ 
+Discharge Condition:
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+Level of Consciousness: Alert and interactive (but can have 
+episodes of lethargy)
+Mental Status: Clear and coherent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you while you were hospitalized 
+at ___.  You were admitted to the hospital because you were 
+having worsening lower extremity edema and also had low blood 
+sugars at an outside hospital.  By the time you got to this 
+hospital, your blood sugars normalized and we restarted you on 
+Lantus and your insulin sliding scale.
+
+While you were here, we also gave you some medications through 
+your veins to get extra water off of you.  However, because your 
+blood pressures were very low, we had to hold some of your 
+diuretic medication.  Your blood pressures were running on the 
+low side while in the hospital, because of your liver disease, 
+as well as the medications we were using to get extra fluid out 
+of your belly and legs.  We tried to use a needle to drain the 
+extra fluid out of your belly, but we did not get a lot off.
+.
+While you were in the hospital we also had conversations about 
+your goals of care with you and your daughters.  You are very 
+sick and we think your healthcare should shift more towards 
+making sure that you are comfortable.  We think it is very 
+important that you address these issues with Dr. ___ your 
+oncology doctors as ___ outpatient.
+
+We made the following changes to your medications:
+STOP Lasix 60 mg in the morning, 40 mg in the evening
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11102747-DS-2 | hadm_id=24299043
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Admit for TACE
+ 
+Major Surgical or Invasive Procedure:
+TACE
+ 
+History of Present Illness:
+This is a ___ yo male with h/o recently diagnosed HCC admitted 
+today for transarteriam chemoembolization, admitted for post 
+procedure care. Of note, during the procedure, pt noted to have 
+sinus bradycardia, which was treated with Atropine.  
+ 
+Upon arrival to the floor, inital vital signs were 96.0, BP 
+132/59, 50, 20, 95%RA.   
+ 
+ROS: as per HPI, otherwise patient feels well.  Currently 
+denying any pain, difficulty breathing, chest pain, nausea, or 
+vomiting.  All else negative.   
+
+ 
+Past Medical History:
+1. Hepatitis C cirrhosis  
+2. History of esophageal varices grade II  
+3. Non-insulin-dependent diabetes mellitus  
+4. History of shingles  
+5. Gout? 
+
+ONCOLOGIC HISTORY: Diagnosed with hepatocellular carcinoma 
+occurring in the setting of hepatitis C cirrhosis by screening 
+ultrasound in ___. Abdominal CT identified three lesions 
+with charactistics consistent with HCC in the right liver. Liver 
+biopsy in ___ was diagnostic. The lesions have slowly 
+increased in size, and AFP was greater than 200 ng/dL in 
+___. Most recent CT in ___ identified four lesions in 
+the dome and right liver, with two dominant lesions grown in 
+size. These are not amenable to RFA given the location, and 
+transarterial chemoembolization was recommended. 
+ 
+Social History:
+___
+Family History:
+His mother had bladder cancer. 
+ 
+Physical Exam:
+VS-96.0 132/59 50 20 95RA  
+Gen- well appearing, lying in bed, NAD
+HEENT- PERRL
+CV-RRR
+Resp- CTA B/L 
+Abd-  soft NTND
+Ext- no edema
+Neuro- AAOx3
+
+ 
+Pertinent Results:
+WBC Hgb Hct Plt Ct  
+___ 07:30 4.7 12.2* 35.0* 107*  
+___ PTT INR  
+___ 07:30 14.4* 29.8 1.3*  
+
+BUN Creat  
+___ 07:30 17 1.0  
+ 
+ALT AST AlkPhos TotBili  
+___ 07:30 36 75* 141* 1.8*  
+ 
+Albumin Calcium  
+___ 07:30 3.4* 9.1  
+___ 07:30 AFP 657.3*  
+
+Imaging:  
+CXR ___: IMPRESSION: Overall slight improvement compared to 
+___ film but likely right-sided subpulmonic effusion. If 
+clinically warranted, decubitus film could further evaluate 
+possible effusion. Evidence of increased venous pressure with 
+possible element of right heart failure.  
+
+Transthoracic Echo ___ at 2:10:00 
+
+PMLEFT ATRIUM: Mild ___. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA. 
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size and 
+regional/global systolic function (LVEF >55%). Doppler 
+parameters are most consistent with Grade I (mild) LV diastolic 
+dysfunction. No resting LVOT gradient. 
+
+RIGHT VENTRICLE: RV hypertrophy. Mildly dilated RV cavity. 
+Normal RV systolic function. 
+
+AORTA: Mildly dilated aortic sinus. Mildly dilated ascending 
+aorta. Normal aortic arch diameter. 
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. 
+No AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. 
+Mild (1+) MR. 
+
+___ VALVE: Normal tricuspid valve leaflets. Moderate [2+] 
+TR. Severe PA systolic hypertension. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen. 
+
+PERICARDIUM: No pericardial effusion. 
+
+GENERAL COMMENTS: Echocardiographic results were reviewed by 
+telephone with the houseofficer caring for the patient.  
+Conclusions  
+The left atrium is mildly dilated. The right atrium is 
+moderately dilated. Left ventricular wall thickness, cavity size 
+and regional/global systolic function are normal (LVEF >55%). 
+Doppler parameters are most consistent with Grade I (mild) left 
+ventricular diastolic dysfunction. The right ventricular free 
+wall is hypertrophied. The right ventricular cavity is mildly 
+dilated with normal free wall contractility. The aortic root is 
+mildly dilated at the sinus level. The ascending aorta is mildly 
+dilated. The aortic valve leaflets (3) are mildly thickened but 
+aortic stenosis is not present. No aortic regurgitation is seen. 
+The mitral valve leaflets are mildly thickened. There is no 
+mitral valve prolapse. Mild (1+) mitral regurgitation is seen. 
+Moderate [2+] tricuspid regurgitation is seen. There is severe 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion. 
+
+IMPRESSION: Severe pulmonary hypertension with hypertrophied and 
+dilated right ventricle. Preserved biventricular systolic 
+function. Mild mitral regurgitation.
+ 
+
+ 
+Brief Hospital Course:
+The patient is a ___ yo male with hepatocellular carcinoma 
+admitted after transarterial chemoembolization (TACE) of his 
+liver tumors. 
+
+# HCC s/p TACE
+The patient's platelet count decreased (nadir of 69k on ___ 
+and his liver functions increased (peak AST 880* ALT 1872* LDH 
+693* on ___ and peak Tbili of 3.5 on ___. These ranges are 
+often seen after chemoembolization; all values were trending 
+down prior to discharge (labs at discharge: 529, AST 633, LDH 
+236, Alkaline Phosphatase 96 and Total Bili 3.4). 
+He was assymptomatic and had no clinical complications from his 
+procedure. He began 7 day course of ciprofloxicin that will 
+finish on ___. He continued his home Ursodiol in the hospital, 
+and will follow up with his primary oncologist, Dr. ___, at 
+___. In addition, he will undergo a follow up CT of his 
+abdomen as an outpatient.  He was asked to arrange follow up 
+with his PCP ___ ___ weeks, repeat Chem 7 and LFT's should be 
+rechecked at that visit.  
+
+# Acute renal failure, mild
+The patient's cre was noted to bump on hospital day 3 to 1.3; 
+diuretics were held x 1 day with improvement to 1.1 on the day 
+of discharge. 
+
+# Severe Pulmonary Hypertension **new diagnosis
+The patient had a brief episode of pulmonary edeam during the 
+procedure and a second episode on the floor that responded to 
+lasix. An echo was ontained on ___ that showed severe pulmonary 
+hypertension. This will require outpatient follow up.  See ___ 
+report above for details.
+
+# HCV CIrrhosis, Diabetes, Gout
+He continued his home Lasix, Spiranolactone, Nadolol, and 
+Ranitidine for his HCV cirrhosis/Varices as an inpatient. The 
+patient's Metformin was held 48 hours post procedure and he was 
+continued on his Glipizide with a sliding scale of insulin for 
+his diabetes. At the time of his discharge he will continue his 
+home Colchicine for gout.
+
+ 
+Medications on Admission:
+Colchicine 0.6 mg twice a day  
+Furosemide [Lasix] 40 mg once a day  
+Glipizide 5 mg twice a day  
+Metformin 500 mg twice a day  
+Nadolol 20 mg once a day  
+Spironolactone [Aldactone] 50 mg twice a day  
+Tadalafil [Cialis] 10 mg one hour prior to sexual activity  
+Ursodiol 500 mg three times a day  
+Zolpidem 2.5 mg qhs  
+Ranitidine 150 mg twice daily  
+Vitamin E 400 unit once a day  
+
+ 
+Discharge Medications:
+1. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO Q 12H (Every 
+12 Hours).  
+2. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Nadolol 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. Spironolactone 25 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day).  
+5. Ursodiol 250 mg Tablet Sig: Two (2) Tablet PO TID (3 times a 
+day).  
+6. Zolpidem 5 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime).  
+7. Glipizide 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+8. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 2 days.
+Disp:*4 Tablet(s)* Refills:*0*
+9. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+10. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hepatocellular cancer
+Hepatitis C cirrhosis  
+Non-insulin-dependent diabetes mellitus  
+History of shingles  
+History of esophageal varices grade II  
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted after your TACE procedure for your liver 
+cancer to observe your liver and blood labs. Of note, during 
+your procedure, your heart rate slowed and you were treated with 
+a medicine called Atropine. Your did well after your procedure. 
+You had some mild shortness of breath when you got intravenous 
+fluid during the TACE. This went away with your Lasix medicine 
+and you should continue this medication when you go home. Your 
+liver function test levels and platelet level (blood clotting 
+cells) became abnormal in the range that is commonly seen after 
+the TACE procedure. These lab values began to normalize before 
+you went home. 
+Make sure to keep your appointment for your follow up CAT scan 
+on ___ 11:00. 
+The echo of your heart showed a condition called pulmonary 
+hypertension that is probably related to your cirrhosis and that 
+you should follow up with your primary physician.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11102747-DS-4 | hadm_id=25304902
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+volume overload
+ 
+Major Surgical or Invasive Procedure:
+Upper endoscopy with variceal banding x 2
+
+ 
+History of Present Illness:
+___ yo M with ___ HCV, DM, and HCC s/p TACE in ___ and 
+cyberknife in ___ who was transferred from OSH by request 
+from family members.  Pt initially presented to OSH for weakness 
+and altered mental status.  Per the daughter, she had gone to 
+check on pt who was sleeping when his life alert bracelet went 
+off, instructing him to check his BP.  When daughter tried to 
+wake up the patient for BP check, she states he was "completely 
+out of it."  He was able to try to communicate with her, but had 
+significant difficulty and appeared weak, trying to say he 
+"couldn't" get the BP cuff on.  Daughter called ambulance and pt 
+was transported to OSH where BG was found to be 28.
+
+OSH COURSE: ___ BG of 28 by EMT. He was given glucagon and 
+dextrose in the field and taken to the OSH. His oral 
+hyperglycemics (glipizide and metformin) were discontinued and 
+he was started on Januvia. His blood sugars fluctuated for the 
+first ___ hours of admission with eventual normalization. 
+ 
+His work-up consisted of an x-ray which showed bilateral pleural 
+effusions. An echocardiogram was performed but was pending at 
+the time of transfer. His lab data was significant for a HCTof 
+26 (___) which was stable from ___. Mildly elevated 
+bilirubin of 2.3, albumin of 2.1, normal creatinine and 
+unremarkable chem 7. 
+
+Daughter requested transfer to ___ because she felt she was 
+getting mixed messages from the doctors at ___ and did not agree 
+with their work-up.  For example, they got an echo and told 
+daughter the patient's heart "was a problem," but pt had no 
+prior history of cardiac disease. He is followed at ___ for 
+his liver disease. He had a recent hospitalization after a 
+variceal bleed while in ___ requiring a total of 9 units of 
+blood between the two hospitals. 
+
+On the floor, pt states he does not remember the events leading 
+to his hospitalization.  He was also disoriented to time, and 
+thought he had only been in the hospital for one day. BG 
+fingerstick on the floor was 253.
+
+ROS: He currently denies CP or any other pain, chills, N/V, 
+diarrhea, or constipation.  Denies SOB but states that sometimes 
+he gets DOE.  Admits to dysphagia and a history of chills, but 
+denies currently. Admits to ___ edema.
+
+ 
+Past Medical History:
+-HCV cirrhosis c/b Esophageal varices and Ascites
+-NIDDM
+-Hx Shingles
+-Echo ___: Severe pulmonary hypertension with hypertrophied
+and dilated right ventricle. Peserved biventricular systolic
+function. Mild mitral regurgitation.
+
+ 
+Social History:
+___
+Family History:
+Reviewed and noncontributory for liver cancer.
+
+ 
+Physical Exam:
+ADMISSION EXAM
+Vitals: Tc 98.1, BP 120/64, P63, RR, 16  sat 96% on RA
+General: AAOX2, friendly male lying in hospital bed.
+HEENT: EOMI, positive scleral icterus, MMM
+Heart: RRR. no m/r/g, S1, S2
+Lungs: decreased breath sounds at right lung base and extending 
+___ecreased breath sounds at left lung base.  
+Mild crackles throughout lung fields bilaterally.
+Abdomen: soft, NT, distended, normoactive bowel sounds
+Extremities: 3+ pitting edema in legs bilat extending up to 
+thighs.  No UE edema.  2+ pulses in UE bilat but could not 
+palpate ___ pulses.
+Neurological: CN ___ intact, moves all extremities, no 
+asterixis
+
+DISCHARGE EXAM 
+Vitals: Tc 98, Tm 98.2, 109/50, 61, 18, 96% RA
+General: AAOX2, friendly male lying in hospital bed with feet 
+propped up
+HEENT: EOMI, no scleral icterus, MMM
+Heart: RRR, no m/r/g, S1, S2
+Lungs: decreased breath sounds bilaterally at bases.
+Abdomen: soft, NT, distended, normoactive bowel sounds
+Extremities: trace pitting edema in legs bilat (much improved).  
+No UE edema.  2+ pulses in UE and ___ bilat.  ___ TTP bilat when 
+squeezed
+Neurological: CN ___ intact, moves all extremities
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 05:15AM BLOOD WBC-3.7* RBC-2.37* Hgb-8.5* Hct-25.5* 
+MCV-108* MCH-36.1* MCHC-33.5 RDW-21.1* Plt Ct-52*
+___ 05:15AM BLOOD Glucose-217* UreaN-17 Creat-0.9 Na-139 
+K-3.4 Cl-98 HCO3-33* AnGap-11
+___ 05:15AM BLOOD Calcium-8.7 Phos-2.3* Mg-2.0
+___ 05:15AM BLOOD ALT-22 AST-50* AlkPhos-151* TotBili-2.9*
+
+EGD ___
+Indications: Anemia
+History of GI bleeding and esophageal varices
+Procedure: The procedure, indications, preparation and potential 
+complications were explained to the patient, who indicated his 
+understanding and signed the corresponding consent forms. A 
+physical exam was performed. The patient was administered 
+moderate sedation. Supplemental oxygen was used. The patient was 
+placed in the left lateral decubitus position and an endoscope 
+was introduced through the mouth and advanced under direct 
+visualization until the third part of the duodenum was reached. 
+Careful visualization of the upper GI tract was performed. The 
+procedure was not difficult. The patient tolerated the procedure 
+well. There were no complications. 
+Findings: Esophagus:  
+ Lumen: A sliding hiatal hernia was seen.  
+ Mucosa: Localized erythematous mucosa was noted in the 
+gastroesophageal junction.  
+ Protruding Lesions 2 cords of grade II varices were seen in the 
+lower third of the esophagus. The varices were not bleeding. 2 
+bands were successfully placed.  
+Stomach:  
+ Mucosa: Segmental erythema with a reticular pattern and a 
+friable mucosa of the mucosa were noted in the stomach body. 
+These findings are compatible with gastritis.  
+Duodenum: Normal duodenum. 
+Impression: Gastritis with a friable mucosa (PHG?)
+Hiatal hernia
+Erythema in the gastroesophageal junction
+Varices at the lower third of the esophagus (ligation) 
+Recommendations: In hospital acre. PPI Rx, follow hematocrit and 
+Tx as needed 
+Additional notes: FINAL DIAGNOSES are listed in the impression 
+section above. Estimated blood loss=zero. No specimens were 
+taken for pathology. 
+   
+DISCHARGE LABS:
+___ 04:40AM BLOOD WBC-3.8* RBC-2.58* Hgb-9.2* Hct-27.4* 
+MCV-106* MCH-35.9* MCHC-33.7 RDW-21.7* Plt Ct-48*
+___ 04:40AM BLOOD ___ PTT-52.3* ___
+___ 04:40AM BLOOD Glucose-201* UreaN-13 Creat-0.9 Na-136 
+K-4.2 Cl-98 HCO3-33* AnGap-9
+___ 04:40AM BLOOD ALT-20 AST-42* AlkPhos-120 TotBili-3.6*
+___ 04:40AM BLOOD Calcium-8.7 Phos-3.2 Mg-1.___ year old male with PMH HCV, DM, and HCC s/p TACE in ___ and 
+cyberknife in ___ who was transferred from OSH with ___ 
+edema, ascites, pleural effusions and recent episode of 
+hypoglycemia.
+  
+# edema/ascites/effusions - Mr. ___ came from an outside 
+hospital with volume overload with significant lower extremity 
+edema, as well as bilateral pleural effusions and likely 
+ascites. He improved with initial IV lasix, which was quickly 
+switched to PO and he tolerated this well. His edema improved 
+with diuresis, mobility, and elevation of his legs. At the time 
+of discharge his lower extremity edema was significantly 
+improved. He was discharged on Lasix 20mg PO daily. Can 
+uptitrate as tolerated to home dose Lasix 60mg PO daily.
+  
+# anemia - Recent history of variceal bleed in ___ ___. He had repeat endoscopy, which showed 2 cords of grade 2 
+varices which were banded successfully. There was no evidence of 
+bleeding. His HCT was stable at 26, with a nadir of 23.8, and 
+received one unit of PRBCs. He did not have any signs of active 
+bleeding.
+   
+# HCC - pt has h/o HCC s/p TACE and cyberknife.  Last visit with 
+onc was ___ at ___.  Pt has bony mets on ___ bone scan. 
+Pt denied bone pain but c/o pain when walking, which, per 
+oncologist is likely ___ to his problems with peripheral edema.  
+Pt and onc have a visit scheduled for ___ and have discussed 
+treatment options re: bony mets.  Pt has been offered palliative 
+radiation for bony mets, but encouraged to manage other medical 
+problems first, as they are likely the source of most of his 
+symptoms right now.
+   
+# hypoglycemia/DM - He had issues with glycemic control and was 
+found to be hypoglycemic prior to admission to the OSH. On 
+admission to ___, this had resolved, and he was covered with 
+ISS. 
+
+ 
+Medications on Admission:
+BENZONATATE - 100 mg Capsule - 1 Capsule(s) by mouth three times
+a day as needed for prn
+CIPROFLOXACIN - 250 mg Tablet - 1 Tablet(s) by mouth once a day
+FUROSEMIDE [LASIX] - 40 mg Tablet - 1.5 Tablet(s) by mouth once 
+a
+day
+GLIPIZIDE 10mg po BID
+NADOLOL - 20 mg Tablet - 1 Tablet(s) by mouth once a day
+RANITIDINE HCL -  (Prescribed by Other Provider) - 150 mg Tablet
+- 1 Tablet(s) by mouth twice a day
+SPIRONOLACTONE [ALDACTONE] - 25 mg Tablet - 1 Tablet(s) by mouth
+twice a day
+URSODIOL ___ 250] - 250 mg Tablet - 1 Tablet(s) by mouth three
+times a day
+ZOLPIDEM - 5 mg Tablet - 1 Tablet(s) by mouth at bedtime as
+needed for insomnia may take 2 if needed. Do not take with 
+ativan
+(OTC) VITAMIN E - 400 unit Capsule - 1 Capsule(s) by mouth once 
+a day
+
+ 
+Discharge Medications:
+1. benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day) as needed for cough.
+Disp:*90 Capsule(s)* Refills:*0*
+2. nadolol 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+3. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+4. spironolactone 25 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+5. ursodiol 250 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day).
+Disp:*90 Tablet(s)* Refills:*0*
+6. vitamin E 400 unit Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).
+Disp:*30 Capsule(s)* Refills:*0*
+7. ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+8. trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as 
+needed for insomnia.
+Disp:*15 Tablet(s)* Refills:*0*
+9. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+10. Humalog 100 unit/mL Solution Sig: sliding scale  
+Subcutaneous four times a day.
+Disp:*100 units* Refills:*0*
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Fluid overload
+Esophageal varices
+
+Secondary Diagnoses:
+Hepatitis C virus
+Diabetes mellitus
+Hepatocellular carcinoma 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Mr. ___,
+  
+You were sent to ___ from another hospital because your family 
+was concerned about the care you were receiving.  You were 
+initially admitted to that hospital because of low blood sugar, 
+but during your stay there you developed swelling in your legs 
+from the fluids you recieved.  You were transferred to ___, 
+where you were started on a diuretic to remove the excess fluid 
+from your legs.  You also had an upper endoscopy because of your 
+history of GI bleeding, and they banded two varices.  Your leg 
+swelling improved and you were discharged.
+   
+The following changes were made to your medications:
+-CHANGE ambien to trazodone 25mg at night as needed for sleep
+-STOP glipizide and metformin
+-START Humalog insulin with meals and at bedtime, according to 
+your sliding scale 
+-DECREASE Lasix to 20mg by mouth daily, can increase back up to 
+home dose of 60mg daily as tolerated
+  
+It was a pleasure meeting you and taking part in your care.
+ 
+Followup Instructions:
+___

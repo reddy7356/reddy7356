@@ -1,0 +1,1491 @@
+===== DISCHARGE NOTE =====
+note_id=10556676-DS-5 | hadm_id=22783191
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ former smoker w EtOH cirrhosis pw SOB. She is s/p recent 
+extended hospital stay ___ requiring EGD x 3, ___ 
+for massive variceal bleed, s/p visceral perforation, and long 
+ICU stay. She returned home from a rehabilitation facility 
+___ and began experiencing progressive SOB, which prompted 
+her to seek an outpatient appointment with her PCP; she was sent 
+to the hospital after that appointment.
+The clinical course of her liver disease has been excellent 
+since hospital discharge: ascites abated, nutritional status 
+improving, no further hepatic decompensation.
+Per the patient, the SOB is worst when lying down. She does have
+a h/o asthma, but did not require medications in the past 
+(occasional, moderate symptoms were relieved by albuterol). Has 
+a
+dog, house was cleaned with noxious cleansers just prior to her 
+return from rehabilitation. Thinks that some foods worsen her 
+SOB (wheat/rye). Some cough, with clear phlegm, clear. Has a 
+Dubhoff tube, placement was seen on last CXR. Some wheezing, 
+notes some orthopnea, no PND, some swelling of legs. Previously 
+smoked 1ppd, quit ___ years ago.
+She has been afebrile.
+CT chest performed on admission ___ reveals background 
+emphysema with bronchial wall thickening, likely representing 
+chronic bronchitis/bronchiolitis; no focal opacification 
+concerning for pneumonia; 4 mm polypoid soft tissue density in 
+the anterior trachea at the level of clavicles. 
+ 
+Past Medical History:
+PMH:
+Cirrhosis (alcoholic)
+Varices
+Ulcerative colitis?
+Right distal radius fracture
+Variceal bleeds and placement ___ tube with visceral 
+perforation during prolonged inpatient/ICU course 
+___
+
+PSH:
+TIPS procedure
+
+ 
+Social History:
+___
+Family History:
+Mother deceased with COPD, father alive without medical issues, 
+brother DM  
+ 
+
+ 
+Physical ___:
+Physical Examinaion on Admission:
+
+VS: 97.8 AF 107/66 97 18 97% 3L
+Gen: Sick appearing cachectic female, sitting up in bed. NAD. 
+Breathing unlabored, speaking in full sentences.
+HEENT: NG tube in place. Sclerae anicteric. 
+Pulm: Some wheezes diffusely in R fields, absent on L. No rales 
+or ronchi.
+Cor: RRR no MRG.
+Abd: Enlarged, firm liver easily palpable ~4+ cm below costal 
+margin. Soft, nontender, distended abdomen.
+Extr: No pedal edema.
+Neuro: AOx3. Conversation on interview raised concern for 
+possible moderate encephalopathy (some impaired memory and 
+impaired thought processes) but no formal cognitive testing 
+performed. CNs: PER, ___, TM. FSAE. Asterixis (bimanual). 
+Patellar tendon reflexes 3+. Several beats of clonus on R. 
+
+Physical Examination at Discharge:
+
+VS: 98.5 99/62 6 18 97%RA
+Gen: Sitting up in bed. NAD. Breathing unlabored, speaking in 
+full sentences.
+HEENT: NG tube in place. Sclerae anicteric. 
+Pulm: Bilateral wheezes diffusely. No rales or ronchi.
+Cor: RRR no MRG.
+Abd: Enlarged, firm liver easily palpable ~4+ cm below costal 
+margin. Soft, nontender, distended abdomen.
+Extr: No pedal edema.
+Neuro: AOx3, mentating normally. No asterixis. CNs: PER, ___, TM. 
+FSAE. 
+ 
+Pertinent Results:
+___ 09:35PM BLOOD WBC-6.2 RBC-3.61* Hgb-12.3 Hct-37.8 
+MCV-105* MCH-34.2* MCHC-32.6 RDW-16.6* Plt ___
+___ 04:25AM BLOOD WBC-6.9 RBC-3.23* Hgb-10.9* Hct-33.2* 
+MCV-103* MCH-33.7* MCHC-32.8 RDW-16.0* Plt ___
+___ 09:35PM BLOOD Neuts-49.7* ___ Monos-7.8 
+Eos-10.1* Baso-0.9
+___ 04:25AM BLOOD Neuts-57.9 ___ Monos-9.7 Eos-1.2 
+Baso-0.6
+___ 09:35PM BLOOD ___ PTT-34.7 ___
+___ 09:35PM BLOOD Glucose-145* UreaN-20 Creat-0.6 Na-141 
+K-3.7 Cl-100 HCO3-33* AnGap-12
+___ 04:25AM BLOOD Glucose-132* UreaN-22* Creat-0.6 Na-140 
+K-3.5 Cl-100 HCO3-34* AnGap-10
+___ 09:35PM BLOOD ALT-34 AST-54* AlkPhos-86 TotBili-0.6
+___ 09:35PM BLOOD proBNP-382*
+___ 09:35PM BLOOD D-Dimer-1263*
+
+___ ___ F  ___  ___ 
+ 
+Radiology Report CHEST (PA & LAT) Study Date of ___ 8:43 ___ 
+
+  
+___   ___ 8:43 ___ 
+CHEST (PA & LAT)   Clip # ___   
+Reason: eval for volume overload  
+ 
+UNDERLYING MEDICAL CONDITION: 
+   History: ___ with dyspnea and cirrhosis  
+REASON FOR THIS EXAMINATION: 
+   eval for volume overload  
+
+Final Report 
+HISTORY:  Dyspnea and cirrhosis. 
+  
+TECHNIQUE:  PA and lateral views of the chest. 
+  
+COMPARISON:  ___ at 11:58. 
+  
+FINDINGS: 
+  
+Enteric tube remains in unchanged position.  Heart size is 
+normal.  
+Mediastinal and hilar contours are unremarkable.  Lungs are 
+clear.  No focal 
+consolidation, pleural effusion or pneumothorax is present.  
+There are no 
+acute osseous abnormalities. 
+  
+IMPRESSION: 
+  
+No acute cardiopulmonary process. 
+ 
+
+___ ___  ___  ___ 
+ 
+Radiology Report CTA CHEST W&W/O C&RECONS, NON-CORONARY Study 
+Date of ___ 12:12 AM 
+ 
+___   ___ 12:12 AM 
+CTA CHEST W&W/O C&RECONS, NON-   Clip # ___   
+Reason: Eval for PE  
+Contrast: OMNIPAQUE Amt: 100 
+ 
+UNDERLYING MEDICAL CONDITION: 
+   History: ___ with dyspnea after prolonged bedrest.  
+REASON FOR THIS EXAMINATION: 
+   Eval for PE  
+CONTRAINDICATIONS FOR IV CONTRAST: 
+   None. 
+
+Final Report 
+INDICATION:  Dyspnea after prolonged bed rest, evaluate for 
+pulmonary 
+embolism. 
+  
+COMPARISON:  Comparison is made to chest radiograph from same 
+day as well as 
+CT torso performed ___. 
+  
+TECHNIQUE:  Intravenous contrast was administered and arterial 
+phase imaging 
+was acquired.  Coronal, sagittal and oblique reformats were 
+provided. 
+  
+FINDINGS: 
+  
+CTA CHEST:  The pulmonary vasculature is well opacified and 
+without filling 
+defect to suggest embolus.  Minimal atherosclerotic change noted 
+in the aortic 
+arch.  No aneurysm or dissection evident.  Heart size is normal 
+without 
+pericardial effusion. 
+  
+CT CHEST:  Thyroid gland is unremarkable.  No lymphadenopathy. 
+  
+There is a 4 mm polypoid soft tissue density extending from the 
+anterior 
+aspect of the trachea at the level of the clavicles.  This area 
+is not well 
+assessed on the prior study as patient was intubated at that 
+time.  There is 
+bronchial wall thickening, most evident in the lower lobes.  
+Airways are not 
+well assessed on prior study due to collapsed pulmonary 
+parenchyma and large 
+effusion, but finding is likely chronic.  Background moderate 
+emphysema is 
+again noted.  No opacifications concerning for pneumonia 
+identified.  No 
+pleural effusion or pneumothorax is evident. 
+  
+Limited assessment of the upper abdomen demonstrates a TIPS. 
+  
+There is a 1-cm hypodensity in the left hepatic lobe, unchanged 
+compared to 
+___ and most consistent with a simple cyst.   
+  
+A 1.4 cm well-demarcated, rounded soft tissue density is noted 
+within the 
+medial aspect of the left breast. 
+  
+No suspicious lytic or blastic lesions present. 
+  
+IMPRESSION: 
+1.  No pulmonary embolism or aortic pathology. 
+2.  Background emphysema with bronchial wall thickening, 
+particularly evident 
+in the lower lobes likely represents a chronic 
+bronchitis/bronchiolitis 
+possibly due to smoking.  No focal opacification concerning for 
+pneumonia. 
+3.  A 4 mm polypoid soft tissue density in the anterior trachea 
+at the level 
+of clavicles.  Recommend non-emergent evaluation with direct 
+visualization. 
+4.  A 1.4 cm smoothly rounded soft tissue density in the medial 
+aspect of the 
+left breast, unchanged compared to ___.  Recommend 
+correlation with 
+mammogram. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+  
+___. ___ 
+___. ___ 
+___: WED ___ 9:32 AM 
+
+ 
+Brief Hospital Course:
+SUMMARY:
+
+Ms. ___ is a ___ former smoker (mother died of COPD) w EtOH 
+cirrhosis and recent extended hospitalization (___) for 
+massive variceal bleed & visceral perforation with placement of 
+___ tube. She presented with 2w of worsening SOB and was 
+admitted out of concern for COPD/asthma exacerbation vs CHF.
+
+She was admitted on ___ with shortness of breath. 
+Evidently her symptoms began soon after returning home from a 
+rehabilitation facility, following her hospital stay here from 
+___ to ___ for a bleeding crisis due to 
+alcohol-induced liver disease. She experienced increasing 
+shortness of breath while at home, and saw her primary care 
+physician for that symptom on ___. She had a chest X-ray 
+performed, which showed some lung disease (emphysema and chronic 
+bronchitis, likely associated with past smoking (quit ___ years 
+ago), but no evidence of pneumonia. On admission, her CBC was 
+notable for WBC 6.2 with eosinophilia 10.1%; after 
+administration of prednisone her eosinophilia resolved to WBC 
+6.9 Eo 1.2. We believe her shortness of breath was due either to 
+an exacerbation of her asthma or to an exacerbation of COPD. 
+While in the hospital she initially required supplemental 
+oxygen. She was treated with a prednisone taper (started at 40 
+mg), and her symptoms improved quickly. She also received 
+albuterol nebulizer treatments, azithromycin (empiric pneumonia 
+coverage and anti-inflammatory) and fexofenadine to help 
+mitigate any allergic triggers of the asthma. Even as her 
+respiratory symptoms improved, her oxygen saturation continued 
+to drop to 85% when she walked short distances. We therefore 
+held her in the hospital for an extra day; on the evening of ___ 
+___ she was able to maintain oxygen saturation of 92% while 
+walking. She was discharged the following day, ___.
+
+ACTIVE ISSUES:
+
+SOB: Eosinophilia and high bicarbonate with CT imaging 
+suggesting chronic bronchitis and no focal opacification 
+concerning for pneumonia raised concern for COPD flare (perhaps 
+also asthma flare). Possibly triggered by dust or dog at home. 
+She was treated with prednisone 40 mg PO on a 10-day taper, 
+albuterol nebulizers, azithromycin (5d course). Her peak flow 
+was measured to be 100 (down from baseline >400) on ___ ___. She 
+was also prescribed fexofenadine to mitigate any allergic 
+component of this flare and as prophylaxis as she returns home. 
+Consider long-term therapy with fluticasone as outpatient.
+
+Cardiac Function: Little clinical concern for diastolic heart 
+failure or fluid overload. Her proBNP was high, but decreased 
+relative to ___ values:
+___ 21:35    382 
+___ 05:52    606 
+TTE and further workup were not pursued after she improved with 
+steroid therapt.
+
+CHRONIC ISSUES:
+
+Liver Disease: Alcoholic cirrhosis sp massive variceal bleeds 
+(on nadolol, Lasix, spironolactone) and complicated by hepatic 
+encephalopathy (on Rifaximin) sp TIPS procedure. Her liver 
+disease was not addressed during this admission, and she was 
+maintained on her home regimen:
+Nadolol 20 mg
+Furosemide 20 mg
+Spironolactone 50 mg 
+Lactulose: Concern for hepatic encephalopathy, no asterixis, 
+given once, resulted in diarrhea and poor continence, 
+subsequently held.
+Rifaximin 550 mg
+Active type & screen were maintained, IV access was maintained 
+until discharge as a precaution.
+
+TRANSITIONAL ISSUES:
+
+Incidentalomas:
+
+# CT chest from ___ shows a 4mm lesion in the trachea at 
+level of the clavicles, non-urgent direct visualization 
+recommended. Should f/u with ENT.
+
+# CT chest from ___ shows a 1.4 cm smoothly rounded soft 
+tissue density in the medial aspect of the left breast, 
+correlation with mammogram recommended in outpatient setting.  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Miconazole Nitrate Vag Cream 2% 1 Appl VG BID Duration: 7 
+Days  
+2. Nadolol 20 mg PO BID 
+3. Furosemide 20 mg PO DAILY 
+4. Spironolactone 50 mg PO DAILY 
+5. Omeprazole 20 mg PO DAILY 
+6. Rifaximin 550 mg PO BID 
+7. FoLIC Acid 1 mg PO DAILY 
+8. Thiamine 100 mg PO DAILY 
+9. Albuterol Inhaler ___ PUFF IH Q4H:PRN wheezing 
+
+ 
+Discharge Medications:
+1. FoLIC Acid 1 mg PO DAILY 
+2. Furosemide 20 mg PO DAILY 
+3. Miconazole Nitrate Vag Cream 2% 1 Appl VG BID Duration: 7 
+Days  
+4. Nadolol 20 mg PO BID 
+5. Omeprazole 20 mg PO DAILY 
+6. Rifaximin 550 mg PO BID 
+7. Spironolactone 50 mg PO DAILY 
+8. Thiamine 100 mg PO DAILY 
+9. Azithromycin 250 mg PO Q24H 
+RX *azithromycin 250 mg 1 tablet(s) by mouth once daily Disp #*2 
+Tablet Refills:*0
+10. Fexofenadine 60 mg PO BID 
+RX *fexofenadine 60 mg 1 tablet(s) by mouth twice daily Disp 
+#*60 Tablet Refills:*0
+11. PredniSONE 40 mg PO DAILY 
+RX *prednisone 10 mg 0. . . . Disp #*22 Tablet Refills:*0
+12. Albuterol Inhaler ___ PUFF IH Q4H:PRN wheezing 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+COPD/asthma exacerbation 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+It was a privilege to participate in your care while you were a 
+patient on the Medicine Service at the ___ 
+___. 
+Please find here a summary description of the care you received 
+while you were a patient here, together with instructions for 
+continuing your care after you leave the hospital. 
+Please accept my best wishes for your recovery.
+Sincerely,
+___ ___
+
+You were admitted on ___ with shortness of breath. 
+Evidently your symptoms began soon after you returned home from 
+a rehabilitation facility, following your hospital stay here 
+from ___ to ___ for the bleeding crisis due to your 
+liver disease. You experienced increasing shortness of breath 
+while at home, and saw your primary care physician for that 
+symptom on ___. You had a chest X-ray performed, which 
+showed some lung disease (emphysema and chronic bronchitis, 
+likely associated with your past smoking), but no evidence of 
+pneumonia. We believe your shortness of breath is due either to 
+an exacerbation of your asthma, or to an exacerbation of the 
+chronic bronchitis seen on your chest X-ray. While in the 
+hospital, you initially required supplemental oxygen. You were 
+treated with prednisone, and your symptoms improved quickly. You 
+also received albuterol nebulizer treatments, and azithromycin, 
+an antibiotic that was given in case of pneumonia and that is 
+also used for its anti-inflammatory effects in the lungs. We 
+also prescribed fexofenadine, an antihistamine medication that 
+may help mitigate any allergic triggers of your asthma. Even as 
+your respiratory symptoms improved, your oxygen saturation 
+continued to drop to 85% when you walked short distances. We 
+therefore held you in the hospital for an extra day; on the 
+evening of ___ you were able to maintain oxygen 
+saturation of 91-92% while walking. You were discharged the 
+following day, ___.
+
+The following are some important instructions for continuing 
+your care after you leave the hospital:
+1. Please continue to take all of the medications prescribed for 
+your liver disease, and continue to follow up with your liver 
+doctors.
+2. Please continue to take the prednisone until you complete the 
+10-day taper begun the day you were admitted.
+3. Please follow up with your primary care physician.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10556676-DS-4 | hadm_id=25577156
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+transaminitis  
+ 
+Major Surgical or Invasive Procedure:
+EGD ___
+Diagnostic/therapeutic paracentesis ___
+Central line placement
+___ placement with esophageal perforation
+TIPS
+Multiple intubations
+Tracheostomy placement
+ 
+History of Present Illness:
+___ F hx of EtOh abuse, presents to the ED after falling down 
+stairs and admitted to medicine for abnormal LFTs.  
+
+___ the ED, initial VS were: 98.6 72 ___ 100/RA. Labs 
+notable for EtOH level 136, AST 371, ALT 81, tbili 8.8, Na 122, 
+lactate 4.7, albumin 2.3, INR 1.5, lipase 116, WBC 12 (N88), MCV 
+110. Pt had normal platelets and renal function. Serum tox 
+screen negative. Multiple radiology studies obtained as part of 
+trauma workup including: CT head, CT c-spine, wrist, chest and 
+pelvic plain films. Pt had R comminuted wrist fracture. RUQ u/s 
+obtained and showed cirrhosis w ascites, unable to r/o PVT. 
+Orthopedics consulted and recommended surgical reduction 
+tomorrow as add on case. She was given fentanyl 50mcg, and 
+tetanus vaccine. Also received 2L NS.  
+ 
+On arrival to the floor, pt reports that she's been drinking at 
+least 1 regular sized bottle of wine daily since losing her job 
+___ years ago. She had elevated LFTs ___ years ago at her PCP but no 
+other known liver issue. No f/u with PCP ___. She denies hx 
+of jaundice, ascites, ___, encephalopathy or hemoptysis. Denies 
+hx of withdrawal, seizure, or ICU stay ___ EtOH use. Has been to 
+rehab before. She endorses anorexia, weight loss (used to wear a 
+size 8, doesn't recall weight prior), abdominal distension that 
+started 1 week ago. Says she didn't realize her eyes were 
+yellow. Husband drinks beers regularly and children are 
+chronically ill -she cites these issues as current stressors. 
+Had a blood transfusion as a newborn due to prematurity. 
+Otherwise, denies recent fever, n/v, BRBPR, confusion, rash, or 
+abd pain.  
+
+ 
+Past Medical History:
+EtOH use  
+HTN  
+ulcerative colitis: self dc'd asachol, last GI seen ___ yrs ago 
+by Dr. ___. last colonoscopy ___ yrs ago, no EGD.  
+
+ 
+Social History:
+___
+Family History:
+Mother deceased with COPD, father alive without medical issues, 
+brother DM  
+ 
+
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAM:  
+VS - 984 91/56 81 19 98/RA wt 52KG  
+GENERAL - ill appearing cachectic female anxious lying ___ bed, 
+cooperative, appropriate  
+HEENT - scalp laceration, PERRL, EOMI, sclerae icteric, mucus 
+membranes pink/dry, OP clear  
+NECK - supple  
+LUNGS - CTA bilat, no r/rh/wh, poor air movement, resp 
+unlabored, no accessory muscle use  
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2  
+ABDOMEN - distended, firm, nontender, liver border palpated and 
+nontender, fluid wave present with shifting dullness, caput 
+medusae  
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) 
+ 
+SKIN - small scattered spider angiomata over chest, very dry and 
+peeling diffusely  
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout, no 
+asterixis  
+
+DISCHARGE PHYSICAL EXAM: 
+VS: 99.1, Tc 98.8, 105/67 (94-120/52-87), 81 (80-87), 20, 98% on 
+35% FIO2 trach mask, I/O: TF: 1000, flush: 1560 + 50/1300, 
+1400cc stools and guaic negative stools. Since midnight: TF 200 
++ flush 300/550
+GENERAL: Chronically ill appearing thin woman with trach and 
+trach mask ___ place. Comfortable, sleepy this morning, but 
+responding to questions and following commands 
+HEENT: Sclera icteric. PERRL, EOMI.  
+NECK: Supple with JVP at clavicle
+CARDIAC: RRR, S1 S2 clear and of good quality without murmurs, 
+rubs or gallops. No S3 or S4 appreciated.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. Bibasilar crackles, 
+fewer rhonchi and upper respiratory sounds. No wheezes  
+ABDOMEN: Distended but Soft, non-tender to palpation. +fluid 
+wave. Nontender to palpation.   
+EXTREMITIES: Warm and well perfused, no clubbing or cyanosis. 2+ 
+pitting ___ bilaterally to knees. 2+ edema of upper b/l 
+extremities. R wrist stabilized with cast. Able to wiggle toes 
+and squeeze fingers, but unable to lift any extremities. 
+Strength ___  
+NEURO: A&Ox3, unable to assess asterixis due to weakness
+
+ 
+Pertinent Results:
+___ 06:45PM BLOOD WBC-12.5*# RBC-3.19* Hgb-11.7* Hct-35.2* 
+MCV-110*# MCH-36.6*# MCHC-33.2 RDW-15.8* Plt ___
+___ 05:25AM BLOOD WBC-9.5 RBC-2.72* Hgb-10.1* Hct-29.7* 
+MCV-110* MCH-37.0* MCHC-33.8 RDW-15.4 Plt ___
+___ 05:40AM BLOOD WBC-9.3 RBC-2.71* Hgb-10.1* Hct-30.5* 
+MCV-113* MCH-37.4* MCHC-33.2 RDW-16.2* Plt ___
+___ 06:10AM BLOOD WBC-8.9 RBC-2.77* Hgb-10.3* Hct-31.4* 
+MCV-113* MCH-37.0* MCHC-32.7 RDW-15.6* Plt ___
+___ 06:20AM BLOOD WBC-8.3 RBC-2.01*# Hgb-7.6*# Hct-23.1*# 
+MCV-115* MCH-37.9* MCHC-33.0 RDW-16.5* Plt ___
+___ 08:55AM BLOOD Hgb-7.8* Hct-24.0*
+___ 03:08PM BLOOD WBC-12.3* RBC-1.68* Hgb-6.3* Hct-19.9* 
+MCV-119* MCH-37.7* MCHC-31.8 RDW-17.2* Plt ___
+___ 08:27PM BLOOD Hct-20.6*
+___ 10:10PM BLOOD Hct-22.6*
+___ 11:45PM BLOOD Hct-32.0*# Plt ___
+___ 03:40AM BLOOD WBC-12.0* RBC-3.04*# Hgb-10.1*# Hct-28.9* 
+MCV-95# MCH-33.1*# MCHC-34.9 RDW-20.0* Plt ___
+___ 12:05PM BLOOD WBC-9.1 RBC-2.86* Hgb-9.6* Hct-26.2* 
+MCV-91 MCH-33.4* MCHC-36.5* RDW-20.3* Plt ___
+___ 04:00PM BLOOD WBC-10.9 RBC-2.71* Hgb-9.2* Hct-24.9* 
+MCV-92 MCH-34.2* MCHC-37.1* RDW-20.9* Plt ___
+___ 05:00PM BLOOD Hct-25.3*
+___ 08:00PM BLOOD Hct-32.1*#
+___ 03:30PM BLOOD Hct-32.6*
+___ 06:48PM BLOOD Hct-30.8*
+___ 04:02AM BLOOD WBC-15.9* RBC-3.28* Hgb-10.8* Hct-32.5* 
+MCV-99* MCH-33.0* MCHC-33.3 RDW-22.9* Plt ___
+___ 05:52PM BLOOD WBC-18.0* RBC-3.32* Hgb-11.4* Hct-34.0* 
+MCV-103* MCH-34.4* MCHC-33.5 RDW-23.2* Plt ___
+___ 02:51AM BLOOD WBC-16.8* RBC-3.30* Hgb-10.9* Hct-33.8* 
+MCV-102* MCH-33.2* MCHC-32.4 RDW-22.3* Plt ___
+___ 09:45PM BLOOD Hgb-10.4* Hct-32.0*
+___ 03:36PM BLOOD WBC-7.6 RBC-2.65* Hgb-9.1* Hct-28.4* 
+MCV-107* MCH-34.4* MCHC-32.1 RDW-22.4* Plt ___
+___ 05:00AM BLOOD WBC-7.1 RBC-2.80* Hgb-9.7* Hct-29.7* 
+MCV-106* MCH-34.6* MCHC-32.6 RDW-22.1* Plt ___
+___ 05:15AM BLOOD WBC-6.9 RBC-3.14* Hgb-10.6* Hct-33.1* 
+MCV-105* MCH-33.9* MCHC-32.2 RDW-22.0* Plt ___
+___ 05:52AM BLOOD WBC-8.9 RBC-2.77* Hgb-9.4* Hct-29.7* 
+MCV-107* MCH-33.9* MCHC-31.6 RDW-21.8* Plt ___
+___ 06:27PM BLOOD WBC-9.9 RBC-2.36* Hgb-8.2* Hct-26.0* 
+MCV-110* MCH-34.6* MCHC-31.4 RDW-21.9* Plt ___
+___ 07:35AM BLOOD WBC-5.5 RBC-2.77* Hgb-9.3* Hct-29.7* 
+MCV-108* MCH-33.6* MCHC-31.3 RDW-20.9* Plt ___
+___ 06:40AM BLOOD WBC-13.8*# RBC-3.06* Hgb-10.2* Hct-31.9* 
+MCV-104* MCH-33.3* MCHC-32.0 RDW-20.5* Plt ___
+___ 03:01PM BLOOD WBC-20.0* RBC-2.53* Hgb-8.4* Hct-26.0* 
+MCV-103* MCH-33.1* MCHC-32.2 RDW-20.1* Plt ___
+___ 06:15AM BLOOD WBC-16.3* RBC-2.40* Hgb-8.1* Hct-24.9* 
+MCV-104* MCH-33.8* MCHC-32.5 RDW-19.7* Plt ___
+___ 04:25AM BLOOD WBC-9.4 RBC-2.51* Hgb-8.3* Hct-25.0* 
+MCV-100* MCH-33.0* MCHC-33.1 RDW-20.8* Plt ___
+___ 02:33AM BLOOD WBC-9.8 RBC-2.56* Hgb-8.4* Hct-25.9* 
+MCV-101* MCH-32.8* MCHC-32.4 RDW-20.7* Plt ___
+___:26AM BLOOD WBC-9.1 RBC-2.66* Hgb-8.7* Hct-26.9* 
+MCV-101* MCH-32.9* MCHC-32.5 RDW-20.8* Plt ___
+___ 01:40AM BLOOD WBC-7.3 RBC-2.66* Hgb-8.6* Hct-27.1* 
+MCV-102* MCH-32.2* MCHC-31.6 RDW-20.8* Plt ___
+___ 04:29AM BLOOD WBC-6.4 RBC-2.46* Hgb-8.1* Hct-25.3* 
+MCV-103* MCH-32.8* MCHC-31.9 RDW-21.0* Plt ___
+___ 06:45PM BLOOD ___ PTT-42.4* ___
+___ 05:25AM BLOOD ___ PTT-46.1* ___
+___ 06:20AM BLOOD ___ PTT-91.7* ___
+___ 06:00AM BLOOD ___ PTT-34.3 ___
+___ 04:02AM BLOOD ___ PTT-44.1* ___
+___ 02:51AM BLOOD ___ PTT-43.5* ___
+___ 05:45AM BLOOD ___ PTT-45.0* ___
+___ 05:13AM BLOOD ___ PTT-52.0* ___
+___ 02:33AM BLOOD ___ PTT-58.7* ___
+___ 03:26AM BLOOD ___ PTT-45.2* ___
+___ 01:40AM BLOOD ___ PTT-44.9* ___
+___ 04:29AM BLOOD ___ PTT-40.0* ___
+___ 04:25AM BLOOD Glucose-88 UreaN-26* Creat-0.7 Na-138 
+K-3.2* Cl-104 HCO3-26 AnGap-11
+___ 08:30PM BLOOD Glucose-82 UreaN-24* Creat-0.7 Na-146* 
+K-3.4 Cl-112* HCO3-25 AnGap-12
+___ 02:33AM BLOOD Glucose-125* UreaN-25* Creat-0.8 Na-143 
+K-4.3 Cl-110* HCO3-24 AnGap-13
+___ 03:26AM BLOOD Glucose-155* UreaN-26* Creat-0.8 Na-142 
+K-3.0* Cl-109* HCO3-24 AnGap-12
+___ 05:00PM BLOOD Glucose-118* UreaN-26* Creat-0.7 Na-146* 
+K-8.0* Cl-112* HCO3-24 AnGap-18
+___ 06:43PM BLOOD Glucose-110* UreaN-28* Creat-0.8 Na-143 
+K-6.6* Cl-110* HCO3-27 AnGap-13
+___ 01:40AM BLOOD Glucose-96 UreaN-28* Creat-0.7 Na-147* 
+K-3.7 Cl-114* HCO3-26 AnGap-11
+___ 08:35PM BLOOD Glucose-113* UreaN-28* Creat-0.6 Na-148* 
+K-4.5 Cl-111* HCO3-29 AnGap-13
+___ 04:29AM BLOOD Glucose-127* UreaN-27* Creat-0.6 Na-147* 
+K-3.8 Cl-111* HCO3-27 AnGap-13
+___ 06:45PM BLOOD ALT-81* AST-371* AlkPhos-321* 
+TotBili-8.8*
+___ 05:25AM BLOOD ALT-71* AST-330* AlkPhos-276* 
+TotBili-8.4*
+___ 05:40AM BLOOD ALT-73* AST-323* AlkPhos-257* 
+TotBili-9.6*
+___ 06:10AM BLOOD ALT-75* AST-297* AlkPhos-245* 
+TotBili-10.0*
+___ 06:20AM BLOOD ALT-55* AST-216* AlkPhos-172* 
+TotBili-7.4*
+___ 03:40AM BLOOD ALT-48* AST-164* LD(___)-437* 
+AlkPhos-111* TotBili-11.9*
+___ 04:26AM BLOOD ALT-81* AST-270* AlkPhos-79 TotBili-12.9*
+___ 02:51AM BLOOD ALT-122* AST-390* LD(___)-320* AlkPhos-81 
+TotBili-8.5*
+___ 02:51AM BLOOD ALT-96* AST-288* LD(___)-591* 
+AlkPhos-148* TotBili-7.7*
+___ 03:53AM BLOOD ALT-105* AST-304* AlkPhos-156* 
+TotBili-10.0*
+___ 04:02AM BLOOD ALT-126* AST-313* LD(___)-464* 
+AlkPhos-169* TotBili-10.6*
+___ 06:15AM BLOOD ALT-102* AST-305* AlkPhos-152* 
+TotBili-5.3*
+___ 05:26AM BLOOD ALT-123* AST-341* AlkPhos-175* 
+TotBili-6.3*
+___ 05:31AM BLOOD ALT-135* AST-344* AlkPhos-204* 
+TotBili-6.2*
+___ 05:15AM BLOOD ALT-104* AST-241* AlkPhos-244* 
+TotBili-5.1*
+___ 03:26AM BLOOD ALT-80* AST-184* AlkPhos-184* 
+TotBili-5.8*
+___ 05:20AM BLOOD ALT-93* AST-207* AlkPhos-261* 
+TotBili-4.9*
+___ 06:40AM BLOOD ALT-111* AST-255* AlkPhos-363* 
+TotBili-3.9*
+___ 02:45AM BLOOD ALT-109* AST-247* AlkPhos-400* 
+TotBili-3.0*
+___ 03:01AM BLOOD ALT-60* AST-125* AlkPhos-248* 
+TotBili-3.0*
+___ 04:25AM BLOOD ALT-53* AST-123* AlkPhos-270* 
+TotBili-2.7*
+___ 02:33AM BLOOD ALT-50* AST-122* AlkPhos-298* 
+TotBili-2.6*
+___ 03:26AM BLOOD ALT-46* AST-108* AlkPhos-326* 
+TotBili-2.3*
+___ 01:40AM BLOOD ALT-42* AST-101* AlkPhos-302* 
+TotBili-3.3*
+___ 04:29AM BLOOD ALT-38 AST-91* AlkPhos-272* TotBili-2.1*
+
+RELEVANT LABS
+___ 05:25AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE 
+HBcAb-NEGATIVE IgM HAV-NEGATIVE
+___ 05:25AM BLOOD AMA-NEGATIVE Smooth-POSITIVE *, TITER 
+1:20
+___ 05:40AM BLOOD AFP-3.7
+___ 05:25AM BLOOD ___
+___ 06:19AM BLOOD Vanco-24.4*
+___ 06:45PM BLOOD ASA-NEG ___ Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 05:25AM BLOOD HCV Ab-NEGATIVE
+___ 04:51PM BLOOD Hapto-48
+___ 05:25AM BLOOD calTIBC-95* VitB12-GREATER TH Folate-9.2 
+Ferritn-880* TRF-73*
+___ 04:00PM BLOOD Triglyc-75
+___ 05:25AM BLOOD Osmolal-281
+___ 04:20AM BLOOD ___ Temp-37.4 ___ Tidal 
+V-350 PEEP-5 FiO2-60 pO2-70* pCO2-49* pH-7.39 calTCO2-31* Base 
+XS-3 Intubat-INTUBATED
+___ 04:13AM BLOOD Lactate-1.6
+
+DISCHARGE LABS
+___ 04:59AM BLOOD WBC-8.5 RBC-3.05* Hgb-9.8* Hct-30.2* 
+MCV-99* MCH-32.2* MCHC-32.6 RDW-17.5* Plt ___
+___ 04:59AM BLOOD ___ PTT-37.7* ___
+___ 04:22AM BLOOD Glucose-113* UreaN-11 Creat-0.3* Na-138 
+K-4.5 Cl-101 HCO3-32 AnGap-10
+___ 04:59AM BLOOD ALT-39 AST-96* LD(LDH)-337* AlkPhos-263* 
+TotBili-1.3
+___ 04:22AM BLOOD Calcium-8.1* Phos-3.7 Mg-1.7
+
+URINE
+___ 11:40AM URINE Blood-SM Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-2* pH-6.5 Leuks-MOD
+___ 11:40AM URINE RBC-<1 WBC-27* Bacteri-FEW Yeast-NONE 
+Epi-31 TransE-1
+___ 10:15AM URINE Blood-SM  Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-LG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 10:15AM URINE RBC-7* WBC-4 Bacteri-FEW Yeast-OCC Epi-0
+___ 02:22AM URINE Blood-MOD Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-LG Urobiln-NEG pH-5.5 Leuks-NEG
+___ 02:22AM URINE RBC-15* WBC-1 Bacteri-MANY Yeast-NONE 
+Epi-2
+___ 01:26PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+___ 11:40AM URINE Hours-RANDOM UreaN-846 Creat-198 Na-<10 
+K-39 Cl-<10 HCO3-<5 
+___ 11:40AM URINE Osmolal-530
+
+ASCITES FLUID
+___ 10:23AM ASCITES WBC-58* RBC-2325* Polys-35* Lymphs-0 
+___ Mesothe-22* Macroph-43*
+___ 01:44PM ASCITES WBC-6* RBC-900* Polys-0 Lymphs-0 
+___ 12:51PM ASCITES WBC-40* RBC-905* Polys-54* Lymphs-3* 
+Monos-5* NRBC-1* Mesothe-15* Macroph-23*
+___ 10:40AM ASCITES WBC-18* RBC-106* Polys-56* Lymphs-14* 
+Monos-17* Mesothe-6* Macroph-4* Other-3*
+___ 03:34PM ASCITES WBC-8* RBC-2260* Polys-90* Lymphs-5* 
+Monos-3* Eos-1* Other-1*
+
+MICRO
+___ 1:27 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay. 
+           (Reference Range-Negative). 
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+___ 1:26 pm SPUTUM      Source: Endotracheal. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      ___ PMNs and <10 epithelial cells/100X field. 
+      NO MICROORGANISMS SEEN. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      Commensal Respiratory Flora Absent. 
+      YEAST.    RARE GROWTH. 
+      BORDETELLA BRONCHISEPTICA.    PRESUMPTIVE IDENTIFICATION. 
+         RARE GROWTH.  sensitivity testing performed by 
+Microscan. 
+         RESISTANT TO  TOBRAMYCIN AT >=16 MCG/ML. 
+         INTERMEDIATE TO  AMPICILLIN/SULBACTAM AT ___ MCG/ML. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             BORDETELLA BRONCHISEPTICA
+                             |   
+AMIKACIN--------------     8 S
+AMPICILLIN/SULBACTAM--       I
+CEFEPIME--------------    16 I
+CEFTAZIDIME-----------     8 S
+CEFTRIAXONE-----------    16 I
+CIPROFLOXACIN---------   0.5 S
+GENTAMICIN------------  =>16 R
+LEVOFLOXACIN----------<=0.12 S
+MEROPENEM-------------     4 S
+TOBRAMYCIN------------       R
+ 
+___ BLOOD CULTURE Blood Culture, Routine- NO 
+GROWTH
+___ URINE URINE CULTURE- NO GROWTH
+___ MRSA SCREEN MRSA SCREEN- No MRSA isolated. 
+___ FLUID RECEIVED ___ BLOOD CULTURE BOTTLES 
+Fluid Culture ___ Bottles- NO GROWTH
+___ 3:34 pm PERITONEAL FLUID      PERITONEAL FLUID. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH.
+___ BLOOD CULTURE Blood Culture, Routine- NO 
+GROWTH  
+___ BLOOD CULTURE Blood Culture, Routine- NO 
+GROWTH  
+___ STOOL C. difficile DNA amplification assay- 
+NO C.diff 
+___ BLOOD CULTURE Blood Culture, Routine- NO 
+GROWTH 
+___ SPUTUM GRAM STAIN-FINAL; RESPIRATORY 
+CULTURE-NO GROWTH 
+___ URINE URINE CULTURE-NO GROWTH 
+___ BLOOD CULTURE Blood Culture, Routine-NO 
+GROWTH  
+___ 10:02 pm SWAB
+      Source: ___ site  REFER TO PREVIOUS PROBLEM ___ ___. 
+
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   WOUND CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+
+___ CATHETER TIP- No significant growth. 
+___ BLOOD CULTURE Blood Culture, Routine-NO 
+GROWTH. 
+___ 10:40 am PERITONEAL FLUID      PERITONEAL FLUID. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+
+___ BLOOD CULTURE Blood Culture, Routine- NO 
+GROWTH
+___ STOOL C. difficile DNA amplification assay- 
+NO C.DIFF 
+___ 12:51 pm PERITONEAL FLUID      PERITONEAL FLUID. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer   to      hematology for a quantitative white blood 
+cell count.. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+___ 4:53 am SPUTUM      Source: Endotracheal. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      <10 PMNs and <10 epithelial cells/100X field. 
+      NO MICROORGANISMS SEEN. 
+      QUALITY OF SPECIMEN CANNOT BE ASSESSED. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      RARE GROWTH Commensal Respiratory Flora. 
+      BORDETELLA BRONCHISEPTICA.    SPARSE GROWTH. 
+         sensitivity testing performed by Microscan. 
+         RESISTANT TO SULFA X TRIMETH (MIC: > 2 MCG/ML ). 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             BORDETELLA BRONCHISEPTICA
+                             |   
+AMIKACIN--------------     8 S
+CEFTRIAXONE-----------     8 S
+CIPROFLOXACIN---------     1 S
+GENTAMICIN------------  =>16 R
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------   <=1 S
+PIPERACILLIN/TAZO-----   <=8 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----       R
+
+___ BLOOD CULTURE Blood Culture, Routine-NO 
+GROWTH
+___ URINE URINE CULTURE-NO GROWTH
+___ 1:44 pm PERITONEAL FLUID
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+      Reported to and read back by ___ (___) 
+___ @1725. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   FLUID CULTURE (Final ___: 
+      ENTEROCOCCUS SP..    MODERATE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |   
+AMPICILLIN------------  =>32 R
+LINEZOLID-------------     2 S
+PENICILLIN G----------  =>64 R
+VANCOMYCIN------------  =>32 R
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+___ BLOOD CULTURE Blood Culture, Routine-NO 
+GROWTH
+___ BLOOD CULTURE Blood Culture, Routine-NO 
+GROWTH
+___ URINE URINE CULTURE-NO GROWTH
+___ 5:35 am Mini-BAL
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      ___ Commensal Respiratory Flora. 
+
+___ MRSA SCREEN MRSA SCREEN-No MRSA isolated. 
+___ SWAB R/O VANCOMYCIN RESISTANT 
+ENTEROCOCCUS-No VRE isolated. 
+___ 10:23 am PERITONEAL FLUID      PERITONEAL FLUID. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+___ BLOOD CULTURE Blood Culture, Routine-NO 
+GROWTH
+___ 5:25 am Blood (CMV AB)
+
+                            **FINAL REPORT ___
+
+   CMV IgG ANTIBODY (Final ___: 
+      POSITIVE FOR CMV IgG ANTIBODY BY EIA. 
+      74 AU/ML. 
+      Reference Range:  Negative < 4 AU/ml, Positive >= 6 AU/ml. 
+
+
+   CMV IgM ANTIBODY (Final ___: 
+      NEGATIVE FOR CMV IgM ANTIBODY BY EIA. 
+      INTERPRETATION:  INFECTION AT UNDETERMINED TIME. 
+
+IMAGING
+___ CXR (PORTABLE)
+CONCLUSION: 
+1.  Improvement of right lower lung consolidation/atelectasis. 
+2.  Unchanged small left lower lung consolidation.  There is no 
+new opacity. 
+
+___ CXR (PORTABLE)
+FINDINGS:  The atelectasis at the right lung base has slightly 
+increased ___ extent.  The tracheostomy tube is unchanged.  The 
+Dobbhoff catheter has been pulled back.  The tip now becomes 
+visible slightly proximal of the duodenojejunal plica.  There is 
+no evidence of complications, notably no pneumothorax. 
+
+___ CXR (PORTABLE)
+FINDINGS:  ___ comparison with study of ___, there is now a 
+tracheostomy tube ___ place.  There is no evidence of 
+pneumothorax or pneumomediastinum. 
+  
+There is some increasing opacification at the right base.  This 
+most likely reflects a combination of layering effusion and 
+atelectasis.  However, ___ the appropriate clinical setting, 
+supervening pneumonia would have to be considered.  Less 
+prominent opacification at the left base most likely represents 
+atelectasis, though again infection would have to be considered. 
+
+  
+There is some increased indistinctness of engorged pulmonary 
+vessels, 
+consistent with some increasing pulmonary venous pressure. 
+
+___ PORTABLE ABDOMEN
+FINDINGS: 
+Supine portable radiograph of the abdomen was acquired.  The 
+___ tube is seen with the tip ___ the pylorus.  Air is seen 
+distending the small bowel with changes suggestive of bowel wall 
+edema.  The TIPS shunt is seen ___ the right upper quadrant. 
+IMPRESSION: ___ tube with tip at pylorus. 
+
+___ LIVER ULTRASOUND
+IMPRESSION: 
+1.  Cirrhotic liver.  Patent TIPS with appropriate velocities.   
+
+2.  Possible isolated dilated intrahepatic duct with dilatation 
+of the common duct to 7 mm.  Of note, the common duct previously 
+measured 4 mm on ultrasound from ___.  Further 
+evaluation could be performed with repeat ultrasound, with a 
+radiologist present. 
+3.  Gallbladder debris.  Otherwise, normal-appearing 
+gallbladder. 
+4.  Left pleural effusion, as seen on prior CT. 
+
+___ CT HEAD
+IMPRESSION: 
+  
+1.  No evidence of hemorrhage or infarction 
+  
+2.  Atrophy. 
+
+___ CHEST (PORTABLE)
+IMPRESSION:  AP chest compared to ___: 
+  
+Aeration at the right lung base which worsened from ___ 
+through 
+___, has returned to baseline.  There is still reason 
+for concern 
+about cause of a persistent right basal atelectasis, 
+specifically aspiration and retained secretions.  
+Small-to-moderate right pleural effusion is present, not 
+surprising for this longstanding atelectasis.  ___ the left lung 
+peribronchial opacification ___ the lower lobes has improved, 
+quite likely another finding due to aspiration.  Heart size is 
+normal.  ET tube and left subclavian line are ___ standard 
+placements and a feeding tube passes into the stomach and out of 
+view.  No pneumothorax. 
+
+___ R WRIST
+RIGHT WRIST, FOUR VIEWS:  Cast material limits evaluation of 
+bony detail.  There is re-demonstration of a comminuted distal 
+radial fracture, with intra-articular extension.  As before, 
+there is slight dorsal displacement of the dominant distal 
+fracture fragment, although the distal radius articulates 
+appropriately with the carpal bones.  The fracture lines are 
+less conspicuous on today's study compared to the prior study 
+from ___.  There is no acute fracture or 
+dislocation. 
+IMPRESSION:  Healing distal right radial fracture, with 
+unchanged alignment. 
+
+___ ESOPHAGUS 
+IMPRESSION: 
+1.  Severe gastroesophageal reflux. 
+2.  No extraluminal leakage of contrast was noted. 
+ESOPHAGUS
+
+___ CT ABD AND PELVIS
+IMPRESSION: 
+1.  Extensive pneumoperitoneum and retroperitoneal free air with 
+a small 
+amount of free air seen ___ the mediastinum.  Findings are 
+concerning for 
+perforation at the level of the gastroesophageal junction given 
+the pattern of free air distribution.  Exact site of perforation 
+cannot be identified. 
+2.  Extensive air within the subcutaneous tissues of the lower 
+chest and 
+abdominal wall bilaterally, likely direct extension from the 
+intraperitoneal  process. 
+3.  Moderate bilateral pleural effusions with associated 
+compressive 
+atelectasis 4.  Moderate nonhemorrhagic ascites 
+5.  Patent TIPS  
+
+___ EGD: 
+Findings: Esophagus:  
+ Protruding Lesions 2 cords of grade II varices were seen with 
+active bleeding sites at 30cm and 35cm. Upon entering the 
+esophagus, no bands from prior endoscopy this AM were present. 
+Attempts were made at band ligation (5 successful bands were 
+deployed at first attempt, 3 additional bands were placed at 
+second attempt), but hemostasis could not be achieved with 
+banding. Therefore, a Minnesota tube was placed at 29cm from the 
+lip.   
+Stomach:  
+Contents: Clotted and old blood was seen ___ the stomach with no 
+evidence of active bleeding.  
+Duodenum: Normal duodenum. 
+Impression: Varices at the 30 and 35cm
+Blood ___ the stomach
+Otherwise normal EGD to third part of the duodenum 
+
+___ EGD:
+Findings: Esophagus:  
+ Protruding Lesions 2 cords of grade II varices were seen ___ the 
+esophagus. One varix had ruptured with active bleeding. 2 bands 
+were placed for hemostasis successfully.  
+ Other A medium hiatal hernia was seen.  
+Stomach:  
+ Protruding Lesions A fundal varix was seen. There did not 
+appear to be active bleeding.  
+Duodenum: Normal duodenum. 
+Impression: Esophageal varices
+Gastric varices
+A medium hiatal hernia was seen.
+Otherwise normal EGD to third part of the duodenum 
+
+___ EGD:
+Findings: Esophagus:  
+ Other There was active and fast bleeding ___ the esophagus. 
+There was also evidence of esophageal necrosis. Given that 
+banding has not worked multiple times ___ the past 24 hours, the 
+decision was made to use sclerosing agent (Tetradecaly sulfate 
+2cc was injected at the site of active bleed), but hemostasis 
+was not acheived. 2cc glue injection was then done. At this 
+time, it was noted that the patient's abdomen was firm and 
+distended, with swelling up to chest and neck ___ conjunction 
+with respiratory decompensation. The procedure was then aborted. 
+ 
+Stomach:  
+ Contents: Fresh and old blood was seen ___ the stomach.  
+Duodenum: Not examined. 
+Impression: There was active and fast bleeding ___ the esophagus. 
+There was also evidence of esophageal necrosis. Given that 
+banding has not worked multiple times ___ the past 24 hours, the 
+decision was made to use sclerosing agent (Tetradecaly sulfate 
+2cc was injected at the site of active bleed), but hemostasis 
+was not acheived. 2cc glue injection was then done. At this 
+time, it was noted that the patient's abdomen was firm and 
+distended, with swelling up to chest and neck ___ conjunction 
+with respiratory decompensation. The procedure was then aborted.
+Blood ___ the stomach
+Otherwise normal EGD to stomach 
+
+___ KUB:
+IMPRESSION: ___ tube with tip at pylorus.
+ 
+___ Speech/language eval:
+RECOMMENDATIONS:
+1.  ALWAYS DEFLATE CUFF PRIOR TO PLACING THE PASSY-MUIR VALVE!
+2.  Monitor O2 Sats / respiration while valve is ___ place.
+3.  Do not allow the patient to sleep with the valve ___ place.
+4.  PMV wear schedule is up to the discretion of the
+    nurse and/or respiratory therapist.
+5.  Remain NPO with continued alternate means of nutrition, 
+    hydration and meds
+6.  Q4 oral care
+7.  Continued SLP f/u here and at rehab after d/c. 
+
+ 
+Brief Hospital Course:
+___ F hx of EtOH abuse and hypertension, admitted with right 
+radial fracture and scalp laceration after mechanical fall and 
+found to have ETOH hepatitis and undiagnosed cirrhosis. She 
+subsequently developed a rapid variceal bleed requiring massive 
+transfusion protocol, banding, TIPS and ___ placement 
+complicated by esophageal perforation managed by 
+intra-esophageal glue.  She became progressively deconditioned 
+and frequently aspirated requiring intubation 3 times over her 
+40 day hospital course for mixed hypoxic and hypercarbic 
+respiratory failure requiring tracheostomy placement.
+
+# Massive variceal bleed: On the floor patient was noted to have 
+a nine-point Hct drop on ___. EGD showed active variceal bleed 
+which was banded. She was started on octeotride and pantoprazole 
+drips. Despite this, patient continued to have active, 
+hemodynamically significant bleed requiring intubation, massive 
+transfusion protocol and ___ placement. She required a 
+total of 11u prBCS, 9u FFP, 1u plt, and 2u cryo. She underwent 
+successful emergent TIPS on ___ but continued to have bleeding 
+immediately post-procedure. Susbequent imaging showed that TIPS 
+remained patent. Repeat endoscopy was performed at that time 
+which showed continued bleeding ___ the stomach and the esophagus 
+and prior bands were not visualized. Esophageal necrosis was 
+also noted at the time, thought to be related to recent 
+___ placement. Sclerosing agent was blindly injected but 
+hemostasis could not be achieved. The procedure had to be 
+aborted as patient began to show signs of respiratory 
+decompensation and subcutaneous air ___ the neck and free air ___ 
+the abdomen. This was confirmed on post-procedure CXR. Despite 
+this, patient remained hemodynamically stable with no signs of 
+further bleed. Octeotride and pantoprazole drips were 
+discontinued. She was treated with ciprofloxacin for SBP 
+prophylaxis ___ the setting of her bleed. She spiked intermittent 
+fevers and had a persistent leukocytosis so her antibiotics were 
+broadened to linezolid after cultures from a groin bag returned 
+VRE, thought to be of a peritoneal source. However, these 
+cultures were not sterilely obtained so they could have been 
+contaminated. She was transferred to the medical floor on ___ 
+and had no recurrence of hematemesis, but was noted to have a 
+slowly downtrending HCT and was transfused an additional unit of 
+PRBCs on ___. Pt was again transfused ___ and ___ for 
+gradually decreasing hematocrit. Patient's anemia is macrocytic 
+most likely secondary to liver disease; normal folate and vit 
+b12; LDH and hapto normal making hemolysis unlikely. Iron 
+studies shows anemia of chronic disease. Stools were guaic on 
+___ and ___ and were negative. Her hematocrit has then 
+remained stable for the rest of the hospitalization.  
+
+# Perforated viscus: Following repeat EGD, patient had evidence 
+of free air ___ the neck and under the diaphragm. CT Abdomen was 
+obtained which showed no obvious location of perforated viscus 
+but possible contained leak near the gastro-esophageal junction. 
+Surgery was consulted who felt there was no need for acute 
+intervention given patient's stability. Antibiotics were 
+broadened to flagyl, vancomycin, and fluconazole for a seven-day 
+course to cover any viscus rupture (see below for further 
+antibiotic course). She was kept NPO and TPN was initiated. She 
+underwent esophagram with gastrograffin which showed no 
+extraluminal leakage of contrast, but severe gastroesophageal 
+reflux. Dobhoff was placed with ___ guidance to minimize trauma 
+to the esophagus on ___ and tube feeding was initiated. 
+Bedside speech and swallow evaluation was requested but deferred 
+as negative gastrograffin swallow was felt to be sufficient for 
+such evaluation. She was again made strict NPO after aspiration 
+events requiring MICU transfer as described below. Her nutrition 
+was kept through dobhoff and tubefeedings. 
+
+# Persistent leukocytosis and fevers: After leaving the ICU, 
+patient was noted to have low grade fevers accompanied by 
+persistent leukocytosis. Infectious disease team was consulted, 
+and recommended changing patient to linezolid, aztreonam, and 
+flagyl for broad spectrum coverage of both pulmonary, 
+intraabdominal, and other causes (patient with VRE+ groin bag as 
+noted above). Patient's leukocytosis trended down and patient 
+remained afebrile on antibiotics. She completed antibiotics on 
+___. (metronidazole ___, aztreonam ___, 
+linezolid ___. WBC acutely rose 5.5->13.8 on ___, 
+attributed to possible aspiration given patient's persistent 
+difficulty ___ clearing secreations. Broad spectrum coverage with 
+cefepime, vancomycin and metronidazole was restarted on ___. 
+WBC continued to rise and a diagnostic paracentesis was 
+performed at the bedside on ___. Peritoneal fluid was negative 
+for SBP by cell count. Antibiotics were continued for a full 8 
+day course for HCAP (cefepime/flagyl till ___, linezolid till 
+___. Patient no longer febrile and without leukocytosis 
+starting ___. 
+ 
+# Aspiration: On the floor, pt was noted to have intermittently 
+labored breathing and significant difficulty clearing 
+respiratory secretions due to severe deconditioning and 
+waxing/waning mental status. On ___ she became acutely more 
+somnolent and hypoxic ___ the setting of aspiration that resolved 
+with deep suction.  She was observed ___ the MICU overnight but 
+remained on nasal cannula and was transferred back to the floor. 
+ Even with post-pyloric feedings she was felt to be at risk of 
+aspiration given her severe reflux, increased pressure due to 
+ascites, weakness and poor cough from prolonged hospitalization, 
+and fluctuating level of consciousness. Back on the floor, she 
+was kept strict NPO and was again noted to be diffusely 
+rhonchorous and unable to clear secretions effectively.  A 
+scopolamine patch was considered but deferred due to concern for 
+further worsening her mental status. She required frequent oral 
+suctioning by nursing staff, deep suctioning by RT and chest ___. 
+ She was noted to intermittently desaturate to ___ on telemetry. 
+ Pt had second aspiration event and was transferred back to the 
+MICU on ___. Pt treated for aspiration pneumonitis and was not 
+given ABX course. She was observed ___ the ICU and transferred 
+back to the medicine floor. The evening of ___, pt was again 
+noted to have labored breathing and although O2 sats were 
+maintained on supplemental O2, repeat ABG showed worsening 
+acidemia with rising pCO2 to 68. Due to concern that she may be 
+tiring out with obtundation and inability to protect her 
+airwayd, she was again transferred to the MICU and was 
+intubated.  Due to her multiple intubations secondary to poor 
+conditioning and inability to protect her airway, she went for 
+tracheostomy placement on ___. She did well after tracheostomy 
+placement and satting well with tracheostomy mask; this should 
+not be downsized until a minimum of 10 days post-op. Continues 
+to have productive secretions requiring constant suctioning, 
+however secretions and lung exam with significant improvement 
+from prior days. Most recent CXR on ___ without new acute 
+changes.  
+
+# Delirium/hepatic encephalopathy: During ICU stay as well as on 
+the floor, patient was noted to be hallucinating, with signs of 
+paranoia and inattention. Patient was, at times, interfering 
+with care. Psychiatry was consulted, who ascertained the patient 
+to be delirious, likely secondary to hepatic and other 
+toxic/metabolic ongoing insults. CT head without hemorrhage or 
+edema. A low dose antipsychotic was considered, but patient's 
+QTc was prolonged. Other alternatives were all oral, and while 
+patient was strictly NPO at that time, these were unable to be 
+used. The decision was made to pursue care plan as detailed 
+above with hope that patient would begin to clear as her 
+clinical picture improved. Pt's mental status improved to the 
+extent that she was no longer noted to have hallucinations or 
+inattention on the floor. However, mental status waxed and waned 
+and patient was intermittently less responsive to verbal 
+stimulation, but at other times was AAO to person and place and 
+able to answer questions appropriately. She was started on 
+lactulose and rifaximin. Her lactulose was uptitrated to achieve 
+1L of stools per day. Her mental status improved with the 
+lactulose. Her flexseal was discontinued on ___ and a fecal 
+incontinence pouch was placed. 
+
+# extremities edema: patient with 2++ pitting edema ___ all four 
+extremities. Weight is 59kg from admission 52kg. Also has been 
+net positive since MICU. As a result, diuretics were uptitrated 
+to 80mg daily and spironolactone to 200mg dialy. ___ addition, 
+her fluid flushes which was initially increased due to 
+hypernatremia was decreased to 100cc q4h as patient was no 
+longer hypernatremic. 
+
+# Deconditioning: Pt noted to be extremely weak on medical floor 
+with ___ strength ___ all four extremities, likely due to severe 
+illness and prolonged hospitalization with bedrest. Physical 
+therapy was consulted, noted limited ablility to
+participate ___ therapy due to profound deconditioning and 
+recommended eventual discharge to rehab.  Tube feeds were begun 
+with high caloric content to improve her nutrition ___ the hopes 
+of reversing her deconditioning. At discharge continued to be 
+very weak with ___ strength throughout. She is profoundly weak 
+and will require rather extensive rehabilitation and physical 
+therapy.  Continued nutrition will be essential; albumin is 2. 
+
+# Goals of Care: Pt had strong family support with frequent 
+visitors. Multiple family meetings were held.  Her HCP, ___ 
+___ (___) continued to reaffirm her code status as 
+full code.
+
+# Alcoholic hepatitis: Given clinical history ETOH hepatitis is 
+most likely explanation of elevated AST/ALT. Discriminant 
+function 42 on admission but patient was never started on 
+steroids due to her acute GI bleed. 
+
+# EtOH Cirrhosis: New diagnosis this admission, likely related 
+to alcohol. AFP negative. EGD showed 2 cords of grade II varices 
+on ___ with active bleeding, s/p TIPS. Her last TIPS 
+patency study was on ___ and was patent.  She also had 
+complications of encephalopathy and ascites, requiring 
+paracenteses.  She is not discharged on nadolol due to her TIPS. 
+ She was initially receiving daily lasix 40mg IV for diuresis 
+and initiated on spironolactone and lasix when dobhoff was 
+placed. MELD score of 11 and ___ class B. No PVT per 
+ultrasound. Hepatitis panel negative, ___ negative. Anti 
+smooth muscle antibody positive, but titer not significant 1:20. 
+She was treated with rifaximin/lactulose as per above. Diuretics 
+were uptitrated as per above. Nadolol 20mg BID was started for 
+variceal bleed prevention; was not further uptitrated given that 
+BP at low 100s at times and ___ process of titrating diuretics. 
+Treated with lansoprazole, paracentesis for comfort, SBP ppx 
+with cipro 250mg daily. Patient will follow-up with her 
+hepatologist ___ ___ one month after discharge.
+
+# Nutrition: patient on trach mask and enteric feeding via 
+dobhoff on ___. Can downsize trach after ___. Will need to 
+evaluate with speech and swallow to restart po intake. 
+
+# Wrist fracture: Right distal radius fracture was closed 
+reduced and splinted with hematoma block. Ortho recommended 
+follow-up ___ 4 weeks post-discharge ___ (the week 
+of ___
+
+# TRANSITIONAL ISSUES
+-patient with newly diagnosed alcoholic cirrhosis with various 
+complications: variceal bleed - 3 EGD, ___, esophageal 
+perforation, treated by blind glue injection; ascites - 5 liter 
+tap, s/p leak, peritoneal leak grew VRE that was treated with 
+antibiotics; Hepatic encephalopathy - rifaximin & lactulose;
+respiratory - pna, pneumonitis, s/p three intubation, trach 
+placed ___
+-please ensure patient follows up with Dr. ___, 
+scheduled for ___ and ortho (scheduled for ___
+-patient requires Hep A and B vaccine
+-please continue to uptitrate diuretics as appropriate
+-tracheostomy may be downsized after ___. When able to 
+tolerate oral diet and maintain airway patency, tracheostomy may 
+be removed.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Albuterol Inhaler 2 PUFF IH Q4H:PRN SOB/wheeze 
+2. Heparin 5000 UNIT SC BID 
+3. Lactulose 30 mL PO TID 
+4. Miconazole Powder 2% 1 Appl TP TID:PRN yeast infection 
+5. Rifaximin 550 mg PO BID 
+6. Ondansetron 4 mg IV Q8H:PRN n/v 
+7. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+8. Ciprofloxacin HCl 250 mg PO Q24H 
+9. Guaifenesin 10 mL PO Q6H:PRN cough 
+10. Nadolol 20 mg PO BID 
+11. Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY 
+12. Furosemide 80 mg PO DAILY 
+13. Spironolactone 200 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Variceal bleed s/p TIPS and ___ placement
+Esophageal perforation
+Hepatic encephalopathy
+Delirium
+Alcoholic hepatitis
+Cirrhosis
+Wrist fracture
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you during your stay at ___ 
+___. You were admitted for a wrist 
+fracture after a fall, and found to have cirrhosis of the liver 
+due to alcohol use.  You had many complications from this 
+disease that kept you ___ the hospital for more than 40 days. You 
+are now stable to leave the hospital, but will need very close 
+medical care. It is very important that you STOP drinking 
+alcohol. 
+ 
+Followup Instructions:
+___

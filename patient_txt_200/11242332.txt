@@ -1,0 +1,498 @@
+===== DISCHARGE NOTE =====
+note_id=11242332-DS-16 | hadm_id=21984155
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Back pain, bacteremia
+ 
+Major Surgical or Invasive Procedure:
+1. L2 laminotomy bilateral.
+2. Laminectomy L3, L4.
+3. Laminotomy L5 bilateral.
+4. Removal of epidural abscess.
+5. Incision and debridement, lumbar spine skin to bone.
+6. Biopsy deep muscle, deep bone.
+7. Application of incisional wound vacuum-assisted closure
+    device.
+*All of the above performed during one surgery
+
+ 
+History of Present Illness:
+___ with history of hypertension, admitted to ___ on ___ 
+with left hip pain.   She had been seen at ___ 2 days prior with 
+pain, and sent home on vicodin, ibuprofen.  Xrays were negative. 
+ She continued to have pain, and saw her pcp, and was admitted 
+to ___.  Prior to admission, she also developed 
+vomiting, bilious ___ nature.
+.
+According to her daughters and discharge summary, soon after 
+admission, she developed fever and back pain.  Blood cultures 
+grew staph aureus (not known MRSA v. MSSA) ___ ___ bottles on 
+___ and ___ bottles on ___.  Urine culture also with staph 
+aureus.  She was started on vancomycin, 1500 mg q 48 hours hours 
+on ___ (?)  She also received flagyl and levaquin, doses 
+unavailable.
+.
+Then developed LBBB for which she was transferred to the ICU; 
+ruled out for MI.  Cardiology did not feel any further work-up 
+was needed.  TTE was done, with ejection fraction of 55% and no 
+vegetations.  She continued to have back pain with radiation to 
+buttocks.  Also with fevers (today 101).  
+.
+Work up of back pain included bone scan read as "negative"; CT 
+of left hip was "negative".  MRI of spine performed today showed 
+L3-L4 small collection; "not an abscess".  Paraspinal muscles 
+were "inflamed with edema". 
+.
+Stay was also notable for acute encephalopathy, ___ past ___ 
+days, urinary retention, with foley catheter placed on ___ from 
+records, and 1.8 L of urine drained, constipation, with no bowel 
+movement since admission. 
+.
+Pain was treated with a dilaudid PCA (initially with basal rate) 
+and now on mscontin.
+.
+PAIN SCALE: ___ location:
+________________________________________________________________
+
+Review of systems compromised by encephalopathy, but as above, 
+according to discharge summary and daughter ___.   
+
+ 
+Past Medical History:
+HTN, bilateral TKR, THR.  She has a history of a hereditary 
+epiphyseal dysplasia leading to joint replacements.
+
+ 
+Social History:
+___
+Family History:
+Notable for hereditary bone dysplasia (daughters also with hip 
+replacements)
+ 
+Physical Exam:
+PAIN SCORE:  ___
+
+VS T 100.2 P BP  139/98 RR 16  96% 2L O2Sat  
+GENERAL:  appears ill, uncomfortable, tremulous.
+Eyes: EOMI without nystagmus, no scleral icterus noted  
+Ears/Nose/Mouth/Throat: dry mucous membranes  
+Neck: supple, no JVD or carotid bruits appreciated  
+Respiratory: Lungs CTA bilaterally without R/R/W  
+Cardiovascular: tachycardic, no murmurs appreciated at rapid 
+rate.    
+Gastrointestinal: soft, NT/ND, normoactive bowel sounds, no 
+masses or organomegaly noted.  
+Genitourinary:  Foley catheter ___ place.
+Skin: Patchy erythematous rash, consistent with contact 
+dermatitis.
+Extremities: Bilateral scars from THR, TKR. 1+ edema 
+bilaterally.  2+ radial, DP and ___ pulses b/l.  
+Lymphatics/Heme/Immun: No cervical, supraclavicular, axillary or 
+inguinal lymphadenopathy noted.  
+Neurologic:  
+-mental status: Somnolent, delirious.  Oriented after many 
+questions to ___.  Knows her doctor is ___.  
+-cranial nerves: II-XII intact  
+-motor: normal bulk, Moves both legs, with full strength with 
+foot extension.  Exam limited by pain and mental status. No 
+abnormal movements noted.  No saddle anesthesia, possible 
+reduced rectal sphincter tone.  Reflexes not tested.
+-sensory: able to feel light touch on legs.
+-cerebellar: No nystagmus, dysarthria.
+Psychiatric:  anxious, delerious.
+.
+On Discharge: 
+
+ 
+Pertinent Results:
+Primary information not available.
+From ___, as recounted above. 
+.
+Most recent labs:
+Troponin I ___
+BUN 9, Cr 0.64
+Na 136, K 3.8, Cl 104, CO2 25, Ca 8.3, 
+AST 21, ALT 33, Alk phos 77
+Albumin 2.8
+Protein 5.8
+WBC 9.6, Hct ___, platelets 141
+.
+
+EKG:
+___:  LBBB
+___:  NSR, nl axis, intervals.
+___ EKG (here) LBBB, rate 103
+.
+
+LAST ECHO:
+EF 55-60% per ___ records.
+.
+
+MRI:  awaiting records
+.
+BLOOD/URINE CULTURE: 
+___ blood cultures staph aureus
+___ blood culture GPC
+No further blood cultures
+.
+Urine culture:
+Staph aureus > 100k, mixed flora > 100K.
+___ 10:11PM BLOOD WBC-10.0 RBC-3.97* Hgb-11.9* Hct-34.6* 
+MCV-87 MCH-30.0 MCHC-34.3 RDW-13.8 Plt ___
+___ 05:20AM BLOOD WBC-10.6 RBC-3.80* Hgb-11.9* Hct-33.1* 
+MCV-87 MCH-31.2 MCHC-35.9* RDW-13.8 Plt ___
+___ 05:19AM BLOOD WBC-6.3 RBC-3.03* Hgb-9.1* Hct-25.9* 
+MCV-85 MCH-30.1 MCHC-35.2* RDW-14.4 Plt ___
+___ 06:33AM BLOOD WBC-7.6 RBC-3.18* Hgb-9.3* Hct-27.3* 
+MCV-86 MCH-29.4 MCHC-34.3 RDW-14.2 Plt ___
+___ 10:11PM BLOOD Plt ___
+___ 05:20AM BLOOD ___ PTT-30.5 ___
+___ 07:50AM BLOOD ___ PTT-19.1* ___
+___ 07:50AM BLOOD Plt ___
+___ 06:33AM BLOOD ___ PTT-22.5 ___
+___ 06:33AM BLOOD Plt ___
+___ 05:20AM BLOOD ESR-55*
+___ 06:47PM BLOOD ESR-50*
+___ 06:33AM BLOOD ESR-45*
+___ 10:11PM BLOOD Glucose-138* UreaN-8 Creat-0.4 Na-137 
+K-3.6 Cl-101 HCO3-24 AnGap-16
+___ 05:20AM BLOOD Glucose-124* UreaN-7 Creat-0.4 Na-136 
+K-3.4 Cl-100 HCO3-25 AnGap-14
+___ 04:28AM BLOOD Glucose-146* UreaN-7 Creat-0.6 Na-131* 
+K-3.6 Cl-98 HCO3-21* AnGap-16
+___ 05:19AM BLOOD Glucose-125* UreaN-8 Creat-0.5 Na-135 
+K-3.5 Cl-103 HCO3-25 AnGap-11
+___ 06:33AM BLOOD Glucose-104* UreaN-5* Creat-0.6 Na-135 
+K-3.9 Cl-101 HCO3-25 AnGap-13
+___ 10:11PM BLOOD ALT-30 AST-25 AlkPhos-102 TotBili-1.2
+___ 07:45AM BLOOD ALT-77* AST-74* AlkPhos-94 TotBili-0.7
+___ 06:33AM BLOOD ALT-43* AST-28 LD(LDH)-250 AlkPhos-85 
+TotBili-0.5
+___ 10:11PM BLOOD Calcium-8.5 Phos-1.1* Mg-1.8
+___ 05:20AM BLOOD Calcium-8.6 Phos-2.0* Mg-1.8
+___ 05:19AM BLOOD Calcium-8.4 Phos-3.9 Mg-2.1
+___ 06:33AM BLOOD Calcium-8.6 Phos-3.7 Mg-2.1
+___ 07:45AM BLOOD %HbA1c-5.9 eAG-123
+___ 06:47PM BLOOD CRP-GREATER THAN 300
+___ 06:33AM BLOOD CRP-63.7*
+.
+Spine MRI
+IMPRESSION:
+1. Findings indicative of epidural phlegmon with epidural 
+abscess posterior
+to the thecal sac from L2-3 to L4-5 level, predominantly at L2-3 
+and L3-4
+levels with small epidural abscesses. There is compression of 
+the thecal sacby the enhancing epidural tissue ___ the epidural 
+abscess.
+2. Left paraspinal soft tissue enhancement involving the erector 
+spinae
+muscle at L3 level, predominantly with small fluid collections 
+indicative of small intramuscular abscesses.
+3. No evidence of discitis or osteomyelitis.
+4. Multilevel degenerative changes ___ the cervical, thoracic, 
+and lumbar
+region without high-grade spinal stenosis.
+5. No evidence of cord compression.
+6. The findings were discussed with Dr. ___ at the time 
+of
+interpretation of this study on ___ at 4 p.m.
+. 
+___ TTE
+Conclusions
+The left atrium is moderately dilated. Left ventricular wall 
+thickness, cavity size, and global systolic function are normal 
+(LVEF>55%). Due to suboptimal technical quality, a focal wall 
+motion abnormality cannot be fully excluded. Right ventricular 
+chamber size and free wall motion are normal. The ascending 
+aorta is mildly dilated. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+regurgitation. No masses or vegetations are seen on the aortic 
+valve, but cannot be fully excluded due to suboptimal image 
+quality. The mitral valve leaflets are mildly thickened. No 
+masses or vegetations are seen on the mitral valve, but cannot 
+be fully excluded due to suboptimal image quality. Mild (1+) 
+mitral regurgitation is seen. No masses or vegetations are seen 
+on the tricuspid valve, but cannot be fully excluded due to 
+suboptimal image quality. There is mild pulmonary artery 
+systolic hypertension. There is no pericardial effusion.
+.
+IMPRESSION: Suboptimal image quality. Mild mitral regurgitation 
+with normal valve morphology. Normal biventricular cavity sizes 
+with preserved global biventricular systolic function. Mild 
+pulmonary artery systolic hypertension.
+.
+CLINICAL IMPLICATIONS:
+If clinically suggested, the absence of a vegetation by 2D 
+echocardiography does not exclude endocarditis.  
+.
+___ TEE:
+Conclusions
+No spontaneous echo contrast or thrombus is seen ___ the body of 
+the left atrium/left atrial appendage or the body of the right 
+atrium/right atrial appendage. Right atrial appendage ejection 
+velocity is good (>20 cm/s). No atrial septal defect is seen by 
+2D or color Doppler. Overall left ventricular systolic function 
+is normal (LVEF>55%). The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion. No masses or 
+vegetations are seen on the aortic valve. No aortic 
+regurgitation is seen. The mitral valve leaflets are 
+structurally normal. No mass or vegetation is seen on the mitral 
+valve. Mild to moderate (___) mitral regurgitation is seen. No 
+vegetation/mass is seen on the pulmonic valve. There is no 
+pericardial effusion.
+.
+IMPRESSION: Mild to moderate mitral regurgitation with normal 
+valve morphology. No echocardiographic evidence of endocarditis. 
+ 
+.
+Blood Culture, Routine (Final ___: 
+      STAPH AUREUS COAG +.    FINAL SENSITIVITIES. 
+         Consultations with ID are recommended for all blood 
+cultures
+         positive for Staphylococcus aureus and ___ species. 
+
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted.  Rifampin should not be used alone for 
+therapy. 
+         Daptomycin SENSITIVITIES REQUESTED BY ___. ___ 
+___. 
+         Daptomycin = 0.75MCG/ML. 
+         Daptomycin Sensitivity testing performed by Etest. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                    
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+DAPTOMYCIN------------       S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   0.5 S
+LINEZOLID-------------     2 S
+OXACILLIN-------------   0.5 S
+RIFAMPIN-------------- <=0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+.
+___ 4:38 pm SWAB      EPIDURAL FOR CULTURE. 
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      3+  ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+
+   WOUND CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    HEAVY GROWTH. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   0.5 S
+OXACILLIN-------------   0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   FUNGAL CULTURE (Preliminary): 
+      NO FUNGUS ISOLATED. 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+.
+___ 5:20 am BLOOD CULTURE
+                            **FINAL REPORT ___
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+.
+___ 7:45 am BLOOD CULTURE
+                            **FINAL REPORT ___
+Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+ 
+Brief Hospital Course:
+___ yo woman with a history of TKR/THR, admitted with bacteremia, 
+encephalopathy, new LBBB (transient, now recurrent), and 
+epidural abscess.  She was persistently febrile.  Also with 
+diffuse rash, which does not appear consistent with drug rash, 
+but more with heat dermatitis.
+.
+# MSSA Bacteremia: The source of her bacteremia was likely her 
+epidual abscess.  She had no risk factors for the abscess.  No 
+recent admissions, no recent instrumentations, no recent 
+illnesses. Ms. ___ was at risk for endocarditis. She had a new 
+LBBB on EKG from ___. A transthoracic echocardiogram was 
+done and was negative for endocarditis, however it was poor 
+image quality.  We had a transesophageal echo done and it was 
+negative for vegitations or abscess.  She had positive blood 
+cultures with MSSA on ___ and brushings from surgery on 
+___ that were MSSA as well.  She was started on vancomycin 
+due to a penicillin allergy.  She was admitted to the MICU for 
+desensitization of nafcillin, which went without complication.   
+Her fever curve decreased and she became afebrile.  Her cultures 
+were perisistently negative after starting with the cultures 
+from ___. She was discharged on an ___ week antibiotic course. 
+ 
+.  
+# Laminectomy/lumbar abscess: She had surgery ___ and ___ 
+surgery a bilateral L2 laminotomy, L3, L4 Laminectomy, bilateral 
+L5 Laminotomy were performed with removal of the epidural 
+abscess, debridement, and biopsies of the deep muscle and deep 
+bone.  Her pain was controlled with dilaudid and it was 
+transitioned to oxycodone PO, and she did well postprocedurally. 
+ Her neurologic exam remained stable without deficit.    
+.  
+# Delirium: Post procedurally she was transferred to the SICU, 
+and she was delirious.  It was likely a combination of her 
+narcotics and concomitant treatment with benzodiazepines ___ the 
+setting of bacteremia. Her IV pain medication was transitioned 
+to PO and her benzodiazepines were stopped.  As her infection 
+improved and her pain was controlled with PO medications and the 
+benzos cleared her mental status became much improved.  At the 
+time of discharge she was back to her baseline.
+.
+# LBBB/VTach: She has had intermittent LBBB and a run of 17 
+beats of VTACH. She had negative TTE and TEE with normal LV 
+function, she was ruled out for MI at OSH.  No complaints of 
+chest pain. Repeat 12 lead showed resolution of LBBB. EP 
+evaluated strips, and thought it to be NSVT, with nothing to do. 
+No need for follow-up.
+.
+# Hyponatremia: She became hyponatremic to 130.  Her thiazide 
+was held, and as her pain was controlled her sodium improved. 
+.  
+# Glucose intolerance: Likely ___ the setting of bacteremia and 
+stress reaction vs. chronic glucose intolerance. Her HgbA1c was 
+5.9%.
+.
+# Anemia: hct decreased since surgery to 27.  Baseline on this 
+admission was 34. It improved after surgery. 
+.  
+# HTN: She was kept on Metoprolol and her thiazide was 
+discontinued because of the hyponatremia.  
+.  
+ 
+Medications on Admission:
+MEDICATIONS ON TRANSFER:
+Vancomycin 1500 IV mg daily
+Mscontin 15 mg po bid
+Ativan 0.5 mg q 4 hours
+Flexeril 5 mg po tid
+Miralax 17 g daily
+Nexium 40 mg iv daily
+Colace
+Benadryl
+Zofran
+Tylenol ___ q 4 hours prn
+Heparin SC 
+
+ 
+Discharge Medications:
+1. Oxycodone 5 mg Tablet Sig: ___ Tablet PO Q6H (every 6 
+hours) as needed for Pain.  
+2. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID 
+(3 times a day).  
+3. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain/fever.  
+4. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+5. Nafcillin ___ D2.4W 2 gram/100 mL Piggyback Sig: Two (2) grams 
+Intravenous Q4H (every 4 hours) for 8 weeks.  
+
+ 
+Discharge Disposition:
+___ Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Methicillin Sensitive Staph Aureus Bacteremia
+Epidural Abscess
+Hyponatremia
+Anemia
+Hypertension
+Delirium
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Ms. ___, it was a pleasure taking part ___ your care. You were 
+admitted to ___ because of confusion, fevers, and intense back 
+pain.  At a different hospital, as well as here, we found an 
+abscess next to your spine.  You also were found to have 
+bacteria ___ your blood and urine (all the same bug).
+.
+Orthopedics took you to surgery and performed an operation on 
+your back to get rid of the abscess and to help fix your back. 
+We treated your infection with IV antibiotics. You have a 
+history of allergies to penicillin so you were started on 
+vancomycin.  We sent you to the ICU to desensitize you to the 
+right antibiotic - nafcillin - which is ___ the penicillin 
+family.  You tolerated that well.
+.
+Your confusion resolved, and at the time of discharge you were 
+doing very well.  You had made tremendous improvement. You were 
+weak from being very sick, but otherwise you were doing quite 
+well.
+.
+During your stay, we made the following CHANGES to your 
+medications:
+We STOPPED hydrochlorothiazide
+We STARTED Nafcillin 2 grams IV every 4 hours. You will need 
+___ weeks if antibiotics.
+We INCREASED your Metoprolol to 50mg by mouth three times a day
+.
+Please take your other medications as prescribed
+ 
+Followup Instructions:
+___

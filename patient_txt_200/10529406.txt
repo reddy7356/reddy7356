@@ -1,0 +1,180 @@
+===== DISCHARGE NOTE =====
+note_id=10529406-DS-6 | hadm_id=24311280
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ woman without ___ medical history, was in usual
+state of health until this AM when she slipped and fell on the
+ice this AM. Denies LOC. Was taken by ambulance to ___
+where CT Head revealed traumatic SAH. Pt transferred to ___ 
+for
+Neurosurgical evaluation. Upon presentation she complains of
+diffuse general headache, otherwise feels fine.
+
+ 
+Past Medical History:
+Hyperlipidemia
+Hypertension
+Right Breast Lumpectomy ___
+cholecystectomy
+ 
+Social History:
+___
+Family History:
+Family Hx: non-contributory
+
+ 
+Physical Exam:
+PHYSICAL EXAM:
+O: T:97.8  BP: 125/77   HR: 80   R 18   O2Sats 100% 
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: PERRl      EOMs intact
+Neck: Supple.
+Cardiac: RRR. 
+Abd: Soft, NT
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3 to 2
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch, propioception
+
+Toes downgoing bilaterally
+
+Coordination: normal on finger-nose-finger, rapid alternating
+movements
+
+Exam on Discharge: Neuro intact, stable
+ 
+Pertinent Results:
+Head CT ___: Small Falcine Subdural Hematoma with small amount 
+of Subarachnoid hemorrhage
+
+Head CT ___: Stable SDH, resolving SAH
+
+___ 03:00PM   GLUCOSE-107* UREA N-27* CREAT-0.9 SODIUM-144 
+POTASSIUM-4.0 CHLORIDE-105 TOTAL CO2-27 ANION GAP-16
+___ 03:00PM   estGFR-Using this
+___ 03:00PM   WBC-6.3 RBC-4.30 HGB-12.8 HCT-37.4 MCV-87 
+MCH-29.7 MCHC-34.1 RDW-13.3
+___ 03:00PM   PLT COUNT-271
+___ 03:00PM   ___ PTT-19.3* ___
+ 
+Brief Hospital Course:
+Pt was admitted to the Neurosurgery floor for close observation, 
+neuro checks and blood pressure control.  Her aspirin was held 
+and she was started on Dilantin for seizure prophylaxis.  Head 
+CT repeated in the morning on ___ was stable, no progression of 
+falcine SDH with resolution of the traumatic SAH.  Her 
+neurological exam remained stable and intact and her diet was 
+advanced.  At the time of discharge she was tolerating a regular 
+diet, ambulating without difficulty, afebrile with stable vital 
+signs.
+ 
+Medications on Admission:
+lipitor 80 qday
+lisinopril 40 qday
+hctz 12.5 qday
+tricor 48 qday
+asa 81 qday
+ 
+Discharge Medications:
+1. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for headache.  
+2. lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+3. fenofibrate micronized 48 mg Tablet Sig: One (1) Tablet PO 
+Daily ().  
+4. hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).  
+5. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. phenytoin sodium extended 100 mg Capsule Sig: One (1) Capsule 
+PO TID (3 times a day) for 7 days.
+Disp:*21 Capsule(s)* Refills:*0*
+7. oxycodone 5 mg Capsule Sig: ___ Capsules PO Q4H (every 4 
+hours) as needed for Pain.
+Disp:*30 Capsule(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Subdural Hematoma, Subarachnoid hemorrhage
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+General Instructions
+
+•Take your pain medicine as prescribed.
+•Exercise should be limited to walking; no lifting, straining, 
+or excessive bending.
+•Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+•Unless directed by your doctor, do not take any 
+anti-inflammatory medicines such as Motrin, Advil, or Ibuprofen 
+etc for 7 days. 
+•You may safely resume taking Aspirin on ___.
+•You have been prescribed Dilantin (Phenytoin) for anti-seizure 
+medicine, take it as prescribed for 7 days
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING
+
+•New onset of tremors or seizures.
+•Any confusion, lethargy or change in mental status. 
+•Any numbness, tingling, weakness in your extremities.
+•Pain or headache that is continually increasing, or not 
+relieved by pain medication.
+•New onset of the loss of function, or decrease of function on 
+one whole side of your body.
+
+ 
+Followup Instructions:
+___

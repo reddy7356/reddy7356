@@ -1,0 +1,134 @@
+===== DISCHARGE NOTE =====
+note_id=11885267-DS-17 | hadm_id=28239335
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right subdural hematoma. 
+ 
+Major Surgical or Invasive Procedure:
+None. 
+
+ 
+History of Present Illness:
+___ yo F hx ___, afib on coumadin with AMS found to
+have right SDH at OSH and transferred to ___ for further
+evaluation.  Pt was noted by family to be less responsive
+yesterday.  Today they brought pt to OSH and pt was intercepted
+by EMS in the parking lot where she was found to be 
+unresponsive,
+tachypneic to the ___ and was emergently intubated.  CT head
+showed large right acute SDH.  INR was 2.  She was given 1 unit
+FFP and Vit K and transferred to ___.  Pt's family supposedly
+reversed her DNR for transport. She was admitted to the ICU for 
+close monitoring overnight. 
+
+ 
+Past Medical History:
+PMHx: Afib, ___, hypothyroid
+ 
+Social History:
+___
+Family History:
+NC.
+ 
+Physical Exam:
+PHYSICAL EXAMINATION ON ADMISSION:
+O: BP: 150/53  HR:74  R18   O2Sats 98-99%
+Gen: intubated, sedation on hold
+HEENT: normocephalic atraumatic
+Extrem: cool and dusky
+
+No eye opening
+Weak delayed localization x4 extremities
+Intubated/nonverbal
+
+Pupils 2mm surgical and nonreactive
+Corneals present bilat
+Cough and gag present
+
+PHYSICAL EXAMINATION ON DISCHARGE:
+expired. 
+
+ 
+Pertinent Results:
+Head CT without Contrast: ___
+1. A large subdural hematoma is associated with a moderate 
+degree of local 
+mass effect and leftward midline shift. There is no significant 
+degree of 
+herniation. 
+
+Head CT without Contrast: ___
+IMPRESSION: 
+  
+  
+1. Stable right hemisphere subdural hematoma with stable mass 
+effect on left lateral ventricle, as described. 
+2. Stable 7 mm leftward midline shift. 
+3. Stable layering intraventricular hemorrhage in the occipital 
+horn of the left lateral ventricle. 
+4. Left parietal scalp soft tissue swelling with subgaleal 
+hematoma and no 
+evidence of associated fracture. 
+
+ 
+Brief Hospital Course:
+The patient was transferred to ___ from ___ at 
+which time she was intubated for airway protection. A head CT 
+was obtained and showed a large right subdural hematoma. Her INR 
+was elevated at 2 and it was reversed with 1-unit of FFP and 
+Vitamin K at the OSH. A repeat INR was performed and was 1.7 and 
+she received an additional 2 units of FFP. She was admitted to 
+the ICU for close monitoring. 
+
+On ___, the patient's neurologic examination remained poor. The 
+AM INR was 1.6 and she received an additional unit of FFP and 
+Vitamin K. The repeat INR was 1.3. A repeat non-contrast head CT 
+was obtained and showed stable R SDH and stable mass effect with 
+MLS of 7mm to the left. Family meeting was held and it was 
+decided to terminally extubate the patient and provide comfort 
+measures.
+The patient expired at 0100 on ___. 
+
+ 
+Medications on Admission:
+Medications prior to admission:
+Coumadin 5mg daily, amlodipine 10mg daily, ASA 81mg, brimonidine
+0.2% bilat BID, Carbidopa-Levodopa ___ TID (before
+lbreakfast, lunch and "tea time", Cosopt bilat BID, Imdur 30mg
+daily, Xalatan bilat nightly, levothyroxine 75 mcg daily, Vit D
+1000units daily
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Right Subdural Hematoma
+Cardiopulmonary Arrest Secondary to terminal extubation
+
+ 
+Discharge Condition:
+n/a
+
+ 
+Discharge Instructions:
+n/a
+ 
+Followup Instructions:
+___

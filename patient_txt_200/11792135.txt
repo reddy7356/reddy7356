@@ -1,0 +1,900 @@
+===== DISCHARGE NOTE =====
+note_id=11792135-DS-14 | hadm_id=20092242
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+morphine / heparin / sirolimus
+ 
+Attending: ___
+ 
+Chief Complaint:
+abdominal pain, nausea, vomiting, diarrhea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with history of kidney transplant in ___ polycystic 
+kidney disease presenting with abdominal pain, vomiting, and 
+diarrhea.  Patient was recently
+admitted to ___ three weeks ago for laparoscopic hernia repair
+with mesh.  She did well postoperatively, although she does have
+a shallow non-healing wound on her abdomen at one of the 
+incision
+sites, which appeared stable and non-infected when Dr. ___
+her in clinic one week ago.
+
+Patient was in her usual state of health until yesterday ___,
+when she ate a casserole at 2 p.m.  Immediately afterwards, she
+began experiencing abdominal pain, nausea, and non-bloody
+non-bilious vomiting.  She was vomiting every five minutes for
+about four hours.  She also began to have watery non-bloody
+diarrhea.  In addition, she felt intermittent fevers and chills
+associated with the vomiting.  Abdominal pain was constant and
+did not get better after vomiting.  She presented to the ED at 
+an
+OSH, and while in the waiting room, she began to feel better. 
+She was able to drink a bottle of water and urinate well, so she
+decided to go home.  She started eating the BRAT diet that
+evening, tolerating it without difficulty.  However, she woke up
+at 4 a.m. today ___ and had severe abdominal pain and vomiting
+again.  She decided to come to the ___ ED.
+
+Of note, patient has not urinated yet today, and she saw stars
+and felt faint this morning while walking around (but did not
+pass out).
+
+ED COURSE 
+-Initial vitals: 98.0 108 123/76 19 98% RA 
+-Exam: Abd tenderness to all quadrants
+-Labs: CBC, LFTs, lipase within normal limits, increased BUN/SCr
+34/2.3, hemolyzed K 5.5, HCO3 17 
+-Imaging: Unremarkable CXR and Abd XR 
+-Patient given: 1L LR, Zofran x 1
+-Consults: renal transplant, transplant surgery
+
+In the ED, patient was evaluated by transplant surgery, who felt
+there was a very low concern for acute surgical process.  They
+recommended wet-to-dry dressing for her shallow abdominal wound.
+
+REVIEW OF SYSTEMS: Positive per HPI, remaining 10 point ROS
+reviewed and negative.
+ 
+Past Medical History:
+PAST MEDICAL HISTORY 
+-ESRD secondary to polycystic kidney disease
+-Hyperthyroidism s/p RAI 
+-Post ablative hypothyroidism 
+-Heparin induced thrombocytopenia 
+-Skin cancers 
+-Hyperlipidemia 
+-Hypertension 
+-Anxiety 
+-Avulsion fracture of ankle (___) 
+-Norovirus infection (___) 
+
+PAST SURGICAL HISTORY 
+-Laparoscopic umbilical hernia repair with mesh (___)
+-___ surgery scalp (___) 
+-Bilateral nephrectomy (___)  
+-Renal transplant (___) 
+ 
+Social History:
+___
+Family History:
+-PCKD mother (+aneurysm) and sister
+-___ cancer
+-CAD in father
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAM:
+========================
+VS: T 98.3 BP 122/81 HR 96 RR 18 O2 sat 100% RA
+GENERAL: NAD, overweight woman sitting comfortably
+HEENT: AT/NC, anicteric sclera, pink conjunctiva, mucous
+membranes dry 
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: nondistended, normoactive bowel sounds, mild epigastric
+tenderness to palpation, no rebound/guarding
+EXTREMITIES: no cyanosis, clubbing, or edema  
+PULSES: warm and well-perfused
+NEURO: alert and oriented to situation, conversational, language
+fluent, moving all 4 extremities with purpose
+SKIN: small 1-cm open wound with minimal surrounding erythema, 
+no
+purulent drainage, covered with wet-to-dry dressing and bandaid. 
+
+Areas of redness outlining previous tegaderm placement.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VS: T 98.4 BP 142/84 HR 81 RR 18 O2sat 98% RA
+GENERAL: NAD, overweight woman sitting comfortably
+HEENT: AT/NC, anicteric sclera, pink conjunctiva
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: nondistended, normoactive bowel sounds, mild RUQ TTP 
+(chronic per patient), no rebound/guarding
+EXTREMITIES: no cyanosis, clubbing, or edema  
+PULSES: warm and well-perfused
+NEURO: alert and oriented to situation, conversational, language
+fluent, CN II-XII intact, strength ___ in upper and lower 
+extremities, normal sensation
+SKIN: shallow abdominal wound covered with gauze and bandaid, 
+which was not removed. Areas of scabbing outlining previous 
+tegaderm placement.
+ 
+Pertinent Results:
+ADMISSION LABS:  
+==============
+___ 01:04PM BLOOD WBC-9.4 RBC-3.98 Hgb-11.5 Hct-35.6 MCV-89 
+MCH-28.9 MCHC-32.3 RDW-14.4 RDWSD-46.5* Plt ___
+___ 01:04PM BLOOD Neuts-83.6* Lymphs-11.7* Monos-4.1* 
+Eos-0.0* Baso-0.3 Im ___ AbsNeut-7.83* AbsLymp-1.10* 
+AbsMono-0.38 AbsEos-0.00* AbsBaso-0.03
+___ 01:04PM BLOOD Glucose-132* UreaN-34* Creat-2.3* Na-137 
+K-5.5* Cl-102 HCO3-17* AnGap-18
+___ 01:04PM BLOOD ALT-17 AST-32 AlkPhos-78 TotBili-0.8
+___ 01:04PM BLOOD Lipase-20
+___ 01:04PM BLOOD Albumin-4.1 Calcium-10.2 Phos-3.5 Mg-2.0
+___ 08:14PM BLOOD K-3.8
+  
+INTERVAL LABS:  
+=============
+___ 05:42AM BLOOD WBC-4.0 RBC-2.95* Hgb-8.7* Hct-27.0* 
+MCV-92 MCH-29.5 MCHC-32.2 RDW-14.3 RDWSD-48.1* Plt ___
+___ 05:42AM BLOOD ___ PTT-27.9 ___
+___ 05:42AM BLOOD Ret Aut-1.8 Abs Ret-0.05
+___ 05:42AM BLOOD Glucose-93 UreaN-24* Creat-2.1* Na-145 
+K-4.4 Cl-112* HCO3-17* AnGap-16
+___ 05:42AM BLOOD LD(LDH)-181
+___ 05:42AM BLOOD Calcium-9.0 Phos-3.5 Mg-1.8
+___ 05:42AM BLOOD Hapto-346*
+___ 05:42AM BLOOD tacroFK-5.6 rapmycn-4.2*
+ 
+MICROBIOLOGY:  
+=============
+___ 7:55 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date.
+
+___ 2:00 am URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION.
+
+___ 4:21 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date.
+
+___ 4:17 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile PCR (Final ___: 
+      NEGATIVE. 
+           (Reference Range-Negative). 
+      The C. difficile PCR is highly sensitive for toxigenic 
+strains of C.
+      difficile and detects both C. difficile infection (CDI) 
+and
+      asymptomatic carriage. 
+      A negative C. diff PCR test indicates a low likelihood of 
+CDI or
+      carriage.
+
+___ 4:17 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+   OVA + PARASITES (Final ___: 
+      NO OVA AND PARASITES SEEN. 
+      This test does not reliably detect Cryptosporidium, 
+Cyclospora or
+      Microsporidium. While most cases of Giardia are detected 
+by routine
+      O+P, the Giardia antigen test may enhance detection when 
+organisms
+      are rare. 
+
+   FECAL CULTURE - R/O VIBRIO (Final ___:    NO VIBRIO 
+FOUND. 
+
+   FECAL CULTURE - R/O YERSINIA (Final ___:    NO YERSINIA 
+FOUND. 
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: 
+      No E. coli O157:H7 found. 
+
+___ 4:17 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+   VIRAL CULTURE (Preliminary):    NO VIRUS ISOLATED.
+
+___ 3:14 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+   OVA + PARASITES (Pending): 
+
+IMAGING/STUDIES:  
+=============== 
+___ Chest PA and Lateral
+No acute cardiopulmonary process.
+
+___ Abdomen supine and erect
+Nonobstructive bowel gas pattern.  No free intraperitoneal air.
+
+___ Renal transplant ultrasound
+Normal renal transplant ultrasound.
+
+___ CT abdomen/pelvis w/o IV contrast w/ oral contrast
+1. The patient has had interval repair of an umbilical hernia. 
+There is now a fluid collection in the subcutaneous tissues 
+measuring 3.1 cm x 3.2 cm.  There is no significant surrounding 
+fat stranding.  This likely represents a postoperative seroma.
+2. There is a long segment of distal ileum, with circumferential 
+wall
+thickening, suggestive of enteritis.
+3. New mild to moderate amount of ascites.
+4. Innumerable liver cysts compatible with the patient's known 
+history of
+polycystic kidney disease.
+ 
+DISCHARGE LABS:  
+==============
+___ 05:38AM BLOOD WBC-3.9* RBC-2.79* Hgb-8.2* Hct-25.4* 
+MCV-91 MCH-29.4 MCHC-32.3 RDW-14.2 RDWSD-46.9* Plt ___
+___ 05:38AM BLOOD ___ PTT-29.6 ___
+___ 05:38AM BLOOD Glucose-95 UreaN-22* Creat-1.7* Na-143 
+K-4.6 Cl-110* HCO3-21* AnGap-12
+___ 05:38AM BLOOD Calcium-9.0 Phos-3.2 Mg-1.8
+___ 05:38AM BLOOD tacroFK-5.8
+ 
+Brief Hospital Course:
+PATIENT SUMMARY
+=====================
+___ woman with h/o ESRD from polycystic kidney disease
+s/p renal transplant (___) on sirolimus/tacrolimus, with recent
+hernia repair, presenting with abdominal pain, nausea, and
+non-bloody non-bilious vomiting, concerning for a viral 
+gastroenteritis. The patient recovered with IV rehydration and 
+symptomatic management.
+
+ACTIVE ISSUES
+=====================
+#Abdominal pain, nausea/vomiting, a watery diarrhea
+The patient most likely had infectious colitis, given her 
+sudden-onset
+watery diarrhea after eating heated frozen-food products. Given 
+the patient's immunosuppressed status, parasitic/opportunistic 
+infections were also considered, and a thorough work-up was 
+performed. She had undetectable CMV viral load, and a negative 
+C. diff
+PCR. Bacterial colitis was considered very unlikely, as she did 
+not have bloody diarrhea or fevers, and never had an elevated 
+white count, so antibiotics were not started. Ischemic colitis 
+was also considered unlikely. CT scan showed enteritis, and also 
+demonstrated a post-operative seroma near her hernia repair 
+site, with no concerning signs of infection or abscess. The 
+patient clinically improved with symptomatic management - 
+aggressive IV rehydration, Zofran PRN for nausea, and advancing 
+diet as tolerated.
+
+___
+Creatinine on admission was 2.3, with baseline 1.3-1.6. 
+Responded very well to IVF, and was 1.7 at time of discharge. 
+___ was likely prerenal i/s/o large GI losses. Rejection or ATN 
+were considered very unlikely, especially as her Cr improved 
+with fluids. Lisinopril and HCTZ were held i/s/o ___ 
+continue to hold on discharge; can be restarted pending 
+resolution of her ___.
+
+#Acute Anemia
+Hemoglobin down-trended from 10.2 to 8.7 today, which was most 
+likely
+dilutional from her IVF administration, as no source of bleeding 
+was ever identified, and no concerning findings were seen on CT.
+
+#Ascites
+Seen on CT abdomen/pelvis, most likely from IVF administration. 
+LFTs normal; low concern for cirrhosis despite known polycystic 
+liver.
+
+#Immunosuppression
+#Renal Transplant
+Sirolimus was discontinued to promote wound healing from 
+laproscopic surgical site from umbilical hernia repair. Patient 
+was continued on tacrolimus 1.5 mg Q12H, and trough was 5.8. 
+Goal trough is ___ in absence of sirolimus, but dose was not 
+increased on this admission, as per the nephrology team there is 
+still sufficient sirolimus residual level in her system. Her 
+dose may need to be up-titrated as an outpatient to reach 
+therapeutic levels, if trough continues to be less than 6.
+
+CHRONIC ISSUES
+======================
+#Hypertension
+- Held home lisinopril, hydrochlorothiazide in setting of ___ 
+continue to hold on discharge. Restart upon resolution ___ 
+per above.
+
+#Hyperlipidemia
+- continued pravastatin 20 mg daily
+
+#Hypothyroidism: s/p radioiodine ablation
+- continued home levothyroxine 88 mcg daily
+
+#Anxiety/Insomnia
+- continued home clonazepam 0.5 mg QHS PRN insomnia
+
+#GERD
+- continued home pantoprazole 40 mg Q24H
+
+===================
+TRANSITIONAL ISSUES
+===================
+#Renal Transplant
+[]Discontinued sirolimus, to promote wound healing from her 
+recent hernia surgery, restart when medically appropriate
+[]F/u tacrolimus labs within 3 weeks, Dr. ___ will review and 
+adjust levels to goal trough going forward. Will likely need 
+up-titration, as goal trough is ___, but level was 5.8 on 
+discharge. Did not increase during patient's hospitalization, as 
+her sirolimus had just been discontinued.
+#HTN
+[]Held lisinopril and HCTZ due to ___, please resume as 
+outpatient when Cr returns to baseline.
+___
+[]Please f/u repeat labs within 1 week, to confirm resolution of 
+her ___
+#Diarrhea
+[]Stool ova and parasites still pending at time of discharge, we 
+will f/u and contact PCP if anything returns positive
+#Anemia: Hgb downtrending 11.5 -> 8.2 during admission, most 
+likely dilutional as normal vital signs and no source of 
+bleeding on CT with totally benign abdominal exam, as well as 
+normal hemolysis labs.
+[]Follow-up CBC as outpatient.
+
+# CODE: FULL (confirmed)
+# HEALTH CARE PROXY: sister, ___ ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ClonazePAM 0.5 mg PO QHS:PRN insomnia 
+2. Hydrochlorothiazide 12.5 mg PO DAILY 
+3. Levothyroxine Sodium 88 mcg PO DAILY 
+4. Pantoprazole 40 mg PO Q24H 
+5. Sirolimus 1.5 mg PO DAILY 
+6. Aspirin 81 mg PO DAILY 
+7. Lisinopril 20 mg PO DAILY 
+8. Multivitamins 1 TAB PO DAILY 
+9. Pravastatin 20 mg PO QPM 
+10. Sodium Bicarbonate 650 mg PO BID 
+11. Vitamin D ___ UNIT PO DAILY 
+12. Tacrolimus 1.5 mg PO Q12H 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  ClonazePAM 0.5 mg PO QHS:PRN insomnia  
+3.  Levothyroxine Sodium 88 mcg PO DAILY  
+4.  Multivitamins 1 TAB PO DAILY  
+5.  Pantoprazole 40 mg PO Q24H  
+6.  Pravastatin 20 mg PO QPM  
+7.  Sodium Bicarbonate 650 mg PO BID  
+8.  Tacrolimus 1.5 mg PO Q12H  
+9.  Vitamin D ___ UNIT PO DAILY  
+10. HELD- Hydrochlorothiazide 12.5 mg PO DAILY  This medication 
+was held. Do not restart Hydrochlorothiazide until you are told 
+to restart by your healthcare provider
+11. HELD- Lisinopril 20 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until you are told to do so by your 
+healthcare provider.
+12. HELD- Sirolimus 1.5 mg PO DAILY  This medication was held. 
+Do not restart Sirolimus until you are told to do so by your 
+healthcare provider.
+13.Outpatient Lab Work
+Please check tacrolimus level within 1 week of discharge. 
+ICD 9 Code 55.6 Kidney Transplantation 
+Fax results to: ___, MD ___ 
+14.Outpatient Lab Work
+Please check BMP (Na, K, Cl, CO2, BUN, Cr, glucose) within 1 
+week of discharge. ICD-9 Code 584.9 Acute kidney failure. 
+Please fax results to: ___, MD ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Viral gastroenteritis 
+___
+
+SECONDARY DIAGNOSIS
+===================
+ESRD from polycystic kidney disease, s/p renal transplant (___)
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+ You were admitted to the hospital because of your abdominal 
+pain, nausea, vomiting and diarrhea, which was most likely due 
+to a viral infection of your digestive system. 
+
+ WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL?  
+ - You received IV fluids for rehydration.
+ - We stopped your sirolimus, as we thought this was why your 
+wounds from your hernia repair were not healing well. 
+ - You improved and were ready to leave the hospital. 
+ 
+ WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL?  
+ - Take all of your medications as prescribed (listed below)  
+ - Keep your follow up appointments with your doctors  
+ - Weigh yourself every morning, before you eat or take your 
+medications. Call your doctor if your weight changes by more 
+than 3 pounds  
+ - Please stick to a low salt diet and monitor your fluid intake 
+ 
+ - If you experience any of the danger signs listed below please 
+call your primary care doctor or come to the emergency 
+department immediately.
+
+ It was a pleasure participating in your care. We wish you the 
+best!  
+ - Your ___ Care Team 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11792135-DS-12 | hadm_id=28134222
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+morphine / heparin / sirolimus
+ 
+Attending: ___
+ 
+Chief Complaint:
+Diarrhea
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ yo female w/ ___ s/p bilateral nephrectomy with Renal Tx 
+___ (Sirolimus 1 mg PO DAILY, Tacrolimus 1.5 mg PO Q12H) who 
+presents with profuse watery diarrhea. 
+
+She was in her usual state of health until noon day of arrival 
+when she developed multiple episodes of profuse watery diarrhea 
+(about 12BMs) and 4 episodes of nbnb emesis. No abdominal pain. 
+Also had minimal and dark urine output. She also reports chills 
+but denies any fever. Transplant team rec'd that she go to the 
+ED for rehydration and assessment of ___. She works at ___ 
+___ as orthopedic ___ where they now have or are soon 
+expecting norovirus. No recent abx use.
+
+No recent changes to her immunosuppression regimen, specifically 
+tacro.
+
+On arrival she was found to have Cr 1.3 (baseline 1.0 though has 
+been up to 1.3 in the past), and bicarb of 19. In ED rcvd 1L IVF 
+followed by self intake of up to 10 glasses of water with 
+improvement in urine output. She had a renal u/s transplant 
+protocol which was normal. She had a UA which was not suggestive 
+of infection. Lipase normal. LFTs normal. 
+
+Multiple stool studies ordered. Tacro level ordered and pending. 
+CMV data ordered and pending.
+
+She has a h/o HIT so Fondaparinaux used instead of HSQ
+ 
+Please see nightfloat admission note for home medications, 
+allergies, FH, and SH, which I have confirmed with the patient.  
+
+
+When I saw her this morning she tells me that she drank "a lot" 
+of water over night. Keeping it all down. Would like to try a 
+regular diet today. Feels like herself.
+ 
+Past Medical History:
+ ___ s/p renal transplant ___ at ___
+Hx of HIT  
+hypothyroidism
+HTN
+HLD
+GERD
+Squamous Cell Cancer of Skin
+ 
+Social History:
+___
+Family History:
+Multiple family members with ___
+ 
+Physical Exam:
+ADMIT:
+Vitals: 98.1PO 121 / 76 86 18 96 RA   
+General: Alert, oriented, no acute distress  
+HEENT: NO pallor. no icterus. conjuctiva and sclera clear  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present  
+Ext:no clubbing, cyanosis or edema;  
+NEURO: No focal deficits. normal speech  
+
+DISCHARGE:
+
+VITALS:  98.5, 114/73, hr 80, 95%RA 
+- urine output not recorded, 1.7 intake including 1L IVF
+GENERAL: Awake this morning watching TV. In good spirits asking 
+when she can leave.
+HEENT: Moist mucosa. Normal conjunctiva. 
+RESP: Clear to auscultation bilaterally, no adventitious sounds.
+CV: Regular rate and rhythm about 70. No extra sounds.
+ABD: Non tender, +BS quiet, soft.
+GU: no foley  
+EXT: warm, well perfused, no edema.  
+NEURO, speech is clear, appropriate spontaneous motor function. 
+SKIN: Likely early cSCC of forehead otherwise examined skin with 
+photodistributed lentigines
+ 
+Pertinent Results:
+ADMIT:
+
+___ 05:00PM BLOOD WBC-7.4 RBC-4.29 Hgb-12.3 Hct-38.3 MCV-89 
+MCH-28.7 MCHC-32.1 RDW-14.8 RDWSD-48.6* Plt ___
+___ 05:00PM BLOOD Glucose-130* UreaN-34* Creat-1.3* Na-140 
+K-4.7 Cl-102 HCO3-19* AnGap-24*
+___ 05:00PM BLOOD ALT-19 AST-21 AlkPhos-88 TotBili-0.9
+___ 05:00PM BLOOD Lipase-38
+
+MICRO
+--> NOROVIRUS POSITIVE
+
+--> CMV IgG +   CMV IgM +
+DISCHARGE
+
+___ 06:36AM BLOOD Glucose-95 UreaN-21* Creat-1.2* Na-139 
+K-4.7 Cl-103 HCO3-25 AnGap-16
+___ 09:41AM BLOOD rapmycn-4.3*
+___ 06:36AM BLOOD tacroFK-7.___ year old woman s/p bilateral nephrectomy with kidney 
+transplant ___ now p/w watery diarrhea and vomiting since ___ 
+AM, admitted for inability to maintain PO intake.  
+
+BRIEF:
+- Given her immunosuppression she was admitted for infectious 
+work up and IV hydration.  Her symptoms quickly improved and no 
+diarrhea for 12 hours before discharge. No fevers/chills since 
+admisison, no myalgias or other concering sx... NOROVIRUS PC 
+POSTIVE 
+
+After discharge CMV IgG and IgM positive.... VL could not be 
+done because blood sample that was sent, was insufficient, which 
+I did not know about until after discharge... All team members 
+were notified by email
+
+BY PROBLEM:
+
+# Norovirus + PCR
+# Diarrhea/vomiting:  
+# Now s/p 1L IVF in ED and 1L Bicarb on the floor. Has tolerated 
+>10 glasses of water, symptomatically improved as well.  No evid 
+of pancreatitis, UA normal, no changes in tacro dosing recently.
+
+# ___, diminished UOP, Pre-renal: Baseline creatinine 1.0-1.2, 
+Cr 1.3 on arrival. Hypovolemia from diarrhea/vomiting. Received 
+1LNS in the ED and 1L Bicarb on ___
+-- Cr 1.2 on discharge after 2L IVF
+
+CHRONIC ISSUES  
+ # ___ s/p renal transplant: normal renal transplant  
+ - continue tacrolimus 1.5 mg BID  (based on level today)
+ - continue sirolimus 1 mg daily  
+ - daily tacro levels  
+ - touch base with renal transplant team in the AM  
+
+ # Hx of HIT  
+ - fondaparinux for PPX  
+
+ # hypothyroidism  
+ - continue levothyroxine 100 mcg daily  
+
+ # HTN:  
+ - Hold lisinopril given ___  
+ - trend BPs  
+
+ # HLD  
+ - continue pravastatin 20 mg daily  
+
+ # GERD  
+ - continue pantoprazole 40 mg daily  
+
+ # insomnia  
+ - clonazepam 0.5 mg QHS prn insomnia  
+
+ # Health maintenance  
+ - continue ASA 81 mg daily  
+ - continue vitamin D 2000u daily  
+ - continue multivitamin daily  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Tacrolimus 1.5 mg PO Q12H 
+2. ClonazePAM 0.5 mg PO QHS:PRN insomnia 
+3. Levothyroxine Sodium 100 mcg PO DAILY 
+4. Lisinopril 20 mg PO DAILY 
+5. Pantoprazole 40 mg PO Q24H 
+6. Pravastatin 20 mg PO QPM 
+7. Sirolimus 1 mg PO DAILY 
+8. Aspirin 81 mg PO DAILY 
+9. Multivitamins 1 TAB PO DAILY 
+10. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  ClonazePAM 0.5 mg PO QHS:PRN insomnia  
+3.  Levothyroxine Sodium 100 mcg PO DAILY  
+4.  Multivitamins 1 TAB PO DAILY  
+5.  Pantoprazole 40 mg PO Q24H  
+6.  Pravastatin 20 mg PO QPM  
+7.  Sirolimus 1 mg PO DAILY 
+Daily dose to be administered at 6am  
+8.  Tacrolimus 1.5 mg PO Q12H  
+9.  Vitamin D ___ UNIT PO DAILY  
+10. HELD- Lisinopril 20 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until Transplant follow up
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Norovirus
+Diarrhea
+Vomiting
+Renal Transplant on immunosuppression 
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to ___ due to diarrhea and vomiting. This 
+was found to be due to a Norovirus infection. We gave you fluids 
+through the vein and your diarrhea improved. 
+
+Please continue to eat a diet with Bananas, Rice, Apple Sauces, 
+Toast, Yogurt.
+
+Best Wishes,
+___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11792135-DS-13 | hadm_id=29576408
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+morphine / heparin / sirolimus
+ 
+Attending: ___.
+ 
+Chief Complaint:
+umbilical hernia 
+ 
+Major Surgical or Invasive Procedure:
+___: laparoscopic umbilical hernia repair 
+
+ 
+History of Present Illness:
+___ woman with polycystic kidney disease status post 
+living related renal transplant in
+___ who was found to have a bowel-containing umbilical hernia 
+on a CT scan that was performed during workup of abdominal pain.
+The decision was made for surgical repair.  Risks and benefits 
+of the surgery were discussed.  Informed consent was obtained.
+ 
+Past Medical History:
+ ___ s/p renal transplant ___ at ___
+Hx of HIT  
+hypothyroidism
+HTN
+HLD
+GERD
+Squamous Cell Cancer of Skin
+ 
+Social History:
+___
+Family History:
+Multiple family members with ___
+ 
+Physical Exam:
+T98.7 HR78 BP155/95 99%RA
+GEN: AOx3, NAD
+CV: RRR
+PULM: CTAB, breathing comfortably on room air 
+GI: soft, mild distended, non-tender, incisions clean and dry, 
+abdominal binder in place
+EXT: WWP, no CCE 
+ 
+Brief Hospital Course:
+Ms. ___ underwent uncomplicated laparoscopic umbilical hernia 
+repair on ___. The procedure was uncomplicated and she was 
+extubated post-procedure. However, approximately twenty minutes 
+after arrival to the PACU she developed audible inspiratory 
+stridor and difficulty breathing. Her symptoms did not improve 
+with racemic epinephrine or nebulizer treatment. The decision 
+was made to reintubate her for acute hypoxic respiratory 
+failure. During fiberoptic intubation, there was noted hypo 
+mobility of the vocal cords. Re-intubaiton was successful. There 
+was no evidence of allergic reaction nor additional pathology 
+noted.
+
+ENT was consulted, who recommend re-extubation with airway teams 
+available. The patient was successfully extubated the same 
+evening. She had a normal fiberoptic exam at time of extubation.
+
+Fiberoptic Exam:
+In the context of the patient's clinical presentation and the
+need to visualize the regions in close proximity, the decision
+was made to proceed with an endoscopic exam.  Accordingly, after
+verbal consent and topical lidocaine with oxymetazoline
+anesthesia, the fiberoptic scope was passed to visualize the
+regions of concern.  The findings were:
+Normal nasal cavity, no pus or polyps
+Normal nasopharynx, no masses
+Normal oropharynx
+Epiglottis crisp
+Supraglottic area normal
+Arytenoid complexes mobile bilaterally/symetrically
+True vocal folds symmetric and mobile bilaterally, no masses, no
+erythema
+Pyriform sinuses clear
+No significant pooling of secretions
+
+The patient was weaned from supplemental oxygen. On POD#1 she 
+was feeling well, out of bed and ambulating with appropriate 
+saturations on room air. She was discharged home on POD#1. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 20 mg PO DAILY 
+2. Sodium Bicarbonate 650 mg PO BID 
+3. ClonazePAM 0.5 mg PO QHS:PRN insomnia 
+4. Pravastatin 20 mg PO QPM 
+5. Sirolimus 1.5 mg PO DAILY 
+6. Tacrolimus 1.5 mg PO Q12H 
+7. Multivitamins 1 TAB PO DAILY 
+8. Pantoprazole 40 mg PO Q24H 
+9. Aspirin 81 mg PO DAILY 
+10. Hydrochlorothiazide 12.5 mg PO DAILY 
+11. Levothyroxine Sodium 88 mcg PO DAILY 
+12. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+We recommend over the counter acetaminophen, max dose 2g/day.  
+2.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate  
+3.  Aspirin 81 mg PO DAILY  
+4.  ClonazePAM 0.5 mg PO QHS:PRN insomnia  
+5.  Hydrochlorothiazide 12.5 mg PO DAILY  
+6.  Levothyroxine Sodium 88 mcg PO DAILY  
+7.  Lisinopril 20 mg PO DAILY  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  Pantoprazole 40 mg PO Q24H  
+10.  Pravastatin 20 mg PO QPM  
+11.  Sirolimus 1.5 mg PO DAILY 
+Daily dose to be administered at 6am  
+12.  Sodium Bicarbonate 650 mg PO BID  
+13.  Tacrolimus 1.5 mg PO Q12H  
+14.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+umbilical hernia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital following your laparoscopic 
+umbilical hernia repair. After the procedure, you had difficulty 
+breathing in the post-anesthesia care unit and you were 
+re-intubated. There was no evidence of allergy or anatomic 
+defect after you were examined by the ENT team. You were 
+extubated uneventfully by anesthesia and ENT. You are now ready 
+for discharge. 
+
+Please call Dr. ___ office at ___ for fever > 101, 
+chills, nausea, vomiting, diarrhea, constipation, increased 
+abdominal pain, pain not controlled by your pain medication, 
+swelling of the abdomen or ankles, worsening yellowing of the 
+skin or eyes, itching, inability to tolerate food, fluids or 
+medications, or any other concerning symptoms.
+.
+No lifting more than 10 pounds
+.
+No driving if taking narcotic pain medication
+.
+Please continue to wear your abdominal binder when out of bed 
+and ambulating. 
+
+We recommend starting stool softeners after surgery. We 
+recommend considerating milk of magnesia, Colace, senna; all can 
+be purchased at your local drug store.
+ 
+Followup Instructions:
+___

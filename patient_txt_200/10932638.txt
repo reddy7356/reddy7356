@@ -1,0 +1,148 @@
+===== DISCHARGE NOTE =====
+note_id=10932638-DS-11 | hadm_id=20531828
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain, transfer for ERCP
+ 
+Major Surgical or Invasive Procedure:
+ERCP
+ 
+History of Present Illness:
+___ year old ___ speaking male with h/o ___ 
+transferred from ___ for ERCP. Presented to OSH ___ 
+with RUQ pain, jaundice, chills and dark urine x 1 week, s/p 
+ERCP on ___ demonstrating stone CBD which was not successfully 
+extracted, traveled into left intrahepatic duct. Re-attempted 
+ERCP ___, again, unable to extract stone. Course complicated by 
+post-ERCP pancreatitis, treated conservatively, had been 
+advanced to clear liquids prior to being made NPO for repeat 
+ERCP. Of note, he is scheduled for outpatient follow-up with 
+general surgeon Dr ___ at ___ for consideration of CCY. 
+
+Currently, patient reports that pain has improved to ___ after 
+IV dilaudid on arrival. He notes that he has undergone 3 ERCPs 
+in the last 1.5 weeks ___ at ___ after which he 
+was given a course of antibiotics, then ERCP x 2 at ___ as 
+above). 10 point ROS negative except as per HPI.
+ 
+Past Medical History:
+-Cholelithiasis
+ 
+Social History:
+___
+Family History:
+Mother had cholelithiasis. No h/o cancer or MI.
+ 
+Physical Exam:
+Vitals-  T 98.3 123/75 HR 62 RR 16 98% RA
+General- pleasant young male sitting up in bed, Alert, oriented, 
+no acute distress  
+HEENT- Sclera anicteric, MMM, oropharynx clear  
+Neck- supple
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen- soft, mild tenderness to palpation RUQ, non-distended, 
+bowel sounds present, no rebound tenderness or guarding, no 
+organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro- motor function grossly normal 
+ 
+Pertinent Results:
+Outside labs/studies:
+
+___: Cr 0.7
+ALT 323
+AST 106
+AP 177
+Tbili 9.2 (___)
+HCV ab HBV sab neg
+
+ERCP ___
+12mm stone in main bile duct, Sphincterotomy performed, stone 
+escaped into left hepatic duct
+
+ERCP ___
+Sphincterotomy appeared open, 8mm stone in left main hepatic 
+duct, unable to be retrieved.
+
+ 
+Brief Hospital Course:
+___ with obstructing biliary stone transferred from OSH
+and now s/p ERCP w sphincterotomy and stone extraction on ___.  
+
+
+# Possible cholangitis
+# Choledocholithiasis with obstruction: s/p successful
+sphincterotomy ___ at ___.
+
+# Cholelithiasis/Biliary obstruction: Stone in left hepatic duct 
+despite multiple removal attempts. S/p ERCP x 3, c/b post-ERCP 
+pancreatitis at OSH. 
+
+Consulted ACS surgery while at ___ to help facilitate CCY 
+during this admission so he could address all biliary and 
+gallstone issues before discharge, but patient opted to f/u with 
+his surgeon he was referred to by the ___.  I 
+understand he already has outpt f/u for CCY eval as scheduled 
+___
+
+Rx for cipro 5d.
+Reviewed symptoms of worsened biliary disease/infection with 
+translator and reason to have ccy to reduce risk of future stone 
+related complications ie cbd stones, pancreatitis.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1. Ciprofloxacin HCl 500 mg PO Q12H Duration: 4 Days 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*10 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Choledocholithiasis with obstruction
+Cholelithiasis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted to the hospital with a gallstone. You 
+underwent ERCP where they removed the stone.
+
+we advised you to have your gallbladder surgery done this 
+admission but you chose to see a surgeon later this month
+
+removing gallbladder will reduce risk for future problems 
+related to gallstones
+
+take antibiotic as prescribed
+ 
+Followup Instructions:
+___

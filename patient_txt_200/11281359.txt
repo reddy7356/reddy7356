@@ -1,0 +1,538 @@
+===== DISCHARGE NOTE =====
+note_id=11281359-DS-7 | hadm_id=23121322
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Asacol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+IBD flare; transfer from OSH for consideration of anti-TNF 
+therapy. 
+ 
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+ 
+History of Present Illness:
+___ year old Female with Hypertension, asthma, h/o ulcerative 
+colitis, admitted to ___ 2 days ago with N/V, 
+RUQ/epigastric abdominal pain, diarrhea (8 BMs a day). Patient 
+states that she began to not feel well on ___ night, 
+developed abdominal cramping, N/V, which prompted admission to 
+___ on ___. Pt states that she typically has 
+blood ___ her stools (for months), and although she has a 
+difficult time quantifying, probably represents drops to as much 
+a Tsp.  
+
+Followed by ___ of GI, she had been undergoing rectal 
+steroid therapy after a sigmoidoscopy at ___ ___ that showed 
+granularity, friability, erythema, congestion and exudate with 
+contact bleeding ___ the rectum and sigmoid colon. Abdominal 
+Ultrasound at OSH showed gallstones, no pancreatic 
+abnormalities, LFTs and pancreatic enzymes normal. She was 
+started on Zosyn on admission and IV steroids for presumed IBD 
+flare and now being transferred to ___ for further management 
+and consideration of anti-TNF therapy. Will need GI consult on 
+arrival and per GI needs pulm consult for workup of cavitary 
+lesion before anti-TNF therapy can be started.  
+
+OSH course:  
+Pt was started on Zosyn 4.5 gm IV q 6hr, solumedrol 20 mg IV 
+q12hr - which appears to have been escalated to 80 mg iv q 8hr, 
+and morphine prn pain. Her symptoms improved significantly 
+during her hospitalization, however, she does not yet feel back 
+to her baseline.  
+
+ROS:  
++: weight loss 17#/5 months, fever on admission to OSH, night 
+sweats x months, SOB - due to hx of asthma, chronic dry cough, 
+nausea/vomiting (none since OSH admission), abdominal pain - 
+generalized ___.  
+
+Denies:  
+anorexia, sore throat, chest pain, palpitations, ___ edema, 
+orthopnea/PND, diarrhea, constipation. ROS otherwise negative.  
+ 
+Past Medical History:
+Ulcerative colitis  
+Hypertension, benign  
+Anxiety  
+methylamine induced pancreatitis  
+Iron deficiency anemia  
+Mild asthma  
+hyperlipidemia  
+
+ 
+Social History:
+___
+Family History:
+mother - died lung cancer  
+father - died colon cancer  
+other - brother died colon cancer  
+
+ 
+Physical Exam:
+97.9, 129/73, 66, 20, 96% 
+GEN: AAOx3. NAD  
+HEENT: EOMI, PERRL, MMM.  
+Neck: No LAD.  
+RESP: CTA B. No WRR.  
+CV: RRR. No mrg.  
+ABD: +BS. Soft, Very Mild diffusely TTP. No rebound/guarding 
+Ext: No CEE
+Neuro: CN ___ grossly intact
+ 
+Pertinent Results:
+OSH Labs:  
+Na 143 K 3.6 Cl 109 HCO3 24 BUN 17 Cr 0.5 Glu 82  
+AST 8 ALT 6 Alk Phos 64 GGT 6.5 Albumin 3.2 BiliT 0.2  
+Amylase 41 Lipase 25  
+WBC 11.5 HgB 9.4 HCT 29 PLT 406  
+U/A neg  
+
+CT abd (OSH):  
+minimal bowel wall thickening involvign the ascending and 
+transverse colon, and diverticular disease involving the 
+descending and proximal sigmoid colon.  
+
+CT CHEST W/O CONTRAST Study Date of ___ 1:29 ___ 
+Provisional Findings Impression: DXAe TUE ___ 5:22 ___ 
+No change ___ right upper lobe cavitary nodule. New left small 
+lower lobe 
+lingular opacity should be followed ___ ___ year to ensure 
+resolution. 
+
+___ 05:20AM BLOOD WBC-10.7 RBC-3.22* Hgb-9.5* Hct-28.2* 
+MCV-88 MCH-29.5 MCHC-33.6 RDW-13.2 Plt ___
+___ 07:00AM BLOOD WBC-7.9 RBC-3.07* Hgb-9.3* Hct-27.8* 
+MCV-91 MCH-30.4 MCHC-33.6 RDW-12.9 Plt ___
+___ 05:40AM BLOOD WBC-9.9 RBC-3.09* Hgb-9.3* Hct-27.5* 
+MCV-89 MCH-30.0 MCHC-33.7 RDW-13.2 Plt ___
+___ 05:40AM BLOOD Neuts-86.9* Lymphs-9.4* Monos-3.5 Eos-0.1 
+Baso-0.1
+___ 05:40AM BLOOD ___ PTT-25.3 ___
+___ 07:00AM BLOOD ESR-36*
+___ 05:20AM BLOOD Glucose-88 UreaN-22* Na-143 K-3.1* Cl-107 
+HCO3-29 AnGap-10
+___ 07:00AM BLOOD ALT-10 AST-12 AlkPhos-57 Amylase-45 
+TotBili-0.2
+___ 07:00AM BLOOD Lipase-28
+___ 05:40AM BLOOD Lipase-25
+___ 05:40AM BLOOD Calcium-8.5 Phos-2.8 Mg-2.3 Iron-28*
+___ 05:40AM BLOOD calTIBC-294 Ferritn-47 TRF-226
+___ 07:00AM BLOOD CRP-7.6*
+
+___ 10:01 am BRONCHOALVEOLAR LAVAGE      RUL. 
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS. 
+
+   RESPIRATORY CULTURE (Preliminary):    CULTURE TOO YOUNG TO 
+EVALUATE. 
+
+   LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED. 
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii) 
+(Final
+      ___:    NEGATIVE for Pneumocystis jirovecii 
+(carinii).. 
+
+   FUNGAL CULTURE (Preliminary): 
+
+   ACID FAST SMEAR (Preliminary): 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+      This is only a PRELIMINARY result.  If ruling out 
+tuberculosis, you
+      must wait for confirmation by concentrated smear. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+___ 10:01AM OTHER BODY FLUID WBC-0 RBC-0 Polys-6* Bands-2* 
+Lymphs-35* Monos-23* Mesothe-5* Macro-29*
+ 
+Brief Hospital Course:
+___ year old Female with Hypertension, asthma, h/o ulcerative 
+colitis, transferred from ___ for ongoing 
+management of IBD flare, and for consideration of initiation of 
+anti-TNF therapy. Patient reportedly has a history of a cavitary 
+lung lesion of unclear etiology, and would need clarification 
+prior to initiation. Additionally, it is noted that patient has 
+a history of a pancreatic cyst, which may need further 
+evaluation ___ the future.  
+
+# Ulcerative colitis flare:   She was admitted and made NPO, and 
+started on IV hydrocortisone.  She had decreased bloody 
+diarrhea.  Overall it appeared that her symptoms had improved 
+with the local rectal steroid treatment.  She will be discharged 
+on prednisone, to be tapered by Dr. ___.  Consideration was 
+given to infliximab, but was not required ___ the inpatient 
+setting.
+
+# Nausea and vomiting, epigastric pain:  She also presented with 
+nausea and vomiting as well as epigastric pain, which did not 
+appear consistent with a UC flare.  She had an ultrasound and CT 
+that showed gall stones, and her episodic pain appeared 
+consistent with biliary colic.  Her LFTs and amylase and lipase 
+were normal, although she does have a history of pancreatitis, 
+attributed to mesalamine.  She was evaluated by surgery, who 
+recommended outpatient elective cholecystecomy
+
+# Right lung cavitary lesion:  She had a chest CT that confirmed 
+the presence of a right upper lung lesion, and underwent 
+bronchoscopy.  The results of this are still pending.  She will 
+follow up with Dr. ___ on ___.
+
+# Hypertension, benign.  She had intermittent hypertension, with 
+relative bradycardia.  The atenolol was discontinued, and she 
+was started on lisinopril 10 mg po daily.  
+
+# Asthma chronic stable; stable without current flare.  She had 
+no respiratory complaints.
+
+# Anemia; with hx of iron deficiency.  Iron studies were 
+consistent with iron deficiency, and she will be started on iron 
+on discharge when she is tolerating POs.
+
+# Anxiety and depression:  She has a difficult social situation, 
+and appeared extremely anxious and intermittently tearful.  She 
+was seen by social work, and will find a local therapist.  ___ 
+addition, she did not opt for an SSRI due to her GI complaints, 
+but this will need to be addressed as an outpatient.
+
+# Pancreatic cyst:  She has a known pancreatic lesion, and will 
+be seen as an outpatient by Dr. ___ prior to treatment with 
+infliximab, if infliximab is planned.
+ 
+Medications on Admission:
+Albuterol MDI prn  
+Atenolol 100 mg once a day  
+Hydrocortisone 100 mg/60 mL Enema 1 rectally once a day  
+Hydrocortisone Acetate [Cortifoam] 10 % Foam 1 (One) Foam(s) 
+rectally twice a day  
+Lovastatin 80 mg once a day  
+Prednisone 5 mg once a day  
+ 
+Discharge Medications:
+1. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily) 
+for 30 days.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+3. Polyethylene Glycol 3350 100 % Powder Sig: One (1) packet PO 
+DAILY (Daily) as needed for constipation.
+Disp:*1 box* Refills:*0*
+4. Atenolol 100 mg Tablet Sig: One (1) Tablet PO once a day.  
+5. Lovastatin 40 mg Tablet Sig: Two (2) Tablet PO once a day.  
+6. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Ulcerative colitis with flare.
+Nausea and vomiting.
+Cholelithiasis
+Cavitary lung lesion.
+Anxiety/Depression
+Benign Hypertension
+Iron Deficiency Anemia
+
+ 
+Discharge Condition:
+Stable.
+ 
+Discharge Instructions:
+You were admitted with abdominal pain and nausea, and were 
+treated for an ulcerative colitis flare.  Some of your symptoms 
+are likely from gallstones, and you were evaluated by a surgeon 
+who recommended follow up with Dr. ___ as an outpatient 
+for removal of your gallbladder.
+
+You are being discharged on high-dose prednisone, Dr. ___ 
+will taper this ___ the outpatient setting. Please contact his 
+office for instructions.
+
+You also were seen by the lung doctors, for a lung cavity, and 
+had a bronchoscopy, the results of which are still pending. You 
+will follow up with Dr. ___ pulmonary for follow-up.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11281359-DS-8 | hadm_id=23550260
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Asacol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+back and left leg pain
+ 
+Major Surgical or Invasive Procedure:
+Left L4-L5 microscopic diskectomy
+
+ 
+History of Present Illness:
+___ year old female with PMH ulcerative colitis, asthma, 
+rheumatoid arthritis, recent diagnosis of L4 radiculopathy 
+followed by Dr. ___. Patient reports over past month has 
+had significantly worsening pain in back pain radiating down to 
+the left leg in the front all the way to her shin. No bladder or 
+bowel symptoms. Denies recent fevers, chills, sweats or weight 
+loss.Denies recent trauma or falls, anticoagulation. Patient has 
+not prior history of injury or surgery to this region. Was 
+recently seen on ___ and had steroid injection at ___ 
+___ in ___ by ___. Reported mild improvement ~1 day 
+and then pain returned worse than before. Not on 
+anticoagulation. In the ED, initial vitals were 98.8 87 163/76 
+18 100%.Per the
+ED, the patient's exam was benign without neurovascular 
+compromise. 
+
+ 
+Past Medical History:
+   1.  Indeterminate Colitis.
+   2.  Inflammatory arthropathy.
+   3.  Colonic adenomata.
+   4.  COPD.
+   5.  Lung nodules.
+   6.  Status post cholecystectomy.
+   7.  Side branch IPMN.
+   8.  Hypertension.
+   9.  History of myocardial infarction, status post stenting,on 
+aspirin and Plavix.  
+   10.  Bell's palsy.
+   11.  Questionable pancreatitis while on Mesalamine and
+   hydrochlorothiazide.
+   12.  Multiple pneumonias.
+
+ 
+Social History:
+___
+Family History:
+mother - died lung cancer  
+father - died colon cancer  
+other - brother died colon cancer  
+
+ 
+Physical Exam:
+PHYSICAL EXAM per ortho admit note date ___-    
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, no lymphadenopathy or JVD
+LUNGS: Clear to auscultation bilaterally
+CV: Regular rate and rhythm, 
+ABD: soft, non-tender, non-distended, bowel sounds present, no
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema   
+NEURO: 
+Reflexes
+Patellar +2 on right 0 on left
+Babinksi absent bilaterally
+Rectal tone intact
+No saddle or perianal anesthesia
+
+       ___  L4/5  S1
+Left   5    4    4    4   
+Right  5    5    5    5
+
+ 
+Pertinent Results:
+___ 05:25AM BLOOD WBC-11.6* RBC-3.95* Hgb-11.8* Hct-36.3 
+MCV-92 MCH-29.9 MCHC-32.6 RDW-12.2 Plt ___
+___ 05:25AM BLOOD Plt ___
+___ 05:25AM BLOOD Glucose-92 UreaN-13 Creat-0.5 Na-141 
+K-3.5 Cl-102 HCO3-31 AnGap-12
+___ 05:25AM BLOOD CK(CPK)-64
+___ 05:25AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 04:00PM BLOOD CRP-2.1
+ 
+Brief Hospital Course:
+Patient was admitted to the ___ Spine Surgery Service and 
+taken to the Operating Room for the above procedure. Refer to 
+the dictated operative note for further details. The surgery was 
+without complication and the patient was transferred to the PACU 
+in a stable condition. TEDs/pnemoboots were used for 
+postoperative DVT prophylaxis. Intravenous antibiotics were 
+continued for 24hrs postop per standard protocol. Initial postop 
+pain was controlled with a PCA. Diet was advanced as tolerated. 
+The patient was transitioned to oral pain medication when 
+tolerating PO diet. Foley was removed on POD#2. Physical therapy 
+was consulted for mobilization OOB to ambulate. An additional 
+MRI of your lumbar spine was obtained on ___ due to 
+increased back and lower extremity pain similar to what you 
+experienced prior to surgery.                    Hospital course 
+was otherwise unremarkable. On the day of discharge the patient 
+was afebrile with stable vital signs, comfortable on oral pain 
+control and tolerating a regular diet.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID 
+2. Valsartan 80 mg PO DAILY 
+3. Metoprolol Tartrate 25 mg PO BID 
+4. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+QID dyspnea 
+5. Vitamin D 50,000 UNIT PO 1X/WEEK (MO) 
+6. Hydrochlorothiazide 25 mg PO DAILY 
+7. Hydroxychloroquine Sulfate 200 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+3. Hydroxychloroquine Sulfate 200 mg PO DAILY 
+4. Metoprolol Tartrate 25 mg PO BID 
+5. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+QID dyspnea 
+6. Vitamin D 50,000 UNIT PO 1X/WEEK (MO) 
+7. Acetaminophen 1000 mg PO Q8H 
+may be taken over the counter 
+8. Atorvastatin 80 mg PO DAILY 
+9. Aspirin 81 mg PO DAILY 
+10. Docusate Sodium 100 mg PO BID 
+please take while on pain medication 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0
+11. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN Pain 
+Please do not operate heavy machinery,drink alcohol or drive 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*144 Tablet Refills:*0
+12. Valsartan 80 mg PO DAILY 
+13. Diazepam 2.5 mg PO Q6H:PRN pain 
+RX *diazepam 2 mg 1 tablet by mouth every six (6) hours Disp 
+#*44 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1. Lumbar disk herniation L4-L5.
+2. Lumbar radiculopathy L5.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Microdiscectomy
+
+You have undergone the following operation: Minimally Invasive 
+Microdiscectomy
+
+Immediately after the operation:
+
+•                Activity: You should not lift anything greater 
+than 10 lbs for 2 weeks. You will be more comfortable if you do 
+not sit or stand more than ~45 minutes without moving around.
+
+•                Rehabilitation/ Physical Therapy:
+
+___                ___ times a day you should go for a walk 
+for ___ minutes as part of your recovery.  You can walk as 
+much as you can tolerate.
+
+___                Limit any kind of lifting.
+
+•                Diet: Eat a normal healthy diet. You may have 
+some constipation after surgery.
+
+•                Brace: You do not need a brace.
+
+•                Wound Care: Remove the dressing in 2 days.  If 
+the incision is draining cover it with a new sterile dressing.  
+If it is dry then you can leave the incision open to the air.  
+Once the incision is completely dry (usually ___ days after the 
+operation) you may take a shower. Do not soak the incision in a 
+bath or pool.  If the incision starts draining at anytime after 
+surgery, do not get the incision wet. Cover it with a sterile 
+dressing.  Call the office.
+
+•                You should resume taking your normal home 
+medications.
+
+•                You have also been given Additional Medications 
+to control your pain.  Please allow 72 hours for refill of 
+narcotic prescriptions, so please plan ahead.  You can either 
+have them mailed to your home or pick them up at the clinic 
+located on ___.  We are not allowed to call in narcotic 
+prescriptions (oxycontin, oxycodone, percocet) to the pharmacy.  
+In addition, we are only allowed to write for pain medications 
+for 90 days from the date of surgery.
+
+•                Follow up:            
+
+___                Please Call the office and make an 
+appointment for 2 weeks after the day of your operation if this 
+has not been done already.
+
+___                At the 2-week visit we will check your 
+incision, take baseline X-rays and answer any questions. We may 
+at that time start physical therapy.
+
+___                We will then see you at 6 weeks from the 
+day of the operation and at that time release you to full 
+activity.
+
+Please call the office if you have a fever>101.5 degrees 
+Fahrenheit and/or drainage from your wound
+
+Physical Therapy:
+-You should not lift anything greater than 10 lbs for 2 weeks. 
+You will be more comfortable if you do not sit or stand more 
+than ~45 minutes without moving around.
+-___ times a day you should go for a walk for ___ minutes as 
+part of your recovery.  You can walk as much as you can 
+tolerate.
+-Limit any kind of lifting.
+
+Treatments Frequency:
+Remove the dressing in 2 days.  If the incision is draining 
+cover it with a new sterile dressing.  If it is dry then you can 
+leave the incision open to the air.  Once the incision is 
+completely dry (usually ___ days after the operation) you may 
+take a shower. Do not soak the incision in a bath or pool.  If 
+the incision starts draining at anytime after surgery, do not 
+get the incision wet. Cover it with a sterile dressing.  Call 
+the office.
+
+ 
+Followup Instructions:
+___

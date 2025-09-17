@@ -1,0 +1,175 @@
+===== DISCHARGE NOTE =====
+note_id=11613716-DS-21 | hadm_id=24534562
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+rectal pain 
+ 
+Major Surgical or Invasive Procedure:
+Incision and Drainage of Perirectal Abscess with placement of 
+Mallencot Drain
+
+ 
+History of Present Illness:
+HPI:
+This is a case of ___ year old Male patient with no significant
+PMH presents to the ED from ___ office for evaluation of anal
+pain x 4 days. Patient states that he was seen at 
+___ and then ___ 4 days ago for URI. States that he also  
+developed pain in anus at that time. Today he came in with
+excruciating anal pain associated w subjective non-documented
+fever with chills and dizziness. Denies anal intercourse. 
+Patient
+initially went to ___ in which he had CT scan which showed
+perianal/perirectal horseshow abscess with possible fistula. In
+the ED at ___, he noted to have high grade temperature up to
+103.2 associated with chills and rigor, he become mildly
+tachycardic with mild hypotensive. He denies, N/V, dizziness,
+lightheadedness or any other complaints. 
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:
+none 
+
+Previous surgeries/procedures:
+none
+
+ 
+Social History:
+___
+Family History:
+non contributory  
+ 
+Physical Exam:
+Vitals:Temp 98.2, 84, 122/77, 18 100% RA
+NAD, AOX3
+NWOB
+Abd soft, NTBD
+DRE: s/p I7D of abscess, malecot drain in place
+
+ 
+Pertinent Results:
+___ 06:45AM BLOOD WBC-19.7* RBC-3.95* Hgb-11.2* Hct-34.5* 
+MCV-87 MCH-28.4 MCHC-32.5 RDW-12.7 RDWSD-40.6 Plt ___
+___ 09:50PM BLOOD WBC-18.0* RBC-4.26* Hgb-12.3* Hct-37.4* 
+MCV-88 MCH-28.9 MCHC-32.9 RDW-12.8 RDWSD-41.0 Plt ___
+___ 06:45AM BLOOD Neuts-83* Bands-0 Lymphs-9* Monos-7 Eos-0 
+Baso-1 ___ Myelos-0 AbsNeut-16.35* AbsLymp-1.77 
+AbsMono-1.38* AbsEos-0.00* AbsBaso-0.20*
+___ 09:50PM BLOOD Neuts-75.4* Lymphs-12.9* Monos-10.5 
+Eos-0.1* Baso-0.4 Im ___ AbsNeut-13.55* AbsLymp-2.32 
+AbsMono-1.88* AbsEos-0.01* AbsBaso-0.07
+___ 06:45AM BLOOD Plt Smr-NORMAL Plt ___
+___ 09:50PM BLOOD Plt ___
+___ 09:50PM BLOOD ___ PTT-27.5 ___
+___ 06:45AM BLOOD Glucose-106* UreaN-6 Creat-0.8 Na-137 
+K-3.6 Cl-100 HCO3-30 AnGap-11
+___ 09:50PM BLOOD Glucose-126* UreaN-7 Creat-0.8 Na-141 
+K-4.1 Cl-104 HCO3-28 AnGap-13
+___ 09:50PM BLOOD ALT-12 AST-17 AlkPhos-72 TotBili-0.9
+___ 06:45AM BLOOD Calcium-8.1* Phos-3.5 Mg-1.9
+___ 09:50PM BLOOD Albumin-3.6
+___ 10:02PM BLOOD Lactate-1.8
+ 
+Brief Hospital Course:
+Mr. ___ presented to the ED with rectal pain. He was found 
+to have a large perirectal abscess and was taken to the 
+operating room for exam under anesthesia and I&D of the abscess. 
+He tolerated the procedure well. A malecot drain was placed for 
+which he underwent drain teaching for flushes to be done at 
+home. He was initially on cipro/flagyl but was switched to 
+Augmentin on day of discharge, which he will continue for 5 
+days.
+ 
+Medications on Admission:
+none 
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H 
+RX *acetaminophen [Acetaminophen Extra Strength] 500 mg 2 
+tablet(s) by mouth q 6 hours Disp #*30 Tablet Refills:*0 
+2.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+RX *amoxicillin-pot clavulanate [Augmentin] 875 mg-125 mg 1 
+tablet(s) by mouth q 12 hours Disp #*10 Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+Take while using oxycodone to prevent constipation. 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*60 Capsule Refills:*0 
+4.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 capsule(s) by mouth q 4 hours Disp #*30 
+Capsule Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Perirectal Abscess
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___, 
+
+You were admitted to the hospital with a perirectal abscess. You 
+were taken to the operating room for incision and drainage of 
+this abscess and placement of drain in the area. The abscess is 
+quite large and will require irrigation of this drain to heal. 
+The drain will stay inplace until your follow-up appointment. 
+Please irrigate this drain with 30cc of sterile normal saline as 
+instructed by the nursing staff. Please use a mirror to assess 
+this area for worsened signs of infection: increased redness, 
+increased drainage of green/white/thick foul smelling drainage, 
+increased swelling of the tissue around the abscess. Please call 
+if the wound is putting out bright red blood. A small amount of 
+pussy/light pink drainage is normal, we want the area to drain. 
+You should where a dry gauze pad in your underwear to catch the 
+drainage and you should change this at least daily and ideally 
+after each drain flush. Please take the antibiotic Augmentin for 
+7 days, please take this entire prescription. 
+
+Please call our clinic with any of these concerning signs: 
+increased abdominal pan, abdominal distension, fever> 100.1, 
+feeling weak, increasing pain at the wound. Please call with any 
+questions or concerns. 
+
+You will be prescribed narcotic pain medication Oxycodone. This 
+medication should be taken when you have pain and as needed as 
+written on the bottle. This is not a standing medication. You 
+should continue to take Tylenol for pain around the clock and 
+you can also take Advil. Please do not take more than 3000mg of 
+Tylenol in 24 hours. Do not drink alcohol while taking narcotic 
+pain medication or Tylenol. Please do not drive a car while 
+taking narcotic pain medication.
+  
+No heavy lifting greater than 6 lbs for until your first 
+post-operative visit after surgery. Please no strenuous activity 
+until this time unless instructed otherwise by Dr. ___ 
+Dr. ___.  
+ 
+Thank you for allowing us to participate in your care! Our hope 
+is that you will have a quick return to your life and usual 
+activities.
+ 
+Followup Instructions:
+___

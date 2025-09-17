@@ -1,0 +1,295 @@
+===== DISCHARGE NOTE =====
+note_id=10256131-DS-10 | hadm_id=28149869
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Aspirin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall from window 
+ 
+Major Surgical or Invasive Procedure:
+s/p ICP Bolt placement and removal
+s/p Chest tube placement and removal
+
+ 
+History of Present Illness:
+___ year old male who presented as a trauma transfer from a 
+referring hospital after he presumedly fell from a window 
+approximately 30 feet high. Paramedics at the scene found him on 
+the ground and unresponsive with a GCS of 3. He was intubated 
+and stabilized at the referring hospital and subsequently 
+transferred to ___ for further care. 
+ 
+Past Medical History:
+Depression
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+Upon admission:
+HR 92
+BP 101/57
+RR 18
+O2 100% on vent, AC mode
+Generally, there is hemotympanum behind right ear drum, +right
+ear CSF leakage.  No Battle's sign, raccoon eyes, CSF 
+rhinorrhea.
+
+Prior to additional Versed, unresponsive to voice.  Does not 
+open
+eyes spontaneously or in response to noxious.  Does not  follow
+commands.  
+
+Pupils 2.5-2mm, equal, round, reactive.  No blink to threat.  
+OCR
+not tested as in hard collar.  Face grossly symmetric.  +Gag.
+
+Normal bulk, tone.  Moves all extremities spontaneously, 
+somewhat
+more often and vigorously on the left.  Withdraws to noxious.
+
+No clonus, toes upgoing.
+
+ 
+Pertinent Results:
+Admit:
+
+___ 08:55PM   TYPE-ART TEMP-38.3 RATES-18/ TIDAL VOL-500 
+PEEP-5 O2-40 PO2-125* PCO2-30* PH-7.36 TOTAL CO2-18* BASE XS--6 
+-ASSIST/CON INTUBATED-INTUBATED
+___ 05:28PM   GLUCOSE-99 UREA N-5* CREAT-0.6 SODIUM-143 
+POTASSIUM-4.1 CHLORIDE-115* TOTAL CO2-15* ANION GAP-17
+___ 05:28PM   CALCIUM-7.0* PHOSPHATE-2.5* MAGNESIUM-2.2
+___ 01:11PM   LACTATE-2.7*
+___ 09:20AM   WBC-11.2* RBC-2.91* HGB-9.7*# HCT-29.4* 
+MCV-101* MCH-33.4* MCHC-33.0 RDW-15.0
+___ 06:51AM   AMYLASE-162*
+___ 06:51AM   ASA-NEG ___ ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 06:51AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-POS amphetmn-NEG mthdone-NEG
+
+CT HEAD W/O CONTRAST; -76 BY SAME PHYSICIAN
+
+___: Assess interval change 
+
+UNDERLYING MEDICAL CONDITION:
+___ year old man with left epidural and right IPH 
+___ FOR THIS EXAMINATION:
+Assess interval change 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: ___ man with left epidural and right 
+intraparenchymal hemorrhage. Assess for interval change.
+
+COMPARISON: Head CT from five hours prior.
+
+NON-CONTRAST HEAD CT: Lentiform high-density collection in the 
+right temporoparietal space with adjacent sulcal effacement is 
+stable measuring 8 mm in greatest diameter. Convex subdural 
+hemorrhage layering over the left frontoparietal cortex is also 
+stable measuring 6 mm in greatest diameter. Left frontal lobe 
+hemorrhagic contusion is stable measuring 2.2 x 1.0 cm with a 
+rim of surrounding edema and associated subarachnoid hemorrhage 
+extending into the adjacent sulci. Two millimeters of rightward 
+midline shift is stable. There is no evidence of 
+intraventricular hemorrhage.
+
+Dedicated bone windows were not obtained due to the recent CT. 
+Again seen is a complex temporal bone fracture extending through 
+the middle ear, into the sphenoid bone and involving the right 
+sphenoid sinus. This fracture extends in the vicinity of the 
+right cavernous sinus. Again seen is opacification of the 
+sphenoid sinuses, ethmoid air cells, right mastoid air cells and 
+right inner ear cavity from hemorrhage.
+
+An intracranial pressure monitor bolt has been inserted via the 
+left frontal calvarium terminating in the subcortical white 
+matter.
+
+IMPRESSION:
+
+Interval placement of an intracranial pressure monitor bolt. No 
+significant interval change in right epidural hematoma, left 
+subdural hematoma, left intraparenchymal hemorrhage with 
+associated subarachnoid hemorrhage, and complex right temporal 
+bone fracture. The fracture is again noted to extend to the 
+sphenoid sinus in close proximity to the right cavernous carotid 
+artery, and a CT angiogram is recommended to exclude vascular 
+injury, as ___ prior CT head.
+
+Repeat ___ CT HEAD W/O CONTRAST
+
+___: assess for worsening or new bleed s/p fall 
+
+UNDERLYING MEDICAL CONDITION:
+___ year old man with intracranial hemorrhage s/p fall from 
+standing when getting out of bed. 
+___ FOR THIS EXAMINATION:
+assess for worsening or new bleed s/p fall 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: ___ male with intracranial hemorrhage status 
+post fall.
+
+COMPARISON: CT head from ___.
+
+TECHNIQUE: MDCT contiguous axial images were obtained through 
+the head without intravenous contrast.
+
+CT HEAD WITHOUT INTRAVENOUS CONTRAST: Lentiform high-density 
+collection in the right parietal region consistent with epidural 
+hematoma is stable measuring approximately 12 mm in greatest 
+diameter. The left frontal parenchymal hemorrhage with 
+surrounding edema appears unchanged in size. Left frontal and 
+temporal subarachnoid blood as well as left frontoparietal, and 
+tentorial and occipital subdural hemorrhage are unchanged. No 
+evidence of shift of normally midline structures, hydrocephalus 
+or major territorial infarcts are seen. The basal cisterns are 
+not effaced. The ventricles are stable in size. There is stable 
+complex right temporal bone fracture and opacification of the 
+right middle ear and inferior right mastoid air cells. 
+Aerosolized hyperdense material within the sphenoid sinus 
+consistent with blood products is again demonstrated. There is 
+mild fluid/mucosal thickening within the left maxillary sinus 
+which is stable.
+
+IMPRESSION: Overall no significant change in hemorrhage as 
+described above. No evidence of new hemorrhage, mass effect, 
+hydrocephalus or acute infarction.
+
+___ CHEST (PA & LAT)
+
+___: Please perform between ___ and evaluate for PTX 
+
+UNDERLYING MEDICAL CONDITION:
+___ year old man with PTX now with chest tube placed to water 
+seal 
+___ FOR THIS EXAMINATION:
+Please perform between ___ and evaluate for PTX 
+HISTORY: Pneumothorax with chest tube on waterseal.
+
+FINDINGS: In comparison with the study of ___, there is little 
+overall change. Pleural thickening or fluid is again seen along 
+the right lateral chest wall and in the right apex. No definite 
+pneumothorax.
+
+ 
+Brief Hospital Course:
+He was admitted to the Trauma Service. Neurosurgery was 
+immediately consulted given his head injuries. He was loaded 
+with Dilantin. An ICP bolt was placed; he was subsequently taken 
+to the Trauma ICU for close monitoring. He initially remained 
+sedated and intubated for several days in the ICU. Serial head 
+CT scans were followed and remained stable. The ICP bolt was 
+eventually removed and his sedation was weaned; he was then 
+extubated. His mental status once fully awake was consistent 
+with someone with a traumatic brain injury. He was 
+intermittently restless with poor safety awareness therefore 
+requiring a 1:1 sitter. There were no aggressive behaviors 
+noted. The 1;1 sitters were eventually discontinued and he 
+remains cooperative; alert and oriented to self and family; 
+occasionally to place and time. He will continue on Dilantin 
+until follow up with Dr. ___, in 4 weeks. He 
+will undergo repeat head CT imaging at that time.
+
+Orthopedics was consulted given his right scapular fracture; 
+this injury was nonoperative. He was placed in a sling and will 
+follow up in Orthopedics clinic in 4 weeks for repeat imaging. 
+He was also noted to have increased right shoulder pain with 
+movement; a repeat shoulder film was obtained and revealed a 
+right AC separation. He is to remain non weight bearing on that 
+extremity and continue to wear sling for comfort. He will follow 
+up with Dr. ___ (see appointment on discharge 
+worksheet), at that time a plan will be discussed regarding 
+repair of his shoulder.
+
+A Psychiatry consult was done given some question of previous 
+suicide attempts per family report and question as to whether or 
+not this was such an attempt. Because he has been unable to give 
+any account of what transpired prior to his fall; this a result 
+of his brain injury; he was not deemed a risk to harm himself. 
+It was recommended discontinuing the use of Ativan and he was 
+started on Olanzapine which has been effective. It was requested 
+by the rehab facility that the Olanzapine be stopped and so it 
+was discontinued. There have not been any behavioral issues 
+since stopping this medication. 
+
+Social work was closely involved in his care throughout his stay 
+providing emotional support for patient and his family. 
+
+Physical and Occupational therapy were consulted and initially 
+recommended rehab post acute hospital stay. Functionally he has 
+had significant improvements; cognitive because of his short 
+term memory there are safety concerns. Occupational therapy has 
+continued to work with him for cognitive training.
+
+ 
+Medications on Admission:
+Unknown
+ 
+Discharge Medications:
+ 
+
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet ___ every four 
+(4) hours as needed for fever/pain.  
+2. Senna 8.6 mg Tablet Sig: Two (2) Tablet ___ BID (2 times a 
+day) as needed for constipation.  
+3. Lansoprazole 30 mg Tablet,Rapid Dissolve, ___ Sig: One (1) 
+Tablet,Rapid Dissolve, ___ ___.  
+4. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) ___ as needed for 
+constipation.  
+5. Trazodone 50 mg Tablet Sig: One (1) Tablet ___ HS (at 
+bedtime).  
+6. Oxycodone 5 mg Tablet Sig: ___ Tablets ___ every ___ hours as 
+needed for pain.  
+7. Colace 100 mg Capsule Sig: One (1) Capsule ___ twice a day as 
+needed for constipation.  
+8. Dilantin Infatabs 50 mg Tablet, Chewable Sig: Two (2) Tablet, 
+Chewable ___ three times a day for 2 weeks.  
+9. Multivitamin,Tx-Minerals     Tablet Sig: One (1) Tablet ___ 
+___.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+s/p Fall
+1) Traumatic Brain Injury
+2) Multiple Right Rib Fractures
+3) Right Scapular Fracture
+4) Right AC separation
+5) Right Pneumothorax
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+DO NOT bear any weight on your right arm because of your 
+fracture.
+
+Continue to wear a sling for comfort.
+ 
+Followup Instructions:
+___

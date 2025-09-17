@@ -1,0 +1,264 @@
+===== DISCHARGE NOTE =====
+note_id=11459159-DS-13 | hadm_id=28479838
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+AMS 
+ 
+Major Surgical or Invasive Procedure:
+intubation
+ 
+History of Present Illness:
+ ___ with unknown PMHx, had ?syncopal event while at bar in 
+___ which was witnessed (fell from stool in tavern). EMS 
+called, he was agonal at scene, he was intubated in the field 
+for airway protection.  No pulselessness or shocks. EMS ECG was 
+c/f STEMI.  He was taken to ___ - ECG there was not ischemic.  
+Bedside u/s negative for obvious wall-motion abnormality.  CT 
+head and CT c-spine were negative at ___.  Labs at ___ were 
+notable for lactate of 2.9, negative u/a and negative troponins. 
+ He was given 2mg IV Ativan, propofol and fentanyl and 1L NS at 
+___.  He was started on cooling protocol at ___ and sent to 
+___ d/t c/f STEMI.
+
+In the ED, initial vitals: Temp: <96, Pulse: 73, RR: 12, BP: 
+125/88, MAP: 100.3 mm Hg, O2 sat: 100, O2 flow: (Intubation)
+-initial labs: WBC 6.9, Hgb/Hct 14.1/42.7, INR 1.1, negative 
+u/a, lactate 2.4, BUN/Cr ___, negative troponin, tox screen 
++EtOH, ABG 7.29 | 52 | 274.
+- ECG: 1mm STE in v3-v5
+- patient noted to be moving all extremities when sedation 
+weaned, thus cooling discontinued.
+- Patient was given 1L NS in ED.
+
+On arrival to the MICU, T94.1, HR 83, BP 136/94, RR 21, 100% on 
+CMV.  Patient was intubated and sedated.
+  
+Review of systems: Unable to obtain.
+ 
+Past Medical History:
+alcohol use, binge drinker
+History of illicit drug use
+ 
+Social History:
+___
+Family History:
+noncontributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+Vitals: T94.1, HR 83, BP 136/94, RR 21, 100% on CMV
+GENERAL: Intubated / sedated
+HEENT: NC/AT, sclera anicteric, PEERL, ET tube in place
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: No rashes or excoriations  
+NEURO: Intubated / sedated, PERRL, moving all extremities with 
+sedation weaned
+
+ON DISCHARGE:
+VITALS: 97.4 131/66 73 18 100%RA
+GENERAL: AAOx3, slurring speech improving 
+HEENT - normocephalic, atraumatic,  
+CARDIAC: RRR, no m/r/g
+PULMONARY: CTAB without crackles, wheezing or rhonchi 
+ABDOMEN: +BS, NT/ND  
+EXTREMITIES: Warm, well-perfused, no cyanosis, clubbing or 
+edema.  
+SKIN: Without rash.  
+NEUROLOGIC: Grossly non-focal, moves all extremities, is able to 
+say days of week backwards, no nystagmus, no peripheral 
+neuropathy
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 02:16AM BLOOD WBC-6.9 RBC-4.45* Hgb-14.1 Hct-42.7 
+MCV-96 MCH-31.7 MCHC-33.0 RDW-14.3 RDWSD-50.4* Plt ___
+___ 02:16AM BLOOD Glucose-96 UreaN-14 Creat-0.6 Na-134 
+K-4.0 Cl-96 HCO3-21* AnGap-21*
+___ 02:16AM BLOOD ___ PTT-21.7* ___
+___ 07:45AM BLOOD ALT-35 AST-31 AlkPhos-48 TotBili-0.3
+___ 02:16AM BLOOD cTropnT-<0.01
+___ 07:45AM BLOOD CK-MB-7 cTropnT-<0.01
+___ 02:45PM BLOOD CK-MB-6 cTropnT-<0.01
+___ 02:16AM BLOOD Calcium-8.4 Phos-3.9 Mg-2.2
+___ 02:16AM BLOOD ASA-NEG ___ Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 02:12AM BLOOD Lactate-2.4*
+___ 02:12AM BLOOD Type-ART pO2-274* pCO2-52* pH-7.29* 
+calTCO2-26 Base XS--1
+
+DISCHARGE LABS:
+___ 07:50AM BLOOD WBC-7.9 RBC-4.74 Hgb-14.8 Hct-45.7 MCV-96 
+MCH-31.2 MCHC-32.4 RDW-14.0 RDWSD-49.9* Plt ___
+___ 07:50AM BLOOD Glucose-99 UreaN-23* Creat-0.8 Na-140 
+K-4.7 Cl-101 HCO3-28 AnGap-16
+___ 07:50AM BLOOD Calcium-10.0 Phos-4.1 Mg-2.2
+
+OTHER LABS:
+___ 06:20AM BLOOD VitB12-343
+___ 07:15AM BLOOD HDL-53 CHOL/HD-4.3 LDLmeas-150*
+___ 06:20AM BLOOD TSH-0.97
+
+MICROBIOLOGY:
+___ URINE URINE CULTURE-FINAL EMERGENCY WARD 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+EMERGENCY WARD 
+
+IMAGING:
+___ CXR: Since the prior chest radiograph of 2 days 
+earlier, the patient has been extubated.  Lungs are 
+well-expanded and clear with no findings to suggest acute 
+aspiration or aspiration pneumonia 
+
+___ CT HEAD W/O CONTRAST: Small amount of hemorrhage in the 
+left posterior perimesencephalic cistern.  This may be a 
+consequence of recent trauma.  Consider follow-up CT to exclude 
+further hemorrhage.  The study is otherwise normal. 
+
+___ TTE IMPRESSION: Low normal global left ventricular 
+systolic function. Mildly dilated ascending aorta. No clinically 
+significant valvular disease. Normal pulmonary artery systolic 
+pressure.  
+ 
+Brief Hospital Course:
+___ yoM with history of alcohol abuse who was found down after 
+drinking alcohol, transferred from outside hospital intubated, 
+sedated and cooled without clear evidence of ischemia or 
+pulselessness, who was transferred to the medical floor from the 
+ICU for further management. Overall, his presentation was 
+thought to be most consistent with alcohol intoxication. His 
+serum ethanol level was 128, troponins were negative x3, he was 
+not orthostatic, and had no clinical evidence of infection. 
+However, given EKG showing ~1mm STE in leads V3-V5, TTE was 
+performed to rule out myocardial infarction. TTE showed 
+low-normal global systolic function without wall motion 
+abnormalities, making MI unlikely. Lipid panel did show 
+hyperlipidemia and he was started on rosuvastatin, later 
+switched to losuvastatin given coverage by ___. 
+
+Patient was monitored on CIWA protocol with diazepam and scored 
+for agitation, anxiety, tremors, and sweating. Patient was also 
+noted to be confused, confabulating and with gait ataxia during 
+admission. There was some concern for Wernicke encephalopathy. 
+He was started on thiamine 500 IV TID for 2 days and received 
+one dose of thiamine 250 IV prior to discharge home. He will 
+need to continue high dose oral thiamine treatment till ___. 
+His mental status and gait improved by time of discharge, and he 
+was no longer experiencing signs of withdrawal. He is to 
+continue daily thiamine at home.
+
+Repeat CT head imaging showed a small amount of hemorrhage in 
+the left posterior perimesencephalic cistern thought to be due 
+to trauma. Neurosurgery was consulted and did not recommend 
+further imaging or surgical intervention.
+
+TRANSITIONAL ISSUES:
+- Patient to take 300mg thiamine x4d until ___ followed by 
+thiamine 100mg qd for one month for Wernicke encephalopathy. 
+Please continue monitoring mental status. 
+- Patient was started on losuvastatin (given coverage by ___ 
+pharmacy), however any statin that is affordable can be 
+prescribed 
+- Other new medications: ASA 81, B12, multivitamin, nicotine 
+patch
+- Please continue counseling on alcohol use and smoking 
+cessation
+- Code status: Full
+- Contact: ___ ___ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY:PRN pain 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY:PRN pain 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+2. Cyanocobalamin 1000 mcg PO DAILY 
+RX *cyanocobalamin (vitamin B-12) 1,000 mcg 1 tablet(s) by mouth 
+once a day Disp #*30 Tablet Refills:*0
+3. Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+4. Nicotine Patch 21 mg TD DAILY 
+RX *nicotine 21 mg/24 hour 1 patch once a day Disp #*30 Patch 
+Refills:*0
+5. FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+6. Lovastatin 20 mg ORAL DAILY 
+RX *lovastatin 20 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+7. Thiamine 100 mg PO DAILY Duration: 30 Days 
+Please take 300mg till ___ and take 100mg daily after that  
+RX *thiamine HCl (vitamin B1) [Vitamin B-1] 100 mg 1 tablet(s) 
+by mouth once a day Disp #*42 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+Alcohol intoxication
+Wernicke encephalopathy
+Small hemorrhage in left posterior perimesencephalic cistern  
+
+SECONDARY:
+Alcohol abuse
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ because you were found down, likely 
+due to alcohol intoxication. We monitored you for signs of 
+alcohol withdrawal. You were started on new multivitamins due to 
+confusion that may be related to alcohol.
+
+You also had imaging of your heart to make sure you did not have 
+a heart attack that caused you to fall. The imaging was normal. 
+However, your cholesterol levels were high and we started you on 
+a cholesterol lowering medication.
+
+Please see the attached medication list. It is very important 
+that you take these medication daily, especially the thiamine. 
+You will need to take 300mg thiamine (3 pills starting ___ till 
+___ and then take 100mg daily for 1 month. Please make sure 
+you establish care with your PCP for ongoing management of your 
+medical conditions. 
+
+We wish you the best,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

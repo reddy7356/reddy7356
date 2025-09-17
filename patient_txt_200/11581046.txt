@@ -1,0 +1,324 @@
+===== DISCHARGE NOTE =====
+note_id=11581046-DS-2 | hadm_id=20427808
+
+ 
+Name:  ___         Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hyperglycemia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ w/ PMHx HIV, DVT, and T2DM on
+metformin presenting with hyperglycemia and weakness. Patient
+reports a few weeks of nausea, polyuria, fatigue, and blurred
+vision. She also reports a few episodes of non-bloody emesis 
+that
+she said happened in the setting of drinking a large volume of
+water very quickly. Due to these new symptoms, she was seen by
+her PCP who checked an A1c that was 10.8%. She was then started
+on 500 mg metformin BID. She started this medication about a 
+week
+ago but decided to return to the ED for evaluation when her
+symptoms persisted. She denied fevers, chills, runny nose, sore
+throat, cough, CP, SOB, abdominal pain, diarrhea, constipation,
+dysuria, or myalgias.
+
+In the ED:
+
+Initial vital signs were notable for: 97.4 ___ 16 96% RA
+
+Exam notable for: Patient w/ dry mucous membranes, otherwise
+benign
+
+Labs were notable for:
+-H/H 13.3/41.8, WBC 11.6, plt 312
+-Na 140, K 4.4, HCO3 24, BUN 13, Cr 1.1
+-Ca 9.7, Mg 2.1, Phos 4.3
+-Trop neg x1
+-Alk phos 144
+-LFTs otherwise unremarkable
+-UA bland other than 1000 glucose and 40 ketones
+-VBG 7.40/45 > 7.42/45 > 7.42/46
+
+Studies performed include: None
+
+Patient was given:
+___ 16:44IVFLR 1000 mL
+___ 19:03SCInsulin 6 Units
+___ 21:36IVFLR 1000 mL
+___ 21:49SCInsulin Lispro 8 UNIT
+___ 23:03SCInsulin 12 UNIT
+___ 06:16SCInsulin 7 Units
+___ 08:41PO/NGHydrochlorothiazide 25 mg
+___ 08:41POAbacavir Sulfate 600 mg
+___ 08:41PODolutegravir 50 mg
+___ 08:41POLaMIVudine 300 mg
+___ 09:01SCInsulin 5 Units
+___ 10:31IVFLR 1000 mL
+___ 12:51SCInsulin Lispro 10 UNIT
+___ 13:11IVSodium Chloride 0.9% Flush 10 mL
+
+Consults: ___ consulted who provided recs on insulin regimen
+and recommended patient be seen by diabetes educator.
+
+Vitals on transfer: 98.2 88 123/82 16 100% RA
+
+Upon arrival to the floor, the patient is asymptomatic and 
+hoping
+to have dinner soon. 
+
+REVIEW OF SYSTEMS:
+
+Complete ROS obtained and is otherwise negative.
+
+ 
+Past Medical History:
+1. HIV- diagnosed ___. No prior OIs. She has been on a stable
+regimen of Combivir and Sustiva since her diagnosis and
+suppressed on it for some time.  Last CD4 count in ___ was 737.
+She was previously on ACTG study but is no longer involved.
+2. Abnormal Pap smears. Followed by GYN here, also has a history
+of an ovarian mass that is being followed yearly.
+3. Abnormal mammogram left breast ___. Biopsy revealed benign
+fibroadenoma.  Repeat mammogram ___ normal.
+4. Boils on buttocks and lower abdomen in ___- no recurrence
+5. DVT, ___ in setting of newly started OCPs 
+6. Systolic murmur, TTE ___ showed no vavular dysfunction
+7. Vitamin D deficiency
+ 
+Social History:
+___
+Family History:
+Diabetes in both parents
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITALS: 98.6 133 / 84 92 97 RA
+GENERAL: Pleasant F in NAD. Soft-spoken.
+HEENT: NCAT, MMM
+CARDIAC: RRR, no m/r/g
+LUNGS: CTAB
+BACK: No spinous process tenderness. No CVA tenderness.
+ABDOMEN: Soft, NT/ND, BS+
+EXTREMITIES: WWP, no c/c/e
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: AAOx3, grossly intact
+
+DISCHARGE PHYSICAL EXAM
+VITALS: ___ 0723 Temp: 98.4 PO BP: 123/84 HR: 86 RR: 18 O2
+sat: 98% O2 delivery: Ra FSBG: 236 
+GENERAL: Pleasant F in NAD sitting in bed during interaction
+HEENT: NCAT, MMM
+CARDIAC: RRR, no m/r/g
+LUNGS: CTAB
+ABDOMEN: Soft, NT/ND, BS
+EXTREMITIES: WWP, no c/c/e
+NEUROLOGIC: AAOx3, grossly intact
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 01:51PM BLOOD WBC-11.6* RBC-5.79* Hgb-13.3 Hct-41.8 
+MCV-72* MCH-23.0* MCHC-31.8* RDW-17.7* RDWSD-41.5 Plt ___
+___ 01:51PM BLOOD Neuts-72.7* Lymphs-16.3* Monos-8.5 
+Eos-1.1 Baso-0.8 Im ___ AbsNeut-8.46* AbsLymp-1.89 
+AbsMono-0.99* AbsEos-0.13 AbsBaso-0.09*
+___ 01:51PM BLOOD Glucose-461* UreaN-13 Creat-1.1 Na-140 
+K-4.4 Cl-93* HCO3-24 AnGap-23*
+___ 01:51PM BLOOD ALT-14 AST-25 AlkPhos-144* TotBili-0.2
+___ 01:51PM BLOOD Albumin-4.2 Calcium-9.7 Phos-4.3 Mg-2.1
+___ 01:51PM BLOOD cTropnT-<0.01
+___ 02:02PM BLOOD ___ pO2-60* pCO2-45 pH-7.40 
+calTCO2-29 Base XS-1 Comment-GREEN TOP
+
+INTERVAL LABS:
+___ 04:00PM BLOOD Glucose-294* UreaN-13 Creat-0.9 Na-142 
+K-3.7 Cl-100 HCO3-27 AnGap-15
+___ 06:20AM BLOOD Glucose-312* UreaN-11 Creat-0.9 Na-147 
+K-4.0 Cl-105 HCO3-26 AnGap-16
+
+MICROBIOLOGY:
+___ 2:28 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    10,000-100,000 
+CFU/mL.
+___ 10:30 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+
+DISCHARGE LABS:
+___ 04:52AM BLOOD WBC-6.6 RBC-4.77 Hgb-10.6* Hct-34.4 
+MCV-72* MCH-22.2* MCHC-30.8* RDW-16.1* RDWSD-41.6 Plt ___
+___ 04:52AM BLOOD Glucose-246* UreaN-10 Creat-0.8 Na-143 
+K-3.7 Cl-106 HCO3-25 AnGap-12
+ 
+Brief Hospital Course:
+Patient Summary for Admission:
+===============================
+Ms. ___ is a ___ w/ PMHx HIV, DVT, and T2DM 
+on metformin who presented with blood sugars elevated to 400 
+without evidence of acidosis. There was no clear trigger 
+identified for this marked hyperglycemia. Her insulin was 
+titrated with the aid of the ___ diabetes team and once 
+consistently under 300 patient felt safe to be discharged ___. 
+
+ACUTE ISSUES:
+=============
+#Hyperglycemia
+#T2DM: Prior to admission patient's A1c 10.8 suggesting likely 
+elevated blood glucose for some time. However unclear trigger 
+for acute elevation of blood glucose prior to admission. On 
+presentation to the emergency room, BS >400 with anion gap of 
+23. She notably did not have evidence of acidemia. She was 
+initially fluid resuscitated with 3L of ___ Diabetes team 
+consulted for titration of insulin regimen. Regarding trigger 
+for hyperglycemia, an infectious work up including blood, urine 
+and chest xray was pursued and negative. There were no new 
+medications initiated prior to this admission. Initial 
+leukocytosis was likely reactive. Prior to discharge patient 
+received insulin teaching. She was discharged on 40 units of 
+glargine with Humalog sliding scale (discharged with basaglar 
+for insurance reasons). She was provided with strict return 
+precautions for her blood sugar level. 
+
+#Difficulty swallowing: Patient reports some discomfort with 
+swallowing. Not clear this is dysphagia, but oral exam without 
+ulceration or posterior plaques noted. Would be at increased 
+risk of ___ esophagitis in setting of HIV. Outpatient ID 
+provider notified of admission. Consider EGD as outpatient. 
+
+CHRONIC ISSUES:
+===============
+#HIV: Continue home Triumeq (small risk of hyperglycemia with 
+this medication, however will notify outpatient ID specialist of 
+admission to facilitate further discussions).
+
+#Hx DVT: Thought to be provoked from OCP use. Uses lovenox prior 
+to airplane travel.
+
+#HTN: HCTZ held while inatient in setting of normotension.
+
+TRANSITIONAL ISSUES:
+Pending labs at discharge: Blood cultures
+[] Given ongoing titration of insulin, patient scheduled with 
+the ___ team ##
+[] Given ongoing hyperglycemia, she was discharged with the 
+following red flag blood sugar parameters
+- If your blood sugars is >450 and you feel abdominal pain, 
+nausea/vomiting please call the above number.
+- If your blood sugar is <100 or you are feeling shaking, 
+sweating or light headed please call ___, take a glucose 
+tablet and eat something with sugar. This value is too low. 
+[] ___ held on discharge given stable blood pressure while 
+inpatient. If patient hypertensive as outpatient would consider 
+ACEi therapy in setting of diabetes diagnosis.
+[] Patient reporting some dysphagia like symptoms, would 
+consider outpatient EGD to rule out ___ esophagitis.
+[] As a part of new Type 2 DM diagnosis will need outpatient 
+optometry evaluation.
+*of note for outpatient providers, transitioned for glargine 
+inpatient to basaglar pens given insurance preference. 
+Additionally she will require pens for insulin delivery due to 
+poor eye sight.
+
+Medication Changes:
+- New Medications: Insulin (Basaglar and Humalog)
+- Stopped, Held Medications: Hydrochlorothiazide, Metformin
+- Changed Medications: None
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Triumeq (abacavir-dolutegravir-lamivud) 600-50-300 mg oral 
+DAILY 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+3. MetFORMIN (Glucophage) 500 mg PO BID 
+4. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Glargine 40 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin 
+2.  Multivitamins 1 TAB PO DAILY  
+3.  Triumeq (abacavir-dolutegravir-lamivud) 600-50-300 mg oral 
+DAILY  
+4. HELD- Hydrochlorothiazide 25 mg PO DAILY  This medication was 
+held. Do not restart Hydrochlorothiazide until instructed to 
+restart by your primary care provider
+5. HELD- MetFORMIN (Glucophage) 500 mg PO BID  This medication 
+was held. Do not restart MetFORMIN (Glucophage) until instructed 
+to restart by the ___ team
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+==================
+Insulin Dependent Diabetes, poorly controlled
+HIV
+
+Secondary Diagnosis:
+====================
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+Thank you for choosing ___ as your site of care!
+
+Why was I admitted?
+- You were admitted to the hospital because your blood sugars 
+were very elevated at home. 
+
+What was done for me while I was in the hospital?
+- We looked for the cause of your elevated blood sugars and 
+there was no obvious signs of infection.
+- You were started on insulin to manage your diabetes. You were 
+also evaluated by our ___ Diabetes team to help control your 
+sugars and teach you how to use your new insulin pens.
+
+What should I do when I leave the hospital?
+- Please continue all of your medications as directed. You will 
+need to take your insulin and check your blood sugar at each 
+meal and before bed. Please see below for warnings signs, if you 
+notice your blood sugars above or below these values please call 
+the ___ ___ to speak with the team there.
+    - If your blood sugars is >450 and you feel abdominal pain, 
+nausea/vomiting please call the above number.
+    - If your blood sugar is <100 or you are feeling shaking, 
+sweating or light headed please call ___, take a glucose 
+tablet and eat something with sugar. This value is too low. 
+- If you notice you are having abdominal pain, nausea, fevers, 
+chills please return to the emergency department.
+
+We wish you the best!
+Your ___ treatment team
+ 
+Followup Instructions:
+___

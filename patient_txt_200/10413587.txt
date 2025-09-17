@@ -1,0 +1,630 @@
+===== DISCHARGE NOTE =====
+note_id=10413587-DS-13 | hadm_id=22120807
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: PLASTIC
+ 
+Allergies: 
+Xylocaine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right Breast Cancer
+ 
+Major Surgical or Invasive Procedure:
+1. Right immediate breast reconstruction deep inferior
+    gastric perforator flap.
+2. Harvest of left deep inferior epigastric artery and vein
+    pedicle.
+3. Harvest of right internal mammary artery and vein
+    pedicle.
+4. Partial rib resection, third rib right.
+5. Autologous fat grafting vascular pedicle.
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with a history of right 
+breast cancer.  She was referred to Dr. ___ by Dr. ___ 
+and ___ primary care physician, ___.  She had 
+had a biopsy which was found to be right breast cancer, and was 
+interested in mastectomy and reconstruction.
+ 
+Past Medical History:
+___ Disease
+Retinal Detachment
+endometriosis with hysterectomy
+left DVT
+ 
+Social History:
+___
+Family History:
+Family history is positive for thyroid disease.  She has an 
+uncle
+with hyperthyroidism and an uncle with hypothyroidism
+ 
+Physical Exam:
+On physical examination, she is ___ feet 5 inches in height, 185 
+pounds.  She is a well-appearing, well-nourished ___ 
+woman.  On her breast exam, her sternal notch to nipple distance 
+on the right side is 27.0 cm, on the left side is 29.0 cm.  
+Inframammary fold to nipple distance is 9.5 cm on the right, 
+10.0 cm on the left.  She wears a 38 D cup size bra.  She has a 
+grade 2 to 3 ptosis.  She has a well-healed biopsy incision on 
+the right breast.  Lymphatic exam is unremarkable at the neck 
+and the axilla.  Her abdominal exam is soft and nontender.  She 
+has enough infraumbilical tissue to create about a B to C cup 
+size reconstruction.  On her back exam, her latissimus muscle is 
+intact and she has enough superior gluteal tissue to create 
+about a C cup size reconstruction.
+
+ 
+Pertinent Results:
+___ 04:38AM BLOOD WBC-12.4*# RBC-3.57* Hgb-9.7* Hct-29.0* 
+MCV-81* MCH-27.0 MCHC-33.3 RDW-12.5 Plt ___
+ 
+Brief Hospital Course:
+Pt is a ___ y.o. female diagnosed with right breast cancer. She 
+was admitted to ___ on ___ for planned right mastectomy 
+with breast reconstruction with ___ flap. She tolerated the 
+procedure well and, as planned, remained in the PACU for 24 
+hours post-operatively where she underwent continuous Vioptix 
+monitoring and Q1 hour doppler checks of her ___ pulses b/l. 
+After 24 hours, she was admitted to the Plastic Surgery service.
+
+On POD 1, she was tolerating a regular diet and getting out of 
+bed to chair. Her Foley catheter was removed and she voided 
+appropriately. IVF were discontinued as she had adequate PO 
+intake. She began ambulating on POD 2. She was also continued on 
+
+Cefazolin and 121.5 mg daily of ASA per the ___ pathway. Her 
+right breast had good color and tone, with strong doppler 
+signals and adequate Vioptix monitoring througout her hospital 
+course.
+
+Pain: Her pain was managed initially with a PCA and then with PO 
+Vicodin. 
+
+She was discharged home with ___ services for social work on POD 
+3.
+
+ 
+Medications on Admission:
+Levothyroxine 112 mcg daily
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: 1.5 Tablet, Chewables PO 
+DAILY (Daily).
+Disp:*45 Tablet, Chewable(s)* Refills:*0*
+2. Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Hydrocodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+4. Duricef 500 mg Capsule Sig: One (1) Capsule PO twice a day 
+for 7 days.
+Disp:*14 Capsule(s)* Refills:*0*
+5. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as 
+needed for constipation.
+Disp:*60 Capsule(s)* Refills:*1*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Right breast cancer.
+
+ 
+Discharge Condition:
+Good.
+
+ 
+Discharge Instructions:
+Return to the ER if: 
+* If you are vomiting and cannot keep in fluids or your 
+medications.  * If you have shaking chills, or a fever greater 
+than 101.5 (F) degrees or 38(C) degrees.
+* Any serious change in your symptoms, or any new symptoms that 
+concern you.
+* Please resume all regular home medications and take any new 
+meds as ordered. 
+* Do not drive or operate heavy machinery while taking any 
+narcotic pain medication. You may have constipation when taking 
+narcotic pain medications (oxycodone, percocet, vicodin, 
+hydrocodone, dilaudid, etc.); you should continue drinking 
+fluids, you may take stool softeners, and should eat foods that 
+are high in fiber.
+*No strenuous activity
+*No pressure on your chest or abdomen
+*Okay to shower, but no baths until after directed by your 
+surgeon
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10413587-DS-14 | hadm_id=22263635
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Xylocaine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left Leg Swelling
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ f w/ h/o presents with 1 week of LLE swelling; seen in ___ 
+___ clinic ___ referred to ED for US. Denies cough, SOB, leg 
+pain. Pt did not notice swelling, but states her aunt noticed. 
+She had no difficulty ambulating.  
+.  
+ED Course: ___ revealed extensive LLE DVT. Vascular surgery 
+consulted for ? thrombectomy. Guaic negative. Heparin drip 
+started.  
+.  
+ROS on arrival: Feels well. Has itchy red rash over trunk, legs 
+x 1 week - per pt, thought to be drug rash from neulasta. no 
+CP/SOB. No GI or GU sx. No pain in legs.  
+
+ 
+Past Medical History:
+-Invasive ductal carcinoma of the right breast, stage II, ER/PR  
+
+positive, HER-2/neu negative. s/p mastectomy w/ flap 
+reconstruction (___), s/p axillary lymph node dissection 
+(___), now s/p two cycles  
+of cycle two Cytoxan and Taxotere neoadjuvant chemo, last dose 
+___  
+-h/o DVT  
+-___ Disease  
+-Retinal Detachment  
+-endometriosis with hysterectomy  
+-h/o b/l DVT ___  
+-hypothyroid s/p Total thyroidectomy for multinodular goiter  
+
+ 
+Social History:
+___
+Family History:
+Family history is positive for thyroid disease.  She has an 
+uncle
+with hyperthyroidism and an uncle with hypothyroidism
+ 
+Physical Exam:
+vitals 98.6, 96, 18, 108/70, 98% RA
+gen comfortable, NAD
+heent: EOMI, PERRL, OP clear
+cv: rrr
+pulm: cta b/l 
+abd: soft, nt/nd
+ext: significant LLE edema, nontender, negative ___
+rectal: guaic negative (in ED)
+skin: erythemetous rash over b/l ___, abd, chest
+ 
+Pertinent Results:
+___ 10:05AM   ___ ___
+___ 10:05AM   PLT COUNT-410#
+___ 10:05AM   WBC-14.8*# RBC-4.03* HGB-10.7* HCT-32.6* 
+MCV-81* MCH-26.6* MCHC-32.9 RDW-14.6
+___ 08:37PM   ___ PTT-21.7* ___
+___ 08:37PM   PLT COUNT-452*
+___ 08:37PM   NEUTS-84.8* LYMPHS-12.0* MONOS-2.0 EOS-1.0 
+BASOS-0.2
+___ 08:37PM   WBC-12.9* RBC-3.73* HGB-10.2* HCT-29.9* 
+MCV-80* MCH-27.3 MCHC-34.1 RDW-15.2
+___ 08:37PM   estGFR-Using this
+___ 08:37PM   GLUCOSE-91 UREA N-11 CREAT-0.8 SODIUM-143 
+POTASSIUM-3.4 CHLORIDE-104 TOTAL CO2-31 ANION GAP-11
+
+Radiology Report UNILAT LOWER EXT VEINS LEFT Study Date of 
+___ 6:25PM 
+IMPRESSION: 
+Extensive deep vein thrombosis of the left lower extremity 
+extending from the common femoral vein through the superficial 
+femoral vein. Normal right common femoral venous waveform 
+suggests that the thrombus does not extend more proximally to 
+the inferior vena cava. 
+
+___ 05:00PM BLOOD ___ PTT-100.5* ___
+___ 02:09AM BLOOD ___ PTT-108.4* ___
+ 
+Brief Hospital Course:
+___ with h/o b/l DVT, stage II invasive ductal carcinoma of 
+right breast presents with LLE DVT.
+
+#DVT:  Pt was started on a heprin drip and transitioned to 
+coumadin.  Vascular surgery was initially consulted through the 
+ED and in addition to heparin, they recommended elevation and 
+compression wrappings of the legs to aid in reduction of 
+swelling.  Through discussion with her outpatient providers and 
+through medical record history, it was found that complainace 
+was an issue in this paitient.  It was felt that she could not 
+be safely discharged with a lovenox bridge and so she was kept 
+in house until her INR theapeutic.  At the time of discharge, 
+the patient's INR was 4.9  She was instructed to skip her next 
+scheduled dose and to have her INR checked the following day, 
+with Dr. ___ to follow the results. The patient was 
+discharged with a prescription for 5mg tablets so that she could 
+make dose adjustments as needed.  
+.  
+#Breast cancer - The patient was originally scheduled for cycle 
+3 of Cytoxan and Taxotere the day prior to admission.  However, 
+given her DVT, this was delayed several days.  She recieved 
+cycle 3 as an inpatient under the direction of her primary 
+oncologist.  
+.  
+#Hypothyroid: The patient was continued on her home medications
+.  
+#Dermatitis: At the itme of presentation, the patient had a 
+puritic, erythematous rash over her  thighs, tunk and forearms 
+which has been noted by her oncologist and was felt to be due to 
+Neulasta.  The paitent was started on an antihistamine and sarna 
+lotion for symptom relief and her rash resolved over the initial 
+few days of hospitalization.
+ 
+Medications on Admission:
+Levothyroxine [Synthroid] 112 mcg Tablet  
+zofran, ativan, compazine, dexamthasone - PRN with chemo  
+Docusate BID prn  
+claritin  
+benadryl  
+
+ 
+Discharge Medications:
+1. Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 
+6 hours) as needed.  
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed.  
+4. Fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+5. Dexamethasone 4 mg Tablet Sig: One (1) Tablet PO Q12H (every 
+12 hours) for 1 days.
+Disp:*2 Tablet(s)* Refills:*0*
+6. Diphenhydramine HCl 25 mg Capsule Sig: Two (2) Capsule PO HS 
+(at bedtime) as needed.  
+7. Coumadin 5 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*60 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: 
+- DVT 
+- invasive ductal carcinoma of breast 
+Secondary: 
+- ___ 
+- retinal detachment 
+- endometriosis 
+
+ 
+Discharge Condition:
+well; ambulating on RA.
+
+ 
+Discharge Instructions:
+You came in with left leg swelling.  You had a clot in your leg. 
+ This was treated with IV heparin and coumadin to thin your 
+blood.  It is very important that you remain on the coumadin to 
+prevent spread of your clot.
+
+Please resume your prior medications as scheduled.  You need one 
+more day's worth of decadron in the setting of your chemo.  
+
+If you have worsening leg pain or shortness of breath or chest 
+pain, please come to the emergency department for evaluation.
+
+Please have your coumadin (INR) level checked on ___ with 
+your PCP's office.  Your coumadin level will need to be followed 
+closely.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10413587-DS-15 | hadm_id=25454411
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Xylocaine Disposable Cannula / Novocain
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ woman with history of ___ disease who
+presented for evaluation of weakness. 
+
+Patient called EMS, and they found her stating that she felt
+"like she does not know what she is doing." She reported not
+feeling well for the last 2 days. She was seen in the ED on 
+___
+for similar complaints. She is unable to provide much further
+history; she states she feels lost and that she has had more
+drooling, but denies pain anywhere.
+
+Of note, she recently presented to ED on ___ with complaint
+of weakness and excessive drooling after an episode of vomiting.
+She was diagnosed with UTI and treated with 5 day course of
+nitrofurantoin. She was seen by her HCP/sons who thought she was
+at her usual baseline, and she was discharged home. 
+
+ 
+Past Medical History:
+-Invasive ductal carcinoma of the right breast, stage II, ER/PR  
+
+positive, HER-2/neu negative. s/p mastectomy w/ flap 
+reconstruction (___), s/p axillary lymph node dissection 
+(___), now s/p two cycles  
+of cycle two Cytoxan and Taxotere neoadjuvant chemo, last dose 
+___  
+-h/o DVT  
+-___ Disease  
+-Retinal Detachment  
+-endometriosis with hysterectomy  
+-h/o b/l DVT ___  
+-hypothyroid s/p Total thyroidectomy for multinodular goiter  
+
+ 
+Social History:
+___
+Family History:
+Family history is positive for thyroid disease.  She has an 
+uncle
+with hyperthyroidism and an uncle with hypothyroidism
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+VITALS:  97.4PO, 118 / 72L Lying, 73, 16, 99 Ra 
+GENERAL: Alert and interactive in bed, choreiform movements. In
+no acute distress.
+HEENT: NCAT. PERRL, tacky MM 
+NECK: supple
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. no increased WOB. 
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. 
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN: Warm. No rash.
+NEUROLOGIC: alert, interactive, stuttering speech at times,
+choreiform movements mainly of BUE and head. 
+
+DISCHARGE PHYSICAL EXAM
+=======================
+24 HR Data (last updated ___ @ 909)
+    Temp: 98.2 (Tm 99.5), BP: 117/75 (91-117/53-75), HR: 75
+(67-91), RR: 18, O2 sat: 99% (97-99), O2 delivery: Ra, Wt: 120.9
+lb/54.84 kg  
+
+General: appears thin, no acute distress, unable to answer A&O
+Lungs: clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+CV: RRR, normal s1/s2, no murmurs
+Abdomen: soft, nontender, nondistended
+Ext: Warm, well perfused
+Neuro: + chorea, A&Ox2 (oriented to person and place but not
+time)
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+
+___ 01:40PM BLOOD WBC-3.4* RBC-4.24 Hgb-11.7 Hct-36.8 
+MCV-87 MCH-27.6 MCHC-31.8* RDW-13.7 RDWSD-43.8 Plt ___
+___ 01:40PM BLOOD Neuts-58.5 ___ Monos-6.1 Eos-1.5 
+Baso-0.3 Im ___ AbsNeut-2.00 AbsLymp-1.14* AbsMono-0.21 
+AbsEos-0.05 AbsBaso-0.01
+___ 01:40PM BLOOD ___ PTT-26.6 ___
+___ 01:40PM BLOOD Glucose-106* UreaN-10 Creat-0.7 Na-143 
+K-4.4 Cl-105 HCO3-26 AnGap-12
+___ 01:40PM BLOOD ALT-9 AST-16 AlkPhos-119* TotBili-0.4
+___ 01:40PM BLOOD cTropnT-<0.01
+___ 01:40PM BLOOD Albumin-4.2 Calcium-9.0 Phos-3.3 Mg-2.3
+___ 01:40PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+
+DISCHARGE LABS
+===============
+___ 05:40AM BLOOD WBC-4.4 RBC-3.57* Hgb-9.6* Hct-31.3* 
+MCV-88 MCH-26.9 MCHC-30.7* RDW-13.5 RDWSD-43.5 Plt ___
+___ 05:40AM BLOOD Plt ___
+___ 05:40AM BLOOD ___ PTT-23.5* ___
+___ 05:40AM BLOOD Glucose-97 UreaN-24* Creat-0.6 Na-141 
+K-4.7 Cl-103 HCO3-29 AnGap-9*
+___ 05:40AM BLOOD Calcium-8.8 Phos-4.4 Mg-2.___RIEF HOSPITAL SUMMARY
+======================
+Ms. ___ is a ___ woman with ___ disease who 
+presented with failure to thrive, weakness, and feeling "lost" 
+at home. A metabolic and infectious workup were negative. 
+Neurology evaluated the patient and felt her presentation was 
+consistent with the progression of ___. Physical 
+therapy, occupational therapy, nutrition, and speech and swallow 
+evaluated the patient to help create a plan for safety at home. 
+While rehab was recommended, given the patient has good family 
+support at home and family is eager to take her home, ___ and OT 
+educated them on how to care for her at home. She was discharged 
+home with services and follow up with neurology.
+
+ACUTE ISSUES
+============
+# FAILURE TO THRIVE
+# WEAKNESS
+# ___ DISEASE
+Ms. ___ presented with vague symptoms of feeling weak, 
+unwell, and "lost." Her neurologic symptoms are consistent with 
+how we expect ___ Disease to progress. She is also 
+likely deconditioned, and physical therapy and occupational 
+therapy worked with the patient and her son to train them on 
+skills needed to care for her properly at home. While they 
+recommended discharge to rehab, the patient and her family 
+preferred going home after training and with services. We also 
+did a nutritional workup, and labs that have come back have all 
+been within normal limits. Neurology evaluated the patient and 
+determined no acute interventions were indicated at this time. 
+
+# IATROGENIC HYPERTHYROIDISM
+# MULTINODULAR GOITER
+Ms. ___ was also found to have hyperthyroidism, which may be 
+contributing to her anxiety and failure to thrive. Her 
+levothyroxine was held during her admission. 
+
+# LEUKOPENIA
+WBC 3.8 on admission and downtrended slightly during her 
+admission. No clear etiology and no evidence of infection. 
+Thought to be secondary to her olanzapine.
+
+TRANSITIONAL ISSUES
+====================
+[] Levothyroxine was held because TSH/T4 showed hyperthyroidism. 
+We recommend retesting TSH/T4 in the outpatient setting and 
+restarting levothyroxine, potentially at a lower dose first, as 
+appropriate.
+[] Our physical and occupational therapists recommended a 
+discharge to rehab but the patient and her son were strongly in 
+favor of going home with training and services. Ms. ___ may 
+require ___ rehabilitation in the future if she continues 
+to have functional decline. 
+[] Ms. ___ is currently taking olanzapine 5mg nightly to 
+help with weight gain and anxiety. According to a neurology note 
+from ___, there was consideration to uptitrate this medication, 
+which the patient may benefit from.
+[] Speech and swallow recommended a video swallow study in the 
+outpatient setting.
+[] Consider switching from tetrabenazine to deutetrabenazine at 
+future outpatient visits per neurology.
+
+#CODE: full confirmed (with ___ 
+#CONTACT: ___
+Relationship: son
+Phone number: ___
+
+More than 30 minutes were spent preparing this discharge summary
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Levothyroxine Sodium 112 mcg PO DAILY 
+2. tetrabenazine 25 mg oral BID 
+3. OLANZapine 5 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Multivitamins W/minerals 1 TAB PO DAILY 
+RX *multivitamin,tx-minerals [Multi-Vitamin HP/Minerals]  1 
+capsule(s) by mouth daily Disp #*90 Capsule Refills:*3 
+2.  OLANZapine 5 mg PO QHS  
+3.  tetrabenazine 25 mg oral BID  
+4. HELD- Levothyroxine Sodium 112 mcg PO DAILY  This medication 
+was held. Do not restart Levothyroxine Sodium until you talk to 
+a doctor.
+5.___
+Dx: ___ ___ Disorder
+Px: good
+___: 13 months
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY 
+- failure to thrive 
+- weakness 
+- ___ disease 
+- iatrogenic hyperthyroidism 
+ 
+SECONDARY 
+- multinodular goiter 
+- leukopenia 
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You came to the hospital because you felt weak at home.
+
+WHAT HAPPENED IN THE HOSPITAL?
+- Our neurologists saw you and felt that your symptoms were 
+largely from a natural progression of your ___ Disease.
+- Our occupational therapists, physical therapists, and speech 
+and swallow therapists worked with you and your son to discuss 
+how to safely get you home. While they recommended rehab, they 
+understood that you and your son preferred to be home with 
+services. 
+- You had elevated thyroid hormone function so your thyroid 
+replacement medication was held.
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE THE HOSPITAL?
+- Please go to your doctors' appointments as scheduled.
+- Please continue to work with occupational therapy, physical 
+therapy, and home nursing to improve your strength.
+- Please puree all of your foods to minimize the risk of choking 
+while eating. Someone should sit with you while you eat to help 
+you eat slowly. 
+
+We wish you the best!
+
+Sincerely,
+Your care team at ___
+ 
+Followup Instructions:
+___

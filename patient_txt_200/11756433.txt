@@ -1,0 +1,1006 @@
+===== DISCHARGE NOTE =====
+note_id=11756433-DS-19 | hadm_id=22146524
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Vicodin / Prochlorperazine / Phenergan / Percocet / Benadryl 
+Allergy
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Lower Back ___ 
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a history of a T12 
+fractures s/p revision surgery in ___, who is presenting with 
+back ___, weakness, and numbness.
+
+The patient shares that about 3 weeks ago her back ___ began to 
+progressively worsen, and she had new neck and lower back ___. 
+Then over the past 3 days, the ___ has been so severe that she 
+has been unable to walk. She has had no fevers, chills, 
+unintentional weight loss, night sweats, fecal or urinary 
+incontinence. She has had a cough over the past 3 days. 
+
+In the ED, initial vitals were: 97.8 50 168/90 22 97 RA. Exam 
+was limited by ___, sensation was decreased bilaterally in the 
+lower extremities, and rectal tone and sensation were intact. 
+Labs were notable for WBC 8.5, Hb 14.3, Platelet 244, Chem-10 
+wnl, negative UA. A code cord was initiated. MRI spine showed no 
+evidence of cord signal abnormality in C spine, T spine or L 
+spine. She has a compression deformity of the T12 vertebral body 
+with retropulsion contacting the central cord, but this is 
+stable from prior imaging. Of note, she was intubated for the 
+MRI due to agitation; she was extubated successfully. CT head 
+showed no acute intracranial process and moderate multifocal 
+sinus disease. CXR showed low lung volumes without focal 
+consolidation. Spine was consulted and recommended mobilization 
+with ___ and ___ control. ___ saw the patient and at that time 
+she was refusing rehab and not giving them a realistic 
+disposition plan. Psychiatry was consulted, who recommended 
+optimizing pharmacologic management for delirium and agitation 
+prevention and treatment. She did not meet criteria for 
+inpatient psychiatry, ___, or constant observation. In 
+the ED she was given multiple doses of IV dilaudid, oxycodone, 
+ibuprofen, IV morphine and IV Ativan. She was given 
+midazolam/propofol/fentanyl while intubated. 
+
+On the floor, the patient endorsed severe lower back ___ and a 
+cough. Denied shortness of breath, nausea, vomiting, abdominal 
+___, or diarrhea. 
+ 
+Past Medical History:
+PAST PSYCHIATRIC HISTORY:
+- Prior diagnoses: Self-reported PTSD, depression. 
+- Hospitalizations: Reports 30 day voluntary hospitalization at
+___
+- Current treaters and treatment: Dr. ___ in ___
+- Medication and ECT trials: Reports previously being on
+Celexa. Currently on Valium 
+- Suicide attempts: Denies, though reports that others thought
+she attempted suicide at one point but refuses to give details
+regarding this
+- Self-injurious behavior: Denies
+- Harm to others: Denies
+- Access to weapons: Reports that she owns a gun that is locked
+in a safe for protection since her daughter was murdered and her
+murderer is at large
+ 
+Social History:
+___
+Family History:
+-Reports sister with bipolar disorder 
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:
+===========================
+Vital Signs: 97.8, 110/78, 91, 15, 92% RA 
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Back: Diffuse tenderness to palpation along C-spine, L-spine, 
+T-spine
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, patient unable to lift bilateral lower 
+extremities against gravity secondary to ___, decreased 
+sensation to light touch in left upper thigh, intact sensation 
+to light touch in right lower extremity 
+
+PHYSICAL EXAM ON DISCHARGE:
+===========================
+Vitals: T: 98.1, BP: 117/78, HR 78, RR 18, SPO2 95% RA 
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation anteriorly   
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+Back: Severe ttp of lumbar and thoracic spine 
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, patient able to lift legs against 
+gravity though unable to left against resistance secondary to 
+___, decreased sensation to light touch in left upper thigh, 
+intact sensation to light touch in right lower extremity 
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+==================
+___ 02:17PM BLOOD Glucose-94 UreaN-19 Creat-0.8 Na-141 
+K-4.2 Cl-100 HCO3-22 AnGap-23*
+___ 02:57PM BLOOD ___ PTT-33.5 ___
+___ 02:57PM BLOOD WBC-8.5# RBC-4.63 Hgb-14.3 Hct-42.2 
+MCV-91 MCH-30.9 MCHC-33.9 RDW-12.0 RDWSD-39.8 Plt ___
+
+MICROBIOLOGY:
+=============
+___ 1:04 pm URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH FECAL
+      CONTAMINATION. 
+
+___ 11:38 am BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+___ 10:43 pm URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH FECAL
+      CONTAMINATION. 
+
+___ 7:45 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending)
+
+___ 7:30 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending)
+
+IMAGING:
+========
+CXR (___):
+FINDINGS:  
+  
+Lung volumes are relatively low.No focal consolidation is seen.  
+There is no pleural effusion or pneumothorax. The cardiac and 
+mediastinal silhouettes are unremarkable. 
+  
+IMPRESSION:  
+  
+Low lung volumes without focal consolidation. 
+
+MRI C/T/L SPINE (___):
+IMPRESSION: 
+  
+1. There are mild degenerative changes in the spine.  Spinal 
+cord is normal. 
+2. There is chronic compression fracture of T12 vertebral body, 
+and mild 
+central canal narrowing at this level, stable. 
+3. Suggestion of pneumonia in the left lower lobe with mucous 
+plugging, and mild basilar atelectasis bilaterally. 
+
+CT HEAD (___):
+FINDINGS:  
+ 
+Exam is mildly motion degraded. There is no evidence of 
+infarction, 
+hemorrhage, edema, or mass. The ventricles and sulci are normal 
+in size and configuration. 
+  
+The frontal sinuses are clear. There is moderate bilateral 
+anterior division ethmoid air cell mucosal thickening, as well 
+as mild moderate sphenoid sinus mucosal thickening. There is 
+right moderate and left mild maxillary sinus mucosal thickening, 
+likely with mucous retention cysts on the right. There is 
+partial opacification of the inferior right mastoid air cells. 
+The left mastoid air cells are clear. The middle ear cavities 
+are clear. The globes bony orbits are intact and unremarkable 
+  
+IMPRESSION: 
+  
+1. Exam mildly motion degraded. No visualized acute intracranial 
+process.  No hemorrhage. 
+2. Moderate multifocal sinus disease, as above. 
+
+CXR (___):
+IMPRESSION:  
+  
+In comparison with the study of ___, the monitoring and 
+support devices have been removed. No evidence of acute 
+pneumonia, vascular congestion, or pleural effusion. 
+
+CXR (___):
+FINDINGS:  
+  
+There is minimal basilar atelectasis. There are no infiltrates. 
+No edema. No pneumothorax. 
+  
+IMPRESSION:  
+  
+No infiltrates. 
+
+MRI C/T/L SPINE (___):
+IMPRESSION: 
+  
+1. Study is mildly degraded by motion. 
+2. No evidence of spinal cord lesion or epidural abscess. 
+3. Grossly stable T12 compression deformity with minimal edema, 
+nonspecific enhancement, and bony retropulsion resulting in at 
+least mild vertebral canal narrowing and deformation of ventral 
+thecal sac without definite associated cord signal abnormality. 
+Edema and enhancement are nonspecific, and may be related to 
+recent hardware removal. 
+4. Probable pneumonia in the left lower lobe, but incompletely 
+assessed on 
+this non dedicated exam. 
+5. New bilateral pleural effusions. 
+6. Probable hepatic and renal cysts, as described. 
+
+STUDIES:
+========
+EMG (___):
+ 
+Clinical Interpretation: Essentially normal study. There is no 
+electrophysiologic evidence for an acute neuropathy such as 
+acute inflammatory demyelinating polyneuropathy or Guillain 
+___ syndrome, or for a generalized myopathy. The reduced 
+activation noted in multiple muscles, more prominent in the 
+lower extremity, may be volitional, due to ___, or a central 
+lesion. 
+
+LABS THREE DAYS PRIOR TO DISCHARGE:
+=================================
+___ 08:29AM BLOOD Calcium-9.5 Phos-4.1 Mg-2.0
+___ 08:29AM BLOOD Glucose-104* UreaN-13 Creat-0.7 Na-142 
+K-5.0 Cl-104 HCO3-25 AnGap-18
+___ 08:29AM BLOOD WBC-6.3 RBC-3.83* Hgb-11.9 Hct-35.5 
+MCV-93 MCH-31.1 MCHC-33.5 RDW-12.4 RDWSD-41.8 Plt ___ yo female with history of a T12 fractures s/p revision 
+surgery in ___ who presented with acutely worsening lower back 
+___, found to have no new fractures or concern for infection. 
+Her hospital course was complicated by an episode of hypotension 
+with systolic blood pressures in ___ shortly after 
+administration of tizanidine.
+
+#Bilateral hand weakness
+#Left-sided burning sensation
+#Low Back ___: 
+Patient admitted with 5-day history of worsening back ___ that 
+primarily started after receiving a steroid injection to her 
+lower back approximately one month prior to presentation. 
+Patient denied recent trauma or fall. She did share that she was 
+previously on a higher dose of fentanyl patch at 200 mcg which 
+was recently switched to a lower dose based on the patient's 
+preferences around this time as well. MRI Spine obtained in ED 
+showed chronic compression fracture of T12 vertebral body and 
+normal spinal cord. Neurology was consulted during the patient's 
+hospitalization, and recommended a repeat MRI spine to rule out 
+an epidural abscess. They also recommended EMG to evaluate for 
+nerve damage. Repeat MRI C/T/L spine on ___ showed no 
+evidence of epidural abscess and EMG obtained on ___ 
+revealed no acute inflammatory demyelinating polyneuropathy or 
+Guillain ___ syndrome, or generalized myopathy. Given possible 
+medication side effect (see below), the patient's home dose of 
+tizanidine was held prior to discharge. She was continued on her 
+regularly dosed fentanyl patch. Oxycodone was increased from 10 
+mg PO Q6H as needed to 15 mg Q4H as needed. Gabapentin was 
+uptitrated from 300 mg TID to ___ mg TID. Her home dose of 
+valium was decreased from 10 mg PO Q8H as needed to 5 mg PO Q8H 
+as needed. Her other home medications were continued prior to 
+discharge. 
+
+#Hypotension: Patient had an episode of hypotension was on 
+___ with SBPs in ___. Patient given narcan, 2L IVF. 
+Lactate, blood cultures, urine culture were ordered and cultures 
+came back negative. Etiology thought to be possibly secondary to 
+opioid overdose vs. side effect from tizanidine. SBPs responded 
+after administration of 2L IVF increased to 100s-110s. VBG 
+notable for normal pH and no base excess. She had no recurrence 
+of profound hypotension during hospitalization.
+
+#Urinary burning: patient complained of urinary burning 
+overnight on ___. UA revealed >182 WBCs though final urine 
+culture from ___ showing mixed bacterial flora, consistent with 
+contamination. Patient completed a 3-day course of ceftriaxone 
+from ___ with resolution of symptoms. 
+
+#Cough: Patient reported a dry cough for past three days prior 
+to admission, which was stable during her hospitalization. There 
+was no history of fevers and lungs sound clear anteriorly on 
+exam. CXR on ___ negative for acute PNA. She was continued on 
+incentive spirometer given low concern for active pulmonary 
+infection during her admission. 
+
+TRANSITIONAL ISSUES:
+- Please have patient continue to work with Physical Therapy for 
+ongoing strength and mobility training to help improve ___ and 
+physical functioning 
+- Patient's outpatient ___ provider is ___ 
+___, ___ 
+- Please consider increasing dose of gabapentin as outpatient 
+(100 mg every five days as needed to achieve adequate ___ 
+control without over-sedation)
+- Please adjust ___ control medications (including fentanyl 
+patch and oxycodone) as needed to control back ___ without 
+causing sedation or hypotension
+-Tizanidine discontinued from her regimen as this was thought to 
+have contributed to episode of profound hypotension during 
+patient's hospitalization. Would strongly encourage refraining 
+from using this medication for her in the future. 
+# CODE: Full Code (confirmed)
+# HCP: ___ (Son, ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fentanyl Patch 50 mcg/h TD Q72H 
+2. Gabapentin 300 mg PO TID 
+3. TRIAzolam 0.5 mg PO QHS 
+4. Diazepam 10 mg PO Q8H:PRN anxiety, muscle spasm 
+5. Citalopram 20 mg PO DAILY 
+6. Tizanidine 8 mg PO TID PRN muscle spasm 
+7. OxyCODONE (Immediate Release) 10 mg PO Q6H:PRN ___ - 
+Moderate 
+
+ 
+Discharge Medications:
+1.  Benzonatate 100 mg PO TID 
+RX *benzonatate 100 mg 1 capsule(s) by mouth TID PRN Disp #*30 
+Capsule Refills:*0 
+2.  Diazepam 5 mg PO Q8H:PRN anxiety, muscle spasm 
+RX *diazepam 5 mg 1 tab by mouth q8h PRN Disp #*21 Tablet 
+Refills:*0 
+3.  Gabapentin 400 mg PO TID 
+RX *gabapentin 400 mg 1 capsule(s) by mouth three times a day 
+Disp #*90 Capsule Refills:*0 
+4.  OxyCODONE (Immediate Release) 15 mg PO Q4H:PRN ___ - 
+Moderate 
+RX *oxycodone 15 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*20 Tablet Refills:*0 
+5.  Citalopram 20 mg PO DAILY  
+6.  Fentanyl Patch 50 mcg/h TD Q72H  
+7.  TRIAzolam 0.5 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Back ___ 
+Urinary Tract Infection 
+Stable T12 Compression Fracture 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to care for you at the ___ 
+___. 
+
+Why did you come to the hospital?
+ - You were admitted to the hospital for worsening back ___. 
+
+What did you receive in the hospital?
+ - You underwent an MRI of your spine, which showed no lesions 
+or signs of infection of your spinal cord. The MRI did show a 
+compression fracture of your thoracic spinal column, which was 
+stable in appearance when compared to previous studies. You 
+actually had a repeat MRI to look for any spinal infection, and 
+this was also negative. 
+- During your hospitalization, you had an episode of low blood 
+pressure which was thought to be due to medication side effect. 
+We decreased your dose of valium, increased your dose of 
+oxycodone and gabapentin, and decided to stop your home dose of 
+tizanidine out of concern that this may have contributed to the 
+episode of low blood pressures. 
+- We additionally treated you with a 3-day course of antibiotics 
+for a urinary tract infection. 
+
+What should you do once you leave the hospital?
+ - Continue to work with Physical Therapy for strength and 
+mobility exercises and continue to follow up with your 
+outpatient ___ medicine physician for ongoing ___ management 
+and care. 
+- If you have fevers, chills, confusion, or lightheadedness, 
+please seek medical care.
+- We want to emphasize that we are very concerned that the 
+tizanidine was the cause of your low blood pressures. We 
+strongly encourage you to not take this medication again.
+
+We wish you the best!
+Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11756433-DS-17 | hadm_id=27795627
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Vicodin / Prochlorperazine / Phenergan / Oxycodone / Percocet / 
+Benadryl Allergy
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Back Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+see admit H&P
+ 
+Past Medical History:
+see admit H&P
+ 
+Social History:
+___
+Family History:
+see admit H&P
+ 
+Physical Exam:
+see admit H&P
+ 
+Pertinent Results:
+___ 07:40PM   CRP-4.2
+___ 07:40PM   SED RATE-10
+___ 03:00AM   GLUCOSE-98 UREA N-11 CREAT-0.6 SODIUM-143 
+POTASSIUM-3.8 CHLORIDE-108 TOTAL CO2-32 ANION GAP-7*
+___ 03:00AM   estGFR-Using this
+___ 03:00AM   CALCIUM-8.8 PHOSPHATE-4.6*# MAGNESIUM-2.1
+___ 03:00AM   WBC-3.2*# RBC-3.70*# HGB-12.2# HCT-34.4*# 
+MCV-93 MCH-33.0* MCHC-35.5* RDW-14.3
+___ 03:00AM   PLT COUNT-187
+___ 03:00AM   ___ PTT-27.3 ___
+ 
+Brief Hospital Course:
+Patient was admitted for concern regarding prior 
+instrumentation.  All additional imaging revealed intact 
+hardware with no evidence of new compression.  Given patient's 
+weakness, neurology was consulted.  The opinion of the team was 
+that no significant neurologic compromise was ongoing.  Patient 
+began to progress well with ___.  Once she was ambulatory and 
+with adequate pain control, she was deemed stable for discharge 
+home.
+ 
+Medications on Admission:
+see admit H&P
+ 
+Discharge Medications:
+1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+2. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+3. gabapentin 300 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+4. fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+5. diazepam 5 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8 
+hours) as needed for spasm/pain.
+Disp:*30 Tablet(s)* Refills:*0*
+6. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+7. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) 
+packet PO DAILY (Daily) as needed for constipation.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Back Pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+1. continue to ambulate as tolerated
+2. Continue to monitor symptoms
+3. Continue outpatient ___
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11756433-DS-20 | hadm_id=27897688
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Vicodin / Prochlorperazine / Phenergan / Percocet / Benadryl 
+Allergy
+ 
+Attending: ___.
+ 
+Chief Complaint:
+back pain, syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ woman with a history of low back pain presented to
+the ED with worsening low back pain. She was also reporting
+syncopal events and was noted to be bradycardic on outside
+hospital records so admitted to medicine for further management. 
+
+
+In the ED, initial VS were:  98.1 78 166/67 18 98%RA. She was
+given 60mg of oxycodone and 10mg of diazepam. Per ED dash, OSH
+records (which did not come up with patient from the ED) she had
+a "recent" MRI of her spine which showed stability of her known,
+old T12 compression fracture. Also, per reports, she had
+documented episodes of bradycardia.    
+
+On arrival to the floor, she reports having a procedure (?nerve
+block, she is not entirely sure) for pain earlier on ___. At that time, her fentanyl patch was taken off and she was
+switched to 10mg of valium TID and 30mg of oxycodone q8h (pt 
+says
+more frequent but rx is written q8h). Since this procedure, she
+notes worsening back pain at the site of her previous lumbar
+fracture. The pain is so bad that it is difficult for her to
+breath. She hasn't been able to really walk too well for the 
+past
+four weeks. She otherwise ambulates independently. She has also
+had twitching since the procedure. She also has been 
+syncopizing.
+These syncopal events are preceded by a feeling of warmth and
+neck pressure. She did hit her head during one recent event. 
+ 
+Past Medical History:
+PAST PSYCHIATRIC HISTORY:
+- Prior diagnoses: Self-reported PTSD, depression. 
+- Hospitalizations: Reports 30 day voluntary hospitalization at
+___
+- Current treaters and treatment: Dr. ___ in ___
+- Medication and ECT trials: Reports previously being on
+Celexa. Currently on Valium 
+- Suicide attempts: Denies, though reports that others thought
+she attempted suicide at one point but refuses to give details
+regarding this
+- Self-injurious behavior: Denies
+- Harm to others: Denies
+- Access to weapons: Reports that she owns a gun that is locked
+in a safe for protection since her daughter was murdered and her
+murderer is at large
+ 
+Social History:
+ -Born/Raised: Reports she was born and raised in ___
+-Family/Support: Reports she had a very loving and supportive
+family. Her husband died of cancer in ___. Her daughter was
+murdered by her boyfriend on ___. She has one son who she is
+close to and speaks to daily and is her greatest form of 
+support.
+-Relationship status/Children: Widowed. One daughter
+(deceased), one son
+-___: Lives alone in ___, ___. Has housekeeper that helps
+with IADLs.
+-Education: Completed college with Bachelor's degree in
+literature -Employment/Income: Reports she worked as a ___ for a ___ in ___ until her husband was diagnosed 
+with
+cancer in ___. She reports having great financial means 
+multiple
+times.
+-Trauma history: Patient's daughter was murdered in ___.
+ 
+Family History:
+Sister with bipolar
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS:  ___ 0312 Temp: 99.6 PO BP: 142/69 R Lying HR: 86 RR: 
+18
+O2 sat: 96% O2 delivery: ra 
+GENERAL: NAD, tremulous  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, ___ strength RLE, ___ RUE, 1+ LLE strength, 2+ LUE
+strength    
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+ 
+ 
+Pertinent Results:
+___ 03:16PM BLOOD WBC-9.8 RBC-4.84 Hgb-14.9 Hct-43.1 MCV-89 
+MCH-30.8 MCHC-34.6 RDW-12.1 RDWSD-39.4 Plt ___
+___ 03:16PM BLOOD Neuts-78.9* Lymphs-16.9* Monos-3.5* 
+Eos-0.0* Baso-0.4 Im ___ AbsNeut-7.70* AbsLymp-1.65 
+AbsMono-0.34 AbsEos-0.00* AbsBaso-0.04
+___ 07:04AM BLOOD Glucose-89 UreaN-27* Creat-0.9 Na-144 
+K-4.2 Cl-103 HCO3-24 AnGap-17
+___ 03:16PM BLOOD Glucose-99 UreaN-24* Creat-1.1 Na-144 
+K-4.8 Cl-104 HCO3-20* AnGap-20*
+___ 03:16PM BLOOD cTropnT-<0.01
+___ 03:16PM BLOOD Albumin-5.2 Calcium-10.6* Phos-3.3 Mg-2.2
+___ 07:04AM BLOOD Calcium-9.4 Phos-3.0 Mg-2.2
+
+Telemetry: SVT to 150 seen which was limited to ___ minutes and 
+resolved spontaneously. 
+ 
+Brief Hospital Course:
+#Syncope: Pt's history unclear vasovagal vs primary cardiac 
+etiology. In speaking with her pain management center, when she 
+runs out of narcotics, she has multiple somatic complaints which 
+she was told to report to the hospital for.  Cardiology was 
+consulted on the patient and did not think that her story was 
+convincing for cardiogenic syncope.  She had a ___ minute 
+episode of SVT to 150 on the monitor that was unprovoked and 
+asymptomatic.  She ruled-out for MI.  Cardiology ordered an 
+echocardiogram, but the results were pending at the time of this 
+dictation.  She was given Metoprolol 25mg PO daily.  She 
+described episodes where her face becomes red and swells then 
+she passes out, but these were not observed.  
+
+#Opiate use disorder with drug seeking behavior - The patient 
+has a challenging past with narcotics.  I spoke to her 
+outpatient pain clinic who has recently discharged her recently 
+for consistently misusing and overusing medications.  ___ RN 
+there who knows the patient well states that the patient's 
+daughter was murdered in the ___, and each recurring winter, 
+she has had uncontrolled back pain, requests large doses of 
+narcotics, and misuses them.  The patient would call multiple 
+times a day, and if the call was not answered immediately, she 
+would leave messages over 7 minutes long.  The patient states 
+that she is supposed to be on long-acting narcotics, and that 
+multiple other doctors have ___ this.  This is unsubstantiated 
+with my review of her records.  She also states that other 
+doctors here told ___ she needed to be on more opioids, which is 
+also untrue.  Much of the information I relayed to her she 
+disputed and said that she has recordings of conversations from 
+the pain clinic that she will use to rebut certain statements.  
+Her outpatient providers say that she does record conversations 
+and threatens to sue when she does not receive certain doses of 
+narcotics.  On admission, her medications were unclear, so the 
+original provider placed her on Fentanyl 75mcg which was reduced 
+to 50 mcg in ___ days after admission.  She was also placed on 
+Oxycodone 15mg PO q4 PRN (pain management program said that she 
+used up her one month supply in less than 2 weeks).  This was 
+discontinued when her history was elicited from outpatient 
+providers. 
+
+I also spoke to her primary care provider's office RN who 
+described challenges with opiate misuse and also more than one 
+episode where she required Narcan for opiate overdose.   I 
+explained to the PCP's office that I thought providing 
+controlled substances to this patient was very risky and 
+potential danger, so therefore, I would not be giving her any of 
+these.  They also stated that her PCP was out of town, but that 
+the back-up provider would also not provide any additional 
+narcotics. She has follow-up in early ___. She was on Valium 
+10mg TID on admission, which was weaned down to 5 TID given 
+somnolence, and this was tapered to off.  Although I do not 
+think she will undergo any withdrawal, I provided her for 
+Dicyclomine, Zofran, and Imodium in case she has any symptoms of 
+withdrawal.  She was referred to psychiatry on multiple 
+occasions, both as inpatient and as outpatient and has refused 
+this intervention consistently.  She was given information for 
+Suboxone and Methadone programs as an outpatient, but she stated 
+that she did not want to have to talk to anyone, she just wanted 
+to get the drugs.  We tried to persuade her that this form of 
+treatment would be in here interest, but she had reasons that 
+she did not want to do this.  Her son called asking why she was 
+not going to be given narcotic prescriptions.  I explained that 
+this is not different from her outpatient provider's decisions, 
+and if he disagrees, he is welcome to reach out to them or 
+pursue a second opinion at a different institution.  
+
+#Disposition - she was recommended to be discharged to rehab, 
+but refused.  She was then recommended to have home with 
+services, which are being set-up, though she also expressed 
+refusal of these too. 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Diazepam 10 mg PO TID 
+2. OxyCODONE (Immediate Release) 30 mg PO Q8H 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Moderate  
+2.  DICYCLOMine 20 mg PO TID:PRN abdominal cramps  
+RX *dicyclomine 20 mg 1 tablet(s) by mouth three times a day 
+Disp #*15 Tablet Refills:*0 
+3.  LOPERamide 2 mg PO QID:PRN diarrhea  
+4.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth once a day 
+Disp #*15 Tablet Refills:*0 
+5.  Ondansetron ODT 4 mg PO Q8H:PRN nausea 
+RX *ondansetron 4 mg 1 tablet(s) by mouth three times a day Disp 
+#*12 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Opiate use disorder
+Supraventricular tachycardia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+We admitted you for problems with your chronic pain and feelings 
+of "passing out." While you were here, we watched your heart 
+rhythm which was fast up to 150.  In addition, you have new 
+chronic pain but because your pain clinic discharged you and we 
+have concerns about you misusing your narcotic medicine and 
+Valium, these were not given on discharge.  Your echocardiogram 
+results were pending at the time of dictation, but your primary 
+care doctor can discuss these results with you, or you can call 
+___ to make a follow-up appointment in cardiology 
+clinic.  
+
+We wish you the best with your health,
+___ Medicine
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11756433-DS-18 | hadm_id=28418431
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Vicodin / Prochlorperazine / Phenergan / Percocet / Benadryl 
+Allergy / Tizanidine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+back pain
+ 
+Major Surgical or Invasive Procedure:
+1. Removal of hardware, T11, T12, L1.
+2. Exploration of spinal fusion, T11-12, T12-L1.
+
+ 
+History of Present Illness:
+___ female who was treated her in ___ when she 
+presented with an unstable thoracic spine injury/Chance fracture 
+at T12. This required urgent surgical treatment, which is a 
+decompression and fusion with instrumentation from T12 through 
+L1. Postoperatively, she maintained her neurological function, 
+with no residual spinal cord symptoms, and also healed her 
+fractures ultimately. She presents now because she has 
+considerable back pain, tenderness, with prominence of the 
+stabilizing implants. Dr. ___ provide her with 
+injections that provided short-term relief around the hardware, 
+and also provocative tests to demonstrate that the hardware has
+significantly contribueted to her pain. Ms. ___ also has a 
+long history of difficulty with narcotics, and also significant 
+psychosocial life stressors that are likely contributing to her 
+pain. This has been longer recognized by her psychiatrist in 
+conjunction with us in the past. Before she was injured years 
+ago, her husband died. More recently, her daughter has also 
+died. By report from the patient, her daughter was actually 
+murdered. This is contributing significantly to her psychosocial 
+stressors, and I suspect this is significant component of her 
+pain experienced. Regardless, she certainly has severe 
+significant tenderness over the hardware, which is palpable 
+bilaterally. They also seem to be prominent on the CT scan. The 
+CT scan is very helpful and showing that the fracture is healed, 
+fusion has mended, and there is no lucency around the hardware 
+to indicate migration or fatigue. She presents now for removal 
+of hardware
+ 
+ 
+Past Medical History:
+back pain 
+adjustement disorder
+ 
+Social History:
+___
+Family History:
+see admit H&P
+ 
+Physical Exam:
+Physical ___
+General:Well appearing in NAD sitting up in chair,pleasant
+Heart:RRR
+Lungs:CTAB
+Abd:soft,ntnd,+bs's
+Extremities:wwp,2+rad/2+dp pulses
+___ throughout BLE ___
++SILT b/l
+ 
+Brief Hospital Course:
+Patient was admitted to the ___ Spine Surgery Service and 
+taken to the Operating Room for the above procedure. Refer to 
+the dictated operative note for further details. The surgery was 
+without complication and the patient was transferred to the PACU 
+in a stable condition.  TEDs/pnemoboots were used for 
+postoperative DVT prophylaxis. Intravenous antibiotics were 
+continued for 24hrs postop per standard protocol. Initial postop 
+pain was controlled with a PCA. Diet was advanced as tolerated. 
+The patient was transitioned to oral pain medication when 
+tolerating PO diet. Physical therapy was consulted for 
+mobilization OOB to ambulate. Hospital course was otherwise 
+unremarkable. On the day of discharge the patient was afebrile 
+with stable vital signs, comfortable on oral pain control and 
+tolerating a regular diet.
+
+ 
+Medications on Admission:
+Fentanyl Patch 
+Oxycodone
+Nexium
+naproxen
+Ibuprofen
+ 
+Discharge Medications:
+1. Acetaminophen 1000 mg PO Q6H pain 
+may take over the counter, no more than 4G/24H 
+2. Diazepam ___ mg PO Q6H:PRN pain or spasm 
+RX *diazepam 5 mg ___ tablets by mouth every six (6) hours Disp 
+#*60 Tablet Refills:*0
+3. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*30 Tablet Refills:*0
+4. Fentanyl Patch 200 mcg/h TD Q48H pain Duration: 1 Dose 
+5. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+Please do not operate heavy machinery,drink alcohol or drive 
+RX *hydromorphone 2 mg ___ tablet(s) by mouth every four (4) 
+hours Disp #*100 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Retained thoracolumbar hardware.
+2. Prior thoracolumbar burst fracture.
+3. Likely healed spinal fusion.
+4. Healed spinal fusion.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Removal of ThoracoLumbar Hardware
+You have undergone the following operation: Removal of Spinal 
+Hardware
+Immediately after the operation:
+•                Activity: You should not lift anything greater 
+than 10 lbs for 2 weeks. You will be more comfortable if you do 
+not sit or stand more than ~45 minutes without moving around.
+•                Rehabilitation/ Physical Therapy:
+___                ___ times a day you should go for a walk 
+for ___ minutes as part of your recovery.  You can walk as 
+much as you can tolerate.
+___                Limit any kind of lifting.
+•                Diet: Eat a normal healthy diet. You may have 
+some constipation after surgery.  You have been given medication 
+to help with this issue.
+•                Wound Care: Remove the dressing in 2 days.  If 
+the incision is draining cover it with a new sterile dressing.  
+If it is dry then you can leave the incision open to the air.  
+Once the incision is completely dry (usually ___ days after the 
+operation) you may take a shower. Do not soak the incision in a 
+bath or pool.  If the incision starts draining at anytime after 
+surgery, do not get the incision wet. Cover it with a sterile 
+dressing and call the office.
+•                You should resume taking your normal home 
+medications.
+•                You have also been given Additional Medications 
+to control your pain. Please allow 72 hours for refill of 
+narcotic prescriptions, so please plan ahead.  You can either 
+have them mailed to your home or pick them up at the clinic 
+located on ___ 2.  We are not allowed to call in or fax 
+narcotic prescriptions (oxycontin, oxycodone, percocet) to your 
+pharmacy.  In addition, we are only allowed to write for pain 
+medications for 90 days from the date of surgery.
+•                Follow up:            
+Please Call the office and make an appointment for 2 weeks after 
+the day of your operation if this has not been done already.
+___                At the 2-week visit we will check your 
+incision, take baseline X-rays and answer any questions. We may 
+at that time start physical therapy.
+Please call the office if you have a fever>101.5 degrees 
+Fahrenheit and/or drainage from your wound.
+
+ 
+
+ 
+
+Physical Therapy:
+-Weight bearing as tolerated
+-Gait, balance training
+-No significant bending/twisting
+-No brace needed
+
+Treatments Frequency:
+Remove the dressing in 2 days.  If the incision is draining 
+cover it with a new sterile dressing.  If it is dry then you can 
+leave the incision open to the air.  Once the incision is 
+completely dry (usually ___ days after the operation) you may 
+take a shower. Do not soak the incision in a bath or pool.  If 
+the incision starts draining at anytime after surgery, do not 
+get the incision wet. Cover it with a sterile dressing and call 
+the office.
+
+ 
+Followup Instructions:
+___

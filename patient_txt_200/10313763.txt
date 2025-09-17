@@ -1,0 +1,238 @@
+===== DISCHARGE NOTE =====
+note_id=10313763-DS-18 | hadm_id=25494448
+
+ 
+Name:  ___                          Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+sarna lotion
+ 
+Attending: ___.
+ 
+Chief Complaint:
+altered mental status
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ presenting from ___, for acute worsening 
+of mental status accompanied by chest pain and low BP.  
+.  
+History is obtained from family and RN at ___ 
+as pt is currently non-communicative. Per RN, pt was found 
+clammy, pale, and less responsive early this afternoon. with RR 
+in mid ___. When she was aroused more with stimulation, pt 
+reported not feeling well and having pain in her chest. 
+Ambulance was quickly called and pt was brought to ___. ECG in 
+field unremarkable. RN reports that notes say pt had been 
+declining over last ___ days. This AM she had a temp to 101.3 
+which came down with tylenol. No other specific sympotms noted 
+other than looking more unwell and generally less energetic. Pt 
+had also developed two lower extremity lesions during her stay 
+which had been treated from ___ - ___ with Keflex.  
+.  
+Per family, when they visit the pt this AM she was interactive 
+and alert with them. She was endorsing more trouble breathing 
+than normal and did have an elevated BP to 160s/80s. They were 
+not present when pt became acutely worse in the afternoon. At 
+baseline pt is A&O x 3, demented but responsive and recognizing 
+some family members. She recently was admitted to ___ for 5 
+days and treated for a PNA. She was discharged from there to 
+___ on ___ and has been there since. 
+Previously the patient was living alone in an apartment. Her 
+family would cook her breakfast and lunch and a home health aide 
+would come for 4 hrs a day in the evening and cook her dinner. 
+However, pt was able to get around her apartment without 
+assistance and take care of dressing and bathing herself. Pt is 
+___ speaking only and is usually able to follow one sentance 
+commands.  
+.  
+In ED, initial VS 98.3 78 116/50 18 95% 2L. CXR showed PNA vs 
+fluid and pt was given 40mg IV lasix. Her BP intermittently 
+dropped to the ___ systolic. She was given 750mg levofloxacin as 
+well as ASA and tylenol. A foley was placed. At this point pt 
+looked very tenuous and in setting of WBC elevation, history of 
+fevers, and hypotension, concern that pt becoming septic. ED 
+resident contacted pts HCP with aide of ___ interpreter and 
+had discussion about goals of care. CODE STATUS is DNR/DNI and 
+family does not want ICU admission, central line placement, 
+pressors, or painful interventions. They would like pt to be 
+treated otherwise and are not ready for CMO status so pt was 
+admitted to the medical floor. VS at transfer were HR 71, BP 
+92/41, RR 18, Sats 99% 4l.  
+.  
+Currently, pt is not able to answer questions. Discussion was 
+had with family about severity of patient's illness and goals of 
+care. The re-articulated the goals as discussed with the 
+emergency department. They understand that pt is very sick and 
+has the potential to die during this admission.  
+
+ 
+Past Medical History:
+- Dementia  
+- Cataracts  
+- Recent PNA (admitted to ___ and d/ced on ___  
+
+ 
+Social History:
+___
+Family History:
+Non contributory
+ 
+Physical Exam:
+VS - Temp afebrile, HR 71, BP 92/41, RR 18, Sats 99% 4l  
+GENERAL - non-communicative, some respiratory distress  
+HEENT - sclerae anicteric, dry MM  
+NECK - supple, no JVD  
+LUNGS - decreased breath sounds bilaterally, no anterior 
+wheezing, faint crackles, using accessory muscles  
+HEART - PMI non-displaced and prominent, RRR, no MRG, nl S1-S2  
+ABDOMEN - NABS, soft/cannot tell if painful, ND, no masses or 
+HSM  
+EXTREMITIES - warm, 3+ pitting up to knee bilaterally, both 
+ankles are wrapped in kerlex with gauze over lesions, lesion on 
+R ankle has central black eschar with surrounding erythema on 
+medial surface, no drainage currently, L ankle has area of skin 
+darkening without obvious skin break  
+NEURO - eyes open, but not responding to environment or 
+question, moving extremities spontaneously  
+
+ 
+Pertinent Results:
+___ 09:20AM BLOOD WBC-11.9* RBC-2.99* Hgb-9.6* Hct-32.0* 
+MCV-107* MCH-32.1* MCHC-30.1* RDW-15.7* Plt ___
+___ 04:19AM BLOOD WBC-19.3* RBC-3.05* Hgb-9.8* Hct-32.1* 
+MCV-105* MCH-32.1* MCHC-30.5* RDW-15.0 Plt ___
+___ 05:21AM BLOOD WBC-22.8* RBC-2.90* Hgb-9.2* Hct-30.3* 
+MCV-104* MCH-31.7 MCHC-30.4* RDW-15.2 Plt ___
+___ 05:00PM BLOOD WBC-23.2*# RBC-3.07* Hgb-9.6* Hct-31.7* 
+MCV-104* MCH-31.5 MCHC-30.4* RDW-16.2* Plt ___
+___ 05:00PM BLOOD ___ PTT-30.3 ___
+___ 09:20AM BLOOD Glucose-106* UreaN-40* Creat-1.7* Na-146* 
+K-4.7 Cl-104 HCO3-37* AnGap-10
+___ 04:19AM BLOOD Glucose-108* UreaN-42* Creat-2.1* Na-142 
+K-4.8 Cl-102 HCO3-34* AnGap-11
+___ 05:00PM BLOOD ALT-14 AST-30 LD(LDH)-330* AlkPhos-62 
+TotBili-0.4
+___ 05:00PM BLOOD cTropnT-0.01
+___ 04:19AM BLOOD Calcium-8.5 Phos-4.0 Mg-1.8
+___ 05:31AM BLOOD Glucose-87 UreaN-30* Creat-1.3* Na-147* 
+K-4.6 Cl-105 HCO3-39* AnGap-8
+___ 10:00AM BLOOD Glucose-180* UreaN-26* Creat-1.2* Na-140 
+K-4.4 Cl-99 HCO3-35* AnGap-10
+.
+MICROBIOLOGY:
+All cultures - negative (blood x2, urine x1, legionella)
+.
+AP CHEST, 3:29 A.M. ON ___ 
+  
+HISTORY: A ___ woman with pneumonia and recent 
+desaturation and 
+tachycardia. 
+  
+IMPRESSION: AP chest compared to ___: 
+  
+Pulmonary vascular congestion has worsened to the point of early 
+pulmonary 
+edema, increasing the small right pleural effusion as well as 
+vascular 
+caliber. Heterogeneous opacification at both lung bases could be 
+any 
+combination of asymmetric edema, atelectasis, aspiration, and 
+pneumonia. Left lower lobe atelectasis has worsened. No 
+pneumothorax. The heart is 
+moderately enlarged and the azygos vein is borderline distended. 
+
+  
+___. ___ 
+___: ___ 1:39 ___ 
+.
+ECG Study Date of ___  4:51:52 ___ 
+Normal sinus rhythm. Normal tracing. No previous tracing 
+available for 
+comparison.  
+Read by: ___ 
+   ___ Axes 
+Rate PR QRS QT/QTc P QRS T 
+76 142 78 ___ ___ presenting from ___, for acute worsening 
+of mental status accompanied by chest pain and low BP with 
+elevated WBC and temp at rehab concerning for new pneumonia.  
+.  
+# Pneumonia, possibly complicated by empyema: The patient was 
+treated with cefepime, vancomycin, and levaquin for hospital 
+acquired pneumonia.  Imaging also showed bilateral pleural 
+effusions that were likely infected as well, since she failed to 
+improve on antibiotics.  Given her clinical status and 
+bilaterality of the fluid collections, it was determined that 
+thoracenteses were too high of a risk for her and were deferred. 
+ She intermittently desaturated, requiring high flow oxygen.  
+These episodes were likely multifactorial, secondary to 
+aspiration, continued pneumonia, and mucus plugging.  Though she 
+was DNR/DNI on admission, further goals of care discussions 
+later in her hospitalization indicated that the family wanted to 
+focus on comfort.  After an acute aspiration episode, suctioning 
+was attempted and IV morphine was pushed.  Ultimately, the 
+patient had a respiratory arrest and passed away.  Family was at 
+her bedside and were given the opportunity to say their 
+goodbyes.  Autopsy was offered and declined.  
+
+# Atrial fibrillation with RVR:  She went into a rapid 
+ventricular rate with new onset atrial fibrillation with 
+hypotension, requiring initiation of amiodarone IV for control.  
+She converted to sinus rhythm. Given her goals of care, 
+amiodarone was discontinued and her telemetry was discontinued 
+for her comfort.  
+
+# Leg Wound: The patient's leg wound was superficial and treated 
+by wound care.
+.  
+# Goals of Care:  After a discussion with the family, the 
+patient was made DNR/DNI, no ICU transfer, no pressors, no 
+invasive procedures, all confirmed with family on numerous 
+occasions.  
+ 
+Medications on Admission:
+- Exelon Patch (for alzheimers)  
+- Doxapin 25mg Qhs  
+- Senna  
+- Docusate  
+- Ducolax  
+- Tylenol  
+- Atenolol 25mg qd  
+- Calcium/Vit D  
+- Magic Mouth Wash  
+- Lasix 20mg qd  
+- Trazadone 75mg qd  
+- Melatonin  
+- Xalantin eye drops  
+- Bromotidine eye drops (?)  
+- Cyclosprin eye drops  
+- Timolol eye drops  
+- Dorzolamide eye drops  
+
+ 
+Discharge Medications:
+N/A
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+N/A
+ 
+Discharge Condition:
+N/A
+ 
+Discharge Instructions:
+N/A
+ 
+Followup Instructions:
+___

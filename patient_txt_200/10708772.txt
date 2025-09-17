@@ -1,0 +1,294 @@
+===== DISCHARGE NOTE =====
+note_id=10708772-DS-4 | hadm_id=29546454
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+neck pain  
+
+ 
+Major Surgical or Invasive Procedure:
+___ Endoscope by ENT
+
+ 
+History of Present Illness:
+___ y/o F s/p partial thyroidectomy in ___, presenting with 
+neck pain and difficulty swallowing. History taken with ___ 
+___ interpreter. Patient reports that since surgery in 
+___, she has mild to moderate ongoing pain at the right neck 
+surgical site. In addition, she endorses dysphagia with 
+swallowing solids where she has to take small bites and drink 
+water. With fluids, she has to take small sips, otherwise she 
+would choke. No particular trigger with fish bone. Also endorses 
+intermittent hoarseness since surgery. The day prior to 
+admission, patient had a choking episode when attempting to eat 
+dinner. She also noted a low-grade temperature of 99.4 and took 
+some ibuprofen and presented to ___ where her CT 
+scan showed free air C4-5. She was transferred to ___ for 
+further evaluation. Patient denies breathing difficulty or SOB. 
+No trismus.  
+In the ED, initial VS were 99 92 123/81 18 100%. Labs all wnl 
+including lactate 0.9. Received unasyn x1. ENT evaluated patient 
+and did not visualize obvious source of neck pain or infection, 
+recommended admission to medicine with follow up. Transfer VS 
+were 98.8 72 ___ RA.  
+On arrival to the floor, patient reports right neck pain.  
+
+ 
+Past Medical History:
+Partial right thyroidectomy in ___  
+
+ 
+Social History:
+Denies smoking, EtOH or illicits  
+Lives with her family 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VS - 98.4; 117/81; 76; 18; 100%RA  
+General: well appearing, NAD  
+HEENT: oropharynx clear, seveve halitosis  
+Neck: Right lateral neck with mild swelling and one suture still 
+in place at surgical site, tender to touch. D/C/I, well healed. 
+no thyroid enlargement or nodules. No lymphadenopathy  
+CV: RRR, normal S1, S2, no M/R/G  
+Lungs: CTAB and anteriorly over trachea, no w/r/r/  
+Abdomen: soft, NDNT, +BS  
+Ext: no edema  
+Neuro: AAOx3  
+Skin: no rash  
+
+DISCHARGE PHYSICAL EXAM
+VS: Tc 98.2, Tm 98.6, HR 60-81, BP 95-116/66-88, 99% RA, I= 
+___, O=3000
+General: weak appearing female in NAD
+HEENT: PERRL, oropharynx clear, unable to visualize posterior 
+orpharynx, mallampati III
+Neck: neck with lateral surgical scar, normal ROM, nontender to 
+palpation
+CV: RRR, normal S1, S2, no M/R/G  
+Lungs: CTAB, no w/r/r  
+Abdomen: soft, nondistended, no rebound, normal bowel sounds, 
+nontender to palpation
+Ext: no edema  
+Neuro: AAOx3, CN III-XII intact
+ 
+Pertinent Results:
+=============================
+ADMISSION LABS
+=============================
+___ 11:19PM BLOOD WBC-6.0 RBC-4.45 Hgb-12.8 Hct-40.8 MCV-92 
+MCH-28.7 MCHC-31.3 RDW-13.5 Plt ___
+___ 11:19PM BLOOD Neuts-54.7 ___ Monos-5.1 Eos-2.2 
+Baso-1.7
+___ 11:19PM BLOOD Plt ___
+___ 11:19PM BLOOD Glucose-84 UreaN-9 Creat-0.7 Na-141 K-3.7 
+Cl-106 HCO3-25 AnGap-14
+___ 11:19PM BLOOD Calcium-9.4 Phos-3.7 Mg-2.0
+___ 06:30AM BLOOD TSH-2.1
+___ 11:23PM BLOOD Lactate-0.9
+___ 11:19PM URINE Color-Straw Appear-Clear Sp ___
+___ 11:19PM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 11:19PM URINE RBC-1 WBC-0 Bacteri-NONE Yeast-NONE Epi-1
+
+============================
+PERTINENT MICROBIOLOGY
+============================
+
+___ Blood cultures X 2 pending
+
+===============================
+PERTINENT IMAGING
+===============================
+
+___ CT NECK W/O CONTRAST FROM OSH
+
+1. Focus of air in the area posterior to the trachea on the 
+right, which could represent a tracheal diverticulum given its 
+location, although no clear communication with the trachea is 
+visualized, or possibly extraluminal air.  Potential 
+communication with the esophagus could be evaluated if 
+clinically indicated via a barium swallow study.   
+2. Soft tissue in the anterior mediastinum is partially imaged 
+and not well assessed on this exam. ___ represent thymic tissue 
+but cannot exclude lymphomatous mass. Chest radiograph or CT 
+could be obtained for further evaluation.  
+3. Hyperdense small focus in the area of the right piriform 
+sinus of unclear clinical significance. ___ be ammenable to 
+direct visualization.  
+ATTENDING NOTE: Unclear if air described above is due to surgery 
+(if it is recent). Prominent upper cervical lymphnode with 
+enlargement in left level II region.  
+
+___ CXR
+
+Cardiac and mediastinal contours are within normal limits.  
+Lungs appear well inflated without evidence of focal airspace 
+consolidation to suggest 
+aspiration or pneumonia.  No pleural effusions or pneumothorax.  
+No acute bony abnormality. 
+
+___ BARIUM SWALLOW
+
+Barium liquid passes freely from the oropharynx into the upper 
+esophagus without evidence of obstruction.  On the AP and 
+lateral views, there is no extraluminal extension of contrast to 
+suggest leakage. The imaged lung apices are clear.  The imaged 
+portion of the cervical spine isunremarkable. 
+  
+After the completion of the esophagram we were asked if we could 
+assess the right piriform sinus for filling defect.  Distention 
+views of the piriform sinus were not obtained during the 
+examination.  No obliteration is seen, but a small focus such as 
+that seen on the prior CT may not be apparant on this imaging. 
+  
+IMPRESSION:  No extraluminal extension of contrast to suggest 
+leak 
+
+___ CT NECK
+
+The parotid glands and submandibular glands, are unremarkable. 
+There is no 
+cervical adenopathy.  The patient is status post right 
+hemithyroidectomy. The left thyroid and isthmus are normal in 
+appearance.  There is no evidence of esophageal or tracheal 
+diverticulum identified. 
+  
+The aerodigestive tract appears normal. Included paranasal 
+sinuses and 
+mastoids are clear. 
+  
+Vascular structures in the neck are grossly unremarkable. No 
+focal suspicious osseous lesion identified. 
+  
+IMPRESSION:  
+  
+No evidence of esophageal or tracheal diverticulum.  No other 
+significant 
+change from the prior examination. 
+
+================================= 
+DISCHARGE LABS
+=================================
+
+___ 05:55AM BLOOD WBC-5.6 RBC-4.40 Hgb-12.3 Hct-39.8 MCV-90 
+MCH-28.0 MCHC-31.0 RDW-13.1 Plt ___
+___ 05:55AM BLOOD Glucose-63* UreaN-8 Creat-0.7 Na-139 
+K-3.8 Cl-104 HCO3-22 AnGap-17
+___ 05:55AM BLOOD Calcium-9.1 Phos-3.8 Mg-1.9
+___ 06:30AM BLOOD TSH-2.___ year old female s/p right partial thyroidectomy ___ in 
+___ for unknown reasons, presenting with dysphagia and 
+odynophagia found to have right vocal cord paralysis, 
+pirifiromis hyperdensity of unknown etiology, and posterior 
+pharyngeal wall outpouching. Hospital course is outlined below 
+by problem:
+
+#  Neck pain/dysphagia:  Patient presented initially to an OSH 
+with symptoms after a recent thyroidectomy in ___. CT neck 
+at OSH was concerning for extraluminal free air and a potential 
+retropharyngeal abscess/mass which prompted transfer to ___. 
+ENT evaluation at ___ revealed right vocal cord paralysis. 
+Unasyn was started on admit due to the concern for 
+microperforation. She went to the ___ on ___ for direct 
+pharyngoscopy and flexible esophagoscopy. A right hypopharyngeal 
+lesion was identified and biopsied (results were pending at time 
+of discharge). Patient was maintained on NPO diet and aspiration 
+precautions. Patient was also maintained on PPI BID because of 
+evidence of erythema throughout esophagus on scope. A CT neck 
+with oral contrast was obtained and did not show evidence of 
+perforation. As a result antibiotics were discontinued. A video 
+swallow evaluation was performed and patient was cleared for a 
+regular diet with thin liquids. The study revealed a small right 
+sided diverticulum above the level of the UES that emptied with 
+liquids but collected solids and cleared with liquids. 
+Speech/swallow recommended ENT outpatient follow-up for this 
+issue. Patient received education regarding aspiration 
+precautions and tolerated a regular diet prior to discharge.
+
+# Hyperdensity of piriformis: of unknown etiology. Hyperdensity 
+was visualized on CT neck. ENT was unable to visualize foreign 
+body object on scope. Further imaging was not pursued as 
+inpatient. Further imaging should be pursued as outpatient based 
+on ENT recommendations.
+
+TRANSITIONAL ISSUES
+# f/u pharyngeal mass biopsies - results pending at time of 
+discharge
+# Hyperdense small focus in the area of the right piriform sinus 
+of unclear clinical significance - will need further ENT workup 
+as outpatient
+# discharged on high dose PPI therapy - determine duration and 
+intensity of PPI therapy as outpatient
+# patient is able to tolerate both PO solids, liquids and pills 
+- received education about aspiration precautions. Instructed to 
+drink a small amount of liquid after each bite
+# Blood cultures ___ pending 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1. Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet,delayed release (___) by 
+mouth twice a day Disp #*60 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis: ?odynophagia secondary to pharyngeal 
+outpouching
+Secondary diagnosis: paralyzed right vocal cord
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to take care of you here at ___. You were 
+found to have pain with swallowing that you have had since your 
+thyroid surgery in ___. The Ear-Nose-Throat doctors ___ that 
+___ a had an outpouching in your throat, specifically your 
+pharynx which could be causing you to be having some of your 
+symptoms. A biopsy was obtained and was pending at the time of 
+discharge. You were started on a medication to help with some of 
+the irritation that was found in your throat as well. You 
+received education about aspiration precautions, which you will 
+need to follow when you leave the hospital. Briefly, you should 
+sit upright when eating all meals. You should take small bites 
+and place a small amount of food in your mouth. You should also 
+drink a small amount of liquid after every bite. You will follow 
+up with the throat doctors in one week. You will also follow up 
+with a new primary care doctor at ___ who will 
+manage your general health.
+
+We wish you all the best in your recovery.
+
+Sincerely,
+
+Your ___ team
+ 
+Followup Instructions:
+___

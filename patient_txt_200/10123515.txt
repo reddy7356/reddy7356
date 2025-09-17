@@ -1,0 +1,383 @@
+===== DISCHARGE NOTE =====
+note_id=10123515-DS-6 | hadm_id=24841273
+
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+adhesive tape
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Melena
+ 
+Major Surgical or Invasive Procedure:
+ERCP ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with history of MI ___
+years ago), HFrEF (EF 40-45%), AF with RVR on warfarin+aspirin,
+choledocholithiasis s/p recent ERCP ___ with biliary
+sphincterotomy and stent placement and laparascopic
+cholecystetectomy ___ who transferred from ___ for
+melena. 
+ 
+She originally presented to ___ on ___ with
+lightheadedness, and was found to be in afib with RVR by EMS. 
+She
+was hospitalized ___ where workup revealed
+choledocholithiasis for which she underwent ERCP with
+sphincterotomy on ___. 
+
+During ERCP a stone in the CBD was not retrieved due to bleeding
+at the sphincterotomy site, so a stent was placed for 
+hemostasis.
+Plan was made for outpatient cholecystectomy with holding
+anticoagulation for afib for at least 48 hours. She was
+discharged on lovenox with plan to transition to oral
+anticoagulation on follow-up after cholecystectomy.
+  
+Due to worsening abdominal pain, she returned to the hospital 
+and
+was started on broad-spectrum abx, and was again found to be in
+afib with RVR. She then underwent laparascopic cholecystectomy
+___ for acute cholecystitis, choledocholithiasis, and
+gangrenous cholecystitis with hydrops at ___ with Dr.
+___. She was hospitalized ___. Discharge Hb 12.2. 
+
+In discussion with cardiology, she was deemed to not need
+bridging lovenox, but was continued on warfarin 3 mg daily for
+goal inr ___ to be monitored by ___ services and an event
+monitor, both of which would be monitored by Dr. ___
+cardiology.
+  
+She re-presented to ___ ___ with INR 5.05 ___s
+approximately 36 hours of black stools, 5+ BMs per day. She was
+given vit K 5mg IV and 40 mg IV protonix at OSH, transferred to
+___. Hb 10.3.
+
+Repeat INR on arrival 1.4. She was ordered for 2 units pRBC (Hb
+7.9 pre-transfusion) and underwent ERCP. 
+
+ERCP performed on ___. There was no blood on endoscopy. 
+Stent
+had migrated upwards into biliary tree, no e/o bleeding there  
+conclusion that she likely bled from sphincterotomy site, which
+resolved once INR corrected. Per ERCP, OK to restart warfarin 
+and
+OK to advance diet.
+
+After the procedure, patient feeling relatively well. She is
+"exhausted" but no focal complaints, no abdominal pain at all.
+Last BM 1.5 days ago, no melena or BRBPR. No chest pain, 
+dyspnea.
+ 
+
+ 
+Past Medical History:
+HTN
+HLD
+CAD
+HFrEF, EF 45% (___)
+Breast cancer s/p lumpectomy/radiation therapy
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be non-contributory to presentation.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+========================  
+VITALS: 98.6PO 130 / 72 87 18 91 RA   
+GENERAL: Alert and interactive. In no acute distress.  
+HEENT: PERRL, EOMI.  
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. 
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.  
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. 
+EXTREMITIES: No clubbing, cyanosis; 1+ pitting edema in ankles
+bilaterally.
+SKIN: Warm. No rash.  
+NEUROLOGIC: AOx3. Moving all 4 limbs spontaneously.  
+
+DISCHARGE PHYSICAL EXAM:  
+========================  
+24 HR Data (last updated ___ @ 338)
+    Temp: 97.9 (Tm 98.4), BP: 145/76 (108-145/58-79), HR: 76
+(76-88), RR: 18, O2 sat: 93% (92-96)  
+GENERAL: NAD. 
+CARDIAC: Event monitor on L. chest wall. RRR, nml s1 s2, no mrg. 
+
+LUNGS: CTAB. 
+ABDOMEN: Soft, nd nt. 
+EXTREMITIES: Warm, non-pitting doughy lower extremities.  
+ 
+Pertinent Results:
+ADMISSION LABS:
+================
+___ 07:08PM BLOOD WBC-8.0 RBC-2.86* Hgb-8.8* Hct-27.5* 
+MCV-96 MCH-30.8 MCHC-32.0 RDW-14.5 RDWSD-51.1* Plt ___
+___ 07:08PM BLOOD Neuts-64.6 ___ Monos-8.0 Eos-2.9 
+Baso-0.5 Im ___ AbsNeut-5.17 AbsLymp-1.80 AbsMono-0.64 
+AbsEos-0.23 AbsBaso-0.04
+___ 07:08PM BLOOD ___ PTT-28.9 ___
+___ 07:08PM BLOOD Glucose-93 UreaN-24* Creat-0.6 Na-139 
+K-4.6 Cl-104 HCO3-24 AnGap-11
+___ 07:08PM BLOOD ALT-25 AST-45* AlkPhos-262* TotBili-0.4
+___ 07:08PM BLOOD cTropnT-<0.01
+___ 07:08PM BLOOD Lipase-40
+___ 07:08PM BLOOD Albumin-2.5* Calcium-8.0* Phos-3.3 Mg-2.0
+
+DISCHARGE LABS:
+================
+___ 07:25AM BLOOD WBC-6.5 RBC-3.44* Hgb-10.3* Hct-32.4* 
+MCV-94 MCH-29.9 MCHC-31.8* RDW-14.9 RDWSD-51.2* Plt ___
+___ 07:25AM BLOOD Glucose-98 UreaN-7 Creat-0.5 Na-141 K-4.0 
+Cl-104 HCO3-26 AnGap-11
+
+REPORTS:
+================
+ 
+
+ 
+___ 8:00 am URINE
+
+   URINE CULTURE (Preliminary): 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    32 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+___ ERCP:
+Limited views of esophagus, stomach. Periampullary diverticulum. 
+Ampulla was adjacent to the diverticulum. No stent seen on 
+endoscopic view. No bleeding or stigmata of bleeding. 
+Sphicterotome was used to cannulate the ampulla. Fluoroscopy 
+showed that the stent had migrated into the CBD. No evidence of 
+bleeding or stimagata throughout examined esophagus, stomach, or 
+duodenum. 
+
+ 
+ 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with history of MI ___ 
+years ago), HFrEF (EF 40-45%), AF with RVR on warfarin+aspirin, 
+choledocholithiasis s/p recent ERCP ___ with biliary 
+sphincterotomy and stent placement and laparascopic 
+cholecystetectomy ___ who transferred from ___ for 
+melena and anemia in setting of supratherapeutic INR. 
+
+ACUTE ISSUES:
+=============
+# Melena
+# Supratherapeutic INR
+# Anemia ___ acute GI bleed
+# Choledocholithiasis s/p ERCP and CCY
+Patient with choledocholithiasis s/p ERCP ___ with 
+sphincterotomy and stent, cholecystectomy ___, p/w melena and 
+anemia likely from supratherapeutic INR and post-sphincterotomy 
+bleed. Hgb at admission was 8.8 (down to 7.9 on ___ she 
+required 2U pRBC and Hgb increased appropriately. Repeat ERCP on 
+___ with no bleeding, presumed to have stopped after INR 
+corrected. Prior to discharge, she was switched from warfarin to 
+apixaban, particularly given pt was supratherapeutic on warfarin 
+and possible supratherapeutic levels in the future were felt to 
+be a risk for rebleed. Will need repeat ERCP in one week for 
+stent removal; per Dr ___ eliquis 2 days prior to ERCP 
+(not scheduled at time of discharge). Okay to continue ASA. 
+Started PPI prior to discharge per GI. 
+
+# Afib
+CHADSVasc 5 (age, sex, HTN, CHF). New diagnosis in last month in 
+setting of biliary pathology above, multiple episodes of RVR. 
+This admission in sinus rhythm; adequate rate control with 
+metoprolol while inpatient. Attempted to contact outpatient 
+cardiologist via email, but did not hear back. As above, she was 
+switched from warfarin to Eliquis 5mg bid (Weight 73.2kg, 161.38 
+lbs). We reached out to Pharmacy, as pt would have to pay $50 
+for 15-day supply. Discussed this with patient and family; they 
+are willing to pay higher ___ for Eliquis for now (other DOACs 
+were more expensive). Pharmacy helped apply pt for voucher and 
+will discuss with patient re: additional insurance/assistance 
+programs to help make this more affordable. Discussed risks and 
+benefits of NOAC with patient, including that warfarin was much 
+more easily reversible but also carried the risk of 
+supratherapeutic levels. We overall felt that NOAC would be 
+safer given that it would avoid the risk of supratherapeutic 
+dosing, as this an INR of 5 was the likely trigger for her 
+recent bleed which then resolved after INR decreased.
+
+# Transaminitis
+AST elevated to 45 at admission, has had transaminitis in the 
+past. ___ be ___ etoh use based on LFT pattern, statin + 
+ezetimbe use (see below), and recent cholelithiasis and 
+cholecystitis. Elevated ALT 41 and AST 77 at discharge, which 
+warrants further outpatient followup.
+
+# Electrolytes
+Patient with hypoMg and hypoK on previous admissions and 
+prescribed PO supplements. 
+
+# Weakness
+Patient has felt weaker for past 3 weeks given multiple 
+hospitalizations for biliary pathology and reduced ambulation. 
+At baseline, patient is independent with ADLs. Currently, 
+patient is using walker. Per patient's request and Physical 
+Therapy evaluation, patient to continue increasing physical 
+exercise at home with help of ___.
+
+CHRONIC ISSUES:
+===============
+# CAD: Remote history of MI, ___ TTE with clear septal 
+anterior apical WMA, no cardiac symptoms at present. Continue 
+ASA 81 mg. Outpatient cardiology follow up.
+
+# HFrEF: On ___ ___ TTE, LVEF 45%, clear septal 
+anterior apical WMA. Continued furosemide 20 mg PO qD PRN for 
+ankle swelling. Continue metoprolol given reduced EF.
+
+# HLD: Ezetimibe-simvastatin ___ mg PO qD replaced with 
+simvastatin while hospitalized as the combination was not 
+available on inpatient formulary. Continue ASA as above.
+
+TRANSITIONAL ISSUES
+===================
+[]Recheck CBC, LFTs. Monitor for further GI bleeds. 
+[]GI to schedule repeat ERCP for stent removal in 1 week.
+[]Per Dr. ___: Hold Eliquis 2 days prior to repeat 
+ERCP if okay with cardiologist. Okay to continue ASA 81mg qd. GI 
+will also call patient to confirm this plan. 
+[]Will need outpatient Cardiology f/u for Afib. 
+[] switched from warfarin to apixaban as above
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Warfarin 3 mg PO DAILY16 
+2. Furosemide 20 mg PO DAILY:PRN ankle swelling 
+3. Magnesium Oxide 800 mg PO BID 
+4. Potassium Chloride 20 mEq PO DAILY 
+5. Aspirin 81 mg PO DAILY 
+6. Metoprolol Tartrate 50 mg PO BID 
+7. ezetimibe-simvastatin ___ mg oral DAILY 
+8. Cyanocobalamin Dose is Unknown  PO DAILY 
+9. Vitamin D3 (cholecalciferol (vitamin D3)) 2,000 unit oral 
+DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 5 mg PO BID atrial fibrillation  
+2.  Pantoprazole 40 mg PO Q24H  
+3.  Cyanocobalamin 100 mcg PO DAILY  
+4.  Aspirin 81 mg PO DAILY 
+You may need to stop this before the GI stent removal. Please 
+discuss this with them.  
+5.  ezetimibe-simvastatin ___ mg oral DAILY  
+6.  Furosemide 20 mg PO DAILY:PRN ankle swelling  
+7.  Magnesium Oxide 800 mg PO BID  
+8.  Metoprolol Tartrate 50 mg PO BID  
+9.  Potassium Chloride 20 mEq PO DAILY  
+10.  Vitamin D3 (cholecalciferol (vitamin D3)) 2,000 unit oral 
+DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Acute blood loss anemia secondary to gastrointestinal bleed
+Supratherapeutic INR
+
+SECONDARY DIAGNOSES
+===================
+Atrial fibrillation
+Choledocholithiasis status post cholecystectomy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+====================== 
+DISCHARGE INSTRUCTIONS 
+====================== 
+Dear ___ was a privilege caring for you at ___. 
+
+WHY WAS I IN THE HOSPITAL? 
+- You were seen at ___ for multiple black stools caused by GI 
+bleeding after your gallbladder removal. This was probably 
+because your blood was very thin due to taking warfarin. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL? 
+- We gave you some blood. 
+- We did a repeat procedure on ___ which showed there was 
+no active bleeding. 
+- We stopped your warfarin and started you on a new blood 
+thinner called "Eliquis (apixaban)." 
+- We also started you on a medication called pantoprazole. The 
+GI doctors would ___ to take this medication given concern 
+for GI bleeding. 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL? 
+- Continue to take all your medicines and keep your 
+appointments.
+- We are working on making your Eliquis more affordable. Please 
+contact our Pharmacy Department at ___. We also applied 
+for a voucher on your behalf to try to make this medication more 
+affordable. 
+- The GI Department is working on scheduling a repeat procedure 
+to remove the stent in your gut. If you do not hear back from 
+them in ___ business days, please call them at ___. You 
+will need to stop taking your Eliquis 2 days prior to the 
+procedure. Please make sure you confirm when to hold your 
+blood-thinning medication (Eliquis) when you speak with them. 
+
+We wish you the best! 
+
+Sincerely, 
+Your ___ Team 
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,3036 @@
+===== DISCHARGE NOTE =====
+note_id=11017644-DS-15 | hadm_id=21621302
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Acute on chronic mesenteric ischemia
+ 
+Major Surgical or Invasive Procedure:
+___ angioplasty
+SMA angioplasty
+Ex-lap and small bowel resection
+Chest thoracostomy
+Angiogram
+Intubation
+
+ 
+History of Present Illness:
+___ with chronic mesenteric ischemia s/p ___ stent ___ 
+(___) presents with two week history of central abdominal 
+pain localizing to LLQ.  She has also experienced nausea and 
+vomiting following meals.  She has lost 17
+lbs over the last month.  She has not experienced any fever / 
+chills / diarrhea / blood in the stool / constipation / dysuria 
+ 
+Past Medical History:
+PMH: MI early ___, s/p cardiac cath, no intervention
+PSH: ___ stenting ___, ___ stenting ___, Ex-lap and SBR
+___, take back for bleeding ___, SMA stenting 
+___,
+hysterectomy
+
+ 
+Social History:
+___
+Family History:
+Brother and mother with DM. Denies any GI disease in her family.
+
+ 
+Physical Exam:
+PHYSICAL EXAM on presentation
+Vital Signs: Temp: 97.2 RR: 20 Pulse: 92 BP: 110/65  
+Neuro/Psych: Oriented x3, Affect Normal, NAD. 
+Neck: No masses, Trachea midline, Thyroid normal size,
+non-tender, no masses or nodules, No right carotid bruit, No 
+left
+carotid bruit. 
+Nodes: No clavicular/cervical adenopathy, No inguinal 
+adenopathy.
+
+Skin: No atypical lesions. 
+Heart: Regular rate and rhythm. 
+Lungs: Clear, Normal respiratory effort. 
+Gastrointestinal: Non distended, No masses, No hernia, No AAA,
+abnormal: Tender LLQ, guarding, no rebound. 
+Extremities: No popiteal aneurysm, No femoral bruit/thrill, No
+RLE edema, No LLE Edema, No varicosities, No skin changes. 
+ 
+Pulse Exam (P=Palpation, D=Dopplerable, N=None)
+RUE Radial: P. Ulnar: P. Brachial: P. 
+LUE Radial: P. Ulnar: P. Brachial: P. 
+RLE Femoral: P. Popiteal: P. DP: P. ___: P. 
+LLE Femoral: P. Popiteal: P. DP: P. ___: P. 
+
+Physical Exam on DC:
+NADS
+Clear, not labored
+RRR
+soft, staples c/d/i, ND, NT
+No c/c/e
+ 
+Pertinent Results:
+CT ___ 
+1. Marked improvement in appearance of the lungs, compatible 
+with resolution of ARDS. Previously present pneumothorax is also 
+resolved. Small bilateral pleural effusions are decreased in 
+size. There is residual atelectasis, most apparent posteriorly 
+in the right lower lobe. Nodular densities as above may 
+represent resolving inflammatory change, though attention on 
+follow-up examinations is warranted. 
+2. No evidence of pulmonary embolus, as questioned. 
+3. Hyperdense collection within the right axilla/right chest 
+wall, with focus of hyperdensity on post-contrast imaging. This 
+is compatible with hematoma with active extravasation, though 
+this may be venous.  
+4. Diffuse dilation of the small bowel, without definite 
+transition point, 
+and without imaging evidence of ischemia. This most likely 
+reflects ileus. 
+5. Decreased free fluid in the pelvis, with no loculated fluid 
+collection to suggest abscess formation. 
+6. Redemonstration of high-grade stenosis at the origin of the 
+celiac axis, patent SMA stent, and occlusion of ___ stent. 
+7. Known right adrenal lesion, previously characterized as an 
+adenoma. 
+
+CXR: SINGLE PORTABLE UPRIGHT VIEW OF THE CHEST: A right 
+subclavian line has been removed, the left upper extremity PICC 
+terminates with the catheter tip just above the cavoatrial 
+junction in the distal SVC. Bibasilar lung opacities have 
+continually improved, with no current consolidation. Small 
+residual left pleural effusion is seen. A soft tissue density at 
+the right pleural surface laterally is is decreased from prior 
+radiographs. There is no evidence of persistent pneumothorax. 
+Multiple right-sided chronic rib fractures are seen. 
+
+___ 03:56AM BLOOD WBC-4.5 RBC-3.19* Hgb-10.0* Hct-29.5* 
+MCV-93 MCH-31.4 MCHC-34.0 RDW-17.7* Plt ___
+___ 06:16AM BLOOD Hct-31.3*
+___ 04:02AM BLOOD ___ PTT-25.7 ___
+___ 01:55PM BLOOD Neuts-65.5 Bands-0 ___ Monos-7.5 
+Eos-1.0 Baso-0.6
+___ 06:16AM BLOOD Glucose-97 UreaN-12 Creat-0.4 Na-136 
+K-4.2 Cl-105 HCO3-25 AnGap-10
+___ 04:02AM BLOOD ALT-30 AST-21 AlkPhos-147* TotBili-3.8*
+___ 06:16AM BLOOD Calcium-7.9* Phos-3.7 Mg-1.9
+ 
+Brief Hospital Course:
+Patient was admitted to Dr. ___ surgery 
+service on ___. Her surgeries were as follows - ___, 
+ex-lap and small bowel resection; ___, ex-lap and small 
+bowel resection (second look), angiogram, angioplasty of ___, 
+take-back later that evening for bleeding; ___, angiogram, 
+angioplasty and stenting of SMA. Patient stayed in the ICU for 
+monitoring and observation. She was eventually extubated, 
+maintained on TPN for nutrition, and transferred to general 
+floor on ___. On discharge, she was tolerating a regular 
+diet with daily TPN (due to inadequate caloric intake) via PICC 
+line access, on room air with normal bowel function. 
+
+Her hospital course can be summarized by the following review of 
+symptoms - 
+
+Neuro: Patient with minimal pain and only requiring Tylenol with 
+relief of symptoms on discharge. She was started on Seroquel 
+while in ICU for delirium and ICU psychosis which resolved since 
+transfer from the unit. She continues to take that medication as 
+needed for insomnia.
+
+Pulm: Patient did develop an iatrogenic pneumothorax from a 
+central line access change. Chest tube was placed and then 
+removed with resolution. Intubated for respiratory distress from 
+hypovolemic shock. She was treated briefly for ventilator 
+associated pneumonia with broad spectrum antibiotics. Patient 
+self-extubated and did require re-intubation due to respiratory 
+distress. She was eventually extubated and maintained normal 
+oxygen saturations. She is discharged on room air. 
+
+Cardio: No cardiac issues. Echo performed showing normal 
+biventricular cavity sizes with preserved global and regional 
+biventricular systolic function and prominent epicardial fat 
+pad. Did not require vasopressor support. 
+
+GI: Had an exploratory laparotomy and small bowel resection. 
+Observed closely in the ICU. Chronic malnourished state, 
+requiring TPN for additional caloric intake. She was advanced to 
+a regular diet on discharge. Tolerating without issues but still 
+taking inadequate amounts. Patient's stool output was followed 
+closely to avoid dehydration. All C.diff stool tests were 
+negative. Pls continue to use famotidine (included in TPN). 
+
+Renal: Patient auto-diuresing without issues. Renal asked to 
+consult for polyuria. Cultures negative for UTI. Recommendations 
+to decrease the solute concentrate in TPN. Continues to urinate 
+without issues.
+
+ID: Treated for ischemic bowel and given antibiotics for 
+ventilator associated pneumonia. Her course was completed. WBC 
+was 4.5 on discharge and continues to be afebrile. Discharged on 
+no antibiotics.
+
+Heme: Patient will be discharged on aspirin and Plavix for stent 
+prophylaxis. She should continue to be on subcutaneous heparin 
+for DVT prophylaxis.
+
+Endo: Patient placed on an insulin sliding scale for coverage. 
+No issues with 
+hypo/hyperglycemia
+
+Dispo: to rehab
+
+ 
+Medications on Admission:
+Off clopidogrel [Plavix] for 2 weeks; ranitidine HCl [Zantac]; 
+simvastatin; aspirin
+
+ 
+Discharge Medications:
+1. heparin (porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day): DC when ambulatory.  
+2. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as 
+needed for dyspnea.  
+5. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours).  
+6. quetiapine 25 mg Tablet Sig: One (1) Tablet PO QHS (once a 
+day (at bedtime)) as needed for sleep.  
+7. TPN
+Volume(ml/d) Amino Acid(g/d) Dextrose(g/d) Fat(g/d) 
+1300         60              280           30 
+
+NaCLNaAcNaPO4KClKAc KPO4 MgS04  ___
+___  30  179
+
+Famotidine(mg) Insulin(units) Zinc(mg) 
+40             37             10 
+
+Cycle over (hrs.) 
+8. PICC
+Heparin Flush (10 units/ml) 2 mL IV PRN line flush 
+PICC, heparin dependent: Flush with 10mL Normal Saline followed 
+by Heparin as above daily and PRN per lumen. 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Bowel ischemia
+ARF, resolved
+Anemia secondary to blood loss, reqiuiring blood transfusions
+Pneumothorax with chest tube
+Associated VAP PNA, treated briefly
+Post op delerim - serequel and geriatric consult. Now resolved
+Post op illeus
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Signs and symptoms of intestinal ischemia may develop suddenly 
+(acute intestinal ischemia) or they may develop gradually over 
+time (chronic intestinal ischemia). 
+
+Symptoms of acute intestinal ischemia 
+Signs and symptoms of acute intestinal ischemia typically 
+include: 
+
+Sudden abdominal pain that may range from mild to severe 
+An urgent need to have a bowel movement 
+Frequent, forceful bowel movements 
+Abdominal tenderness or distention 
+Blood in your stool 
+Nausea, vomiting 
+Fever 
+Symptoms of chronic intestinal ischemia 
+Signs and symptoms of chronic intestinal ischemia can include: 
+
+Abdominal cramps or fullness, beginning within 30 minutes after 
+eating and lasting one to three hours 
+Abdominal pain that gets progressively worse over weeks or 
+months 
+Fear of eating because of subsequent pain 
+Unintended weight loss 
+Diarrhea 
+Nausea, vomiting 
+Bloating 
+Chronic intestinal ischemia may progress to an acute episode. If 
+this happens, you might experience severe abdominal pain after 
+weeks or months of bouts of intermittent pain after eating. 
+
+When to see a doctor 
+___ immediate medical care if you have sudden, severe abdominal 
+pain. Pain that makes you so uncomfortable that you can't sit 
+still or find a comfortable position is a medical emergency. 
+
+If you have other signs or symptoms that worry you, make an 
+appointment with your doctor. 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11017644-DS-26 | hadm_id=22307900
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Percocet / Fish Containing Products
+ 
+Attending: ___.
+ 
+Chief Complaint:
+anemia 
+ 
+Major Surgical or Invasive Procedure:
+EGD ___
+
+ 
+History of Present Illness:
+___ w/ hx MI status post stenting, mesenteric ischemia status 
+post aorto SMA stenting, recent admission for painless hematuria 
+and anemia after accidental overdose on Coumadin recently 
+started on xarelto presents with worsening shortness of breath 
+improved with prbcs. Over ___ days she has felt more short and 
+DOE woth movingl  She denied ___ bleeding.  She notes 
+new bilateral abdominal pain.  She denies fever,
+chills, nausea, vomiting, diarrhea.  She denies CP.
+
+Per ED, she had a syncopal episode while climbing up stairs but 
+was caught and did not fall. She was seen at PCP today found to 
+be anemic with hemoglobin 5, seen at ___ where she was found to 
+be anemic and given protonix and 2 U prbc with improvement in 
+symptoms. Denies abdominal pain. Per transfer history brown 
+"scantly" heme + stool.  ED repeated rectal exam and was heme 
+negative but they recorded it as a limited exam.
+ 
+Past Medical History:
+- Coronary artery disease (per OMR had myocardial infarction in 
+___ without intervention)
+- Peripheral arterial disease with ___ angioplasty and stent in 
+___, repeat angioplasty and stenting of the ___ as well as 
+angioplasty and stenting of the SMA with ex lap and small bowel 
+resection in ___, balloon angioplasty of SMA stent in ___, 
+aorta celiac/SMA bypass later in ___, ex lap with LOA and 
+thrombectomy of SMA bypass with saphenous vein patch of SMA 
+bypass in ___
+- Ischemic colitis / Mesenteric ischemia
+- Cholecystitis s/p percutaneous cholecystostomy tube
+- Hysterectomy
+- COPD
+ 
+Social History:
+___
+Family History:
+-Mother: ___
+-Brother: ___
+ 
+Physical ___:
+-Vitals: reviewed 
+-General: NAD, resting comfortably in bed. Appears more alert, 
+interactive, and comfortable than yesterday. 
+-HENT: atraumatic, normocephalic, moist mucus membranes 
+-Eyes: PERRL, EOMi
+-Pulmonary: no respiratory distress 
+-GI: soft, right lower quadrant tenderness overall improved from 
+yesterday, bowel sounds present 
+-GU: no foley 
+-MSK: No pedal edema, no joint swelling 
+-Skin: No rashes, ulcerations, or jaundice
+-Neuro: no focal neurological deficits, CN ___
+-Psych: appropriate mood and affect
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 07:40PM BLOOD WBC-5.1 RBC-2.73* Hgb-7.9* Hct-25.2* 
+MCV-92 MCH-28.9 MCHC-31.3* RDW-20.0* RDWSD-66.1* Plt ___
+___ 07:40PM BLOOD Neuts-54.7 ___ Monos-10.2 
+Eos-0.8* Baso-0.4 NRBC-1.6* Im ___ AbsNeut-2.79 
+AbsLymp-1.71 AbsMono-0.52 AbsEos-0.04 AbsBaso-0.02
+___ 07:40PM BLOOD ___ PTT-27.0 ___
+___ 07:45AM BLOOD Ret Aut-5.0* Abs Ret-0.14*
+___ 07:40PM BLOOD Glucose-93 UreaN-9 Creat-0.6 Na-141 K-4.3 
+Cl-106 HCO3-22 AnGap-13
+___ 07:45AM BLOOD ALT-8 AST-12 LD(LDH)-157 AlkPhos-74 
+TotBili-0.9 DirBili-0.4* IndBili-0.5
+___ 07:40PM BLOOD Calcium-7.8* Phos-3.8 Mg-1.8
+___ 07:45AM BLOOD calTIBC-293 ___ Ferritn-16 TRF-225
+___ 07:52PM BLOOD Lactate-1.3
+
+DISCHARGE LABS
+N/A
+
+IMAGING/STUDIES
+-CT ABDOMEN/PELVIS ___: 1. No retroperitoneal hematoma or 
+evidence of other acute abdominopelvic pathology. 2. Unchanged 
+left adrenal adenoma. 3. Cholelithiasis.
+
+-CTA ABDOMEN/PELVIS W/ contrast ___: -No evidence of active 
+extravasation or alternative explanation for the patient's acute 
+anemia. -Chronically occluded SMA and ___ stents. No evidence of 
+bowel ischemia. -Ill-defined hypodensities scattered throughout 
+the spleen may suggest splenic
+infarct or perfusional anomaly. -Stable left adrenal gland 
+lesion, likely an adenoma. -Gallstones without evidence of 
+cholecystitis.
+
+-KUB ___: Nonspecific, nonobstructive bowel gas pattern.
+
+-KUB ___: Gaseous distension of both large and small bowel 
+loops extending to the rectum
+most consistent with ileus.
+ 
+Brief Hospital Course:
+___ h/o CAD, mesenteric ischemia s/p aorto SMA stenting, PAD w/ 
+multiple angioplasties/stentings, ischemic colitis/Mesenteric 
+ischemia who was seen by her PCP after near syncope found to 
+have anemia hemoglobin 5.  She was first sent to ___ 
+___ where she received 2Units of PRBC and was then 
+transferred to ___ for higher level care.
+
+1. Acute on chronic normocytic anemia h/o hematuria and GI bleed
+-Hemoglobin at ___'s office and ___ prior to 
+admission was ___ s/p 2Units PRBC. Heme occult positive with 
+reports of ___ prior to admission.  Patient with recent 
+hospitalization w/ hematuria while on coumadin w/ accidental 
+overdose w/ supra therapeutic INR 14.  She was switched to 
+xarelto with resolution of hematuria. CTA w/out evidence of 
+retroperitoneal or GI bleed. Labs not consistent w/hemolysis. 
+Labs also not consistent with pancytopenia suggesting marrow 
+pathology. During last admission there were investigations into 
+anemia without any etiology.  Last colonoscopy and EGD ___ 
+grossly normal other than transverse colon stricture. She is due 
+for repeat colonoscopy ___. GI consulted with plans for 
+colonoscopy and EGD.  EGD ___ grossly normal.   Hemoglobin 
+was stable after initial transfusion.  Aspirin and xarelto were 
+held. 
+
+2. Abdominal pain  
+-Despite h/o ischemic/mesenteric ischemia, a CTA at time of 
+admission was without evidence of ischemia and her lactate was 
+normal.  KUB noted illeus as likely cause of pain.  However, on 
+___ AM she developed acute abdominal pain and was found to 
+have lactate of 10.5. CTA was obtained that showed new acute 
+occlusion of the SMA limb of the supra-celiac aorta- SMA bypass. 
+Discussions were had with the patient regarding her goals of 
+care and she wanted everything done at this time.  She was 
+urgently taken to the operating room and underwent angiogram, 
+which confirmed an occluded graft (with both limbs occluded).  
+She then underwent thrombectomy and placement of a TPA lysis 
+catheter.  Overnight, her lactate continued to rise, and she was 
+hemodynamically unstable, requiring pressors and increasing vent 
+settings.  Early in the morning, she was taken again to the 
+operating room for a repeat angiogram, this time with both 
+vascular surgery and the acute care general surgery service.  
+She underwent an exploratory laparotomy, extensive lysis of 
+adhesions, arteriotomy of the previous vein patch in her Dacron 
+graft, and open thrombectomy.  Although Doppler confirmed 
+re-established inflow, there was evidence of poor back bleeding, 
+and suspected distal thrombosis that could not be reached.  A 
+segment of small bowel was found to have a perforation, and as a 
+result, that small section of bowel was resected.  Her remaining 
+bowel appeared dusky.  She was left in discontinuity with an 
+abdominal wound vac and plans for ongoing resuscitation.  At the 
+time of transfer from the operating room to the ICU, she was 
+requiring three pressors for support and her lactate had risen 
+to 19.  Her metabolic acidosis worsened and she continued to 
+require high dose pressors.  
+
+3. Multiorgan failure and septic shock
+By ___, ___ had developed evidence of end organ ischemia 
+involving multiple organs.  She had renal failure (became 
+anuric), liver failure (elevated liver enzymes) and poor 
+perfusion (upper and lower extremities mottled with weak 
+pulses).  Her family was informed of her grim prognosis.  The 
+likely cause was septic shock.  Ongoing discussions were had 
+regarding goals of care.  Ultimately, the family and HCP decided 
+to change her code status from full code to do not resuscitate 
+on ___.  They then decided to pursue comfort measures only 
+and ___ expired quickly thereafter.  She was pronounced dead at 
+2:58pm on ___.  The family declined an autopsy and the 
+decision was made not to call the medical examiner.
+
+3. Syncope/near syncope h/o orthostatic hypotension
+-Clinical presentation consistent with symptomatic anemia.
+-Was continued on fludrocortisone.
+
+4. Nausea/vomiting
+-KUB without obstruction, otherwise no clear etiology at first.  
+Was given PRN antiemetics.
+-Troponin on admission negative (?nausea as angina equivalent). 
+
+5. Hypokalemia, hypomagnesemia
+-Likely in setting of vomiting and prep-induced diarrhea.
+-Monitored and repleted as needed. 
+
+CHRONIC MEDICAL PROBLEMS
+1. Ischemic colitis and mesenteric ischemia s/p stenting w/ 
+chronic in-stent thrombosis, PAD, CAD: held aspirin and xarelto 
+on admission, as CTA initially not concerning for ischemic 
+colitis. Continued statin. 
+2. COPD: not on any medications
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Rivaroxaban 20 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. Cyanocobalamin 1000 mcg PO DAILY 
+5. Miconazole Nitrate Vag Cream 2% 1 Appl VG QHS 
+6. Multivitamins W/minerals 1 TAB PO DAILY 
+7. Fludrocortisone Acetate 0.1 mg PO DAILY 
+8. Polyethylene Glycol 17 g PO BID 
+
+ 
+Discharge Medications:
+none, n/a
+ 
+Discharge Disposition:
+Expired
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute on chronic anemia
+Ischemic/mesenteric colitis s/p stenting w/ chronic instant 
+thrombosis 
+Abdominal pain, nausea/vomiting 
+Septic shock
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+To the family of Ms. ___
+
+___ are so sorry for your loss.  We hope you find peace and 
+comfort in knowing that we did everything possible to try to 
+help Ms. ___ while she was with us.
+
+-Your ___ team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11017644-DS-24 | hadm_id=22874908
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Melena
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with a history of MI, PVD, 
+mesenteric ischemia s/p SMA bypass, most recently s/p exlap and 
+SMA thrombectomy on Coumadin who is presenting with dark stools, 
+lightheadedness and shortness of breath found to have an INR of 
+8.5 and Hgb 6.1.
+
+Per patient, she was called today and notified that her INR was 
+8.5. Patient denies chest pain. She states that for the past 
+week she has noticed dark stools, but denies blood. She also 
+endorses a lightheadedness after she stands up as well as a 
+dyspnea on exertion for the past 2 days. She denies fevers, 
+chills, but endorses a recent upper respiratory illness.
+
+Patient was tearful about admission in the ED and wanted to 
+leave against medical advice. She was advised that her blood was 
+thin and blood counts were low, would be very dangerous to leave 
+hospital. After discussion patient agreed to stay. Patient well 
+appearing, asymptomatic, HDS.  
+
+In the ED, initial VS were 98.4 71 101/52 18 100% RA .  
+
+Exam notable for:  
+Lungs clear to auscultation, no lower extremity edema, brown 
+guaiac positive stool  
+
+Imaging showed No acute cardiopulmonary abnormalities.
+
+The patient initially had an INR of 7.8 and hemoglobin of 6.1.  
+She received 10 mg IV vitamin K.  She received 3 units of PRBCs. 
+ On recheck her INR was 1.7 and her hemoglobin trended up to 
+8.9.  She was also given IV pantoprazole. GI was consulted, and 
+they recommended inpatient versus outpatient colonscopy pending 
+clinical course(ie not responding to transfusions, or continued 
+melena). Vascular surgery recommended: continuation of aspirin 
+and statin and resumption of warfarin when stable. 
+
+Upon arrival to the floor, patient reports that she is feeling 
+better and would like to eat. Her last episode of bloody bowel 
+movements was earlier this AM. She shares that intermittently 
+her INR will become low, and she will be called to increase her 
+dose, which happened recently (most recently 3 mg 4x/week, 6 mg 
+3x/week). She uses a pill box to keep track of her warfarin. She 
+denies any new medications or dietary changes recently.
+Of note, patient does report history of easy bleeding including 
+gingival bleeding, also has had heavy periods such that she 
+required hysterectomy. Unclear if she had ever been evaluated 
+for bleeding/clotting disorders in past. 
+
+ 
+Past Medical History:
+– Coronary artery disease (per OMR had myocardial infarction in 
+___ without intervention)
+– Peripheral arterial disease with ___ angioplasty and stent in 
+___, repeat angioplasty and stenting of the ___ as well as 
+angioplasty and stenting of the SMA with ex lap and small bowel 
+resection in ___, balloon angioplasty of SMA stent in ___, 
+aorto-celiac/SMA bypass later in ___, ex lap with LOA and 
+thrombectomy of SMA bypass with saphenous vein patch of SMA 
+bypass in ___
+– Ischemic colitis / Mesenteric ischemia
+– Cholecystitis status post percutaneous cholecystostomy tube
+– Hysterectomy
+- COPD
+
+ 
+Social History:
+___
+Family History:
+Brother and mother with DM. 
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:
+===========================
+Vitals: 98.3 116/62 70 18 97% RA 
+General: Alert, oriented, no acute distress, pale appearing  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: Supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, 2+ pulses, no clubbing, cyanosis or edema  
+Neuro: CNs2-12 intact, motor function grossly normal  
+
+PHYSICAL EXAM ON DISCHARGE:
+===========================
+Vitals: 98.5 113/64 66 18 98% RA
+General: Alert, oriented, no acute distress, pale appearing  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: Supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, 2+ pulses, no clubbing, cyanosis or edema  
+Neuro: CNs2-12 intact, motor function grossly normal  
+ 
+Pertinent Results:
+LAB RESULTS ON ADMISSION:
+=========================
+___ 12:28PM BLOOD WBC-5.0 RBC-2.21* Hgb-6.1* Hct-20.3* 
+MCV-92# MCH-27.6# MCHC-30.0* RDW-21.6* RDWSD-72.0* Plt ___
+___ 12:28PM BLOOD Neuts-57.0 ___ Monos-9.7 Eos-0.6* 
+Baso-0.2 NRBC-0.4* Im ___ AbsNeut-2.82 AbsLymp-1.58 
+AbsMono-0.48 AbsEos-0.03* AbsBaso-0.01
+___ 12:28PM BLOOD ___ PTT-59.1* ___
+___ 12:28PM BLOOD Glucose-133* UreaN-12 Creat-0.6 Na-139 
+K-3.7 Cl-106 HCO3-22 AnGap-15
+___ 12:28PM BLOOD cTropnT-<0.01
+___ 07:35AM BLOOD Calcium-7.9* Phos-3.6 Mg-2.0
+
+LAB RESULTS ON DISCHARGE:
+=========================
+___ 07:35AM BLOOD WBC-4.6 RBC-3.13* Hgb-8.9* Hct-27.3* 
+MCV-87 MCH-28.4 MCHC-32.6 RDW-20.3* RDWSD-62.1* Plt ___
+___ 07:35AM BLOOD ___ PTT-24.9* ___
+___ 07:35AM BLOOD Glucose-87 UreaN-10 Creat-0.6 Na-143 
+K-3.7 Cl-111* HCO3-23 AnGap-13
+___ 07:35AM BLOOD Calcium-7.9* Phos-3.6 Mg-2.0
+
+IMAGING:
+========
+___ CXR: No acute cardiopulmonary abnormalities. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old lady with history of MI, peripheral 
+vascular disease, recurrent mesenteric ischemia s/p SMA bypass, 
+most recently s/p ex-lap and SMA thrombectomy (___) on warfarin 
+who presented with melena, lightheadedness, and shortness of 
+breath in setting of acute blood loss anemia and 
+supratherapeutic INR.
+
+# Acute blood loss anemia
+# Melena
+Admission Hgb 6.1 in setting of INR 7.8. She received 10 mg IV 
+vitamin K as well as total of 3u pRBC and IV pantoprazole. She 
+was seen by GI who recommended consideration of inpatient versus 
+outpatient colonoscopy pending clinical course (i.e., inpatient 
+scope if not responding to transfusions or continued melena). 
+She was also seen by our vascular surgery team given history of 
+mesenteric ischemia who recommended aspirin, statin, as well as 
+resumption of warfarin when safe to do so, follow up with Dr. 
+___. 
+After admission, her H/H and BP were monitored closely, and she 
+remained hemodynamically stable and H/H stable. She had no 
+further episodes of melena. Warfarin was held until day of 
+discharge, management as below. On discharge Hgb 8.9. She will 
+require recheck CBC on ___ to ensure stable. 
+
+# Supratherapeutic INR
+Admission INR of 7.8, possible contributing factor of recent 
+corticosteroid use in setting of URI; there is some literature 
+to support interaction between predisone and warfarin ___ 
+Pharmacother. ___;40(12):2101-6). Otherwise patient denies 
+any change in vitamin K intake/diet changes, and shares that she 
+uses a pill box to keep track of her warfarin dosing. 
+
+Per patient she notes occasional episodes of low INR requiring 
+dose adjustments which is occasionally confusing, but she uses a 
+pill box to keep track of her medications and reports that she 
+has been taking her warfarin as instructed. No recent changes in 
+her diet. We briefly considered whether she would be a good 
+candidate for alternate anticoagulants such as the DOACs, 
+although upon further questioning it appears that patient has 
+had easy gum bleeding as well as heavy menses necessitating 
+hysterectomy in past, raising suspicion for possible bleeding 
+disorder such as vWD and overall would prefer reversible agent. 
+We did not send any testing while in house as she had received 
+transfusions and was recently on anticoagulation, but can 
+consider as outpatient. We opted to restart her on warfarin at 3 
+mg daily which per patient was prior home dose. Discharge INR 
+was 1.1. She will require recheck INR on ___. 
+
+# History of recurrent mesenteric ischemia: As above, seen by 
+vascular surgery while in house, recommended aspirin, statin, 
+and restarting warfarin. Of note, patient was not on aspirin or 
+statin at home despite history of PVD, recurrent mesenteric 
+ischemia, and report of MI. 
+
+# CAD: Started atorvastatin 40 mg daily, aspirin 81 mg daily. 
+Patient is not on betablocker, consider as outpatient. 
+
+TRANSITIONAL ISSUES:
+====================
+- Discharge Hgb 8.9, discharge INR 1.1
+[] Discharged on warfarin 3 mg daily, please recheck CBC and INR 
+on ___ and adjust warfarin dose as needed
+- Started aspirin 81 mg daily and atorvastatin 40 mg daily given 
+history of recurrent mesenteric ischemia, PVD, and CAD; patient 
+did not report any adverse reactions to these in past, unclear 
+why stopped
+[] Consider further work up of ?bleeding disorder as outpatient 
+given report of heavy menses, gum bleeding
+[] Consider beta blocker as outpatient given reported history of 
+CAD s/p MI
+
+# Contact: ___ (Daughter) ___
+# Code: Full
+
+Greater than 30 minutes spent in care coordination and 
+counseling on the day of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Warfarin Dose per patient 3 mg 4x/week, 6 mg 3x/week
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+3.  Warfarin 3 mg PO DAILY16 
+RX *warfarin [Coumadin] 3 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+4.Outpatient Lab Work
+Please redraw: CBC, ___ on ___
+Fax to:  ___ ___
+ICD-10: K55.9
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+Acute blood loss anemia
+Supratherapeutic INR
+
+SECONDARY DIAGNOSIS:
+====================
+History of mesenteric ischemia s/p multiple interventions 
+Peripheral vascular disease
+Reported history of MI
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking care of you at ___!
+
+You came to us because of black stools concerning for bleeding 
+from your gastrointestinal tract in the setting of a 
+supratherapeutic INR. 
+We do not have a definite answer as to why your INR was high 
+prior to coming in, although you did report taking prednisone, 
+which can sometimes interact with warfarin. 
+While you were here, we supported you with blood transfusions 
+and held your home warfarin. We also monitored your blood counts 
+closely. Our GI doctors and our ___ surgeons evaluated you, 
+and it was thought that you did not need an endoscopy as an 
+inpatient as you responded well to transfusions, and your stools 
+were no longer black. 
+
+We considered whether warfarin was the best medication for you 
+as you reported occasional fluctuations in your INR 
+necessitating changes in dosing, and some complexity in 
+management (as you would be on alternate day dosing). However, 
+at the same time, you reported that when you were younger you 
+had issues with heavy bleeding necessitating hysterectomy as 
+well as prolonged bleeding from your gums, hence we would prefer 
+an agent that can be reversed easily. Overall, we think that you 
+may benefit from testing for bleeding disorders, however we were 
+unable to do this in the hospital because you received 
+transfusions and the results would be difficult to interpret. As 
+you have the utmost confidence in your primary care doctor, we 
+shall leave this decision up to him and you. You will need 
+recheck labs to be drawn on ___ to make sure things are going 
+in the right direction.
+
+We also noticed that you were not on an aspirin or a statin 
+despite your reported history of a heart attack, peripheral 
+vascular disease, and recurrent episodes of mesenteric ischemia. 
+We and the vascular surgeons think that you would benefit from 
+an aspirin and statin, hence we restarted these at discharge.
+
+Please take care, we wish you the very best!
+
+Sincerely,
+Your ___ Care Team
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11017644-DS-21 | hadm_id=25679573
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+vomitting/abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+This patient is a ___ year old female who complains of ABD
+PAIN. She presents with a history of ischemic colitis,
+aortic bypass, CAD who presents with sudden onset of
+vomiting, NBNB emesis associated with bialteral rib pain
+which started after vomiting. She has had no black or bloody
+stools.
+ 
+PAST FAMILY AND SOCIAL HISTORY
+ 
+Nursing triage/initial assessment reviewed and confirmed
+ 
+Past Medical History: ischemic colon, CAD
+                  Medications: see list
+      Allergies and Reactions: Percocet
+ 
+
+ 
+Past Medical History:
+PMH: MI early 1990s, s/p cardiac cath, no intervention
+PSH: ___ stenting ___, ___ stenting ___, Ex-lap and SBR
+___, take back for bleeding ___, SMA stenting 
+___, hysterectomy
+
+ 
+Social History:
+___
+Family History:
+Brother and mother with DM. 
+ 
+Physical Exam:
+PHYSICAL EXAMINATION: upon admission: ___ 
+ 
+Temp: 97.2 HR: 65 BP: 162/61 Resp: 20 O(2)Sat: 100 Normal
+ 
+Constitutional: Comfortable, chronically ill appearing
+HEENT: Normocephalic, atraumatic
+Chest: Clear to auscultation
+Cardiovascular: Regular Rate and Rhythm
+Abdominal: Soft, mild upper abd ttp
+GU/Flank: No costovertebral angle tenderness
+Extr/Back: No cyanosis, clubbing or edema
+Skin: No rash
+Neuro: Speech fluent
+
+Physical examination upon discharge:  ___:
+
+vital signs:  t=98.3, hr=60, bp=106/80,rr=18, oxygen saturation 
+98% room air
+
+General:  NAD
+CV:  ns1, s2, -s3, -s4
+LUNGS:  clear
+ABDOMEN:  soft, non-tender
+EXT:  no pedal edema bil., no calf tenderness bil
+NEURO:  alert and oriented x 3, speech clear, no tremors
+ 
+
+ 
+Pertinent Results:
+___ 05:48AM BLOOD WBC-4.6 RBC-3.13* Hgb-9.6* Hct-30.4* 
+MCV-97 MCH-30.8 MCHC-31.7 RDW-14.6 Plt ___
+___ 06:14AM BLOOD WBC-5.4 RBC-3.10* Hgb-9.7* Hct-29.8* 
+MCV-96 MCH-31.1 MCHC-32.4 RDW-14.9 Plt ___
+___ 10:35PM BLOOD Neuts-77.7* Lymphs-14.1* Monos-6.6 
+Eos-0.9 Baso-0.6
+___ 05:48AM BLOOD Plt ___
+___ 10:35PM BLOOD ___ PTT-28.1 ___
+___ 05:48AM BLOOD Glucose-98 UreaN-2* Creat-0.5 Na-143 
+K-3.9 Cl-110* HCO3-25 AnGap-12
+___ 06:14AM BLOOD Glucose-122* UreaN-4* Creat-0.5 Na-140 
+K-3.4 Cl-110* HCO3-23 AnGap-10
+___ 05:48AM BLOOD ALT-139* AST-39 AlkPhos-209* TotBili-0.4
+___ 05:48AM BLOOD Lipase-23
+___ 09:10AM BLOOD Lipase-21
+___ 10:35PM BLOOD Lipase-69*
+___ 05:48AM BLOOD Calcium-7.7* Phos-4.1# Mg-1.7
+
+___:  chest x-ray:
+
+No acute cardiopulmonary process
+
+___:  liver/gallbladder US:
+
+Thickened, edematous, hyperemic gallbladder wall associated with 
+
+cholelithiasis is compatible with acute cholecystitis.  Given 
+the absence of right upper quadrant pain, a HIDA scan or CT may 
+be useful.
+
+___:  CTA abdomen and pelvis:
+
+.  Gallbladder wall edema, hyperemia, and cholelithiasis are 
+highly 
+concerning for cholecystitis.  Despite the clinical absence of 
+right upper quadrant pain, there is no other obvious explanation 
+for the CT findings.  If uncertainty remains, a HIDA scan may be 
+useful for confirmation. 
+  
+2.  Note that the preliminary report described concern for 
+cholangitis based on CBD wall enhancment.  However, the duct is 
+not dilated.  Nor is there any pancreatic duct dilation to 
+indicate obstruction at the level of the ampula.   
+  
+2.  Stable occlusion of the celiac origin and SMA and ___ 
+stents.  Bifurcated super celiac aortic graft bypasses the SMA 
+and occluded celiac.  There is a stable high-grade stenosis at 
+the anastomosis of the graft with common hepatic artery but the 
+common hepatic arterial tree is well perfused. 
+
+___:  MRI of the abdomen:
+
+1. Cholelithiasis with pericholecystic fluid surrounding the 
+gallbladder and mild hyperemia within the adjacent hepatic 
+parenchyma.  While the gallbladder is not significantly 
+distended the appearances are suspicious for cholecystitis; a 
+HIDA scan can be obtained for further assessment.   
+  
+2. Supraceliac graft, assessment of the upper abdominal arterial 
+anatomy is limited by motion and metallic artifact and better 
+visualized on the recent CT.   
+  
+3. Adrenal adenomata within the left adrenal gland, unchanged in 
+size from the CT of ___. 
+  
+4. No evidence of choledocholithiasis or biliary dilatation. 
+
+___:  gallbladder scan:
+
+Normal hepatobiliary scan. 
+  
+
+  
+
+   
+  
+
+ 
+Brief Hospital Course:
+The patient was admitted to the hospital with vomitting and 
+abdominal pain.  Upon admission, she was made NPO, given 
+intravenous fluids, placed on unasyn and underwent imaging. She 
+was noted on blood work to have mild elevations of the liver 
+function tests.  Because of her presenting symptoms, she 
+underwent an ultra-sound of the gallbladder and liver which 
+showed numerous small stones in the neck of the gallbladder with 
+a thickened gallbladder wall. Despite these findings, she was 
+not tender on  examination.  The patient was placed on bowel 
+rest and underwent serial abdominal examinations. The white 
+blood cell count and liver function tests were closely 
+monitored.  On HD #2, the patient underwent a cat scan of the 
+abdomen which showed a distended hyperemic gallbladder with wall 
+edema and pericholecystic fluid. Small gallstones were seen 
+layering in the fundus. These findings were concerning for  
+cholangitis and cholecystitis. For further investigation of the 
+biliary tree, an MRI was obtained to investigate for biliary 
+stones. Stones and sludge were seen in the gallbladder.  A 
+gallbladder scan was done which was normal. With normal findings 
+on imaging, the patient resumed a regular diet. On HD #5, she 
+was discharged home in stable condition.  Her white blood cell 
+count and liver enzymes were normalizing.  An appointment for 
+follow-up was made with the acute care service and with her 
+primary care provider.           
+ 
+Medications on Admission:
+Ampicillin-Sulbactam 3 g IV Q6H  
+Acetaminophen 325-650 mg PO/NG Q6H:PRN pain  
+Aspirin 81 mg PO/NG DAILY  
+Heparin 5000 UNIT SC TID  
+Nicotine Patch 21 mg TD DAILY  
+Simvastatin 20 mg PO/NG DAILY  
+
+ 
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+2. Aspirin 81 mg PO DAILY 
+3. Nicotine Patch 21 mg TD DAILY 
+4. Simvastatin 20 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+cholilthiasis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with vomitting and abdominal 
+pain.  You underwent an ultrasound of the gallbladder and you 
+were found to have gallbladder inflammation.  Because of these 
+findings, you underwent a gallbladder scan which showed normal 
+gallbladder function.  Your abdominal pain has subsided and you 
+are now preparing for discharge home with the following 
+instructions:
+
+ Please call your doctor or return to the emergency room if you 
+have any of the following:
+
+*  Recurrence of your abdominal pain
+ 
+
+ * You experience new chest pain, pressure, squeezing or 
+ tightness.
+ 
+* New or worsening cough or wheezing.
+ 
+* If you are vomiting and cannot keep in fluids or your 
+ medications.
+ 
+* You are getting dehydrated due to continued vomiting, 
+ diarrhea or other reasons. Signs of dehydration include dry 
+ mouth, rapid heartbeat or feeling dizzy or faint when standing.
+ 
+* You see blood or dark/black material when you vomit or have a 
+ bowel movement.
+ 
+
+* You have shaking chills, or a fever greater than 101.5 (F) 
+ degrees or 38(C) degrees.
+ 
+* Any serious change in your symptoms, or any new symptoms that 
+ concern you. 
+ 
+* Please resume all regular home medications and take any new 
+meds 
+ as ordered.  
+
+   
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11017644-DS-18 | hadm_id=25774318
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Pain
+ 
+Major Surgical or Invasive Procedure:
+___: balloon angioplasty with superior mesenteric artery 
+stent
+
+ 
+History of Present Illness:
+___ with known history of chronic mesenteric ischemia presents 
+to the ___ ER with a one day history abdominal pain. Patient 
+states the pain began around 8AM and began as a dull pain which 
+gradually increased in intensity. The is described as sharp and 
+"wave-like." The pain is intermittent and sudden in onset and 
+lasts for ___ minutes. The pain can be exacerbated by positional 
+changes and has no alleviating factors.  She has also been 
+experiencing some low grade fever and chills. 
+
+During most recent ultrasound assessment, peak systolic 
+velocities of as high as 651 were noted in the SMA which was a 
+relative to last ultrasound performed in ___.  She had 
+been scheduled electively for superior mesenteric artery 
+stenting.  
+
+She denies any recent illnesses and states she eats 
+approximately 2 meals a day. She denies any recent weight loss 
+and states she has gained weight since last ___. 
+ 
+Past Medical History:
+PMH: MI early 1990s, s/p cardiac cath, no intervention
+PSH: ___ stenting ___, ___ stenting ___, Ex-lap and SBR
+___, take back for bleeding ___, SMA stenting 
+___, hysterectomy
+
+ 
+Social History:
+___
+Family History:
+Brother and mother with DM. 
+ 
+Physical Exam:
+VS:  BP ___ Hr ___.
+PE:  Gen - A&Ox3, no abdominal pain
+     CV - RRR
+     Pulm - CTAB
+     Abd - Soft, nondistended, non tender to palpation. 
+     Ext - Warm, well perfused, no edema
+Pulses:     Fem     Pop     DP     ___
+          R palp    palp    palp   palp
+          L palp    palp    palp   palp
+
+Left radial pulse is 2+, brachial puncture site is ecchymotic 
+but soft.  
+ 
+Pertinent Results:
+Arteriogram showed widely patent supraceliac and infrarenal 
+aorta,significant stenosis just beyond the origin of the stented 
+region of the superior mesenteric artery with additional 
+significant stenosis at the midportion of the stented region, 
+widely patent superior mesenteric artery in its branches beyond 
+the area previously stent,patent bilateral renal arteries, 
+completely occluded celiac artery at its origin, completely 
+occluded inferior mesenteric artery with previously-placed stent 
+evident.
+
+___ 07:30AM BLOOD WBC-3.2* RBC-3.63* Hgb-9.7* Hct-31.5* 
+MCV-87 MCH-26.6* MCHC-30.7* RDW-19.8* Plt ___
+___ 07:30AM BLOOD Glucose-95 UreaN-7 Creat-0.5 Na-141 K-4.3 
+Cl-110* HCO3-23 AnGap-12
+___ 07:30AM BLOOD Calcium-8.1* Phos-4.1 Mg-2.2
+ 
+Brief Hospital Course:
+Ms ___ was admitted after a balloon angioplasty and stenting 
+of the superior mesentaric artery on ___.  She progressed 
+nicely after the procedure, tolerating a regular diet by the end 
+of POD 1.  She did require a blood transfusion for a hematocrit 
+of 26. Her hematocrit on the day of discharge was 31 with a 
+creatitine of 0.5. She is ambulatory ad lib and pain free. We 
+have arranged follow up with an SMA ultrasound in 2 weeks with 
+Dr. ___.   
+ 
+Medications on Admission:
+1. aspirin 81 mg daily
+2. clopidogrel 75 mg daily
+3. simvastatin 20 mg once a day.  
+4. ranitidine HCl 150 mg as needed daily.  
+5. nicotine 14 mg/24 hr Patch 24 hr.  
+6. Ferrous Sulfate 325mg daily  
+7. Tylenol ___ mg every ___ hours as needed for pain.  
+8. colace 100mg twice daily
+ 
+Discharge Medications:
+1. aspirin 81 mg daily. 
+2. clopidogrel 75 mg daily
+3. simvastatin 20 mg daily.  
+4. ranitidine HCl 150 mg daily as needed  
+5. Tylenol ___ mg Tablet 2 tabs every ___ hours as needed for 
+pain.  
+7. ferrous sulfate 325 mg daily.  
+8. nicotine 7 mg/24 hr patch change once a day.  
+9. colace 100mg twice daily
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Abdominal Pain
+2. Superior Mesenteric Artery Stenosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital after a balloon angioplasty 
+and stenting of a narrowed artery that supplies blood to your 
+bowel.  This was felt to be the cause of your abdominal pain. 
+
+Great job on stopping smoking!  As we discussed, we decreased 
+your nicotine patches to the 7mg/patch.  
+
+Division of Vascular and Endovascular Surgery
+Stent Discharge Instructions
+
+Medications:
+•Take Aspirin 81 mg once daily 
+•Take Plavix (Clopidogrel) 75mg once daily
+•Continue all other medications you were taking before surgery
+•You make take Tylenol or prescribed pain medications for any 
+post procedure pain or discomfort
+
+What to expect when you go home:
+It is normal to have slight swelling of the arm we accessed:
+•Elevate your arm on pillows 
+•It is normal to feel tired and have a decreased appetite, your 
+appetite will return with time 
+•Drink plenty of fluids and eat small frequent meals
+•It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing
+•To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+
+What activities you can and cannot do:
+•When you go home, you may walk and go up and down stairs
+•You may shower (let the soapy water run over  incision, rinse 
+and pat dry)
+•Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing or 
+band aid over the area that is draining, as needed
+•No heavy lifting, pushing or pulling (greater than 5 lbs) for 
+1 week (to allow groin puncture to heal)
+•After 1 week, you may resume sexual activity
+•After 1 week, gradually increase your activities and distance 
+walked as you can tolerate
+•No driving until you are no longer taking pain medications
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11017644-DS-16 | hadm_id=26880241
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+mensenteric ischemia
+
+ 
+Major Surgical or Invasive Procedure:
+Colonoscopy by gastroenterology service - changes consistent 
+with mensenteric ischemia
+
+ 
+History of Present Illness:
+___ F who is well known to the general surgery service after 
+having undergone 2 small bowel resections due to acute on 
+chronic mesenteric ischemia back in ___. She was 
+discharged to rehab on ___ and returns now with daily bouts of 
+dark black stool. She reports ___ bowel movements per day that 
+are very dark. This has been happening since her discharge to 
+rehab. She reports receiving 2 units of blood 2 days ago for a 
+Hct of ~23 and increased appropriately to 30. Today she was back 
+down to 27. She denies fevers, chill, nausea, vomiting,or 
+abdominal pain. She has not had a very good appetite, so
+continues to receive TPN at rehab.
+ 
+Past Medical History:
+PMH: MI early ___, s/p cardiac cath, no intervention
+PSH: ___ stenting ___, ___ stenting ___, Ex-lap and SBR
+___, take back for bleeding ___, SMA stenting 
+___,
+hysterectomy
+
+ 
+Social History:
+___
+Family History:
+Brother and mother with DM. Denies any GI disease in her family.
+
+ 
+Physical Exam:
+Vitals:99.2  70  98/56  18  100% RA
+Gen:A&O x 3, NAD
+HEENT:PERRL, EOMI, anicteric
+___ s1 s2,RRR
+Chest:CTAB
+Abd:Abdomen soft, nontender, nondistended. Midline incision 
+C/D/I.
+___ warm, no edema
+
+ 
+Pertinent Results:
+___ :CTA PELVIS W&W/O C & RECONS
+1. Wall edema of loops of distal ileum and of the ascending 
+colon(in 
+particular hepatic flexure and cecum) most compartible with 
+ileitis/colitis which could be ischemic, inflammatory, and/or 
+infectious. No pneumatosis or portal venous gas. 
+2. Pelvic free fluid. Very trace pericardial effusion. 
+3. High-grade stenosis at the origin of celiac axis, unchanged. 
+Patent SMA stent. Occlusion of the ___ stent, unchanged.  
+4. 0.7 cm hyperdense focus at the hepatic dome, as above, may be 
+perfusion anomaly, particularly in absence of known malignancy; 
+however it is incompletely characterized. Non-urgent MRI 
+suggested for further 
+characterization. 
+5. Left adrenal adenoma. 
+.
+.
+
+___ flexure, biopsy:No granuloma or dysplasia 
+seen. The typical changes of ischemic colitis are not seen.
+.
+.
+
+___ 05:20PM BLOOD WBC-6.6 RBC-2.84* Hgb-9.3* Hct-27.5* 
+MCV-97 MCH-32.7* MCHC-33.8 RDW-18.6* Plt ___
+___ 10:05AM BLOOD WBC-3.4* RBC-2.69* Hgb-8.4* Hct-25.2* 
+MCV-94 MCH-31.3 MCHC-33.4 RDW-19.6* Plt ___
+___ 02:51PM BLOOD Hct-25.9*
+___ 09:00AM BLOOD WBC-4.3 RBC-3.70*# Hgb-11.4*# Hct-33.6* 
+MCV-91 MCH-30.9 MCHC-34.1 RDW-18.6* Plt ___
+___ 03:53AM BLOOD WBC-5.2 RBC-3.42* Hgb-10.8* Hct-30.6* 
+MCV-89 MCH-31.7 MCHC-35.4* RDW-18.7* Plt ___
+___ 05:14AM BLOOD WBC-3.3* RBC-3.66* Hgb-11.6* Hct-34.4* 
+MCV-94 MCH-31.8 MCHC-33.8 RDW-17.7* Plt ___
+___ 04:55AM BLOOD WBC-4.8 RBC-3.41* Hgb-10.9* Hct-32.1* 
+MCV-94 MCH-32.0 MCHC-33.9 RDW-17.3* Plt ___
+___ 06:14AM BLOOD WBC-4.9 RBC-3.13* Hgb-10.1* Hct-29.4* 
+MCV-94 MCH-32.1* MCHC-34.1 RDW-17.1* Plt ___
+___ 10:05AM BLOOD ___ PTT-29.3 ___
+___ 05:20PM BLOOD Glucose-98 UreaN-17 Creat-0.4 Na-138 
+K-4.0 Cl-105 HCO3-27 AnGap-10
+___ 10:05AM BLOOD Glucose-78 UreaN-9 Creat-0.2* Na-140 
+K-3.6 Cl-111* HCO3-21* AnGap-12
+___ 03:53AM BLOOD Glucose-109* UreaN-9 Creat-0.3* Na-142 
+K-2.9* Cl-109* HCO3-27 AnGap-9
+___ 11:11PM BLOOD Glucose-117* UreaN-7 Creat-0.3* Na-139 
+K-4.6 Cl-109* HCO3-25 AnGap-10
+___ 10:09PM BLOOD Glucose-221* UreaN-10 Creat-0.4 Na-139 
+K-4.2 Cl-108 HCO3-26 AnGap-9
+___ 06:07AM BLOOD Glucose-84 UreaN-11 Creat-0.4 Na-140 
+K-4.0 Cl-109*
+___ 05:43AM BLOOD Glucose-79 UreaN-17 Creat-0.3* Na-139 
+K-4.3 Cl-107 HCO3-26 AnGap-10
+___ 06:14AM BLOOD Glucose-103* UreaN-11 Creat-0.4 Na-139 
+K-3.8 Cl-106 HCO3-26 AnGap-11
+___ 09:00AM BLOOD calTIBC-156* Ferritn-408* TRF-120*
+___ 05:20PM BLOOD LtGrnHD-HOLD
+ 
+Brief Hospital Course:
+The patient was admitted to the ___ with c/o  ___ bowel 
+movements of dark black stool per day.She underwent CTA of abd 
+and pelvis which was suggestive of ileitis/colitis which could 
+be ischemic, inflammatory, and/or infectious. She received 2 
+more units of prbcs for low HCT and IV pantoprazole was started. 
+Subsequently, she underwent a colonoscopy which showed changes 
+consistent with colitis. While the biopsy did not show classic 
+changes of ischemia, the appearance
+during your colonoscopy was suggestive of ischemic colitis.
+Her diet was advanced to clears  and then a regular diet which 
+she tolerated well.TPN was weaned off,tube feeds were started 
+along with calorie counts on po feeds.Her tube feeds were 
+subsequently d/ced as she was taking adequate amounts of po 
+feeds.On the day of discharge the patient was tolerating a 
+regular diet, having no abdominal pain, passing non melanotic 
+stools,having stable HCT and ambulating independently. She will 
+follow up with Dr ___ on the ___.
+ 
+Medications on Admission:
+1. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. acetaminophen 650 mg Tablet Sig: One (1) Tablet PO Q6H (every 
+6 hours) as needed for Pain.  
+5. quetiapine 25 mg Tablet Sig: One (1) Tablet PO QHS (once a 
+day (at bedtime)) as needed for insomnia.  
+ 
+Discharge Medications:
+1. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. acetaminophen 650 mg Tablet Sig: One (1) Tablet PO Q6H (every 
+6 hours) as needed for Pain.  
+5. quetiapine 25 mg Tablet Sig: One (1) Tablet PO QHS (once a 
+day (at bedtime)) as needed for insomnia.  
+6. Pepcid 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute on chronic mesenteric ischemia
+Failure to thrive
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+You were admitted to the hospital on ___ with melena. You were 
+diagnosed with chronic mesenteric ischemia. You had a 
+colonoscopy which showed evidence of ischemia . You're being 
+discharged home after tolerating regular diet with boost 
+supplements.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11017644-DS-23 | hadm_id=27410704
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Nausea/vomiting, failure to thrive
+ 
+Major Surgical or Invasive Procedure:
+___ percutaneous cholecystostomy tube placement
+
+ 
+History of Present Illness:
+___ w/h/o MI, PVD, mesenteric ischemia s/p SMA bypass, most
+recently s/p exlap and SMA thrombectomy POD20, returns to ER
+tonight with N/V. No f/c/ns. She states the vomiting started 
+last
+night.  She has had some minimal associated discomfort but no
+real abdominal pain.  No hematochezia/melena.  No hematemesis.
+
+ 
+Past Medical History:
+PMH: mesenteric ischemia; MI early ___, s/p cardiac cath, no 
+intervention
+
+PSH: SMA thrombectomy ___, Aorto-common hepatic/SMA bypass 
+w/ dacron graft ___, ___ stenting ___, Ex-lap 
+and SBR ___, take back for bleeding ___, SMA stenting 
+___, ___ stenting ___, hysterectomy ___
+ 
+Social History:
+___
+Family History:
+Brother and mother with DM. 
+ 
+Physical Exam:
+Vitals: 98.8 85 107/65 20 98%RA
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: unlabored
+ABD: Soft, nondistended, mild TTP in RUQ around drain, no 
+rebound or
+guarding, normoactive bowel sounds, no palpable masses, midline
+incision healing well
+Ext: No ___ edema, ___ warm and well perfused
+
+ 
+Pertinent Results:
+___ 07:53PM BLOOD WBC-7.4 RBC-3.39* Hgb-10.2* Hct-31.4* 
+MCV-93 MCH-30.1 MCHC-32.4 RDW-15.0 Plt ___
+___ 04:05AM BLOOD WBC-5.4 RBC-2.29* Hgb-6.9* Hct-21.3* 
+MCV-93 MCH-30.3 MCHC-32.5 RDW-15.0 Plt ___
+___ 07:35AM BLOOD WBC-6.0 RBC-2.85* Hgb-8.7* Hct-27.5* 
+MCV-97 MCH-30.5 MCHC-31.6 RDW-15.7* Plt ___
+___ 08:29PM BLOOD ___ PTT-50.2* ___
+___ 12:00AM BLOOD ___ PTT-51.1* ___
+___ 08:10AM BLOOD ___ PTT-29.9 ___
+___ 03:28AM BLOOD ___
+___ 06:25AM BLOOD ___
+___ 07:35AM BLOOD ___ PTT-34.4 ___
+___ 07:53PM BLOOD Glucose-161* UreaN-39* Creat-1.3* Na-139 
+K-4.1 Cl-100 HCO3-24 AnGap-19
+___ 07:35AM BLOOD Glucose-95 UreaN-7 Creat-0.4 Na-140 K-4.1 
+Cl-104 HCO3-27 AnGap-13
+___ 02:50AM BLOOD ALT-12 AST-12 AlkPhos-92 TotBili-0.4
+___ 08:10AM BLOOD ALT-14 AST-15 AlkPhos-95 TotBili-0.4
+___ 07:35AM BLOOD Calcium-7.6* Phos-4.3 Mg-1.6
+___ 08:01PM BLOOD Lactate-2.4*
+___ 12:03AM BLOOD Lactate-0.8
+___ 07:35AM BLOOD PREALBUMIN-PND
+ 
+Brief Hospital Course:
+On admission, pt was hydrated and followed with serial labs and 
+exams. A CTA revealed that her aorto-CHA/SMA bypass was open. 
+She received 3 units of pRBCs and 1 unit of FFP. Her lactate 
+normalized and her N/V improved. She did have melenic stool and 
+was thus started on a PPI. The following day, pt vomited 200cc 
+of coffee ground emesis. She was given 2 units of pRBCs and 1 
+unit of FFP. On HD3, pt again had melenic stools. Her Foley 
+catheter was d/c'd. She was started on Ensure supplements. On 
+HD4, d/t persistent inability to tolerate po intake, a Dobhoff 
+was placed and tube feeds started. On HD5, reglan was started 
+for high TF residuals. On HD6, pt had one episode of emesis. On 
+HD7, pt's nausea and pain improved. She was given 2 units of 
+pRBCs. On HD8, pt was tolerating TFs at goal. On HD9, TFs were 
+decreased due to a high residual. A CT scan was done to look for 
+a mechanical reason for perisistent nausea and abdominal pain 
+and demonstrated findings concerning for cholecystitis. On HD10, 
+after an ultrasound also demonstrated findings consistent with 
+cholecystitis, pt had a HIDA scan with nonfilling of the 
+gallbladder. On HD11, a percutaneous cholecystostomy tube was 
+placed and pt was started on Unasyn. Bile was sent for culture 
+and subsequently grew Klebsiella pneumoniae. After placement of 
+the perc chole, TFs were resumed. On HD12, pt again was able to 
+tolerate TFs at goal. On HD13, TFs were cycled. On HD14, unasyn 
+was switched to augmentin. On HD15, TFs were halved in an 
+attempt to increase pt's appetite and po intake. 
+ 
+Medications on Admission:
+Simvastatin 20mg daily
+Aspirin 81mg daily
+Coumadin
+
+ 
+Discharge Medications:
+1. Amoxicillin-Clavulanic Acid ___ mg PO Q8H 
+Stop ___  
+2. Aspirin EC 81 mg PO DAILY 
+Should be enteric coated aspirin 
+3. Bisacodyl 10 mg PO/PR DAILY:PRN constipation  
+4. Calcium Carbonate Suspension 1250 mg PO TID 
+5. Hydrocodone-Acetaminophen (5mg-500mg) ___ TAB PO Q6H:PRN pain 
+
+6. Magnesium Oxide 400 mg PO BID 
+7. Metoclopramide 10 mg PO QIDACHS 
+8. Neutra-Phos 2 PKT PO TID 
+9. Pantoprazole 40 mg PO Q24H 
+10. Simvastatin 20 mg PO DAILY 
+11. Warfarin 0.5 mg PO DAILY16 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Failure to thrive
+Supratherapeutic INR
+Sub-acute/Chronic cholecystitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+-Please call or go to the emergency room if fever greater than 
+101.0, if increased redness or discharge from around drain site, 
+if numbness/weaknessm if short of breath, if you notice leg 
+swelling, if increased pain uncontrolled by pain medications, or 
+for any other concerning symptoms. 
+-Please do not immerse in bath, swimming, or sauna while 
+gallbladder drain is in place. ___ shower; Do not scrub drain 
+site; let soapy water run over it and pat down gently after 
+shower.
+-Do not drive or consume alcohol while taking narcotics. 
+-Please follow up with your primary care provider concerning 
+hospitalization.  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11017644-DS-25 | hadm_id=27463306
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___
+ 
+Chief Complaint:
+Weakness, Hematuria
+ 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman
+with history of MI, PVD, mesenteric ischemia s/p SMA bypass and
+multiple revascularizations (most recently s/p exlap and SMA
+thrombectomy) on Coumadin, who is presenting with
+fatigue/weakness x10 days and painless hematuria x7 days in the
+setting of taking extra Warfarin - found to have an INR of 14.1.
+
+Ms. ___ states that ~10 days ago she "felt like [I] was
+getting the flu" in terms of becoming very fatigued and
+developing a cough. She then noticed that for the past 7 days,
+she felt much more disoriented and had having increasing memory
+loss during during the night (for example, pt notes that her
+partner would give her Warfarin at night, but then she would 
+wake
+up in the middle of the night and believe that she had not taken
+her Warfarin and take another dose - she is unsure how many 
+extra
+doses of warfarin she took). She notes that around this time, 
+she
+also developed lightheadedness and hematuria as well. States 
+that
+her INR was last checked ___ weeks ago and was ~3.8, however 
+w/o
+change in Warfarin dosing at that time.
+
+She also notes that she was treated for a UTI ~2 weeks ago
+(unsure of the antibiotic) as she had developed dysuria and
+increased urgency (however no increased frequency) - states that
+all of her symptoms resolved with treatment. She states that ~3
+days ago she noticed blood clots in her urine, however denied 
+any
+difficulty with urination.  Around this same time she has
+redeveloped increased urinary urgency (denies increased 
+frequency
+or dysuria though). 
+
+Overall, she believes that during the past week she has started
+getting better (particularly in terms of her memory). She denies
+any preceding head strikes or LOC, however does note that within
+the past week or so she fell while getting out of bed ("my legs
+went out") and hit her R leg on the closet - again denied 
+hitting
+her head or LOC. Denies recent HAs, change in vision, dysphagia,
+difficulty speaking, new limb weakness or difficulty walking. 
+
+She also denies fevers, chills, shortness of breath, chest
+discomfort (does endorse her usual "reflux" symptoms though),
+abdominal pain, nausea, vomiting, diarrhea, constipation, 
+melena,
+hematochezia, or hematemesis.
+
+In the ED, initial vitals: 95.9, 96, 97/59, 18, 100% RA  
+
+- Exam notable for: Guaiac negative, PVR 141. 
+
+- Labs notable for: WBC 8.4 w/ 74% N0 (Absolute neutrophilia
+6.19), 1.2% Granulocytes, H/H 8.1/24.6, Plts 213, INR 14.1, PTT
+75, Na 134, HCO3 21, BUN 41, Cr 1.1, Lactate 1.5, Flu negative,
+U/A Lg ___, 100 Protein, RBC >182, WBC >182, Many bacteria,
+Epi 12.    
+
+- Imaging notable for: CXR with "no acute intrathoracic process" 
+
+
+- Pt given: IV Vitamin K 10mg x1, placed Foley 
+
+- Vitals prior to transfer: 77, 98/52, 20, 98% RA  
+ 
+On the floor, tells the above history. Also states that she is
+feeling well overall. Notes that she feels much less confused
+than last week. Notes that the Foley is very irritating for her,
+and that she hopes it will be removed in the near future. No new
+problems since coming up from the ED. 
+
+REVIEW OF SYSTEMS:  
+Complete ROS obtained and is otherwise negative. 
+
+ 
+Past Medical History:
+- Coronary artery disease (per OMR had myocardial infarction in
+___ without intervention)
+- Peripheral arterial disease with ___ angioplasty and stent in
+___, repeat angioplasty and stenting of the ___ as well as
+angioplasty and stenting of the SMA with ex lap and small bowel
+resection in ___, balloon angioplasty of SMA stent in ___,
+aorto-celiac/SMA bypass later in ___, ex lap with LOA and
+thrombectomy of SMA bypass with saphenous vein patch of SMA
+bypass in ___
+- Ischemic colitis / Mesenteric ischemia
+- Cholecystitis s/p percutaneous cholecystostomy tube
+- Hysterectomy
+- COPD
+ 
+Social History:
+___
+Family History:
+-Mother: ___
+-Brother: ___
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAM:  
+VITALS: 98.3, 94 / 64, 76, 20, 100% RA  
+GENERAL: AOx3, older woman in NAD laying in bed  
+HEENT: Normocephalic, atraumatic. Pupils equal, round, and
+reactive bilaterally, extraocular muscles intact. Sclera
+anicteric and without injection. MMM, upper dentures.  
+NECK: Trachea mid-line  
+CARDIAC: RRR. Audible S1 and S2. No murmurs/rubs/gallops. No 
+JVD.
+LUNGS: CTAB - no wheezes, rhonchi or rales. No increased work of
+breathing.  
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.  
+EXTREMITIES: No clubbing, cyanosis, or edema.  
+SKIN: No evidence of ulcers, rash or lesions suspicious for
+malignancy  
+NEUROLOGIC: CN2-12 intact. ___ strength througout. Normal
+sensation.
+
+DISCHARGE PHYSICAL EXAM
+VITALS: 98.3 PO [96/61 HR 64 lying, 91/55 HR 67 sitting, 74/50 
+HR
+80 standing)], RR 18, SpO2 99 on Ra 
+GENERAL: Older woman in lying comfortably in bed, NAD
+HEENT: Normocephalic, atraumatic. Sclera anicteric and without
+injection.
+NECK: Supple 
+CARDIAC: RRR. Audible S1 and S2. No murmurs/rubs/gallops. 
+LUNGS: CTAB. No wheezes, rhonchi or rales. No increased work of
+breathing.  
+ABDOMEN: Normal bowels sounds, non distended, non-tender.
+EXTREMITIES: No lower extremity edema
+NEUROLOGIC: Answering questions appropriately 
+ 
+Pertinent Results:
+ADMISSION LABORATORY STUDIES
+========================================
+___ 01:13PM BLOOD WBC-8.4 RBC-3.27* Hgb-8.1* Hct-24.6* 
+MCV-76*# MCH-24.8* MCHC-32.7 RDW-22.2* RDWSD-61.0* Plt ___
+___ 01:13PM BLOOD Neuts-74.0* Lymphs-12.4* Monos-11.4 
+Eos-0.8* Baso-0.2 Im ___ AbsNeut-6.19* AbsLymp-1.04* 
+AbsMono-0.95* AbsEos-0.07 AbsBaso-0.02
+___ 10:30PM BLOOD Hypochr-NORMAL Anisocy-1+* Poiklo-2+* 
+Macrocy-1+* Microcy-1+* Polychr-1+* Ovalocy-1+* Target-1+* Tear 
+Dr-OCCASIONAL
+___ 01:13PM BLOOD ___ PTT-75.0* ___
+___ 10:30PM BLOOD Ret Aut-0.4 Abs Ret-0.01*
+___ 01:13PM BLOOD Glucose-112* UreaN-41* Creat-1.1 Na-134* 
+K-3.9 Cl-97 HCO3-21* AnGap-16
+___ 10:30PM BLOOD ALT-19 AST-23 LD(LDH)-166 AlkPhos-134* 
+TotBili-0.9
+___ 10:30PM BLOOD Albumin-2.4* Calcium-7.4* Phos-3.0 Mg-2.4 
+Iron-35
+___ 10:30PM BLOOD calTIBC-231* VitB12-276 Folate-15 
+Ferritn-94 TRF-178*
+___ 01:26PM BLOOD Lactate-1.5
+
+DISCHARGE LABORATORY STUDIES
+========================================
+___ 08:10AM BLOOD WBC-4.6 RBC-3.50* Hgb-9.0* Hct-29.9* 
+MCV-85 MCH-25.7* MCHC-30.1* RDW-22.0* RDWSD-66.5* Plt ___
+___ 08:10AM BLOOD ___ PTT-25.0 ___
+___ 06:29AM BLOOD Glucose-105* UreaN-13 Creat-0.6 Na-142 
+K-4.4 Cl-108 HCO3-24 AnGap-10
+___ 06:29AM BLOOD Calcium-8.0* Phos-3.6 Mg-1.8
+
+IMAGING/REPORTS
+========================================
+CXR ___
+FINDINGS:  
+  
+AP upright and lateral views of the chest provided.There is no 
+focal 
+consolidation, effusion, or pneumothorax. The cardiomediastinal 
+silhouette is normal.  Several chronic right lateral rib 
+deformities are again noted.  No free air below the right 
+hemidiaphragm is seen. 
+  
+IMPRESSION:  
+  
+No acute intrathoracic process. 
+
+MICROBIOLOGY
+========================================
+___ 2:54 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+      VIRIDANS STREPTOCOCCI.    10,000-100,000 CFU/mL. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+ 
+Brief Hospital Course:
+BRIEF SUMMARY
+=============
+___ w/ a history of chronic mesenteric ischemia (s/p multiple 
+revascularizations, c/b SMA thrombosis, on warfarin), MI, and 
+PVD who presented with hematuria, weakness (s/p fall), and 
+confusion, found to have a supratherapeutic INR due to taking 
+too many doses of warfarin as well as a UTI.
+
+ACTIVE ISSUES
+============
+#) SUPRATHERAPEUTIC INR
+#) HISTORY OF MESENTERIC ISCHEMIA (s/p multiple 
+revascularizations)
+Patient presented with hematuria and found to have anemia and a 
+supratherapeutic INR of 14.1 in the setting of taking extra 
+warfarin.  On admission, warfarin held and given IV vitamin K. 
+INR normalized to 1.5 but slowly uptrended again to 6.2. IV 
+vitamin K given again, and INR normalized but then slowly began 
+uptrending once again. Now s/p PO vitamin K 5mg x3 days 
+(___) and INR has normalized to 1.1. Hematologic workup 
+did not reveal any underlying coagulopathy. Specifically, 
+inhibitor screen was negative, Factor VII wnl making ___ 
+___ disease unlikely ___ panel still 
+pending], DIC deemed unlikely given normal PTT and no 
+schistocytes seen on blood smear. Given patient's INR responded 
+to administration of vitamin K, etiology of supratherapeutic INR 
+thought to be due to vitamin K deficiency compounded with 
+warfarin overdose. Given this is the patient's second 
+hospitalization due to bleeding from a supratherapeutic INR, we 
+transitioned the patient from warfarin to rivaroxaban 20mg 
+daily. We discussed this switch with the patient's vascular 
+surgeon, Dr. ___, who was in agreement with this 
+decision.
+
+#) HEMATURIA
+Presented with gross hematuria in the setting of 
+supratherapeutic INR.  CBI placed on presentation given concern 
+for clotting. Hematuria improved within one day of presentation 
+and foley removed. Repeat UA (sent due to patient's report of 
+dysuria) demonstrated persistent microscopic hematuria. Patient 
+will need cystoscopy as an outpatient to rule out malignancy, 
+especially given her older age and long history of smoking.
+
+#) ANEMIA (ACUTE ON CHRONIC)
+Baseline hemoglobin ~9, however previously normocytic. Acute 
+anemia likely due to hematuria. Patient has past hx of GIB but 
+she was guaiac negative x2. Found to have B12 deficiency 
+(low-normal B12 but has elevated methylmalonic acid levels), 
+possibly ___ pernicious anemia vs. damage to parietal 
+cells/inability to produce intrinsic factor due to damage from 
+her chronic mesenteric ischemia. Reticulocyte index was  
+inappropriately low on admission but improved from 0.11 to 0.76. 
+Gammaglobulinemia as cause of bone marrow suppression unlikely 
+given normal gamma gap (Total protein minus albumin). 
+Interestingly, her albumin is low (2.4) but she does not look 
+malnourished. She is HIV negative. She was started on oral B12. 
+She will need a workup for pernicious anemia as an outpatient.
+
+#) ___
+Found to have acute kidney injury on admission (0.9, up from 
+baseline of 0.4).  Likely secondary to pre-renal azotemia in the 
+setting of hematuria.  Given IVF and resolved with Cr 0.6 by 
+discharge.  
+
+#) UTI
+#) TOXIC METABOLIC ENCEPHALOPATHY
+Patient reported dysuria on admission and had altered mental 
+status. Urine cultures showed E. Coli. Treated with ceftriaxone 
+x5 days. Patient had vaginal irritation/dysuria after this 
+antibiotic course but repeat UA and urine cultures were 
+negative. Mental status improved very quickly after UTI 
+treatment was initiated and she was fully alert and attentive by 
+the time of discharge.
+
+#) VAGINAL IRRITATION
+Developed vaginal irritation after being treated for UTI. We 
+treated for a presumed yeast infection, and her symptoms 
+improving with miconazole nitrate vaginal cream (plan for 
+treatment for 7 days, last day ___.
+
+#) WEAKNESS, FALL
+ORTHOSTASIS
+Weakness and fall likely secondary to symptomatic anemia and 
+toxic metabolic encephalopathy in the setting of UTI.  Evaluated 
+by ___, determined safe to be discharged to home. However, 
+patient found to be orthostatic throughout admission. Patient 
+given IVF and encouraged to drink more fluids but remained 
+orthostatic. Etiology remains unknown. Diabetes mellitus ruled 
+out as a cause of her orthostasis(A1c 5.0). Started on 
+fludrocortisone. Patient will need work-up for autonomic 
+dysfunction as an outpatient.
+
+#) CONSTIPATION
+Patient did not have a bowel movement for several days. Started 
+on Miralax.
+
+#) THRUSH
+Patient presented with thrush. Inciting cause unclear. Treated 
+with nystatin oral suspension. 
+
+CHRONIC ISSUES
+==============
+#) CAD, PVD
+Patient was not on an aspirin or atorvastatin for unclear 
+reasons. Started on both aspirin and atorvastatin. Should be 
+considered for beta blocker treatment as an outpatient.
+
+TRANSITIONAL ISSUES
+==========================================
+1) Patient needs cystoscopy as an outpatient to rule out bladder 
+malignancy given hematuria, older age, and extensive smoking 
+history
+2) Patient needs screening colonoscopy in ___ (last 
+colonoscopy ___ with recommended repeat ___. Stool was 
+guaiac negative x2 during this hospitalization.
+3) Patient started on aspirin 81mg daily and atorvastatin 40mg 
+daily given history of MI. She should be considered for addition 
+of a beta blocker as an outpatient
+4) Found to have B12 deficiency (low-normal B12 but elevated 
+methylmalonic acid). Started on oral B12, needs to be worked up 
+for possible pernicious anemia
+5) Found to be orthostatic during hospitalization. Diabetes 
+mellitus ruled out (A1c 5.0) as the etiology. Started on 
+fludrocortisone and given TEDs compression stockings. Needs 
+workup for autonomic dysfunction.
+6) Patient's INR eventually stopped uptrending with repeat 
+administration of vitamin K, but ___ and PTT should be re-checked 
+as an outpatient to ensure INR does not become supratherapeutic.
+
+#Code status: Full, confirmed
+#Health care proxy/emergency contact: 
+Name of health care proxy: ___. 
+Relationship: Daughter. 
+Phone number: ___. 
+Cell phone: ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Warfarin 3 mg PO DAILY16 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth nightly Disp #*30 
+Tablet Refills:*0 
+3.  Cyanocobalamin 1000 mcg PO DAILY 
+RX *cyanocobalamin (vitamin B-12) 1,000 mcg 1 tablet(s) by mouth 
+nightly Disp #*30 Tablet Refills:*0 
+4.  Fludrocortisone Acetate 0.1 mg PO DAILY 
+RX *fludrocortisone 0.1 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+5.  Miconazole Nitrate Vag Cream 2% 1 Appl VG QHS Duration: 7 
+Days 
+RX *miconazole nitrate 2 % Apply nightly to areas of irritation 
+Nightly Disp #*1 Tube Refills:*0 
+6.  Multivitamins W/minerals 1 TAB PO DAILY 
+RX *multivitamin,tx-minerals [Vitamins and Minerals]  1 
+tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 
+7.  Polyethylene Glycol 17 g PO BID 
+RX *polyethylene glycol 3350 17 gram 1 powder(s) by mouth twice 
+daily Disp #*14 Packet Refills:*0 
+8.  Rivaroxaban 20 mg PO DAILY 
+with food 
+RX *rivaroxaban [___] 20 mg 1 tablet(s) by mouth nightly 
+Disp #*30 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Supratherapeutic INR
+2. Microcytic anemia
+3. B12 deficiency
+4. Orthostatic hypotension
+5. Yeast infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Why you were in the hospital:
+-You came in to the hospital because you had blood in your 
+urine. 
+-Your INR was very high because you took too much Coumadin, and 
+this is why you had blood in your urine.
+-You also had burning and pain when you urinate.
+
+What we did:
+-We gave you medicines to stop the bleeding and make your INR 
+normal. We also gave you a blood transfusion. 
+-We treated your bladder infection with antibiotics. 
+-We found that you have low Vitamin B12. We gave you a 
+medication to increase your Vitamin B12. 
+-We found that your blood pressure is low when you stand up. We 
+gave you a medication to increase your blood pressure when you 
+stand up.
+
+What you need to do when you leave the hospital:
+-Please continue to take all of your medications as prescribed
+-Please see Dr. ___ at your appointment on ___ at 
+11:45AM
+-Please call Dr. ___ office to set up an appointment. He may 
+be able to schedule an appointment in ___, but if not, you 
+will need to see him at his clinic in ___.
+
+We wish you the best in the future.
+
+Your ___ care team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11017644-DS-20 | hadm_id=28691322
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ with history of chronic mesenteric ischemia with bowel
+resections, ___ and SMA stents, recently s/p an aorto-celiac to
+common hepatic and SMA bifurcated bypass graft for acute on
+chronic ischemia and occluded SMA stent. Patient postoperative
+course was unremarkable, she did well and was discharged on
+postop day #7. At home she did well with some initial diarrhea
+that resolved. 
+
+Patient presents today with intermittent RLE abdominal pain that
+started today at 2:30 am, associated with nausea, burping, but 
+no
+vomiting. Her last bowel movement was yesterday and normal. She
+has not been passing flatus today. 
+
+ 
+Past Medical History:
+PMH: MI early ___, s/p cardiac cath, no intervention
+PSH: ___ stenting ___, ___ stenting ___, Ex-lap and SBR
+___, take back for bleeding ___, SMA stenting 
+___, hysterectomy
+
+ 
+Social History:
+___
+Family History:
+Brother and mother with DM. 
+ 
+Physical Exam:
+Physical Exam on discharge:
+
+NAD
+RRR
+CTAB
+Abd soft, trace amount of tenderness in RLQ, much improved from 
+admission, no rebound or guarding
+
+Pulse: Fem Pop DP ___
+Right   p   p   p  p
+Left    p   p   p  p
+ 
+Pertinent Results:
+___ 07:58AM BLOOD WBC-2.7* RBC-3.42* Hgb-9.8* Hct-31.3* 
+MCV-92 MCH-28.7 MCHC-31.3 RDW-17.4* Plt ___
+___ 01:44AM BLOOD WBC-3.8*# RBC-3.62* Hgb-10.5* Hct-33.5* 
+MCV-92 MCH-28.9 MCHC-31.3 RDW-17.6* Plt ___
+___ 07:35AM BLOOD WBC-2.5* RBC-3.43* Hgb-9.7* Hct-31.5* 
+MCV-92 MCH-28.2 MCHC-30.7* RDW-17.5* Plt ___
+___ 07:10AM BLOOD WBC-2.4* RBC-3.32* Hgb-9.2* Hct-30.1* 
+MCV-91 MCH-27.7 MCHC-30.5* RDW-17.1* Plt ___
+___ 07:35AM BLOOD WBC-3.6*# RBC-3.60* Hgb-10.2* Hct-33.2* 
+MCV-92 MCH-28.4 MCHC-30.8* RDW-16.9* Plt ___
+___ 01:44AM BLOOD ___ PTT-24.7* ___
+___ 07:10AM BLOOD ___ PTT-24.8* ___
+___ 11:52AM BLOOD Glucose-150* UreaN-12 Creat-0.6 Na-140 
+K-3.3 Cl-101 HCO3-22 AnGap-20
+___ 07:58AM BLOOD Glucose-104* UreaN-6 Creat-0.4 Na-140 
+K-3.7 Cl-107 HCO3-28 AnGap-9
+___ 01:00PM BLOOD ALT-10 AST-16 AlkPhos-78 Amylase-27 
+TotBili-0.3
+___ 01:44AM BLOOD ALT-9 AST-26 AlkPhos-110* TotBili-0.4
+___ 01:44AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 02:45PM BLOOD Lactate-3.8*
+___ 08:41AM BLOOD Lactate-1.5
+
+CTA ___ 
+
+1.  Patent supraceliac to CHA/SMA graft.  Continued high-grade 
+celiac stenosis and occluded ___ stents. 
+2.  Moderate free pelvic fluid. 
+3.  Cholelithiasis. 
+4.  Moderate fecal loading.  No acute bowel pathology. 
+
+CT abd and pelvis ___
+1.  There is a 3-mm stone in the distal common bile duct with 
+surrounding area 
+of hyperdense material suggestive of sludge. 
+2.  Cholelithiasis without evidence of cholecystitis. 
+3.  Moderate free pelvic fluid. 
+4.  Again noted is unchanged mild bowel wall thickening 
+involving areas of the 
+colon and small bowel.  These findings are nonspecific and may 
+be due to 
+hypoalbuminemia,  or sequela of ischemia. No free air, portal 
+venous air, 
+pneumatosis or contained fluid collections. 
+5.  New small right pleural effusion. 
+
+CXR ___
+COPD.  No acute cardiopulmonary process. 
+  
+
+ 
+Brief Hospital Course:
+Patient was admitted to the hospital and made NPO after initial 
+CT scan showed no signs of worsening mesenteric ischemia. She 
+was started on IV fluids and given a bowel regimen which 
+improved her abdominal pain. Her LFTs were normal and she was 
+without leukocytosis. She did initially have an elevated 
+lactate, however and so this was trended and came down without 
+intervention. Her abdominal pain improved and her diet was 
+advanced from clears to low residue diet. She had a PO contrast 
+CT scan as well to look for signs of obstruction, which there 
+were none. She was noted to have cholelithiasis and 3mm CBD 
+stone but there was no ductal dilatation or perichilecystic 
+fluid and her pain was not characteristic for GB etiology. On 
+initially starting diet she had return of discomfort and was 
+reluctant to continue with a diet. Although, her return of pain 
+was not entirely clear as she mentioned it being pleuritic and 
+also in her left chest. EKG at this time showed no change and 
+her cardiac enzymes were negative x3. Her CXR also showed no 
+signs of an acute process. She was again encouraged  to take a 
+low residue diet, which she did well with after moving her 
+bowels ___ more times. At time of discharge she only had a trace 
+of abdominal discomfort on deep palpation that was thought to be 
+probably be her baseline for now. she was tolerating a regualr 
+diet, ambulating, and voiding without issue. She was discharged 
+on ASA 325 ___s Senna/Colace.
+ 
+Medications on Admission:
+aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+omeprazole 20 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+
+ 
+Discharge Medications:
+1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+3. omeprazole 20 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+5. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abdominal pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for evaluation of your 
+abdominal pain. Due  to your history of mesenteric ischemia you 
+had a CT scan of your abdomen to look at your blood supply to 
+your bowels. The CT scan showed that your blood supply was 
+adequate. You were watched and given multiple enemas to help 
+move your bowels as the buildup of stool was thought to be 
+causing some of your discomfort. In addition, you had a second 
+CT scan with contrast that you drank to make sure there was no 
+blockage or narrowing in your small or large bowel, which there 
+was none. You were started back on a low residue diet and should 
+continue this on discharge.
+
+You were seen by nutrition to help you understand what a low 
+residue diet consists of. Please continue this low residue diet 
+through your follow up appointment with Dr. ___.
+
+You should make sure you are getting adequate nutrition. You had 
+been drinking Ensure supplements at home, which you should 
+continue.
+
+You should resume taking all of your home medications. You 
+should continue taking Aspirin 325mg daily. You were also given 
+prescriptions for colace and senna to help keep your bowel 
+movements regular.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11017644-DS-22 | hadm_id=28905469
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Increased intolerance to food with nausea and vomiting, and 
+episode of hematochezia.
+ 
+Major Surgical or Invasive Procedure:
+1. Exploratory laparotomy.
+2. Extensive lysis of adhesions taking over 2 hours.
+3. Thrombectomy of the superior mesenteric artery bypass.
+4. Left greater saphenous vein patch of superior mesenteric 
+artery bypass.
+5. Abdominal exploration, washout, and
+closure.
+
+ 
+History of Present Illness:
+   The patient is a ___ woman with an extensive history 
+of mesenteric ischemia including multiple interventions of both 
+endovascular and open,
+including inferior mesenteric artery stent, SMA stent, and 
+finally an antegrade aortic to left hepatic and SMA bypass which 
+was done back in ___ by Dr. ___.  The patient then 
+presented with a 2-week history of increasing intolerance to 
+food and nausea with limited vomiting.  She
+finally had an episode of hematochezia leading to a CTA that 
+confirmed that her SMA bypass was down.  The patient is being 
+taken for exploration and revascularization.
+
+ 
+Past Medical History:
+PMH: MI early 1990s, s/p cardiac cath, no intervention
+PSH: ___ stenting ___, ___ stenting ___, Ex-lap and SBR
+___, take back for bleeding ___, SMA stenting 
+___, antegrade aortic to left hepatic and SMA bypass
+hysterectomy ___.
+
+ 
+Social History:
+___
+Family History:
+Brother and mother with DM. 
+ 
+Physical Exam:
+Physical Exam:
+Alert and oriented x 3 
+VS:BP 100/58, HR 77, RR 14
+Carotids: 2+, no bruits or JVD
+Resp: Lungs clear
+Abd: Soft, non tender
+Ext: Pulses:          Left  Femoral palp, DP palp, ___ palp
+                      Right Femoral palp, DP palp, ___ palp
+Feet warm,  well perfused.  No open areas
+Incisions:
+     Abdomen incision:Staples in place with area of separation 
+1cmx 1.5cm at the area of the umbilicus. This area is packed 
+with a 4x4 gauze. This area is draining serous fluid without 
+evidence of odor, purulence or fowl odor. 
+     Right Lower extremity incision: Soft,Clean dry and intact 
+with staples in place with receeding erythema, without evidence 
+of hematoma or ecchymosis.
+
+ 
+Pertinent Results:
+___ 07:11AM BLOOD WBC-11.3*# RBC-3.62* Hgb-11.2* Hct-33.4* 
+MCV-92 MCH-30.8 MCHC-33.4 RDW-15.0 Plt ___
+___ 07:11AM BLOOD Plt ___
+___ 07:11AM BLOOD Glucose-112* UreaN-12 Creat-0.5 Na-134 
+K-4.0 Cl-98 HCO3-26 AnGap-14
+___ 07:11AM BLOOD Calcium-8.1* Phos-3.2 Mg-1.9
+___ 10:47 am SWAB      Source: lower abdomen. 
+    GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI IN 
+CLUSTERS. 
+
+   WOUND CULTURE (Preliminary): 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+      BETA STREPTOCOCCUS GROUP B.    SPARSE GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO ANAEROBES ISOLATED. 
+
+ 
+Brief Hospital Course:
+The patient initially presented to the ER with compliant of 
+abdominal pain N/V and bright red blood per rectum on ___, CTA 
+showed a thrombosed superior mesenteric artery bypass and 
+mesenteric ischemia.  She was brought to the operating room on 
+___ and underwent an exploratory laparotomy, extensive 
+lysis, thrombectomy of the ___ bypass, a left GSV patch of the 
+SMA bypass. Secondary to dusky looking bowel ACS was consulted 
+intra-operatively. It was determined that no bowel resection was 
+necessary, and the patient was left open. ___ she 
+spent the night in the intensive care unit as she was left open 
+to have a ___ look of her bowel and to evacuate any possible 
+hematoma that might have developed as she was kept on heparin. 
+On ___, she was brought back to the operating room from the 
+ICU for a planned washout, exploration and abdomen and closure. 
+The patient was closely in the ICU until POD#3 she was 
+transferred to the VICU after passing a speech and swallow exam. 
+On POD#5 the patient had some evidence of bloody loose stools 
+which prompted a CT scan of the abdomen, and evaluation of her 
+HCT. On ___ the patient was given 3 units of PRBCs for a 
+down trending HCT from 25 to 21. The patients HCT appropriately 
+responded to 32 and remained hemodynamically stable. She was 
+started on Coumadin on ___ for the treatment/prevention of 
+arterial thrombus. On ___ the patient was placed on 
+vancomycin for erythema of her incision sites with dehiscence 
+(2cm) of her abdominal incision.  The patient Vancomycin was 
+stopped at the time of discharge on ___ and was given a 
+prescription for a 5 day course of  Bactrim DS.  The patient was 
+seen and cleared by ___ to be discharged to home. ___ was set-up 
+to assist the patient with wound care and to draw INRs. Dr. ___ 
+will manage the patient's INR and Coumadin as an outpatient. The 
+patient was discharged on POD#12 with a therapeutic INR and 
+scheduled to follow up with Dr. ___ on ___ at 12:45 for 
+continued management of the patient's anticoagulation plan. The 
+patient will f/u with Dr. ___ on ___ for reassess her 
+wounds.   
+
+  
+
+ 
+Medications on Admission:
+Simvastation 20mg', Aspirin 81mg'
+ 
+Discharge Medications:
+1. Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 5 Days 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tablet(s) by 
+mouth Twice daily Disp #*10 Tablet Refills:*0
+2. Aspirin 81 mg PO DAILY 
+3. Warfarin 1 mg PO AS DIRECTED BY ___. ___: 1 Dose 
+RX *warfarin [Coumadin] 1 mg ___ tablet(s) by mouth once daily 
+Disp #*30 Tablet Refills:*0
+4. Simvastatin 20 mg PO DAILY 
+5. Albuterol Inhaler ___ PUFF IH Q4H:PRN wheeze 
+6. Hydrocodone-Acetaminophen (5mg-500mg) ___ TAB PO Q6H:PRN pain 
+
+RX *hydrocodone-acetaminophen 5 mg-325 mg ___ tablet(s) by mouth 
+Every 6 hours as needed for pain Disp #*20 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Thrombosed of superior mesenteric artery bypass and mesenteric 
+ischemia.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Division of Vascular and Endovascular Surgery
+Superior Mesenteric Thrombectomy Discharge Instructions
+ 
+WHAT TO EXPECT:
+1. It is normal to feel tired, this will last for ___ weeks 
+•You should get up out of bed every day and gradually increase 
+your activity each day 
+•You may walk and you may go up and down stairs 
+•Increase your activities as you can tolerate - do not do too 
+much right away!
+2. It is normal to have swelling of the leg you were operated 
+on:
+•     Elevate your leg above the level of your heart (use ___ 
+pillows or a recliner) every ___ hours throughout the day and at 
+night
+•     Avoid prolonged periods of standing or sitting without 
+your legs elevated
+*     Eat small frequent meals
+•     To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+•It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing.
+
+What activities you can and cannot do:
+• Your abdominal incision has a small opening, this area should 
+be packed with guaze and covered with dry sterile dressing. Be 
+attentive to signs of infection to included increased redness, 
+pain and oozing from the incision sites. 
+• No heavy lifting, pushing or pulling (greater than 5 lbs) for 
+1 week (to allow arm incision to heal)
+• After 1 week, you may resume sexual activity
+• Gradually increase your activities and distance walked as you 
+can tolerate
+• No driving until you are no longer taking pain medications
+
+MEDICATION:
+• Take Aspirin 81mg (enteric coated) once daily
+• Take Coumadin per the instruction of your PCP ___. 
+• Continue all other medications you were taking before surgery. 
+
+• You make take Tylenol or prescribed pain medications for any 
+___ procedure pain or discomfort.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11017644-DS-17 | hadm_id=28952446
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year old female s/p SMA stent placement (___), s/p ___ 
+stent placement (___) s/p angioplasty of stent (___), 
+s/p small bowel resection for bowel ischemia (___), 
+transferred from OSH for further evaluation of her abdominal 
+pain.  A abdominal CTA at the OSH showed revealed extraluminal 
+air.  The arterial pattern suggested occlusion of the ___ and 
+celiac trunk with virtually the entirety of her bowel being 
+supplied via the ___ and its collaterals.  Given her prior care 
+at ___, she was tranferred here to the Vascular Surgery 
+service. 
+
+She reports abdominal pain starting 5 days prior to admission. 
+She also
+experienced some nausea and clear emesis. The last bowel
+movement was 2 days ago. Patient denies melena or hematochezia.
+She does not have any history of GI bleed. 
+ 
+Past Medical History:
+PMH: MI early 1990s, s/p cardiac cath, no intervention
+PSH: ___ stenting ___, ___ stenting ___, Ex-lap and SBR
+___, take back for bleeding ___, SMA stenting 
+___,
+hysterectomy
+
+ 
+Social History:
+___
+Family History:
+Brother and mother with DM. 
+ 
+Physical Exam:
+gen: NAD, comfortable, denies pain 
+CV: RRR
+pulm: CTA b/l 
+abd: soft, nontender to palpation, no rebound, no guarding 
+extremities: no edema, no erythema 
+pulses: all palpable 
+
+ 
+Pertinent Results:
+___ 07:30AM BLOOD WBC-3.3* RBC-3.79* Hgb-9.6* Hct-30.5* 
+MCV-81* MCH-25.4* MCHC-31.6 RDW-18.1* Plt ___
+___ 07:30AM BLOOD Glucose-97 UreaN-2* Creat-0.5 Na-140 
+K-3.9 Cl-111* HCO3-20* AnGap-13
+___ 03:32PM BLOOD ALT-13 AST-16 LD(LDH)-165 CK(CPK)-82 
+AlkPhos-75 Amylase-29 TotBili-1.8*
+___ 03:32PM BLOOD %HbA1c-5.5 eAG-___ year old woman presented to OSH on ___ with 3 day history 
+of fever, nausea and vomiting and abdominal pain. She also has a 
+low grade fever with wbc 10, relative hypotension: 90/50 and 
+anemia with hct 22.2 with guiac positive stool. She was 
+pancultured, fluid rescuitated, transfused with 3 units PRBCs 
+and started on zosyn.  A CTA of the abdomen on ___ showed 
+occlusion of celiac artery, patent proximal SMA stents, ___ 
+occluded at its origin which is unchanged from last scan on 
+___.  Given her prior vascular procedures at ___ she was 
+transferred to here for further management. 
+
+She was kept NPO, on flagyl, cipro and vanco with gradual 
+resolution of her abdominal pain. On hospital day 2, she was 
+started on clear liquids with only mild abdominal tenderness. 
+She continued to have guaic positive stools and a low grade temp 
+to 99.5. On hospital day 4, she was changed to a regular diet 
+and changed to oral flagyl and cipro.  All stool/urine/blood 
+cultures have been negative to date with yersinia culture still 
+pending. Hematocrit has been stable between ___. 
+
+ 
+Medications on Admission:
+Home medications:
+1. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily). 
+2. aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.
+ 
+Discharge Medications:
+1. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr 
+Transdermal DAILY (Daily).  
+3. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours).  
+4. metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 
+8 hours).  
+5. aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.  
+6. Zantac 150 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. simvastatin 20 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Nonvascular abdominal pain, likely infectious in nature.
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were transferred to ___ on ___ secondary to abdominal 
+pain.  A CT angiogram at the outside hospital showed that only 
+one of the stented arteries that supplies your bowel was open 
+but this is unchanged from your previous scans.   
+
+We felt that your abdominal pain was infectious in nature so we 
+started you on 2 antibiotics, ciprofloxin and flagyl, which you 
+are to continue for a total of 14 days.  You are to continue all 
+your usual home medications.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11017644-DS-19 | hadm_id=29923363
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Mesenteric ischemia
+ 
+Major Surgical or Invasive Procedure:
+___ Aorto-celiac/SMA bypass  
+
+___ mesenteric angio  
+
+ 
+History of Present Illness:
+___ with longstanding mesenteric
+ischemic disease with known complete occlusion of celiac and 
+___,
+s/p ex lap/SBR in ___ for bowel ischemia, and a subsequent ___
+stent on ___.  She recently underwent angioplasty of the 
+SMA
+stent on ___, and has been doing well without any problems
+eating/drinking until about 3 days ago, when she developed vague
+abdominal discomfort, distension, and nausea with intake of 
+solid
+foods.  She is passing gas and having normal bowel movements
+without diarrhea or constipation.  Today she has been able to
+tolerate cranberry juice, but became nauseous and vomited when
+she tried to eat toast.  She denies any blood in her stools.  
+She
+has not had any fevers or chills, chest pain or SOB.  Her
+abdominal discomfort is improved by sitting up and worsened with
+standing and moving.  We are consulted to assist in management
+ 
+Past Medical History:
+PMH: MI early 1990s, s/p cardiac cath, no intervention
+PSH: ___ stenting ___, ___ stenting ___, Ex-lap and SBR
+___, take back for bleeding ___, SMA stenting 
+___, hysterectomy
+
+ 
+Social History:
+___
+Family History:
+Brother and mother with DM. 
+ 
+Physical Exam:
+Vital Signs: Temp: 98.6 RR: 16 Pulse: 79 BP: 106/85  
+Neuro/Psych: Oriented x3, Affect Normal, NAD. 
+Neck: No masses, Trachea midline, Thyroid normal size,
+non-tender, no masses or nodules, No right carotid bruit, No 
+left
+carotid bruit. 
+Nodes: No clavicular/cervical adenopathy, No inguinal 
+adenopathy.
+
+Skin: No atypical lesions. 
+Heart: Regular rate and rhythm. 
+Lungs: Clear, Normal respiratory effort. 
+Gastrointestinal: Non distended, No masses, No
+hepatosplenomegally, No hernia, No AAA, abnormal: Mild 
+epigastric
+tenderness, no rebound. 
+Rectal: Not Examined. 
+Extremities: No popiteal aneurysm, No femoral bruit/thrill, No
+RLE edema, No LLE Edema, No varicosities, No skin changes. 
+ 
+Pulse Exam (P=Palpation, D=Dopplerable, N=None)
+RUE Radial: P. 
+LUE Radial: P. 
+RLE DP: P. ___: P. 
+LLE DP: D. ___: P. 
+
+ 
+Pertinent Results:
+___ 02:20AM BLOOD 
+
+WBC-4.5 RBC-3.21* Hgb-8.9* Hct-28.0* MCV-87 MCH-27.7 MCHC-31.8 
+RDW-16.1* Plt ___
+
+___ 04:16PM BLOOD 
+
+___ PTT-26.5 ___
+
+___ 03:48PM BLOOD 
+
+Glucose-110* UreaN-4* Creat-0.3* Na-138 K-3.4 Cl-108 HCO3-21* 
+AnGap-12
+
+___ 06:15AM BLOOD 
+
+ALT-98* AST-36 LD(LDH)-182 AlkPhos-111* TotBili-0.5
+
+___ 03:48PM BLOOD 
+
+Calcium-6.9* Phos-2.8 Mg-1.9
+
+___ 02:30AM 
+
+URINE Color-Straw Appear-Hazy Sp ___
+URINE Blood-NEG Nitrite-POS Protein-NEG Glucose-NEG Ketone-10 
+Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-SM 
+URINE RBC-1 WBC-7* Bacteri-FEW Yeast-NONE Epi-2 TransE-<1
+
+URINE CULTURE (Final ___: 
+
+KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML.. 
+  
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |   
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    32 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+ 
+Brief Hospital Course:
+Mrs. ___ was admitted on ___ with mesenteric ischemia. 
+She agreed to have an elective surgery. Pre-operatively, she was 
+consented. A CXR, EKG, UA, CBC, Electrolytes, T/S - were 
+obtained,  all other preparations were made.
+ 
+It was decided that she would undergo an angiogram. We were 
+unsuccessfully to open up her previous SMA stent
+
+We then decided to do a Aorto-celiac/SMA bypass.
+
+She was prepped, and brought down to the operating room for 
+surgery. Intra-operatively, she was closely monitored and 
+remained hemodynamically stable. She tolerated the procedure 
+well without any difficulty or complication.
+ 
+Post-operatively, she was extubated and transferred to the PACU 
+for further stabilization and monitoring. 
+ 
+She was then transferred to the VICU for further recovery. While 
+in the VICU she received monitored care. When stable she was 
+delined. Her diet was advanced. A ___ consult was obtained. When 
+she was stabilized from the acute setting of post operative 
+care, she was transferred to floor status 
+ 
+On the floor, she remained hemodynamically stable with his pain 
+controlled. She progressed with physical therapy to improve her 
+strength and mobility. She continues to make steady progress 
+without any incidents. She was discharged to a rehabilitation 
+facility in stable condition.
+ 
+To note was treated for a UTI. 
+
+She also had low potassium and magnesium. These were replaced. 
+She will follow up with her PCP this week to recheck her lytes. 
+She is to go home on mag and potassium supplements.
+
+She will also follow - up with Dr ___ in ___ weeks for staple 
+removal.
+ 
+Medications on Admission:
+ASA 81', Plavix 75', Simvastatin 20' 
+ 
+Discharge Medications:
+1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+3. FerrouSul 325 mg (65 mg iron) Tablet Sig: One (1) Tablet PO 
+once a day.  
+4. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day for 30 days.
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+5. hydromorphone 2 mg Tablet Sig: ___ Tablets PO four times a 
+day for 10 days: PRN.
+Disp:*40 Tablet(s)* Refills:*0*
+6. Dulcolax 5 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO twice a day for 10 days.
+Disp:*20 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+7. magnesium oxide 500 mg Capsule Sig: One (1) Capsule PO once a 
+day for 7 days.
+Disp:*7 Capsule(s)* Refills:*0*
+8. potassium chloride 20 mEq Packet Sig: One (1)  PO once a day 
+for 7 days.
+Disp:*7 potassium chloride (Oral) 20 mEq Packet* Refills:*0*
+9. senna 8.6 mg Capsule Sig: One (1) Capsule PO twice a day for 
+10 days.
+Disp:*60 Capsule(s)* Refills:*0*
+10. Outpatient Lab Work
+Chem 10, please include mag and potassium. Fax the reswults to 
+PCP:
+
+Name: ___. 
+Location: ___ - ___ 
+Address: ___, ___ 
+Fax: ___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+SMA occlusion - mesenteric ischemia
+
+PMH: chronic mesenteric ischemia w bowel resections, MI 1990s  
+PSH: ___ stenting ___ 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Division of Vascular and Endovascular Surgery
+
+Bypass Surgery Discharge Instructions
+
+What to expect when you go home:
+1. It is normal to feel tired, this will last for ___ weeks 
+•You should get up out of bed every day and gradually increase 
+your activity each day 
+•Unless you were told not to bear any weight on operative foot: 
+you may walk and you may go up and down stairs 
+•Increase your activities as you can tolerate- do not do too 
+much right away!
+
+2. Avoid prolonged periods of standing or sitting without your 
+legs elevated
+
+3. It is normal to have a decreased appetite, your appetite will 
+return with time 
+
+•You will probably lose your taste for food and lose some 
+weight 
+
+•Eat small frequent meals
+
+•It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing
+
+•To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+
+What activities you can and cannot do:
+
+•No driving until post-op visit and you are no longer taking 
+pain medications
+•Unless you were told not to bear any weight on operative foot: 
+
+•You should get up every day, get dressed and walk
+•You should gradually increase your activity
+•You may up and down stairs, go outside and/or ride in a car
+•Increase your activities as you can tolerate- do not do too 
+much right away!
+•No heavy lifting, pushing or pulling (greater than 5 pounds) 
+until your post op visit 
+•You may shower (unless you have stitches or foot incisions) no 
+direct spray on incision, let the soapy water run over incision, 
+rinse and pat dry
+•Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing 
+over the area that is draining, as needed
+•Take all the medications you were taking before surgery, 
+unless otherwise directed
+•Take one full strength (325mg) enteric coated aspirin daily, 
+unless otherwise directed 
+•Call and schedule an appointment to be seen in 2 weeks for 
+staple/suture removal
+
+What to report to office:
+•Redness that extends away from your incision
+•A sudden increase in pain that is not controlled with pain 
+medication
+•A sudden change in the ability not to eat food
+•Temperature greater than 100.5F for 24 hours
+•Bleeding, new or increased drainage from incision or white, 
+yellow or green drainage from incisions
+
+ 
+Followup Instructions:
+___

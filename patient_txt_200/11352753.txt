@@ -1,0 +1,417 @@
+===== DISCHARGE NOTE =====
+note_id=11352753-DS-18 | hadm_id=23776486
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___ abdominal pain for 3 months
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with h/o colon cancer s/p resection in ___, umbilical 
+hernia repair ___, DM2, HTN presents with periumbilical abd 
+pain and L flank pain. She reports the periumbilical pain has 
+been present since ___ - it comes and goes, is stabbing, 
+___ at its worst, exacerbated with bending foward, better 
+with lying down, is present almost daily. The L flank pain is 
+new for about 1 month - can be up to ___ at its worst, comes 
+and goes, improves with lying on her left side. She hasn't tried 
+any medications for the pain. The pain in these areas isn't any 
+worse today but she decided to come to the ER to have the pain 
+checked out - she is anxious about what the cause may be.  
+ 
+In the ED, initial VS 97.8 85 110/65 14 100% on RA. Labs showed 
+lipase of 356, RUQ U/S showed: 1 cm echogenic structure with 
+posterior shadowing adjacent to the gallbladder fossa and given 
+her history of cancer and her elevated lipase, the ER admitted 
+the patient for further w/u.  
+Currently, VS 98.4 141/59 68 18 100% on RA. The patient reports 
+her periumbilical pain is resolved and her flank pain is ___. 
+She denies N/V/D/C, no blood in stool, has lost 10 lbs in the 
+past year due to diet changes. Pain is not exacerbated with 
+eating. She denies heartburn.  
+
+ 
+Past Medical History:
+Diabetes, hypertension
+ 
+Social History:
+___
+Family History:
+noncontributory
+ 
+Physical Exam:
+Admission:
+ 
+Vitals: 98.4 141/59 68 18 100% on RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, obese, TTP around umbilicus and L flank - no CVA 
+tenderness, non-distended, bowel sounds present, no rebound 
+tenderness or guarding  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: EOMI, full strength in all extremities  
+
+Discharge:
+  
+Vitals: 98.4 141/59 68 18 100% on RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, obese, TTP around umbilicus and L flank - no CVA 
+tenderness, non-distended, bowel sounds present, no rebound 
+tenderness or guarding  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: EOMI, full strength in all extremities  
+ 
+
+ 
+Pertinent Results:
+___ 05:26PM BLOOD WBC-4.6 RBC-3.82* Hgb-11.2* Hct-35.9* 
+MCV-94 MCH-29.3 MCHC-31.2 RDW-13.3 Plt ___
+___ 05:26PM BLOOD Glucose-209* UreaN-12 Creat-0.7 Na-143 
+K-4.4 Cl-102 HCO3-25 AnGap-20
+___ 05:26PM BLOOD ALT-19 AST-20 AlkPhos-50 TotBili-0.3
+___ 05:26PM BLOOD Lipase-356*
+___ 05:26PM BLOOD Albumin-4.6 Calcium-9.2 Phos-3.3 Mg-1.6
+
+Imaging:
+RUQ US 
+IMPRESSION:  
+  
+1. Echogenic liver consistent with fatty infiltration. Other 
+forms of liver disease and more advanced liver disease including 
+significant hepatic fibrosis/cirrhosis cannot be excluded on 
+this study.  
+  
+2. A 1 cm echogenic structure with posterior shadowing adjacent 
+to the 
+gallbladder fossa is identified. Given the history of 
+malignancy, MR is 
+recommended for further evaluation.  
+
+ 
+Brief Hospital Course:
+# Periumbilical pain: Etiology of abdominal pain is uncertain at 
+the time of discharge. It is most likely secondary to ventral 
+hernia repair as she began experiencing pain several months 
+following procedure. It has been chronic, ___ pain which is 
+unchanged with eating further supporting diagnosis. She was 
+found to have an elevated lipase over 300 this admission. She 
+has no clinical findings or history supportive of either acute 
+or chronic pancreatitis. LFTs normal lowering suspicion for 
+biliary process. Peptic ulcer disease is possible, but also less 
+likely with no change in symptoms with eating, no previous acid 
+reflux, and no hx of prolonged NSAID use. A RUQ ultrasound 
+raised concern for an cystic structure in region of gallbladder 
+but it unclear if this is new (liver cyst prev seen on CT) or if 
+it is contributing to current presentation. Given this finding 
+and elevated lipase, recommend further imaging (MRI vs CT 
+dedicated pancreatic study) as an outpt. 
+ 
+# HTN: Stable this admission. Continued home lisinopril.  
+
+# Diabetes Mellitus Type II: she was kept on insulin during 
+hospitalization and metformin and glyburide were restarted at 
+time of discharge.
+
+Transitions of Care:
+#Pt will follow up with surgery for further evaluation of hernia
+#Pt should have further pancreatic imaging in setting of 
+elevated lipase 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Fexofenadine 60 mg PO DAILY 
+3. Gabapentin 600 mg PO BID 
+4. Lisinopril 40 mg PO DAILY 
+5. coenzyme Q10 *NF* 300 mg Oral qday 
+6. GlyBURIDE 5 mg PO BID 
+7. MetFORMIN (Glucophage) 1000 mg PO BID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Abdominal pain, most likely secondary to prior surgeries
+Elevated lipase
+
+Secondary Diagnosis:
+Hypertension
+Diabetes Mellitus Type II
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of at ___ 
+___. You came in with abdominal pain that you have 
+been experiencing for the last several months. We think this is 
+most likely related to your previous surgeries. However, your 
+lipase (an enzyme made by the pancreas) was also elevated and 
+should be followed up as an outpatient by your PCP.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11352753-DS-17 | hadm_id=29686164
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+sessile colon polyp 
+ 
+Major Surgical or Invasive Procedure:
+Partial laparoscopic transverse colectomy with takedown of 
+splenic flexure.
+
+ 
+History of Present Illness:
+Mrs. ___ is a ___ who underwent a routine colonoscopy and was 
+found to have  a sessile colon polyp that was not removable via 
+colonoscopy. She was referred to Dr. ___ surgical 
+consultation, and presents to ___ for planned removal of 
+polyp.
+ 
+Past Medical History:
+Diabetes, hypertension
+ 
+Social History:
+___
+Family History:
+noncontributory
+ 
+Physical Exam:
+At Discharge:
+Vitals: T-99.8, HR-69, BP-130/92, RR-16, RA-97%
+GEN: NAD, A/Ox3
+CV: RRR, no m/r/g
+RESP: CTAB
+ABD: +BS, soft, ND, appropriately TTP
+Incision: 3 abdominal Lap incision, incison inferior to 
+epigastrum OTA w/ dermabond, CDI. Superior to umbilicius opened 
+w/ scant purulent & serous drainage-packed with moistened 
+nu-gauze. Suprapubic incision open w/ dried blood, DSD applied 
+on top.
+Extrem: no c/c/e
+ 
+Pertinent Results:
+___ 04:26PM   HCT-36.4
+___ 05:40AM BLOOD WBC-6.6 RBC-2.95* Hgb-8.8* Hct-26.3* 
+MCV-89 MCH-29.9 MCHC-33.5 RDW-12.5 Plt ___
+___ 05:25AM BLOOD WBC-7.8 RBC-3.19* Hgb-9.2* Hct-28.1* 
+MCV-88 MCH-28.7 MCHC-32.6 RDW-12.4 Plt ___
+___ 04:01AM BLOOD Neuts-77* Bands-3 Lymphs-11* Monos-9 
+Eos-0 Baso-0 ___ Myelos-0
+___ 05:40AM BLOOD Glucose-94 UreaN-8 Creat-0.6 Na-142 K-3.6 
+Cl-106 HCO3-27 AnGap-13
+___ 05:25AM BLOOD Glucose-93 UreaN-7 Creat-0.7 Na-141 K-3.7 
+Cl-105 HCO3-27 AnGap-13
+___ 04:01AM BLOOD CK(CPK)-80
+___ 06:15PM BLOOD CK(CPK)-102
+___ 11:31AM BLOOD CK(CPK)-93
+___ 04:01AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 06:15PM BLOOD CK-MB-2 cTropnT-<0.01
+___ 11:31AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 05:40AM BLOOD Calcium-8.5 Phos-4.6* Mg-1.9
+___ 05:25AM BLOOD Calcium-8.7 Phos-4.7*# Mg-1.9
+___ 06:15AM BLOOD CEA-1.5
+.
+Pathology
+Procedure date    ___  
+DIAGNOSIS: 
+Transverse colon, resection:
+Adenocarcinoma of the colon, well-differentiated, arising in a 
+large adenoma (2.7 cm), see synoptic report.
+
+ 
+Brief Hospital Course:
+___: Pt admitted to the surgical floor after laprocropic 
+partial colectomy for a colonic polyp in the tranzerse colon. Pt 
+was kept NPO on IVF. Pain managed with a morphine PCA, & ___ 
+pump. JP drain intact w/ serosanguinous output. Foley in place 
+with adequate urine output.
+.
+___: Diet advanced from sips to clears. Reported 
+intermittent nausea. Managed with IV Zofran. Lisinopril started 
+due to elevated BP. Blood sugars managed with RISS. 
+.
+___: Emesis-500cc. Managed with IV Zofran. Continued with 
+Nausea and abdominal distention. NGT inserted for decompression. 
+Clear white mucous drained. Patient reported feeling better. 
+Distal umbilical area with unchanged erythema & warmth. 
+Maintained NPO with IV fluid hydration. All medications given 
+IV. Urinating adequate amounts. 
+.
+___: NGT clamped, decreased output. NGT removed. Abdomen less 
+distened. Patient feeling better. No N/V. Started on sips in AM, 
+and advanced to clear liquids in afternoon. Tolerated well. 
+Medications switched to oral. ABD incision opened at bedside per 
+Dr. ___. Cultures sent.  WBC-7.8. Continued with IV Vanco & 
+Zosyn. Urinating adequate amounts. Reported flatus and loose BM.
+.
+___: Abdominal incision remains unchanged.
+.
+___: Tolerating regular diet. Wound cx + for Morganella and Vanc 
+sensitive Enterococcus. Antibiotics switched to IV Zosyn. WBC 
+stable, remains afebrile. Abdominal wound continues to feel warm 
+to touch but with decreaesed erythema. Underwent ABD U/S 
+revealing soft tissue inflammation, but NO fluid collection. 
+Continue to watch WBC, wound healing, and overall response to IV 
+Zosyn.
+.
+___ consulted.  Recs to transition pt to continue zosyn until 
+discharged then  Change antibiotics to Ciprofloxacin and 
+Amoxicillin 500 mg po three tmes daily for ___ days of 
+antibiotic therapy but can be decided with close surgical and ID 
+followup and reevaluation of wound.  
+
+___: pt changed to Po ciprofloxacin and Amoxicillin. Pt 
+discharged home with ___ for BID dressing changes.
+
+ 
+Medications on Admission:
+lisinopril 40', glyburide 5', metformin ___
+ 
+Discharge Medications:
+1. Hydrocodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q4-6H () as needed for pain for 2 weeks: Take with FOOD. Do not 
+exceed 4000mg of Tylenol in 24hrs.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as 
+needed for constipation for 1 months: Take with Vicodin.
+Disp:*60 Capsule(s)* Refills:*0*
+3. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+4. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Amoxicillin 500 mg Capsule Sig: One (1) Capsule PO three 
+times a day for 14 days.
+Disp:*42 Capsule(s)* Refills:*0*
+6. Cipro 500 mg Tablet Sig: One (1) Tablet PO twice a day for 14 
+days.
+Disp:*28 Tablet(s)* Refills:*0*
+7. Metformin 1,000 mg Tablet Sig: Two (2) Tablet PO twice a day. 
+ 
+8. Glyburide 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+9. Multivitamin     Capsule Sig: One (1) Capsule PO once a day.  
+
+10. Vitamin E 1,000 unit Capsule Sig: One (1) Capsule PO once a 
+day.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+sessile colon polyp
+Post-op wound infection
+Post-op fever work-up
+Post-op tachycardia-EKG with flattened T-waves. Cardiac work-up 
+negative.
+Post-op ileus
+.
+Secondary:
+Diabetes Mellitus type 2, Hypertension
+
+ 
+Discharge Condition:
+Stable
+Tolerating a regular,diabetic diet
+Adequate pain control with oral medication
+
+ 
+Discharge Instructions:
+Please call your doctor or return to the ER for any of the 
+following:
+* You experience new chest pain, pressure, squeezing or 
+tightness.
+* New or worsening cough or wheezing.
+* If you are vomiting and cannot keep in fluids or your 
+medications.
+* You are getting dehydrated due to continued vomiting, 
+diarrhea or other reasons. Signs of dehydration include dry 
+mouth, rapid heartbeat or feeling dizzy or faint when standing.
+* You see blood or dark/black material when you vomit or have a 
+bowel movement.
+* Your pain is not improving within ___ hours or not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or is changing location or moving to your chest or 
+
+back.
+*Avoid lifting objects > 5lbs until your follow-up appointment 
+with the surgeon.
+*Avoid driving or operating heavy machinery while taking pain 
+medications.
+* You have shaking chills, or a fever greater than 101.5 (F) 
+degrees or 38(C) degrees.
+* Any serious change in your symptoms, or any new symptoms that 
+concern you. 
+* Please resume all regular home medications and take any new 
+meds 
+as ordered. 
+* Continue to ambulate several times per day.
+.
+Incision Care:
+-Visiting nurses ___ assist & teach you regarding dressing 
+changes. To be done twice a day.
+-You may shower, and wash surgical incisions.
+-Avoid swimming and baths until your follow-up appointment.
+-Please call the doctor if you have increased pain, swelling, 
+redness, or drainage from the incision sites.
+
+ 
+Followup Instructions:
+___

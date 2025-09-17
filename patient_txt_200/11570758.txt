@@ -1,0 +1,266 @@
+===== DISCHARGE NOTE =====
+note_id=11570758-DS-10 | hadm_id=22619124
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Diarrhea
+ 
+Major Surgical or Invasive Procedure:
+urinary catheter insertion
+
+ 
+History of Present Illness:
+___ with h/o of BPH and recent prostate biopsy who is admitted 
+with fever, UTI, urinary retention and severe diarrhea. 
+.
+Pt had prostate biopsy ___ in AM for eval of elevated PSA, he 
+was started on PO bactrim on ___, day later developed fever to 
+101.8 and urinary burning, went to the ___ ED on ___, UA was 
+grossly positive, CBC showed leukocytosis to 19.3 with 84% Neu, 
+rectal exam showed minimally tender prostate. He subsequently 
+developed urinary retention in the ED and a foley was 
+introduced. He was started on IV ceftriaxone, observed in the ED 
+overnight and sent home ___ with the Foley and plan for 
+urology f/u. The same evening he started developing diarrhea 
+every 30 minutes which has been constant since. Stool is loose 
+and yelowish, no blood or melena. BM are preceeded by rectal and 
+distal penile pain, there is no abdominal pain. No N/V, CP, SOB. 
+He reports that he has been on several courses of antibiotics 
+over the past months, first in ___ following a hernia surgery 
+and more recently two weeks ago had 7 dasy of amoxicilline in 
+the setting of a tooth extraction followed by 4 days of Bactrim 
+this week as above. He denies any recent suspicoious meals or 
+sick contacts. His last travel was to ___ in ___ of this 
+year. Today he spiked again to 101.0 and returned to the ED. In 
+the ED VS were 100.8  129/76  111 18  96%RA, labs showed 
+worsening leukocytosis to 22,000.  CT abdomen showed no evidence 
+of colitis or diverticulitis.  He was started on IV cefepime + 
+flagyl (18:53) and sent up to the floor. Of note lab called as 
+he arrived to report growth of gram + cocci in clusters from one 
+aerobic blood culture bottle drawn on ___.  
+. 
+On arrival to the floor, patient complains of continued frequent 
+BM's now every 5 minutes. He denies abdominal pain, thirst, 
+faintness/weakness. 
+ 
+Past Medical History:
+BPH
+h/o urinary retention: following hernia surgery on ___ and 
+now again after prostate bsopsy ___
+s/p prostate biopsy ___ due to rise of PSA from 8 to 11 
+in 6 months (no weightloss, bone pain, no family h/o of prostate 
+ca)
+ 
+Social History:
+___
+Family History:
+Mother ___ Heart failure, died in her ___. Father died 
+of leukemia in his ___. No cancer, sudden death or premature 
+MI's. 
+.
+ 
+Physical Exam:
+Admission Physical Exam:
+VS - Temp 98.2F, BP 140/69 , HR 97 , R 20 , O2-sat 99% RA  
+GENERAL - well-appearing man in NAD, comfortable, appropriate 
+but had to run to bathroom once during our exam.   
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear  
+NECK - supple, no thyromegaly, no JVD, no carotid bruits  
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp 
+unlabored, no accessory muscle use  
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2  
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no 
+rebound/guarding  
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) 
+ 
+SKIN - no rashes or lesions    
+NEURO - grossly intact
+
+Discharge Physical Exam:
+VS: 99.4 125/76 78 20 96% RA
+GENERAL - well-appearing man in NAD, comfortable, appropriate
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear  
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp 
+unlabored, no accessory muscle use  
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2  
+ABDOMEN - slightly distended, tympanic on percussion, mildly 
+tender
+GU: foley in place
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) 
+ 
+SKIN - no rashes or lesions    
+Labs: reviewed, see below
+ 
+Pertinent Results:
+Admission Labs:
+___ 12:35PM BLOOD WBC-23.5* RBC-4.47* Hgb-14.4 Hct-43.0 
+MCV-96 MCH-32.3* MCHC-33.6 RDW-13.4 Plt ___
+___ 12:35PM BLOOD Neuts-91.1* Lymphs-4.7* Monos-3.1 Eos-1.0 
+Baso-0.1
+___ 12:35PM BLOOD Glucose-109* UreaN-12 Creat-0.8 Na-138 
+K-3.9 Cl-104 HCO3-23 AnGap-15
+___ 12:35PM BLOOD Albumin-3.7
+___ 12:38PM BLOOD Lactate-1.2
+
+Discharge Labs:
+___ 06:30AM BLOOD WBC-10.4 RBC-4.27* Hgb-13.6* Hct-41.0 
+MCV-96 MCH-31.8 MCHC-33.1 RDW-13.3 Plt ___
+___ 06:30AM BLOOD Glucose-99 UreaN-11 Creat-0.7 Na-141 
+K-4.5 Cl-105 HCO3-25 AnGap-16
+
+Urine Studies
+___ 12:35PM URINE Color-Red Appear-Hazy Sp ___
+___ 12:35PM URINE Blood-LG Nitrite-NEG Protein-100 
+Glucose-NEG Ketone-40 Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-TR
+___ 12:35PM URINE RBC->182* WBC-15* Bacteri-NONE Yeast-NONE 
+Epi-0
+___ 12:35PM URINE Mucous-MANY
+
+Micro:
+___ 12:35 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+
+___ 1:20 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay. 
+           (Reference Range-Negative). 
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+Imaging:
+CXR:
+Patchy left basilar and right perihilar opacities may reflect 
+atelectasis though infection is not excluded in the correct 
+clinical setting.  Low lung volumes.
+
+CT Abdomen/Pelvis:
+No evidence of colitis or diverticulitis.  No other acute 
+abdominal pathology to explain patient's symptoms. Left kidney 
+simple cyst. Mild grade 1 retrolisthesis of L5 over S1.
+ 
+Brief Hospital Course:
+ASSESSMENT & PLAN:  ___ with h/o of BPH and recent prostate 
+biopsy who presented with fever, UTI, urinary retention and 
+severe diarrhea found to have leukocytosis and acute bacterial 
+prostatitis.
+.
+ACTIVE ISSUES
+# Leukocytosis: Initial presented with diarrhea and profound 
+leukomoid reaction was concerning for C.diff related diarrhea. 
+Stool assay was however negative. UTI was also considered a 
+possibility however culture was negative. Ultimately given 
+recent biopsy and associated pyuria, dyschezia and bladder 
+spasms, leukocytosis seemed most consistent with acute bacterial 
+prostatitis. Patient was tapered to ciprofloxacin. He will need 
+to continue this medication until ___. CT scan did not show any 
+evidence of prostatic abscess so surgical intervention was not 
+entertained. 
+
+# Urinary retention: Patient with history of BPH. On previous 
+presentation to ED, patient presented with acute retention. This 
+was after recent prostate biopsy. Per patient he had similar 
+episode after herniorrhaphy. Voiding trial was attempted however 
+patient failed and urinary catheter was replaced. Patient was 
+discharged with catheter and close urology follow up. Of note 
+patient was neurologically intact and thus there was little 
+concern for sacral nerve damage.  Patient was continued on 
+finasteride and flomax.
+
+# Diarrhea: Patient presented with acute onset of multiple bowel 
+movements. In the setting of profound leukocytosis, there was 
+concern for C.diff related diarrhea however assay was negative. 
+Stool culture was also negative for other enteric pathogens. 
+After investigating this further, it appeared that patient was 
+having increased urgency, dyschezia and tennesmus from local 
+inflammation from prostate. Patient was started on ibuprofen and 
+was given one dose of loperamide which controlled symptoms. 
+Patient was advised that cipro may cause diarrhea and if it 
+recurs, to contact medical providers.
+
+TRANSITIONAL ISSUES:
+[ ] Several blood cultures are pending at discharge. This will 
+be followed up by discharging team. However, providers can also 
+call ___, if results are needed.
+[ ] Patient will have follow up with urology for voiding trial
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Finasteride 5 mg PO DAILY Start: In am 
+2. Tamsulosin 0.4 mg PO DAILY Start: In am 
+hold for SBP 
+< 100 
+
+ 
+Discharge Medications:
+1. Finasteride 5 mg PO DAILY 
+2. Tamsulosin 0.4 mg PO DAILY 
+hold for SBP 
+< 100 
+3. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+4. Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*24 Tablet Refills:*0
+5. Diazepam 2 mg PO Q6H:PRN spasms 
+RX *diazepam 2 mg 1 tablet by mouth every six (6) hours Disp 
+#*10 Tablet Refills:*0
+6. Ibuprofen 600 mg PO Q8H:PRN pain 
+7. Loperamide 2 mg PO ONCE Duration: 1 Doses 
+8. OxycoDONE (Immediate Release)  5 mg PO Q6H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*10 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute Prostatitis
+Urinary Retention
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital because you had diarrhea and 
+pain with defecation. We believe you have an infection of your 
+prostate. You will be on antibiotics until We attempted to have 
+the bladder catheter removed however you were unable to void on 
+your own. As a result the catheter had to go in and you will 
+need to follow up with urology on ___. The catheter will have 
+to remain in until that time. You also complained of diarrhea. 
+We checked it for C.diff and other infections and the results 
+were negative. We believe this may have been related to the 
+antibiotics you took and perhaps because of inflammation in the 
+pelvic area.
+ 
+Followup Instructions:
+___

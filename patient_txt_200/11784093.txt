@@ -1,0 +1,948 @@
+===== DISCHARGE NOTE =====
+note_id=11784093-DS-11 | hadm_id=23986438
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Fish derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever and neutropenia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo female with pancreatic adenocarcinoma s/p biliary stent 
+placement and diagnostic laparoscopy and PAC placement, now on 
+FOLFIRINOX (started ___ with planned radiation admitted 
+from clinic with neutropenic fever.
+
+Presents today with fever and leukopenia from her ___ 
+clinic where she was seen by Dr ___. Patient endorses 
+worsening fatigue, lethargy however she denies localizing 
+symptoms such as cough, urinary frequency, dysuria, flank pain, 
+back pain, neck pain, headache, abdominal pain, nausea, 
+vomiting. She has had ongoing diarrhea in the setting of 
+chemotherapy. She endorses chills.
+
+She was recently evaluated at ___ from ___, C. diff 
+negative, and continued diarrhea over the weekend that was 
+controlled with Immodium.  
+ 
+In ED
+99.2 93 119/55 18 96% RA
+developed fever to 102.8 without changes in other vitals
+Labs were significant for elevated transaminases and alk phos. 
+Patient was given IVF and cefepime for neutropenic fever, and 
+transferred to the floor for further evaluation.
+
+Upon arrival to the floor, she endorsed a dry mouth and general 
+weakness and chills but had no other complaints.  States she had 
+chills for at least the past week, if not longer, did not check 
+her temperature following discharge from ___ on ___.  Her 
+appetite is fair.  She has no dyspnea, no cough, no chest pain, 
+no rashes, no headache, no myalgias or arthralgias.  No sick 
+contacts.
+ 
+Review of Systems:  
+(+) Per HPI  
+(-) Denies recent weight loss or gain. Denies blurry vision, 
+diplopia, loss of vision, photophobia. Denies sinus tenderness, 
+rhinorrhea or congestion. Denies nausea, vomiting, constipation, 
+abdominal pain, melena, hematemesis, hematochezia. Denies 
+dysuria, stool or urine incontinence. Denies rashes or skin 
+breakdown. No numbness/tingling in extremities. All other 
+systems negative.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY: 
+Pancreatic Cancer:
+___- presented with abdominal pain; CT A/P showed Pancreatic 
+head mass measuring approximately 41 x 37 mm abutting and likely 
+encasing the SMA and partially encasing the SMV; a pancreatic 
+head mass abutted the confluence of the splenic vein and SMV 
+with thrombus or tumor extension in the portal vein with 
+dilatation of the pancreatic duct within the body and tail of 
+the pancreas. There were small mesenteric lymph nodes which were 
+felt to be nonspecific.
+___- EUS (Dr. ___ showed pancreatic head mass with 
+cytology positive for adenocarcinoma
+___- developed biliary obstruction s/p placement of stent 
+with normalization of LFTs
+___- Diagnostic laparoscopy with Port-A-Cath placement (Dr. 
+___- Peritoneal washings negative for malignant cells
+___- Start FOLFIRINOX
+Began to have diarrhea 3 days later, took imodium.
+___ Admitted ___ with diarrhea, dehydration, chest 
+pain. C. Diff negative, treated with fluids, imodium.
+___ At home, continued to have diarrhea but less. Yesterday 
+2 episodes, controlled with 2 doses of imodium.
+
+Breast Cancer: 
+___- noticed new left breast mass
+___- mammogram normal
+___- FNA left breast with malignant cells
+___- bilateral breast MRIs: left with enhancement in known 
+cancer (extending over 7.4 cm) and in axillary lymph node; right 
+breast MRI with multiple high-signal areas likely representing 
+cysts, as well as intermediate-signal region in central, 
+slightly inner breast; u/s did not show lesion; repeat bilateral 
+mammogram showed evid of left cancer as well as satellite lesion
+___- core biopsy left breast mass with grade III, invasive 
+ductal carcinoma, ER/PR-positive and her2neu negative; FNA left 
+axillary node positive for malignant cells
+___- CT C/A/P with small lung nodules; multiple small 
+mediastinal lymph nodes; no definite evidence of mets; bone scan 
+prelim negative for mets; ECHO with normal cardiac fx
+___- started dose dense AC 
+___- taxol
+___- right breast lumpectomy and axillary lymph node 
+dissection with 1.3 cm, grade III, invasive ductal carcinoma 
+with LVI and no EIC; ___ score of 3 of 5; ___ nodes 
+with cancer; ER/PR-positive and her2neu negative.
+___  Arimidex
+___- XRT
+ 
+PAST MEDICAL HISTORY:  
+hyperlipidemia, hiatal hernia, basal cell carcinoma, osteopenia,
+varicose vein surgery, tonsils and adenoidectomy in childhood.
+
+ 
+Social History:
+___
+Family History:
+She has two sons in their ___ who are cancer free as is her 
+brother and niece and nephew. Her mother was diagnosed with 
+multiple myeloma at ___ and died at ___. Her other had two sisters 
+and eight brothers. One of Ms. ___ aunts had colon cancer 
+at ___ and two of her uncles had prostate cancer at older ages. 
+She has one cousin with lung cancer and one who died of 
+pancreatic cancer. She has no other maternal history of cancer 
+reported. On her fathers side her father had lymphoma and passed 
+away at ___. He had four sisters all of whom lived into their 
+___ with no cancer and three brothers who were also cancer 
+free. Ms. ___ had one paternal cousin, the daughter of an 
+aunt, who died in her ___ from ovarian cancer. She does not 
+report any other paternal history of cancer. BRCA testing 
+negative 
+
+ 
+Physical Exam:
+=====================
+ADMISSION EXAM
+=====================
+Vitals: 102.8 -> 99 after Tylenol
+___  HR 109 -> 90s   RR 20  98% RA 
+GENERAL: pleasant female, appears stated age, no distress.  
+wearing dark reading glasses because other glasses broke
+HEENT: anicteric sclerae, clear oropharynx, no exudate
+Neck: no adenopathy
+CARDIAC:  RRR, normal S1, S2, no murmurs or gallops
+Chest: left chest port without erythema
+LUNG:  clear lungs bilaterally, no wheezes or crackles
+ABDOMEN:  soft, non-tender, slightly distended, active bowel 
+sounds
+EXTREMITIES:  2+ radial and DP pulses, no edema
+NEURO:  CNs ___ intact, strength and sensation grossly intact 
+in UEs and ___
+SKIN:  no rashes, evidence of tinea pedis on feet with skin 
+breakdown
+
+=====================
+DISCHARGE EXAM
+=====================
+Vitals: 98.3 130/75 92 20 95ra 
+GENERAL: pleasant female, NAD
+HEENT: anicteric sclerae, clear oropharynx, no exudate
+CARDIAC:  RRR, normal S1, S2, no murmurs or gallops
+Chest: left chest port without erythema
+LUNG:  CTABL
+ABDOMEN:  soft, non-tender, slightly distended, active bowel 
+sounds
+EXTREMITIES:  2+ radial and DP pulses, 1+ edema to the mid-thigh
+NEURO:  AAOx3, CNs ___ intact, strength and sensation grossly 
+intact 
+SKIN:  no rashes, evidence of tinea pedis on feet without other 
+superimposed infection
+
+ 
+Pertinent Results:
+=====================
+ADMISSION LABS
+=====================
+
+___ 02:00PM   WBC-0.8*# RBC-3.45* HGB-11.1*# HCT-32.8*# 
+MCV-95 MCH-32.1* MCHC-33.8 RDW-12.9
+___ 02:00PM   NEUTS-0 BANDS-0 LYMPHS-80* MONOS-14* EOS-0 
+BASOS-0 ATYPS-6* ___ MYELOS-0
+___ 02:00PM   ALBUMIN-3.2*
+___ 02:00PM   LIPASE-6
+___ 02:00PM   ALT(SGPT)-45* AST(SGOT)-50* ALK PHOS-149* TOT 
+BILI-1.5
+___ 02:00PM   GLUCOSE-121* UREA N-8 CREAT-0.6 SODIUM-137 
+POTASSIUM-3.2* CHLORIDE-104 TOTAL CO2-22 ANION GAP-14
+___ 02:04PM   LACTATE-2.0
+___ 10:00PM URINE  MUCOUS-RARE
+___ 10:00PM URINE  AMORPH-RARE
+___ 10:00PM URINE  RBC-0 WBC-1 BACTERIA-FEW YEAST-NONE 
+EPI-<1 RENAL EPI-<1
+___ 10:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 10:00PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+
+=====================
+DISCHARGE LABS
+=====================
+___ 05:30AM BLOOD WBC-23.9* RBC-2.85* Hgb-9.1* Hct-28.1* 
+MCV-99* MCH-31.9 MCHC-32.3 RDW-15.0 Plt ___
+___ 05:30AM BLOOD ___ PTT-43.1* ___
+___ 05:30AM BLOOD Glucose-109* UreaN-8 Creat-0.5 Na-140 
+K-3.4 Cl-107 HCO3-28 AnGap-8
+___ 05:30AM BLOOD ALT-30 AST-38 AlkPhos-235* TotBili-0.7
+___ 05:30AM BLOOD Calcium-7.5* Phos-2.4* Mg-1.9
+___ 04:25PM BLOOD TSH-3.1
+
+=====================
+MICRO
+=====================
+BCX - NGTD, drawn on 3 days
+UCx - final no growth
+C. diff negative
+Stool O+P negative, culture no growth
+
+=====================
+STUDIES
+=====================
+RUQ U/S
+The common bile duct stent in place with minimal gas in the 
+biliary tree.  No  evidence of intra or extrahepatic biliary 
+duct dilatation 
+
+CXR:
+Small bilateral pleural effusions. No evidence of pneumonia. 
+
+ 
+Brief Hospital Course:
+___ yo female with non-resectable pancreatic adenocarcinoma s/p 
+FOLFIRINOX with neutropenic fever. 
+
+#. Neutropenic fever- Patient met SIRS criteria on admission for 
+fever, tachypnea and tachycardia.  Her only localizing symptom 
+was diarrhea which had been persistent for 1 week and which had 
+a negative workup previous at OSH.  She was covered with 
+Vanc/Cefepime/Flagyl from ___ to ___.  She was given Neupogen 
+and her counts recovered.  She was afebrile for 48 hours with 
+cultures negative and neutropenia resolved and antibiotics were 
+stopped without subsequent fevers.  She developed leukocytosis 
+in the setting of having been administered Neupogen. 
+
+# CV-r : Patient transferred to the ICU on ___ for new AFib 
+with RVR and associated hemodynamic instability with SBPs in ___ 
+after being given Metoprolol.  Electrical cardioversion was 
+attempted and was unsuccessful. She was given IVF and started 
+wtih amiodarone loading was begun on floor.  In the ICU, she was 
+continued on amiodarone gtt. This resulted in rebound in blood 
+pressure and restoration of SR on morning of transfer. 
+Cardiology was consulted. They recommended continuing Amiodarone 
+loading.  She was started on metoprolol 25 mg XL daily. Two sets 
+of cardiac enzymes and TSH were WNL.  She may require an 
+outpatient TTE and followup with cardiology.  Anticoagulation 
+was deferred given prognosis with pancreatic cancer.  
+
+# CV-p: Patient with e/o mild CHF in the setting of volume 
+resuscitation during her arrhythmia.  She was diuresed with 
+lasix 20mg IV successfully.  She was above her dry weight of 152 
+lbs, weight in the 160 lbs while admitted.  She had no 
+respiratory symptoms but still had significant ___ edema on 
+discharge.  Lasix should be continued until she is at her dry 
+weight and then held to see whether her weight rise suggesting 
+that she may need daily lasix. 
+
+#. Pancreatic adenocarcinoma- on FOLFIRINOX, started ___. 
+Hold additional therapy pending resolution of above.  ___ switch 
+to FOLFOX or Gem/Abraxane as outpt. 
+
+#. Tinea pedis- terbinafine
+ 
+#. HL- stopped home statin
+
+#. GERD- PPI
+
+TRANSITIONAL ISSUES:
+- weigh daily on a standing scale
+- continue lasix for diuresis, can stop giving lasix when she 
+hits her dry weight of 152lbs and then consider whether to 
+restart based on whether her weights are stable
+- establish outpatient cardiology followup
+- consider TTE
+- titrate loperamide and tincture of opium dosing to ___ BM 
+daily
+Complete Amiodarone load as follows: 
+- Amiodarone 200 mg TID ___
+- Amiodarone 200 mg BID ___ - ___
+- Amiodarone 200 mg daily ___ onward
+- check EKG on ___, if QTc > 500 hold Amiodarone and contact 
+Dr. ___ further instruction Phone: ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone Propionate NASAL 1 SPRY NU BID 
+2. Atorvastatin 20 mg PO DAILY 
+3. Omeprazole 20 mg PO BID 
+4. Zenpep (lipase-protease-amylase) 10,000-34,000 -55,000 unit 
+oral QID 
+5. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Fluticasone Propionate NASAL 1 SPRY NU BID 
+3. Omeprazole 20 mg PO BID 
+4. Zenpep (lipase-protease-amylase) 10,000-34,000 -55,000 unit 
+oral QID 
+5. Amiodarone 200 mg PO TID Duration: 3 Days 
+- Amiodarone taper 
+ 200 mg TID ___
+ 200 mg BID ___ - ___
+ 200 mg daily ___ onward 
+6. Furosemide 40 mg PO DAILY 
+7. Metoprolol Succinate XL 25 mg PO DAILY 
+8. Opium Tincture 5 DROP PO Q6H:PRN diarrhea 
+titrate to ___ BM daily 
+9. LOPERamide 2 mg PO QID:PRN diarrhea 
+Titrate to ___ BM daily 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Neutropenia
+Fever
+Atrial fibrillation with rapid ventricular response
+Diarrhea
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear ___, 
+
+___ was a pleasure taking care of you and getting to you know at 
+___.  You were admitted with fevers and low blood 
+counts.  You were given broad coverage with antibiotics until 
+you no longer had fevers.  You tested negative for C. diff and 
+your diarrhea was controlled with immodium and tincture of 
+opium.  You went into a fast heart rhythm with low blood 
+pressure that requries you take several new medications.  You 
+had extra fluid on your body and were given diuretics.  
+
+You will need to make sure you have a followup appointment 
+scheduled with cardiology. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11784093-DS-9 | hadm_id=24681555
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Fish derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cc: painless jaundice
+ 
+Major Surgical or Invasive Procedure:
+ERCP ___
+ 
+History of Present Illness:
+___ y/o F with h/o breast ca and new HOP pancreatic adenocarcinma 
+primary vs. metastasis from breast cancer metastasis presented 
+with painless jaundice. Admitted overnight for observation after 
+ERCP. 
+
+___ - presented to ___ oncologist with mild abd pain 
+(since resolved). Abd CT found to have pancreatic mass
+___ - endoscopic u/s found adenocarcinoma, scheduled appt with 
+surg onc tomorrow (___) for assessment of next steps.
+
+Began developing darkened urine, lab tests showed elev in LFT, 
+TB (8.7) referred for ERCP. ERCP today - sphincterotomy, 
+placement of stent, removal of stones
+
+Currently patient with no complaints except she is hungry. No 
+abd pain now or recently. 
+
+Review of Systems:  
+(-) fever, chills, night sweats, headache, rhinorrhea (does have 
+post-nasal drip), sore throat, cough, shortness of breath, chest 
+pain, abdominal pain, nausea, vomiting, diarrhea
+ 
+Past Medical History:
+-Hypercholesteroemai
+-Osteopenia
+-Allergic rhinitis
+- Knee arthritis
+- Varciose veins
+-Invasive ductal carcinoma - grade III, left breast mass, 
+er/pr-posite her2neu neg, fna left ax node positive, ___ 
+breast lumpectomy, ___ nodes pos, ___ to ___ was on arimdex
+ 
+Social History:
+___
+Family History:
+brother with colon cancer
+ 
+Physical Exam:
+Physical Exam:  98, 127/62, 102, 18, 97% RA
+General: well appearing, alopecia, no acute distress, pleasant
+HEENT:   no jaundice, PERRL
+Neck:   no ___
+CV:  RRR no m
+Lungs: CTAB
+Abdomen: soft, no HSM, active BS, no tenderness
+GU: no CVAT
+Ext:   no edema, erythema c/w chronic edema though
+Neuro: grossly intact
+Skin: warm, dry
+
+Physical exam on discharge unchanged.
+ 
+Pertinent Results:
+___ 10:20AM   ALT(SGPT)-308* AST(SGOT)-273* ALK PHOS-322* 
+AMYLASE-36 TOT BILI-9.9* DIR BILI-6.1* INDIR BIL-3.8
+___ 10:20AM   WBC-4.2 RBC-4.25 HGB-13.9 HCT-42.8 MCV-101* 
+MCH-32.6* MCHC-32.4 RDW-13.1
+
+labs on discharge:
+
+___ 04:10AM BLOOD WBC-4.3 RBC-3.68* Hgb-11.8* Hct-37.0 
+MCV-101* MCH-32.2* MCHC-32.0 RDW-13.7 Plt ___
+___ 04:10AM BLOOD Neuts-78* Bands-0 Lymphs-10* Monos-10 
+Eos-1 Baso-1 ___ Myelos-0
+___ 04:10AM BLOOD UreaN-5* Creat-0.5 Na-142 K-3.2* Cl-105
+___ 04:10AM BLOOD ALT-213* AST-152* AlkPhos-266* 
+TotBili-4.5*
+___ 04:10AM BLOOD Albumin-3.0*
+ 
+Brief Hospital Course:
+___ y/o female with history of breast cancer and new pancreatic 
+mass admitted for observation overnight following ERCP for 
+painless jaundice.
+
+#Pancreatic mass
+#Biliary obstruction
+The patient underwent ERCP with stent placement. She was 
+monitored overnight with improvement in her LFTs the following 
+day. Her diet was advanced which she tolerated well. She was 
+seen by Dr. ___ from surgical oncology who  
+recommended a  diagnostic laparoscopy to rule out occult 
+metastatic disease with concurrent port placement. The patient 
+will follow up with Dr. ___ oncologist, Dr. ___ to 
+discuss further treatment. She will likely need repeat ERCP with 
+metal stent placement in ___ months. 
+
+#Hypercholesterolemia
+Lipitor was held due to transminitis
+
+Transitional issues:
+- will follow up with surgical and medical oncology for further 
+management of pancreatic mass
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+2. Naproxen 500 mg PO Q8H:PRN knee pain 
+3. DiphenhydrAMINE 25 mg PO HS:PRN insomnia 
+
+ 
+Discharge Medications:
+1. DiphenhydrAMINE 25 mg PO HS:PRN insomnia 
+2. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Biliary obstruction due to pancreatitic mass
+High cholesterol
+Breast cancer
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+It was a pleasure taking care of you during your recent 
+admission to ___. You were admitted for observation following 
+your ERCP. Your diet was advanced in the morning and you 
+tolerated it well. You were also seen by Dr. ___ surgical 
+oncology. Her office will contact you for follow up.
+If you continue to have diarrrhea, please call your PCP or 
+oncologist.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11784093-DS-12 | hadm_id=28976274
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Fish derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+BRBPR
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ y/o F with a history of pancreatic CA and 
+breast CA on  FOLFIRINOX, started in ___ who presents with 
+BRBPR. 
+
+Ms. ___ has had a complicated course starting in ___ with intiation of chemotherapy. Since that time she has had 
+diarrhea related to chemo, pancreatic insufficiency, and 
+medications. She was admitted at ___ with diarrhea in 
+___, then admitted to ___ a few days later with neutropenic 
+fever. She remained hospitalied until mid ___ at which time 
+she was discharged to rehab. She was discharged home from rehab 
+___. She has continued to feel weak and deconditioned, but no 
+more so than her recent baseline. 
+
+On ___ she was seen by her oncologist to resume chemotherapy, 
+however it was felt that she was not yet strong enough to do so. 
+___ morning, she awoke to use the restroom and had a bloody 
+BM. She then had a second bloody BM which consisted of "clots." 
+She called her oncologist right away and was referred to the ED. 
+
+
+She has not had any nausea or vomiting. No abdominal pain. No 
+fevers or chills. No urinary symptoms. She has not had any 
+further episodes of BRBPR. Her baseline HCT has been ___.
+
+Initial vitals: 98.0 96 119/65 16 98% ra 
+Transfer vitals: 97.5 79 106/54 16 98% RA 
+Meds: She was given metoprolol, omeprazole, and amiodarone (home 
+meds)
+IVF: 1L NS
+Access: 20g POC
+Labs: Notable for HCT of 31.5 (recent baseline ___
+
+ROS: Positive for BRBPR, fatigue, and "feeling tired". Negative 
+for abd pain, fevers, chills, nausea, vomiting, body aches, 
+constipation, dysuria frequency, SOB, CP, palps. All other 
+review of systems negative.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY: 
+Pancreatic Cancer:
+___- presented with abdominal pain; CT A/P showed Pancreatic 
+head mass measuring approximately 41 x 37 mm abutting and likely 
+encasing the SMA and partially encasing the SMV; a pancreatic 
+head mass abutted the confluence of the splenic vein and SMV 
+with thrombus or tumor extension in the portal vein with 
+dilatation of the pancreatic duct within the body and tail of 
+the pancreas. There were small mesenteric lymph nodes which were 
+felt to be nonspecific.
+___- EUS (Dr. ___ showed pancreatic head mass with 
+cytology positive for adenocarcinoma
+___- developed biliary obstruction s/p placement of stent 
+with normalization of LFTs
+___- Diagnostic laparoscopy with Port-A-Cath placement (Dr. 
+___- Peritoneal washings negative for malignant cells
+___- Start FOLFIRINOX
+Began to have diarrhea 3 days later, took imodium.
+___ Admitted ___ with diarrhea, dehydration, chest 
+pain. C. Diff negative, treated with fluids, imodium.
+___ At home, continued to have diarrhea but less. Yesterday 
+2 episodes, controlled with 2 doses of imodium.
+
+Breast Cancer: 
+___- noticed new left breast mass
+___- mammogram normal
+___- FNA left breast with malignant cells
+___- bilateral breast MRIs: left with enhancement in known 
+cancer (extending over 7.4 cm) and in axillary lymph node; right 
+breast MRI with multiple high-signal areas likely representing 
+cysts, as well as intermediate-signal region in central, 
+slightly inner breast; u/s did not show lesion; repeat bilateral 
+mammogram showed evid of left cancer as well as satellite lesion
+___- core biopsy left breast mass with grade III, invasive 
+ductal carcinoma, ER/PR-positive and her2neu negative; FNA left 
+axillary node positive for malignant cells
+___- CT C/A/P with small lung nodules; multiple small 
+mediastinal lymph nodes; no definite evidence of mets; bone scan 
+prelim negative for mets; ECHO with normal cardiac fx
+___- started dose dense AC 
+___- taxol
+___- right breast lumpectomy and axillary lymph node 
+dissection with 1.3 cm, grade III, invasive ductal carcinoma 
+with LVI and no EIC; ___ score of 3 of 5; ___ nodes 
+with cancer; ER/PR-positive and her2neu negative.
+___  Arimidex
+___- XRT
+ 
+PAST MEDICAL HISTORY:  
+hyperlipidemia, hiatal hernia, basal cell carcinoma, osteopenia,
+varicose vein surgery, tonsils and adenoidectomy in childhood.
+
+ 
+Social History:
+___
+Family History:
+Per OMR
+Mother - multiple myeloma at ___ and died at ___
+Father - lymphoma and passed away at ___
+Maternal Aunt - colon cancer at ___ 
+Maternal 2 uncles - prostate cancer
+___ Cousin - lung cancer 
+___ Cousin - died of pancreatic cancer
+Paternal cousin - died in her ___ from ovarian cancer
+ 
+Physical Exam:
+Admission Exam: 
+VS: 98.1 113/59 88 18 97% on RA
+Pain: ___ 
+Gen: Chronically ill, elderly, NAD
+HEENT: Anicteric, MMM
+Cardiac: Normal rate, irregularly irregular
+Resp: CTAB
+GI: Soft, NT, ND, NABS, no rebound or guarding
+Skin: No rash on limited exam
+Neuro: No gross deficits on limited exam
+Pulses: 2+ radial
+
+ 
+Pertinent Results:
+Admission Labs: 
+___ 05:30PM BLOOD WBC-5.2# RBC-3.15* Hgb-10.4* Hct-31.5* 
+MCV-100* MCH-33.1* MCHC-33.1 RDW-15.2 Plt ___
+___ 05:30PM BLOOD Glucose-104* UreaN-8 Creat-0.6 Na-139 
+K-3.5 Cl-107 HCO3-24 AnGap-12
+
+Urine:
+___ 09:51PM URINE Color-Yellow Appear-Hazy Sp ___
+___ 09:51PM URINE RBC-14* WBC-28* Bacteri-FEW Yeast-NONE 
+Epi-1
+___ 09:51PM URINE Blood-NEG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-2* pH-6.0 Leuks-MOD
+
+# ___: 83,509
+# Colonoscopy (___): Diverticulosis of the sigmoid colon and 
+descending colon. Otherwise normal colonoscopy to cecum
+. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ y/o F with a history of pancreatic CA, breast 
+CA recent FOLFIRINOX ___ presenting with BRBPR. 
+
+# Acute blood loss anemia secondary to a lower GI bleed: Ms. 
+___ was admitted with hematochezia.  However, throughout this 
+stay, her HCT remained stable, she had normal BUN/Creatinine, 
+and originally described "not a lot of blood loss".  
+Furthermore, there was no further GI bleed during this stay.  
+Due to these factors, the bleeding was considered a small volume 
+lower GI bleed. Serial Hct was stable on discharge.  Mult prior 
+stool c.diff were neg; there was no evidence of hemorrhoids on 
+exam; and the previous colonoscopy ___ yrs ago had no significant 
+abnls that would account for more recent bleed 
+(AVM/diverticulosis) which would warrant further evaluation.  
+
+# Pancreatic cancer complicated by diarrhea: Ms ___ cancer 
+treatment was postponed due to functional status. It is possible 
+that she will be continued on gemcitibine, however a more recent 
+___ was markedly elevated ___ (80,000) - given the concern 
+of further expansion.  ___ oncology was involved and consulted. 
+ A torso CT scan was attempted but unable to be performed d/t 
+concern of IV dye allergy (plus pt did not want to take 
+prednisone and had significant diarrhea w/the oral contrast).  
+As a result this can be obtained as an outpt.  Creon was 
+continued in house. 
+
+# CV: Atrial fibrillation: 
+- rate control with metoprolol, amiodarone
+- ASA
+
+# OTHER ISSUES AS OUTLINED. 
+. 
+#FEN:   [] IVF   [X] Oral   [] NPO   [] Tube Feeds   [] 
+Parenteral
+#DVT PROPHYLAXIS: [X]heparin sc, PPI
+#LINES/DRAINS:   [X] Peripheral   [] PICC   [] CVL   [] Foley
+#PRECAUTIONS: [] Fall   [] Aspiration   [] 
+MRSA/VRE/CDiff/ESBL/Droplet /Neutropenic
+#COMMUNICATION: health care proxy: ___ 
+Relationship: Husband 
+Phone number: ___ 
+Cell phone: ___ 
+#CONSULTS: ___ Onc
+#CODE STATUS: [X]presumed full code []DNR/DNI
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Fluticasone Propionate NASAL 1 SPRY NU BID 
+3. Omeprazole 20 mg PO BID 
+4. Zenpep (lipase-protease-amylase) 10,000-34,000 -55,000 unit 
+oral QID 
+5. Amiodarone 200 mg PO BID 
+6. Metoprolol Tartrate 6.25 mg PO BID 
+
+ 
+Discharge Medications:
+1. Amiodarone 200 mg PO BID 
+2. Aspirin 81 mg PO DAILY 
+3. Fluticasone Propionate NASAL 1 SPRY NU BID 
+4. Metoprolol Tartrate 6.25 mg PO BID 
+5. Omeprazole 20 mg PO BID 
+6. Zenpep (lipase-protease-amylase) 10,000-34,000 -55,000 unit 
+oral QID 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+- Hematochezia
+- Pancreatic CA
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+It was a pleasure looking after you, Ms. ___.  As you know, 
+you were admitted for blood in the stools.  You were observed 
+for ~ 48hrs and was found to have a stable RBC count.  There 
+were no further episodes of bleeding.  Given that there was no 
+reduction in blood count, a colonscopy was not performed.  
+   To follow the status of the pancreatic cancer and due to 
+elevated tumor markers, CT scan of the torso was attempted, but 
+was forestalled due to concern of IV dye allergy reactions.  
+This can be performed as an outpatient as needed.
+   Please do not change any of your home medications.  The 
+regimen remains the same.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11784093-DS-10 | hadm_id=29808290
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Fish derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pancreatic mass
+ 
+Major Surgical or Invasive Procedure:
+___: Diagnostic laparoscopy, port-a-cath placement.
+
+ 
+History of Present Illness:
+The patient is a ___ female with newly diagnosed 
+pancreatic head mass concerning for adenocarcinoma s/p biliary 
+stent placement present today for diagnostic laparoscopy and PAC 
+placement. Prior surgery patient was evaluated by Dr. ___ in 
+her ___ ___ clinic. 
+ 
+Past Medical History:
+-Hypercholesteroemai
+-Osteopenia
+-Allergic rhinitis
+- Knee arthritis
+- Varciose veins
+-Invasive ductal carcinoma - grade III, left breast mass, 
+er/pr-posite her2neu neg, fna left ax node positive, ___ 
+breast lumpectomy, ___ nodes pos, ___ to ___ was on arimdex
+ 
+Social History:
+___
+Family History:
+brother with colon cancer
+ 
+Physical Exam:
+Prior Discharge:
+VS: 98.2, 116/80, 100, 18, 98%RA
+GEN: Pleasant with NAD
+CV: RRR, no m/r/g
+PULM: CTAB
+ABD: Laparoscopic incisions open to air with dermabond and 
+c/d/i. Left subclavian incision open to air with dermabond and 
+with minimal erythema.
+EXTR: Warm, no c/c/e 
+ 
+Pertinent Results:
+___ 09:04AM BLOOD WBC-14.1*# RBC-4.08* Hgb-13.1 Hct-40.3 
+MCV-99* MCH-32.2* MCHC-32.5 RDW-12.5 Plt ___
+
+___ CXR:
+As compared to the previous radiograph, the tip of the 
+Port-A-Cath 
+has been slightly pulled back.  The tip now projects over the 
+right atrium.  
+No evidence of complications.  Low lung volumes.  Moderate 
+cardiomegaly 
+without fluid overload but with an atelectasis at the perihilar 
+right lung region. 
+
+ 
+Brief Hospital Course:
+The patient with newly diagnosed with pancreatic head mass s/p 
+FNA consistent with adenocarcinoma was admitted to the Surgical 
+Oncology Service for elective diagnostic laparoscopy. On 
+___, the patient underwent diagnostic laparoscopy and 
+port-a-cath placement, which went well without complication (OP 
+Note unable upon discharge). After a brief, uneventful stay in 
+the PACU, the patient arrived on the floor NPO tolerating 
+clears, on IV fluids, with a foley catheter and PO Tylenol for 
+pain control. The patient was hemodynamically stable.
+Post-operative pain was initially well controlled with PO 
+Tylenol with PO Vicodin for breakthrough pain. Diet was 
+progressively advanced as tolerated to a regular diet by POD# 1 
+and was well tolerated. The patient subsequently voided without 
+problem. 
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs. The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled. The patient received discharge teaching and 
+follow-up instructions with understanding verbalized and 
+agreement with the discharge plan.
+
+ 
+Medications on Admission:
+ASA 81', fluticasone 50', atorvastatin 20', epi pen PRN, 
+loratadine 10' PRN, co Q10-Vit E 100-5', naproxen 250'', 
+omeprazole 20 ER', mucinex', glucosamine-chondroitin', CaCO3 
+650', MVI'  
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN pain / fever 
+Please do not exceed 4000 mg/day 
+2. Aspirin 81 mg PO DAILY 
+3. ClonazePAM 0.25 mg PO ONCE MR1 Sleep/anxiety Duration: 1 Dose 
+
+4. Docusate Sodium 100 mg PO BID 
+5. Hydrocodone-Acetaminophen (5mg-500mg) 1 TAB PO ONCE Duration: 
+1 Dose 
+Please do not exceed 4000 mg of Tylenol per day 
+6. Omeprazole 20 mg PO DAILY 
+7. Atorvastatin 20 mg PO DAILY 
+8. Multivitamins W/minerals 1 TAB PO DAILY 
+9. Calcium 600 (calcium carbonate) 600 mg (1,500 mg) oral QD 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pancreatic head mass 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the surgery service at ___ for diagnostic 
+laparoscopy and port-a-cath placement. You have done well in the 
+post operative period and are now safe to return home to 
+complete your recovery with the following instructions:
+.
+Call Dr. ___ office at ___ if you have any 
+questions or concerns.
+.
+Please resume all regular home medications , unless specifically 
+advised not to take a particular medication.  Also, please take 
+any new medications as prescribed.
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids.  Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon, who will instruct you further regarding activity 
+restrictions.
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+Incision Care:
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site of fever > 101.
+*Avoid swimming and baths until your follow-up appointment.
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water.  Gently pat the area dry.
+
+ 
+Followup Instructions:
+___

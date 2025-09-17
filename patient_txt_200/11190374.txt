@@ -1,0 +1,3247 @@
+===== DISCHARGE NOTE =====
+note_id=11190374-DS-21 | hadm_id=20109493
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet / milk
+ 
+Attending: ___
+ 
+Chief Complaint:
+Nausea, Vomiting, Diarrhea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with recently
+diagnosed metastatic pancreatic adenocarcinoma complicated by
+peritoneal carcinomatosis and malignant ascites requiring
+frequent paracentesis, biliary obstruction s/p metal stent
+placement, and left portal vein partial thrombosis on ___ 
+who
+presents with nausea/vomiting and diarrhea.
+
+The patient has had progressive PO intake due to nausea for many
+weeks. Then, after starting C1 of FOLFIRINOX on ___ and since
+has had progressive nausea, vomiting and diarrhea. Due to this
+she has been unable to eat. Her vomit and diarrhea has been
+non-bloody. 
+
+Of note, the patient stated that she was previously constipated
+and then took a dose of miralax which preceded the diarrhea. She
+also denies sick contacts.
+
+She denies any fevers or chills. She denies headache or vision
+changes. No chest pain or vision changes. Abdominal distention 
+is
+stable. No dysuria.
+
+In the ED, the initial vital signs were:
+97.5 HR 97 BP 121/82 R 18 SpO2 96% RA
+
+Laboratory data was notable for:
+Normal CBC 
+Na 132
+AP 159
+INR 1.7 Lactate 1.7
+
+The patient received:
+
+___ 19:04 IVF  NS 1000 mL 
+___ 19:37 IV Prochlorperazine 10 mg  
+___ 00:13 PO/NG Calcium Carbonate 500 mg 
+___ 08:44 PO/NG Ondansetron 8 mg 
+___ 09:22 PO/NG Rivaroxaban 20 mg  
+___ 14:58 IVF  LR at 150 mL/hr 
+___ 16:49 PO/NG Ondansetron 8 mg 
+
+Imaging demonstrated:
+___ 19:10   Chest (Pa & Lat) 
+IMPRESSION:  
+ 
+Persistent moderate left-sided pleural effusion. No superimposed
+acute cardiopulmonary process. 
+
+ECG: NSR Rate 89, normal axis and intervals (QTc 432)
+
+Upon arrival to ___, the patient states she is still having
+nausea and vomiting but has not had an episode of diarrhea since
+this morning.
+
+ROS: 10 point review of systems discussed with patient and
+negative unless noted above
+ 
+Past Medical History:
+Pancreatic CA, as above
+PVT on rivaroxaban
+HTN
+ 
+Social History:
+___
+Family History:
+FamHx:
+- Father with colon cancer in his ___
+- Sister with breast cancer in her ___
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+======================
+VITALS: T 98.6 BP 145/84 HR 96 R 18 SpO2 96 RA  
+GENERAL:  Tired, NAD 
+HEENT: dry mucous membranes, no lesions or thrush
+EYES:  PERRL, anicteric
+NECK:  supple
+RESP:  CTAB, no increased WOB, no wheezing, rhonchi or crackles
+___:  RRR no MRG
+GI:  soft, distended, non-tender
+EXT:  warm, no edema
+SKIN:  dry
+NEURO:  CN II-XII intact
+ACCESS:  ecchymosis over R POC
+
+DISCHARGE PHYSICAL EXAM:
+======================
+PHYSICAL EXAM:  
+___ 0731 Temp: 98.1 PO BP: 122/78 R Sitting HR: 91 RR: 16 
+O2
+sat: 97% O2 delivery: RA 
+GENERAL: NAD
+RESP:  no respiratory distress
+___:  regular rate
+ABD: distended soft, non-ttp
+EXT:  warm, no edema
+ 
+Pertinent Results:
+ADMISSION LABS:
+=============
+___ 05:45PM BLOOD WBC-6.6 RBC-5.35* Hgb-14.9 Hct-45.2* 
+MCV-85 MCH-27.9 MCHC-33.0 RDW-13.3 RDWSD-41.1 Plt ___
+___ 05:45PM BLOOD Neuts-91* Bands-1 Lymphs-8* Monos-0* 
+Eos-0* Baso-0 AbsNeut-6.07 AbsLymp-0.53* AbsMono-0.00* 
+AbsEos-0.00* AbsBaso-0.00*
+___ 05:45PM BLOOD Glucose-145* UreaN-20 Creat-0.9 Na-132* 
+K-4.6 Cl-99 HCO3-20* AnGap-13
+___ 05:45PM BLOOD ALT-29 AST-19 AlkPhos-159* TotBili-0.9
+___ 05:45PM BLOOD Lipase-38
+___ 07:19PM BLOOD Lactate-1.7
+___ 01:38PM URINE Color-Yellow Appear-Clear Sp ___
+___ 01:38PM URINE Blood-SM* Nitrite-NEG Protein-30* 
+Glucose-NEG Ketone-10* Bilirub-NEG Urobiln-2* pH-6.0 Leuks-TR*
+___ 01:38PM URINE RBC-11* WBC-10* Bacteri-FEW* Yeast-NONE 
+Epi-1
+___ 01:38PM URINE CastHy-2*
+___ 01:38PM URINE Mucous-FEW*
+
+PERTINENT INTERMITTENT LABS:   ****As of ___
+=========================
+___ 06:07AM BLOOD Neuts-63.9 ___ Monos-5.1 Eos-1.9 
+Baso-0.6 Im ___ AbsNeut-1.01* AbsLymp-0.42* AbsMono-0.08* 
+AbsEos-0.03* AbsBaso-0.01
+___ 04:40AM BLOOD Neuts-46.6 ___ Monos-9.6 Eos-1.8 
+Baso-2.6* Im ___ AbsNeut-0.53* AbsLymp-0.42* AbsMono-0.11* 
+AbsEos-0.02* AbsBaso-0.03
+___ 07:20PM BLOOD Glucose-164* UreaN-19 Creat-0.9 Na-134* 
+K-4.1 Cl-100 HCO3-24 AnGap-10
+___ 06:07AM BLOOD Glucose-156* UreaN-16 Creat-0.9 Na-137 
+K-4.3 Cl-104 HCO3-24 AnGap-9*
+
+IMAGING:
+========
+___ 7:10 ___ ___ CHEST (PA & LAT):
+Persistent moderate left-sided pleural effusion.  No 
+superimposed acute
+cardiopulmonary process.
+
+MICROBIOLOGY: ***As of ___
+============
+___  BCx: NGTD**
+___  UCx: NEGATIVE
+___ 6:03 pm STOOL     CONSISTENCY: LOOSE      Source: 
+Stool. 
+
+   C. difficile PCR (Final ___: 
+      POSITIVE.              (Reference Range-Negative). 
+         The C. difficile PCR is highly sensitive for toxigenic 
+strains of
+         C. difficile and detects both C. difficile infection 
+(CDI) and
+         asymptomatic carriage. Therefore, positive C. diff PCR 
+tests
+         trigger reflex C. difficile toxin testing, which is 
+highly
+         specific for CDI. 
+
+   C. difficile Toxin antigen assay (Preliminary):  *******
+
+DISCHARGE LABS:
+==============
+
+___ 05:45AM BLOOD WBC-2.7* RBC-4.34 Hgb-12.1 Hct-36.3 
+MCV-84 MCH-27.9 MCHC-33.3 RDW-13.5 RDWSD-41.1 Plt ___
+___ 05:45AM BLOOD Neuts-53.6 ___ Monos-18.8* 
+Eos-0.4* Baso-0.7 Im ___ AbsNeut-1.46* AbsLymp-0.62* 
+AbsMono-0.51 AbsEos-0.01* AbsBaso-0.02
+___ 07:50AM BLOOD ___
+___ 05:45AM BLOOD Glucose-104* UreaN-16 Creat-0.8 Na-133* 
+K-4.0 Cl-101 HCO3-22 AnGap-10
+___ 06:07AM BLOOD ALT-26 AST-20 AlkPhos-125* TotBili-0.6
+___ 05:45AM BLOOD Calcium-8.2* Phos-3.4 Mg-1.9
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES:
+=================
+[ ] Home ___ and will need outpatient paracentesis appointment
+
+SUMMARY: 
+=========
+___ with metastatic pancreatic cancer presented with persistent 
+N/V/D after starting C1 of FOLFIRINOX, eight days prior to 
+admission, treated with IVF and IV antiemetics, found to be C 
+dif PCR positive, treated with IV flagyl and PO vancomycin. 
+
+HOSPITAL COURSE:
+===============
+#CHEMOTHERAPY RELATED NAUSEA, VOMITING AND DIARRHEA
+#MALNUTRITION: 
+Patient started FOLFIRONIX eight days prior to admission. 
+Reportedly developed N/V/D within 24h after its administration. 
+Unfortunately worsened and persisted leading to inability to 
+tolerate po intake. She was treated with IV zofran, compazine, 
+and IVF. Electrolytes were optimally repleted and she was given 
+IV thiamine 200mg x 3 days. She was found to be C. diff positive 
+on PCR and was started on PO vancomycin and IV flagyl. The toxin 
+c.diff was negative and antibiotics were stopped. Patient GERD 
+medications were switched to PPI which greatly improved her 
+symptoms.
+
+#CLOSTRIDIUM DIFFICILE INFECTION
+Patient found to be PCR positive for C. diff. Given her 
+neutropenia, decision was made to initiate treatment while toxin 
+results were pending. She was treated with IV flagyl and PO 
+vancomycin. Toxin negative. Abx stopped. 
+
+#NEUTROPENIA:
+Patient received FOLFIRONIX ___. Prior to chemotherapy had ANC 
+>6k. Noted to be 1580 on admission and continued to downtrend. 
+Her ANC nadir was 0.18 , she was placed on neutropenic 
+precautions. She remained afebrile during admission. Discharge 
+WBC/ANC was 2.7/1.6 respectively. 
+
+CHRONIC/STABLE ISSUES:
+======================
+#PANCREATIC CANCER
+#MALIGNANT ASCITES
+#SECONDARY MALIGNANCY OF LIVER
+#SECONDARY MALIGNANCY OF PERITONEUM:
+Recently started FOLFIRINOX ___. Ascites managed with 
+intermittent paracentesis. Has h/o biliary obstruction s/p metal 
+stent placement into right intrahepatic system ___. Despite 
+mild ascites on exam, patient did not have any abdominal pain or 
+increased discomfort from baseline. A paracentesis was performed 
+while inpatient on ___ held 1 day of rivaroxaban and INR was 
+1.6. Her nausea was treated as above. 
+
+#PORTAL VEIN THROMBOSIS: 
+LFTs stable on rivaroxaban. H/o PVT ___. Continued home 
+rivaroxaban. 
+
+#HYPONATREMIA: RESOLVED
+#METABOLIC ACIDOSIS: RESOLVED
+Hypovolemic hyponatremia in setting of poor PO intake and 
+nausea/vomiting/diarrhea. Non-gap acidosis likely from alkaline 
+losses in stool. Both of which resolved with IVF. 
+
+#HCP/CONTACT: Name of health care proxy: ___ 
+Relationship: son 
+Phone number: ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+2. Vitamin D 1000 UNIT PO DAILY 
+3. Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line 
+4. Rivaroxaban 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*2 
+2.  Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+ 
+3.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line  
+4.  Rivaroxaban 20 mg PO DAILY  
+5.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+=================
+Chemotherapy induced emesis
+
+SECONDARY DIAGNOSIS:
+===================
+Metastatic Pancreatic Adenocarcinoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear. Ms. ___,
+
+You came to the hospital because you had persistent nausea, 
+vomiting, and diarrhea after receiving your chemotherapy. While 
+you were here we treated you with medications and fluids to help 
+with your nausea and vomiting. You were started on pantoprazole 
+twice daily which helped your symptoms greatly. We treated you 
+with antibiotics for a potential GI infection until your stool 
+showed negative test results. At that time we stopped your 
+antibiotics. Your ANC or neutrophils that fight infection 
+started to increase and improve.
+
+You had a paracentesis and had some of the ascites drained from 
+your abdomen. Ultimately your symptoms improved, you were able 
+to tolerate a regular diet, and you were ready to leave the 
+hospital. 
+
+Continue to the rest of your medications as prescribed. Please 
+be sure to attend your follow up appointments as written below. 
+
+It was a pleasure taking part in your care. Sincerely,
+
+___ team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11190374-DS-25 | hadm_id=20454243
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet / milk
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fever
+ 
+Major Surgical or Invasive Procedure:
+ERCP ___: 8 mm x 80 mm fully covered metal stent deployed 
+across a 1 cm stricture distal to the hilum 
+ 
+History of Present Illness:
+Per Dr. ___ ONCOLOGIST:  ___, MD, PHD  -> ML ___
+PRIMARY DIAGNOSIS:  metastatic pancreatic cancer
+TREATMENT REGIMEN: FOLFOX (s/p C4)
+ 
+CHIEF COMPLAINT:  Fever 
+
+HISTORY OF PRESENT ILLNESS:  
+___ PMH metastatic pancreatobiliary carcinoma (omentum, 
+peritoneum, porta hepatis, pancreatic tail and right ovary), c/b 
+
+biliary obstruction + bacteremia (s/p ERCP/stent), PE, and 
+malignant ascites (s/p weekly paracentesis), who presented from
+home with fever concerning for cholangitis due to recurrent
+biliary obstruction  
+
+Of note, patient seen in clinic several days ago, was noted to
+have large increase in AP for which Dr ___ was concerned that
+she may again be developing cholangitis so directed her to take
+cipro x 1week and present to ED if any concerns. Prior to
+starting the medication she developed high spiking fever so
+presented to the ED 
+
+Pt reported that she had her weekly paracentesis on ___ for
+which 3.7 L of fluid was removed.  She noted that she felt well
+afterward until the evening when she developed high spiking
+fevers.  She denied any abdominal pain, nausea, vomiting. 
+Reported that she had diarrhea several days ago after a 
+prolonged
+period of constipation but has not had a bowel movement in
+several days.  Noted that she was without rash or sick contacts. 
+
+Denied any cough.
+
+In the ED, initial vitals:  102.9 113 120/77 28 95% RA. While in
+ED her HR peaked in 140s then improved with fluids. WBC 14.7, 
+Hgb
+8.8, plt 174, ALT 122, AST 167, AP 1344, Tbili 1.7, Phos 2.2, 
+INR
+1.6, Lactate normal, Flu negative, UA negative for infection. 
+
+CXR:
+Slightly smaller moderate left pleural effusion with adjacent
+atelectasis. Pneumonia cannot be excluded, for which clinical
+evaluation is recommended.
+
+CT A/P with contrast:
+1. No findings of colitis or intra-abdominal abscess.
+2. Apparent long segment of bowel wall thickening affecting the
+jejunum likely present on prior, potentially due to enteritis or
+venous congestion in the setting of underlying mesenteric
+disease.
+3. Unchanged intrahepatic biliary dilatation with a CBD stent
+which remains unchanged in positioning.
+4. Minimal interval decrease in pancreatic tail mass.
+5. Moderate volume ascites.
+6. Large left pleural effusion with associated compressive
+atelectasis.
+ 
+ERCP was consulted, rec'd that she be NPO for stent clean out on
+___. Patient was empirically treated with
+cefepime/flagyl/daptomycin + PO vancomycin
+ 
+REVIEW OF SYSTEMS:  
+A complete 10-point review of systems was performed and was
+negative unless otherwise noted in the HPI. 
+ 
+Past Medical History:
+As per admitting MD
+PAST ONCOLOGIC HISTORY:  
+- ___: Presented to ED with 6 months of worsening LLQ
+abdominal pain, weight loss (~25lbs), early satiety, abdominal
+distension, nausea, and constipation. Found to have large volume
+ascites, peritoneal carcinomatosis, and R ovarian lesion. 
+- ___: Omental biopsy and therapeutic paracentesis. Biopsy
+returns suggestive of pancreaticobiliary/upper GI primary. 
+- ___: MRCP with extensive omental and peritoneal disease
+with associated pancreatic tail mass, porta hepatis soft tissue
+mass with biliary obstruction and left portal vein partial
+thrombosis
+- ___: EGD/ERCP, pancreatic mass Bx c/w pancreatic
+adenocarcinoma. Straight uncovered metal stent placed into the
+right intrahepatic system
+- ___: C1D1 FOLFIRINOX
+- ___: Admission due to dehydration, diarrhea, fatigue,
+and overall significant toxicity from FOLFIRINOX
+- ___: C1D1 FOLFOX
+- ___: C2D1 FOLFOX
+- ___: admitted with febrile neutropenia (scheduled
+Neulasta given on day of admission), altered mental status, 
+found
+to have cholangitis and enterococcal and citrobacter bacteremia.
+ERCP ___ showed sludge but no pus, LFTs normalized after removal
+of sludge. D/c on 14 days daptomycin IV and cipro PO. CT showed
+subsegemental PE and left subclavian DVT (was on Xarelto for 
+PVT;
+however, it was held for ___ days every week for paracentesis);
+continued on Xarelto with the plan to minimize interruptions of
+anticoagulation
+- ___:  C2D15 FOLFOX
+- ___:  admitted for abdominal distention, SOB, fatigue. 
+Received paracentesis with improvement in symptoms.  
+- ___:  C3D1 FOLFOX
+- ___ and ___:  telephone calls with weakness and fatigue
+- ___:  admitted for abdominal distention, SOB, fatigue. 
+Received paracentesis with improvement in symptoms.  
+- ___:  Palliative care visit with ___.  Described
+pain in lower pelvic area and thighs and lower back thought to 
+be
+due to ascites, suggested weekly paracentesis and low-dose
+hydromorphone (0.25--0.5 PO QD/BID PRN).  Also noted anxiety and
+stress. 
+- ___ AM:  paracentesis for 4L
+
+PAST MEDICAL HISTORY:  
+-Pancreatic Cancer, as above
+-PE, subclavian DVT and PVT on rivaroxaban
+-HTN
+-polymicrobial bacteremia
+
+ 
+Social History:
+___
+Family History:
+As per admitting MD
+- Father with colon cancer in his ___
+- Sister with breast cancer in her ___
+ 
+Physical Exam:
+VITAL SIGNS: 98.6 PO 114 / 74 R Sitting 60 17 97 Ra
+General:  NAD
+HEENT:  MMM 
+CV:  RR, NL S1S2 no S3S4, no MRG
+PULM:  CTAB, respirations unlabored 
+ABD:  BS+ SNT/ND even to deep palpation
+LIMBS:  No ___, WWP
+SKIN:  No rashes on extremities
+NEURO:  Speech fluent, strength grossly intact
+PSYCH: thought process logical, linear, future oriented
+ACCESS: chest port site intact w/o erythema, accessed and
+dressing C/D/I
+ 
+Pertinent Results:
+___ 05:15AM BLOOD WBC-9.5 RBC-2.67* Hgb-8.3* Hct-26.8* 
+MCV-100* MCH-31.1 MCHC-31.0* RDW-17.6* RDWSD-63.6* Plt ___
+___ 02:50PM BLOOD WBC-33.3* RBC-2.99* Hgb-9.5* Hct-29.7* 
+MCV-99* MCH-31.8 MCHC-32.0 RDW-17.2* RDWSD-62.3* Plt ___
+___ 05:15AM BLOOD Glucose-122* UreaN-6 Creat-0.5 Na-135 
+K-4.1 Cl-101 HCO3-22 AnGap-12
+___ 02:50PM BLOOD UreaN-9 Creat-0.6 Na-133* K-3.7 Cl-92* 
+HCO3-28 AnGap-13
+___ 05:15AM BLOOD ALT-40 AST-31 AlkPhos-584* TotBili-0.6
+___ 05:00PM BLOOD ALT-122* AST-167* CK(CPK)-9* 
+AlkPhos-1344* TotBili-1.7*
+___ 05:15AM BLOOD Calcium-8.0*
+___ 02:50PM BLOOD Albumin-3.1* Calcium-8.6 Phos-3.1 Mg-2.0
+___ 02:50PM BLOOD CEA-3.1 CA125-552*
+___ 05:14PM BLOOD Lactate-1.3 Creat-0.7
+___ 02:50PM BLOOD CA ___ -Test      
+___ 04:00PM STOOL CDIFPCR-POS* CDIFTOX-NEG
+___ 05:50PM OTHER BODY FLUID FluAPCR-NEG FluBPCR-NEG
+___ 06:07PM URINE Blood-NEG Nitrite-NEG Protein-30* 
+Glucose-NEG Ketone-NEG Bilirub-SM* Urobiln-2* pH-6.5 Leuks-TR*
+___ 06:07PM URINE RBC-1 WBC-4 Bacteri-FEW* Yeast-NONE Epi-0 
+TransE-<___ w/ metastatic pancreatobiliary ca (omentum, peritoneum, 
+porta
+hepatis, pancreatic tail and R ovary), c/b 
+biliary obstruction + bacteremia (s/p ERCP/stent), PE, and 
+malignant ascites (s/p weekly paracentesis), p/w fever c/w
+cholangitis due to recurrent biliary obstruction. She had an 
+ERCP
+and now improved but with new c.diff diarrhea.    
+
+# Sepsis 
+# Recurrent Cholangitis
+In context of markedly elevated AP and rising Tbili with an
+existing biliary stent, etiology most c/w cholangitis. She just
+had last month cholangitis c/b VRE and Citrobacter bacteremia so
+was treated w/ empiric zosy and dapto. UA neg for UTI. CXR 
+cannot
+rule out PNA due to the mod pleural effusion but she does not
+have any resp sx. She has ascites but in absence of any GI
+symptoms, low suspicion for SBP. She had an ERCP which exchanged
+her biliary stent on ___. She improved and transtioned to Cipro
+on ___ but developed diarrhea, c.diff positive. SHe improved
+with adding PO vancomycin. S/p Zosyn/Daptomycin ___ - ___
+[] cont Cipro ___ x total ___.Diff
+Started PO vanc ___, cont x 14 days after Cipro completed
+
+# Malignant Ascites
+Receives weekly paracentesis outpatient.  
+- cont weekly drainage by ___ on ___, next due tomorrow 
+(holding rivaroxaban for it)
+
+# Hyponatremia: Mild, likely ___ hypovolemia, resolved
+# Hypokalemia: repleting, likely from diarrhea, resolved
+# Hx of PE/DVT: cont rivaroxban, last dose in am on ___, will 
+hold ___ for para
+
+# Metastatic pancreatobiliary carcinoma 
+Currently on C4 FOLFOX
+- ___ w/ Dr ___ with updates
+- D15 due ___ rescheduled
+- had sig discomfort relief from dilaudid for ascites related 
+pain, will cont prn at home
+
+FEN: Regular diet
+DVT PROPH: Rivaroxaban
+ACCESS: PORT
+CODE STATUS: FC (presumed)
+DISPO: Onc-Hosp
+______________
+___, D.___/___ Hospitalist
+___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Nystatin Oral Suspension 5 mL PO QID 
+2. Pancrelipase 5000 1 CAP PO TID W/MEALS 
+3. Pantoprazole 40 mg PO Q12H 
+4. Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+5. Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line 
+6. Rivaroxaban 20 mg PO DAILY 
+7. Senna 17.2 mg PO BID 
+8. Ciprofloxacin HCl 500 mg PO Q12H 
+
+ 
+Discharge Medications:
+1.  HYDROmorphone (Dilaudid) 2 mg PO Q4H:PRN Pain - Moderate 
+RX *hydromorphone 2 mg 1 tablet(s) by mouth q6h prn pain Disp 
+#*28 Tablet Refills:*0 
+2.  Vancomycin Oral Liquid ___ mg PO QID 
+RX *vancomycin 125 mg 1 capsule(s) by mouth four times a day 
+Disp #*96 Capsule Refills:*0 
+3.  Ciprofloxacin HCl 500 mg PO BID 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*20 Tablet Refills:*0 
+4.  Nystatin Oral Suspension 5 mL PO QID:PRN thrush  
+5.  Senna 17.2 mg PO BID:PRN Constipation - First Line  
+6.  Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+
+RX *ondansetron 8 mg 1 tablet(s) by mouth q8hrs Disp #*30 Tablet 
+Refills:*0 
+7.  Pancrelipase 5000 1 CAP PO TID W/MEALS  
+8.  Pantoprazole 40 mg PO Q12H  
+9.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line  
+10.  Rivaroxaban 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Cholangitis
+C.diff Diarrhea
+Ascites
+Metastatic Pancreatobiliary Ca
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted for cholangitis which improved with 
+antibiotics and an ERCP. Please continue your antibiotics as 
+instructed and follow up with your oncologist for your 
+chemotherapy. 
+
+Happy ___!
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11190374-DS-26 | hadm_id=22072526
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+ABDOMINAL PAIN
+ 
+Major Surgical or Invasive Procedure:
+ERCP ___
+Paracentesis ___ 
+
+ 
+History of Present Illness:
+___ PMH metastatic pancreatobiliary carcinoma on FOLFOX  c/b 
+biliary obstruction + bacteremia (s/p ERCP/stent), PE, and 
+malignant ascites (s/p weekly paracentesis), recurrent
+cholangitis who p/w fever, abd pain and hypotension c/f
+cholangitis
+
+She has a history of recurrent cholangitis, with multi-drug
+resistant bacteremia including VRE and Citrobacter. Her last
+episode was in ___ when she p/w with fever and elevated Tbili.
+She had an ERCP which exchanged her biliary stent on ___. Her
+cultures were negative last hospitalization so she was treated
+empirically with Zosyn/Daptomycin, then transitioned to cipro 
+and
+developed Cdiff requiring PO Vanc.
+
+She had a paracentesis yesterday and was 
+ feeling well and was doing much more activity than she usually 
+ does.The son went to visit his mother and found that she wsa
+moaning and c/o of chills and abdominal ___. The patient states
+that the abdominal pain  developed this AM and was associated
+with nausea and 1x episode of emesis. 
+
+Prior to arriving to the ICU she was put on two pressors.
+Intially was only on levo but prior to transport her pressures
+dropped again so vasopressin was started. She denies having
+abdominal pain and endorses mild nausea. She denies cp, SOB,
+cough, dysuria, or urinary frequency. She is a0x3 but sleepy,
+slow to respond and  responds in appropriately toquestions 
+during
+interview (how your your pain? ''yes'')
+
+In the ED,  
+- Initial Vitals:   TEMP 104, 150/80 later hyp to 81/52, 97% 
+2LNC
+
+- Labs: WBC 22.9 Lactate:8.9
+- Imaging: CT ABD 
+- Consults:  none
+- Interventions: 2L NS, ZOSYN, LINEZOLID
+ 
+Past Medical History:
+As per admitting MD
+PAST ONCOLOGIC HISTORY:  
+- ___: Presented to ED with 6 months of worsening LLQ
+abdominal pain, weight loss (~25lbs), early satiety, abdominal
+distension, nausea, and constipation. Found to have large volume
+ascites, peritoneal carcinomatosis, and R ovarian lesion. 
+- ___: Omental biopsy and therapeutic paracentesis. Biopsy
+returns suggestive of pancreaticobiliary/upper GI primary. 
+- ___: MRCP with extensive omental and peritoneal disease
+with associated pancreatic tail mass, porta hepatis soft tissue
+mass with biliary obstruction and left portal vein partial
+thrombosis
+- ___: EGD/ERCP, pancreatic mass Bx c/w pancreatic
+adenocarcinoma. Straight uncovered metal stent placed into the
+right intrahepatic system
+- ___: C1D1 FOLFIRINOX
+- ___: Admission due to dehydration, diarrhea, fatigue,
+and overall significant toxicity from FOLFIRINOX
+- ___: C1D1 FOLFOX
+- ___: C2D1 FOLFOX
+- ___: admitted with febrile neutropenia (scheduled
+Neulasta given on day of admission), altered mental status, 
+found
+to have cholangitis and enterococcal and citrobacter bacteremia.
+ERCP ___ showed sludge but no pus, LFTs normalized after removal
+of sludge. D/c on 14 days daptomycin IV and cipro PO. CT showed
+subsegemental PE and left subclavian DVT (was on Xarelto for 
+PVT;
+however, it was held for ___ days every week for paracentesis);
+continued on Xarelto with the plan to minimize interruptions of
+anticoagulation
+- ___:  C2D15 FOLFOX
+- ___:  admitted for abdominal distention, SOB, fatigue. 
+Received paracentesis with improvement in symptoms.  
+- ___:  C3D1 FOLFOX
+- ___ and ___:  telephone calls with weakness and fatigue
+- ___:  admitted for abdominal distention, SOB, fatigue. 
+Received paracentesis with improvement in symptoms.  
+- ___:  Palliative care visit with ___.  Described
+pain in lower pelvic area and thighs and lower back thought to 
+be
+due to ascites, suggested weekly paracentesis and low-dose
+hydromorphone (0.25--0.5 PO QD/BID PRN).  Also noted anxiety and
+stress. 
+- ___ AM:  paracentesis for 4L
+
+PAST MEDICAL HISTORY:  
+-Pancreatic Cancer, as above
+-PE, subclavian DVT and PVT on rivaroxaban
+-HTN
+-polymicrobial bacteremia
+
+ 
+Social History:
+___
+Family History:
+As per admitting MD
+- Father with colon cancer in his ___
+- Sister with breast cancer in her ___
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM 
+======================== 
+VS: afebrile,  96/61 on 2 pressors, HR 100, 02 98 on 2L
+GENERAL: frail appearing, sleepy
+HEENT: PERRL,  Sclera anicteric and without injection. MMM.  
+NECK: . No JVD.  
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.  
+LUNGS: . wheezing at lung bases, rhonchi or rales. No increased
+work of breathing.  
+BACK: No spinous process tenderness. No CVA tenderness.  
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.  
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.  
+SKIN: Warm. Cap refill <2s. No rash.  
+NEUROLOGIC: CN2-12 intact. . AOx3.  
+
+DISCHARGE PHYSICAL EXAM
+========================
+24 HR Data (last updated ___ @ 753)
+    Temp: 98.0 (Tm 99.3), BP: 98/58 (84-103/44-66), HR: 72
+(61-88), RR: 18 (___), O2 sat: 99% (95-99), O2 delivery: ra  
+GENERAL: Chronically ill appearing older woman laying in bed.
+Alert and interactive 
+HEENT: Sclerae anicteric, MMM  
+CV: RRR. Normal S1/S2, no murmurs, gallops, or rubs  
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABD: Abdomen soft, distended, nontender in all quadrants, no
+rebound/guarding 
+EXT: WWP, 2+ radial pulses bilaterally, 1+ ___ pitting edema
+bilaterally, up to knee
+SKIN: Warm and well perfused, no excoriations or lesions, no
+rashes  
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric  
+ACCESS: PORT
+   
+ 
+Pertinent Results:
+ADMISSION LABS:
+================
+WBC 22.9 Hgb 9.2 Hct 29.9 Plt 102
+___ 19.5 PTT 30.3 INR 1.8
+LFTs: ALT 149 AST 313 AP 836 Tbili 5.8 Dbili 3.3 Albumin 2.5
+Ca 8.1 Mg 1.7 Phos 5.2
+Na 136 K 5.7 Cl 98 Bicarb 15 BUN 10 Cr 1.1 Glucose 107 AG 23
+
+Trop-T 1.29 --> 1.43 --> 1.38
+Lactate 8.9 --> 6.1 --> 6.2 --> 5.0 --> 4.5 --> 2.9 --> 1.9 --> 
+2.1
+pH 7.34 pCO2 35 pO2 43 Bicarb 20
+
+ALT 122
+AST 230
+AP 540
+LDH 433
+Tbili 5.4
+
+MICRO:
+=======
+___ 12:15 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      KLEBSIELLA OXYTOCA.    FINAL SENSITIVITIES. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA OXYTOCA
+                             |   
+AMPICILLIN/SULBACTAM--     8 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+REPORTS:
+=========
+___ CTAP
+IMPRESSION: 
+1. In comparison to the study dated ___, there has 
+been an 
+interval increase in the degree of intra-abdominal ascites. 
+2. Stable pancreatic mass measuring up to 2.2 cm as described 
+above. 
+3. Chronic splenic vein thrombosis with multiple perigastric and 
+perisplenic 
+ascites as described above. 
+4. Common bile duct stent is in unchanged position with 
+intrahepatic biliary 
+ductal dilatation as described above. 
+5. Left pleural effusion is slightly larger in comparison to 
+prior. 
+
+___ ERCP:
+IMPRESSIONS:
+Successful ERCP with stent clean. The metal stent was completely 
+occluded, with purulent material draining from the stent. 
+Balloon sweeps removed a copious amount of purulent material and 
+sludge. The stent was widely patent at the conclusion of the 
+procedure.
+
+___ TTE
+IMPRESSION: Moderate LV systolic dysfunction with regional wall 
+motion abnormality consistent
+with multivessel disease or atypical stress cardiomyopathy. 
+Borderline RV function. Trace aortic
+regurgitation. Large left pleural effusion.
+Compared with the prior TTE ___ LV Function is less 
+vigorous and RWMA are new
+
+Paracentesis ___: IMPRESSION: 
+1. Technically successful ultrasound guided diagnostic and 
+therapeutic 
+paracentesis. 2. 5 L of fluid were removed and sent for 
+analysis. 
+
+DISCHARGE LABS:
+======================
+___ 09:10AM BLOOD WBC-12.6* RBC-2.57* Hgb-8.0* Hct-26.4* 
+MCV-103* MCH-31.1 MCHC-30.3* RDW-19.2* RDWSD-65.4* Plt Ct-98*
+___ 05:08AM BLOOD ___ PTT-25.4 ___
+___ 05:08AM BLOOD Glucose-77 UreaN-3* Creat-0.7 Na-139 
+K-4.1 Cl-107 HCO3-24 AnGap-8*
+___ 05:08AM BLOOD ALT-27 AST-27 AlkPhos-229* TotBili-0.8
+___ 05:08AM BLOOD Calcium-7.8* Phos-3.0 Mg-1.9
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ y/o F with a medical history notable for 
+metastatic stage IV pancreatic adenocarcinoma on FOLFOX c/b 
+biliary obstruction and bacteremia (s/p stent placement in 
+___, replaced several months later, prior blood cultures 
+positive for VRE and CTX-R citrobacter), recurrent malignant 
+ascites (s/p weekly paracentesis, most recently ___, malignant 
+pleural effusions, portal vein thrombosis on apixaban, who 
+presented with abdominal pain, confusion, fever and hypotension 
+c/f acute cholangitis c/b septic shock on levophed and 
+vasopressin for pressor support, now s/p ERCP with removal of 
+purulent material occluding CBD stent, hospital course c/b GNR 
+bacteremia on Zosyn and newly reduced EF by TTE, concerning for 
+STEMI in the PDA distribution. 
+
+ACUTE ISSUES 
+======================= 
+# SEPTIC SHOCK
+# HEPATOBILIARY INFECTION
+# GNR BACTEREMIA
+History of recurrent cholangitis ___ biliary stent obstruction. 
+Presented with abdominal pain, confusion, hypotension, fevers, 
+leukocytosis, and lactic acidosis concerning for acute 
+cholangitis c/b sepsis, s/p ERCP ___ with adequate source 
+control and removal of biliary sludge occluding biliary stent. 
+She was started on Zosyn for broad spectrum antimicrobial 
+coverage. Her symptoms began to improve with objective clinical 
+markers including a downtrending leukocytosis and resolving 
+mixed cholestatic and hepatocellular transaminitis. Her initial 
+set of blood cultures grew klebsiella oxytoca which was pan 
+sensitive. She was switched to Ceftriaxone on ___ and then 
+transitioned to ciprofloxacin for a 10 day course to finish on 
+___ per Infectious Diseases. ERCP followed along and 
+recommended the patient have a percutaneous biliary drainage, 
+which the patient refused at this time. She was initially on 
+levophed and vasopressin for blood pressure support, which was 
+later weaned after she was started on midodrine for additional 
+support. Surveillance cultures were drawn daily until no growth 
+was detected. She had an A-line which was removed on ___. MAPs 
+goal was set to above 60, which the patient maintained and was 
+transitioned to midodrine. She was initially enrolled in the 
+___ trial and was resuscitated the first 24 hours according 
+to the protocol. Per Infectious Diseases, she was started on 
+oral Bactrim DS 1 tab per day when she finishes ciprofloxacin to 
+prevent future cholangitis. She should have a CBC, chem7, and 
+LFTs drawn 7 days after starting Bactrim. 
+
+# MYOCARDIAL INFARCTION
+# New HFrEF
+Patient presented without chest pain or cardiovascular risk 
+factors (does not have HTN, DM or dyslipidemia, no prior 
+documented MI or CAD), however degree of troponinemia is 
+worrisome (1.29->1.43->1.38), and unusual for a type II NSTEMI 
+iso demand ischemia from a high output state such as her initial 
+sepsis. Notably, TTE with findings of a newly reduced EF 
+___, down from 67% by her most recent TTE this year) and 
+regional wall motion abnormalities concerning for missed MI. 
+Consulted cardiology who noted ST elevations in the PDA 
+distribution, c/w patient's RWMA on TTE and reduced EF. Did not 
+recommend any additional medical optimization given patient's 
+coagulopathy, gram negative sepsis and pressor requirement at 
+the time. Additionally, did not recommend cardiac 
+catheterization. Held aspirin in the setting of elevated INR and 
+low platelets. Held statin in the setting of transaminitis. She 
+should have a repeat echocardiogram as an outpatient and 
+consider starting a beta blocker when she is off of midodrine. 
+She had no volume overload. 
+
+# TRANSAMINITIS
+Mixed cholestatic and hepatocellular picture. Likely iso acute 
+liver injury from septic shock and hepatobiliary infection. Also 
+has a history of portal vein thrombosis, but on anticoagulation 
+for this. We trended daily LFTs, which downtrended and 
+normalized upon discharge.
+
+# STAGE IV METASTATIC PANCREATIC ADENOCARCINOMA
+# MALIGNANT ASCITES
+Had a diagnostic paracentesis in the ED which was negative for 
+SBP (PMNs 178, normal gram stain). Peritoneal fluid cultures 
+with no growth. Pancreatic lesion appears stable according to CT 
+imaging with no interval changes. Gets weekly paracentesis with 
+~4L of fluid usually removed. Currently on C4 FOLFOX. 
+Communicated with oncologist Dr. ___ chemotherapy. She 
+underwent therapeutic paracentesis on ___ with 5L removed that 
+did not have SBP. She received 37.5g 25% albumin. She will 
+continue to receive weekly paracentesis as an outpatient. 
+
+# THROMBOCYTOPENIA
+# ANEMIA
+Anemia is stable. Thrombocytopenia likely in the setting of 
+sepsis and GNR bacteremia. Initially concerning for possible 
+MAHA or consumptive coagulopathy given elevated INR and LDH, but 
+haptoglobin is slightly elevated above normal as is her
+fibrinogen, which makes a DIC like picture less likely. Unlikely 
+heparin induced thrombocytopenia given the absence of new or 
+progressive arterial or venous thrombosis, no known prior 
+heparin exposure in the last month after chart biopsy. Remained 
+stable. 
+
+# ELEVATED INR
+Likely ___ acute liver injury and malnutrition. Unlikely 
+consumptive coagulopathy, patient not on warfarin, acute liver 
+failure (no encephalopathy). No e/o bleeding, hemoglobin stable. 
+We continued to monitor daily coagulation profile with 
+resolution. 
+
+CHRONIC ISSUES 
+======================= 
+# PORTAL VEIN THROMBOSIS
+# HX VTE
+On rivaroxaban. Restarted after she had her ERCP. 
+
+# MALNUTRITION
+Pt with history of significant weight loss and poor PO intake. 
+
+# HX C DIFF COLITIS
+Treating with Vancomycin dosing for prophylaxis while on 
+systemic antibiotics. She should continue these until instructed 
+to discontinue by Infectious Diseases. 
+
+TRANSITIONAL ISSUES
+====================
+[] Consider drawing LFTs with weekly paracentesis to look for 
+early signs of infection 
+[] Discuss need percutaneous biliary drainage
+[] Repeat TTE as an outpatient
+[] Please wean midodrine off as tolerated
+[] If patient's BP can tolerate it, start beta blockade for new 
+HFrEF
+[] Consider Cardiology referral for new diagnosis of heart 
+failure 
+[] Ensure Infectious Diseases follow-up is scheduled
+[] Please determine need for ongoing c. diff prophylaxis with 
+vancomycin 
+[] Draw CBC, Chem10, LFTs on ___ 
+
+ADVANCED CARE PLANNING:
+========================
+CODE: FULL
+HCP: Name of health care proxy: ___ 
+Relationship: son 
+Phone number: ___ 
+Alternate HCP: ___ sister ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+2. Pancrelipase 5000 1 CAP PO TID W/MEALS 
+3. Pantoprazole 40 mg PO Q12H 
+4. Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line 
+5. Rivaroxaban 20 mg PO DAILY 
+6. Nystatin Oral Suspension 5 mL PO QID:PRN thrush 
+7. Senna 17.2 mg PO BID:PRN Constipation - First Line 
+8. Vitamin D 1000 UNIT PO DAILY 
+9. Diphenoxylate-Atropine 1 TAB PO Q6H:PRN diarrhea 
+10. Docusate Sodium 100 mg PO BID:PRN Constipation - Second Line 
+
+11. LOPERamide 2 mg PO Q4H:PRN diarrhea 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO BID Duration: 9 Days 
+Last day ___ 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*17 Tablet Refills:*0 
+2.  Midodrine 5 mg PO TID 
+RX *midodrine 5 mg 1 tablet(s) by mouth three times a day Disp 
+#*42 Tablet Refills:*0 
+3.  Sulfameth/Trimethoprim DS 1 TAB PO/NG DAILY 
+First day: ___ 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tablet(s) by 
+mouth once a day Disp #*30 Tablet Refills:*0 
+4.  Vancomycin Oral Liquid ___ mg PO BID C. diff ppx 
+RX *vancomycin 125 mg 1 capsule(s) by mouth twice a day Disp 
+#*60 Capsule Refills:*0 
+5.  Diphenoxylate-Atropine 1 TAB PO Q6H:PRN diarrhea  
+6.  LOPERamide 2 mg PO Q4H:PRN diarrhea  
+7.  Nystatin Oral Suspension 5 mL PO QID:PRN thrush  
+8.  Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+ 
+9.  Pancrelipase 5000 1 CAP PO TID W/MEALS  
+10.  Pantoprazole 40 mg PO Q12H  
+11.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line  
+12.  Rivaroxaban 20 mg PO DAILY  
+13.  Senna 17.2 mg PO BID:PRN Constipation - First Line  
+14.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Septic shock ___ cholangitis
+Metastatic pancreatic cancer
+Malignant ascites
+STEMI
+HFrEF
+Coagulopathy 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+Why was I admitted to the hospital?  
+==================================
+- You were admitted because you were found to have an infection 
+in your liver. 
+
+What happened while I was in the hospital?  
+===========================================
+- You were given IV antibiotics for an infection in your liver 
+that spread to your blood
+
+- You were give medications for low blood pressure
+
+- You underwent a procedure called an ERCP (Endoscopic 
+Retrograde Cholangio-Pancreatography) to clean out the stents in 
+your liver
+
+- You were found to have a heart attack and a weak heart. You 
+were seen by Cardiology for this
+
+- You had a procedure done called a paracentesis 
+
+What should I do after leaving the hospital?  
+============================================
+-  Please take your medications as listed in discharge summary 
+and follow up at the listed appointments. 
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Sincerely,
+
+Your ___ Healthcare Team  
+
+ 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11190374-DS-27 | hadm_id=23095168
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___
+ 
+Chief Complaint:
+Encounter for chemotherapy desensitization
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with PMH of anxiety, rosacea, and pancreaticobiliary cancer
+who presents today for chemotherapy desensitization.
+
+Patient was first diagnosed with pancreaticobiliary cancer in
+___, started on FOLFIRINOX in ___. Given suspected
+chemo toxicity, she was switched to FOLFOX which was started in
+___. On C___, she developed itching of b/l hands after
+infusion. She had a subsequent reaction on ___ which
+resolved with benadryl. She saw allergy on ___ and was
+felt to have IGE mediated reaction to oxaliplatin. Skin testing
+was positive to oxaliplatin and she was recommended for
+desensitization using a 12-step/3 bag desensitization protocol
+for all future oxaliplatin infusions. 
+
+Otherwise, patient has had persistent abdominal ascites since 
+her
+diagnosis and recently underwent an abdominal pleurx drain
+placement on ___. Since then, she has had ___ who has 
+been
+draining 1L on MWF. She has noted leakage around the catheter
+site which was attributed to a larger skin incision than her
+plerux catheter. Otherwise, denies any F/C, CP/SOB, N/V/D/C, abd
+pain. She was last seen in ___ clinic on ___ and had
+labs drawn ___ in preparation for her admission for
+chemotherapy desensitization. 
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:  
+- ___: Presented to ED with 6 months of worsening LLQ
+abdominal pain, weight loss (~25lbs), early satiety, abdominal
+distension, nausea, and constipation. Found to have large volume
+ascites, peritoneal carcinomatosis, and R ovarian lesion.  
+- ___: Omental biopsy and therapeutic paracentesis. Biopsy
+returns suggestive of pancreaticobiliary/upper GI primary. 
+- ___: MRCP with extensive omental and peritoneal disease
+with associated pancreatic tail mass, porta hepatis soft tissue
+mass with biliary obstruction and left portal vein partial
+thrombosis
+- ___: EGD/ERCP, pancreatic mass Bx c/w pancreatic
+adenocarcinoma. Straight uncovered metal stent placed into the
+right intrahepatic system
+- ___: C1D1 FOLFIRINOX
+- ___: Admission due to dehydration, diarrhea, fatigue,
+and overall significant toxicity from FOLFIRINOX
+- ___: C1D1 FOLFOX
+- ___: C2D1 FOLFOX
+- ___: admitted with febrile neutropenia (scheduled
+Neulasta given on day of admission), altered mental status, 
+found
+to have cholangitis and enterococcal and citrobacter bacteremia.
+ERCP ___ showed sludge but no pus, LFTs normalized after removal
+of sludge. D/c on 14 days daptomycin IV and cipro PO. CT showed
+subsegemental PE and left subclavian DVT (was on Xarelto for 
+PVT;
+however, it was held for ___ days every week for paracentesis);
+continued on Xarelto with the plan to minimize interruptions of
+anticoagulation
+- ___:  C2D15 FOLFOX
+- ___:  admitted for abdominal distention, SOB, fatigue. 
+Received paracentesis with improvement in symptoms.  
+- ___:  C3D1 FOLFOX
+- ___:  D15 held for worsening LFTs, admitted for early
+cholangitis
+- ___:  ___ FOLFOX
+- ___:  admission for biliary obstruction, s/p ERCP ___
+with stent changeout.  CT ___ showed decrease in pancreatic 
+tail
+mass and ovarian disease
+- ___:  C4D1 FOLFOX held given admission
+- ___:  C4D1 FOLFOX ; D15 attempted to add 25% irinotecan
+- ___:  C5D1 FOLFOX (dropped iri due to diarrhea)
+- ___:  Dermatology visit for new skin lesion (Bx showed
+sebaceous adenoma)
+- ___:  C6D1 FOLFOX
+- ___:  admission for cholangitis leading to GNR bacteremia,
+septic shock.  ERCP ___, para ___.  Plan to d/c on Cipro -->
+Bactrim.  Noted to have missed MI/new HFrEF
+- ___:  C6D15 FOLFOX, ___ ___ 20% for neuropathy
+- ___:  C7D1 ___, ___ ___ 20% for neuropathy.  Infusion
+reaction due to oxaliplatin allergy.
+- ___:  plan C7D15 FOLFOX with desensitization
+
+PAST MEDICAL HISTORY: 
+HTN
+rosacea
+anxiety
+HLD
+s/p wrist surgery
+s/p C section
+s/p Endovenous ablation of the Right Greater saphenous vein with
+the Venaseal closure system
+
+ 
+Social History:
+___
+Family History:
+As per admitting MD
+- Father with colon cancer in his ___
+- Sister with breast cancer in her ___
+ 
+Physical Exam:
+PHYSICAL EXAM:  
+Vitals:  24 HR Data (last updated ___ @ 1522)
+    Temp: 98.5 (Tm 98.7), BP: 115/65 (105-131/56-67), HR: 91
+(79-91), RR: 20 (___), O2 sat: 97% (95-99), O2 delivery: RA,
+Wt: 134.7 lb/61.1 kg
+GENERAL: Lying comfortably in bed, NAD
+HEENT: Clear OP without lesions or thrush
+EYES: PERRL, anicteric
+NECK: supple, no JVD
+RESP: No increased WOB, no wheezing, rhonchi or crackles
+___: RRR, no murmurs
+GI: soft, +distended, R sided abd pleurx drain draining cloudly
+yellow fluid, no surrounding erythema noted, non-tender, no
+rebound or guarding
+EXT: trace b/l edema, warm
+SKIN:  dry, no obvious rashes
+NEURO:  alert, fluent speech. PERRL, EOMI. 
+ACCESS:  POC, dressing C/D/I
+ 
+Pertinent Results:
+ADMISSION LABS:  
+___ 03:45PM BLOOD WBC: 7.2 RBC: 2.64* Hgb: 8.5* Hct: 27.1*
+MCV: 103* MCH: 32.2* MCHC: 31.4* RDW: 14.9 RDWSD: 55.8* Plt Ct:
+276 
+___ 03:45PM BLOOD Neuts: 82.5* Lymphs: 6.7* Monos: 8.8 Eos:
+0.8* Baso: 0.6 Im ___: 0.6 AbsNeut: 5.90 AbsLymp: 0.48* 
+AbsMono:
+0.63 AbsEos: 0.06 AbsBaso: 0.04 
+___ 03:45PM BLOOD ___: 17.5* PTT: 39.7* ___: 1.6* 
+___ 03:45PM BLOOD UreaN: 21* Creat: 1.0 Na: 136 K: 4.1 Cl:
+100 HCO3: 23 AnGap: 13 
+___ 03:45PM BLOOD ALT: 36 AST: 53* AlkPhos: 531* TotBili:
+0.7 
+___ 03:45PM BLOOD Albumin: 2.9* Calcium: 8.8 Phos: 4.1 Mg:
+1.___ with PMH of anxiety, rosacea, and pancreaticobiliary cancer 
+who presents today for chemotherapy desensitization.
+
+# Metastatic adenocarcinoma, likely pancreatic in origin
+# Malignant Ascites
+# Allergy to chemotherapy/oxaliplatin
+Patient presented today for initial oxaliplatin desensitization 
+given +skin testing and suspected IgE mediated reaction to 
+oxaliplatin. She received her infusion under close monitoring 
+and tolerated it well. She will return tomorrow for remainder of 
+chemotherapy. She had her abdominal pleurx catheter drained 
+while in the hospital with removal of ~1L cloudy ascitic fluid. 
+She will continue her home drainage as previously scheduled with 
+___ on discharge.
+
+# Recurrent cholangitis
+On suppressive bactrim as outpatient
+- c/w bactrim qday
+
+# subsegmental PE and subclavian DVT, PVT
+On rivaroxaban as outpatient
+- c/w rivaroxaban qday
+
+# b/l ___ edema
+- c/w lasix 20mg qday PRN
+
+# Protein/calorie malnutrition
+- follows with nutrition as outpatient, CTM weight
+- c/w ensure supplements
+
+=====================
+TRANSITIONAL ISSUES:
+=====================
+[] will return for remainder of chemotherapy tomorrow; port to 
+remain accessed at time of discharge
+[] will resume ___ services for ___ drainage of abdominal pleurx 
+on discharge
+[] reported to have leakage around abd pleurx site; will need to 
+be monitored as outpatient
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Pancrelipase 5000 1 CAP PO TID W/MEALS 
+2. Pantoprazole 40 mg PO Q12H 
+3. Rivaroxaban 20 mg PO DAILY 
+4. Senna 17.2 mg PO BID:PRN Constipation - First Line 
+5. Nystatin Oral Suspension 5 mL PO QID:PRN thrush 
+6. Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+7. Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line 
+8. Sulfameth/Trimethoprim DS 1 TAB PO/NG DAILY 
+9. Furosemide 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Furosemide 20 mg PO DAILY  
+2.  Nystatin Oral Suspension 5 mL PO QID:PRN thrush  
+3.  Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+ 
+4.  Pancrelipase 5000 1 CAP PO TID W/MEALS  
+5.  Pantoprazole 40 mg PO Q12H  
+6.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line  
+7.  Rivaroxaban 20 mg PO DAILY  
+8.  Senna 17.2 mg PO BID:PRN Constipation - First Line  
+9.  Sulfameth/Trimethoprim DS 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___.
+ 
+Discharge Diagnosis:
+# Metastatic adenocarcinoma, likely pancreatic in origin
+# Malignant Ascites
+# Allergy to chemotherapy/oxaliplatin
+# Recurrent cholangitis
+# Hx of PE
+# ___ Edema
+# Protein/calorie malnutrition
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was our pleasure to care for you at ___.
+
+You came to the hospital for chemotherapy and tolerated it well. 
+Please follow up with your oncologist as previously scheduled 
+for the remainder of your treatment.
+
+We wish you all the best!
+
+Sincerely,
+Your care team at ___
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11190374-DS-20 | hadm_id=23592872
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet / milk
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Pain
+ 
+Major Surgical or Invasive Procedure:
+ERCP
+EUS
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with newly diagnosed
+carcinoma, suspected to be pancreaticobiliary in nature
+characterized by extensive omental and peritoneal disease with
+associated pancreatic tail mass, porta hepatis soft tissue mass
+with biliary obstruction and left portal vein partial thrombosis
+as well as right ovarian lesion and pleural effusions. She is 
+now
+referred for diagnostic EUS and ERCP for biliary obstruction.
+ 
+Social History:
+___
+Family History:
+FamHx:
+- Father with colon cancer in his ___
+- Sister with breast cancer in her ___
+
+ 
+Physical Exam:
+VITALS:  Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: No apparent distress.
+EYES: Anicteric and without injection.
+ENT: Ears, nose, and oropharynx without erythema or exudate.
+CV: Regular, S1 and S2, no murmurs or gallops.
+RESP: Lungs clear to auscultation bilaterally without rales,
+rhonchi, or wheezes.
+GI: Abdomen soft, distended, non-tender to palpation.
+MSK: BLE warm, without edema.
+SKIN: Warm and well perfused, no lesions, rashes, or ulcerations
+noted.
+NEURO: Awake, alert, oriented to self, place, time and
+situation. Able to relate history without difficulty. Speech is
+fluent, verbal comprehension is intact. Face symmetric, gaze
+conjugate and EOMI, gross motor function intact and symmetric in
+all four extremities.
+
+ 
+Pertinent Results:
+___ 04:49AM BLOOD WBC-5.6 RBC-4.45 Hgb-12.3 Hct-38.8 MCV-87 
+MCH-27.6 MCHC-31.7* RDW-13.3 RDWSD-42.5 Plt ___
+___ 04:49AM BLOOD ALT-427* AST-245* AlkPhos-657* 
+TotBili-1.1
+___ 04:49AM BLOOD Glucose-92 UreaN-8 Na-137 K-4.9 Cl-100 
+HCO3-25 AnGap-12
+
+EUS
+Ill defined pancreatic tail mass measuring at least 3 cm
+
+EUS Pancreas Biopsy:
+Poorly differentiated adenocarcinoma
+
+ERCP
+1 cm proximal CBD stricture immediately below stricture with 
+upstream biliary dilation
+Sphincterotomy done and brushings obtained
+Uncovered metal stent placed in right intrahepatic system
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with newly diagnosed 
+carcinoma, found to be pancreatic adenocarcinoma per pancreatic 
+biopsy this admit,  characterized by extensive omental and 
+peritoneal disease with associated pancreatic tail mass, porta 
+hepatis soft tissue mass with biliary obstruction and left 
+portal vein partial thrombosis as well as R ovarian lesion and 
+pleural effusions, who was  admitted for observation after 
+EUS/ERCP.
+
+PROBLEMS:
+# Metastatic pancreatic cancer with  CBD compression - s/p 
+EUS/FNA and CBD stenting - continued IVF and supportive care 
+overnight.  She was able to advance her diet without difficulty 
+the next day, but complained of abdominal dissension due to 
+ascites (see below)
+
+# Malignant Ascites - Last paracentesis had cell count that 
+meets criteria for SBP, which Dr. ___ was likely 
+related to malignancy, but wanted to treat as SBP. Will start 
+cipro 500 mg PO BID x 5 days.   Patient concerned about rapidly 
+reaccumulating ascitic fluid, I attempted to schedule 
+paracentesis for day of discharge, but was unable to, so she was 
+scheduled for paracentesis after discharge 
+
+# Portal vein tumor thrombosis - Heme-Onc is aware and will
+formulate a plan pending biopsy results.
+
+# Hypertension - continue losartan
+
+# Severe malnutrition - 30 lbs weight loss. Will as nutrition to 
+see.
+
+Greater than ___ hour spent on care on day of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+2. Losartan Potassium 25 mg PO DAILY 
+3. Ciprofloxacin HCl 500 mg PO Q12H 
+4. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 4 Days  
+2.  Losartan Potassium 25 mg PO DAILY  
+3.  Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+ 
+4.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Metastatic pancreatic cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with for an ERCP, during which a stent was 
+placed in your bile duct.  You also had an endoscopic ultrasound 
+and a biopsy done of the pancreas.
+We recommend that you continue the antibiotic ciprofloxacin for 
+an additional four days.  I have sent the prescription to the 
+___ in ___.  You are scheduled for a paracentesis 
+tomorrow as per the plan with your oncologist.  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11190374-DS-22 | hadm_id=23643112
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet / milk
+ 
+Attending: ___.
+ 
+Chief Complaint:
+altered mental status 
+ 
+Major Surgical or Invasive Procedure:
+___ Paracentesis
+___ ERCP
+
+ 
+History of Present Illness:
+___ with recently diagnosed metastatic pancreatic cancer who 
+presents from clinic for fever, tachycardia and AMS. She 
+describes waking up to eat some clementines last night (in her 
+effort to improve her nutrition/get stronger), but they made her 
+feel sick to her stomach, and she proceeded to feel very gassy 
+and fatigued. Per her son (whom she lives with), she was 
+mentally clear as late as 6:30 AM when he saw her; however, upon 
+arriving to her scheduled clinic appointment for a port needle 
+exchange, she was noted to be confused with word-finding 
+difficulties, tachycardic to 130, and fever to 101.7. She was 
+therefore sent to the ED.   
+
+Notably, the patient was diagnosed earlier this year with stage 
+IV pancreatic cancer, for which she had 3 previous admissions to 
+___ this year (___). She 
+had just begun her second cycle of FOLFOX chemotherapy ___. She 
+has a primary tumor of the pancreatic tail, metastatic to the 
+porta hepatis (caused CBD compression s/p metal stent ___, as 
+well as partial PVT s/p rivaroxaban started ___, peritoneum 
+(causing malignant ascites s/p intermittent paras), & lungs (c/b 
+moderate L & small R pleural effusions). AP, ALT, and AST had 
+been in the several hundreds range (although normal Tbili) but 
+all normalized s/p CBD stenting, and remained normal as recently 
+as ___. 
+
+In the ED,  
+- Initial Vitals: T 100.8, HR 123, BP 139/68, RR 28, SpO2 93% RA 
+
+- Exam: Notable for tachypnea, diminished breath sounds on the 
+L, and A&Ox1 
+- Course: developed 3L NC O2 requirement, fever to 100.8, 
+hypotension to ___. Tachycardia mildly improved with fluids 
+(see below)        
+- Interventions: vancomycin, Zosyn, 1L NS, 1L LR 
+
+On arrival to the floor, patient is well-oriented and feeling 
+much better. Still requiring 3L O2 NC. BP and HR moderately 
+improved.  
+
+ 
+Past Medical History:
+Pancreatic CA, as above
+PVT on rivaroxaban
+HTN
+ 
+Social History:
+___
+Family History:
+FamHx:
+- Father with colon cancer in his ___
+- Sister with breast cancer in her ___
+
+ 
+Physical Exam:
+Admission Physical Examination:
+===============================
+VS: Reviewed in Metavision 
+Otherwise notable for elderly woman reclining in chair,
+alert/interactive, breathing comfortably on room air, diminished
+lung sounds in L posterior base, abd soft/NT/ND, legs warm
+without edema 
+
+Discharge Physical Examination:
+===============================
+24 HR Data (last updated ___ @ 823)
+    Temp: 97.4 (Tm 98.3), BP: 117/75 (101-117/64-78), HR: 77
+(67-106), RR: 18 (___), O2 sat: 98% (95-99), O2 delivery: RA
+Fluid Balance (last updated ___ @ 951)
+  Last 8 hours  Total cumulative 154ml
+    IN: Total 454ml, PO Amt 340ml, IV Amt Infused 114ml
+    OUT:  Total 300ml, Urine Amt 300ml
+  Last 24 hours  Total cumulative 447.1ml
+    IN: Total 1397.1ml, PO Amt 640ml, IV Amt Infused 757.1ml
+    OUT:  Total 950ml, Urine Amt 950ml
+
+GENERAL: Tired, thin, NAD
+EYES: +icterus
+HEENT: Clear OP with dry membranes, cord over the right upper
+chest/neck above port site. No thrush
+NECK: supple
+___: RRR no MRG
+RESP: no increased WOB, no wheezing, rhonchi or crackles
+GI: soft, NTND no rebound or guarding
+EXT: warm, no edema
+SKIN: dry, no obvious rashes
+NEURO: CN II-XII intact
+ACCESS: POC with palpable cord as above
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 06:47PM   ___ PO2-131* PCO2-32* PH-7.51* TOTAL 
+CO2-26 BASE XS-3
+___ 06:47PM   LACTATE-2.1*
+___ 03:25PM URINE  HOURS-RANDOM
+___ 03:25PM URINE  UHOLD-HOLD
+___ 03:25PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 03:25PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-MOD* UROBILNGN-4* PH-6.5 
+LEUK-NEG
+___ 03:25PM URINE  RBC-<1 WBC-1 BACTERIA-FEW* YEAST-NONE 
+EPI-0
+___ 11:40AM OTHER BODY FLUID  FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+___ 11:20AM   ___ PO2-41* PCO2-34* PH-7.49* TOTAL 
+CO2-27 BASE XS-2
+___ 11:20AM   LACTATE-2.9* CREAT-0.8
+___ 11:20AM   estGFR-Using this
+___ 11:13AM   GLUCOSE-229* UREA N-16 CREAT-0.9 SODIUM-132* 
+POTASSIUM-4.7 CHLORIDE-95* TOTAL CO2-23 ANION GAP-14
+___ 11:13AM   ALT(SGPT)-210* AST(SGOT)-304* LD(LDH)-247 ALK 
+PHOS-396* TOT BILI-6.0*
+___ 11:13AM   ALBUMIN-2.7* CALCIUM-8.1* PHOSPHATE-2.4* 
+MAGNESIUM-1.8 URIC ACID-5.5
+___ 11:13AM   TSH-1.2
+___ 11:13AM   WBC-0.3* RBC-3.88* HGB-11.1* HCT-34.3 MCV-88 
+MCH-28.6 MCHC-32.4 RDW-18.6* RDWSD-58.8*
+___ 11:13AM   NEUTS-80* LYMPHS-16* MONOS-4* EOS-0* BASOS-0 
+NUC RBCS-7.1* AbsNeut-0.24* AbsLymp-0.05* AbsMono-0.01* 
+AbsEos-0.00* AbsBaso-0.00*
+___ 11:13AM   ANISOCYT-1+* RBCM-SLIDE REVI
+___ 11:13AM   PLT SMR-NORMAL PLT COUNT-282
+___ 11:13AM   ___ PTT-25.1 ___
+___ 10:15AM   UREA N-15 CREAT-0.8 SODIUM-129* POTASSIUM-4.8 
+CHLORIDE-92* TOTAL CO2-24 ANION GAP-13
+___ 11:13AM   PLT SMR-NORMAL PLT COUNT-282
+___ 11:13AM   ___ PTT-25.1 ___
+___ 10:15AM   UREA N-15 CREAT-0.8 SODIUM-129* POTASSIUM-4.8 
+CHLORIDE-92* TOTAL CO2-24 ANION GAP-13
+___ 10:15AM   ALT(SGPT)-224* AST(SGOT)-320* ALK PHOS-437* 
+TOT BILI-6.0*
+___ 10:15AM   ALBUMIN-2.9* PHOSPHATE-2.8 MAGNESIUM-2.0
+___ 10:15AM   WBC-0.4* RBC-4.09 HGB-11.7 HCT-35.5 MCV-87 
+MCH-28.6 MCHC-33.0 RDW-18.6* RDWSD-57.8*
+___ 10:15AM   AbsNeut-0.34*
+___ 10:15AM   PLT COUNT-381
+
+Pertinent Studies:
+==================
+CXR ___
+Final Report 
+EXAMINATION:  CHEST (PORTABLE AP) 
+INDICATION:  History: ___ with tachycardia, ams.  Evaluation for 
+pna. 
+TECHNIQUE:  Chest AP portable upright 
+COMPARISON:  Comparison to prior chest radiograph from ___. 
+FINDINGS:  
+Right chest wall Port-A-Cath is again demonstrated, with tip 
+extending to the low SVC.  Cardiomediastinal silhouette is 
+within normal limits.  Interval increase in moderate sized left 
+pleural effusion with adjacent left lower lobe consolidation, 
+likely representing a combination of effusion and atelectasis, 
+however infection cannot be excluded in the appropriate clinical 
+setting.  
+Right lung field is largely clear without evidence of focal 
+consolidation.  No pneumothorax is seen. 
+  
+IMPRESSION:  
+Interval increase in moderate sized left pleural effusion with 
+adjacent left lower lobe consolidation, likely representing a 
+combination of effusion and atelectasis, however infection 
+cannot be excluded in the appropriate clinical setting. 
+ 
+___ RUQUS 
+Final Report 
+EXAMINATION:  CT HEAD W/O CONTRAST Q111 CT HEAD 
+INDICATION:  History: ___ with acute changes in mental status.  
+Evaluation for intracranial hemorrhage. 
+  
+TECHNIQUE:  Contiguous axial images of the brain were obtained 
+without 
+contrast. Coronal and sagittal reformations as well as bone 
+algorithm 
+reconstructions were provided and reviewed. 
+  
+DOSE:  Acquisition sequence: 
+   1) Sequenced Acquisition 16.0 s, 16.0 cm; CTDIvol = 50.2 mGy 
+(Head) DLP = 802.7 mGy-cm. Total DLP (Head) = 803 mGy-cm. 
+  
+COMPARISON:  Noncontrast head CT ___. 
+FINDINGS:  
+There is no evidence of intracranial hemorrhage, acute large 
+territory 
+infarction, edema,or mass.  There is mild prominence of the 
+ventricles and 
+sulci suggestive of involutional changes.  Mild periventricular 
+and 
+subcortical hypodensities are nonspecific, though likely sequela 
+of chronic small vessel ischemic disease.  Atherosclerotic 
+vascular calcifications are noted of bilateral vertebral and 
+cavernous portions of internal carotid arteries. 
+  
+There is no evidence of fracture.  Mild mucosal thickening of 
+the right 
+maxillary sinus.  The visualized portion of the mastoid air 
+cells, and middle ear cavities are clear.  The visualized 
+portion of the orbits suggest bilateral drusen. 
+  
+IMPRESSION: 
+1. No acute intracranial abnormality. Please note MRI of the 
+brain is more 
+sensitive for the detection of acute infarct. 
+2. Atrophy, probable small vessel ischemic changes, and 
+atherosclerotic 
+vascular disease as described. 
+3. Minimal paranasal sinus disease as described. 
+ 
+___ CT abd/pelv
+Final Report 
+EXAMINATION:  CT ABD AND PELVIS WITH CONTRAST 
+  
+INDICATION:  ___ with stage IV pancreatic carcinoma c/b 
+malignant effusions, 
+malignant ascites, PVT on rivaroxaban, and CBD compression s/p 
+metal stent 
+(___) who presents on C1D3 of her FOLFOX chemotherapy regimen 
+with fever, 
+tachycardia, hypoxia, hypotension, confusion, ___, and 
+hyperlactatemia c/f 
+septic shock of unclear infectious source. Eval for 
+intra-abdominal etiology 
+to explain elevated LFTs/bili.// eval of hepatic parenchyema, 
+cause of 
+transaminitis/hyperbilirubinemia 
+  
+TECHNIQUE:  Single phase contrast: MDCT axial images were 
+acquired through the 
+abdomen and pelvis following intravenous contrast 
+administration. 
+Oral contrast was administered. 
+Coronal and sagittal reformations were performed and reviewed on 
+PACS. 
+  
+DOSE:  Acquisition sequence: 
+   1) Sequenced Acquisition 0.5 s, 0.2 cm; CTDIvol = 7.3 mGy 
+(Body) DLP = 1.5 
+mGy-cm. 
+   2) Sequenced Acquisition 0.5 s, 0.2 cm; CTDIvol = 7.3 mGy 
+(Body) DLP = 1.5 
+mGy-cm. 
+   3) Stationary Acquisition 13.2 s, 0.2 cm; CTDIvol = 219.6 mGy 
+(Body) DLP = 
+43.9 mGy-cm. 
+   4) Spiral Acquisition 12.1 s, 64.2 cm; CTDIvol = 11.7 mGy 
+(Body) DLP = 
+751.9 mGy-cm. 
+ Total DLP (Body) = 799 mGy-cm. 
+  
+COMPARISON:  Multiple prior CT abdomen and pelvis examinations 
+most recent 
+dated ___. MRCP dated ___. 
+  
+FINDINGS:  
+  
+LOWER CHEST: There is interval increase in extent of large left 
+pleural 
+effusion with associated complete atelectasis of the left lower 
+lobe.  There is subsequent atelectasis of the right lower lobe. 
+  
+ABDOMEN: 
+HEPATOBILIARY: The liver demonstrates homogenous attenuation 
+throughout.  
+There is no evidence of focal lesions.  No definite focal liver 
+lesion noted. The previously reported mass at the hepatic hilum 
+on MR ___ is not clearly seen on this CT exam but 
+appears smaller. There is haziness at the hepatic hilum. 
+  
+There is interval placement of CBD stent.  The intrahepatic 
+biliary ductal 
+dilatation has slightly increased in extent from prior exam for 
+which stent malfunction could be considered. The gallbladder is 
+normal. 
+  
+PANCREAS: The pancreatic tail mass has slightly decreased in 
+size from prior exam measuring 2.5 cm largest axial dimension, 
+previously 3.1 cm (measured on MR 4.8 cm).  There remains 
+extension and mass effect on the splenic vein similar to prior 
+exam.  The hazy soft tissue stranding seen posterior to the 
+pancreatic body (series 5, image 69) with mass-effect and 
+narrowing of the splenic vein is similar to prior MRI.  The 
+pancreatic head is normal. 
+  
+There is marked omental nodularity compatible with metastatic 
+disease similar to prior exam. 
+  
+SPLEEN: The spleen shows normal size and attenuation throughout, 
+without 
+evidence of focal lesions. 
+  
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape. 
+  
+URINARY: The kidneys are of normal and symmetric size with 
+normal nephrogram.  
+There is no evidence of focal renal lesions or hydronephrosis.  
+There is no perinephric abnormality. 
+  
+GASTROINTESTINAL: The bowel is normal in caliber with no 
+evidence of 
+obstruction. 
+  
+There is moderate volume ascites, unchanged from prior exam. 
+  
+PELVIS: The urinary bladder and distal ureters are unremarkable. 
+
+  
+REPRODUCTIVE ORGANS: There is fibroid uterus. Right ovarian 
+cystic mass has slightly increased in size from prior exam 
+measuring 4.0 cm in largest axial dimension, previously 3.3 cm. 
+  
+LYMPH NODES: There is no retroperitoneal or mesenteric 
+lymphadenopathy.  There is no pelvic or inguinal 
+lymphadenopathy. 
+  
+VASCULAR: In addition to above-mentioned finding, there is no 
+abdominal aortic aneurysm.  Mild atherosclerotic disease is 
+noted. 
+  
+BONES: There is no evidence of worrisome osseous lesions or 
+acute fracture.  Degenerative changes are seen in the spine. 
+  
+SOFT TISSUES: The abdominal and pelvic wall is within normal 
+limits. 
+  
+IMPRESSION: 
+1. Interval placement of CBD stent with slight increase in 
+extent of 
+intrahepatic biliary ductal dilatation for which stent 
+malfunction could be considered. 
+2. Interval decrease in size of pancreatic tail mass with 
+persistent mass 
+effect on the splenic vein. 
+3. Stable hazy soft tissue stranding posterior to the pancreatic 
+body causing 
+unchanged splenic vein narrowing. 
+4. Stable omental metastasis and moderate volume of malignant 
+ascites. 
+5. Interval increase in extent of large left pleural effusion 
+with associated complete atelectasis of the left lower lobe. 
+6. Interval increase in size of right ovarian cystic mass 
+measuring 4.0 cm, previously 3.3 cm. 
+
+CT Chest w/ contrast ___
+============================
+Final Report 
+EXAMINATION:  CT CHEST W/CONTRAST ___ 
+INDICATION:  ___ with stage IV pancreatic carcinoma c/b 
+malignant effusions, malignant ascites, PVT on rivaroxaban, and 
+CBD compression s/p metal stent (___) who presents on C1D3 of 
+her FOLFOX chemotherapy regimen with fever, tachycardia, 
+hypoxia, hypotension, confusion, ___, and hyperlactatemia c/f 
+septic shock of unclear infectious source. Eval for 
+intra-abdominal etiology to explain elevated LFTs/bili.// eval 
+of hepatic parenchyema, cause of 
+transaminitis/hyperbilirubinemia 
+  
+TECHNIQUE:   Multi-detector helical scanning of the chest, 
+coordinated with intravenous infusion of nonionic, iodinated 
+contrast agent, following oral administration of contrast agent 
+for selected abdominal studies, and/or followed by scanning of 
+the neck, was reconstructed as contiguous 5 mm and 1.0 or 1.25 
+mm thick axial, 2.5 or 5 mm thick coronal and parasagittal, and 
+8 mm MIP axial images. Concurrent scanning of the abdomen and 
+pelvis and/or neck will be reported separately. All images of 
+the chest were reviewed. 
+  
+DOSE:  Acquisition sequence: 
+   1) Sequenced Acquisition 0.5 s, 0.2 cm; CTDIvol = 7.3 mGy 
+(Body) DLP = 1.5 
+mGy-cm. 
+   2) Sequenced Acquisition 0.5 s, 0.2 cm; CTDIvol = 7.3 mGy 
+(Body) DLP = 1.5 
+mGy-cm. 
+   3) Stationary Acquisition 13.2 s, 0.2 cm; CTDIvol = 219.6 mGy 
+(Body) DLP = 
+43.9 mGy-cm. 
+   4) Spiral Acquisition 12.1 s, 64.2 cm; CTDIvol = 11.7 mGy 
+(Body) DLP = 
+751.9 mGy-cm. 
+ Total DLP (Body) = 799 mGy-cm. 
+** Note: This radiation dose report was copied from CLIP 
+___ (CT ABD AND PELVIS WITH CONTRAST) 
+  
+COMPARISON:  Chest CT ___ 
+  
+FINDINGS:  
+CHEST PERIMETER: Irregularly shaped low density region in the 
+mildly enlarged left thyroid lobe is slightly larger today than 
+in ___ and should be evaluated by ultrasound if not 
+recently performed. 
+  
+7 mm left supraclavicular lymph nodes, 05:11, 12, are new.  
+Right 
+supraclavicular and axillary lymph nodes are not enlarged. 
+  
+Breast evaluation is reserved exclusively for mammography.  No 
+soft tissue 
+abnormalities elsewhere in the chest wall.  Findings below the 
+diaphragm will be reported separately. 
+  
+CARDIO-MEDIASTINUM: Esophagus is unremarkable.  Atherosclerotic 
+calcification is mild in head and neck vessels and at least left 
+anterior descending coronary artery.  Aorta and pulmonary 
+arteries are normal size, aortic valve is not calcified.  
+Pericardium is physiologic. 
+  
+This study is not designed for definitive evaluation of 
+pulmonary circulation but clearly shows a nearly 0 clues of 
+thrombus centrally located in the are gin of the posterior basal 
+segmental artery, right lower lobe, 6:191-200, which should be 
+considered acute. 
+  
+There is also central thrombosis in the left subclavian and 
+brachiocephalic veins, 6:87-124, with no clear extension into 
+the SVC.  Central venous catheter currently extends from the 
+right internal jugular to the superior cavoatrial junction with 
+no indication of associated thrombosis. 
+  
+Pericardium is physiologic. 
+ 
+THORACIC LYMPH NODES: No lymph nodes in the chest are 
+pathologically enlarged. 
+5 mm prevascular diaphragmatic node, 05:48, was slightly smaller 
+in ___. 
+  
+LUNGS, AIRWAYS, PLEURAE: Focal lung lesions as follows: 
+Aside from moderate subpleural atelectasis, lower lobe, right 
+lung is clear. 
+  
+No appreciable right pleural effusion. 
+  
+Moderate to large dependent nonhemorrhagic left pleural 
+effusion, 5 ___, is 
+larger today than in ___ and largely responsible for 
+collapse of the left lower lobe and some of the lingula, also 
+more severe.  Pleural fluid is isointense with ascites and could 
+be secondary to it.  There is no definite pleural nodulation. 
+  
+Left bronchial tree is patent centrally, collapsed peripherally 
+in the regions of atelectasis, suggesting chronicity. 
+  
+CHEST CAGE: Although there are no bone lesions in the imaged 
+chest cage 
+suspicious for malignancy or infection, it should be noted that 
+radionuclide 
+bone and FDG PET scanning are more sensitive in detecting early 
+osseous 
+pathology than chest CT scanning. 
+  
+IMPRESSION:  
+Moderate to large left pleural effusion has increased 
+substantially since 
+___ and ___ responsible for more severe atelectasis, 
+collapsed lower left lower lobe and lingula. 
+
+ERCP ___:
+============
+Impression: Sludge extraction, cholangiogram not performed due 
+to neutropenia. No pus noted but given neutropenia this does not 
+rule out cholangitis. 
+  
+DISCHARGE
+
+___ 05:30AM BLOOD WBC-11.5* RBC-3.19* Hgb-9.1* Hct-28.2* 
+MCV-88 MCH-28.5 MCHC-32.3 RDW-19.7* RDWSD-62.3* Plt Ct-74*
+___ 05:30AM BLOOD Neuts-94* Lymphs-2* Monos-3* Eos-0* 
+___ Metas-1* AbsNeut-10.81* AbsLymp-0.23* AbsMono-0.35 
+AbsEos-0.00* AbsBaso-0.00*
+___ 05:30AM BLOOD Glucose-87 UreaN-7 Creat-0.7 Na-138 K-3.6 
+Cl-103 HCO3-24 AnGap-11
+___ 05:30AM BLOOD ALT-41* AST-16 CK(CPK)-<7* AlkPhos-201* 
+TotBili-1.8*
+ 
+Brief Hospital Course:
+___ with metastatic pancreatic CA c/b pleural effusions 
+andascites on FOLFOX, biliary obstruction s/p metal stent 
+(___), PVT on rivaroxaban, who presented on C1D3 with 
+neutropenic fever, sepsis, transaminitis, found to have high
+grade polymicrobial bacteremia, now s/p ERCP w/ sludge removal.
+
+#POLYMICROBIAL BACTEREMIA
+#CHOLANGITIS
+#SEPSIS, RESOLVED
+#NEUTROPENIC FEVERS:
+Patient was admitted to the FICU with sepsis and transaminitis 
+concerning for cholangitis. She was started on 
+vanc/cefepime/flagyl on ___ and underwent ERCP on ___ which 
+found significant biliary sludge. Following her ERCP, the 
+patient was stable and she was called out of the FICU to the 
+floor. Where she remained stable with downtrending LFTs and 
+resolution of her sepsis. Her blood cultures grew VRE (sensitive 
+to ampicillin) and Citrobacter. She was therefore transitioned 
+to Zosyn monotherapy on ___. 
+
+The patient was discharged on daptomycin 450mg IV q24H and 
+ciprofloxacin 500mg q12H PO. Patient will not need follow up 
+with ID OPAT as duration of treatment will be 2 weeks. Last day 
+of treatment ___.
+
+#SUBSEGMENTAL PE
+#LEFT SUBCLAVIAN DVT
+#PVT:
+Patient was treated with rivaroxaban for her PVT. However, she 
+had had to hold it for 2 days prior to her frequent outpatient 
+paracentesis. Upon presentation she was found to have a 
+subclavian DVT and sub segmental PEs. She was initially started 
+on a heparin gtt, however, after discussion with her oncologist, 
+this was not thought to be true treatment failure given her 
+frequent need to hold her anticoagulation. After discussion with 
+___ it was decided that the patient can hold her medication the 
+day prior and morning of her procedure. It was therefore decided 
+to continue her rivaroxaban with re-imaging to be planed as an 
+outpatient. If her clot burden seems to increase, then she will 
+be transitioned to lovenox. 
+
+Given obvious biliary source and culture data, subclavian DVT 
+unlikely to be source of prior sepsis.
+
+#MAlIGNANT ASCITES: Underwent ___ guided para on ___ with removal 
+of 4.5L. Procedure was tolerated well and she received 25g of 
+25% albumin afterward. Cell counts and gram stain not c/w SBP.
+
+#MALIGNANT PLEURAL EFFUSION (LEFT SIDED):
+Enlarged from baseline. No increased WOB or hypoxia. Given 
+stability and obvious biliary source of sepsis, there was no 
+need to investigate with thoracentesis as cause of infection. 
+
+#OROPHARYNGEAL CANDIDIASIS:
+-Nystatin PO QID (day ___
+
+#THROMBOCYTOPENIA: entering nadir from chemo
+
+#METASTATIC PANCREATIC CANCER: Currently treated with FOLFOX. 
+Will follow up with oncologist after discharge on ___
+
+>30 minutes were spent coordinating care with outpatient 
+providers, preparing paperwork and prescriptions
+
+TRANSITIONAL ISSUES:
+Please check CBC w diff, BUN/Cr and CPK at follow up oncology 
+visit on ___. Pt will need q1week labs while on daptomycin. 
+Last day of treatment ___.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Pantoprazole 40 mg PO Q12H 
+2. Rivaroxaban 20 mg PO DAILY 
+3. Vitamin D 1000 UNIT PO DAILY 
+4. Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+5. Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO BID 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*28 Tablet Refills:*0 
+2.  Daptomycin 450 mg IV Q24H 
+RX *daptomycin 500 mg 450 mg IV q24h Disp #*30 Vial Refills:*0 
+3.  Nystatin Oral Suspension 5 mL PO QID 
+RX *nystatin 100,000 unit/mL 5 ml by mouth four times a day 
+Refills:*0 
+4.  Pancrelipase 5000 1 CAP PO TID W/MEALS 
+RX *lipase-protease-amylase [Creon] 3,000 unit-9,500 unit-15,000 
+unit 1 tab-cap by mouth tid/meals Disp #*40 Capsule Refills:*0 
+5.  Senna 17.2 mg PO BID 
+RX *sennosides 8.6 mg 2 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+6.  Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+ 
+7.  Pantoprazole 40 mg PO Q12H  
+8.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line  
+9.  Rivaroxaban 20 mg PO DAILY  
+10.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+#POLYMICROBIAL BACTEREMIA
+#CHOLANGITIS
+#SEPSIS
+#NEUTROPENIC FEVERS
+#PULMONARY EMBOLISM
+#PORTAL VEIN THROMBOSIS
+#LEFT SUBCLAVIAN DEEP VEIN THROMBOSIS
+MAlIGNANT ASCITES
+MALIGNANT PLEURAL EFFUSION 
+METASTATIC PANCREATIC CANCER
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You came to the hospital to have your port evaluated. You were 
+found to have fevers and an infection of your biliary system. 
+You underwent an ERCP to clear this infection and were started 
+on IV antibiotics. You also had fluid drained from your abdomen 
+which improved your symptoms of abdominal bloating. In addition, 
+you were found to have a clot around your port which also caused 
+blood clots in your lungs. After talking to your oncologist, 
+this was thought to be due to you having you stop your 
+rivaroxaban multiple times before paracentesis rather than the 
+medication not working properly.
+
+Therefore, prior to you getting an outpatient paracentesis, 
+please hold it on the day before and the day of the procedure.
+
+We are discharging you with an IV antibiotic called daptomycin 
+in addition to an oral antibiotic called ciprofloxacin. It is 
+very important that you take these medications are prescribed.
+
+We wish you the best!
+
+Your ___ Care team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11190374-DS-24 | hadm_id=25087364
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet / milk
+ 
+Attending: ___.
+ 
+Chief Complaint:
+malaise
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+As per admitting MD
+Ms. ___ is a ___ year old female with pancreatic cancer who
+presents from clinic with general malaise.
+
+She was recently admitted from ___ with abdominal
+distention and dyspnea due to malignant ascites that improved
+after paracentesis. In addition, she was recently admitted with
+VRE/Citrobacter bacteremia due to cholangitis. She underwent 
+ERCP
+with sludge removal and recently finished a 2 week course of
+antibiotics. 
+
+Since discharge, she initially was doing well until about 1 week
+ago when she has had generalized fatigue. She says she has not
+had fevers but has noted chills and her son feels that she
+appears more ill. She is without chest pain or dyspnea. No abd
+pain. No n/v. Last BM 1 day ago.
+
+She presented to ___ clinic for follow up and her scheduled
+weekly paracentesis where she told Dr. ___ symptoms. 
+Her
+LFTs were noted to be elevated. Given this in the setting of her
+current symptoms, it was decided to admit the patient to 11R.
+
+Prior to arriving to 11R, the patient will undergo ___ guided
+paracentesis as an outpatient. 
+
+ 
+Past Medical History:
+As per admitting MD
+PAST ONCOLOGIC HISTORY:  
+- ___: Presented to ED with 6 months of worsening LLQ
+abdominal pain, weight loss (~25lbs), early satiety, abdominal
+distension, nausea, and constipation. Found to have large volume
+ascites, peritoneal carcinomatosis, and R ovarian lesion. 
+- ___: Omental biopsy and therapeutic paracentesis. Biopsy
+returns suggestive of pancreaticobiliary/upper GI primary. 
+- ___: MRCP with extensive omental and peritoneal disease
+with associated pancreatic tail mass, porta hepatis soft tissue
+mass with biliary obstruction and left portal vein partial
+thrombosis
+- ___: EGD/ERCP, pancreatic mass Bx c/w pancreatic
+adenocarcinoma. Straight uncovered metal stent placed into the
+right intrahepatic system
+- ___: C1D1 FOLFIRINOX
+- ___: Admission due to dehydration, diarrhea, fatigue,
+and overall significant toxicity from FOLFIRINOX
+- ___: C1D1 FOLFOX
+- ___: C2D1 FOLFOX
+- ___: admitted with febrile neutropenia (scheduled
+Neulasta given on day of admission), altered mental status, 
+found
+to have cholangitis and enterococcal and citrobacter bacteremia.
+ERCP ___ showed sludge but no pus, LFTs normalized after removal
+of sludge. D/c on 14 days daptomycin IV and cipro PO. CT showed
+subsegemental PE and left subclavian DVT (was on Xarelto for 
+PVT;
+however, it was held for ___ days every week for paracentesis);
+continued on Xarelto with the plan to minimize interruptions of
+anticoagulation
+- ___:  C2D15 FOLFOX
+- ___:  admitted for abdominal distention, SOB, fatigue. 
+Received paracentesis with improvement in symptoms.  
+- ___:  C3D1 FOLFOX
+- ___ and ___:  telephone calls with weakness and fatigue
+- ___:  admitted for abdominal distention, SOB, fatigue. 
+Received paracentesis with improvement in symptoms.  
+- ___:  Palliative care visit with ___.  Described
+pain in lower pelvic area and thighs and lower back thought to 
+be
+due to ascites, suggested weekly paracentesis and low-dose
+hydromorphone (0.25--0.5 PO QD/BID PRN).  Also noted anxiety and
+stress. 
+- ___ AM:  paracentesis for 4L
+
+PAST MEDICAL HISTORY:  
+-Pancreatic Cancer, as above
+-PE, subclavian DVT and PVT on rivaroxaban
+-HTN
+-polymicrobial bacteremia
+
+ 
+Social History:
+___
+Family History:
+As per admitting MD
+- Father with colon cancer in his ___
+- Sister with breast cancer in her ___
+ 
+Physical Exam:
+Admission:
+Vital Signs sheet entries for ___: 
+BP: 118/79. Heart Rate: 114. O2 Saturation%: 100. Weight: 130.
+Height: 65. BMI: 21.6. Temperature: 98.1. Resp. Rate: 16. Pain
+Score: 0. Distress Score: 0.
+GENERAL:  Lying comfortably in bed, NAD
+HEENT: Thrush noted on tongue. Moist membranes
+EYES:  PERRL, anicteric
+NECK:  supple
+RESP:  No increased WOB, CTAB. No wheezing, rhonchi or crackles
+___: Regular, no murmurs 
+GI:  Distended, non tender, no rebound or guarding
+EXT:  warm, no edema
+SKIN:  scattered ecchymosis 
+NEURO:  Alert, fluent speech. CN II-XII intact
+ACCESS:  POC c/d/I
+
+Discharge:
+GENERAL: Sitting comfortably in bed, NAD, pleasant, calm
+HEENT: Thrush noted on tongue. Moist membranes
+EYES:  PERRL, anicteric
+NECK:  supple, normal ROM
+RESP:  No increased WOB, CTAB. No wheezing, rhonchi or crackles
+___: Regular, no murmurs, normal distal perfusion without edema 
+GI:  Distended, non tender, no rebound or guarding
+EXT:  warm, no edema, no deformity
+SKIN:  warm, dry, no rash
+GU: No foley or suprapubic tenderness
+NEURO:  AOx3 fluent speech
+ACCESS:  POC c/d/I
+
+ 
+Pertinent Results:
+Admit:
+
+___ 10:00AM BLOOD WBC-12.1* RBC-3.24* Hgb-10.2* Hct-31.6* 
+MCV-98 MCH-31.5 MCHC-32.3 RDW-20.0* RDWSD-70.6* Plt ___
+___ 10:00AM BLOOD UreaN-10 Creat-0.7 Na-132* K-3.3* Cl-95* 
+HCO3-24 AnGap-13
+___ 10:00AM BLOOD ___ PTT-30.6 ___
+___ 10:00AM BLOOD ALT-122* AST-143* AlkPhos-661* 
+TotBili-2.8*
+___ 10:00AM BLOOD Albumin-2.8* Calcium-8.3* Phos-3.7 Mg-1.9
+
+DischargE:
+
+___ 05:24AM BLOOD WBC-7.5 RBC-2.98* Hgb-9.1* Hct-28.8* 
+MCV-97 MCH-30.5 MCHC-31.6* RDW-19.4* RDWSD-68.1* Plt ___
+___ 05:24AM BLOOD ___ PTT-99.4* ___
+___ 05:24AM BLOOD Glucose-90 UreaN-7 Creat-0.7 Na-137 K-4.0 
+Cl-96 HCO3-28 AnGap-13
+___ 05:24AM BLOOD ALT-66* AST-52* AlkPhos-426* TotBili-1.0
+___ 05:24AM BLOOD Calcium-8.0* Phos-4.6* Mg-2.0
+
+Micro:
+Blood/Urine Cx pending
+
+Imaging: 
+Paracentesis ___:
+Technically successful ultrasound guided therapeutic 
+paracentesis. 
+4 L of fluid were removed. 
+
+ 
+Brief Hospital Course:
+___ PMH metastatic pancreatobiliary carcinoma (omentum, 
+peritoneum, porta hepatis, pancreatic tail and right ovary), c/b 
+biliary obstruction + bacteremia (s/p ERCP/stent), PE, and 
+malignant ascites (s/p weekly paracentesis), who presented from 
+clinic with malaise and elevated LFTs suggestive of cholangitis, 
+improved on Abx without endoscopic intervention, was discharged 
+home to complete course of antibiotics
+
+#OBSTRUCTIVE JAUNDICE
+#CONCERN FOR CHOLANGITIS:
+Patient presented from clinic with malaise, chills and elevated 
+LFTs suggestive of biliary obstruction. Given history of 
+multiple episodes of cholangitis and bacteremia with VRE and 
+Citrobacter, patient was started on Zosyn and improved. 24 hrs 
+later WBC/Tbili normalized, AST/ALT downtrended. Given temporary 
+nature of lab findings and improvement with IV abx, patient may 
+have had temporary obstruction from small stone/sludge which has 
+since
+passed. During hospitalization, blood cx did not return 
+positive. 
+
+Pt therefore treated for early cholangitis, with plan for 7 day 
+course of PO antibiotics (ciprofloxacin) given negative 
+cultures. Last day ___
+
+#Malignant Ascites
+Given that patient presented with chills, malaise, leukocytosis 
+and c/f infection, would have been nice to see ascites studies, 
+but none were sent during ___ guided procedure. Patient was 
+without any abdominal symptoms though which argues against SBP 
+and was on empiric abx course as above. Ascites had 
+reaccumulated somewhat by time of discharge but was not yet in 
+need of repeat paracentesis. Patient had appt scheduled for 5 
+days later (weekly on ___ which she was encouraged to keep. 
+
+
+#Oral candidiasis
+Continue nystatin, to be re-evaluated at next onc followup to 
+ensure has completely resolved. 
+
+#Hyponatremia
+Mild, likely due to hypovolemia, resolved with albumin/IVF
+
+#Hx OF PE/DVT AND PVT: 
+On rivaroxaban at home but was on hold for possible ERCP with 
+heparin gtt in meantime. Returned to home anticoagulation on 
+discharge
+
+#Metastatic pancreatobiliary carcinoma : 
+Currently being treated with FOLFOX. Dr ___ regarding 
+discharge in case she wanted to adjust patient's followup plan.
+
+#Anemia
+Chronic, stable, near baseline. To be trended in outpatient 
+setting by oncology team.
+
+I personally spent 49 minutes preparing discharge paperwork, 
+educating patient/family, answering questions, and coordinating 
+care with outpatient providers
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Nystatin Oral Suspension 5 mL PO QID 
+2. Pancrelipase 5000 1 CAP PO TID W/MEALS 
+3. Pantoprazole 40 mg PO Q12H 
+4. Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line 
+5. Senna 17.2 mg PO BID 
+6. Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+7. Rivaroxaban 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth every twelve 
+(12) hours Disp #*8 Tablet Refills:*0 
+2.  Nystatin Oral Suspension 5 mL PO QID 
+RX *nystatin 100,000 unit/mL 5 ml by mouth four times a day 
+Refills:*0 
+3.  Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+ 
+4.  Pancrelipase 5000 1 CAP PO TID W/MEALS  
+5.  Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+6.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line  
+7.  Rivaroxaban 20 mg PO DAILY  
+8.  Senna 17.2 mg PO BID  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Cholangitis
+Biliary Obstruction
+metastatic pancreatobiliary carcinoma 
+Hx of PE
+malignant ascites
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms ___
+
+It was a pleasure taking care of you during your stay. As you 
+know, you were admitted for a possible infection of your biliary 
+system. Fortunately, with antibiotics, your labs improved and 
+you felt better. It is possible that we had caught your 
+infection early, and the sludge or small stone resolved without 
+intervention. 
+
+You should continue antibiotics on discharge for an additional 4 
+days and follow up with your oncologist. If you develop a 
+recurrence of altered mental status, fever, or are feeling 
+unwell, please return to the ER. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11190374-DS-28 | hadm_id=25172601
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___
+ 
+Chief Complaint:
+admission for chemotherapy 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+Brief Hospital Course:
+Please refer to d/c summary. She tolerated her desens well. 
+
+Re her malignant ascites, she notes inadequate relief w/ the 20 
+mg of lasix. Due to the increased ascites, we drained 7,150 ml 
+of ascites via the peritoneal catheter and gave her 50 grams of 
+IV albumin. Instructed her to hold the lasix and instead start 
+aldactone at 25 mg and her outpatient oncology team can titrate 
+up. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Pancrelipase 5000 1 CAP PO TID W/MEALS 
+2. Sulfameth/Trimethoprim DS 1 TAB PO DAILY 
+3. Rivaroxaban 20 mg PO DAILY 
+4. Pantoprazole 40 mg PO Q12H 
+5. Furosemide 20 mg PO DAILY 
+6. Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+7. Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line 
+8. Senna 17.2 mg PO BID:PRN Constipation - First Line 
+
+ 
+Discharge Medications:
+1.  Spironolactone 25 mg PO DAILY 
+RX *spironolactone 25 mg 1 tablet(s) by mouth once a day Disp 
+#*30 Tablet Refills:*0 
+2.  Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+ 
+3.  Pancrelipase 5000 1 CAP PO TID W/MEALS  
+4.  Pantoprazole 40 mg PO Q12H  
+5.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line  
+6.  Rivaroxaban 20 mg PO DAILY  
+7.  Senna 17.2 mg PO BID:PRN Constipation - First Line  
+8.  Sulfameth/Trimethoprim DS 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Metastatic pancreatic cancer
+Malignant ascites
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___
+
+___ was a pleasure caring for you in the hospital. You were 
+admitted for chemotherapy and you tolerated it well. You need to 
+return to clinic tomorrow for the remainder of the chemo.
+
+Your ___ may remove 2 liters from your peritoneal catheter at 
+home on ___, and ___. You may discuss with Dr. ___. In 
+addition, you may take a medication called Spironolactone to 
+help remove the fluid in your leg and your abdomen. You can 
+start with 25 mg once a day and review with your oncology team 
+going up to 50 mg once a day. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11190374-DS-23 | hadm_id=26843874
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet / milk
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal distention, shortness of breath and fatigue
+ 
+Major Surgical or Invasive Procedure:
+___ guided paracentesis on ___
+
+ 
+History of Present Illness:
+___ PMH metastatic pancreatic CA (c/b pleural effusions 
+and ascites on FOLFOX s/p Cycle 2), biliary obstruction (s/p
+metal stent),  DVT/PE/PVT (on rivaroxaban), who presented with
+fatigue
+
+Pt reported subacute fatigue since last admission which is
+gradually worsening.  She noted that she feels it is due to her
+reaccumulation of ascites.  Denied any abdominal pain,
+tenderness, nausea, vomiting, diarrhea.  Denied any fever,
+chills, cough, shortness of breath, dysuria, rash.  Endorsed new
+bilateral leg swelling which is atypical for her.  Denied any
+unilateral leg pain or tenderness.  Patient noted that she is
+adhered to the antibiotic schedule and has not missed any doses.
+Of note, patient had last dose of chemotherapy on ___ (C2D15
+FOLFOX) and had neulasta on pro administered on ___. 
+
+In the ED, initial vitals: 98.4 128 125/91 16 99% RA. Bedside
+ultrasound with a small pericardial effusion and large pleural
+effusions. INR 1.4, WBC 73.3, Hgb 10.4, plt 100, BNP 521, ALT
+166, AST 269, AP 458, TBili 1.0, Lip 61, CHEM wnl, Glc 230,
+Trop<0.01, Peritoneal cell count with 267 poly, protein 1.7,
+glucose 238, Lactate 2.9, 2.0 on recheck
+ 
+RUQUS:
+1. Moderate to large volume ascites.
+2. Main portal vein is patent with hepatopetal flow.
+3. CBD stent in place without evidence of intrahepatic biliary
+ductal dilation.
+
+CXR:
+Large partially layering left pleural effusion likely with
+associated compressive lower lobe atelectasis, similar to
+findings on recent CT of the chest. Port-A-Cath positioned
+appropriately. 
+
+Given pericardial effusion, ___ cardiology consulted who 
+noted
+that urgent TTE not necessary. Patient was given 500cc NS and HR
+improved. Was given morphine, albumin, and cipro then admitted
+for further care. 
+REVIEW OF SYSTEMS:  
+A complete 10-point review of systems was performed and was
+negative unless otherwise noted in the HPI. 
+ 
+PAST ONCOLOGIC HISTORY:  
+Per last clinic note by Dr ___:
+___: Presented to ED with approximately 6 months of
+worsening LLQ abdominal pain. Associated with weight loss
+(~25lbs), early satiety, abdominal distension, nausea, and
+constipation. Found to have large volume ascites, peritoneal
+carcinomatosis, and R ovarian lesion. 
+-___ Omental biopsy and therapeutic paracentesis. Biopsy
+returns suggestive of pancreaticobiliary/upper GI primary. GYN
+ONC surgery is canceled. 
+-___: MRCP - extensive omental and peritoneal disease with
+associated pancreatic tail mass,
+porta hepatis soft tissue mass with biliary obstruction and left
+portal vein partial thrombosis
+-___: EGD/ERCP + pancreatic mass biopsy consistent with
+pancreatic adenocarcinoma. Straight uncovered metal stent placed
+into the right intrahepatic system
+-___: C1D1 FOLFIRINOX
+-___: Admission due to dehydration, diarrhea, fatigue,
+and overall significant toxicity from FOLFIRINOX
+-___ C1D1 FOLFOX
+-___ C1D15 FOLFOX
+-___: C2D1 FOLFOX
+-___ admitted with febrile neutropenia (scheduled
+Neulasta given on day of admission), altered mental status, 
+found
+to have cholangitis and enterococcal and citrobacter bacteremia.
+Underwent ERCP on ___, which showed sludge but no puss in the
+setting of neutropenia. LFTs normalized after removal of sludge.
+She was discharged on daptomycin IV and cipro PO with the goal 
+to
+complete 14 days of antibiotics. Of note, CT showed 
+subsegemental
+PE and left subclavian DVT (was on Xarelto for PVT; however, it
+was held for ___ days every week for paracentesis); so she was
+continued on Xarelto with the plan to minimize interruptions of
+anticoagulation"
+
+ 
+Past Medical History:
+Pancreatic CA, as above
+PVT on rivaroxaban
+HTN
+ 
+Social History:
+___
+Family History:
+FamHx:
+- Father with colon cancer in his ___
+- Sister with breast cancer in her ___
+
+ 
+Physical Exam:
+PHYSICAL EXAM:  
+Vitals: ___ 0224 Temp: 98.1 PO BP: 132/85 R Sitting HR: 108
+RR: 20 O2 sat: 93% O2 delivery: RA Dyspnea: 0 RASS: +1 Pain
+Score: ___  
+GENERAL: sitting in bed, appears in NAD, calm
+EYES: PERRLA, anicteric
+HEENT: Thrush, dry MM
+NECK:  supple, normal ROM
+LUNGS:  CTA b/l but decreased breath sounds globally on left,
+speaks in full sentences but with mild labor
+CV: RRR, no murmur, has 2+ peripheral edema
+ABD: soft, distended, + ascites, dull to percussion, hypoactive
+BS, no rebound/tenderness/guarding
+GENITOURINARY: no foley
+EXT:  warm, no deformity, decreased muscle bulk
+SKIN:  warm, dry, no rash
+NEURO:  AOx3, fluent speech
+ACCESS:PORt dressing c/d/i
+ 
+Pertinent Results:
+ADMISSION LABS:  
+___ 05:35PM BLOOD WBC: 73.3* RBC: 3.49* Hgb: 10.4* Hct:
+33.0* MCV: 95 MCH: 29.8 MCHC: 31.5* RDW: 22.0* RDWSD: 74.4* Plt
+Ct: 100* 
+___ 05:35PM BLOOD Neuts: 98* Lymphs: 2* Monos: 0* Eos: 0*
+Baso: 0 AbsNeut: 71.83* AbsLymp: 1.47 AbsMono: 0.00* AbsEos:
+0.00* AbsBaso: 0.00* 
+___ 05:35PM BLOOD Glucose: 230* UreaN: 12 Creat: 0.6 Na: 
+137
+K: 4.6 Cl: 99 HCO3: 24 AnGap: 14 
+___ 05:35PM BLOOD ALT: 166* AST: 269* AlkPhos: 458* 
+TotBili:
+1.0 
+___ 05:35PM BLOOD Lipase: 61* 
+___ 05:35PM BLOOD proBNP: 521* 
+___ 05:35PM BLOOD cTropnT: <0.01 
+___ 05:35PM BLOOD Albumin: 3.0* Calcium: 8.4 Phos: 2.7 Mg:
+2.0 
+
+MICROBIOLOGY:  
+___
+18:50 BLOOD CULTURE
+Blood Culture, Routine  (Pending) 
+  
+___
+18:35 BLOOD CULTURE
+Blood Culture, Routine  (Pending) 
+  
+___
+17:47 PERITONEAL FLUID
+ PERITONEAL FLUID
+GRAM STAIN
+1+ (<1 per 1000X FIELD): /POLYMORPHONUCLEAR LEUKOCYTES
+NO MICROORGANISMS SEEN 
+FLUID CULTURE 
+ANAEROBIC CULTURE 
+
+STUDIES:  
+EKG: 
+Sinus tachycardia, no STEMI, poor Rwave progression, stable
+compared to prior
+
+RUQUS:
+1. Moderate to large volume ascites.
+2. Main portal vein is patent with hepatopetal flow.
+3. CBD stent in place without evidence of intrahepatic biliary
+ductal dilation.
+
+CXR:
+Large partially layering left pleural effusion likely with
+associated compressive lower lobe atelectasis, similar to
+findings on recent CT of the chest. Port-A-Cath positioned
+appropriately. 
+ 
+Brief Hospital Course:
+___ PMH metastatic pancreatic CA (c/b pleural effusions 
+and ascites on FOLFOX s/p Cycle 2), biliary obstruction (s/p
+metal stent),  DVT/PE/PVT (on rivaroxaban), who presented with
+fatigue and dyspnea I/s/o abdominal distention. 
+
+#Fatigue
+#Malignant ascites
+Likely related to recent chemotherapy and respiratory compromise 
+caused by reaccumulation of malignant ascites. Pt gets 
+outpatient paras approximately every 2 weeks. Number of 
+neutrophils on peritoneal sample decreased compared to prior, 
+and no abdominal pain/tenderness arguing against SBP. No fever 
+to suggest infection. CXR negative for infiltrate. Patient felt 
+breathing and energy was much improved after her paracentesis. 
+___ was not consulted as the patient was ambulating 
+independently. 
+
+#Mild Lower extremity swelling
+Patient presented with b/l leg swelling, has hx of PVT but RUQUS
+showed no recurrence. Given new finding, and elevated BNP, TTE 
+was ordered but EF was preserved at 67% with no evidence of 
+major valvular/diastolic dysfunction. Cr was normal as well. 
+Held diuresis on day of paracentesis, restarted on discharge.
+
+#Leukocytosis
+Likely related to neulasta onpro placed on ___. Less likely 
+infection given lack of localizing symptoms
+
+#Thrombocytopenia (nadir 50 on ___
+HIT score calculates intermediate probability of HIT however 
+after speaking with oncologist it was felt that plt drop is more 
+likely related to chemotherapy. 
+
+#Recent VRE/Citrobacter Bacteremia
+On last admission had bacteremia as a result of cholangitis and
+was s/p ERCP with sludge removal. PEr ID, to be treated with 2
+week course of Abx ending ___.  We continue dapto/cipro for an 
+addition 48 hrs until Cx clearly
+demonstrate no recurrence
+
+#Thrush
+Continued nystatin 
+
+#Metastatic Pancreatic Cancer
+S/p C2 FOLFOX with neulasta support just days prior to 
+admission. Dr ___.
+
+#Transaminitis
+ALT 166, AST191, LD 518, ALP 328 Tbili 1.0
+Fluctuating since ___, with rising AP concerning for possible
+disease progression as RUQUS showed CBD stent in place without 
+evidence of intrahepatic biliary ductal  dilation. 
+
+#PVT/DVT/PE Hx
+Switched rivaroxaban to heparin gtt in preparation for ___
+paracentesis. Switched back to rivaroxaban the next day as PLT 
+count was low. No bleeding events.
+
+OUTSTANDING ISSUES
+[ ] recheck PLTs, WBC and LFTs, ensure stability
+
+>30 min spent on discharge planning including face to face time
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+2. Pantoprazole 40 mg PO Q12H 
+3. Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line 
+4. Rivaroxaban 20 mg PO DAILY 
+5. Ciprofloxacin HCl 500 mg PO BID 
+6. Nystatin Oral Suspension 5 mL PO QID 
+7. Pancrelipase 5000 1 CAP PO TID W/MEALS 
+8. Senna 17.2 mg PO BID 
+9. Daptomycin 450 mg IV Q24H 
+
+ 
+Discharge Medications:
+1.  Nystatin Oral Suspension 5 mL PO QID  
+2.  Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+ 
+3.  Pancrelipase 5000 1 CAP PO TID W/MEALS  
+4.  Pantoprazole 40 mg PO Q12H  
+5.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line  
+6.  Rivaroxaban 20 mg PO DAILY  
+7.  Senna 17.2 mg PO BID  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Large Volume Ascites
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with fatigue and shortness of 
+breath. We performed a paracentesis and this relieved your 
+shortness of breath. Please follow up at your regularly 
+scheduled paracentesis appointments.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11190374-DS-29 | hadm_id=28459319
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___
+ 
+Chief Complaint:
+admission for desens
+ 
+Major Surgical or Invasive Procedure:
+Peritoneal catheter drained 3,150 ml
+ 
+Brief Hospital Course:
+Please refer to admission note for further details. Pt was 
+admitted for desens which she tolerated well. She notes she has 
+not been instructed to take ceterizine prior to this desens so 
+has not taken it w/o adverse events. She was asked to f/u with 
+OT for her fingertip neuropathy. She has large volume ascites 
+which improved on this admit, removing 3,150 ml prior to 
+cramping and was stopped. We continued her home medications and 
+renewed bactrim. 
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Metastatic pancreatobiliary ca
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___
+
+___ was a pleasure caring for you in the hospital. You were 
+admitted for chemotherapy and you tolerated it well. You need to 
+return to clinic tomorrow for the remainder of the chemo. Your 
+___ may remove 2 liters from your peritoneal catheter at home on 
+___, and ___. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11190374-DS-19 | hadm_id=29648903
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Percocet / milk
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal distention
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+HPI: ___ G1P1 who presents to the ED with abdominal distension,
+bloating, early satiety, and 20 lb weight loss. She reports she
+first experienced abdominal pain in ___ that lasted until
+early ___. She saw her PCP several times who thought it was
+likely bloating from GI issues. Pain went away in ___, when
+she started noticing some abdominal distension. She reports
+decreased appetite since around that same time with a 20 lb
+weight loss. She initially thought weight loss was d/t change in
+diet given constipation. 
+
+She denies any associated chest pain or shortness of breath. She
+denies fevers, chills, dysuria. Intermittent constipation. She
+denies any abdominal vaginal discharge. 
+
+ROS: all systems negative unless noted above
+
+ 
+Past Medical History:
+PMH: hypertension
+PSH: arm surgery 
+
+ 
+Social History:
+___
+Family History:
+FamHx:
+- Father with colon cancer in his ___
+- Sister with breast cancer in her ___
+
+ 
+Physical Exam:
+On admission:
+T 98.2  HR 80-101  BP 141/87  RR 16  (&% RA
+Gen: A&O, comfortable
+CV: RRR
+PULM: CTAB, crackles at bases b/l 
+Abd: soft, significantly distended, nontender, no rebound or
+guarding. No masses palpated. 
+Bimanual: Exam limited by ascites. Nontender, no adnexal masses
+palpated. 
+Spec: nl external genitalia, atrophic vaginal epithelium,
+physiologic mucous, nl appearing cervix. 
+Ext: no calf tenderness
+ 
+
+On discharge:
+24 HR Data (last updated ___ @ 517)
+    Temp: 97.7 (Tm 97.7), BP: 140/78 (140-147/76-78), HR: 88
+(86-88), RR: 18, O2 sat: 95% (93-95), O2 delivery: RA
+Fluid Balance (last updated ___ @ 518)
+  Last 8 hours  Total cumulative 0ml
+    IN: Total 0ml
+    OUT:  Total 0ml, Urine Amt 0ml
+  Last 24 hours  Total cumulative 0ml
+    IN: Total 0ml
+    OUT:  Total 0ml, Urine Amt 0ml
+
+General: NAD, comfortable
+CV: RRR
+Lungs: CTAB
+Abdomen: soft, moderately distended, non tender, faint bowel
+sounds. 
+Extremities: no edema, no TTP, pneumoboots in place bilaterally 
+ 
+Pertinent Results:
+___ 06:15AM BLOOD WBC-4.8 RBC-4.30 Hgb-12.0 Hct-37.7 MCV-88 
+MCH-27.9 MCHC-31.8* RDW-12.7 RDWSD-40.2 Plt ___
+___ 11:30AM BLOOD WBC-6.0 RBC-4.71 Hgb-13.2 Hct-42.4 MCV-90 
+MCH-28.0 MCHC-31.1* RDW-12.8 RDWSD-42.2 Plt ___
+___ 06:15AM BLOOD ___ PTT-27.7 ___
+___ 06:15AM BLOOD Glucose-97 UreaN-6 Creat-0.7 Na-140 K-4.1 
+Cl-102 HCO3-27 AnGap-11
+___ 11:30AM BLOOD Glucose-121* UreaN-7 Creat-0.8 Na-143 
+K-4.6 Cl-104 HCO3-28 AnGap-11
+___ 06:15AM BLOOD Calcium-8.8 Phos-4.2 Mg-2.0
+___ 11:30AM BLOOD CEA-1.4 CA125-826*
+
+CT A/P (___)
+IMPRESSION: 
+1. Large volume abdominopelvic ascites with an ill-defined right 
+ovarian 
+cystic mass measuring up to 3.1 cm concerning for ovarian 
+malignancy.  This is associated with peritoneal/omental 
+nodularity suspicious for peritoneal carcinomatosis. 
+2. Severe attenuation of the splenic vein with extensive splenic 
+and gastric varices. 
+3. Moderate left and trace right pleural effusions. 
+
+CT CHEST (___)
+IMPRESSION: 
+1. Solitary 7 mm subpleural pulmonary nodule along the anterior 
+aspect of the right upper lobe.  Continued close attention on 
+follow-up imaging is 
+recommended. 
+2. Moderate sized left pleural effusion and small right pleural 
+effusion, with mild adjacent compressive atelectasis. 
+3. 8 mm hypodense nodule within the left thyroid lobe.  No 
+further imaging 
+necessary at this time, as per the ACR guidelines included 
+below. 
+4. Partially visualized upper abdomen demonstrating large volume 
+ascites 
+fluid.  Please see dedicated report of CT abdomen/pelvis 
+performed on ___ for complete description of subdiaphragmatic 
+findings. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old who presented to the emergency 
+department on ___ for abdominal pain and who was found to have, 
+on CT abdomen/pelvis imaging, ascites, bilateral pleural 
+effusions, right sided ovarian lesions concerning for malignancy 
+of gynecologic origin.
+
+Patient was subsequently admitted to the gynecology oncology 
+service for further management of her ascites and pain. She 
+received IV morphine and Tylenol for her pain. Her CA 125 was 
+found to be elevated at 829. Her CEA was within normal limits. 
+She was made NPO at midnight for possible ___ guided therapeutic 
+drainage and omental biopsy. On ___, she underwent a CT of 
+the chest that showed a solitary 7 mm subpleural pulmonary 
+nodule along the anterior aspect of the  right upper lobe as 
+well as a moderatlye sized left pleural effusion and small right 
+pleural effusion, with  mild adjacent compressive atelectasis. 
+It also noted an 8 mm hypodense nodule within the left thyroid 
+lobe as well as a partially visualized upper abdomen 
+demonstrating large volume ascites fluid. 
+
+In the afternoon of ___, patient was in stable condition 
+with improved pain. Given her stable vitals and overall improved 
+disposition, patient was deemed stable for discharge to home 
+with plan for outpatient paracentesis. She was thus discharged 
+to home with this plan and with gynecology oncology follow up. 
+ 
+Medications on Admission:
+losartan, vit D
+
+ 
+Discharge Medications:
+1.  Losartan Potassium 25 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+ascites
+right ovarian lesion 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted to the gynecology service due to a new finding 
+of an ovarian lesion and ascites. You underwent imaging and 
+labwork. Recommendation was made for paracentesis (removing the 
+fluid) and biopsy (tissue sample). This will take place 
+outpatient.
+
+Call your doctor at ___ for:  
+* fever > 100.4  
+* severe abdominal pain  
+* difficulty urinating  
+* vaginal bleeding requiring >1 pad/hr  
+* abnormal vaginal discharge  
+* redness or drainage from incision  
+* nausea/vomiting where you are unable to keep down fluids/food 
+or your medication  
+* chest pain or difficulty breathing 
+* onset of any concerning symptoms 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,791 @@
+===== DISCHARGE NOTE =====
+note_id=10285646-DS-20 | hadm_id=23194424
+
+ 
+Name:  ___             ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+gliclazide
+ 
+Attending: ___.
+ 
+Chief Complaint:
+transferred from renal outpatient for UTI
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+HPI: ___ M with PMH Type II DM2, HLD, CKD with multiple recent 
+hospitalizations in ___ for allergic reaction to 
+gliclazide and lower extremity skin infections related to 
+diabetes s/p skin grafts is admitted from ___ clinic for UTI 
+with resistance to many antibiotics and ___. He denies taking 
+NSAIDs, has been eating and drinking well recently. Reports some 
+dysuria recently. Was seen by renal on the ___ told to start 
+cipro which he did not start.
+
+ 
+Past Medical History:
+DMII
+HTN
+remote PUD
+RLE incisions 26 days prior to admission
+
+ 
+Social History:
+___
+Family History:
+Father with extensive smoking history, died of lung cancer
+Mother currently living, ___ y/o, episodes of gout.
+Denies DM, HTN, CAD, MI, stroke, or other cancer.
+ 
+Physical Exam:
+admission
+Vitals:  98 143/81 81 18 100%RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: dopplerable pulses, 3 skin grafts on R lower extremety and 
+one on left lower extremity
+
+d/c
+Vitals:  98.2 152/91 79 20 99%RA
+exam unchanged
+ 
+Pertinent Results:
+___ 08:15PM BLOOD Glucose-130* UreaN-51* Creat-2.8* Na-136 
+K-4.6 Cl-105 HCO3-22 AnGap-14
+___ 07:35AM BLOOD Glucose-103* UreaN-48* Creat-2.3* Na-138 
+K-4.6 Cl-106 HCO3-22 AnGap-15
+___ 04:20PM BLOOD Glucose-161* UreaN-46* Creat-2.2* Na-134 
+K-4.7 Cl-105 HCO3-21* AnGap-13
+___ 07:20AM BLOOD Glucose-97 UreaN-45* Creat-2.2* Na-138 
+K-4.9 Cl-105 HCO3-22 AnGap-16
+___ 08:15PM BLOOD WBC-6.3 RBC-2.73* Hgb-8.4* Hct-25.6* 
+MCV-94 MCH-30.6 MCHC-32.7 RDW-14.8 Plt ___
+___ 07:35AM BLOOD WBC-4.5 RBC-2.60* Hgb-7.7* Hct-23.6* 
+MCV-91 MCH-29.7 MCHC-32.7 RDW-14.8 Plt ___
+___ 07:20AM BLOOD WBC-5.4 RBC-2.88* Hgb-8.5* Hct-26.4* 
+MCV-92 MCH-29.7 MCHC-32.4 RDW-14.7 Plt ___ urine culture    URINE CULTURE (Preliminary): 
+      GRAM NEGATIVE ROD(S).    10,000-100,000 ORGANISMS/ML.. 
+  URINE CULTURE (Final ___: 
+      ___.    >100,000 ORGANISMS/ML.. 
+         Piperacillin/tazobactam sensitivity testing available 
+on request. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ___
+                             |   
+AMIKACIN--------------     4 S
+CEFEPIME--------------     4 S
+CEFTAZIDIME-----------     4 S
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------   128 R
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----  =>16 R
+
+URINE CULTURE (Final ___: 
+      ___.    10,000-100,000 ORGANISMS/ML.. 
+         Piperacillin/tazobactam sensitivity testing available 
+on request. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ___
+                             |   
+AMIKACIN--------------     4 S
+CEFEPIME--------------  =>___ R
+CEFTAZIDIME-----------     8 I
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------   0.5 S
+NITROFURANTOIN--------   256 R
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----  =>16 R
+
+ 
+Brief Hospital Course:
+___ h/o DM2, hyperlipidemia, a recent allergic reaction to  
+sulfonylurea in ___, and right lower extremity infections 
+ 
+requiring skin grafts about a month ago, was admitted from ___ 
+clinic for UTI that was resistant to many antibiotics and ___.  
+
+#UTI: Urine culture from ___ grew morganella ___, 
+susceptibility results show resistance to ceftriaxone, cipro, 
+gent, tobra, nitrofurontoin, tobra, bactrum. Patient was satrted 
+on cefepime on ___ and this was continued till ___ when 
+urine cultures from ___ came back showing resistance to 
+cefapime and only sensitive to meropenem and amikacin. Patient 
+was discharged with follow up at infusion clinic for ertapenem 
+infusions for 7 days. Renal team was consulted and they did not 
+want patient with a PICC because patient will likely need 
+dialysis eventually. Patient was asymptomatic during admission 
+and had no fever or chills and normal WBC.
+
+# Acute on chronic renal failure: Pt was admitted with Scr 2.6 
+elevated from most recent baseline of 2.1. Renal was consulted 
+while patient was here and they recommended giving IVF. After 
+giving 2 L of IVF  his Scr went from 2.6 -->2.2. Given that 
+patient's Scr improved with IVF it is likely pt was pre-renal 
+volume down, despite the fact that pt and son felt he had been 
+eating well. Patient will follow up with ___ clinic in the 
+next ___ weeks. Concern is that his Scr has gotten worse over 
+the past few months (again his Scr was 1.2 in ___ and now 2.2). 
+This is likely progression of his CKD.    
+
+#Normocytic Anemia: Per OMR notes he has been worked up for this 
+in the past and has had guaiac neg stools and was dx with anemia 
+of chronic disease (though it is unclear what his chronic 
+disease is, perhaps DM?). It is also possible that bc of CKD he 
+has low epo which is causing low Hb. Hb on day of discharge 8.5. 
+
+
+#HTN: -continued labetalol twice a day.  
+
+#s/p lower ext skin infections requiring skin grafts. Wound care 
+was consulted and they recommended: daily dressing changes with 
+Xeroform to right leg
+graft sites which was done while in house.
+
+TRANSIATIONAL ISSUES:
+#UTI: ___ 7 days
+#Acute on chronic kidney disease: pt will follow up in ___ 
+clinic
+#Anemia: it may be worthwhile continuing an anemia workup
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Nephrocaps 1 CAP PO DAILY 
+2. Labetalol 200 mg PO BID 
+please hold for SBP<100 HR <60 
+3. Simvastatin 20 mg PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+5. Acetaminophen 500 mg PO Q6H:PRN pain 
+6. Glargine 12 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Medications:
+1. ertiperem for 7 days at ___
+2. Acetaminophen 500 mg PO Q6H:PRN pain 
+3. Aspirin 81 mg PO DAILY 
+4. Glargine 12 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+5. Labetalol 200 mg PO BID 
+please hold for SBP<100 HR <60 
+6. Nephrocaps 1 CAP PO DAILY 
+7. Simvastatin 20 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+___
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You came to the hospital because you have a urinary tract 
+infection that requires intravenous antibiotics. We gave you 
+intravenous antibiotics and also monitored your kidney function. 
+We feel you may have been a bit dehydrated and IV fluids helped 
+your kidney function.
+
+We would like for you to follow up with the ___ 
+every day until ___ which will be your last day of 
+antibiotics.
+
+Other than going to the ___ antibiotis we did 
+not change any of your home medications. Please continue to take 
+your home insulin the way you had been taking it before coming 
+to the hospital.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10285646-DS-19 | hadm_id=25555841
+
+ 
+Name:  ___             ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: PLASTIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right lower extremity chronic wounds.
+ 
+Major Surgical or Invasive Procedure:
+___
+1. Irrigation, debridement and surgical preparation of right 
+lower extremity wounds:
+    a.    Lateral thigh wound.
+    b.    Medial lower leg wound.
+    c.    Lower lateral leg wound.
+2. Placement of split-thickness skin graft 13:1000 of an inch, 
+236 square cm.  Two areas in total.
+3. Placement of VAC sponge.
+
+ 
+History of Present Illness:
+___ y/o male with DM and HTN presents with chronic wounds after 
+OSH fasciectomies along lateral thigh and lateral and medial 
+leg.  Patient reports a drug reaction occurring 5 months ago 
+causing a chronic dermatitis.  In ___, patient developed a small 
+draining wound on the posterior aspect of his right leg. Patient 
+then traveled to ___, where he was involved in a motor 
+vehicle accident.  Subsequent to the motor vehicle accident, 
+patient underwent an unspecified procedure to "drain wound."  He 
+developed the chronic wounds and was treated for 26 days as an 
+inpatient in ___.  Patient was cleared medically to 
+travel back to the ___ on ___.  Patient presented to ___ on 
+___ for his large wound. The plastic surgery service was 
+consulted and deemed that STSG would be appropriate as an 
+elective procedure, which he presents for.
+ 
+Past Medical History:
+DMII
+HTN
+remote PUD
+RLE incisions 26 days prior to admission
+
+ 
+Social History:
+___
+Family History:
+Father with extensive smoking history, died of lung cancer
+Mother currently living, ___ y/o, episodes of gout.
+Denies DM, HTN, CAD, MI, stroke, or other cancer.
+ 
+Physical Exam:
+Admission Physical Exam:
+General:  well-nourished, well-developed, no acute distress
+Vitals
+Right Lower Extremity: Chronic fasciotomy wounds along right 
+lateral thigh, right lateral and medial-posterior leg.  
+Granulation tissue at bases. No erythema.
+.
+Discharge Physical Examination:
+General:  well-nourished, well-developed, no acute distress
+Vitals:
+Right Lower Extremity: skin grafts in place over lateral thigh 
+and medial and lateral leg.
+
+ 
+Pertinent Results:
+___ 09:30AM BLOOD Glucose-260* UreaN-35* Creat-1.7* Na-132* 
+K-5.1 Cl-101 HCO3-23 AnGap-13
+___ 09:30AM BLOOD WBC-5.2 RBC-2.81* Hgb-8.3* Hct-25.4* 
+MCV-91 MCH-29.6 MCHC-32.7 RDW-14.2 Plt ___
+___ 04:00PM URINE RBC-<1 WBC-4 Bacteri-FEW Yeast-NONE 
+Epi-<1
+___ 04:00PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-SM 
+___ 04:00PM URINE Color-Straw Appear-Clear Sp ___
+.
+___ 1:53 pm URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+
+ 
+Brief Hospital Course:
+The patient was admitted to the plastic surgery service on 
+___ with right lower extremity chronic wounds. Patient was 
+taken to the operating room and underwent split thickness skin 
+grafts to the right lower extremity wounds. Patient tolerated 
+the procedure without difficulty and was transferred to the 
+PACU, then the floor in stable condition. Please see operative 
+report for full details.
+.
+Neuro: The patient received oxycodone with good effect and 
+adequate pain control.
+.
+CV: The patient was stable from a cardiovascular standpoint; 
+vital signs were routinely monitored.
+.
+Pulmonary: The patient was stable from a pulmonary standpoint; 
+vital signs were routinely monitored.
+.
+GI/GU: A diabetic po diet was tolerated well and a Nutrition 
+consult was ordered to help educate patient on diabetic diet 
+while also maximizing nutritional intake. Patient was also 
+started on a bowel regimen to encourage bowel movement. Intake 
+and output were closely monitored.
+.
+Endocrine:  Patient's glucoses were initially labile early on 
+during the hospitalization.  Blood glucoses ranged from 23 to 
+395.  The ___ was consulted for glucose 
+management, and their recommendations were instituted with good 
+result.  Patient's blood glucoses were subsequently better 
+controlled.  Patient was educated on new regimen incorporating 
+standing doses of Lantus and Humalog as well as sliding scale.  
+He will be followed by ___ for management of diabetes and CRI 
+when discharged home.
+.
+ID: The patient's temperature was closely watched for signs of 
+infection.  Patient remained on ciprofloxacin throughout the 
+hospitalization as pathogen directed therapy from tissue 
+cultures obtained when patient first presented.  The patient's 
+wound vacs remained on with good seal for 5 days after the 
+operation.  They were taken down 5 days after placement.  At 
+that time, the skin grafts appeared to have incorporated well 
+into the surrounding tissue with 100% take.
+.
+Prophylaxis: The patient received subcutaneous heparin during 
+this stay,
+.
+At the time of discharge on POD#6, the patient was doing well, 
+afebrile with stable vital signs, tolerating a regular diabetic 
+diet, ambulating with crutches and right AFO splint, voiding 
+without assistance, and pain was well controlled. All questions 
+were answered, and patient has appropriate follow-up care.
+ 
+Medications on Admission:
+Aspirin 81 mg PO DAILY 
+Simvastatin 10 mg PO DAILY 
+Labetalol 200 mg PO BID 
+Glargine 16 Units Bedtime
+OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+Acetaminophen 650 mg PO Q6H:PRN pain 
+ 
+Discharge Medications:
+1. Nephrocaps 1 CAP PO DAILY 
+RX *B complex-vitamin C-folic acid [Nephrocaps] 1 mg 1 
+capsule(s) by mouth once a day Disp #*30 Capsule Refills:*2
+2. Simvastatin 10 mg PO DAILY 
+3. Labetalol 200 mg PO BID 
+4. Acetaminophen 650 mg PO Q6H:PRN fever/pain 
+5. Glargine 12 Units Breakfast
+Humalog 5 Units Breakfast
+Humalog 5 Units Lunch
+Humalog 5 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+RX *insulin glargine [Lantus] 100 unit/mL  12 Units before BKFT; 
+Disp #*1 Vial Refills:*1
+RX *insulin lispro [Humalog] 100 unit/mL Up to 5 Units  per 
+sliding scale 4 Units before LNCH; Units  per sliding scale 4 
+Units before DINR; Units  per sliding scale four times a day 
+Disp #*1 Vial Refills:*1
+6. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*30 Tablet Refills:*0
+7. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*30 Capsule Refills:*0
+8. Xeroform Petrolatum Dressing *NF* (bismuth 
+tribrom-petrolatum,wh) 5 X 9  Topical QD 
+Apply to skin graft sites once daily. 
+RX *bismuth tribrom-petrolatum,wh [Xeroform Petrolatum Dressing] 
+5" X 9" Apply to skin graft sites once a day Disp #*20 Each 
+Refills:*1
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Right lower extremity with multiple open wounds.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid 
+(crutches)
+
+ 
+Discharge Instructions:
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=10285646-DS-18 | hadm_id=28963208
+
+ 
+Name:  ___             ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Leg incisions
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+Mr. ___ is a very pleasant ___ y/o M with PMH of DMII and HTN 
+who presented to the ED for evaluation of 3 right lower 
+extremity chronic surgical incisions. He reports that 
+approximately 5 months ago he developed a disseminated pruritic 
+skin rash after exposure to Diamecron. The rash resolved after 
+stopping this medication, but a pustule remained on his RLE. 
+This was seen by Dr. ___ reportedly appeared to be 
+healing. The patient returned to ___, where on ___ he 
+was in a minor car accident that caused mild trauma to his right 
+knee. He was able to walk without any discomfort from this 
+accident. However, after several days he began to lose his 
+apetite, feel somewhat fatigued, and developed some RLE 
+discomfort in the area of the knee. By this time, the pustule 
+had finally just resolved. He received 3 shots of procaine into 
+the knee at a small island and returned to the main island for 
+further care but went home after feeling significantly improved. 
+However, over the next 4 days he developed RLE pain and had 
+difficulty walking. At this point, significant swelling had 
+developed in the leg and at the hospital it was incised in an 
+effort to "drain pus underneath the skin". He received 
+antibiotics, twice daily dressing changes, and around ___ was 
+cleared to travel to the ___ for further care.
+On arrival to the ED (now 26 days s/p incisions), vitals were 
+98.0 106 158/83 18 100%. ED attending undressed wounds and 
+reported presence of pus. Evaluated by plastic surgery in the ED 
+who felt wounds were clean, though given ED concern decision 
+made to admit for further care and potential general surgery 
+debridement if needed. He received a dose of vanc and unasyn as 
+well as 1 dose hydromorphone.
+Currently, the patient is very comfortable and without any 
+complaints. He denies fever, chills, night sweats, headache, 
+vision changes, rhinorrhea, congestion, sore throat, cough, 
+shortness of breath, chest pain, abdominal pain, nausea, 
+vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, 
+hematuria.
+He reports very mild urinary discomfort recently, and a U/A in 
+the ED revealed 30 protein but only 2 WBCs, 1 Epi, neg leuk and 
+neg nitr. Of note, lactate 2.9 and Cr 2.1 from baseline around 
+1.2.
+ 
+Past Medical History:
+DMII
+HTN
+remote PUD
+RLE incisions 26 days prior to admission
+
+ 
+Social History:
+___
+Family History:
+Father with extensive smoking history, died of lung cancer
+Mother currently living, ___ y/o, episodes of gout.
+Denies DM, HTN, CAD, MI, stroke, or other cancer.
+ 
+Physical Exam:
+Admission Physical Exam:
+VS - 98.0 152/88 81 18 100%RA
+GENERAL - Well-appearing, well-developed M in NAD appearing 
+stated age. AAOx3. 2 sons in room assisting with translation.
+HEENT - NC/AT, PERRL, EOMI, sclerae anicteric, mucus membranes 
+slightly dry, OP clear
+NECK - supple, no thyromegaly, no JVD, no carotid bruits
+LUNGS - Lungs are clear to ausculatation bilaterally, moving air 
+well and symmetrically, resp unlabored, no accessory muscle use
+HEART - PMI non-displaced, RRR, S1-S2 clear and of good quality 
+without murmurs, rubs or gallops
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no 
+rebound/guarding
+EXTREMITIES - slightly cool to the touch, no c/c/e, 2+ radial, 
+1+ DP pulses. RLE with 3 large full-thickness incisions on 
+thigh, medial calf, and lateral calf. No erythema, minimal 
+induration near distal lateral aspect of right thigh wound. No 
+tenderness to palpation on thigh and lateral calf wound. Minimal 
+tenderness to palpation on medial calf which also contains some 
+yellow-gray granulation tissue. Minimal serous drainage present.
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout.
+
+Discharge Physical Exam:
+VITAL SIGNS: 99.6 84 126/64 16 97% RA
+GENERAL: NAD. Sister was present in room.
+HEENT - NC/AT, PERRL, EOMI, sclerae anicteric, mucus membranes 
+slightly dry, OP clear
+HEART - RRR, nl S1-S2. no murmurs, rubs or gallops  
+LUNGS - Lungs are clear to ausculatation bilaterally
+ABDOMEN - +BS, soft, NT/ND, no HSM.
+EXTREMITIES - no c/c/e, 3 right lower extremity full thickness 
+lesions with wound vac applied.  
+NEURO -  A&Ox3. CNs II-XII grossly intact, muscle strength ___ 
+throughout, sensation grossly intact throughout.
+ 
+Pertinent Results:
+Admission Labs:
+___ 02:00PM BLOOD WBC-6.9 RBC-3.11* Hgb-8.9* Hct-27.6* 
+MCV-89 MCH-28.6 MCHC-32.2 RDW-14.5 Plt ___
+___ 02:00PM BLOOD ___ PTT-27.7 ___
+___ 02:00PM BLOOD Glucose-181* UreaN-37* Creat-2.1* Na-133 
+K-4.9 Cl-98 HCO3-24 AnGap-16
+___ 01:21PM BLOOD Lactate-2.9*
+
+Interim Labs:
+___ 05:55PM BLOOD VitB12-809 Folate-6.9 Hapto-443*
+___ 08:40AM BLOOD calTIBC-225* Ferritn-563* TRF-173*
+___ 05:55PM BLOOD ALT-13 AST-17 LD(LDH)-159 AlkPhos-67 
+TotBili-0.2
+___ 08:40AM BLOOD Albumin-3.0* Calcium-8.8 Phos-3.8 Mg-1.6 
+Iron-52
+___ 07:15AM BLOOD WBC-5.3 RBC-2.93* Hgb-8.4* Hct-26.0* 
+MCV-89 MCH-28.6 MCHC-32.3 RDW-14.6 Plt ___
+___ 07:15AM BLOOD Ret Aut-1.9
+___ 07:15AM BLOOD Glucose-151* UreaN-29* Creat-1.7* Na-136 
+K-5.2* Cl-102 HCO3-23 AnGap-16
+___ 07:15AM BLOOD Calcium-8.8 Phos-4.7* Mg-1.6
+___ 07:45AM BLOOD Ret Aut-1.9
+___ 07:40AM BLOOD WBC-5.4 RBC-2.41* Hgb-7.4* Hct-21.3* 
+MCV-89 MCH-30.9 MCHC-34.9 RDW-14.9 Plt ___
+___ 07:40AM BLOOD Glucose-172* UreaN-30* Creat-1.8* Na-133 
+K-4.4 Cl-102 HCO3-25 AnGap-10
+___ 07:40AM BLOOD Calcium-8.2* Phos-4.1 Mg-1.7
+___ 07:40AM BLOOD WBC-5.3 RBC-2.22* Hgb-6.6* Hct-19.7* 
+MCV-89 MCH-29.5 MCHC-33.3 RDW-15.1 Plt ___
+___ 07:40AM BLOOD Glucose-110* UreaN-33* Creat-2.1* Na-135 
+K-5.0 Cl-102 HCO3-25 AnGap-13
+___ 07:40AM BLOOD Calcium-8.2* Phos-4.6* Mg-1.8
+___ 11:30AM BLOOD Lactate-1.3
+.
+Urine:
+___ 06:20PM URINE Color-Yellow Appear-Clear Sp ___
+___ 06:20PM URINE Blood-NEG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+___ 06:20PM URINE CastHy-11*
+___ 06:00PM URINE Hours-RANDOM Na-77 K-51 Cl-77
+.
+___ 06:20PM URINE Color-Straw Appear-Clear Sp ___
+___ 06:20PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG 
+Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 04:08AM URINE Osmolal-387
+___ 04:08AM URINE Hours-RANDOM UreaN-582 Creat-69 Na-49 
+K-34 Cl-41
+___ 06:20PM URINE Eos-POSITIVE  
+.
+Micro:
+___ 12:41 pm SWAB      Source: thigh wound. 
+
+                            **FINAL REPORT ___
+
+   WOUND CULTURE (Final ___: 
+      PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH. 
+         Piperacillin/Tazobactam sensitivity testing performed 
+by ___
+         ___. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |   
+CEFEPIME--------------    32 R
+CEFTAZIDIME-----------  =>64 R
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----       R
+TOBRAMYCIN------------   <=1 S
+.
+Discharge Labs:
+___ 07:30AM BLOOD WBC-6.5 RBC-2.99*# Hgb-8.7*# Hct-26.8*# 
+MCV-89 MCH-29.2 MCHC-32.7 RDW-15.1 Plt ___
+___ 07:30AM BLOOD Plt ___
+___ 07:30AM BLOOD Glucose-113* UreaN-31* Creat-2.1* Na-135 
+K-5.1 Cl-101 HCO3-26 AnGap-13
+___ 07:30AM BLOOD Calcium-8.5 Phos-5.2* Mg-1.___ y/o M s/p 3 large RLE faciotomy lesions in ___ in 
+early ___ without signs of active infection.
+
+Active Problems:
+# RLE Wounds: Patient was involved in an MVA in ___ in 
+___ and have 3 right lower extremity fasciotomy wounds. 
+Plastic surgery consulted. Per recommendation patient maintained 
+on BID wet to dry dressing changes. Obtained wound vac for 
+patient on ___ and will require dressing to be change every 3 
+days. While there was a would culture positive for pseduomonas, 
+the wound did not appear infected. Patient was afebrile, with no 
+elevation of white counts during the hospital stay. Plastic 
+surgery will follow the patient as outpatient. 
+
+# Acute vs chronic kidney injury: Creatinine elevated to 2.1 
+from 1.2 in ___ records from ___ showed he had a mild 
+___ after surgery with Cr 1.3-1.4 range.  Etiology likely to be 
+chronic renal failure due to insults received in ___.  Cr 
+remained elevated despite hydration.  While urine smear showed 
+rare eosinophils, microscopic review with renal did not show 
+significant number of white cells therefore not indicative of 
+AIN.  Patient will follow up with renal as outpatient.
+
+# Anemia:  On admission Hct 27.6 from 40.9 in ___. This was 
+not significantly different from patient's Hct after the 
+procedure in ___. Iron studies showed anemia of chronic 
+inflammation. Guiac test negative. No bleeding source suspected. 
+His Hct trended down to 19.7 on ___ and was transfused 2 units 
+pRBC. 
+
+# Diabetes Mellitus: Metformin was discontinued given patient's 
+renal function. Patient's blood sugar became well controlled on 
+Insulin and he will be discharged home on insulin glargine.
+
+Transitional:
+- please repeat Hct at next follow up appointment (___)
+- wound vac dressing change every 3 days
+- We send the patient home with just insulin glargine. He will 
+likely need a sliding scale also.
+
+Medication changes:
+Started:
+Acetaminophen 650mg every 6 hrs as needed for your pain.
+Oxycodone 5mg every 4 hrs as needed for pain. Please try the 
+Acetaminophen for your pain fist. 
+Insulin for your diabetes. 16 units of insulin glargine at 
+bedtime
+Labetalol 200mg twice a day for your high blood pressure
+.
+Stopped:
+Metformin because of your decreased kidney function.
+Lisinopril because of your decreased kidney function
+
+ 
+Medications on Admission:
+Preadmissions medications listed are incomplete and require 
+futher investigation.  Information was obtained from 
+PatientFamily/Caregiver.
+1. MetFORMIN (Glucophage) 850 mg PO TID 
+2. Lisinopril 5 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Simvastatin 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Simvastatin 10 mg PO DAILY 
+RX *simvastatin 10 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*1
+3. Labetalol 200 mg PO BID 
+Please hold for SBP < 100 or HR< 60 
+RX *labetalol 200 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*2
+RX *labetalol 200 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*1
+4. Glargine 16 Units Bedtime
+RX *insulin glargine [Lantus Solostar] 100 unit/mL (3 mL)  16 
+Units before BED; Disp #*1 Cartridge Refills:*4
+RX *insulin lispro [Humalog KwikPen] 100 unit/mL Up to 12 Units  
+per sliding scale four times a day Disp #*1 Cartridge Refills:*4
+RX *insulin syringe-needle U-100 [Insulin Syringe] 30 gauge x 
+___ inject subcutaneously once daily Disp #*100 Syringe 
+Refills:*1
+5. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+Please try tylenol first. ___ give this if more than mild 
+discomfort. Please hold for over-sedation or RR<12 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0
+6. Acetaminophen 650 mg PO Q6H:PRN pain 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth every six (6) 
+hours Disp #*90 Tablet Refills:*2
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+fasciotomy wound care
+kidney injury
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___, 
+
+It was a pleasure taking care of you at the ___. You were 
+admitted for your right leg wounds, anemia and acute kidney 
+injury. 
+
+Plastic surgery was consulted and will continue to work with you 
+as an outpatient. Please follow up with them at the appointed 
+times below. We were able to get a wound vac for your leg and 
+the dressing will need to be changed every 3 days. Please follow 
+up at ___ your dressing changes. 
+
+Your kidney injury has been stable during this hospital stay. 
+Please continue to drink lots of water and follow up with renal 
+as an outpatient. 
+
+Your diabetes was difficult to control during this stay. We had 
+to stop your metformin because of your kidney injuries and start 
+you on insulin. Please continue to take your insulin glargine 
+the evenings and humalog during the day.
+
+Medication changes
+Started:
+Acetaminophen 650mg every 6 hrs as needed for your pain.
+Oxycodone 5mg every 4 hrs as needed for pain. Please try the 
+Acetaminophen for your pain fist. 
+Insulin for your diabetes. 16 units of insulin glargine at 
+bedtime and use the sliding scale during the day with meals. 
+Labetalol 200mg twice a day for your high blood pressure
+Stopped:
+Metformin because of your decreased kidney function.
+Lisinopril because of your decreased kidney function
+
+Please drink GLUCERNA SHAKES ___ times a day because nutrition 
+will help heal your wounds!
+
+Be sure to bring all of your woundcare supplies to your 
+dressing-change sessions at ___.
+ 
+Followup Instructions:
+___
