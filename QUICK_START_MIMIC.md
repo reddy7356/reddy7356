@@ -27,7 +27,7 @@ python mimic_query_cli.py "hypertension" --categories "diagnoses,vitals"
 source .venv/bin/activate
 python mimic_web_interface.py
 
-# Then open browser to: http://localhost:5000
+# Then open browser to: http://localhost:8080
 ```
 
 ### 3. **Interactive Mode**

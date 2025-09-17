@@ -43,7 +43,7 @@ python mimic_query_cli.py --interactive
 
 ```bash
 python mimic_web_interface.py
-# Open browser to: http://localhost:5000
+# Open browser to: http://localhost:8080
 ```
 
 #### Python API

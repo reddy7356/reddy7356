@@ -429,5 +429,5 @@ if __name__ == '__main__':
         f.write(html_template)
     
     print("Starting MIMIC IV Patient Query Web Interface...")
-    print("Open your browser and go to: http://localhost:5000")
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    print("Open your browser and go to: http://localhost:8080")
+    app.run(debug=True, host='0.0.0.0', port=8080)

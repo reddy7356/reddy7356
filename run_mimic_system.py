@@ -32,7 +32,7 @@ def main():
     
     elif args.mode == 'web':
         print("Starting web interface...")
-        print("Open your browser to: http://localhost:5000")
+        print("Open your browser to: http://localhost:8080")
         subprocess.run(['python', 'mimic_web_interface.py'])
     
     elif args.mode == 'examples':
